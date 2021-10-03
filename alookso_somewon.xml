@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alook.so/users/8Ogtna</id>
+    <title>alookso ─ 윤성원</title>
+    <updated>2021-10-03T19:22:38.291Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[지금 이 상황은 오징어 게임의 승리일까, 넷플릭스의 승리일까?]]></title>
+        <id>https://alook.so/posts/ZktaBV</id>
+        <link href="https://alook.so/posts/ZktaBV"/>
+        <updated>2021-10-03T19:22:28.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/ZktaBV">지금 이 상황은 오징어 게임의 승리일까, 넷플릭스의 승리일까? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[창업 전후로 참고하면 좋을 책 33권 추천]]></title>
+        <id>https://alook.so/posts/3wtEDY</id>
+        <link href="https://alook.so/posts/3wtEDY"/>
+        <updated>2021-10-03T19:22:28.879Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtEDY">창업 전후로 참고하면 좋을 책 33권 추천</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소(alookso)의 도전을 무한히 리스펙하는 이유]]></title>
+        <id>https://alook.so/posts/Batak4</id>
+        <link href="https://alook.so/posts/Batak4"/>
+        <updated>2021-10-03T19:22:28.883Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batak4">얼룩소(alookso)의 도전을 무한히 리스펙하는 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['오징어 게임'의 전 세계적인 흥행, 어떻게 봐야 할까요?]]></title>
+        <id>https://alook.so/posts/QnjtDB</id>
+        <link href="https://alook.so/posts/QnjtDB"/>
+        <updated>2021-10-03T19:22:28.884Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/QnjtDB">'오징어 게임'의 전 세계적인 흥행, 어떻게 봐야 할까요?</a>]]></content>
+    </entry>
+</feed>
