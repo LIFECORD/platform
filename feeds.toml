@@ -21,3 +21,11 @@ entrySelector = "//section[1]/section/div/div/div/h5"
 titleSelector = "//a"
 linkSelector = "//a"
 waitUntil = "networkidle"
+
+[alookso_sooyoung]
+title = "alookso ─ 윤수영"
+url = "https://alook.so/users/xwVtDZe"
+entrySelector = "//section[1]/section/div/div/div/h5"
+titleSelector = "//a"
+linkSelector = "//a"
+waitUntil = "networkidle"
