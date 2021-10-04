@@ -5,6 +5,7 @@ entrySelector = "//section[1]/section/div/div/div/h5"
 titleSelector = "//a"
 linkSelector = "//a"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [alookso_somewon]
 title = "alookso ─ 윤성원"
@@ -13,6 +14,7 @@ entrySelector = "//section[1]/section/div/div/div/h5"
 titleSelector = "//a"
 linkSelector = "//a"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [alookso_showdam]
 title = "alookso ─ 조소담"
@@ -21,11 +23,13 @@ entrySelector = "//section[1]/section/div/div/div/h5"
 titleSelector = "//a"
 linkSelector = "//a"
 waitUntil = "networkidle"
+onFail = "stale"
 
 [alookso_sooyoung]
 title = "alookso ─ 윤수영"
-url = "https://alook.so/users/xwVtDZe"
+url = "https://alook.so/users/xwVtDZ"
 entrySelector = "//section[1]/section/div/div/div/h5"
 titleSelector = "//a"
 linkSelector = "//a"
 waitUntil = "networkidle"
+onFail = "stale"
