@@ -10,3 +10,5 @@ https://lifecord.github.io/platform/all.xml
 - 조소담: https://lifecord.github.io/platform/alookso_showdam.xml
 - 윤수영: https://lifecord.github.io/platform/alookso_sooyoung.xml
 - 이재웅: https://lifecord.github.io/platform/alookso_soventure.xml
+
+## [Premium](https://github.com/LIFECORD/premium)
