@@ -2,6 +2,11 @@
 https://lifecord.github.io/platform/all.xml
 
 ## [GeekNews](https://github.com/LIFECORD/geeknews)
+https://lifecord.github.io/geeknews/all.xml
+- Newest: https://lifecord.github.io/geeknews/new.xml
+- Ask: https://lifecord.github.io/geeknews/ask.xml
+- Show: https://lifecord.github.io/geeknews/show.xml
+- Weekly: https://lifecord.github.io/geeknews/weekly.xml
 
 ## Alookso
 - 얼룩소: https://lifecord.github.io/platform/alookso_alookso.xml
@@ -12,3 +17,9 @@ https://lifecord.github.io/platform/all.xml
 - 이재웅: https://lifecord.github.io/platform/alookso_soventure.xml
 
 ## [Premium](https://github.com/LIFECORD/premium)
+https://lifecord.github.io/premium/all.xml
+- https://lifecord.github.io/premium/publy.xml
+- https://lifecord.github.io/premium/folin.xml
+- https://lifecord.github.io/premium/bookjournalism.xml
+- https://lifecord.github.io/premium/longblack.xml
+- https://lifecord.github.io/premium/careet.xml
