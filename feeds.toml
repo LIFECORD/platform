@@ -1,3 +1,12 @@
+[alookso_alookso]
+title = "alookso ─ alookso"
+url = "https://alook.so/users/x4WtnB"
+entrySelector = "//section[1]/section/div/div/div/h5"
+titleSelector = "//a"
+linkSelector = "//a"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [alookso_gwanyul]
 title = "alookso ─ 천관율"
 url = "https://alook.so/users/8letPq"
