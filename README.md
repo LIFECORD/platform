@@ -1,6 +1,8 @@
 # Platform
 https://lifecord.github.io/platform/all.xml
 
+## [GeekNews](https://github.com/LIFECORD/geeknews)
+
 ## Alookso
 - 천관율: https://lifecord.github.io/platform/alookso_gwanyul.xml
 - 윤성원: https://lifecord.github.io/platform/alookso_somewon.xml
