@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://alook.so/users/x4WtnB</id>
+    <title>alookso ─ alookso</title>
+    <updated>2021-10-04T01:35:27.021Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘에디터픽’을 소개합니다]]></title>
+        <id>https://alook.so/posts/Djt3xZ</id>
+        <link href="https://alook.so/posts/Djt3xZ"/>
+        <updated>2021-10-04T01:34:44.572Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3xZ">‘에디터픽’을 소개합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루 100명에게 1만원... 어떤 글이 받아갔나요?]]></title>
+        <id>https://alook.so/posts/yEtEna</id>
+        <link href="https://alook.so/posts/yEtEna"/>
+        <updated>2021-10-04T01:34:44.574Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEna">하루 100명에게 1만원... 어떤 글이 받아갔나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘구독’ 기능으로 빠르고 편하게 새 글을 만나보세요!]]></title>
+        <id>https://alook.so/posts/AlatBL</id>
+        <link href="https://alook.so/posts/AlatBL"/>
+        <updated>2021-10-04T01:34:44.576Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/AlatBL">‘구독’ 기능으로 빠르고 편하게 새 글을 만나보세요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[70일 실험의 둘째 날 아침입니다]]></title>
+        <id>https://alook.so/posts/Q1Rtmv</id>
+        <link href="https://alook.so/posts/Q1Rtmv"/>
+        <updated>2021-10-04T01:34:44.576Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Q1Rtmv">70일 실험의 둘째 날 아침입니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것은 10주 동안 진행되는 실험입니다]]></title>
+        <id>https://alook.so/posts/Alatd2</id>
+        <link href="https://alook.so/posts/Alatd2"/>
+        <updated>2021-10-04T01:34:44.577Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Alatd2">이것은 10주 동안 진행되는 실험입니다</a>]]></content>
+    </entry>
+</feed>
