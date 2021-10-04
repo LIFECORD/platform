@@ -1,4 +1,5 @@
-# PLatform
+# Platform
+https://lifecord.github.io/platform/all.xml
 
 ## Alookso
 - 천관율: https://lifecord.github.io/platform/alookso_gwanyul.xml
