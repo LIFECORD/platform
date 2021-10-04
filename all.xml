@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-04T00:46:47.188Z</updated>
+    <updated>2021-10-04T00:48:43.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[트럼프와 트위터 - 표현의 자유와 그 한계의 문제 (alookso ─ 천관율)]]></title>
@@ -94,5 +94,19 @@
         <link href="https://alook.so/posts/NkZtjm"/>
         <updated>2021-10-04T00:46:45.703Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/NkZtjm">아 큰일났다 어떡하지</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요? (alookso ─ 이재웅)]]></title>
+        <id>https://alook.so/posts/QeVtBj</id>
+        <link href="https://alook.so/posts/QeVtBj"/>
+        <updated>2021-10-04T00:48:42.913Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/QeVtBj">일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래의 일자리에 대한 팟캐스트 추천 (alookso ─ 이재웅)]]></title>
+        <id>https://alook.so/posts/N2xtYZ</id>
+        <link href="https://alook.so/posts/N2xtYZ"/>
+        <updated>2021-10-04T00:48:42.914Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/N2xtYZ">미래의 일자리에 대한 팟캐스트 추천</a>]]></content>
     </entry>
 </feed>
