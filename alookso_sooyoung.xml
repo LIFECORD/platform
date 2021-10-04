@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://alook.so/users/xwVtDZe</id>
+    <id>https://alook.so/users/xwVtDZ</id>
     <title>alookso ─ 윤수영</title>
-    <updated>2021-10-03T19:25:01.374Z</updated>
+    <updated>2021-10-04T00:46:47.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[기후 위기 관련해서 도대체 무슨 말을 믿어야 할까]]></title>
+        <id>https://alook.so/posts/APvtDZ</id>
+        <link href="https://alook.so/posts/APvtDZ"/>
+        <updated>2021-10-04T00:46:45.702Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/APvtDZ">기후 위기 관련해서 도대체 무슨 말을 믿어야 할까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아 큰일났다 어떡하지]]></title>
+        <id>https://alook.so/posts/NkZtjm</id>
+        <link href="https://alook.so/posts/NkZtjm"/>
+        <updated>2021-10-04T00:46:45.703Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/NkZtjm">아 큰일났다 어떡하지</a>]]></content>
+    </entry>
 </feed>
