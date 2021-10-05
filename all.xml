@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-04T17:47:02.038Z</updated>
+    <updated>2021-10-05T05:39:12.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[프로젝트 alookso가 (       ) 얼룩커를 추천합니다 (alookso ─ alookso)]]></title>
+        <id>https://alook.so/posts/J5tOBw</id>
+        <link href="https://alook.so/posts/J5tOBw"/>
+        <updated>2021-10-05T05:38:31.203Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOBw">프로젝트 alookso가 (       ) 얼룩커를 추천합니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘에디터픽’을 소개합니다 (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/Djt3xZ</id>
