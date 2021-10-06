@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-06T05:39:34.010Z</updated>
+    <updated>2021-10-06T17:43:32.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[새로운 토픽 다섯 개가 생겼어요 (alookso ─ alookso)]]></title>
@@ -73,6 +73,13 @@
         <link href="https://alook.so/posts/Qmbt3O"/>
         <updated>2021-10-03T19:22:20.972Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Qmbt3O">매일 글을 쓰다 보면 무슨 일인가는 반드시 일어난다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰 (alookso ─ 윤성원)]]></title>
+        <id>https://alook.so/posts/dzt2Ow</id>
+        <link href="https://alook.so/posts/dzt2Ow"/>
+        <updated>2021-10-06T17:43:08.789Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2Ow">최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지금 이 상황은 오징어 게임의 승리일까, 넷플릭스의 승리일까? (alookso ─ 윤성원)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8Ogtna</id>
     <title>alookso ─ 윤성원</title>
-    <updated>2021-10-06T05:39:34.013Z</updated>
+    <updated>2021-10-06T17:43:32.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰]]></title>
+        <id>https://alook.so/posts/dzt2Ow</id>
+        <link href="https://alook.so/posts/dzt2Ow"/>
+        <updated>2021-10-06T17:43:08.789Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2Ow">최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금 이 상황은 오징어 게임의 승리일까, 넷플릭스의 승리일까?]]></title>
         <id>https://alook.so/posts/ZktaBV</id>
