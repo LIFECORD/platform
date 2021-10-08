@@ -51,3 +51,12 @@ titleSelector = "//a"
 linkSelector = "//a"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[alookso_yozoh]
+title = "alookso ─ 신요조"
+url = "https://alook.so/users/8Ogtd9"
+entrySelector = "//section[1]/section/div/div/div/h5"
+titleSelector = "//a"
+linkSelector = "//a"
+waitUntil = "networkidle"
+onFail = "stale"
