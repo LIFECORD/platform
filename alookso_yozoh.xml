@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8Ogtd9</id>
     <title>alookso ─ 신요조</title>
-    <updated>2021-10-08T02:14:52.971Z</updated>
+    <updated>2021-10-08T02:45:34.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -10,6 +10,10 @@
         <id>https://alook.so/posts/70tkvR</id>
         <link href="https://alook.so/posts/70tkvR"/>
         <updated>2021-10-08T02:13:59.859Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tkvR">나를 괴롭히는 책들</a>]]></content>
+        <content type="html"><![CDATA[<span>책방을 운영하고 있다보면 원없이 책을 읽을 수 있어서 좋겠다는 말을 종종 듣습니다.
+<br>저도 사실은 그럴 줄 알고 책방을 시작했는데… 책방을 하고나서는 일을 하느라 읽고 싶은 책을 더 못읽게 되고 말았습니다. 아마 저 뿐 아니라 출판사든 방송국이든 책을 매일 만지고 다루는 분들은 어쩐지 모두 비슷한 고민을 하시지 않을까 짐작해보는데요. 책은 자신을 싫어하는 사람보다 좋아하는 사람에게 더 가혹한 물건 같습니다. 
+<br>요즘 저를 괴롭히고 있는 책들을 소개해드리고 싶어요. 너무 읽고 싶은데 바빠서 못읽고 있는 책이에요.
+<br>&nbsp;
+<br>앤 카슨의 신간 &lt;짧은 이야기들&gt;, &lt;유리, 아이러니 그리고 신&gt; 이 얼마전 함께 선보였습니다. 서울에서 책방을 운영할 때 &lt;남편의 아름다움&gt;을 얼마나 많이 영업(?)했는지 몰라요. 이렇게 두 권의 책이 한번에 나와주다니 너무 신나서 안절부절입니다. 그 뿐 아니라, 마음산책 출판사의 ‘말’ 시리즈에서는 &lt;뒤라스의 말&gt; 이 출간되...</span>]]></content>
     </entry>
 </feed>

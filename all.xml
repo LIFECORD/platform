@@ -2,195 +2,1251 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-08T02:14:52.968Z</updated>
+    <updated>2021-10-08T02:45:34.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[새로운 토픽 다섯 개가 생겼어요 (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/WLt5P0</id>
         <link href="https://alook.so/posts/WLt5P0"/>
         <updated>2021-10-06T05:38:53.359Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5P0">새로운 토픽 다섯 개가 생겼어요</a>]]></content>
+        <content type="html"><![CDATA[<span>프로젝트 alookso입니다.</span><br>
+<br>
+<span>한 주 동안 예상을 뛰어넘는 성원을 보내주신 덕분에 alookso 식구들 모두 정신없는 나날을 보내고 있습니다(지난 주말이 사흘 연휴였다는 소문이 있던데, 소문이겠죠 설마).</span><br>
+<br>
+<span>프로젝트 alookso가 한국 사회에 중요하다고 생각하는 질문 44개를 드리고 출발한 건 알고 계시지요? 저희는 그걸 ‘토픽’이라고 부릅니다. 어떤 토픽에서는 뜨거운 토론이 이어지고, 또 어떤 토픽에서는 진솔한 글에 공감이 쏟아집니다. 물론 잠잠한 토픽도 있지요.</span><br>
+<br>
+<span>지금 있는 토픽에서는 더는 쓸 말이 없으신가요? 프로젝트 alookso가 새로운 토픽 다섯 개를 오늘 공개합니다.</span><br>
+<br>
+<span>🔍내 직업, 추천하나요 비추하나요?
+<br>다른 직업 사람들은 모르는, 나만 아는 나의 일 이야기를 들려주세요. 추천하는 이유 비추하는 이유도 좋지만, 당신의 일 이야기가 가장 궁금합니다!</span><br>
+<br>
+<span>🔍‘오늘’ 가장 기억에 남는 뉴스?
+<br>세상 돌아가는 이야기도 해봐야죠! 오늘은 무슨 일이 가장 뜨거운가요? 얼룩커들...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 alookso가 (       ) 얼룩커를 추천합니다 (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/J5tOBw</id>
         <link href="https://alook.so/posts/J5tOBw"/>
         <updated>2021-10-05T05:38:31.203Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOBw">프로젝트 alookso가 (       ) 얼룩커를 추천합니다</a>]]></content>
+        <content type="html"><![CDATA[<span>안녕하세요, 프로젝트 alookso입니다.</span><br>
+<br>
+<span>어제부터 프로젝트 alookso에 '에디터 픽'이 공개되기 시작했습니다! '함께 나누고 싶은 글'을 에디터 픽으로 선정합니다. 에디터 픽으로 새로운 얼룩커를 발견했나요? '구독'으로 편리하게 받아볼 수도 있답니다.</span><br>
+<br>
+<span>오늘은 여러분께 특별한 얼룩커들을 소개합니다.</span><br>
+<br>
+<span>참여가 세상과 만나는 경험이 되도록, 프로젝트 alookso는 특별한 얼룩커들을 초대했습니다. 자기 전문 분야에서 최고의 읽을거리를 소개하고, 지금 꼭 필요한 질문들을 함께 던질 분들입니다.</span><br>
+<br>
+<span>(그리고 여전히 초대중이랍니다! alookso에서 함께 이야기하고 싶은 얼룩커가 있다면 답글로 알려주세요.)</span><br>
+<br>
+<span>alookso를 더욱 풍성하게 해줄 얼룩커들을 아래에 소개합니다. 글을 바로 읽을 수 있도록, 링크를 달아둡니다.</span><br>
+<br>
+<span>김소영</span><br>
+<br>
+<span>남궁민</span><br>
+<br>
+<span>별샛별</span><br>
+<br>
+<span>윤수영</span><br>
+<br>
+<span>이상민</span><br>
+<br>
+<span>임명묵</span><br>
+<br>
+<span>장영욱</span><br>
+<br>
+<span>장혜영</span><br>
+<br>
+<span>정경선정주식</span><br>
+<br>
+<span>조소담</span><br>
+<br>
+<span>채상욱</span><br>
+<br>
+<span>천현우</span><br>
+<br>
+<span>Somewon Yoon
+<br>...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘에디터픽’을 소개합니다 (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/Djt3xZ</id>
         <link href="https://alook.so/posts/Djt3xZ"/>
         <updated>2021-10-04T01:34:44.572Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3xZ">‘에디터픽’을 소개합니다</a>]]></content>
+        <content type="html"><![CDATA[<span>‘에디터픽’을 소개합니다.</span><br>
+<br>
+<span>프로젝트 alookso입니다. 좋은 글, 정성 가득한 글, 새로운 생각을 자극하는 글이 저희 예상보다 훨씬 빠르게 쏟아지고 있습니다. 글이 올라오는 속도가 너무 빨라서, 천천히 읽고 싶은 좋은 글이 조용히 묻혀서 아쉬우셨나요?</span><br>
+<br>
+<span>프로젝트 alookso가 오늘부터 ‘에디터픽’을 공개합니다. 선정된 글은 홈 화면에 걸리고, 글쓴이에게 20만원이 지급됩니다. 공지가 아닌 글은 홈 화면에서 읽으려면 회원 가입과 로그인이 필요합니다.</span><br>
+<br>
+<span>오늘의 에디터픽은 4편입니다. 오늘 오전 10시부터 세 시간마다 한 편씩 공개됩니다.</span><br>
+<br>
+<span>에디터픽은 ‘함께 나누고 싶은 글’입니다. 어떤 글은 생각하지 못했던 새로운 통찰을 줘서, 어떤 글은 문장이 아름다워서, 어떤 글은 진솔한 자기 이야기로 공감을 줘서, 어떤 글은 좋은 질문을 던져 활발한 토론이 일어나서, 또 어떤 글은 프로젝트 alookso의 실험에 신선한 방식으로 기여해서, 함께 나누고 싶은 글로 선정됩니다.</span><br>
+<br>
+<span>에...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하루 100명에게 1만원... 어떤 글이 받아갔나요? (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/yEtEna</id>
         <link href="https://alook.so/posts/yEtEna"/>
         <updated>2021-10-04T01:34:44.574Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEna">하루 100명에게 1만원... 어떤 글이 받아갔나요?</a>]]></content>
+        <content type="html"><![CDATA[<span>벌써 눈치챈 얼룩커도 있을 텐데요. 오늘부터 '얼룩커 픽'이라는 배지가 붙은 글이 보입니다. 글쓰기 보상 1만원이 지급된 글이라는 뜻인데요. 오픈 첫날 올라온 글 549개 가운데 100편이 선정됐습니다. 얼룩커 여러분들이 직접 뽑았다 하여 '얼룩커 픽'이라고 부릅니다. 100명에게는 아래와 같이 이메일 안내를 드렸습니다.</span><br>
+<br>
+<span>선정 기준은 간단합니다. 하루 동안 '좋아요'가 많은 순서대로 100개를 뽑습니다. 단, 좋아요를 최소 3개를 받아야 지급 대상이 됩니다. 좋아요가 많은 글을 여러 번 쓴 얼룩커라 할지라도 당일 좋아요 수가 가장 많은 글 1개만 대상이 됩니다.</span><br>
+<br>
+<span>보상은 주 단위로 정산해 계좌로 넣어드립니다. 선정된 얼룩커에게 메일을 드리면 안내 절차에 따라 보상 지급을 위해 필요한 정보를 알려주세요. 확인 후 일주일 이내 처리하도록 최선을 다하겠습니다. 보상에 대해 더 자세히 보려면 ‘자주하는 질문’을 읽어주세요!</span><br>
+<br>
+<span>보상 대상에서 제외되는 글도 있습니다. 프로젝트 ...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘구독’ 기능으로 빠르고 편하게 새 글을 만나보세요! (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/AlatBL</id>
         <link href="https://alook.so/posts/AlatBL"/>
         <updated>2021-10-04T01:34:44.576Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/AlatBL">‘구독’ 기능으로 빠르고 편하게 새 글을 만나보세요!</a>]]></content>
+        <content type="html"><![CDATA[<span>프로젝트 alookso. 24시간이 지났습니다. 여러분은 프로젝트 alookso와 어떤 하루를 보내셨는지 정말 궁금합니다. 새로운 글을 쓰셨나요? 답글과 댓글도 달아보셨나요? 좋은 글을 만났다면 잊지 말고 좋아요를 선물하세요. 좋아요가 많은 글은 ‘얼룩커 픽’으로 선정되어 보상을 받아가거든요.</span><br>
+<br>
+<span>쏟아지는 글 사이에서 뭐부터 읽어야 할지 막막하신가요? 다음 이야기가 궁금해지는 얼룩커를 만났는데, 언제 새 글을 쓸지 궁금하신가요? '구독'을 통해 빠르고 편하게 소식을 받아보세요!</span><br>
+<br>
+<span>마음에 드는 얼룩커의 계정에 가서 '구독하기'를 눌러보세요. 구독 페이지에서 한눈에 확인할 수 있습니다. 새로운 의제를 제시하는 '닷페이스'의 조소담 님은 어떤가요? 독서모임을 비즈니스로 만든 ‘트레바리’의 윤수영 님은요? alookso 계정을 구독하면 프로젝트 alookso만의 콘텐츠를 빠르게 만날 수 있습니다.</span><br>
+<br>
+<span>프로젝트 alookso는 다채로운 이야기를 만나고, 서로 구독을 통해 응원을 보내...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[70일 실험의 둘째 날 아침입니다 (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/Q1Rtmv</id>
         <link href="https://alook.so/posts/Q1Rtmv"/>
         <updated>2021-10-04T01:34:44.576Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Q1Rtmv">70일 실험의 둘째 날 아침입니다</a>]]></content>
+        <content type="html"><![CDATA[<span>프로젝트 alookso입니다.&nbsp;</span><br>
+<br>
+<span>어제는 alookso 멤버들 모두에게 정신없는 하루였습니다. 시작 전에 했던 예상이 완전히 빗나갔거든요.</span><br>
+<br>
+<span>‘프로젝트 alookso 사용설명서’를 기억하시나요? 글쓰기 보상 규칙을 말씀드리면서 저희는 이렇게 설명했습니다. “하루에 글이 100개가 안 되는 날은 좋아요 3개를 넘긴 글을 쓴 모든 분께 드립니다.”</span><br>
+<br>
+<span>네, 저희는 한동안은 하루에 글이 100개가 안 될 거로 생각했습니다. 낯선 플랫폼입니다. 글쓰기는 원래 어렵습니다. 50글자를 넘겨 달라는 조건, 질문을 골라 달라는 조건, 다 까다롭습니다. 저희가 준비한 질문도 가볍다고는 못하지요.</span><br>
+<br>
+<span>결과는 이랬습니다. 어제 올라온 글은 549개입니다. alookso 멤버들은 예상을 훨씬 뛰어넘어 쏟아지는 글들을 읽느라 예정된 업무가 전부 뒤로 밀렸습니다. 아니 다들 그동안 손이 근질거려서 어떻게 참으셨나요?</span><br>
+<br>
+<span>글쓰기 보상으로 1만원을 받는 첫 100명이 나왔습니다. 축하드립니다! 100명에게는 메...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이것은 10주 동안 진행되는 실험입니다 (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/Alatd2</id>
         <link href="https://alook.so/posts/Alatd2"/>
         <updated>2021-10-04T01:34:44.577Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Alatd2">이것은 10주 동안 진행되는 실험입니다</a>]]></content>
+        <content type="html"><![CDATA[<span>이것은 10주 동안 진행되는 실험입니다.</span><br>
+<br>
+<span>1.
+<br>50글자만 넘겨주세요.
+<br>&nbsp;
+<br>글을 올린 100명에게 1만원씩, 매일 드립니다. 저희는 프로젝트 alookso입니다. 이용자들은 매일 보상을 받아갈 수 있고, 보상을 받아갈 100명을 직접 선택할 수 있습니다.</span><br>
+<br>
+<span>참여하는 방법은 이렇습니다. 프로젝트 alookso는 지금 한국 사회에서 중요하다고 생각하는 질문 44개를 마련했습니다. 당신이 아이디어를 남기고 싶은 질문을 골라주세요. 마음에 드는 질문이 없나요? 직접 질문을 생성하실 수 있습니다.</span><br>
+<br>
+<span>질문을 고르셨습니까? 이제 아이디어를 남겨주세요. 경험 많고, 글 잘 쓰고, 굉장한 학식이 있는 사람만 쓰냐고요? 아닙니다. 고민, 푸념, 한탄, 질문, 토론 제안, 좋은 글 가져와 나누기… 모든 종류의 아이디어를 환영합니다. 50글자를 넘겨야 글쓰기 등록이 됩니다. 50글자는 프로젝트 alookso가 생각하는 ‘아이디어의 최소단위’입니다. 좋아요 3개를 넘기면 보상 대상이 됩니다....</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (alookso ─ 천관율)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-10-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>저는 씁니다. 보상이 사라져도 아무 차이 없이 씁니다.</span><br>
+<br>
+<span>저는 직원이라고 지금도 안주거든요(...)</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[cnn 인터뷰 당해본 썰 (alookso ─ 천관율)]]></title>
         <id>https://alook.so/posts/w9tpMe</id>
         <link href="https://alook.so/posts/w9tpMe"/>
         <updated>2021-10-05T17:44:14.295Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpMe">cnn 인터뷰 당해본 썰</a>]]></content>
+        <content type="html"><![CDATA[<span>1.</span><br>
+<br>
+<span>도대체 왜 한국은 손가락 모양으로 나라가 뒤집히는가. 페미니즘은 어쩌다가 f-word가 되었나. 한국의 젊은 남자들에게 무슨 일이 일어난 걸까. 요즘 이거 안 다루는 외신이 없다. 심지어 외교안보 매체인 포린폴리시에 이 책 내용이 고스란히 진출하기도(...) cnn도 궁금했던 모양. 인터뷰를 하자 그래서 나가봤다.</span><br>
+<br>
+<span>기사(클릭) 를 보시면 한국의 안티페미니즘 웨이브를 외신이 어떤 관점으로 보는지 대충 알 수 있다.</span><br>
+<br>
+<span>2.</span><br>
+<br>
+<span>그것보다 내가 인상적이었던 장면은 인터뷰 이후다. 인터뷰에서 나는 지금 얼룩소에서 준비하는 미공개 데이터를 인용했다. 며칠 후에 cnn 기자에게서 이런 카톡이 왔다.</span><br>
+<br>
+<span>그러니까, 저 회사는 공정이 이렇게 된다는 얘기다. 기사를 쓴다. 데스킹을 거쳐서 컨펌이 난다. 여기까지가 보통의 한국 언론사가 하는 일이다(요즘 온라인 기사에는 이마저도 안 하는 곳 많다).&nbsp; 그 다음, 별도의 펙트체크 부서가 가동된다. 기사에 등장하는 정보가 사실인지 아닌...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[트럼프와 트위터 - 표현의 자유와 그 한계의 문제 (alookso ─ 천관율)]]></title>
         <id>https://alook.so/posts/4Xteld</id>
         <link href="https://alook.so/posts/4Xteld"/>
         <updated>2021-10-03T19:22:20.970Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4Xteld">트럼프와 트위터 - 표현의 자유와 그 한계의 문제</a>]]></content>
+        <content type="html"><![CDATA[<span>도널드 트럼프 전 대통령이 트위터를 상대로 소송을 냈다. 트위터가 자기 계정을 막아서 미국 수정헌법 1조 표현의 자유를 침해했다고 주장.</span><br>
+<br>
+<span>올해 1월에 트위터는 트럼프의 계정이 폭력을 선동했다는 이유로 영구정지시켰다. 미 의회 의사당 난입 폭동 당시에, 트럼프의 계정이 시위대를 옹호하고 폭력을 부추겼다는 이유. 트럼프에 대한 호불호와 별개로, 매우 흥미진진한 소송.</span><br>
+<br>
+<span>표현의 자유는 민주정을 떠받치는 토대다. 민주정은 원리상 다수의 지배를 뜻하는데, 다수가 위험한 판단을 내리지 않으려면 정보가 최대한 자유롭게 생산되고 퍼져 나가야 한다. 그래서 표현의 자유는 다수가 좋은 결정을 내리기 위한 필수 요소다.&nbsp;</span><br>
+<br>
+<span>따라서 표현의 자유는 자의적으로 제약될 수 없다. 사실상 유일한 예외는 그 표현 때문에 '명백 현존하는 위험'이 발생하는 경우다. 이럴 때 표현의 자유는 제약된다.</span><br>
+<br>
+<span>혐오발화가 표현의 자유의 예외인 이유는? 특정 소수자 집단(소수인종, 소수종교, 성소수자 등등등)에 대한 ...</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (alookso ─ 천관율)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-10-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>대단히 흥미로운 문제제기. 위에 공유한 글이 왜 흥미로운지 말하기 위해 약간 먼 길을 돌아가보자.</span><br>
+<br>
+<span>1.</span><br>
+<br>
+<span>'주권의 단위' 문제를 생각해보자. 한국은 국회의원 선거에서 선거구별 인구비율이 2:1을 넘어가면 위헌이다. 주권자 한 명의 표의 가치가 다른 주권자의 두 배를 넘으면 위헌이란 취지다. 2014년 헌재 결정이다.</span><br>
+<br>
+<span>얼핏 당연한 얘기 같지만, 이게 따져보면 간단치가 않다. 주권자의 표의 가치가 차이가 나는게 부당하다는 논리라면, 두 배 차이는 왜 괜찮은가? 아예 전국단위로 투표하고 득표율대로 정당에 의석으로 배분하면 주권자의 표의 가치는 (거의) 완전히 동등해지지 않는가? 헌재가 내놓은 2:1이라는 숫자는 그래서 재미있다.</span><br>
+<br>
+<span>2:1은 주권자 한 명의 표의 가치를 말하는 것 같지만, 사실은 괄호 치고 써놓은 주권의 단위가 하나 더 있다. (지역대표성). &lt;-- 요렇게 써 있다. 지역구 별로 선출을 하려면 표의 가치를 사람 수대로 동등하게 맞출 수가 없고,&nbsp; 역사적 문화적...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[매일 글을 쓰다 보면 무슨 일인가는 반드시 일어난다. (alookso ─ 천관율)]]></title>
         <id>https://alook.so/posts/Qmbt3O</id>
         <link href="https://alook.so/posts/Qmbt3O"/>
         <updated>2021-10-03T19:22:20.972Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Qmbt3O">매일 글을 쓰다 보면 무슨 일인가는 반드시 일어난다. </a>]]></content>
+        <content type="html"><![CDATA[<span>1.&nbsp;</span><br>
+<br>
+<span>네이버가 ‘오늘일기 챌린지’란 걸 한 적이 있다. 올해 5월이다. 길이무관, 내용무관, 14일동안 매일 글을 올리면 네이버페이로 16000원을 주기로 했다. 참여가 50만을 넘겨 대박이 났다.&nbsp;</span><br>
+<br>
+<span>네이버는 2주를 돌리려던 이벤트를 사흘만에 접었다. 여러 계정으로 복붙하는 어뷰저가 너무 많았단다. 뭐 그럴수 있지. 세상일이 늘 아름답게 풀릴 수는 없다. 그래도 나는, 이 이벤트가 완주를 해냈다면 누군가에게는 아주 근사한 일이 일어났을거라고 종종 상상했다. 매일 무언가를 쓴다는 건 그런 일이다.&nbsp;</span><br>
+<br>
+<span>2.</span><br>
+<br>
+<span>프로젝트 얼룩소는 글 쓰는 플랫폼이다. 내용무관, 최소 길이는 50글자. 글을 쓴 사람 100명에게 만원씩 보상한다. 70일동안, 매일.&nbsp;</span><br>
+<br>
+<span>운동할 때 가장 고통스러운 건 문 밖으로 나가기다. 글쓰기도 가장 어려운 고비는 키보드에 손올리기다. 이걸 일단 통과하면, 어떻게든 근사한 일이 일어난다. 나를 바꾸거나, 주변을 바꾸거나, 세상을 바꾸거나. 만원은 원고료가 아니다...</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (alookso ─ 천관율)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-09-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>우리는 자유무역을 당연하게 생각하지만, 100년 전에는 그것도 행성단위 팀플이었지요. 우리가 자유무역 팀플에서 무임승차자를 처벌할 방법을 찾느라 개고생을 개고생을....&nbsp;</span><br>
+<br>
+<span>우리 후대는 우리를 비웃지 않을까요? "조상들은 바보였어. 백신을 가난한 나라에 줘야 전세계가 더 안전해지는데, 그것도 모르고 선진국만 맞았대." "조상들은 바보였어. 다같이 탄소를 줄여야 우리가 살수 있는데, 그것도 모르고 서로 줄이라고 삿대질만 했대."</span><br>
+<br>
+<span>얘들아, 우리도 팀플을 잘 하는게 모두에게 좋다는건 잘 알고 있단다. 그런데 팀플은 원래 무임승차가 쩔어......</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백신 2차 접종을 맞았다 (alookso ─ 윤성원)]]></title>
         <id>https://alook.so/posts/M9t40a</id>
         <link href="https://alook.so/posts/M9t40a"/>
         <updated>2021-10-08T02:13:31.492Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t40a">백신 2차 접종을 맞았다</a>]]></content>
+        <content type="html"><![CDATA[<span>백신 2차 접종을 맞고 나니, QR란에 “접종 완료"라는 메시지가 떴다. 물론 앞으로 2주는 더 상황을 지켜봐야 하고, 상황에 따라 부스터 샷을 맞아야 하니, 엄밀히 말하면 “접종 완료" 상태는 아니다. 아니, 코로나 바이러스가 언제 또 어떻게 변이를 일으키는지를 알 수 없으니 '완료'라는 상태가 과연 존재할지는 비전문가인 나 따위가 알 수는 없다.&nbsp;</span><br>
+<br>
+<span>그럼에도 ‘완료’라는 단어가 주는 묘한 안도감이 있다.</span><br>
+<br>
+<span>사실 돌이켜보면, 팬데믹 초기에 전문가들 중에는 백신이 나올 때가 되어서야 팬데믹 상황이 끝날 것이라고 말하는 사람들이 있었는데, 어느새 그 시기가 온 것이다. 다음 달부터는 ‘단계적 일상 회복’도 시행될 예정이라고 하니, 이런 걸 ‘격세지감'이라고 부르는 것일까?</span><br>
+<br>
+<span>그리고 사람들이 그토록 갈망하는 ‘일상 회복'이라는 것이 아주 특별한 것이 아니라, 사람들이 좀 더 편하게 만나고, 좀 더 편하게 만나는 공간이 늘어나고, 편하게 갈 수 있는 곳이 좀 더 늘어나는, 코로...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰 (alookso ─ 윤성원)]]></title>
         <id>https://alook.so/posts/dzt2Ow</id>
         <link href="https://alook.so/posts/dzt2Ow"/>
         <updated>2021-10-06T17:43:08.789Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2Ow">최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰</a>]]></content>
+        <content type="html"><![CDATA[<span>아시다 시피, 최근에 새로운 미디어-콘텐츠 서비스들이 많이 등장했는데요. 소개 겸 간략한 리뷰를 해보면,
+<br>1. 카카오 뷰
+<br>- 콘텐츠 공유에 꽤나 집중했다는 점. 깔끔한 CMS. 창작자들에게 광고 수익을 쉐어할 예정이라는 점. 그리고 카카오톡 3번째 탭에 입점하는 방식이라 상대적으로 초기 트래픽을 쉽게 얻을 수 있다는 점은 확실한 장점인 것 같아요.
+<br>- 다만, 오픈 플랫폼이라서 그런지 몰라도 전체적으로 서비스에서 산만+복잡한 느낌이 있는데, 서비스가 더 발전하려면, 공유되는 콘텐츠들을 좀 더 몰입감 있게 볼 수 있도록 개편되어야 하지 않나 싶고.&nbsp;
+<br>- 그러려면 개별 에디터들이 자신을 브랜딩하거나 소개할 수 있는 요소들이 좀 더 추가되어야 하지 않나 싶어요. 결국 카카오 뷰가 잘 되려면 이용자들이 이 콘텐츠를 공유하는 사람이 어떤 사람인지를 직관적으로 알아야 할 것 같고, “아, 이래서 이 사람이 이런 기사를 공유하는구나”가 나름 바로바로 이해가 되어야 하지 않나라는 생각이 들더라...</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-10-04T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>오홍! 에디터 픽 좋네요 ㅎㅎ 좋아요 기반의 '얼룩커 픽'과 에디터분들이 선정하는 '에디터 픽' 이외에도 다양한 형태로 사람들의 의견이 추천되고 공유되고 또 토론되는 방식이 더 많이 등장했으면 좋겠어요!&nbsp;</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-10-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>저는 하루 쉬는 걸 2개로 쪼개서 수요일-금요일은 오전 근무만 하는 것도 좋을 것 같아요. 이걸 주4일이라고 불러야 하는지, 주5일이라고 불러야 하는지는 애매하긴 하나, 하루 쉬는 것보다는 쪼개서 두 번 쉬는 게 더 생산성이 높을 것 같다는 생각이 듭니다 ㅎㅎ</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지금 이 상황은 오징어 게임의 승리일까, 넷플릭스의 승리일까? (alookso ─ 윤성원)]]></title>
         <id>https://alook.so/posts/ZktaBV</id>
         <link href="https://alook.so/posts/ZktaBV"/>
         <updated>2021-10-03T19:22:28.877Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/ZktaBV">지금 이 상황은 오징어 게임의 승리일까, 넷플릭스의 승리일까? </a>]]></content>
+        <content type="html"><![CDATA[<span>제프 베조스가 트위터에서 오징어 게임을 다룬 벌쳐의 기사를 공유하면서 리드 헤이스팅스와 테드 사란도스에게 찬사를 보냈다고 한다.</span><br>
+<br>
+<span>오징어 게임의 놀라울 만한 글로벌 흥행을 두고, 이를 어떻게 해석할 것인가, 그 원인과 배경은 무엇인가를 두고 많은 사람들이 의견을 내고 있지만, 개인적으로는 오로지 이 흥행을 오징어 게임의 콘텐츠적 속성을 가지고 설명하는 것에 대해선 다소 경계해야 한다는 생각이 최근에 들었다.</span><br>
+<br>
+<span>"콘텐츠가 좋아서 글로벌리 성공한 것이지"라고 생각하면 모든 걸 쉽게 설명할 수 있지만, 쉽게 설명한다는 것이 때로는 현상을 제대로 설명하는 것이 아닌 경우도 있으니까.</span><br>
+<br>
+<span>기본적으로 오징어 게임의 성공에는 여러 다양한 맥락들이 존재할 수 있다. 기생충, 미나리, 그리고 K-팝 가수들의 글로벌 선전으로 인해 한국 콘텐츠에 대한 호감도가 전반적으로 올라간 덕분일 수도 있고, 오징어 게임의 성공은 넷플릭스의 전폭적인 지원이나 홍보 때문일 수도 있다.</span><br>
+<br>
+<span>특히 넷플릭스는...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[창업 전후로 참고하면 좋을 책 33권 추천 (alookso ─ 윤성원)]]></title>
         <id>https://alook.so/posts/3wtEDY</id>
         <link href="https://alook.so/posts/3wtEDY"/>
         <updated>2021-10-03T19:22:28.879Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtEDY">창업 전후로 참고하면 좋을 책 33권 추천</a>]]></content>
+        <content type="html"><![CDATA[<span>원래 제가 운영하고 있는 유료 멤버십 회원분들에게 공유했던 내용이지만, alookso에도 책에 대해 관심이 있는 분들이 많으실 것 같아서 한 번 공유해봅니다. 좋은 책들인데 절판되어서 중고책으로 구입해서 읽은 책들도 다수가 있으니 이점 참고해주시면 감사하겠습니다.&nbsp; 😉</span><br>
+<br>
+<span>1. 그랜트 카돈, &lt;10배의 법칙&gt;
+<br>2. 이나모리 가즈오, &lt;사장의 그릇&gt;
+<br>3. 켄 코시엔다, &lt;잡스의 기준&gt;
+<br>4. 노지 츠네요시, &lt;도요타 이야기&gt;
+<br>5. 가이 가와사키, &lt;당신의 기업을 시작하라&gt;
+<br>6. 문영미, &lt;디퍼런트&gt;
+<br>7. 크리스천 크럼리시 외, &lt;소셜 인터페이스 디자인&gt;
+<br>8. 조나 버거, &lt;캐털리스트&gt;
+<br>9. 벤 호로위츠, &lt;하드씽&gt;
+<br>10. 바바 마사타카 외, &lt;도쿄R부동산 이렇게 일합니다&gt;
+<br>11. 테라오 겐, &lt;가자, 어디에도 없었던 방법으로&gt;
+<br>12. 레이 달리오, &lt;원칙&gt;...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소(alookso)의 도전을 무한히 리스펙하는 이유 (alookso ─ 윤성원)]]></title>
         <id>https://alook.so/posts/Batak4</id>
         <link href="https://alook.so/posts/Batak4"/>
         <updated>2021-10-03T19:22:28.883Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batak4">얼룩소(alookso)의 도전을 무한히 리스펙하는 이유</a>]]></content>
+        <content type="html"><![CDATA[<span>지난해 12월 언론진흥재단에서 발행하는 &lt;신문과 방송&gt;에서는 600호 특집으로 ‘한국 언론 재건축하기’라는 주제를 다루었는데요. 그때 감사하게도, 저에게도 짧은 코멘트를 하실 기회를 주셨는데요. &nbsp;
+<br>그때 했던 말 중 하나는, 미디어 업계와 스타트업 씬 양쪽에 있다 보니 문제를 바라보는 시각이 완전히 다르다는 것이었어요.&nbsp;
+<br>스타트업이나 벤처 업계에서는 어떤 문제를 발견하면 이걸 내가 풀면 사회적 가치를 창출할 뿐 아니라, 돈도 벌 수 있을 것이라는 막연한 낭만이 있는데요. 그래서 세상 사람들은 별다른 문제라고 생각하지 않은데도, 어떤 것이 문제이라고 발견하면 내가 해결해 보겠다고 뛰어드는 사람들이 많아요. 물론 그걸 무모하게 볼 수도 있고, 지나친 현실왜곡장이라고 볼 수 있고, 자기애 과잉으로도 볼 수 있습니다만, 좋게 보면 그런 것들을 '창업가 정신'이라고도 볼 수 있겠지요.
+<br>반면, 미디어 업계에서는 무엇이 문제라고 하면 그 누구보다 날카롭고 논리적으로 지적을 하는...</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-10-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/Q1Rtmv">
+  <div class="py-2 pl-2 mb-2 text-xs font-semibold text-gray-500 bg-gray-100 rounded">
+    70일 실험의 둘째 날 아침입니다
+    <span>의 </span><span class="font-semibold">답글</span>
+  </div>
+</a>
+
+  <div class="flex items-center justify-between text-gray-900">
+  <div class="flex items-center justify-between text-gray-900">
+  <div class="relative mr-2">
+      <a href="/users/8Ogtna"><img heigh="32px" style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white" src="https://alook.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ec8b0817c9abc4245caa6564a78a92ed7e554305/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hKeVpYTnBlbVZmZEc5ZlptbDBXd2RwUldsRiIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--40774ab71c68a2ef2344f4a76543ee61c12fe892/41992254_2394328447274520_6296229070170488832_n.jpeg" width="32px"></a>
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="absolute bottom-0 left-5 block h-4 w-4 text-purple-500 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 4C12.972 4 4 11.537 4 20.8c0 6.107 3.796 11.584 10 14.561v6.518c0 1.67 1.925 2.605 3.237 1.572l7.443-5.861C35.394 37.29 44 29.872 44 20.8 44 11.537 35.028 4 24 4z" fill="#fff"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 37.759v-4.915l-2.27-1.089C10.672 29.327 8 25.117 8 20.8 8 14.371 14.5 8 24 8s16 6.371 16 12.8c0 6.301-6.222 12.533-15.432 12.791l-1.323.037L18 37.758zM4 20.8C4 11.537 12.972 4 24 4s20 7.537 20 16.8c0 9.072-8.606 16.49-19.32 16.79l-7.443 5.86c-1.311 1.034-3.237.1-3.237-1.57V35.36C7.796 32.384 4 26.907 4 20.8zM16 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm10-2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"></path>
+</svg>
+
+  </div>
+  <div class="flex-1 leading-5">
+    <div class="flex">
+      <div class="text-xs flex">
+        <a class="line-clamp-1 text-gray-400 whitespace-nowrap" href="/users/8Ogtna">
+          <span class="text-gray-600 font-medium">Somewon Yoon</span>
+            <span class="text-xs text-gray-500">
+              ·
+            </span>
+            <span class="break-all font-normal text-gray-400">프로젝트썸원 Content Owner</span>
+</a>      </div>
+    </div>
+    <div class="font-light text-gray-400 text-xxs">
+      2021.10.01.
+    </div>
+  </div>
+</div>
+  
+</div>
+  <div class="mt-2 mb-1">
+      <div class="inline space-x-2">
+    <div class="inline border-l-2 pl-1 border-purple-300 text-xs text-purple-600 font-semibold">
+      얼룩커 픽
+    </div>
+</div>
+
+  </div>
+
+
+  <div class="flex-auto space-y-2 mt-2">
+
+      <h6 class="mb-2 font-normal text-gray-500">
+    <a class="trix-content-post-partial line-clamp-5" href="/posts/A92tzY">
+      <div class="trix-content">
+          <span>신기한 서비스를 만들어주셔서 감사합니다. 언젠가 간략한 리뷰를 언젠가 쓰기 할 텐데, 저 개인적으로는 어제 alookso를 보면서 한국판 레딧이 등장한 느낌을 받았어요! 좀 더 지적인 버전의 레딧 느낌이라고나 할까요? 그저 첫 느낌이 그렇다는 것이고, 레딧은 아예 생각나지 않을 정도로 멋진 서비스를 만들어주실 것이라 믿습니다!! (호호)</span>
+      </div>
+</a></h6>
+
+
+        <div class="pt-1">
+          <div class="space-y-2">
+    <span class="inline-block">
+      <button type="button" class="flex items-center p-1 text-xs font-light text-gray-500 border border-gray-300 rounded">
+        <a href="/topics/open">
+          새로운 질문을 던져주세요.
+</a>      </button>
+    </span>
+</div>
+        </div>
+
+      <div class="flex justify-between pt-3 text-sm font-light text-gray-400">
+        <span class="flex items-center">
+          <a class="inline-block h-full whitespace-nowrap" href="/posts/A92tzY#reply">
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 4C12.972 4 4 11.537 4 20.8c0 6.107 3.796 11.584 10 14.561v6.518c0 1.67 1.925 2.605 3.237 1.572l7.443-5.861C35.394 37.29 44 29.872 44 20.8 44 11.537 35.028 4 24 4z" fill="#fff"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 37.759v-4.915l-2.27-1.089C10.672 29.327 8 25.117 8 20.8 8 14.371 14.5 8 24 8s16 6.371 16 12.8c0 6.301-6.222 12.533-15.432 12.791l-1.323.037L18 37.758zM4 20.8C4 11.537 12.972 4 24 4s20 7.537 20 16.8c0 9.072-8.606 16.49-19.32 16.79l-7.443 5.86c-1.311 1.034-3.237.1-3.237-1.57V35.36C7.796 32.384 4 26.907 4 20.8zM16 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm10-2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"></path>
+</svg>
+
+              댓글
+</a>        </span>
+        <div class="flex items-center space-x-4">
+          <div class="h-full whitespace-nowrap like_button_post_A92tzY">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTgyOAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAyOjQ0OjU2LjY5NVoGOwBU--355a5c73e6cb54292b55a58b1d43c3108113495b"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
+</svg>
+
+    <span class="font-light ">
+      12
+    </span>
+</button><input type="hidden" name="authenticity_token" value="ooh1SLXRGHxTjPcHE4AzhQ8_LUw6yrQuDe_0y05L6VJgQXO6MzidTyd-JlHUqRHavUlnf0evbM11uiS4j2kWOw"></form></div>
+            <div>
+    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
+      <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="답글: 70일 실험의 둘째 날 아침입니다 #alookso" data-share-url-value="https://alook.so/posts/A92tzY" data-share-kakao-title-value="답글: 70일 실험의 둘째 날 아침입니다" data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="신기한 서비스를 만들어주셔서 감사합니다. 언젠가 간략한 리뷰를 언젠가 쓰기 할 텐데, 저 개인적으로는 어제 alookso를 보면서 한국판 레딧이 등장한 느낌을 받았어요! 좀 더 지적인 버전의 레딧 느낌이라고나 할까요? 그저 첫 느낌이 그렇다는 것이고, 레딧은 아예 생각나지 않을 정도로 멋진 서비스를 만들어주실 것이라 믿습니다!! (호호)">
+        <div class="flex p-4 space-x-3 overflow-hidden bg-white border rounded shadow">
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #fee500" data-action="click->share#kakao" data-share-target="kakao">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/kakao-d42cb7d45af49e054ca639c156bc12d6559ab9531ee968cc72b5d30bf7a331a3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #3c5ca9" data-action="click->share#facebook" data-share-target="facebook">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/facebook-a0ba759adf9799816de95a7a69eb1e05a0f3dd9b2a450e7009793e4dd000c3b3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #1da1f2" data-action="click->share#twitter" data-share-target="twitter">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/twitter-f15417749e292895d4c750ce8c5f90a0c2f6521f95f22d8d2e10f08dc33e9442.png">
+            </div>
+        </div>
+      </div>
+      <div data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M9 25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v14.803C5 41.895 6.12 43 7.5 43h33c1.38 0 2.5-1.105 2.5-2.467V25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v13.323H9V25.73z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 6.54a2 2 0 0 0-2 2v20a2 2 0 1 0 4 0v-20a2 2 0 0 0-2-2z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M26.949 5.797a4 4 0 0 0-5.898 0L11.526 16.19a2 2 0 1 0 2.948 2.703L24 8.5l9.526 10.392a2 2 0 0 0 2.948-2.703L26.95 5.797z"></path>
+</svg>
+
+      </div>
+    </div>
+  </div>
+
+        </div>
+      </div>
+  </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (alookso ─ 윤성원)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-09-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/Alatd2">
+  <div class="py-2 pl-2 mb-2 text-xs font-semibold text-gray-500 bg-gray-100 rounded">
+    이것은 10주 동안 진행되는 실험입니다
+    <span>의 </span><span class="font-semibold">답글</span>
+  </div>
+</a>
+
+  <div class="flex items-center justify-between text-gray-900">
+  <div class="flex items-center justify-between text-gray-900">
+  <div class="relative mr-2">
+      <a href="/users/8Ogtna"><img heigh="32px" style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white" src="https://alook.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFlJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ec8b0817c9abc4245caa6564a78a92ed7e554305/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hKeVpYTnBlbVZmZEc5ZlptbDBXd2RwUldsRiIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--40774ab71c68a2ef2344f4a76543ee61c12fe892/41992254_2394328447274520_6296229070170488832_n.jpeg" width="32px"></a>
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="absolute bottom-0 left-5 block h-4 w-4 text-purple-500 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 4C12.972 4 4 11.537 4 20.8c0 6.107 3.796 11.584 10 14.561v6.518c0 1.67 1.925 2.605 3.237 1.572l7.443-5.861C35.394 37.29 44 29.872 44 20.8 44 11.537 35.028 4 24 4z" fill="#fff"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 37.759v-4.915l-2.27-1.089C10.672 29.327 8 25.117 8 20.8 8 14.371 14.5 8 24 8s16 6.371 16 12.8c0 6.301-6.222 12.533-15.432 12.791l-1.323.037L18 37.758zM4 20.8C4 11.537 12.972 4 24 4s20 7.537 20 16.8c0 9.072-8.606 16.49-19.32 16.79l-7.443 5.86c-1.311 1.034-3.237.1-3.237-1.57V35.36C7.796 32.384 4 26.907 4 20.8zM16 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm10-2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"></path>
+</svg>
+
+  </div>
+  <div class="flex-1 leading-5">
+    <div class="flex">
+      <div class="text-xs flex">
+        <a class="line-clamp-1 text-gray-400 whitespace-nowrap" href="/users/8Ogtna">
+          <span class="text-gray-600 font-medium">Somewon Yoon</span>
+            <span class="text-xs text-gray-500">
+              ·
+            </span>
+            <span class="break-all font-normal text-gray-400">프로젝트썸원 Content Owner</span>
+</a>      </div>
+    </div>
+    <div class="font-light text-gray-400 text-xxs">
+      2021.09.30.
+    </div>
+  </div>
+</div>
+  
+</div>
+  <div class="mt-2 mb-1">
+      <div class="inline space-x-2">
+    <div class="inline border-l-2 pl-1 border-purple-300 text-xs text-purple-600 font-semibold">
+      얼룩커 픽
+    </div>
+</div>
+
+  </div>
+
+
+  <div class="flex-auto space-y-2 mt-2">
+
+      <h6 class="mb-2 font-normal text-gray-500">
+    <a class="trix-content-post-partial line-clamp-5" href="/posts/gbWtzo">
+      <div class="trix-content">
+          <span>새로운 시도 너무나 완전히 응원하옵고, 환상의 동물인 유니콘이 아닌, 현실 속에서 거침없이 질주하는 얼룩소가 되시기를 바랍니다. 호이!</span>
+      </div>
+</a></h6>
+
+
+        <div class="pt-1">
+          <div class="space-y-2">
+    <span class="inline-block">
+      <button type="button" class="flex items-center p-1 text-xs font-light text-gray-500 border border-gray-300 rounded">
+        <a href="/topics/alookso">
+          프로젝트 alookso 이야기
+</a>      </button>
+    </span>
+</div>
+        </div>
+
+      <div class="flex justify-between pt-3 text-sm font-light text-gray-400">
+        <span class="flex items-center">
+          <a class="inline-block h-full whitespace-nowrap" href="/posts/gbWtzo#reply">
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 4C12.972 4 4 11.537 4 20.8c0 6.107 3.796 11.584 10 14.561v6.518c0 1.67 1.925 2.605 3.237 1.572l7.443-5.861C35.394 37.29 44 29.872 44 20.8 44 11.537 35.028 4 24 4z" fill="#fff"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 37.759v-4.915l-2.27-1.089C10.672 29.327 8 25.117 8 20.8 8 14.371 14.5 8 24 8s16 6.371 16 12.8c0 6.301-6.222 12.533-15.432 12.791l-1.323.037L18 37.758zM4 20.8C4 11.537 12.972 4 24 4s20 7.537 20 16.8c0 9.072-8.606 16.49-19.32 16.79l-7.443 5.86c-1.311 1.034-3.237.1-3.237-1.57V35.36C7.796 32.384 4 26.907 4 20.8zM16 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm10-2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"></path>
+</svg>
+
+              1
+</a>        </span>
+        <div class="flex items-center space-x-4">
+          <div class="h-full whitespace-nowrap like_button_post_gbWtzo">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTE5NwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAyOjQ0OjU2LjcwNFoGOwBU--56d2159a506fd83328267bb658229df67f152363"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
+</svg>
+
+    <span class="font-light ">
+      18
+    </span>
+</button><input type="hidden" name="authenticity_token" value="ooh1SLXRGHxTjPcHE4AzhQ8_LUw6yrQuDe_0y05L6VJgQXO6MzidTyd-JlHUqRHavUlnf0evbM11uiS4j2kWOw"></form></div>
+            <div>
+    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
+      <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="답글: 이것은 10주 동안 진행되는 실험입니다 #alookso" data-share-url-value="https://alook.so/posts/gbWtzo" data-share-kakao-title-value="답글: 이것은 10주 동안 진행되는 실험입니다" data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="새로운 시도 너무나 완전히 응원하옵고, 환상의 동물인 유니콘이 아닌, 현실 속에서 거침없이 질주하는 얼룩소가 되시기를 바랍니다. 호이!">
+        <div class="flex p-4 space-x-3 overflow-hidden bg-white border rounded shadow">
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #fee500" data-action="click->share#kakao" data-share-target="kakao">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/kakao-d42cb7d45af49e054ca639c156bc12d6559ab9531ee968cc72b5d30bf7a331a3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #3c5ca9" data-action="click->share#facebook" data-share-target="facebook">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/facebook-a0ba759adf9799816de95a7a69eb1e05a0f3dd9b2a450e7009793e4dd000c3b3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #1da1f2" data-action="click->share#twitter" data-share-target="twitter">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/twitter-f15417749e292895d4c750ce8c5f90a0c2f6521f95f22d8d2e10f08dc33e9442.png">
+            </div>
+        </div>
+      </div>
+      <div data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M9 25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v14.803C5 41.895 6.12 43 7.5 43h33c1.38 0 2.5-1.105 2.5-2.467V25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v13.323H9V25.73z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 6.54a2 2 0 0 0-2 2v20a2 2 0 1 0 4 0v-20a2 2 0 0 0-2-2z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M26.949 5.797a4 4 0 0 0-5.898 0L11.526 16.19a2 2 0 1 0 2.948 2.703L24 8.5l9.526 10.392a2 2 0 0 0 2.948-2.703L26.95 5.797z"></path>
+</svg>
+
+      </div>
+    </div>
+  </div>
+
+        </div>
+      </div>
+  </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['오징어 게임'의 전 세계적인 흥행, 어떻게 봐야 할까요? (alookso ─ 윤성원)]]></title>
         <id>https://alook.so/posts/QnjtDB</id>
         <link href="https://alook.so/posts/QnjtDB"/>
         <updated>2021-10-03T19:22:28.884Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/QnjtDB">'오징어 게임'의 전 세계적인 흥행, 어떻게 봐야 할까요?</a>]]></content>
+        <content type="html"><![CDATA[<span>흥행 여부에 따라서 콘텐츠에 대한 평가가 달라져야 하는 것일까요?</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[젊은 층의 자살률, 왜 늘었을까요? (alookso ─ 조소담)]]></title>
         <id>https://alook.so/posts/6MtY0Y</id>
         <link href="https://alook.so/posts/6MtY0Y"/>
         <updated>2021-10-03T19:22:37.530Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6MtY0Y">젊은 층의 자살률, 왜 늘었을까요? </a>]]></content>
+        <content type="html"><![CDATA[<span>요즘 저희 팀(닷페이스)에서는 젊은 층의 자살률이 화두가 되었었습니다.</span><br>
+<br>
+<span>얼마 전 9월 28일, 통계청에서 2020년 사망원인통계가 나왔는데요.</span><br>
+<br>
+<span>코로나19 사망자는 10만 명 당 1.9명, 자살 사망자는 25.7명이었습니다. 
+<br>자살률은 전년 대비 10대는 9.4% 증가, 20대는 12.8%증가했다고 합니다. 
+<br>특히 10대 남성의 자살률은 18.8%, 20대 여성의 자살률은 16.5% 늘었습니다.</span><br>
+<br>
+<span>국내에서 하루 평균 36명씩 자살을 하고, 전체 자살률이 줄었는데
+<br>10대-30대는 자살률이 늘었다는 점을 주목했어요.</span><br>
+<br>
+<span>주변에서도 우울증이 늘었다거나, 자살 시도한 지인이 있다는 이야기가 나왔습니다. 
+<br>젊은 층의 자살률이 특히 증가한 이유가 뭐라고 생각하시나요?</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주4일제를 하면 수요일에 쉬실래요, 금요일에 쉬실래요? (alookso ─ 조소담)]]></title>
         <id>https://alook.so/posts/Aq1tw2</id>
         <link href="https://alook.so/posts/Aq1tw2"/>
         <updated>2021-10-03T19:22:37.532Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Aq1tw2">주4일제를 하면 수요일에 쉬실래요, 금요일에 쉬실래요? </a>]]></content>
+        <content type="html"><![CDATA[<span>저는 주변 사람들이랑 이런 이야기를 나눈 적이 있어요. 주 4일제가 되면 일주일 중 3일을 쉬는 건데, 그러면 무슨 요일에 쉬고 싶냐는 질문을 던졌습니다.&nbsp;</span><br>
+<br>
+<span>저는 금요일에 쉬겠다는 이야기를 했었는데요. 사실상 쉬진 않을 것 같지만(?) 4일/3일로 뭉텅이로 시간이 나눠지는 것이 더 좋을 것 같다고 생각했어요. 그러면 3일은 서울에, 4일은 다른 지역에서 일하고 놀며 살고 싶지 않을까 싶기도 했습니다.&nbsp;</span><br>
+<br>
+<span>수요일, 토/일요일이 휴일인 사회를 상상해보면, 쪼개서 두 가지의 직장을 갖는 사이클이 생길 수도 있지 않을까 생각했어요. 또는 요일마다 하는 일이 다를 수도 있겠다 싶고요.&nbsp;</span><br>
+<br>
+<span>다른 분들은 주4일제라는 테마를 두고 어떤 상상을 하실지 궁금하네요.&nbsp;</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (alookso ─ 조소담)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-10-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>다른 글에서 제가 추천한 기사인데요. 저는 이 기사가 좋았습니다. 기후과학자 김백민 교수를 인터뷰하면서 종말론과 기후위기 부정론 사이에서 균형을 잡아주는 이야기를 전했습니다. IPCC 보고서 1차~6차 핵심 요약도 이미지로 첨부되어있어요. IPCC의 기후위기 시나리오에 대한 잘못된 인식도 바로잡아주고 있습니다.</span><br>
+<br>
+<span>시사인 이오성 기자 | 지구 온도 1.5℃ 상승해도 되돌릴 기회 있다
+<br>https://www.sisain.co.kr/news/articleView.html?idxno=45494&nbsp;</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자격 없는 자들을 끌어내릴 수 있게 됐습니다 (alookso ─ 조소담)]]></title>
         <id>https://alook.so/posts/g4Xt0R</id>
         <link href="https://alook.so/posts/g4Xt0R"/>
         <updated>2021-10-03T19:22:37.534Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/g4Xt0R">자격 없는 자들을 끌어내릴 수 있게 됐습니다 </a>]]></content>
+        <content type="html"><![CDATA[<span>문화예술계,체육계 등에서 분야별로 많은 여성들이 용기내어 '권력형' 성폭력을 폭로하면서 오랫동안 썩은 권력 구조를 유지하고 있었던 '자격 없는 자들'이 드러났다고 생각해요. 이후 연대의 흐름이 위드유라는 이름이 되고, 권력형 성폭력을 고발하는 대표적인 센터 이름이 되었죠. 더이상 '권력으로 성폭력을 은폐해선 안 된다'는 것이 좀 더 자리잡았고요. 아직 정말 많이 부족하지만요.&nbsp;</span><br>
+<br>
+<span>성폭력을 저지르고도 버젓이 권력을 쥐었던 남성들을 솎아낼 수 있게 된 것이 이 사회의 성과라고 생각해요</span><br>
+<br>
+<span>그리고 미래에 '성폭력을 저지르지 않는 것'을 자격 조건으로 만들어야 하지 않을까요? 현재는 교직 등에 제한적으로 적용되는 것처럼 성범죄를 저지른 사람은 기업 임원이 될 수 없게 하거나, 국가 기관의 장 또는 고위직이 될 수 없도록 하는 제한도 필요하다고 생각해요.&nbsp;</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사실 이미 된다고 합니다 (수군수군) (alookso ─ 조소담)]]></title>
-        <id>https://alook.so/posts/QeVt36</id>
-        <link href="https://alook.so/posts/QeVt36"/>
-        <updated>2021-10-03T19:22:37.535Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/QeVt36">사실 이미 된다고 합니다 (수군수군) </a>]]></content>
+        <title type="html"><![CDATA[undefined (alookso ─ 조소담)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-09-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="flex items-center justify-between text-gray-900">
+  <div class="flex items-center justify-between text-gray-900">
+  <div class="relative mr-2">
+      <a href="/users/qQPtde"><img heigh="32px" style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white" src="https://alook.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ29KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e562e2f4a53f50865d7664ade6d524212f8319d0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMmxGYVVVPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--e654fd14f4df7069a8a034146f678551e2aeda8b/IMG_1781.jpg" width="32px"></a>
+  </div>
+  <div class="flex-1 leading-5">
+    <div class="flex">
+      <div class="text-xs flex">
+        <a class="line-clamp-1 text-gray-400 whitespace-nowrap" href="/users/qQPtde">
+          <span class="text-gray-600 font-medium">조소담</span>
+            <span class="text-xs text-gray-500">
+              ·
+            </span>
+            <span class="break-all font-normal text-gray-400">닷페이스</span>
+</a>      </div>
+    </div>
+    <div class="font-light text-gray-400 text-xxs">
+      2021.09.30.
+    </div>
+  </div>
+</div>
+  
+</div>
+  <div class="mt-2 mb-1">
+      <div class="inline space-x-2">
+    <div class="inline border-l-2 pl-1 border-purple-300 text-xs text-purple-600 font-semibold">
+      얼룩커 픽
+    </div>
+</div>
+
+  </div>
+
+
+  <div class="flex-auto space-y-2 mt-2">
+        <h5 class="font-medium text-break" data-qa="post-title">
+          <a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/QeVt36">사실 이미 된다고 합니다 (수군수군) </a>
+        </h5>
+
+      <h6 class="mb-2 font-normal text-gray-500">
+    <a class="trix-content-post-partial line-clamp-5" href="/posts/QeVt36">
+      <div class="trix-content">
+          <span>&nbsp;혼인신고 조건에 동성 간 결혼하면 안 된다는 '금지' 조항이 없대요.&nbsp;</span>
+      </div>
+</a></h6>
+
+
+        <div class="pt-1">
+          <div class="space-y-2">
+    <span class="inline-block">
+      <button type="button" class="flex items-center p-1 text-xs font-light text-gray-500 border border-gray-300 rounded">
+        <a href="/topics/samesexmarriage">
+          같은 성별끼리 결혼해도 될까요? 
+</a>      </button>
+    </span>
+</div>
+        </div>
+
+      <div class="flex justify-between pt-3 text-sm font-light text-gray-400">
+        <span class="flex items-center">
+          <a class="inline-block h-full whitespace-nowrap" href="/posts/QeVt36#reply">
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 4C12.972 4 4 11.537 4 20.8c0 6.107 3.796 11.584 10 14.561v6.518c0 1.67 1.925 2.605 3.237 1.572l7.443-5.861C35.394 37.29 44 29.872 44 20.8 44 11.537 35.028 4 24 4z" fill="#fff"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 37.759v-4.915l-2.27-1.089C10.672 29.327 8 25.117 8 20.8 8 14.371 14.5 8 24 8s16 6.371 16 12.8c0 6.301-6.222 12.533-15.432 12.791l-1.323.037L18 37.758zM4 20.8C4 11.537 12.972 4 24 4s20 7.537 20 16.8c0 9.072-8.606 16.49-19.32 16.79l-7.443 5.86c-1.311 1.034-3.237.1-3.237-1.57V35.36C7.796 32.384 4 26.907 4 20.8zM16 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm10-2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"></path>
+</svg>
+
+              6
+</a>        </span>
+        <div class="flex items-center space-x-4">
+          <div class="h-full whitespace-nowrap like_button_post_QeVt36">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTM5MwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAyOjQ1OjA2LjMwNVoGOwBU--8b4a2a0d90006c40d3c418b4e421905cea03fe7f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
+</svg>
+
+    <span class="font-light ">
+      47
+    </span>
+</button><input type="hidden" name="authenticity_token" value="ifNa8_LkU6pi5M9Ue-idVaKCw2wAVhoaEXRwfW3_XN6yt-Eb53dYmAvrHpoWcH5kneclW2cqcm9Mt8T3gekuLw"></form></div>
+            <div>
+    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
+      <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="사실 이미 된다고 합니다 (수군수군)  #alookso" data-share-url-value="https://alook.so/posts/QeVt36" data-share-kakao-title-value="사실 이미 된다고 합니다 (수군수군) " data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="&nbsp;혼인신고 조건에 동성 간 결혼하면 안 된다는 \'금지\' 조항이 없대요.&nbsp;\n">
+        <div class="flex p-4 space-x-3 overflow-hidden bg-white border rounded shadow">
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #fee500" data-action="click->share#kakao" data-share-target="kakao">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/kakao-d42cb7d45af49e054ca639c156bc12d6559ab9531ee968cc72b5d30bf7a331a3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #3c5ca9" data-action="click->share#facebook" data-share-target="facebook">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/facebook-a0ba759adf9799816de95a7a69eb1e05a0f3dd9b2a450e7009793e4dd000c3b3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #1da1f2" data-action="click->share#twitter" data-share-target="twitter">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/twitter-f15417749e292895d4c750ce8c5f90a0c2f6521f95f22d8d2e10f08dc33e9442.png">
+            </div>
+        </div>
+      </div>
+      <div data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M9 25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v14.803C5 41.895 6.12 43 7.5 43h33c1.38 0 2.5-1.105 2.5-2.467V25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v13.323H9V25.73z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 6.54a2 2 0 0 0-2 2v20a2 2 0 1 0 4 0v-20a2 2 0 0 0-2-2z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M26.949 5.797a4 4 0 0 0-5.898 0L11.526 16.19a2 2 0 1 0 2.948 2.703L24 8.5l9.526 10.392a2 2 0 0 0 2.948-2.703L26.95 5.797z"></path>
+</svg>
+
+      </div>
+    </div>
+  </div>
+
+        </div>
+      </div>
+  </div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (alookso ─ 조소담)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-09-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<a href="/posts/g6MtM9">
+  <div class="py-2 pl-2 mb-2 text-xs font-semibold text-gray-500 bg-gray-100 rounded">
+    최소한 이 플랫폼에 있는 사람들은 약자가 아니라 생각해요.
+    <span>의 </span><span class="font-semibold">답글</span>
+  </div>
+</a>
+
+  <div class="flex items-center justify-between text-gray-900">
+  <div class="flex items-center justify-between text-gray-900">
+  <div class="relative mr-2">
+      <a href="/users/qQPtde"><img heigh="32px" style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white" src="https://alook.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ29KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e562e2f4a53f50865d7664ade6d524212f8319d0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMmxGYVVVPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--e654fd14f4df7069a8a034146f678551e2aeda8b/IMG_1781.jpg" width="32px"></a>
+      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="absolute bottom-0 left-5 block h-4 w-4 text-purple-500 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 4C12.972 4 4 11.537 4 20.8c0 6.107 3.796 11.584 10 14.561v6.518c0 1.67 1.925 2.605 3.237 1.572l7.443-5.861C35.394 37.29 44 29.872 44 20.8 44 11.537 35.028 4 24 4z" fill="#fff"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 37.759v-4.915l-2.27-1.089C10.672 29.327 8 25.117 8 20.8 8 14.371 14.5 8 24 8s16 6.371 16 12.8c0 6.301-6.222 12.533-15.432 12.791l-1.323.037L18 37.758zM4 20.8C4 11.537 12.972 4 24 4s20 7.537 20 16.8c0 9.072-8.606 16.49-19.32 16.79l-7.443 5.86c-1.311 1.034-3.237.1-3.237-1.57V35.36C7.796 32.384 4 26.907 4 20.8zM16 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm10-2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"></path>
+</svg>
+
+  </div>
+  <div class="flex-1 leading-5">
+    <div class="flex">
+      <div class="text-xs flex">
+        <a class="line-clamp-1 text-gray-400 whitespace-nowrap" href="/users/qQPtde">
+          <span class="text-gray-600 font-medium">조소담</span>
+            <span class="text-xs text-gray-500">
+              ·
+            </span>
+            <span class="break-all font-normal text-gray-400">닷페이스</span>
+</a>      </div>
+    </div>
+    <div class="font-light text-gray-400 text-xxs">
+      2021.09.30.
+    </div>
+  </div>
+</div>
+  
+</div>
+  <div class="mt-2 mb-1">
+      <div class="inline space-x-2">
+    <div class="inline border-l-2 pl-1 border-purple-300 text-xs text-purple-600 font-semibold">
+      얼룩커 픽
+    </div>
+</div>
+
+  </div>
+
+
+  <div class="flex-auto space-y-2 mt-2">
+
+      <h6 class="mb-2 font-normal text-gray-500">
+    <a class="trix-content-post-partial line-clamp-5" href="/posts/QjdtB7">
+      <div class="trix-content">
+          <span>저는 '우리는 약자는 아니지 않냐'라는 말이 나오는 커뮤니티가 '우리는 강자는 아니지 않냐'라는 이야기가 나오는 커뮤니티보다 적다고 느끼기 때문에, 이 자기성찰이 반가운 측면도 있는데요. 한편으로는 이런 자기성찰이 무엇을 위한 것인지 싶기도 하고, 위선적인 수사가 될 수도 있지 않나 생각해요. 이 커뮤니티 안에 있는 사람이 자기의 취약성을 드러내기 어렵게 만드는 말일 수도 있다고 생각하고요. 서로 단편적인 정보로 여기 참여자들을 정의하기에는 우리가 서로 모르는 것이 너무 많잖아요. 강자/약자- 가해/피해와 같은 개념은 사회적 맥락 안에서 구성되는 것이기도 하고요.&nbsp;</span>
+      </div>
+</a></h6>
+
+
+        <div class="pt-1">
+          <div class="space-y-2">
+    <span class="inline-block">
+      <button type="button" class="flex items-center p-1 text-xs font-light text-gray-500 border border-gray-300 rounded">
+        <a href="/topics/disadvantaged">
+          우리 사회의 약자는 누구일까요?
+</a>      </button>
+    </span>
+</div>
+        </div>
+
+      <div class="flex justify-between pt-3 text-sm font-light text-gray-400">
+        <span class="flex items-center">
+          <a class="inline-block h-full whitespace-nowrap" href="/posts/QjdtB7#reply">
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 4C12.972 4 4 11.537 4 20.8c0 6.107 3.796 11.584 10 14.561v6.518c0 1.67 1.925 2.605 3.237 1.572l7.443-5.861C35.394 37.29 44 29.872 44 20.8 44 11.537 35.028 4 24 4z" fill="#fff"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 37.759v-4.915l-2.27-1.089C10.672 29.327 8 25.117 8 20.8 8 14.371 14.5 8 24 8s16 6.371 16 12.8c0 6.301-6.222 12.533-15.432 12.791l-1.323.037L18 37.758zM4 20.8C4 11.537 12.972 4 24 4s20 7.537 20 16.8c0 9.072-8.606 16.49-19.32 16.79l-7.443 5.86c-1.311 1.034-3.237.1-3.237-1.57V35.36C7.796 32.384 4 26.907 4 20.8zM16 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm10-2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"></path>
+</svg>
+
+              1
+</a>        </span>
+        <div class="flex items-center space-x-4">
+          <div class="h-full whitespace-nowrap like_button_post_QjdtB7">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAyOjQ1OjA2LjMxM1oGOwBU--ee48863de336ce0ec75945fe120292dd35ac1b53"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
+</svg>
+
+    <span class="font-light ">
+      25
+    </span>
+</button><input type="hidden" name="authenticity_token" value="ifNa8_LkU6pi5M9Ue-idVaKCw2wAVhoaEXRwfW3_XN6yt-Eb53dYmAvrHpoWcH5kneclW2cqcm9Mt8T3gekuLw"></form></div>
+            <div>
+    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
+      <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="답글: 최소한 이 플랫폼에 있는 사람들은 약자가 아니라 생각해요. #alookso" data-share-url-value="https://alook.so/posts/QjdtB7" data-share-kakao-title-value="답글: 최소한 이 플랫폼에 있는 사람들은 약자가 아니라 생각해요." data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="저는 \'우리는 약자는 아니지 않냐\'라는 말이 나오는 커뮤니티가 \'우리는 강자는 아니지 않냐\'라는 이야기가 나오는 커뮤니티보다 적다고 느끼기 때문에, 이 자기성찰이 반가운 측면도 있는데요. 한편으로는 이런 자기성찰이 무엇을 위한 것인지 싶기도 하고, 위선적인 수사가 될 수도 있지 않나 생각해요. 이 커뮤니티 안에 있는 사람이 자기의 취약성을 드러내기 어렵게 만드는 말일 수도 있다고 생각하고요. 서로 단편적인 정보로 여기 참여자들을 정의하기에...">
+        <div class="flex p-4 space-x-3 overflow-hidden bg-white border rounded shadow">
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #fee500" data-action="click->share#kakao" data-share-target="kakao">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/kakao-d42cb7d45af49e054ca639c156bc12d6559ab9531ee968cc72b5d30bf7a331a3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #3c5ca9" data-action="click->share#facebook" data-share-target="facebook">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/facebook-a0ba759adf9799816de95a7a69eb1e05a0f3dd9b2a450e7009793e4dd000c3b3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #1da1f2" data-action="click->share#twitter" data-share-target="twitter">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/twitter-f15417749e292895d4c750ce8c5f90a0c2f6521f95f22d8d2e10f08dc33e9442.png">
+            </div>
+        </div>
+      </div>
+      <div data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M9 25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v14.803C5 41.895 6.12 43 7.5 43h33c1.38 0 2.5-1.105 2.5-2.467V25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v13.323H9V25.73z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 6.54a2 2 0 0 0-2 2v20a2 2 0 1 0 4 0v-20a2 2 0 0 0-2-2z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M26.949 5.797a4 4 0 0 0-5.898 0L11.526 16.19a2 2 0 1 0 2.948 2.703L24 8.5l9.526 10.392a2 2 0 0 0 2.948-2.703L26.95 5.797z"></path>
+</svg>
+
+      </div>
+    </div>
+  </div>
+
+        </div>
+      </div>
+  </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지나친 종말론적 접근은 지양해야 한다고 생각합니다. (alookso ─ 조소담)]]></title>
         <id>https://alook.so/posts/g4XtZL</id>
         <link href="https://alook.so/posts/g4XtZL"/>
         <updated>2021-10-03T19:22:37.537Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/g4XtZL">지나친 종말론적 접근은 지양해야 한다고 생각합니다. </a>]]></content>
+        <content type="html"><![CDATA[<span>저는 콘텐츠를 만드는 곳에서 일하고 있기 때문에, 기후위기를 어떻게 전하고 이야기해야, 사람들이 더 많이 콘텐츠를 볼까 많이 고민하는데요. 자주 그런 유혹이 있습니다. 더 심각하게 다룰까. 더 무섭게 이야기할까 하는 접근에 대한 유혹이요. 위기를 체감하는 건 강력한 인식 전환과 행동의 계기가 되니까요. 그리고 실제 홍수,산불, 곤충의 개체수 변화 등 정말 시각적으로 강렬한 현실들이 많거든요.&nbsp;</span><br>
+<br>
+<span>그런데 최근에는 이런 식의 접근이 사람들을 너무 무력하게 만드는 건 아닐까 하는 고민도 생겼습니다.&nbsp;
+<br>'이러다 망한다'라고 하다보니 사람들이 '이러다 어차피 망할 거면..., 이미 늦은 거면...' 이렇게 생각하는 것도 같습니다.&nbsp;</span><br>
+<br>
+<span>최근 본 기사중 가장 인상 깊었던 건 시사인의 인터뷰인데요.&nbsp;
+<br>기후과학자 김백민 교수를 인터뷰하면서 종말론과 기후위기 부정론 사이에서 균형을 잡아주는 이야기를 전했습니다. IPCC의 기후위기 시나리오에 대한 잘못된 인식도 바로잡아주고 있습니다.</span><br>
+<br>
+<span>일부만 아...</span>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[undefined (alookso ─ 조소담)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-09-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>일전에 닷페이스에서도 '에코백은 진짜 에코할까?'라는 주제로 영상을 만든 적이 있습니다. 
+<br>https://youtu.be/KYCY-chd9hE</span><br>
+<br>
+<span>영상에서 제일 핵심적인 부분을 요약해드리면, 면가방이 일회용 비닐봉투보다 지구온난화에 영향을 적게 끼치기 위해서는 131번 이상 재사용해야 한다는 연구결과가 있습니다. 얼마 전 스타벅스의 새로운 굿즈 이벤트 관련해서 사람들이 비판적인 의견을 내는 걸 보게되었었는데요. 사람들이 '친환경'이 필요하다-라는 걸 넘어서 그린워싱을 경계하고,&nbsp; '진짜 친환경'이 뭐냐 라는 질문을 던지는 단계까지 온 것 같습니다.</span><br>
+<br>
+<span>일전에 파란색(?) 혁신 기업 관련된 책을 봤었는데, 거기서 파타고니아가 '친환경 제품'에 대해 접근하는 철학이 인상 깊었어요. 단순히 '친환경'이라고 포장할 수 있는 제품을 만드는 게 아니라 기업이 제품 제조,판매,폐기까지의 생애주기를 모두 신경쓰고, 그 과정 전체에서의 영향력을 측정해야 한다는 접근이었습니다. 제품이 제조되어서...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어차피 기온은 상승할 것이니깐 (alookso ─ 윤수영)]]></title>
         <id>https://alook.so/posts/rDtvm7</id>
         <link href="https://alook.so/posts/rDtvm7"/>
         <updated>2021-10-04T17:46:54.475Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvm7">어차피 기온은 상승할 것이니깐</a>]]></content>
+        <content type="html"><![CDATA[<span>저는 기후 위기 전문가가 아닙니다. 그래서 말을 얹기가 조심스럽습니다. 그래도 제 생각을 한번 이야기해 보겠습니다. 많은 현명한 분들이 댓글로 저를 일깨워 주시리라 믿기 때문입니다.</span><br>
+<br>
+<span>지구의 기온은 올라가게 되어있는 것으로 알고 있습니다. 갑자기 인류 문명이 기적적으로 기후 위기를 해결해낼 수 있는 기술을 발전시킨다거나, 산업화 이전 시대로 돌아갈 정도로 삶의 방식을 바꾸지 않는 한 말이지요.</span><br>
+<br>
+<span>그렇기 때문에 우리가 걱정하는 많은 현상들, 그러니까 잦은 자연 재해, 해수면 상승, 수자원 부족, 그리고 전염병 발생 등의 문제는 피할 수 없는 것으로 알고 있습니다. 인류는 기후 변화로 인해 꽤나 고생을 할 것입니다.</span><br>
+<br>
+<span>그렇지만 그렇다고 해서 인류 문명이 멸망할 정도의 문제가 생기지도 않는 것으로 알고 있습니다. 인류는 어떻게든 적응할 것입니다. 적도 근처가 인간에게 가혹한 환경이 되는 만큼, 고위도 지역은 예전보다 살만해질지도 모릅니다. 새로운 자연환경은 많은 도시들에게 위기를 가...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기후 위기 관련해서 도대체 무슨 말을 믿어야 할까 (alookso ─ 윤수영)]]></title>
         <id>https://alook.so/posts/APvtDZ</id>
         <link href="https://alook.so/posts/APvtDZ"/>
         <updated>2021-10-04T00:46:45.702Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/APvtDZ">기후 위기 관련해서 도대체 무슨 말을 믿어야 할까</a>]]></content>
+        <content type="html"><![CDATA[<span>누가 좋은 글 알면 댓글로 좀 알려주세요.</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아 큰일났다 어떡하지 (alookso ─ 윤수영)]]></title>
-        <id>https://alook.so/posts/NkZtjm</id>
-        <link href="https://alook.so/posts/NkZtjm"/>
-        <updated>2021-10-04T00:46:45.703Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/NkZtjm">아 큰일났다 어떡하지</a>]]></content>
+        <title type="html"><![CDATA[undefined (alookso ─ 윤수영)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-09-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="flex items-center justify-between text-gray-900">
+  <div class="flex items-center justify-between text-gray-900">
+  <div class="relative mr-2">
+      <a href="/users/xwVtDZ"><img heigh="32px" style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white" src="https://alook.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0VKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e4ac275d61c15f4b6f3963fa136459f0f3e64d73/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hKeVpYTnBlbVZmZEc5ZlptbDBXd2RwUldsRiIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--40774ab71c68a2ef2344f4a76543ee61c12fe892/KakaoTalk_Photo_2021-09-30-17-52-51.jpeg" width="32px"></a>
+  </div>
+  <div class="flex-1 leading-5">
+    <div class="flex">
+      <div class="text-xs flex">
+        <a class="line-clamp-1 text-gray-400 whitespace-nowrap" href="/users/xwVtDZ">
+          <span class="text-gray-600 font-medium">윤수영</span>
+</a>      </div>
+    </div>
+    <div class="font-light text-gray-400 text-xxs">
+      2021.09.30.
+    </div>
+  </div>
+</div>
+  
+</div>
+  <div class="mt-2 mb-1">
+      <div class="inline space-x-2">
+    <div class="inline border-l-2 pl-1 border-purple-300 text-xs text-purple-600 font-semibold">
+      얼룩커 픽
+    </div>
+</div>
+
+  </div>
+
+
+  <div class="flex-auto space-y-2 mt-2">
+        <h5 class="font-medium text-break" data-qa="post-title">
+          <a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/NkZtjm">아 큰일났다 어떡하지</a>
+        </h5>
+
+      <h6 class="mb-2 font-normal text-gray-500">
+    <a class="trix-content-post-partial line-clamp-5" href="/posts/NkZtjm">
+      <div class="trix-content">
+          <span>뭔가 글을 써야 하는데 무슨 말을 써야 할지 모르겠다 딱히 자신 있게 할 수 있는 말도 없는데 그래도 뭔갈 써야 하는데 으으으음</span>
+      </div>
+</a></h6>
+
+
+        <div class="pt-1">
+          <div class="space-y-2">
+    <span class="inline-block">
+      <button type="button" class="flex items-center p-1 text-xs font-light text-gray-500 border border-gray-300 rounded">
+        <a href="/topics/open">
+          새로운 질문을 던져주세요.
+</a>      </button>
+    </span>
+</div>
+        </div>
+
+      <div class="flex justify-between pt-3 text-sm font-light text-gray-400">
+        <span class="flex items-center">
+          <a class="inline-block h-full whitespace-nowrap" href="/posts/NkZtjm#reply">
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 4C12.972 4 4 11.537 4 20.8c0 6.107 3.796 11.584 10 14.561v6.518c0 1.67 1.925 2.605 3.237 1.572l7.443-5.861C35.394 37.29 44 29.872 44 20.8 44 11.537 35.028 4 24 4z" fill="#fff"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 37.759v-4.915l-2.27-1.089C10.672 29.327 8 25.117 8 20.8 8 14.371 14.5 8 24 8s16 6.371 16 12.8c0 6.301-6.222 12.533-15.432 12.791l-1.323.037L18 37.758zM4 20.8C4 11.537 12.972 4 24 4s20 7.537 20 16.8c0 9.072-8.606 16.49-19.32 16.79l-7.443 5.86c-1.311 1.034-3.237.1-3.237-1.57V35.36C7.796 32.384 4 26.907 4 20.8zM16 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm10-2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"></path>
+</svg>
+
+              2
+</a>        </span>
+        <div class="flex items-center space-x-4">
+          <div class="h-full whitespace-nowrap like_button_post_NkZtjm">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTM4MAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAyOjQ1OjE1LjEwMFoGOwBU--10ebaee32f572ef343ad323765656a5b64345b2a"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
+</svg>
+
+    <span class="font-light ">
+      7
+    </span>
+</button><input type="hidden" name="authenticity_token" value="5UmODcd2oZzr71VgDdCOQNDbbgY31-QnH1bmoYZvudlxQ-V2Zm2ncHkdJw3l2fC7-2QkFtRkdKw9nPMadQUY2w"></form></div>
+            <div>
+    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
+      <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="아 큰일났다 어떡하지 #alookso" data-share-url-value="https://alook.so/posts/NkZtjm" data-share-kakao-title-value="아 큰일났다 어떡하지" data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="뭔가 글을 써야 하는데 무슨 말을 써야 할지 모르겠다 딱히 자신 있게 할 수 있는 말도 없는데 그래도 뭔갈 써야 하는데 으으으음">
+        <div class="flex p-4 space-x-3 overflow-hidden bg-white border rounded shadow">
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #fee500" data-action="click->share#kakao" data-share-target="kakao">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/kakao-d42cb7d45af49e054ca639c156bc12d6559ab9531ee968cc72b5d30bf7a331a3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #3c5ca9" data-action="click->share#facebook" data-share-target="facebook">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/facebook-a0ba759adf9799816de95a7a69eb1e05a0f3dd9b2a450e7009793e4dd000c3b3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #1da1f2" data-action="click->share#twitter" data-share-target="twitter">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/twitter-f15417749e292895d4c750ce8c5f90a0c2f6521f95f22d8d2e10f08dc33e9442.png">
+            </div>
+        </div>
+      </div>
+      <div data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M9 25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v14.803C5 41.895 6.12 43 7.5 43h33c1.38 0 2.5-1.105 2.5-2.467V25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v13.323H9V25.73z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 6.54a2 2 0 0 0-2 2v20a2 2 0 1 0 4 0v-20a2 2 0 0 0-2-2z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M26.949 5.797a4 4 0 0 0-5.898 0L11.526 16.19a2 2 0 1 0 2.948 2.703L24 8.5l9.526 10.392a2 2 0 0 0 2.948-2.703L26.95 5.797z"></path>
+</svg>
+
+      </div>
+    </div>
+  </div>
+
+        </div>
+      </div>
+  </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요? (alookso ─ 이재웅)]]></title>
-        <id>https://alook.so/posts/QeVtBj</id>
-        <link href="https://alook.so/posts/QeVtBj"/>
-        <updated>2021-10-04T00:48:42.913Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/QeVtBj">일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요?</a>]]></content>
+        <title type="html"><![CDATA[undefined (alookso ─ 이재웅)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-10-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="flex items-center justify-between text-gray-900">
+  <div class="flex items-center justify-between text-gray-900">
+  <div class="relative mr-2">
+      <a href="/users/6mt7oo"><img heigh="32px" style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white" src="https://alook.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1lJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f30964ffd101c7d5481657fe881a206eea53057b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hKeVpYTnBlbVZmZEc5ZlptbDBXd2RwUldsRiIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--40774ab71c68a2ef2344f4a76543ee61c12fe892/7FF8B8DD-65D1-4A4C-80D2-1EE105DD9435.jpeg" width="32px"></a>
+  </div>
+  <div class="flex-1 leading-5">
+    <div class="flex">
+      <div class="text-xs flex">
+        <a class="line-clamp-1 text-gray-400 whitespace-nowrap" href="/users/6mt7oo">
+          <span class="text-gray-600 font-medium">이재웅</span>
+            <span class="text-xs text-gray-500">
+              ·
+            </span>
+            <span class="break-all font-normal text-gray-400">함께 만드는 솔루션이 좋은 엔지니어</span>
+</a>      </div>
+    </div>
+    <div class="font-light text-gray-400 text-xxs">
+      2021.10.01.
+    </div>
+  </div>
+</div>
+  
+</div>
+  <div class="mt-2 mb-1">
+      <div class="inline space-x-2">
+    <div class="inline border-l-2 pl-1 border-purple-300 text-xs text-purple-600 font-semibold">
+      얼룩커 픽
+    </div>
+</div>
+
+  </div>
+
+
+  <div class="flex-auto space-y-2 mt-2">
+        <h5 class="font-medium text-break" data-qa="post-title">
+          <a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/QeVtBj">일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요?</a>
+        </h5>
+
+      <h6 class="mb-2 font-normal text-gray-500">
+    <a class="trix-content-post-partial line-clamp-5" href="/posts/QeVtBj">
+      <div class="trix-content">
+          <span>동영상을 일단 한번 보시죠. (동영상이 잘 삽입이 안되네요..)
+<br>https://youtu.be/ZPmsvnouJ9w</span><br>
+<br>
+<span>Traptic이 얼마 전 상용 서비스를 시작했는데요, 앞으로의 일자리의 변화에 대해서 생각해볼만한 거리가 있습니다. 저임금 일자리는 로봇이 대체해서 생산성을 높이고 소비자에게 낮은 가격으로 더 많은 재화를 공급하는 것이 좋은 방향이 맞는 것 같은데, 그렇게 없어지는 일자리는 어떻게 해야할까요? 국민의 4대의무중 하나인 노동을 의무로 접근하기 보다는 국민에게 노동을 할 권리 혹은 노동을 하지 않아도 먹고 살 권리가 보장되어야 하는 것 아닐까요? 한번 생각해봤으면 좋겠습니다.&nbsp; &nbsp;</span><br>
+<br>
+<span>(숫자는 아주 대충 이야기하는 것이니 인용하시려고 하면 다시 확인해주세요. 아주 틀린 숫자는 없을텐데, 있다면 알려주시면 고맙겠습니다.)</span><br>
+<br>
+<span>딸기만 미국시장이 연 10조원쯤 된답니다. 그 중 50% 정도가 수확에 들어가는 비용이라고 하네요. 캘리포니아만 1.3조 정도가 딸기수확에 들어가...</span>
+      </div>
+</a></h6>
+
+
+        <div class="pt-1">
+          <div class="space-y-2">
+    <span class="inline-block">
+      <button type="button" class="flex items-center p-1 text-xs font-light text-gray-500 border border-gray-300 rounded">
+        <a href="/topics/job">
+          기술 발전이 일자리를 늘릴까요 없앨까요?
+</a>      </button>
+    </span>
+</div>
+        </div>
+
+      <div class="flex justify-between pt-3 text-sm font-light text-gray-400">
+        <span class="flex items-center">
+          <a class="inline-block h-full whitespace-nowrap" href="/posts/QeVtBj#reply">
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 4C12.972 4 4 11.537 4 20.8c0 6.107 3.796 11.584 10 14.561v6.518c0 1.67 1.925 2.605 3.237 1.572l7.443-5.861C35.394 37.29 44 29.872 44 20.8 44 11.537 35.028 4 24 4z" fill="#fff"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 37.759v-4.915l-2.27-1.089C10.672 29.327 8 25.117 8 20.8 8 14.371 14.5 8 24 8s16 6.371 16 12.8c0 6.301-6.222 12.533-15.432 12.791l-1.323.037L18 37.758zM4 20.8C4 11.537 12.972 4 24 4s20 7.537 20 16.8c0 9.072-8.606 16.49-19.32 16.79l-7.443 5.86c-1.311 1.034-3.237.1-3.237-1.57V35.36C7.796 32.384 4 26.907 4 20.8zM16 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm10-2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"></path>
+</svg>
+
+              답글
+</a>        </span>
+        <div class="flex items-center space-x-4">
+          <div class="h-full whitespace-nowrap like_button_post_QeVtBj">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTc1MwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAyOjQ1OjIyLjU2NVoGOwBU--8267fe8397c71030a4755e6da32b7c30f6955a21"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
+</svg>
+
+    <span class="font-light ">
+      10
+    </span>
+</button><input type="hidden" name="authenticity_token" value="n5jfe2VddQKvRP0DRZNmGbrQrH-ktOIEpbinXLZFV66-YKOG2iCLJKZB9vvMABX7tfPiUb6Rax0b-9mfHGMlng"></form></div>
+            <div>
+    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
+      <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요? #alookso" data-share-url-value="https://alook.so/posts/QeVtBj" data-share-kakao-title-value="일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요?" data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="동영상을 일단 한번 보시죠. (동영상이 잘 삽입이 안되네요..)\nhttps://youtu.be/ZPmsvnouJ9w\n\n Traptic이 얼마 전 상용 서비스를 시작했는데요, 앞으로의 일자리의 변화에 대해서 생각해볼만한 거리가 있습니다. 저임금 일자리는 로봇이 대체해서 생산성을 높이고 소비자에게 낮은 가격으로 더 많은 재화를 공급하는 것이 좋은 방향이 맞는 것 같은데, 그렇게 없어지는 일자리는 어떻게 해야할까요? 국민의 4대의무중 하나인 노...">
+        <div class="flex p-4 space-x-3 overflow-hidden bg-white border rounded shadow">
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #fee500" data-action="click->share#kakao" data-share-target="kakao">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/kakao-d42cb7d45af49e054ca639c156bc12d6559ab9531ee968cc72b5d30bf7a331a3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #3c5ca9" data-action="click->share#facebook" data-share-target="facebook">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/facebook-a0ba759adf9799816de95a7a69eb1e05a0f3dd9b2a450e7009793e4dd000c3b3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #1da1f2" data-action="click->share#twitter" data-share-target="twitter">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/twitter-f15417749e292895d4c750ce8c5f90a0c2f6521f95f22d8d2e10f08dc33e9442.png">
+            </div>
+        </div>
+      </div>
+      <div data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M9 25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v14.803C5 41.895 6.12 43 7.5 43h33c1.38 0 2.5-1.105 2.5-2.467V25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v13.323H9V25.73z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 6.54a2 2 0 0 0-2 2v20a2 2 0 1 0 4 0v-20a2 2 0 0 0-2-2z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M26.949 5.797a4 4 0 0 0-5.898 0L11.526 16.19a2 2 0 1 0 2.948 2.703L24 8.5l9.526 10.392a2 2 0 0 0 2.948-2.703L26.95 5.797z"></path>
+</svg>
+
+      </div>
+    </div>
+  </div>
+
+        </div>
+      </div>
+  </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미래의 일자리에 대한 팟캐스트 추천 (alookso ─ 이재웅)]]></title>
-        <id>https://alook.so/posts/N2xtYZ</id>
-        <link href="https://alook.so/posts/N2xtYZ"/>
-        <updated>2021-10-04T00:48:42.914Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/N2xtYZ">미래의 일자리에 대한 팟캐스트 추천</a>]]></content>
+        <title type="html"><![CDATA[undefined (alookso ─ 이재웅)]]></title>
+        <id>https://LIFECORD.github.io/platform/all.xml</id>
+        <link href="https://LIFECORD.github.io/platform/all.xml"/>
+        <updated>2021-09-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="flex items-center justify-between text-gray-900">
+  <div class="flex items-center justify-between text-gray-900">
+  <div class="relative mr-2">
+      <a href="/users/6mt7oo"><img heigh="32px" style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white" src="https://alook.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1lJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f30964ffd101c7d5481657fe881a206eea53057b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hKeVpYTnBlbVZmZEc5ZlptbDBXd2RwUldsRiIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--40774ab71c68a2ef2344f4a76543ee61c12fe892/7FF8B8DD-65D1-4A4C-80D2-1EE105DD9435.jpeg" width="32px"></a>
+  </div>
+  <div class="flex-1 leading-5">
+    <div class="flex">
+      <div class="text-xs flex">
+        <a class="line-clamp-1 text-gray-400 whitespace-nowrap" href="/users/6mt7oo">
+          <span class="text-gray-600 font-medium">이재웅</span>
+            <span class="text-xs text-gray-500">
+              ·
+            </span>
+            <span class="break-all font-normal text-gray-400">함께 만드는 솔루션이 좋은 엔지니어</span>
+</a>      </div>
+    </div>
+    <div class="font-light text-gray-400 text-xxs">
+      2021.09.30.
+    </div>
+  </div>
+</div>
+  
+</div>
+  <div class="mt-2 mb-1">
+      <div class="inline space-x-2">
+    <div class="inline border-l-2 pl-1 border-purple-300 text-xs text-purple-600 font-semibold">
+      얼룩커 픽
+    </div>
+</div>
+
+  </div>
+
+
+  <div class="flex-auto space-y-2 mt-2">
+        <h5 class="font-medium text-break" data-qa="post-title">
+          <a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/N2xtYZ">미래의 일자리에 대한 팟캐스트 추천</a>
+        </h5>
+
+      <h6 class="mb-2 font-normal text-gray-500">
+    <a class="trix-content-post-partial line-clamp-5" href="/posts/N2xtYZ">
+      <div class="trix-content">
+          <span>뉴욕대에서 정치경제학을 연구하는 유혜영 교수의 팟캐스트 &lt;아메리카노 시즌2&gt;의 ‘미래의 일자리편’을 들어보시기를 추천합니다. &nbsp; “기술 혁신은 인간의 노동, 일자리를 어떻게 바꿔놓을지 MIT 태스크포스가 펴낸 '미래의 일자리' 보고서를 분석했습니다 ( https://workofthefuture.mit.edu ). 미래의 기술, 그로 인한 생산성 혁신은 인류에게 유토피아를 약속하지 않습니다. 그렇다고 로봇이 인간을 모두 대체하는 디스토피아가 필연적으로 예정된 것도 아닙니다. 생산성 혁신으로 인한 혜택을 고루 누리기 위해 우리는 어떤 준비를 해야 할지 함께 살펴봤습니다.”라고 소개가 되어 있는데, 아주 객관적으로 잘 정리해서 설명하고 있습니다.</span>
+      </div>
+</a></h6>
+
+
+        <div class="pt-1">
+          <div class="space-y-2">
+    <span class="inline-block">
+      <button type="button" class="flex items-center p-1 text-xs font-light text-gray-500 border border-gray-300 rounded">
+        <a href="/topics/job">
+          기술 발전이 일자리를 늘릴까요 없앨까요?
+</a>      </button>
+    </span>
+</div>
+        </div>
+
+      <div class="flex justify-between pt-3 text-sm font-light text-gray-400">
+        <span class="flex items-center">
+          <a class="inline-block h-full whitespace-nowrap" href="/posts/N2xtYZ#reply">
+            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 4C12.972 4 4 11.537 4 20.8c0 6.107 3.796 11.584 10 14.561v6.518c0 1.67 1.925 2.605 3.237 1.572l7.443-5.861C35.394 37.29 44 29.872 44 20.8 44 11.537 35.028 4 24 4z" fill="#fff"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 37.759v-4.915l-2.27-1.089C10.672 29.327 8 25.117 8 20.8 8 14.371 14.5 8 24 8s16 6.371 16 12.8c0 6.301-6.222 12.533-15.432 12.791l-1.323.037L18 37.758zM4 20.8C4 11.537 12.972 4 24 4s20 7.537 20 16.8c0 9.072-8.606 16.49-19.32 16.79l-7.443 5.86c-1.311 1.034-3.237.1-3.237-1.57V35.36C7.796 32.384 4 26.907 4 20.8zM16 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm10-2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"></path>
+</svg>
+
+              1
+</a>        </span>
+        <div class="flex items-center space-x-4">
+          <div class="h-full whitespace-nowrap like_button_post_N2xtYZ">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTI4OAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAyOjQ1OjIyLjU3M1oGOwBU--57b04185fc39403f8cd2dd5c69f54e9602973018"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
+</svg>
+
+    <span class="font-light ">
+      14
+    </span>
+</button><input type="hidden" name="authenticity_token" value="n5jfe2VddQKvRP0DRZNmGbrQrH-ktOIEpbinXLZFV66-YKOG2iCLJKZB9vvMABX7tfPiUb6Rax0b-9mfHGMlng"></form></div>
+            <div>
+    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
+      <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="미래의 일자리에 대한 팟캐스트 추천 #alookso" data-share-url-value="https://alook.so/posts/N2xtYZ" data-share-kakao-title-value="미래의 일자리에 대한 팟캐스트 추천" data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="뉴욕대에서 정치경제학을 연구하는 유혜영 교수의 팟캐스트 &amp;lt;아메리카노 시즌2&amp;gt;의 ‘미래의 일자리편’을 들어보시기를 추천합니다. &nbsp; “기술 혁신은 인간의 노동, 일자리를 어떻게 바꿔놓을지 MIT 태스크포스가 펴낸 \'미래의 일자리\' 보고서를 분석했습니다 ( https://workofthefuture.mit.edu ). 미래의 기술, 그로 인한 생산성 혁신은 인류에게 유토피아를 약속하지 않습니다. 그렇다고 로봇이 인간을 모두 대체하는 ...">
+        <div class="flex p-4 space-x-3 overflow-hidden bg-white border rounded shadow">
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #fee500" data-action="click->share#kakao" data-share-target="kakao">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/kakao-d42cb7d45af49e054ca639c156bc12d6559ab9531ee968cc72b5d30bf7a331a3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #3c5ca9" data-action="click->share#facebook" data-share-target="facebook">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/facebook-a0ba759adf9799816de95a7a69eb1e05a0f3dd9b2a450e7009793e4dd000c3b3.png">
+            </div>
+            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #1da1f2" data-action="click->share#twitter" data-share-target="twitter">
+              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/twitter-f15417749e292895d4c750ce8c5f90a0c2f6521f95f22d8d2e10f08dc33e9442.png">
+            </div>
+        </div>
+      </div>
+      <div data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="h-4 w-4 fill-current">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M9 25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v14.803C5 41.895 6.12 43 7.5 43h33c1.38 0 2.5-1.105 2.5-2.467V25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v13.323H9V25.73z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 6.54a2 2 0 0 0-2 2v20a2 2 0 1 0 4 0v-20a2 2 0 0 0-2-2z"></path>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M26.949 5.797a4 4 0 0 0-5.898 0L11.526 16.19a2 2 0 1 0 2.948 2.703L24 8.5l9.526 10.392a2 2 0 0 0 2.948-2.703L26.95 5.797z"></path>
+</svg>
+
+      </div>
+    </div>
+  </div>
+
+        </div>
+      </div>
+  </div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나를 괴롭히는 책들 (alookso ─ 신요조)]]></title>
         <id>https://alook.so/posts/70tkvR</id>
         <link href="https://alook.so/posts/70tkvR"/>
         <updated>2021-10-08T02:13:59.859Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tkvR">나를 괴롭히는 책들</a>]]></content>
+        <content type="html"><![CDATA[<span>책방을 운영하고 있다보면 원없이 책을 읽을 수 있어서 좋겠다는 말을 종종 듣습니다.
+<br>저도 사실은 그럴 줄 알고 책방을 시작했는데… 책방을 하고나서는 일을 하느라 읽고 싶은 책을 더 못읽게 되고 말았습니다. 아마 저 뿐 아니라 출판사든 방송국이든 책을 매일 만지고 다루는 분들은 어쩐지 모두 비슷한 고민을 하시지 않을까 짐작해보는데요. 책은 자신을 싫어하는 사람보다 좋아하는 사람에게 더 가혹한 물건 같습니다. 
+<br>요즘 저를 괴롭히고 있는 책들을 소개해드리고 싶어요. 너무 읽고 싶은데 바빠서 못읽고 있는 책이에요.
+<br>&nbsp;
+<br>앤 카슨의 신간 &lt;짧은 이야기들&gt;, &lt;유리, 아이러니 그리고 신&gt; 이 얼마전 함께 선보였습니다. 서울에서 책방을 운영할 때 &lt;남편의 아름다움&gt;을 얼마나 많이 영업(?)했는지 몰라요. 이렇게 두 권의 책이 한번에 나와주다니 너무 신나서 안절부절입니다. 그 뿐 아니라, 마음산책 출판사의 ‘말’ 시리즈에서는 &lt;뒤라스의 말&gt; 이 출간되...</span>]]></content>
     </entry>
 </feed>
