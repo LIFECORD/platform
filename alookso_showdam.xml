@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/qQPtde</id>
     <title>alookso ─ 조소담</title>
-    <updated>2021-10-08T02:45:34.321Z</updated>
+    <updated>2021-10-08T03:11:05.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -38,16 +38,6 @@
 <span>다른 분들은 주4일제라는 테마를 두고 어떤 상상을 하실지 궁금하네요.&nbsp;</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
-        <id>https://alook.so/users/qQPtde</id>
-        <link href="https://alook.so/users/qQPtde"/>
-        <updated>2021-10-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<span>다른 글에서 제가 추천한 기사인데요. 저는 이 기사가 좋았습니다. 기후과학자 김백민 교수를 인터뷰하면서 종말론과 기후위기 부정론 사이에서 균형을 잡아주는 이야기를 전했습니다. IPCC 보고서 1차~6차 핵심 요약도 이미지로 첨부되어있어요. IPCC의 기후위기 시나리오에 대한 잘못된 인식도 바로잡아주고 있습니다.</span><br>
-<br>
-<span>시사인 이오성 기자 | 지구 온도 1.5℃ 상승해도 되돌릴 기회 있다
-<br>https://www.sisain.co.kr/news/articleView.html?idxno=45494&nbsp;</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[자격 없는 자들을 끌어내릴 수 있게 됐습니다]]></title>
         <id>https://alook.so/posts/g4Xt0R</id>
         <link href="https://alook.so/posts/g4Xt0R"/>
@@ -59,7 +49,7 @@
 <span>그리고 미래에 '성폭력을 저지르지 않는 것'을 자격 조건으로 만들어야 하지 않을까요? 현재는 교직 등에 제한적으로 적용되는 것처럼 성범죄를 저지른 사람은 기업 임원이 될 수 없게 하거나, 국가 기관의 장 또는 고위직이 될 수 없도록 하는 제한도 필요하다고 생각해요.&nbsp;</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[3]]></title>
         <id>https://alook.so/users/qQPtde</id>
         <link href="https://alook.so/users/qQPtde"/>
         <updated>2021-09-30T00:00:00.000Z</updated>
@@ -132,7 +122,7 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_QeVt36">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTM5MwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAyOjQ1OjA2LjMwNVoGOwBU--8b4a2a0d90006c40d3c418b4e421905cea03fe7f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTM5MwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjEwOjQxLjUzMVoGOwBU--cf760ff63a29d3aea7cfdce8c3ff18e2f137bfd9"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
     <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
 </svg>
@@ -140,132 +130,10 @@
     <span class="font-light ">
       47
     </span>
-</button><input type="hidden" name="authenticity_token" value="ifNa8_LkU6pi5M9Ue-idVaKCw2wAVhoaEXRwfW3_XN6yt-Eb53dYmAvrHpoWcH5kneclW2cqcm9Mt8T3gekuLw"></form></div>
+</button><input type="hidden" name="authenticity_token" value="BP6-BFEnyrKPp1cZdzxEEdbSqiTRMJzohPy1sMRtK-w8ZbotdStjeESu2SFSk4yHN-OuU0DAx46AUFlXyMm-SQ"></form></div>
             <div>
     <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
       <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="사실 이미 된다고 합니다 (수군수군)  #alookso" data-share-url-value="https://alook.so/posts/QeVt36" data-share-kakao-title-value="사실 이미 된다고 합니다 (수군수군) " data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="&nbsp;혼인신고 조건에 동성 간 결혼하면 안 된다는 \'금지\' 조항이 없대요.&nbsp;\n">
-        <div class="flex p-4 space-x-3 overflow-hidden bg-white border rounded shadow">
-            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #fee500" data-action="click->share#kakao" data-share-target="kakao">
-              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/kakao-d42cb7d45af49e054ca639c156bc12d6559ab9531ee968cc72b5d30bf7a331a3.png">
-            </div>
-            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #3c5ca9" data-action="click->share#facebook" data-share-target="facebook">
-              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/facebook-a0ba759adf9799816de95a7a69eb1e05a0f3dd9b2a450e7009793e4dd000c3b3.png">
-            </div>
-            <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #1da1f2" data-action="click->share#twitter" data-share-target="twitter">
-              <img class="w-5 h-5" src="https://alook.so/assets/social_provider/twitter-f15417749e292895d4c750ce8c5f90a0c2f6521f95f22d8d2e10f08dc33e9442.png">
-            </div>
-        </div>
-      </div>
-      <div data-action="click->dropdown#toggle click@window->dropdown#hide" role="button" data-dropdown-target="button" tabindex="0" class="inline-block select-none">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="h-4 w-4 fill-current">
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M9 25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v14.803C5 41.895 6.12 43 7.5 43h33c1.38 0 2.5-1.105 2.5-2.467V25.73c0-1.09-.895-1.974-2-1.974s-2 .884-2 1.974v13.323H9V25.73z"></path>
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 6.54a2 2 0 0 0-2 2v20a2 2 0 1 0 4 0v-20a2 2 0 0 0-2-2z"></path>
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M26.949 5.797a4 4 0 0 0-5.898 0L11.526 16.19a2 2 0 1 0 2.948 2.703L24 8.5l9.526 10.392a2 2 0 0 0 2.948-2.703L26.95 5.797z"></path>
-</svg>
-
-      </div>
-    </div>
-  </div>
-
-        </div>
-      </div>
-  </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5]]></title>
-        <id>https://alook.so/users/qQPtde</id>
-        <link href="https://alook.so/users/qQPtde"/>
-        <updated>2021-09-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a href="/posts/g6MtM9">
-  <div class="py-2 pl-2 mb-2 text-xs font-semibold text-gray-500 bg-gray-100 rounded">
-    최소한 이 플랫폼에 있는 사람들은 약자가 아니라 생각해요.
-    <span>의 </span><span class="font-semibold">답글</span>
-  </div>
-</a>
-
-  <div class="flex items-center justify-between text-gray-900">
-  <div class="flex items-center justify-between text-gray-900">
-  <div class="relative mr-2">
-      <a href="/users/qQPtde"><img heigh="32px" style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white" src="https://alook.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ29KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e562e2f4a53f50865d7664ade6d524212f8319d0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJYW5CbkJqb0dSVlE2RW5KbGMybDZaVjkwYjE5bWFYUmJCMmxGYVVVPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--e654fd14f4df7069a8a034146f678551e2aeda8b/IMG_1781.jpg" width="32px"></a>
-      <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="absolute bottom-0 left-5 block h-4 w-4 text-purple-500 fill-current">
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 4C12.972 4 4 11.537 4 20.8c0 6.107 3.796 11.584 10 14.561v6.518c0 1.67 1.925 2.605 3.237 1.572l7.443-5.861C35.394 37.29 44 29.872 44 20.8 44 11.537 35.028 4 24 4z" fill="#fff"></path>
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 37.759v-4.915l-2.27-1.089C10.672 29.327 8 25.117 8 20.8 8 14.371 14.5 8 24 8s16 6.371 16 12.8c0 6.301-6.222 12.533-15.432 12.791l-1.323.037L18 37.758zM4 20.8C4 11.537 12.972 4 24 4s20 7.537 20 16.8c0 9.072-8.606 16.49-19.32 16.79l-7.443 5.86c-1.311 1.034-3.237.1-3.237-1.57V35.36C7.796 32.384 4 26.907 4 20.8zM16 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm10-2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"></path>
-</svg>
-
-  </div>
-  <div class="flex-1 leading-5">
-    <div class="flex">
-      <div class="text-xs flex">
-        <a class="line-clamp-1 text-gray-400 whitespace-nowrap" href="/users/qQPtde">
-          <span class="text-gray-600 font-medium">조소담</span>
-            <span class="text-xs text-gray-500">
-              ·
-            </span>
-            <span class="break-all font-normal text-gray-400">닷페이스</span>
-</a>      </div>
-    </div>
-    <div class="font-light text-gray-400 text-xxs">
-      2021.09.30.
-    </div>
-  </div>
-</div>
-  
-</div>
-  <div class="mt-2 mb-1">
-      <div class="inline space-x-2">
-    <div class="inline border-l-2 pl-1 border-purple-300 text-xs text-purple-600 font-semibold">
-      얼룩커 픽
-    </div>
-</div>
-
-  </div>
-
-
-  <div class="flex-auto space-y-2 mt-2">
-
-      <h6 class="mb-2 font-normal text-gray-500">
-    <a class="trix-content-post-partial line-clamp-5" href="/posts/QjdtB7">
-      <div class="trix-content">
-          <span>저는 '우리는 약자는 아니지 않냐'라는 말이 나오는 커뮤니티가 '우리는 강자는 아니지 않냐'라는 이야기가 나오는 커뮤니티보다 적다고 느끼기 때문에, 이 자기성찰이 반가운 측면도 있는데요. 한편으로는 이런 자기성찰이 무엇을 위한 것인지 싶기도 하고, 위선적인 수사가 될 수도 있지 않나 생각해요. 이 커뮤니티 안에 있는 사람이 자기의 취약성을 드러내기 어렵게 만드는 말일 수도 있다고 생각하고요. 서로 단편적인 정보로 여기 참여자들을 정의하기에는 우리가 서로 모르는 것이 너무 많잖아요. 강자/약자- 가해/피해와 같은 개념은 사회적 맥락 안에서 구성되는 것이기도 하고요.&nbsp;</span>
-      </div>
-</a></h6>
-
-
-        <div class="pt-1">
-          <div class="space-y-2">
-    <span class="inline-block">
-      <button type="button" class="flex items-center p-1 text-xs font-light text-gray-500 border border-gray-300 rounded">
-        <a href="/topics/disadvantaged">
-          우리 사회의 약자는 누구일까요?
-</a>      </button>
-    </span>
-</div>
-        </div>
-
-      <div class="flex justify-between pt-3 text-sm font-light text-gray-400">
-        <span class="flex items-center">
-          <a class="inline-block h-full whitespace-nowrap" href="/posts/QjdtB7#reply">
-            <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current">
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M24 4C12.972 4 4 11.537 4 20.8c0 6.107 3.796 11.584 10 14.561v6.518c0 1.67 1.925 2.605 3.237 1.572l7.443-5.861C35.394 37.29 44 29.872 44 20.8 44 11.537 35.028 4 24 4z" fill="#fff"></path>
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 37.759v-4.915l-2.27-1.089C10.672 29.327 8 25.117 8 20.8 8 14.371 14.5 8 24 8s16 6.371 16 12.8c0 6.301-6.222 12.533-15.432 12.791l-1.323.037L18 37.758zM4 20.8C4 11.537 12.972 4 24 4s20 7.537 20 16.8c0 9.072-8.606 16.49-19.32 16.79l-7.443 5.86c-1.311 1.034-3.237.1-3.237-1.57V35.36C7.796 32.384 4 26.907 4 20.8zM16 23a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm8 0a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm10-2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"></path>
-</svg>
-
-              1
-</a>        </span>
-        <div class="flex items-center space-x-4">
-          <div class="h-full whitespace-nowrap like_button_post_QjdtB7">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTM1NgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAyOjQ1OjA2LjMxM1oGOwBU--ee48863de336ce0ec75945fe120292dd35ac1b53"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
-    <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
-</svg>
-
-    <span class="font-light ">
-      25
-    </span>
-</button><input type="hidden" name="authenticity_token" value="ifNa8_LkU6pi5M9Ue-idVaKCw2wAVhoaEXRwfW3_XN6yt-Eb53dYmAvrHpoWcH5kneclW2cqcm9Mt8T3gekuLw"></form></div>
-            <div>
-    <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
-      <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="답글: 최소한 이 플랫폼에 있는 사람들은 약자가 아니라 생각해요. #alookso" data-share-url-value="https://alook.so/posts/QjdtB7" data-share-kakao-title-value="답글: 최소한 이 플랫폼에 있는 사람들은 약자가 아니라 생각해요." data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="저는 \'우리는 약자는 아니지 않냐\'라는 말이 나오는 커뮤니티가 \'우리는 강자는 아니지 않냐\'라는 이야기가 나오는 커뮤니티보다 적다고 느끼기 때문에, 이 자기성찰이 반가운 측면도 있는데요. 한편으로는 이런 자기성찰이 무엇을 위한 것인지 싶기도 하고, 위선적인 수사가 될 수도 있지 않나 생각해요. 이 커뮤니티 안에 있는 사람이 자기의 취약성을 드러내기 어렵게 만드는 말일 수도 있다고 생각하고요. 서로 단편적인 정보로 여기 참여자들을 정의하기에...">
         <div class="flex p-4 space-x-3 overflow-hidden bg-white border rounded shadow">
             <div class="flex items-center justify-center w-12 h-12 border border-gray-300 rounded-full cursor-pointer" style="background-color: #fee500" data-action="click->share#kakao" data-share-target="kakao">
               <img class="w-5 h-5" src="https://alook.so/assets/social_provider/kakao-d42cb7d45af49e054ca639c156bc12d6559ab9531ee968cc72b5d30bf7a331a3.png">
@@ -307,17 +175,5 @@
 <br>기후과학자 김백민 교수를 인터뷰하면서 종말론과 기후위기 부정론 사이에서 균형을 잡아주는 이야기를 전했습니다. IPCC의 기후위기 시나리오에 대한 잘못된 인식도 바로잡아주고 있습니다.</span><br>
 <br>
 <span>일부만 아...</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7]]></title>
-        <id>https://alook.so/users/qQPtde</id>
-        <link href="https://alook.so/users/qQPtde"/>
-        <updated>2021-09-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<span>일전에 닷페이스에서도 '에코백은 진짜 에코할까?'라는 주제로 영상을 만든 적이 있습니다. 
-<br>https://youtu.be/KYCY-chd9hE</span><br>
-<br>
-<span>영상에서 제일 핵심적인 부분을 요약해드리면, 면가방이 일회용 비닐봉투보다 지구온난화에 영향을 적게 끼치기 위해서는 131번 이상 재사용해야 한다는 연구결과가 있습니다. 얼마 전 스타벅스의 새로운 굿즈 이벤트 관련해서 사람들이 비판적인 의견을 내는 걸 보게되었었는데요. 사람들이 '친환경'이 필요하다-라는 걸 넘어서 그린워싱을 경계하고,&nbsp; '진짜 친환경'이 뭐냐 라는 질문을 던지는 단계까지 온 것 같습니다.</span><br>
-<br>
-<span>일전에 파란색(?) 혁신 기업 관련된 책을 봤었는데, 거기서 파타고니아가 '친환경 제품'에 대해 접근하는 철학이 인상 깊었어요. 단순히 '친환경'이라고 포장할 수 있는 제품을 만드는 게 아니라 기업이 제품 제조,판매,폐기까지의 생애주기를 모두 신경쓰고, 그 과정 전체에서의 영향력을 측정해야 한다는 접근이었습니다. 제품이 제조되어서...</span>]]></content>
     </entry>
 </feed>

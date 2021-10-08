@@ -2,18 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8letPq</id>
     <title>alookso ─ 천관율</title>
-    <updated>2021-10-08T02:45:34.320Z</updated>
+    <updated>2021-10-08T03:11:05.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[0]]></title>
-        <id>https://alook.so/users/8letPq</id>
-        <link href="https://alook.so/users/8letPq"/>
-        <updated>2021-10-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<span>저는 씁니다. 보상이 사라져도 아무 차이 없이 씁니다.</span><br>
-<br>
-<span>저는 직원이라고 지금도 안주거든요(...)</span>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[cnn 인터뷰 당해본 썰]]></title>
         <id>https://alook.so/posts/w9tpMe</id>
@@ -47,21 +38,6 @@
 <span>혐오발화가 표현의 자유의 예외인 이유는? 특정 소수자 집단(소수인종, 소수종교, 성소수자 등등등)에 대한 ...</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
-        <id>https://alook.so/users/8letPq</id>
-        <link href="https://alook.so/users/8letPq"/>
-        <updated>2021-10-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<span>대단히 흥미로운 문제제기. 위에 공유한 글이 왜 흥미로운지 말하기 위해 약간 먼 길을 돌아가보자.</span><br>
-<br>
-<span>1.</span><br>
-<br>
-<span>'주권의 단위' 문제를 생각해보자. 한국은 국회의원 선거에서 선거구별 인구비율이 2:1을 넘어가면 위헌이다. 주권자 한 명의 표의 가치가 다른 주권자의 두 배를 넘으면 위헌이란 취지다. 2014년 헌재 결정이다.</span><br>
-<br>
-<span>얼핏 당연한 얘기 같지만, 이게 따져보면 간단치가 않다. 주권자의 표의 가치가 차이가 나는게 부당하다는 논리라면, 두 배 차이는 왜 괜찮은가? 아예 전국단위로 투표하고 득표율대로 정당에 의석으로 배분하면 주권자의 표의 가치는 (거의) 완전히 동등해지지 않는가? 헌재가 내놓은 2:1이라는 숫자는 그래서 재미있다.</span><br>
-<br>
-<span>2:1은 주권자 한 명의 표의 가치를 말하는 것 같지만, 사실은 괄호 치고 써놓은 주권의 단위가 하나 더 있다. (지역대표성). &lt;-- 요렇게 써 있다. 지역구 별로 선출을 하려면 표의 가치를 사람 수대로 동등하게 맞출 수가 없고,&nbsp; 역사적 문화적...</span>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[매일 글을 쓰다 보면 무슨 일인가는 반드시 일어난다.]]></title>
         <id>https://alook.so/posts/Qmbt3O</id>
         <link href="https://alook.so/posts/Qmbt3O"/>
@@ -77,16 +53,5 @@
 <span>프로젝트 얼룩소는 글 쓰는 플랫폼이다. 내용무관, 최소 길이는 50글자. 글을 쓴 사람 100명에게 만원씩 보상한다. 70일동안, 매일.&nbsp;</span><br>
 <br>
 <span>운동할 때 가장 고통스러운 건 문 밖으로 나가기다. 글쓰기도 가장 어려운 고비는 키보드에 손올리기다. 이걸 일단 통과하면, 어떻게든 근사한 일이 일어난다. 나를 바꾸거나, 주변을 바꾸거나, 세상을 바꾸거나. 만원은 원고료가 아니다...</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5]]></title>
-        <id>https://alook.so/users/8letPq</id>
-        <link href="https://alook.so/users/8letPq"/>
-        <updated>2021-09-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<span>우리는 자유무역을 당연하게 생각하지만, 100년 전에는 그것도 행성단위 팀플이었지요. 우리가 자유무역 팀플에서 무임승차자를 처벌할 방법을 찾느라 개고생을 개고생을....&nbsp;</span><br>
-<br>
-<span>우리 후대는 우리를 비웃지 않을까요? "조상들은 바보였어. 백신을 가난한 나라에 줘야 전세계가 더 안전해지는데, 그것도 모르고 선진국만 맞았대." "조상들은 바보였어. 다같이 탄소를 줄여야 우리가 살수 있는데, 그것도 모르고 서로 줄이라고 삿대질만 했대."</span><br>
-<br>
-<span>얘들아, 우리도 팀플을 잘 하는게 모두에게 좋다는건 잘 알고 있단다. 그런데 팀플은 원래 무임승차가 쩔어......</span>]]></content>
     </entry>
 </feed>
