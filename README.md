@@ -15,6 +15,7 @@ https://lifecord.github.io/geeknews/all.xml
 - 조소담: https://lifecord.github.io/platform/alookso_showdam.xml
 - 윤수영: https://lifecord.github.io/platform/alookso_sooyoung.xml
 - 이재웅: https://lifecord.github.io/platform/alookso_soventure.xml
+- 신요조: https://lifecord.github.io/platform/alookso_yozoh.xml
 
 ## [Premium](https://github.com/LIFECORD/premium)
 https://lifecord.github.io/premium/all.xml
