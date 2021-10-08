@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/xwVtDZ</id>
     <title>alookso ─ 윤수영</title>
-    <updated>2021-10-08T03:11:05.677Z</updated>
+    <updated>2021-10-08T03:24:33.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -26,7 +26,7 @@
         <content type="html"><![CDATA[<span>누가 좋은 글 알면 댓글로 좀 알려주세요.</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[아 큰일났다 어떡하지]]></title>
         <id>https://alook.so/users/xwVtDZ</id>
         <link href="https://alook.so/users/xwVtDZ"/>
         <updated>2021-09-30T00:00:00.000Z</updated>
@@ -95,7 +95,7 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_NkZtjm">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTM4MAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjEwOjQ5LjQ1OVoGOwBU--2835d099b6351b2d25134a79848f9a416eaa1eb2"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTM4MAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjI0OjE4LjE3MFoGOwBU--94828fa3b1f6953b41e03d2ade3641c378d5662b"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
     <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
 </svg>
@@ -103,7 +103,7 @@
     <span class="font-light ">
       7
     </span>
-</button><input type="hidden" name="authenticity_token" value="7kpzPvOnCCI3ZU2R3-BxV6RE_HEbAlLP8I28SFJ4_d4-ML6QsKDsrPVD_CgFDmrO1hu-PyaYU1B4y45jIl58GA"></form></div>
+</button><input type="hidden" name="authenticity_token" value="_ppDU6pRTMEltN3Awv21m5i8HuFtY7J4j-9pl8zvOZ184qeZ5MxlDhjShzu5TJssay-ZwwPU7oLaYP0KzX8mFg"></form></div>
             <div>
     <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
       <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="아 큰일났다 어떡하지 #alookso" data-share-url-value="https://alook.so/posts/NkZtjm" data-share-kakao-title-value="아 큰일났다 어떡하지" data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="뭔가 글을 써야 하는데 무슨 말을 써야 할지 모르겠다 딱히 자신 있게 할 수 있는 말도 없는데 그래도 뭔갈 써야 하는데 으으으음">

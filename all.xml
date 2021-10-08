@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-08T03:11:05.686Z</updated>
+    <updated>2021-10-08T03:24:33.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[새로운 토픽 다섯 개가 생겼어요 (alookso ─ alookso)]]></title>
@@ -312,7 +312,7 @@
 <span>그리고 미래에 '성폭력을 저지르지 않는 것'을 자격 조건으로 만들어야 하지 않을까요? 현재는 교직 등에 제한적으로 적용되는 것처럼 성범죄를 저지른 사람은 기업 임원이 될 수 없게 하거나, 국가 기관의 장 또는 고위직이 될 수 없도록 하는 제한도 필요하다고 생각해요.&nbsp;</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (alookso ─ 조소담)]]></title>
+        <title type="html"><![CDATA[사실 이미 된다고 합니다 (수군수군) (alookso ─ 조소담)]]></title>
         <id>https://LIFECORD.github.io/platform/all.xml</id>
         <link href="https://LIFECORD.github.io/platform/all.xml"/>
         <updated>2021-09-30T00:00:00.000Z</updated>
@@ -385,7 +385,7 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_QeVt36">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTM5MwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjEwOjQxLjUzMVoGOwBU--cf760ff63a29d3aea7cfdce8c3ff18e2f137bfd9"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTM5MwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjI0OjEwLjcwNVoGOwBU--af11df2122d6731b2678bd3d663fb5c7c21143d4"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
     <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
 </svg>
@@ -393,7 +393,7 @@
     <span class="font-light ">
       47
     </span>
-</button><input type="hidden" name="authenticity_token" value="BP6-BFEnyrKPp1cZdzxEEdbSqiTRMJzohPy1sMRtK-w8ZbotdStjeESu2SFSk4yHN-OuU0DAx46AUFlXyMm-SQ"></form></div>
+</button><input type="hidden" name="authenticity_token" value="hOx3DZ-2rtgIaZnVgGG-EeKy9mqkY8vmOw4Jp4DdIwXXpFNB28zpotJbKnUoYo_BSe1ZTgzf-uUEqm_4qExjpA"></form></div>
             <div>
     <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
       <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="사실 이미 된다고 합니다 (수군수군)  #alookso" data-share-url-value="https://alook.so/posts/QeVt36" data-share-kakao-title-value="사실 이미 된다고 합니다 (수군수군) " data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="&nbsp;혼인신고 조건에 동성 간 결혼하면 안 된다는 \'금지\' 조항이 없대요.&nbsp;\n">
@@ -460,7 +460,7 @@
         <content type="html"><![CDATA[<span>누가 좋은 글 알면 댓글로 좀 알려주세요.</span>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (alookso ─ 윤수영)]]></title>
+        <title type="html"><![CDATA[아 큰일났다 어떡하지 (alookso ─ 윤수영)]]></title>
         <id>https://LIFECORD.github.io/platform/all.xml</id>
         <link href="https://LIFECORD.github.io/platform/all.xml"/>
         <updated>2021-09-30T00:00:00.000Z</updated>
@@ -529,7 +529,7 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_NkZtjm">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTM4MAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjEwOjQ5LjQ1OVoGOwBU--2835d099b6351b2d25134a79848f9a416eaa1eb2"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTM4MAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjI0OjE4LjE3MFoGOwBU--94828fa3b1f6953b41e03d2ade3641c378d5662b"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
     <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
 </svg>
@@ -537,7 +537,7 @@
     <span class="font-light ">
       7
     </span>
-</button><input type="hidden" name="authenticity_token" value="7kpzPvOnCCI3ZU2R3-BxV6RE_HEbAlLP8I28SFJ4_d4-ML6QsKDsrPVD_CgFDmrO1hu-PyaYU1B4y45jIl58GA"></form></div>
+</button><input type="hidden" name="authenticity_token" value="_ppDU6pRTMEltN3Awv21m5i8HuFtY7J4j-9pl8zvOZ184qeZ5MxlDhjShzu5TJssay-ZwwPU7oLaYP0KzX8mFg"></form></div>
             <div>
     <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
       <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="아 큰일났다 어떡하지 #alookso" data-share-url-value="https://alook.so/posts/NkZtjm" data-share-kakao-title-value="아 큰일났다 어떡하지" data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="뭔가 글을 써야 하는데 무슨 말을 써야 할지 모르겠다 딱히 자신 있게 할 수 있는 말도 없는데 그래도 뭔갈 써야 하는데 으으으음">
@@ -569,7 +569,7 @@
   </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (alookso ─ 이재웅)]]></title>
+        <title type="html"><![CDATA[일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요? (alookso ─ 이재웅)]]></title>
         <id>https://LIFECORD.github.io/platform/all.xml</id>
         <link href="https://LIFECORD.github.io/platform/all.xml"/>
         <updated>2021-10-01T00:00:00.000Z</updated>
@@ -649,7 +649,7 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_QeVtBj">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTc1MwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjEwOjU2LjM1MloGOwBU--b35a1b60748a9a97c495ae8301d5a980258f154f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTc1MwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjI0OjI1LjE2MloGOwBU--81f3eb5a1f1968d00151cf03e2935bba5fd811cd"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
     <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
 </svg>
@@ -657,7 +657,7 @@
     <span class="font-light ">
       10
     </span>
-</button><input type="hidden" name="authenticity_token" value="9bt4wjZa4ZecAShXzmigI6eMAOxxLF7U3FL2d30a4odqlhvyCGPe3D63blhnNIV43zVMSLAaQ1WJy6vSZosbBg"></form></div>
+</button><input type="hidden" name="authenticity_token" value="Ul4g6xP5D0o3DDCEClE-d4SlefvZQIypNbuhpjRW_THIWtzvb_br2cVPqMbEYY7K7O_cE7-FcRA89YWkT0EXhQ"></form></div>
             <div>
     <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
       <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요? #alookso" data-share-url-value="https://alook.so/posts/QeVtBj" data-share-kakao-title-value="일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요?" data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="동영상을 일단 한번 보시죠. (동영상이 잘 삽입이 안되네요..)\nhttps://youtu.be/ZPmsvnouJ9w\n\n Traptic이 얼마 전 상용 서비스를 시작했는데요, 앞으로의 일자리의 변화에 대해서 생각해볼만한 거리가 있습니다. 저임금 일자리는 로봇이 대체해서 생산성을 높이고 소비자에게 낮은 가격으로 더 많은 재화를 공급하는 것이 좋은 방향이 맞는 것 같은데, 그렇게 없어지는 일자리는 어떻게 해야할까요? 국민의 4대의무중 하나인 노...">
@@ -689,7 +689,7 @@
   </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[undefined (alookso ─ 이재웅)]]></title>
+        <title type="html"><![CDATA[미래의 일자리에 대한 팟캐스트 추천 (alookso ─ 이재웅)]]></title>
         <id>https://LIFECORD.github.io/platform/all.xml</id>
         <link href="https://LIFECORD.github.io/platform/all.xml"/>
         <updated>2021-09-30T00:00:00.000Z</updated>
@@ -762,7 +762,7 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_N2xtYZ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTI4OAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjEwOjU2LjM2MVoGOwBU--8a583832498c5bb9d693f6572d28bf7da842cb5a"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTI4OAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjI0OjI1LjE3MFoGOwBU--1779577a6ba60b16f930a6dab811c1ab0c7cd7eb"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
     <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
 </svg>
@@ -770,7 +770,7 @@
     <span class="font-light ">
       14
     </span>
-</button><input type="hidden" name="authenticity_token" value="9bt4wjZa4ZecAShXzmigI6eMAOxxLF7U3FL2d30a4odqlhvyCGPe3D63blhnNIV43zVMSLAaQ1WJy6vSZosbBg"></form></div>
+</button><input type="hidden" name="authenticity_token" value="Ul4g6xP5D0o3DDCEClE-d4SlefvZQIypNbuhpjRW_THIWtzvb_br2cVPqMbEYY7K7O_cE7-FcRA89YWkT0EXhQ"></form></div>
             <div>
     <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
       <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="미래의 일자리에 대한 팟캐스트 추천 #alookso" data-share-url-value="https://alook.so/posts/N2xtYZ" data-share-kakao-title-value="미래의 일자리에 대한 팟캐스트 추천" data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="뉴욕대에서 정치경제학을 연구하는 유혜영 교수의 팟캐스트 &amp;lt;아메리카노 시즌2&amp;gt;의 ‘미래의 일자리편’을 들어보시기를 추천합니다. &nbsp; “기술 혁신은 인간의 노동, 일자리를 어떻게 바꿔놓을지 MIT 태스크포스가 펴낸 \'미래의 일자리\' 보고서를 분석했습니다 ( https://workofthefuture.mit.edu ). 미래의 기술, 그로 인한 생산성 혁신은 인류에게 유토피아를 약속하지 않습니다. 그렇다고 로봇이 인간을 모두 대체하는 ...">

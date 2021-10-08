@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/6mt7oo</id>
     <title>alookso ─ 이재웅</title>
-    <updated>2021-10-08T03:11:05.683Z</updated>
+    <updated>2021-10-08T03:24:33.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
+        <title type="html"><![CDATA[일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요?]]></title>
         <id>https://alook.so/users/6mt7oo</id>
         <link href="https://alook.so/users/6mt7oo"/>
         <updated>2021-10-01T00:00:00.000Z</updated>
@@ -86,7 +86,7 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_QeVtBj">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTc1MwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjEwOjU2LjM1MloGOwBU--b35a1b60748a9a97c495ae8301d5a980258f154f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTc1MwY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjI0OjI1LjE2MloGOwBU--81f3eb5a1f1968d00151cf03e2935bba5fd811cd"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
     <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
 </svg>
@@ -94,7 +94,7 @@
     <span class="font-light ">
       10
     </span>
-</button><input type="hidden" name="authenticity_token" value="9bt4wjZa4ZecAShXzmigI6eMAOxxLF7U3FL2d30a4odqlhvyCGPe3D63blhnNIV43zVMSLAaQ1WJy6vSZosbBg"></form></div>
+</button><input type="hidden" name="authenticity_token" value="Ul4g6xP5D0o3DDCEClE-d4SlefvZQIypNbuhpjRW_THIWtzvb_br2cVPqMbEYY7K7O_cE7-FcRA89YWkT0EXhQ"></form></div>
             <div>
     <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
       <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요? #alookso" data-share-url-value="https://alook.so/posts/QeVtBj" data-share-kakao-title-value="일자리가 없어지는 시대, 노동이 의무일까요? 권리일까요?" data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="동영상을 일단 한번 보시죠. (동영상이 잘 삽입이 안되네요..)\nhttps://youtu.be/ZPmsvnouJ9w\n\n Traptic이 얼마 전 상용 서비스를 시작했는데요, 앞으로의 일자리의 변화에 대해서 생각해볼만한 거리가 있습니다. 저임금 일자리는 로봇이 대체해서 생산성을 높이고 소비자에게 낮은 가격으로 더 많은 재화를 공급하는 것이 좋은 방향이 맞는 것 같은데, 그렇게 없어지는 일자리는 어떻게 해야할까요? 국민의 4대의무중 하나인 노...">
@@ -126,7 +126,7 @@
   </div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
+        <title type="html"><![CDATA[미래의 일자리에 대한 팟캐스트 추천]]></title>
         <id>https://alook.so/users/6mt7oo</id>
         <link href="https://alook.so/users/6mt7oo"/>
         <updated>2021-09-30T00:00:00.000Z</updated>
@@ -199,7 +199,7 @@
 </a>        </span>
         <div class="flex items-center space-x-4">
           <div class="h-full whitespace-nowrap like_button_post_N2xtYZ">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTI4OAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjEwOjU2LjM2MVoGOwBU--8a583832498c5bb9d693f6572d28bf7da842cb5a"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvMTI4OAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTA4VDAzOjI0OjI1LjE3MFoGOwBU--1779577a6ba60b16f930a6dab811c1ab0c7cd7eb"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 47 47" version="1.1" fill="#9CA3AF" class="inline-block mr-0.5 w-4 h-4 fill-current  ">
     <path fill-rule="evenodd" clip-rule="evenodd" d="m38.76 24.886-5.777 13.162c-.31.576-.928.952-1.619.952H17V22.146l8.164-12.893c.54.315.887.89.887 1.525v9.444a2 2 0 0 0 2 2h9.117c1.397 0 2.218 1.42 1.639 2.564a2.026 2.026 0 0 0-.047.1zM13 24.383V39H9V24.986l4-.603zM31.364 43a5.833 5.833 0 0 0 5.255-3.285l5.783-13.176c1.912-3.868-.961-8.317-5.234-8.317H30.05v-7.444c0-2.642-1.781-4.844-4.181-5.544-1.82-.53-3.277.603-3.925 1.626l-8.491 13.41-6.752 1.017A2 2 0 0 0 5 23.265V41a2 2 0 0 0 2 2h24.364z"></path>
 </svg>
@@ -207,7 +207,7 @@
     <span class="font-light ">
       14
     </span>
-</button><input type="hidden" name="authenticity_token" value="9bt4wjZa4ZecAShXzmigI6eMAOxxLF7U3FL2d30a4odqlhvyCGPe3D63blhnNIV43zVMSLAaQ1WJy6vSZosbBg"></form></div>
+</button><input type="hidden" name="authenticity_token" value="Ul4g6xP5D0o3DDCEClE-d4SlefvZQIypNbuhpjRW_THIWtzvb_br2cVPqMbEYY7K7O_cE7-FcRA89YWkT0EXhQ"></form></div>
             <div>
     <div class="relative" data-controller="dropdown" aria-haspopup="true" aria-expanded="false">
       <div data-dropdown-target="menu" class="absolute right-0 z-30 hidden mt-2 -top-24" data-controller="share" data-share-twitter-text-value="미래의 일자리에 대한 팟캐스트 추천 #alookso" data-share-url-value="https://alook.so/posts/N2xtYZ" data-share-kakao-title-value="미래의 일자리에 대한 팟캐스트 추천" data-share-kakao-image-url-value="https://alook.so/assets/og-site-c658cb8a3dbaac7173cb4b5f336daddc5e2aa60a07efecaa6a48e61a900692d0.png" data-share-kakao-description-value="뉴욕대에서 정치경제학을 연구하는 유혜영 교수의 팟캐스트 &amp;lt;아메리카노 시즌2&amp;gt;의 ‘미래의 일자리편’을 들어보시기를 추천합니다. &nbsp; “기술 혁신은 인간의 노동, 일자리를 어떻게 바꿔놓을지 MIT 태스크포스가 펴낸 \'미래의 일자리\' 보고서를 분석했습니다 ( https://workofthefuture.mit.edu ). 미래의 기술, 그로 인한 생산성 혁신은 인류에게 유토피아를 약속하지 않습니다. 그렇다고 로봇이 인간을 모두 대체하는 ...">
