@@ -2,9 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8Ogtd9</id>
     <title>alookso ─ 신요조</title>
-    <updated>2021-10-09T05:39:14.781Z</updated>
+    <updated>2021-10-09T17:42:54.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[셀카 좋아하시나요?]]></title>
+        <id>https://alook.so/posts/bWtBXb</id>
+        <link href="https://alook.so/posts/bWtBXb"/>
+        <updated>2021-10-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>신간들을 둘러보다 눈길이 갔던 책이었는데, 제가 좋아하는 곽아람 기자님께서 재빠르게 읽고 리뷰를 남겨주셨습니다. 윌 스토의 &lt;셀피&gt; 라는 책이에요.</span><br>
+<br>
+<span>https://m.blog.naver.com/jjxo/222531839328
+<br>-&gt; 기사의 원문은 요기를 클릭!</span><br>
+<br>
+<span>저자는 자존감의 중요성을 학습한 부모로부터 ‘넌 특별하다’라는 주입을 받고 자란 MZ 세대가 어떻게 ‘높은 자존감’의 강박 속에서 불행해지는지를 끊임없이 소셜미디어에 완벽한(완벽하게 보정된) 자신의 셀카를 올리는 문화를 통해 진단합니다.&nbsp;
+<br>글쎄, ‘넌 특별하다’ 라는 말은 굳이 MZ 세대만 특별히 듣고 자랐을까 라는 생각이 들긴 합니다. 뭐 예부터 한국에서 남성으로 태어난 사람들은 ‘넌 특별하다’는 메세지를 그냥 집안공기로 마시며 자라왔을테고 그게 그들에게는 칭찬이자 부담이었겠죠.
+<br>그치만 ‘셀카’ 라는 것, 그리고 거기에서 파생된 다양한 보정기술을 보며 이런저런 생각이 오랫동안 들긴 했습니다.&nbsp;
+<br>...</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나를 괴롭히는 책들]]></title>
         <id>https://alook.so/posts/70tkvR</id>
