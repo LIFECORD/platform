@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8letPq</id>
     <title>alookso ─ 천관율</title>
-    <updated>2021-10-10T05:39:20.460Z</updated>
+    <updated>2021-10-10T17:42:59.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명은 웃었는가 - 3차 선거인단 참패의 의미]]></title>
+        <id>https://alook.so/posts/54tkbk</id>
+        <link href="https://alook.so/posts/54tkbk"/>
+        <updated>2021-10-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>오늘, 이재명 경기지사가 민주당 대선후보로 확정. 그러나 3차 선거인단 투표에서는 28%만 얻어 참패. 이낙연 전 대표가 62%를 가져가며 압승.&nbsp; &nbsp;민주당의 경선 구조는 이렇다. 대의원 권리당원은 권역별 순회경선에 투표한다. 이게 말하자면 '당심'에 가깝다.&nbsp; &nbsp;일반당원과 시민은 선거인단을 모집한다. '민심'에 좀 더 가깝기는 하지만 사실 이렇게 말하면 안 된다. 이유는 뒤에 쓰자. 이 선거인단을 세 번 나눠 모집했고, 세 번 나눠 투표 - 개표했다.&nbsp;&nbsp; &nbsp;이재명(이하 호칭 생략)은 1차 선거인단에서 51%, 2차에서 58%로 이겼다. 그런데 오늘 3차를 까보니 28%로 대폭락. 2차 대비 절반 넘게 추락했다. 이것은 이번 민주당 경선 최대 이벤트다.&nbsp; &nbsp;&nbsp; &nbsp;1.&nbsp; &nbsp;2차 선거인단 투표 시작일은 9월 29일이었다. 투표율은 50%. 3차 선거인단 투표 시작일은 10월 6일이었다. 투표율은 75%. 불과 1주일만에, 투표성향과 투표율 모두 말도 안 되는 차이가 났다. ‘대장동...</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[cnn 인터뷰 당해본 썰]]></title>
         <id>https://alook.so/posts/w9tpMe</id>
