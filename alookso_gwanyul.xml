@@ -2,9 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8letPq</id>
     <title>alookso ─ 천관율</title>
-    <updated>2021-10-10T17:42:59.673Z</updated>
+    <updated>2021-10-11T05:39:45.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[역시 이재명은 못웃는다 - 3차 선거인단 참패 추가검토]]></title>
+        <id>https://alook.so/posts/q1tnLb</id>
+        <link href="https://alook.so/posts/q1tnLb"/>
+        <updated>2021-10-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<span>1.</span><br>
+<br>
+<span>어젯밤에 쓴 글(아래 공유)에서 흥미로운 토론이 있었다. 요약하면 이렇다.</span><br>
+<br>
+<span>내가 쓴 원글 요약:
+<br>이재명(호칭 생략)이 3차 선거인단 투표에서는 28%만 얻어 참패했다. 정치 고관여층인 선거인단이 대장동 이슈에 대해 일반 여론보다 한 발 앞서 불안을 느낀 것 같다. 이걸 '선행지표 가설'이라고 부르자.</span><br>
+<br>
+<span>여기에 Neolith 님이 이런 답글을 달았다. 요약:
+<br>1,2차와 달리 3차 선거인단만 경선 개시 이후에도 모집이 열려 있었다. 이재명의 첫 승리를 본 이낙연 지지자들이 위기를 느껴 3차 모집에 몰려왔을 것이다. 이걸 '경선중 모집 가설'이라고 부르자.</span><br>
+<br>
+<span>아래 글에 쓴 대로, 둘 다 가능한 얘기다. 그렇다면 어떻게 입증할 수 있을까?</span><br>
+<br>
+<span>2.</span><br>
+<br>
+<span>문제가 있다. 분석할 데이터가 없다. 엄청나게 민감한 투표자정보라서 성별연력지역같은 기초 자료도 없다. 어쩔 수 없다. 공개된 자료로만 따져 보자.</span><br>
+<br>
+<span>'경선중 모집 가설'이 전적으로 옳다면, 3차 선거인단의 충격적인 결과(이재명...</span>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이재명은 웃었는가 - 3차 선거인단 참패의 의미]]></title>
         <id>https://alook.so/posts/54tkbk</id>
@@ -43,22 +66,5 @@
 <span>따라서 표현의 자유는 자의적으로 제약될 수 없다. 사실상 유일한 예외는 그 표현 때문에 '명백 현존하는 위험'이 발생하는 경우다. 이럴 때 표현의 자유는 제약된다.</span><br>
 <br>
 <span>혐오발화가 표현의 자유의 예외인 이유는? 특정 소수자 집단(소수인종, 소수종교, 성소수자 등등등)에 대한 ...</span>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매일 글을 쓰다 보면 무슨 일인가는 반드시 일어난다.]]></title>
-        <id>https://alook.so/posts/Qmbt3O</id>
-        <link href="https://alook.so/posts/Qmbt3O"/>
-        <updated>2021-10-03T19:22:20.972Z</updated>
-        <content type="html"><![CDATA[<span>1.&nbsp;</span><br>
-<br>
-<span>네이버가 ‘오늘일기 챌린지’란 걸 한 적이 있다. 올해 5월이다. 길이무관, 내용무관, 14일동안 매일 글을 올리면 네이버페이로 16000원을 주기로 했다. 참여가 50만을 넘겨 대박이 났다.&nbsp;</span><br>
-<br>
-<span>네이버는 2주를 돌리려던 이벤트를 사흘만에 접었다. 여러 계정으로 복붙하는 어뷰저가 너무 많았단다. 뭐 그럴수 있지. 세상일이 늘 아름답게 풀릴 수는 없다. 그래도 나는, 이 이벤트가 완주를 해냈다면 누군가에게는 아주 근사한 일이 일어났을거라고 종종 상상했다. 매일 무언가를 쓴다는 건 그런 일이다.&nbsp;</span><br>
-<br>
-<span>2.</span><br>
-<br>
-<span>프로젝트 얼룩소는 글 쓰는 플랫폼이다. 내용무관, 최소 길이는 50글자. 글을 쓴 사람 100명에게 만원씩 보상한다. 70일동안, 매일.&nbsp;</span><br>
-<br>
-<span>운동할 때 가장 고통스러운 건 문 밖으로 나가기다. 글쓰기도 가장 어려운 고비는 키보드에 손올리기다. 이걸 일단 통과하면, 어떻게든 근사한 일이 일어난다. 나를 바꾸거나, 주변을 바꾸거나, 세상을 바꾸거나. 만원은 원고료가 아니다...</span>]]></content>
     </entry>
 </feed>
