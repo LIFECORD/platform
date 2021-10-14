@@ -1,10 +1,12 @@
 [figk]
 title = "FIGK"
 url = "https://figk.net/text"
-entrySelector = "//html/body/div[1]/div/div[2]/div/div/div/div"
-titleSelector = "//h1/div[1]"
-linkSelector = "//h1/div[2]/a"
-waitForSelector = "//html/body/div[1]/div/div/div/div"
+entrySelector = "div.styles_TextFIGKContainer__1iZw8"
+titleSelector = "div.styles_Title__2bpAt"
+linkSelector = "div.styles_ToolBox__2vzTh > a"
+contentSelector = "h3"
+waitUntil = "networkidle"
+onFail = "stale"
 
 [alookso_alookso]
 title = "alookso ─ alookso"
