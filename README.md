@@ -17,6 +17,9 @@ https://lifecord.github.io/geeknews/all.xml
 - 이재웅: https://lifecord.github.io/platform/alookso_soventure.xml
 - 신요조: https://lifecord.github.io/platform/alookso_yozoh.xml
 
+## FIGK
+- https://lifecord.github.io/platform/figk.xml
+
 ## [Premium](https://github.com/LIFECORD/premium)
 https://lifecord.github.io/premium/all.xml
 - https://lifecord.github.io/premium/publy.xml
