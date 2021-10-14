@@ -18,7 +18,8 @@ https://lifecord.github.io/geeknews/all.xml
 - 신요조: https://lifecord.github.io/platform/alookso_yozoh.xml
 
 ## FIGK
-- https://lifecord.github.io/platform/figk.xml
+- 최신: https://lifecord.github.io/platform/figk.xml
+- 원문: https://lifecord.github.io/platform/figk_origin.xml
 
 ## [Premium](https://github.com/LIFECORD/premium)
 https://lifecord.github.io/premium/all.xml
