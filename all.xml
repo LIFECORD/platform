@@ -2,8 +2,344 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-14T15:31:38.726Z</updated>
+    <updated>2021-10-14T15:42:18.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[세련된 메세나는 이렇게 하는 거다 (FIGK)]]></title>
+        <id>http://www.thepreview.co.kr/news/articleView.html?idxno=5202</id>
+        <link href="http://www.thepreview.co.kr/news/articleView.html?idxno=5202"/>
+        <updated>2021-10-14T15:22:32.224Z</updated>
+        <content type="html"><![CDATA[김지연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심슨 가족, 발렌시아가 모델 발탁 (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=PZHESOq-Gkw</id>
+        <link href="https://www.youtube.com/watch?v=PZHESOq-Gkw"/>
+        <updated>2021-10-14T15:22:32.224Z</updated>
+        <content type="html"><![CDATA[나지언]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유리병 속에서 잘 쉬다가 돌아와 (FIGK)]]></title>
+        <id>https://ridibooks.com/books/4575000002?_s=instant</id>
+        <link href="https://ridibooks.com/books/4575000002?_s=instant"/>
+        <updated>2021-10-14T15:22:32.224Z</updated>
+        <content type="html"><![CDATA[이서영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 가요, 제임스 본드 (FIGK)]]></title>
+        <id>https://clios.com/awards/winner/film-craft-direction/heineken/daniel-craig-vs-james-bond-94791</id>
+        <link href="https://clios.com/awards/winner/film-craft-direction/heineken/daniel-craig-vs-james-bond-94791"/>
+        <updated>2021-10-14T15:22:32.224Z</updated>
+        <content type="html"><![CDATA[나지언]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다정한 것이 살아남는다 (FIGK)]]></title>
+        <id>https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K722733028&amp;start=pnaver_02</id>
+        <link href="https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K722733028&amp;start=pnaver_02"/>
+        <updated>2021-10-09T05:37:09.850Z</updated>
+        <content type="html"><![CDATA[하미나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW RULES (FIGK)]]></title>
+        <id>https://youtu.be/0UJWIKD0lXQ</id>
+        <link href="https://youtu.be/0UJWIKD0lXQ"/>
+        <updated>2021-10-09T05:37:09.853Z</updated>
+        <content type="html"><![CDATA[복길]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본 최후의 카바레가 문을 닫았다 (FIGK)]]></title>
+        <id>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279219811</id>
+        <link href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=279219811"/>
+        <updated>2021-10-09T05:37:09.853Z</updated>
+        <content type="html"><![CDATA[차우진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국판 모던패밀리 (FIGK)]]></title>
+        <id>https://youtu.be/VKxoSGjCtEo</id>
+        <link href="https://youtu.be/VKxoSGjCtEo"/>
+        <updated>2021-10-09T05:37:09.853Z</updated>
+        <content type="html"><![CDATA[복길]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변하고 있다. 공부하는 방법도 (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=TCe0-Mag8dU</id>
+        <link href="https://www.youtube.com/watch?v=TCe0-Mag8dU"/>
+        <updated>2021-10-09T05:37:09.853Z</updated>
+        <content type="html"><![CDATA[김소희]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오, 대한 수업 (FIGK)]]></title>
+        <id>https://www.ebs.co.kr/tv/show?prodId=411911&amp;lectId=60105006</id>
+        <link href="https://www.ebs.co.kr/tv/show?prodId=411911&amp;lectId=60105006"/>
+        <updated>2021-10-09T05:37:09.857Z</updated>
+        <content type="html"><![CDATA[나지언]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진짜 열받는데 더 열받고 싶어요 (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=5eG0ejwihS4</id>
+        <link href="https://www.youtube.com/watch?v=5eG0ejwihS4"/>
+        <updated>2021-10-09T05:37:09.859Z</updated>
+        <content type="html"><![CDATA[이서영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씻어내도 영원히 보존되는 NFT 바디 페인팅 (FIGK)]]></title>
+        <id>https://vogue.sg/dain-yoon-nft</id>
+        <link href="https://vogue.sg/dain-yoon-nft"/>
+        <updated>2021-10-09T05:37:09.859Z</updated>
+        <content type="html"><![CDATA[신기헌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬픔의 심수봉 파티 (FIGK)]]></title>
+        <id>https://youtu.be/QKdvZxKzVuI</id>
+        <link href="https://youtu.be/QKdvZxKzVuI"/>
+        <updated>2021-10-09T05:37:09.859Z</updated>
+        <content type="html"><![CDATA[복길]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여자의 적은 여자 (FIGK)]]></title>
+        <id>https://program.genie.co.kr/swf/program</id>
+        <link href="https://program.genie.co.kr/swf/program"/>
+        <updated>2021-10-09T05:37:09.861Z</updated>
+        <content type="html"><![CDATA[하미나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이팝의 가장 앞자리 (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=rZYxzen9uEA</id>
+        <link href="https://www.youtube.com/watch?v=rZYxzen9uEA"/>
+        <updated>2021-10-09T05:37:09.862Z</updated>
+        <content type="html"><![CDATA[고건혁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코트 밖에 사람이 있다 (FIGK)]]></title>
+        <id>https://youtu.be/uFEyJUfKfgs</id>
+        <link href="https://youtu.be/uFEyJUfKfgs"/>
+        <updated>2021-10-09T05:37:09.863Z</updated>
+        <content type="html"><![CDATA[장경진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 왜, 백인이 아니란 말인가 (FIGK)]]></title>
+        <id>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=276358017</id>
+        <link href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=276358017"/>
+        <updated>2021-10-14T15:22:32.234Z</updated>
+        <content type="html"><![CDATA[박정용]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나무들은 어디로 가는가 (FIGK)]]></title>
+        <id>https://www.youtube.com/channel/UC5XdHURHoCJeEk268_1SK3Q/featured</id>
+        <link href="https://www.youtube.com/channel/UC5XdHURHoCJeEk268_1SK3Q/featured"/>
+        <updated>2021-10-14T15:22:32.236Z</updated>
+        <content type="html"><![CDATA[김지연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 세계에서 그를 기리며 보내온 메시지 (FIGK)]]></title>
+        <id>https://www.apple.com/kr/stevejobs/</id>
+        <link href="https://www.apple.com/kr/stevejobs/"/>
+        <updated>2021-10-14T15:22:32.237Z</updated>
+        <content type="html"><![CDATA[김소희]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잔혹하고, 아이코닉하고, 예삐예삐한 유토피아 (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=WPdWvnAAurg</id>
+        <link href="https://www.youtube.com/watch?v=WPdWvnAAurg"/>
+        <updated>2021-10-14T15:22:32.239Z</updated>
+        <content type="html"><![CDATA[김도헌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무당은 운명을 결정하는 자가 아니라 해석하는 자 (FIGK)]]></title>
+        <id>https://www.yna.co.kr/view/AKR20210831058100005</id>
+        <link href="https://www.yna.co.kr/view/AKR20210831058100005"/>
+        <updated>2021-10-09T05:37:09.865Z</updated>
+        <content type="html"><![CDATA[하미나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신고하지 말고, 감상하세요 (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=lhxh5xK1NZM</id>
+        <link href="https://www.youtube.com/watch?v=lhxh5xK1NZM"/>
+        <updated>2021-10-09T05:37:09.866Z</updated>
+        <content type="html"><![CDATA[이지현]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘타다’를 기억하세요 (FIGK)]]></title>
+        <id>https://youtu.be/CMRWY_8YawY</id>
+        <link href="https://youtu.be/CMRWY_8YawY"/>
+        <updated>2021-10-09T05:37:09.867Z</updated>
+        <content type="html"><![CDATA[차우진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마지막 인간과 로봇: 배구공은 필요없다 (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=h61adkjdWfU</id>
+        <link href="https://www.youtube.com/watch?v=h61adkjdWfU"/>
+        <updated>2021-10-09T05:37:09.869Z</updated>
+        <content type="html"><![CDATA[최진영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광야를 개척하러 떠나는 에스파와 SM, 정말 진심이라고요 (FIGK)]]></title>
+        <id>https://twitter.com/aespa_official/status/1437430883137511431?s=20</id>
+        <link href="https://twitter.com/aespa_official/status/1437430883137511431?s=20"/>
+        <updated>2021-10-09T05:37:09.870Z</updated>
+        <content type="html"><![CDATA[김도헌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람들은 큰 가슴을 무서워해요 (FIGK)]]></title>
+        <id>https://www.elle.com/culture/celebrities/a37598890/billie-eilish-is-calling-the-shots/</id>
+        <link href="https://www.elle.com/culture/celebrities/a37598890/billie-eilish-is-calling-the-shots/"/>
+        <updated>2021-10-09T05:37:09.871Z</updated>
+        <content type="html"><![CDATA[김도헌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흔한 풍경 속 낯선 소리(음악) (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=14d9_zpatqg</id>
+        <link href="https://www.youtube.com/watch?v=14d9_zpatqg"/>
+        <updated>2021-10-09T05:37:09.873Z</updated>
+        <content type="html"><![CDATA[박정용]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포트나이트로 현실세계를 로그아웃 (FIGK)]]></title>
+        <id>https://www.thedrum.com/news/2021/09/23/ad-the-day-balenciaga-s-3d-fortnite-billboard-wows-london-new-york-tokyo-seoul</id>
+        <link href="https://www.thedrum.com/news/2021/09/23/ad-the-day-balenciaga-s-3d-fortnite-billboard-wows-london-new-york-tokyo-seoul"/>
+        <updated>2021-10-09T05:37:09.874Z</updated>
+        <content type="html"><![CDATA[신기헌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#DoNotTouchMyClothes (FIGK)]]></title>
+        <id>https://twitter.com/RoxanaBahar1/status/1436845110906478592?s=20</id>
+        <link href="https://twitter.com/RoxanaBahar1/status/1436845110906478592?s=20"/>
+        <updated>2021-10-09T05:37:09.875Z</updated>
+        <content type="html"><![CDATA[장경진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘움짤’의 ‘움짤’의 ‘움짤’ (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=e16ytGTY5aM</id>
+        <link href="https://www.youtube.com/watch?v=e16ytGTY5aM"/>
+        <updated>2021-10-09T05:37:09.880Z</updated>
+        <content type="html"><![CDATA[하박국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[존경 받아 마땅한 500개의 명곡 (FIGK)]]></title>
+        <id>https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/</id>
+        <link href="https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"/>
+        <updated>2021-10-09T05:37:09.881Z</updated>
+        <content type="html"><![CDATA[고건혁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그들이 안다는 걸 우리가 알게 되면 일어나는 일 (FIGK)]]></title>
+        <id>https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739?mod=hp_lead_pos7&amp;mod=article_inline</id>
+        <link href="https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739?mod=hp_lead_pos7&amp;mod=article_inline"/>
+        <updated>2021-10-09T05:37:09.882Z</updated>
+        <content type="html"><![CDATA[최진영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅테크 기업들의 오징어 게임 (FIGK)]]></title>
+        <id>https://twitter.com/netflix/status/1445061159158042625</id>
+        <link href="https://twitter.com/netflix/status/1445061159158042625"/>
+        <updated>2021-10-14T15:22:32.262Z</updated>
+        <content type="html"><![CDATA[신기헌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은퇴합니다. 그리고 데뷔합니다 (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=edyKEdFn-rk</id>
+        <link href="https://www.youtube.com/watch?v=edyKEdFn-rk"/>
+        <updated>2021-10-14T15:22:32.263Z</updated>
+        <content type="html"><![CDATA[김소희]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 영화평론가가 만점 준 영화는 나와 맞지 않는가 (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=061lqWAASls</id>
+        <link href="https://www.youtube.com/watch?v=061lqWAASls"/>
+        <updated>2021-10-14T15:22:32.264Z</updated>
+        <content type="html"><![CDATA[박정용]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예고편인가 요악본인가 (FIGK)]]></title>
+        <id>https://youtu.be/-5Dc8EMVYBo</id>
+        <link href="https://youtu.be/-5Dc8EMVYBo"/>
+        <updated>2021-10-14T15:22:32.266Z</updated>
+        <content type="html"><![CDATA[김도훈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글로벌 비디오 대여 사업의 오래된 미래 (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=oqxAJKy0ii4</id>
+        <link href="https://www.youtube.com/watch?v=oqxAJKy0ii4"/>
+        <updated>2021-10-09T05:37:09.883Z</updated>
+        <content type="html"><![CDATA[고건혁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 가마로소이다 (FIGK)]]></title>
+        <id>https://youtu.be/WejtPTVr4Qk</id>
+        <link href="https://youtu.be/WejtPTVr4Qk"/>
+        <updated>2021-10-09T05:37:09.884Z</updated>
+        <content type="html"><![CDATA[장경진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타 탄생 (FIGK)]]></title>
+        <id>https://youtu.be/2sOk1l7gxfk</id>
+        <link href="https://youtu.be/2sOk1l7gxfk"/>
+        <updated>2021-10-09T05:37:09.884Z</updated>
+        <content type="html"><![CDATA[차우진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이팝 매시업 괴물의 21세기 페스티벌 (FIGK)]]></title>
+        <id>https://soundcloud.com/jebofficial/jeb-live-naver-now-skpp-ep20</id>
+        <link href="https://soundcloud.com/jebofficial/jeb-live-naver-now-skpp-ep20"/>
+        <updated>2021-10-09T05:37:09.885Z</updated>
+        <content type="html"><![CDATA[하박국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘미투 시대’의 블록버스터 사극이 당도하다 (FIGK)]]></title>
+        <id>https://youtu.be/bO1cG93mpNM</id>
+        <link href="https://youtu.be/bO1cG93mpNM"/>
+        <updated>2021-10-09T05:37:09.886Z</updated>
+        <content type="html"><![CDATA[김도훈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[들리면 보이지 않는 세계 (FIGK)]]></title>
+        <id>http://www.cine21.com/news/view/?mag_id=98584</id>
+        <link href="http://www.cine21.com/news/view/?mag_id=98584"/>
+        <updated>2021-10-09T05:37:09.887Z</updated>
+        <content type="html"><![CDATA[김지연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해양 쓰레기에 담은 위트와 경고 (FIGK)]]></title>
+        <id>https://www.sedaily.com/NewsVIew/22RG570RYO</id>
+        <link href="https://www.sedaily.com/NewsVIew/22RG570RYO"/>
+        <updated>2021-10-09T05:37:09.888Z</updated>
+        <content type="html"><![CDATA[김지연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BTS가 픽한 장소, BTS를 픽한 장소 (FIGK)]]></title>
+        <id>https://youtu.be/9SmQOZWNyWE</id>
+        <link href="https://youtu.be/9SmQOZWNyWE"/>
+        <updated>2021-10-09T05:37:09.891Z</updated>
+        <content type="html"><![CDATA[신기헌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미지와의 따뜻한 조우 (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=exCEA1UF2FI</id>
+        <link href="https://www.youtube.com/watch?v=exCEA1UF2FI"/>
+        <updated>2021-10-09T05:37:09.892Z</updated>
+        <content type="html"><![CDATA[최진영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메시지로서의 패션 (FIGK)]]></title>
+        <id>https://11010design.tistory.com/406</id>
+        <link href="https://11010design.tistory.com/406"/>
+        <updated>2021-10-09T05:37:09.893Z</updated>
+        <content type="html"><![CDATA[차우진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거대한 건축물을 '포장'하는 예술가의 마지막 프로젝트 (FIGK)]]></title>
+        <id>https://www.instagram.com/p/CUAi_X6Kpow/</id>
+        <link href="https://www.instagram.com/p/CUAi_X6Kpow/"/>
+        <updated>2021-10-09T05:37:09.893Z</updated>
+        <content type="html"><![CDATA[이지현]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리는 이제 어떤 도시 공동체를 상상해야 할까? (FIGK)]]></title>
+        <id>https://www.joongang.co.kr/article/25006158</id>
+        <link href="https://www.joongang.co.kr/article/25006158"/>
+        <updated>2021-10-09T05:37:09.894Z</updated>
+        <content type="html"><![CDATA[차우진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세련된 메세나는 이렇게 하는 거다 (FIGK)]]></title>
         <id>http://www.thepreview.co.kr/news/articleView.html?idxno=5202</id>
