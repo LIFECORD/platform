@@ -2,6 +2,16 @@
 title = "FIGK"
 url = "https://figk.net/text"
 entrySelector = "div.styles_TextFIGKContainer__1iZw8"
+titleSelector = "h2.styles_Subtitle__2PhmW"
+linkSelector = "div.styles_ToolBox__2vzTh > a"
+contentSelector = "div.styles_Content__34J2v"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[figk_origin]
+title = "FIGK"
+url = "https://figk.net/text"
+entrySelector = "div.styles_TextFIGKContainer__1iZw8"
 titleSelector = "div.styles_Title__2bpAt"
 linkSelector = "div.styles_ToolBox__2vzTh > a"
 contentSelector = "h3"
