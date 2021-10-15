@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8Ogtd9</id>
     <title>alookso ─ 신요조</title>
-    <updated>2021-10-15T07:15:12.160Z</updated>
+    <updated>2021-10-15T07:16:37.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -10,130 +10,21 @@
         <id>https://alook.so/posts/yEtV9Y</id>
         <link href="https://alook.so/posts/yEtV9Y"/>
         <updated>2021-10-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center justify-between text-gray-900">
-  <div class="flex-1 w-0">
-    <div class="flex items-center justify-between text-gray-900">
-  <div class="relative mr-2">
-      <a href="/users/8Ogtd9"><img style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white " src="https://alook.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWtTIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f898b03440c78a539d5e5b57e0a2a7d59888a751/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hKeVpYTnBlbVZmZEc5ZlptbDBXd2RwUldsRiIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--40774ab71c68a2ef2344f4a76543ee61c12fe892/B255D17F-CFB1-40F4-87B5-B53F2904978D.jpeg" width="32px" height="32px"></a>
-  </div>
-  <div class="flex-1 w-0 leading-5">
-    <div>
-      <div class="text-xs flex">
-          <a class="line-clamp-1 text-gray-400 whitespace-nowrap" href="/users/8Ogtd9">
-            <span class="text-gray-600 font-medium">신요조</span>
-              <span class="text-xs text-gray-500">
-                ·
-              </span>
-              <span class="break-all font-normal text-gray-400">반갑습니다!</span>
-</a>      </div>
-    </div>
-    <div class="font-light text-gray-400 text-xxs">
-      2021.10.14.
-    </div>
-  </div>
-</div>
-  </div>
-  
-</div>
-
-
-    <div class="flex-auto mt-2 space-y-2">
-          <h5 class="font-medium text-break" data-qa="post-title">
-            <a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtV9Y">맥주 한 잔의 여유</a>
-          </h5>
-
-        <h6 class="mb-2 font-normal text-gray-500">
-    <a class="trix-content-post-partial line-clamp-5" href="/posts/yEtV9Y">
-      <div class="trix-content">
-          <span>저녁에 맥주 한 캔 씩 마시는 막간의 여유를 여러분은 얼마나 자주 즐기고 계신가요?
+        <content type="html"><![CDATA[<span>저녁에 맥주 한 캔 씩 마시는 막간의 여유를 여러분은 얼마나 자주 즐기고 계신가요?
 <br>한여름에는 시원한 맥주 생각도 간절하더니 이제 선선하다 못해 아침저녁으로 쌀쌀해진 계절이 되니 맥주 생각도 슬그머니 줄어드는 것 같아요. 
 <br>뿐만아니라 술도 적당히 바쁠때나 기분 내는 것이 가능하지 너무 바쁘면 술 마실 기운(?)도 없구나 라는 것도 느끼는 요즘입니다. 
 <br>오늘 읽은 재미있는 기사를 공유해요. 
 <br>2700년 전에도 인간이 치즈와 맥주를 즐겼다는 것을 인분을 검사하며 알게 되었다는 내용의 기사입니다. 
 <br>아주 오랜 시간이 흘러 4000년대 미래인류(라는 것이 가능하다면)가&nbsp; 2000년대 인류의 인분을 들여다본다면&nbsp; 무엇을 느끼게 될까요. 맥주 한 잔 하면서 생각해보겠습미다…..</span><br>
 <br>
-<span>&nbsp;2700년 전 인분서 놀라운 발견 뭐길래…"그때도 맥주와 치즈 즐겼다"&nbsp; 2700년 전 인류의 인분을 연구·분석한 결과 발효 기술을 활용해 맥주와 치즈를 즐겨 먹었다는 결과가 나왔다고 영국 가디언이 13일(현지...</span>
-      </div>
-</a></h6>
-
-
-          <div class="pt-1">
-            <div class="space-y-2">
-    <span class="inline-block">
-      <button type="button" class="flex items-center p-1 text-xs font-light text-gray-500 border border-gray-300 rounded">
-        <a href="/topics/today">
-          ‘오늘’ 가장 기억에 남는 뉴스?
-</a>      </button>
-    </span>
-</div>
-          </div>
-
-        <div class="flex justify-between pt-3 text-sm font-light text-gray-400">
-          <span class="flex items-center">
-            <a class="inline-block h-full whitespace-nowrap" href="/posts/yEtV9Y#reply">
-              <svg class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-reply"></use></svg>
-                2
-</a>          </span>
-          <div class="flex items-center space-x-4">
-            <div class="h-full whitespace-nowrap like_button_post_yEtV9Y">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNjI4NAY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjE1OjA5LjgxMFoGOwBU--73c1841b926f24971c2c5381fcb1496b56225103"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-    <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-recommend"></use></svg>
-    <span class="font-light ">
-      8
-    </span>
-</button><input type="hidden" name="authenticity_token" value="WjPA6I_cyQgc4d-3iC58_mvgWUtx9K8ZIffo4MYWynV3MLZBqjkybVKpfblv0ORpIXe3zp8K36yBW-x_aeB-VQ"></form></div>
-            <div>
-  <div class="relative">
-    <a tabindex="0" class="inline-block select-none share_post_yEtV9Y" data-method="get" href="/posts/yEtV9Y/share">
-      <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-share"></use></svg>
-</a>  </div>
-</div>
-
-          </div>
-        </div>
-    </div>]]></content>
+<span>&nbsp;2700년 전 인분서 놀라운 발견 뭐길래…"그때도 맥주와 치즈 즐겼다"&nbsp; 2700년 전 인류의 인분을 연구·분석한 결과 발효 기술을 활용해 맥주와 치즈를 즐겨 먹었다는 결과가 나왔다고 영국 가디언이 13일(현지...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[셀카 좋아하시나요?]]></title>
         <id>https://alook.so/posts/bWtBXb</id>
         <link href="https://alook.so/posts/bWtBXb"/>
         <updated>2021-10-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center justify-between text-gray-900">
-  <div class="flex-1 w-0">
-    <div class="flex items-center justify-between text-gray-900">
-  <div class="relative mr-2">
-      <a href="/users/8Ogtd9"><img style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white " src="https://alook.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWtTIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f898b03440c78a539d5e5b57e0a2a7d59888a751/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hKeVpYTnBlbVZmZEc5ZlptbDBXd2RwUldsRiIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--40774ab71c68a2ef2344f4a76543ee61c12fe892/B255D17F-CFB1-40F4-87B5-B53F2904978D.jpeg" width="32px" height="32px"></a>
-  </div>
-  <div class="flex-1 w-0 leading-5">
-    <div>
-      <div class="text-xs flex">
-          <a class="line-clamp-1 text-gray-400 whitespace-nowrap" href="/users/8Ogtd9">
-            <span class="text-gray-600 font-medium">신요조</span>
-              <span class="text-xs text-gray-500">
-                ·
-              </span>
-              <span class="break-all font-normal text-gray-400">반갑습니다!</span>
-</a>      </div>
-    </div>
-    <div class="font-light text-gray-400 text-xxs">
-      2021.10.09.
-    </div>
-  </div>
-</div>
-  </div>
-  
-</div>
-
-
-    <div class="flex-auto mt-2 space-y-2">
-          <h5 class="font-medium text-break" data-qa="post-title">
-            <a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtBXb">셀카 좋아하시나요?</a>
-          </h5>
-
-        <h6 class="mb-2 font-normal text-gray-500">
-    <a class="trix-content-post-partial line-clamp-5" href="/posts/bWtBXb">
-      <div class="trix-content">
-          <span>신간들을 둘러보다 눈길이 갔던 책이었는데, 제가 좋아하는 곽아람 기자님께서 재빠르게 읽고 리뷰를 남겨주셨습니다. 윌 스토의 &lt;셀피&gt; 라는 책이에요.</span><br>
+        <content type="html"><![CDATA[<span>신간들을 둘러보다 눈길이 갔던 책이었는데, 제가 좋아하는 곽아람 기자님께서 재빠르게 읽고 리뷰를 남겨주셨습니다. 윌 스토의 &lt;셀피&gt; 라는 책이에요.</span><br>
 <br>
 <span>https://m.blog.naver.com/jjxo/222531839328
 <br>-&gt; 기사의 원문은 요기를 클릭!</span><br>
@@ -141,134 +32,17 @@
 <span>저자는 자존감의 중요성을 학습한 부모로부터 ‘넌 특별하다’라는 주입을 받고 자란 MZ 세대가 어떻게 ‘높은 자존감’의 강박 속에서 불행해지는지를 끊임없이 소셜미디어에 완벽한(완벽하게 보정된) 자신의 셀카를 올리는 문화를 통해 진단합니다.&nbsp;
 <br>글쎄, ‘넌 특별하다’ 라는 말은 굳이 MZ 세대만 특별히 듣고 자랐을까 라는 생각이 들긴 합니다. 뭐 예부터 한국에서 남성으로 태어난 사람들은 ‘넌 특별하다’는 메세지를 그냥 집안공기로 마시며 자라왔을테고 그게 그들에게는 칭찬이자 부담이었겠죠.
 <br>그치만 ‘셀카’ 라는 것, 그리고 거기에서 파생된 다양한 보정기술을 보며 이런저런 생각이 오랫동안 들긴 했습니다.&nbsp;
-<br>...</span>
-      </div>
-</a></h6>
-
-            <a href="/posts/bWtBXb">
-              <div class="mt-2 aspect-w-16 aspect-h-9 min-w-min">
-                <img class="object-cover rounded" data-qa="post-cover" src="https://alook.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWNlIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e79b08c3a0e97fd6c906b14627b60ca55a0041ed/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hSeVpYTnBlbVZmZEc5ZmJHbHRhWFJiQjJrQ2hBTnBBb1FEIiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--0d199a6ee215ff92ae0cfa93a4517a7aba01f362/A8BB6EEA-48D8-460B-BDCA-D67A122D252C.jpeg">
-              </div>
-</a>
-          <div class="pt-1">
-            <div class="space-y-2">
-    <span class="inline-block">
-      <button type="button" class="flex items-center p-1 text-xs font-light text-gray-500 border border-gray-300 rounded">
-        <a href="/topics/today">
-          ‘오늘’ 가장 기억에 남는 뉴스?
-</a>      </button>
-    </span>
-</div>
-          </div>
-
-        <div class="flex justify-between pt-3 text-sm font-light text-gray-400">
-          <span class="flex items-center">
-            <a class="inline-block h-full whitespace-nowrap" href="/posts/bWtBXb#reply">
-              <svg class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-reply"></use></svg>
-                1
-</a>          </span>
-          <div class="flex items-center space-x-4">
-            <div class="h-full whitespace-nowrap like_button_post_bWtBXb">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNDQ4NgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjE1OjA5LjgxOFoGOwBU--a7818f779aa31e4c4a37f7a868970efd2c52375f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-    <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-recommend"></use></svg>
-    <span class="font-light ">
-      9
-    </span>
-</button><input type="hidden" name="authenticity_token" value="WjPA6I_cyQgc4d-3iC58_mvgWUtx9K8ZIffo4MYWynV3MLZBqjkybVKpfblv0ORpIXe3zp8K36yBW-x_aeB-VQ"></form></div>
-            <div>
-  <div class="relative">
-    <a tabindex="0" class="inline-block select-none share_post_bWtBXb" data-method="get" href="/posts/bWtBXb/share">
-      <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-share"></use></svg>
-</a>  </div>
-</div>
-
-          </div>
-        </div>
-    </div>]]></content>
+<br>...</span>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나를 괴롭히는 책들]]></title>
         <id>https://alook.so/posts/70tkvR</id>
         <link href="https://alook.so/posts/70tkvR"/>
         <updated>2021-10-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div class="flex items-center justify-between text-gray-900">
-  <div class="flex-1 w-0">
-    <div class="flex items-center justify-between text-gray-900">
-  <div class="relative mr-2">
-      <a href="/users/8Ogtd9"><img style="width: 32px; height: 32px;" class="inline rounded-full object-cover border border-gray-200 bg-white " src="https://alook.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWtTIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f898b03440c78a539d5e5b57e0a2a7d59888a751/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lKYW5CbFp3WTZCa1ZVT2hKeVpYTnBlbVZmZEc5ZlptbDBXd2RwUldsRiIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--40774ab71c68a2ef2344f4a76543ee61c12fe892/B255D17F-CFB1-40F4-87B5-B53F2904978D.jpeg" width="32px" height="32px"></a>
-  </div>
-  <div class="flex-1 w-0 leading-5">
-    <div>
-      <div class="text-xs flex">
-          <a class="line-clamp-1 text-gray-400 whitespace-nowrap" href="/users/8Ogtd9">
-            <span class="text-gray-600 font-medium">신요조</span>
-              <span class="text-xs text-gray-500">
-                ·
-              </span>
-              <span class="break-all font-normal text-gray-400">반갑습니다!</span>
-</a>      </div>
-    </div>
-    <div class="font-light text-gray-400 text-xxs">
-      2021.10.08.
-    </div>
-  </div>
-</div>
-  </div>
-  
-</div>
-
-
-    <div class="flex-auto mt-2 space-y-2">
-          <h5 class="font-medium text-break" data-qa="post-title">
-            <a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tkvR">나를 괴롭히는 책들</a>
-          </h5>
-
-        <h6 class="mb-2 font-normal text-gray-500">
-    <a class="trix-content-post-partial line-clamp-5" href="/posts/70tkvR">
-      <div class="trix-content">
-          <span>책방을 운영하고 있다보면 원없이 책을 읽을 수 있어서 좋겠다는 말을 종종 듣습니다.
+        <content type="html"><![CDATA[<span>책방을 운영하고 있다보면 원없이 책을 읽을 수 있어서 좋겠다는 말을 종종 듣습니다.
 <br>저도 사실은 그럴 줄 알고 책방을 시작했는데… 책방을 하고나서는 일을 하느라 읽고 싶은 책을 더 못읽게 되고 말았습니다. 아마 저 뿐 아니라 출판사든 방송국이든 책을 매일 만지고 다루는 분들은 어쩐지 모두 비슷한 고민을 하시지 않을까 짐작해보는데요. 책은 자신을 싫어하는 사람보다 좋아하는 사람에게 더 가혹한 물건 같습니다. 
 <br>요즘 저를 괴롭히고 있는 책들을 소개해드리고 싶어요. 너무 읽고 싶은데 바빠서 못읽고 있는 책이에요.
 <br>&nbsp;
-<br>앤 카슨의 신간 &lt;짧은 이야기들&gt;, &lt;유리, 아이러니 그리고 신&gt; 이 얼마전 함께 선보였습니다. 서울에서 책방을 운영할 때 &lt;남편의 아름다움&gt;을 얼마나 많이 영업(?)했는지 몰라요. 이렇게 두 권의 책이 한번에 나와주다니 너무 신나서 안절부절입니다. 그 뿐 아니라, 마음산책 출판사의 ‘말’ 시리즈에서는 &lt;뒤라스의 말&gt; 이 출간되...</span>
-      </div>
-</a></h6>
-
-
-          <div class="pt-1">
-            <div class="space-y-2">
-    <span class="inline-block">
-      <button type="button" class="flex items-center p-1 text-xs font-light text-gray-500 border border-gray-300 rounded">
-        <a href="/topics/hooked">
-          요즘 어디에 꽂혔어요?
-</a>      </button>
-    </span>
-</div>
-          </div>
-
-        <div class="flex justify-between pt-3 text-sm font-light text-gray-400">
-          <span class="flex items-center">
-            <a class="inline-block h-full whitespace-nowrap" href="/posts/70tkvR#reply">
-              <svg class="inline-block -mr-0.5 mb-0.5 h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-reply"></use></svg>
-                12
-</a>          </span>
-          <div class="flex items-center space-x-4">
-            <div class="h-full whitespace-nowrap like_button_post_70tkvR">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNDA0MgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA3OjE1OjA5LjgyN1oGOwBU--933c260fba3a7baa0ceef197a6098da252f8c35f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
-    <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-recommend"></use></svg>
-    <span class="font-light ">
-      38
-    </span>
-</button><input type="hidden" name="authenticity_token" value="WjPA6I_cyQgc4d-3iC58_mvgWUtx9K8ZIffo4MYWynV3MLZBqjkybVKpfblv0ORpIXe3zp8K36yBW-x_aeB-VQ"></form></div>
-            <div>
-  <div class="relative">
-    <a tabindex="0" class="inline-block select-none share_post_70tkvR" data-method="get" href="/posts/70tkvR/share">
-      <svg class="h-4 w-4 fill-current"><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-share"></use></svg>
-</a>  </div>
-</div>
-
-          </div>
-        </div>
-    </div>]]></content>
+<br>앤 카슨의 신간 &lt;짧은 이야기들&gt;, &lt;유리, 아이러니 그리고 신&gt; 이 얼마전 함께 선보였습니다. 서울에서 책방을 운영할 때 &lt;남편의 아름다움&gt;을 얼마나 많이 영업(?)했는지 몰라요. 이렇게 두 권의 책이 한번에 나와주다니 너무 신나서 안절부절입니다. 그 뿐 아니라, 마음산책 출판사의 ‘말’ 시리즈에서는 &lt;뒤라스의 말&gt; 이 출간되...</span>]]></content>
     </entry>
 </feed>
