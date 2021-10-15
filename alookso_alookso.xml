@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-10-15T12:23:33.008Z</updated>
+    <updated>2021-10-15T13:22:19.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -106,12 +106,12 @@
 </a>          </span>
           <div class="flex items-center space-x-4">
             <div class="h-full whitespace-nowrap like_button_post_3wtd38">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNjU4MgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDEyOjIyOjIzLjA5MVoGOwBU--87001393e9d34c4e2e1912070a7ff76aa1b1a591"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNjU4MgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDEzOjIxOjExLjc3M1oGOwBU--3154765e29c5ccb467a6ced4f9c70e0007bcc2ef"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       16
     </span>
-</button><input type="hidden" name="authenticity_token" value="XMMNFV0KvgUwJwHDONLWvFYnfg7zWoiqH1wUi7hIboT8LyNA9QdFZT4NoTKtxcEVjnIbVfL-3QiMG4goqNqfGA"></form></div>
+</button><input type="hidden" name="authenticity_token" value="hlGyIr08PHOv390odRa3R1TTPJ_U4aK63vxZW__3ivherZ39ljCBvYH4xOPUQzwTHPrRbnPpafIXPNGWYMq29w"></form></div>
             <div>
   <div class="relative">
     <a tabindex="0" class="inline-block select-none share_post_3wtd38" data-method="get" href="/posts/3wtd38/share">
