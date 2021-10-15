@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-10-15T09:07:15.503Z</updated>
+    <updated>2021-10-15T09:16:00.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://alook.so/users/x4WtnB</id>
         <link href="https://alook.so/users/x4WtnB"/>
-        <updated>2021-10-15T09:06:07.683Z</updated>
+        <updated>2021-10-15T09:14:54.790Z</updated>
         <content type="html"><![CDATA[<div class="relative pb-6">
   <span class="absolute top-5 left-5 -ml-1 h-full w-0.5 bg-gray-200" aria-hidden="true"></span>
   <div class="flex items-center justify-between text-gray-900">
@@ -106,12 +106,12 @@
 </a>          </span>
           <div class="flex items-center space-x-4">
             <div class="h-full whitespace-nowrap like_button_post_3wtd38">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNjU4MgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA5OjA2OjA1LjMwM1oGOwBU--d9297c28b09d2ee0765b40d82b70566e9318eec6"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNjU4MgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE1VDA5OjE0OjUyLjM0N1oGOwBU--e104caa77db52349832024f91eaa8e6f4555a8b6"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
-      8
+      9
     </span>
-</button><input type="hidden" name="authenticity_token" value="_CKiLkvcTtNSMKwPa-ynJGTTczT7Cv07ch1yFWu6lSZEcNpQkjsNmtG7a71N9iDCjAJlxwZzXdyGPg2VzYtSWQ"></form></div>
+</button><input type="hidden" name="authenticity_token" value="7cEZTqbpeCozRzYdqzaevt0XDTqu-GSScqyT4jgCTCnJDB3X4UXFlFjumdoMIzGTFDJJoXwW0GcihF9bSN3UMQ"></form></div>
             <div>
   <div class="relative">
     <a tabindex="0" class="inline-block select-none share_post_3wtd38" data-method="get" href="/posts/3wtd38/share">
