@@ -94,15 +94,6 @@ linkSelector = "//a"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[alookso_janghyeyeong]
-title = "alookso ─ 장혜영"
-url = "https://alook.so/users/8XGtO0"
-entrySelector = "//html/body/main/div/div[2]/div/div/section[1]/section/div/div/div[@class='flex-auto mt-2 space-y-2']/h5"
-titleSelector = "//a"
-linkSelector = "//a"
-waitUntil = "networkidle"
-onFail = "stale"
-
 [alookso_datacow]
 title = "alookso ─ 데이터카우"
 url = "https://alook.so/users/bA6tp1"
