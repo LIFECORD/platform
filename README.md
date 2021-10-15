@@ -16,6 +16,8 @@ https://lifecord.github.io/geeknews/all.xml
 - 윤수영: https://lifecord.github.io/platform/alookso_sooyoung.xml
 - 이재웅: https://lifecord.github.io/platform/alookso_soventure.xml
 - 신요조: https://lifecord.github.io/platform/alookso_yozoh.xml
+- 장혜영: https://lifecord.github.io/platform/alookso_janghyeyeong.xml
+- 데이터카우: https://lifecord.github.io/platform/alookso_datacow.xml
 
 ## FIGK
 - 최신: https://lifecord.github.io/platform/figk.xml
