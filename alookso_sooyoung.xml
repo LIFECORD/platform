@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/xwVtDZ</id>
     <title>alookso ─ 윤수영</title>
-    <updated>2021-10-16T07:14:36.438Z</updated>
+    <updated>2021-10-16T08:17:56.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[야심찬 젊은이들이 정치판에 더 많이 뛰어들려면]]></title>
+        <id>https://alook.so/posts/bWtOzL</id>
+        <link href="https://alook.so/posts/bWtOzL"/>
+        <updated>2021-10-16T08:17:25.038Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtOzL">야심찬 젊은이들이 정치판에 더 많이 뛰어들려면</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나는 왜 아이를 낳고 싶지 않을까 주절주절]]></title>
         <id>https://alook.so/posts/kZtqZm</id>
