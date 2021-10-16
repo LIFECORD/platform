@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-16T19:12:43.481Z</updated>
+    <updated>2021-10-16T20:16:59.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[세련된 메세나는 이렇게 하는 거다 (FIGK)]]></title>
@@ -779,12 +779,12 @@
 </a>          </span>
           <div class="flex items-center space-x-4">
             <div class="h-full whitespace-nowrap like_button_post_3wtd38">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNjU4MgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE2VDE5OjExOjIzLjk3OVoGOwBU--5672772a58e09dadc68946da37b7838fe457ef6f"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNjU4MgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE2VDIwOjE1OjQ4LjQzMVoGOwBU--be7aa60e66b5c77dcc1201dc7f02a20cf6e4714a"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       36
     </span>
-</button><input type="hidden" name="authenticity_token" value="wwTCBPB6mJwSTSknEA_h3_OoGthe58Xat3wQWWT7xmSUaEJQ83gNY_FYArkmlsHTDFc9XxegTF7DzxOxsdO-iw"></form></div>
+</button><input type="hidden" name="authenticity_token" value="NBuKGrC1A52hcMH0mY6tdvvtme_gOqF7K2SuHpEde-8Qg6cuDcu6PRmOv6JejOjggvOpKPSikrDKXlt1X_GXAA"></form></div>
             <div>
   <div class="relative">
     <a tabindex="0" class="inline-block select-none share_post_3wtd38" data-method="get" href="/posts/3wtd38/share">
