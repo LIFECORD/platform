@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-17T06:19:22.115Z</updated>
+    <updated>2021-10-17T07:16:35.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[<송은문화재단 신사옥 개관기념전 개최> 더프리뷰 (FIGK)]]></title>
@@ -441,12 +441,12 @@
 </a>          </span>
           <div class="flex items-center space-x-4">
             <div class="h-full whitespace-nowrap like_button_post_3wtd38">
-  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNjU4MgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE3VDA2OjE4OjE1LjU5MloGOwBU--865f87abb74c011f25a2a9aafdc81589556f8ed4"><button class="h-full whitespace-nowrap flex items-center" type="submit">
+  <form class="button_to" method="post" action="/votes/like?toggle=up&amp;votable=BAh7CEkiCGdpZAY6BkVUSSIbZ2lkOi8vYWxvb2sxL1Bvc3QvNjU4MgY7AFRJIgxwdXJwb3NlBjsAVEkiDGRlZmF1bHQGOwBUSSIPZXhwaXJlc19hdAY7AFRJIh0yMDIxLTExLTE3VDA3OjE1OjI4Ljk0MFoGOwBU--9fe0fa8c18176ae5c5ac7bbced2cd34f6fd9262c"><button class="h-full whitespace-nowrap flex items-center" type="submit">
     <svg class="inline-block mr-0.5 w-4 h-4 fill-current  "><use href="https://alook.so/assets/icons-980becba33ff5775625b73e0409369145b0da8c1df7bcfebf4430c8a8eb2a689.svg#icons-icon-line-recommend"></use></svg>
     <span class="font-light ">
       36
     </span>
-</button><input type="hidden" name="authenticity_token" value="2UNytHgskUwPP0RXEA0fK5xkBmeeJvQsWi5DMrtNqWcrKXxqIqWjFsPlqN9sXnyE_VuB__S6MSorvs3ffHugCg"></form></div>
+</button><input type="hidden" name="authenticity_token" value="XA-dTgEL4qwTuqaZzve5Yuszlp06WVDaBYe-bWT63c5sd2fqaQPwhGE3gjCORSU1Aq76XQ35LJHvifG6g6Q4aQ"></form></div>
             <div>
   <div class="relative">
     <a tabindex="0" class="inline-block select-none share_post_3wtd38" data-method="get" href="/posts/3wtd38/share">
