@@ -2,49 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8Ogtna</id>
     <title>alookso ─ 윤성원</title>
-    <updated>2021-10-17T08:17:03.933Z</updated>
+    <updated>2021-10-17T09:15:30.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[국감장에서 나온 "왜 KBS는 오징어게임 같은 작품을 생산하지 못 하느냐"는 질문에 대해..]]></title>
-        <id>https://alook.so/posts/54twx5</id>
-        <link href="https://alook.so/posts/54twx5"/>
-        <updated>2021-10-16T08:17:08.398Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54twx5">국감장에서 나온 "왜 KBS는 오징어게임 같은 작품을 생산하지 못 하느냐"는 질문에 대해..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기존 신문들을 다 무너뜨리겠다는 도발적인 뉴미디어, 디 애슬레틱 ㄷㄷ]]></title>
-        <id>https://alook.so/posts/njtX12</id>
-        <link href="https://alook.so/posts/njtX12"/>
-        <updated>2021-10-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtX12">기존 신문들을 다 무너뜨리겠다는 도발적인 뉴미디어, 디 애슬레틱 ㄷㄷ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 콘텐츠는 도대체 왜 글로벌에서 이렇게나 인기가 있을까?]]></title>
-        <id>https://alook.so/posts/E7t9ye</id>
-        <link href="https://alook.so/posts/E7t9ye"/>
-        <updated>2021-10-13T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t9ye">한국 콘텐츠는 도대체 왜 글로벌에서 이렇게나 인기가 있을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어쩌면 오징어 게임의 흥행 이유를 모르는 게 당연할 수 있어요!]]></title>
-        <id>https://alook.so/posts/70tkWw</id>
-        <link href="https://alook.so/posts/70tkWw"/>
-        <updated>2021-10-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tkWw">어쩌면 오징어 게임의 흥행 이유를 모르는 게 당연할 수 있어요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 2차 접종을 맞았다]]></title>
-        <id>https://alook.so/posts/M9t40a</id>
-        <link href="https://alook.so/posts/M9t40a"/>
-        <updated>2021-10-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t40a">백신 2차 접종을 맞았다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰]]></title>
-        <id>https://alook.so/posts/dzt2Ow</id>
-        <link href="https://alook.so/posts/dzt2Ow"/>
-        <updated>2021-10-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2Ow">최근에 새롭게 런칭한 미디어-콘텐츠 서비스 리뷰</a>]]></content>
-    </entry>
 </feed>
