@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-18T20:16:07.353Z</updated>
+    <updated>2021-10-18T21:14:46.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[숫자놀이말구 임금을 삭감해주세요]]></title>
+        <id>https://alook.so/posts/8Wt7Wv</id>
+        <link href="https://alook.so/posts/8Wt7Wv"/>
+        <updated>2021-10-18T21:13:23.524Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt7Wv">숫자놀이말구 임금을 삭감해주세요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통일 바라지도 않아요 왜그렇게 정부는 통일에 사활을 거나요]]></title>
+        <id>https://alook.so/posts/G1t930</id>
+        <link href="https://alook.so/posts/G1t930"/>
+        <updated>2021-10-18T21:13:23.524Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t930">통일 바라지도 않아요 왜그렇게 정부는 통일에 사활을 거나요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결혼의대한고민]]></title>
+        <id>https://alook.so/posts/OEtOVP</id>
+        <link href="https://alook.so/posts/OEtOVP"/>
+        <updated>2021-10-18T21:13:23.524Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEtOVP">결혼의대한고민</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국방비 낭비줄이고 국민 등꼴 그만빼주세요]]></title>
+        <id>https://alook.so/posts/vKtRmm</id>
+        <link href="https://alook.so/posts/vKtRmm"/>
+        <updated>2021-10-18T21:13:23.525Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtRmm">국방비 낭비줄이고 국민 등꼴 그만빼주세요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안정성과 공평성, 획일성 때문에...]]></title>
         <id>https://alook.so/posts/E7t3dW</id>
@@ -39,19 +67,5 @@
         <link href="https://alook.so/posts/mbtBGP"/>
         <updated>2021-10-18T18:16:29.391Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtBGP">어느 2009년생이 백신 예방접종 예약을 하기까지,</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4000만원짜리 졸업장]]></title>
-        <id>https://alook.so/posts/q1tlRp</id>
-        <link href="https://alook.so/posts/q1tlRp"/>
-        <updated>2021-10-18T18:16:29.396Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tlRp">4000만원짜리 졸업장</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월배당주에 꽂힌 이유]]></title>
-        <id>https://alook.so/posts/o7t0ky</id>
-        <link href="https://alook.so/posts/o7t0ky"/>
-        <updated>2021-10-18T18:16:29.396Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0ky">월배당주에 꽂힌 이유</a>]]></content>
     </entry>
 </feed>
