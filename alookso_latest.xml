@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-18T21:14:46.652Z</updated>
+    <updated>2021-10-18T22:16:21.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[여성인 이상 범죄 걱정을 안하고 살 수 없다.]]></title>
+        <id>https://alook.so/posts/BatqE9</id>
+        <link href="https://alook.so/posts/BatqE9"/>
+        <updated>2021-10-18T22:15:02.362Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/BatqE9">여성인 이상 범죄 걱정을 안하고 살 수 없다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 국방부 장관도 직업입니다.]]></title>
+        <id>https://alook.so/posts/LKtaGe</id>
+        <link href="https://alook.so/posts/LKtaGe"/>
+        <updated>2021-10-18T22:15:02.362Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtaGe">답글: 국방부 장관도 직업입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역대 신뢰감 하!]]></title>
+        <id>https://alook.so/posts/njtw8V</id>
+        <link href="https://alook.so/posts/njtw8V"/>
+        <updated>2021-10-18T22:15:02.365Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtw8V">역대 신뢰감 하!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서로 연결 인프라만들어주면~]]></title>
+        <id>https://alook.so/posts/6MtO15</id>
+        <link href="https://alook.so/posts/6MtO15"/>
+        <updated>2021-10-18T22:15:02.367Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6MtO15">서로 연결 인프라만들어주면~</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통일을 응원합니다]]></title>
+        <id>https://alook.so/posts/3wtkDn</id>
+        <link href="https://alook.so/posts/3wtkDn"/>
+        <updated>2021-10-18T22:15:02.367Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtkDn">통일을 응원합니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[숫자놀이말구 임금을 삭감해주세요]]></title>
         <id>https://alook.so/posts/8Wt7Wv</id>
@@ -39,33 +74,5 @@
         <link href="https://alook.so/posts/E7t3dW"/>
         <updated>2021-10-18T20:14:41.601Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3dW">안정성과 공평성, 획일성 때문에...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열이 홍준표에게]]></title>
-        <id>https://alook.so/posts/lat1wR</id>
-        <link href="https://alook.so/posts/lat1wR"/>
-        <updated>2021-10-18T20:14:41.601Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1wR">윤석열이 홍준표에게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배고파요 먹고싶은 음식 추천해주세요]]></title>
-        <id>https://alook.so/posts/92t3Zn</id>
-        <link href="https://alook.so/posts/92t3Zn"/>
-        <updated>2021-10-18T20:14:41.601Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t3Zn">배고파요 먹고싶은 음식 추천해주세요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리가 행복하지 않은 이유]]></title>
-        <id>https://alook.so/posts/Kmtkb2</id>
-        <link href="https://alook.so/posts/Kmtkb2"/>
-        <updated>2021-10-18T19:12:56.577Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtkb2">우리가 행복하지 않은 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어느 2009년생이 백신 예방접종 예약을 하기까지,]]></title>
-        <id>https://alook.so/posts/mbtBGP</id>
-        <link href="https://alook.so/posts/mbtBGP"/>
-        <updated>2021-10-18T18:16:29.391Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtBGP">어느 2009년생이 백신 예방접종 예약을 하기까지,</a>]]></content>
     </entry>
 </feed>
