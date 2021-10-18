@@ -19,6 +19,24 @@ contentSelector = "h3"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[alookso_latest]
+title = "alookso ─ 둘러보기 ─ 최신 글"
+url = "https://alook.so/discover/latest"
+entrySelector = "//div[@class='flex-auto mt-2 space-y-2']/h5[@class='font-medium text-break']"
+titleSelector = "//a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
+linkSelector = "//a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[alookso_trendiest]
+title = "alookso ─ 둘러보기 ─ 뜨는 글"
+url = "https://alook.so/discover/trendiest"
+entrySelector = "//div[@class='flex-auto mt-2 space-y-2']/h5[@class='font-medium text-break']"
+titleSelector = "//a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
+linkSelector = "//a[@class='text-xl text-gray-800 font-semibold line-clamp-2']"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [alookso_alookso]
 title = "alookso ─ alookso"
 url = "https://alook.so/users/x4WtnB"
