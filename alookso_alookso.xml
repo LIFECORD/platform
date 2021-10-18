@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-10-18T07:16:30.586Z</updated>
+    <updated>2021-10-18T07:30:14.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[각 분야 얼룩커의 다른 글도 궁금하다면?]]></title>
-        <id>https://alook.so/posts/njtw0e</id>
-        <link href="https://alook.so/posts/njtw0e"/>
-        <updated>2021-10-18T05:13:04.033Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtw0e">각 분야 얼룩커의 다른 글도 궁금하다면?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난 에디터 픽을 놓쳤다면?]]></title>
-        <id>https://alook.so/posts/lat1qp</id>
-        <link href="https://alook.so/posts/lat1qp"/>
-        <updated>2021-10-18T05:13:04.033Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1qp">지난 에디터 픽을 놓쳤다면?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대장동 블루스 외전 - 답글에 답합니다.]]></title>
-        <id>https://alook.so/posts/3wtd38</id>
-        <link href="https://alook.so/posts/3wtd38"/>
-        <updated>2021-10-18T04:26:02.387Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtd38">대장동 블루스 외전 - 답글에 답합니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대장동 블루스 - 대장동의 진짜 주인은 누구인가?]]></title>
-        <id>https://alook.so/posts/8WtoOD</id>
-        <link href="https://alook.so/posts/8WtoOD"/>
-        <updated>2021-10-18T04:26:02.387Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8WtoOD">대장동 블루스 - 대장동의 진짜 주인은 누구인가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대장동 블루스 - 대장동은 누구 주머니로 들어가는가]]></title>
-        <id>https://alook.so/posts/o7tlm9</id>
-        <link href="https://alook.so/posts/o7tlm9"/>
-        <updated>2021-10-18T04:26:02.387Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7tlm9">대장동 블루스 - 대장동은 누구 주머니로 들어가는가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 토픽 다섯 개가 생겼어요]]></title>
-        <id>https://alook.so/posts/WLt5P0</id>
-        <link href="https://alook.so/posts/WLt5P0"/>
-        <updated>2021-10-18T04:26:02.388Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5P0">새로운 토픽 다섯 개가 생겼어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로젝트 alookso가 (       ) 얼룩커를 추천합니다]]></title>
-        <id>https://alook.so/posts/J5tOBw</id>
-        <link href="https://alook.so/posts/J5tOBw"/>
-        <updated>2021-10-18T04:26:02.388Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOBw">프로젝트 alookso가 (       ) 얼룩커를 추천합니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘에디터픽’을 소개합니다]]></title>
-        <id>https://alook.so/posts/Djt3xZ</id>
-        <link href="https://alook.so/posts/Djt3xZ"/>
-        <updated>2021-10-18T04:26:02.388Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3xZ">‘에디터픽’을 소개합니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루 100명에게 1만원... 어떤 글이 받아갔나요?]]></title>
-        <id>https://alook.so/posts/yEtEna</id>
-        <link href="https://alook.so/posts/yEtEna"/>
-        <updated>2021-10-18T04:26:02.392Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEna">하루 100명에게 1만원... 어떤 글이 받아갔나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘구독’ 기능으로 빠르고 편하게 새 글을 만나보세요!]]></title>
-        <id>https://alook.so/posts/AlatBL</id>
-        <link href="https://alook.so/posts/AlatBL"/>
-        <updated>2021-10-18T04:26:02.392Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/AlatBL">‘구독’ 기능으로 빠르고 편하게 새 글을 만나보세요!</a>]]></content>
-    </entry>
 </feed>
