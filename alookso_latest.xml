@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-18T14:14:52.063Z</updated>
+    <updated>2021-10-18T15:17:54.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[집값은 ‘이 것’ 하나면 해결됩니다!]]></title>
-        <id>https://alook.so/posts/BatqDk</id>
-        <link href="https://alook.so/posts/BatqDk"/>
-        <updated>2021-10-18T14:13:33.503Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/BatqDk">집값은 ‘이 것’ 하나면 해결됩니다!</a>]]></content>
+        <title type="html"><![CDATA[alookso를 시작하고 일주일이 지났다. 나는...]]></title>
+        <id>https://alook.so/posts/yEtZKk</id>
+        <link href="https://alook.so/posts/yEtZKk"/>
+        <updated>2021-10-18T15:15:15.487Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtZKk">alookso를 시작하고 일주일이 지났다. 나는...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[육식은 대체불가지]]></title>
-        <id>https://alook.so/posts/LKtawa</id>
-        <link href="https://alook.so/posts/LKtawa"/>
-        <updated>2021-10-18T14:13:33.504Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtawa">육식은 대체불가지</a>]]></content>
+        <title type="html"><![CDATA[동성결혼은 인류의 적이라 생각합니다.]]></title>
+        <id>https://alook.so/posts/Batq0k</id>
+        <link href="https://alook.so/posts/Batq0k"/>
+        <updated>2021-10-18T15:15:15.489Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batq0k">동성결혼은 인류의 적이라 생각합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소상공인 20년차 언제나 고민이 있었습니다.지금은 고통이네요.]]></title>
-        <id>https://alook.so/posts/G1t9nj</id>
-        <link href="https://alook.so/posts/G1t9nj"/>
-        <updated>2021-10-18T14:13:33.506Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9nj">소상공인 20년차 언제나 고민이 있었습니다.지금은 고통이네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계속해서 새로운 일자리의 발생]]></title>
-        <id>https://alook.so/posts/OEtOJ1</id>
-        <link href="https://alook.so/posts/OEtOJ1"/>
-        <updated>2021-10-18T14:13:33.506Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEtOJ1">계속해서 새로운 일자리의 발생</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재택근무를 포함하면 주4일제 가능하지않을까요?]]></title>
-        <id>https://alook.so/posts/DjtlOv</id>
-        <link href="https://alook.so/posts/DjtlOv"/>
-        <updated>2021-10-18T14:13:33.508Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtlOv">재택근무를 포함하면 주4일제 가능하지않을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 반려동물]]></title>
-        <id>https://alook.so/posts/1RtMY4</id>
-        <link href="https://alook.so/posts/1RtMY4"/>
-        <updated>2021-10-18T14:13:33.510Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtMY4">나의 반려동물</a>]]></content>
+        <title type="html"><![CDATA[개인존중과사회존중]]></title>
+        <id>https://alook.so/posts/6MtOj6</id>
+        <link href="https://alook.so/posts/6MtOj6"/>
+        <updated>2021-10-18T15:15:15.490Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6MtOj6">개인존중과사회존중</a>]]></content>
     </entry>
 </feed>
