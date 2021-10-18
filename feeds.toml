@@ -31,9 +31,9 @@ onFail = "stale"
 [alookso_gwanyul]
 title = "alookso ─ 천관율"
 url = "https://alook.so/users/8letPq"
-entrySelector = "//section[1]/div/div/div/div/div/h5"
-titleSelector = "//a"
-linkSelector = "//a"
+entrySelector = "section div div div[class='px-4 py-4 lg:px-0 md:py-6'] div[id^='post_'] div[class='flex-auto mt-2 space-y-2']  h5[data-qa='post-title']"
+titleSelector = "a[class='text-xl text-gray-800 font-semibold line-clamp-2']"
+linkSelector = "a[class='text-xl text-gray-800 font-semibold line-clamp-2']"
 waitUntil = "networkidle"
 onFail = "stale"
 
