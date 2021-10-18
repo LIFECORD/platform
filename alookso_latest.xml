@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-18T16:23:03.493Z</updated>
+    <updated>2021-10-18T17:22:36.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[엄마 난 엄마 딸만 할래]]></title>
-        <id>https://alook.so/posts/YytDEq</id>
-        <link href="https://alook.so/posts/YytDEq"/>
-        <updated>2021-10-18T16:21:42.725Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDEq">엄마 난 엄마 딸만 할래</a>]]></content>
+        <title type="html"><![CDATA[내가 비출산을 결심한 이유]]></title>
+        <id>https://alook.so/posts/E7t3Wy</id>
+        <link href="https://alook.so/posts/E7t3Wy"/>
+        <updated>2021-10-18T17:21:20.268Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3Wy">내가 비출산을 결심한 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[계절 노래를 찾아 듣고 계신가요?]]></title>
-        <id>https://alook.so/posts/jdt5Xv</id>
-        <link href="https://alook.so/posts/jdt5Xv"/>
-        <updated>2021-10-18T16:21:42.726Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt5Xv">계절 노래를 찾아 듣고 계신가요?</a>]]></content>
+        <title type="html"><![CDATA[좋소 5년 다닌 운 좋은 사람]]></title>
+        <id>https://alook.so/posts/lat1zW</id>
+        <link href="https://alook.so/posts/lat1zW"/>
+        <updated>2021-10-18T17:21:20.268Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1zW">좋소 5년 다닌 운 좋은 사람</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국제결혼에 대해 어떻게 생각하시나요?]]></title>
-        <id>https://alook.so/posts/bWtdor</id>
-        <link href="https://alook.so/posts/bWtdor"/>
-        <updated>2021-10-18T16:21:42.728Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtdor">국제결혼에 대해 어떻게 생각하시나요?</a>]]></content>
+        <title type="html"><![CDATA[지긋지긋한 나의 타인]]></title>
+        <id>https://alook.so/posts/92t39w</id>
+        <link href="https://alook.so/posts/92t39w"/>
+        <updated>2021-10-18T17:21:20.270Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t39w">지긋지긋한 나의 타인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[육아와 일 모두다 잘하고 싶다]]></title>
-        <id>https://alook.so/posts/a0tmKZ</id>
-        <link href="https://alook.so/posts/a0tmKZ"/>
-        <updated>2021-10-18T16:21:42.730Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0tmKZ">육아와 일 모두다 잘하고 싶다</a>]]></content>
+        <title type="html"><![CDATA[네니오...]]></title>
+        <id>https://alook.so/posts/mbtBw9</id>
+        <link href="https://alook.so/posts/mbtBw9"/>
+        <updated>2021-10-18T17:21:20.272Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtBw9">네니오...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최근 퇴사 후 진로 고민을 하게 되었습니다]]></title>
-        <id>https://alook.so/posts/J5tyJo</id>
-        <link href="https://alook.so/posts/J5tyJo"/>
-        <updated>2021-10-18T16:21:42.731Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tyJo">최근 퇴사 후 진로 고민을 하게 되었습니다</a>]]></content>
+        <title type="html"><![CDATA[취업하고싶다]]></title>
+        <id>https://alook.so/posts/Djtlkv</id>
+        <link href="https://alook.so/posts/Djtlkv"/>
+        <updated>2021-10-18T17:21:20.276Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtlkv">취업하고싶다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설명이 안 되는 부분이 있습니다.]]></title>
+        <id>https://alook.so/posts/o7t0WJ</id>
+        <link href="https://alook.so/posts/o7t0WJ"/>
+        <updated>2021-10-18T17:21:20.276Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0WJ">설명이 안 되는 부분이 있습니다.</a>]]></content>
     </entry>
 </feed>
