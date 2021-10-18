@@ -2,42 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-18T09:17:03.828Z</updated>
+    <updated>2021-10-18T10:16:58.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA['살림'은 직업입니다.]]></title>
-        <id>https://alook.so/posts/4XtOoZ</id>
-        <link href="https://alook.so/posts/4XtOoZ"/>
-        <updated>2021-10-18T09:15:39.369Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtOoZ">'살림'은 직업입니다.</a>]]></content>
+        <title type="html"><![CDATA[언제까지나 내겐 소나무 일 것 같던 엄마가 변했습니다.]]></title>
+        <id>https://alook.so/posts/54t44K</id>
+        <link href="https://alook.so/posts/54t44K"/>
+        <updated>2021-10-18T10:15:38.150Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54t44K">언제까지나 내겐 소나무 일 것 같던 엄마가 변했습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사는 것이 아닌 것이 아니다.]]></title>
-        <id>https://alook.so/posts/XBt3oR</id>
-        <link href="https://alook.so/posts/XBt3oR"/>
-        <updated>2021-10-18T09:15:39.370Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt3oR">사는 것이 아닌 것이 아니다.</a>]]></content>
+        <title type="html"><![CDATA[아픔을 극복하는 방법을 찾기엔 너무 어려서]]></title>
+        <id>https://alook.so/posts/q1tll0</id>
+        <link href="https://alook.so/posts/q1tll0"/>
+        <updated>2021-10-18T10:15:38.151Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tll0">아픔을 극복하는 방법을 찾기엔 너무 어려서</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플랜B가 있는 삶]]></title>
-        <id>https://alook.so/posts/xltJv6</id>
-        <link href="https://alook.so/posts/xltJv6"/>
-        <updated>2021-10-18T09:15:39.372Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/xltJv6">플랜B가 있는 삶</a>]]></content>
+        <title type="html"><![CDATA[남녀 임금차 정말 존재할까?]]></title>
+        <id>https://alook.so/posts/DjtllO</id>
+        <link href="https://alook.so/posts/DjtllO"/>
+        <updated>2021-10-18T10:15:38.153Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtllO">남녀 임금차 정말 존재할까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주5일이 시작될때도... 꽤 많은 언론 꽤 많은 단체에서 반대를 했지요]]></title>
-        <id>https://alook.so/posts/kZtL3z</id>
-        <link href="https://alook.so/posts/kZtL3z"/>
-        <updated>2021-10-18T09:15:39.374Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/kZtL3z">주5일이 시작될때도... 꽤 많은 언론 꽤 많은 단체에서 반대를 했지요</a>]]></content>
+        <title type="html"><![CDATA['유언장' 작성 추천합니다.]]></title>
+        <id>https://alook.so/posts/1RtMMx</id>
+        <link href="https://alook.so/posts/1RtMMx"/>
+        <updated>2021-10-18T10:15:38.154Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtMMx">'유언장' 작성 추천합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국회의원 숫자]]></title>
-        <id>https://alook.so/posts/yEtZV6</id>
-        <link href="https://alook.so/posts/yEtZV6"/>
-        <updated>2021-10-18T09:15:39.376Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtZV6">국회의원 숫자</a>]]></content>
+        <title type="html"><![CDATA[경쟁에 익숙한 10대]]></title>
+        <id>https://alook.so/posts/o7t00m</id>
+        <link href="https://alook.so/posts/o7t00m"/>
+        <updated>2021-10-18T10:15:38.156Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t00m">경쟁에 익숙한 10대</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머리가 복잡할때 손을 쓴다는것]]></title>
+        <id>https://alook.so/posts/70tmmm</id>
+        <link href="https://alook.so/posts/70tmmm"/>
+        <updated>2021-10-18T10:15:38.157Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tmmm">머리가 복잡할때 손을 쓴다는것</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국어는 좋은데, 노예생활은 싫어]]></title>
+        <id>https://alook.so/posts/jdt55d</id>
+        <link href="https://alook.so/posts/jdt55d"/>
+        <updated>2021-10-18T10:15:38.158Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt55d"> 외국어는 좋은데, 노예생활은 싫어</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고려대 졸업생은 행복할까?]]></title>
+        <id>https://alook.so/posts/bWtddD</id>
+        <link href="https://alook.so/posts/bWtddD"/>
+        <updated>2021-10-18T10:15:38.159Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtddD">고려대 졸업생은 행복할까?</a>]]></content>
     </entry>
 </feed>
