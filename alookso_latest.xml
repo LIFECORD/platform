@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-18T15:17:54.912Z</updated>
+    <updated>2021-10-18T16:23:03.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[alookso를 시작하고 일주일이 지났다. 나는...]]></title>
-        <id>https://alook.so/posts/yEtZKk</id>
-        <link href="https://alook.so/posts/yEtZKk"/>
-        <updated>2021-10-18T15:15:15.487Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtZKk">alookso를 시작하고 일주일이 지났다. 나는...</a>]]></content>
+        <title type="html"><![CDATA[엄마 난 엄마 딸만 할래]]></title>
+        <id>https://alook.so/posts/YytDEq</id>
+        <link href="https://alook.so/posts/YytDEq"/>
+        <updated>2021-10-18T16:21:42.725Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDEq">엄마 난 엄마 딸만 할래</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동성결혼은 인류의 적이라 생각합니다.]]></title>
-        <id>https://alook.so/posts/Batq0k</id>
-        <link href="https://alook.so/posts/Batq0k"/>
-        <updated>2021-10-18T15:15:15.489Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batq0k">동성결혼은 인류의 적이라 생각합니다.</a>]]></content>
+        <title type="html"><![CDATA[계절 노래를 찾아 듣고 계신가요?]]></title>
+        <id>https://alook.so/posts/jdt5Xv</id>
+        <link href="https://alook.so/posts/jdt5Xv"/>
+        <updated>2021-10-18T16:21:42.726Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt5Xv">계절 노래를 찾아 듣고 계신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[개인존중과사회존중]]></title>
-        <id>https://alook.so/posts/6MtOj6</id>
-        <link href="https://alook.so/posts/6MtOj6"/>
-        <updated>2021-10-18T15:15:15.490Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6MtOj6">개인존중과사회존중</a>]]></content>
+        <title type="html"><![CDATA[국제결혼에 대해 어떻게 생각하시나요?]]></title>
+        <id>https://alook.so/posts/bWtdor</id>
+        <link href="https://alook.so/posts/bWtdor"/>
+        <updated>2021-10-18T16:21:42.728Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtdor">국제결혼에 대해 어떻게 생각하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[육아와 일 모두다 잘하고 싶다]]></title>
+        <id>https://alook.so/posts/a0tmKZ</id>
+        <link href="https://alook.so/posts/a0tmKZ"/>
+        <updated>2021-10-18T16:21:42.730Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0tmKZ">육아와 일 모두다 잘하고 싶다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최근 퇴사 후 진로 고민을 하게 되었습니다]]></title>
+        <id>https://alook.so/posts/J5tyJo</id>
+        <link href="https://alook.so/posts/J5tyJo"/>
+        <updated>2021-10-18T16:21:42.731Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tyJo">최근 퇴사 후 진로 고민을 하게 되었습니다</a>]]></content>
     </entry>
 </feed>
