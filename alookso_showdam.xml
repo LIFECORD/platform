@@ -2,7 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/qQPtde</id>
     <title>alookso ─ 조소담</title>
-    <updated>2021-10-18T07:30:14.172Z</updated>
+    <updated>2021-10-18T08:20:11.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 이후 근무 형태의 변화가 지역 발전에 영향을 미칠까요?]]></title>
+        <id>https://alook.so/posts/DjtaOr</id>
+        <link href="https://alook.so/posts/DjtaOr"/>
+        <updated>2021-10-18T08:19:32.456Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtaOr">코로나 이후 근무 형태의 변화가 지역 발전에 영향을 미칠까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회가 강요하는 모성에 대해서]]></title>
+        <id>https://alook.so/posts/rDtRr8</id>
+        <link href="https://alook.so/posts/rDtRr8"/>
+        <updated>2021-10-18T08:19:32.457Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDtRr8">사회가 강요하는 모성에 대해서 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: AI '이루다'와 미래]]></title>
+        <id>https://alook.so/posts/bWtB0O</id>
+        <link href="https://alook.so/posts/bWtB0O"/>
+        <updated>2021-10-18T08:19:32.457Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtB0O">답글: AI '이루다'와 미래 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젊은 층의 자살률, 왜 늘었을까요?]]></title>
+        <id>https://alook.so/posts/6MtY0Y</id>
+        <link href="https://alook.so/posts/6MtY0Y"/>
+        <updated>2021-10-18T08:19:32.458Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6MtY0Y">젊은 층의 자살률, 왜 늘었을까요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주4일제를 하면 수요일에 쉬실래요, 금요일에 쉬실래요?]]></title>
+        <id>https://alook.so/posts/Aq1tw2</id>
+        <link href="https://alook.so/posts/Aq1tw2"/>
+        <updated>2021-10-18T08:19:32.459Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Aq1tw2">주4일제를 하면 수요일에 쉬실래요, 금요일에 쉬실래요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자격 없는 자들을 끌어내릴 수 있게 됐습니다]]></title>
+        <id>https://alook.so/posts/g4Xt0R</id>
+        <link href="https://alook.so/posts/g4Xt0R"/>
+        <updated>2021-10-18T08:19:32.460Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/g4Xt0R">자격 없는 자들을 끌어내릴 수 있게 됐습니다 </a>]]></content>
+    </entry>
 </feed>
