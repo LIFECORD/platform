@@ -2,22 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-10-18T08:20:11.151Z</updated>
+    <updated>2021-10-18T09:17:03.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[공장 청년들의 '최저임금 연동제']]></title>
-        <id>https://alook.so/posts/92t5rB</id>
-        <link href="https://alook.so/posts/92t5rB"/>
-        <updated>2021-10-18T07:27:49.592Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t5rB">공장 청년들의 '최저임금 연동제'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자영업 절대로 하지마라, 월 500을 벌어도 손해.]]></title>
-        <id>https://alook.so/posts/potLVv</id>
-        <link href="https://alook.so/posts/potLVv"/>
-        <updated>2021-10-18T07:27:49.493Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/potLVv">자영업 절대로 하지마라, 월 500을 벌어도 손해.</a>]]></content>
+        <title type="html"><![CDATA[일 가정 양립, 어디까지 왔니? (feat. 지원금이 문제가 아니다)]]></title>
+        <id>https://alook.so/posts/o7tle3</id>
+        <link href="https://alook.so/posts/o7tle3"/>
+        <updated>2021-10-18T07:27:49.522Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7tle3">일 가정 양립, 어디까지 왔니? (feat. 지원금이 문제가 아니다)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[반복되는 사고는 사고가 아니다.]]></title>
@@ -27,60 +20,11 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGt18W">반복되는 사고는 사고가 아니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[25살에 카페창업 그리고 코로나지옥]]></title>
-        <id>https://alook.so/posts/ZktOKd</id>
-        <link href="https://alook.so/posts/ZktOKd"/>
-        <updated>2021-10-18T07:27:49.527Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/ZktOKd">25살에 카페창업 그리고 코로나지옥</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장애가 있는체로 살아가는 삶이란]]></title>
-        <id>https://alook.so/posts/njtXrv</id>
-        <link href="https://alook.so/posts/njtXrv"/>
-        <updated>2021-10-18T07:27:49.558Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtXrv">장애가 있는체로 살아가는 삶이란</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤 시선으로 보시나요??]]></title>
-        <id>https://alook.so/posts/zvtKyv</id>
-        <link href="https://alook.so/posts/zvtKyv"/>
-        <updated>2021-10-18T08:18:59.794Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/zvtKyv">어떤 시선으로 보시나요??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동물사진 찍기의 즐거움]]></title>
-        <id>https://alook.so/posts/a0t9om</id>
-        <link href="https://alook.so/posts/a0t9om"/>
-        <updated>2021-10-18T07:27:49.579Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0t9om">동물사진 찍기의 즐거움</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['마스크 때문에 아동 언어발달이 저해된다'는 소문]]></title>
-        <id>https://alook.so/posts/M9tbWl</id>
-        <link href="https://alook.so/posts/M9tbWl"/>
-        <updated>2021-10-18T07:27:49.621Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9tbWl">'마스크 때문에 아동 언어발달이 저해된다'는 소문</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수십 개의 채팅방에 있는 목록들, 진정한 지인일까요?]]></title>
-        <id>https://alook.so/posts/vKt6vo</id>
-        <link href="https://alook.so/posts/vKt6vo"/>
-        <updated>2021-10-18T07:27:49.532Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKt6vo">수십 개의 채팅방에 있는 목록들, 진정한 지인일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일 가정 양립, 어디까지 왔니? (feat. 지원금이 문제가 아니다)]]></title>
-        <id>https://alook.so/posts/o7tle3</id>
-        <link href="https://alook.so/posts/o7tle3"/>
-        <updated>2021-10-18T07:27:49.522Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7tle3">일 가정 양립, 어디까지 왔니? (feat. 지원금이 문제가 아니다)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사장님이 이 글을 봤다]]></title>
-        <id>https://alook.so/posts/vKt6YG</id>
-        <link href="https://alook.so/posts/vKt6YG"/>
-        <updated>2021-10-18T07:27:49.507Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKt6YG">사장님이 이 글을 봤다</a>]]></content>
+        <title type="html"><![CDATA[자영업 절대로 하지마라, 월 500을 벌어도 손해.]]></title>
+        <id>https://alook.so/posts/potLVv</id>
+        <link href="https://alook.so/posts/potLVv"/>
+        <updated>2021-10-18T07:27:49.493Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/potLVv">자영업 절대로 하지마라, 월 500을 벌어도 손해.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[회사에서 일이 힘든가요, 인간관계가 힘든가요?]]></title>
@@ -90,32 +34,11 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/eVtRLr">회사에서 일이 힘든가요, 인간관계가 힘든가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[우리나라의 하루] 1. 하루에 몇 명이 태어날까요?]]></title>
-        <id>https://alook.so/posts/vKt6da</id>
-        <link href="https://alook.so/posts/vKt6da"/>
-        <updated>2021-10-18T07:27:49.566Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKt6da">[우리나라의 하루] 1. 하루에 몇 명이 태어날까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지방을 살릴 기회는 있습니다.  by 제주도 남쪽 마을 주민]]></title>
-        <id>https://alook.so/posts/XBto0n</id>
-        <link href="https://alook.so/posts/XBto0n"/>
-        <updated>2021-10-18T07:27:49.585Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBto0n">지방을 살릴 기회는 있습니다.  by 제주도 남쪽 마을 주민</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가정주부도 직업이라고 생각하시나요?]]></title>
-        <id>https://alook.so/posts/lat1pE</id>
-        <link href="https://alook.so/posts/lat1pE"/>
-        <updated>2021-10-18T07:27:49.512Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1pE">가정주부도 직업이라고 생각하시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이러다가는 다 죽어?]]></title>
-        <id>https://alook.so/posts/jdt3qb</id>
-        <link href="https://alook.so/posts/jdt3qb"/>
-        <updated>2021-10-18T07:27:49.670Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt3qb">이러다가는 다 죽어? </a>]]></content>
+        <title type="html"><![CDATA[와, 역시 임명묵 씨 클라스 어디 안 가네요. 모르는 게 없구나(......)]]></title>
+        <id>https://alook.so/posts/8WtoR0</id>
+        <link href="https://alook.so/posts/8WtoR0"/>
+        <updated>2021-10-18T07:27:49.486Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8WtoR0">와, 역시 임명묵 씨 클라스 어디 안 가네요. 모르는 게 없구나(......)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사소한 일일 수도 있지만  커피 한잔 때문에 퇴사를 결심했습니다]]></title>
@@ -125,10 +48,80 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtR11">사소한 일일 수도 있지만  커피 한잔 때문에 퇴사를 결심했습니다 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[와, 역시 임명묵 씨 클라스 어디 안 가네요. 모르는 게 없구나(......)]]></title>
-        <id>https://alook.so/posts/8WtoR0</id>
-        <link href="https://alook.so/posts/8WtoR0"/>
-        <updated>2021-10-18T07:27:49.486Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8WtoR0">와, 역시 임명묵 씨 클라스 어디 안 가네요. 모르는 게 없구나(......)</a>]]></content>
+        <title type="html"><![CDATA[사장님이 이 글을 봤다]]></title>
+        <id>https://alook.so/posts/vKt6YG</id>
+        <link href="https://alook.so/posts/vKt6YG"/>
+        <updated>2021-10-18T07:27:49.507Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKt6YG">사장님이 이 글을 봤다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25살에 카페창업 그리고 코로나지옥]]></title>
+        <id>https://alook.so/posts/ZktOKd</id>
+        <link href="https://alook.so/posts/ZktOKd"/>
+        <updated>2021-10-18T07:27:49.527Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/ZktOKd">25살에 카페창업 그리고 코로나지옥</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가정주부도 직업이라고 생각하시나요?]]></title>
+        <id>https://alook.so/posts/lat1pE</id>
+        <link href="https://alook.so/posts/lat1pE"/>
+        <updated>2021-10-18T07:27:49.512Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1pE">가정주부도 직업이라고 생각하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장애가 있는체로 살아가는 삶이란]]></title>
+        <id>https://alook.so/posts/njtXrv</id>
+        <link href="https://alook.so/posts/njtXrv"/>
+        <updated>2021-10-18T07:27:49.558Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtXrv">장애가 있는체로 살아가는 삶이란</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오징어게임 죽음관련 데이터]]></title>
+        <id>https://alook.so/posts/3wtd1V</id>
+        <link href="https://alook.so/posts/3wtd1V"/>
+        <updated>2021-10-18T09:15:48.664Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtd1V">오징어게임 죽음관련 데이터</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이러다가는 다 죽어?]]></title>
+        <id>https://alook.so/posts/jdt3qb</id>
+        <link href="https://alook.so/posts/jdt3qb"/>
+        <updated>2021-10-18T07:27:49.670Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt3qb">이러다가는 다 죽어? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공장 청년들의 '최저임금 연동제']]></title>
+        <id>https://alook.so/posts/92t5rB</id>
+        <link href="https://alook.so/posts/92t5rB"/>
+        <updated>2021-10-18T07:27:49.592Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t5rB">공장 청년들의 '최저임금 연동제'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지방을 살릴 기회는 있습니다.  by 제주도 남쪽 마을 주민]]></title>
+        <id>https://alook.so/posts/XBto0n</id>
+        <link href="https://alook.so/posts/XBto0n"/>
+        <updated>2021-10-18T07:27:49.585Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBto0n">지방을 살릴 기회는 있습니다.  by 제주도 남쪽 마을 주민</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수십 개의 채팅방에 있는 목록들, 진정한 지인일까요?]]></title>
+        <id>https://alook.so/posts/vKt6vo</id>
+        <link href="https://alook.so/posts/vKt6vo"/>
+        <updated>2021-10-18T07:27:49.532Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKt6vo">수십 개의 채팅방에 있는 목록들, 진정한 지인일까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[우리나라의 하루] 1. 하루에 몇 명이 태어날까요?]]></title>
+        <id>https://alook.so/posts/vKt6da</id>
+        <link href="https://alook.so/posts/vKt6da"/>
+        <updated>2021-10-18T07:27:49.566Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKt6da">[우리나라의 하루] 1. 하루에 몇 명이 태어날까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물사진 찍기의 즐거움]]></title>
+        <id>https://alook.so/posts/a0t9om</id>
+        <link href="https://alook.so/posts/a0t9om"/>
+        <updated>2021-10-18T07:27:49.579Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0t9om">동물사진 찍기의 즐거움</a>]]></content>
     </entry>
 </feed>
