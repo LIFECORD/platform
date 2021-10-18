@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-18T18:17:50.864Z</updated>
+    <updated>2021-10-18T19:14:23.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우리가 행복하지 않은 이유]]></title>
+        <id>https://alook.so/posts/Kmtkb2</id>
+        <link href="https://alook.so/posts/Kmtkb2"/>
+        <updated>2021-10-18T19:12:56.577Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtkb2">우리가 행복하지 않은 이유</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어느 2009년생이 백신 예방접종 예약을 하기까지,]]></title>
         <id>https://alook.so/posts/mbtBGP</id>
@@ -39,12 +46,5 @@
         <link href="https://alook.so/posts/YytDE2"/>
         <updated>2021-10-18T18:16:29.396Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDE2">국방비에 대한 생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 비출산을 결심한 이유]]></title>
-        <id>https://alook.so/posts/E7t3Wy</id>
-        <link href="https://alook.so/posts/E7t3Wy"/>
-        <updated>2021-10-18T17:21:20.268Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3Wy">내가 비출산을 결심한 이유</a>]]></content>
     </entry>
 </feed>
