@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-18T17:22:36.896Z</updated>
+    <updated>2021-10-18T18:17:50.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[어느 2009년생이 백신 예방접종 예약을 하기까지,]]></title>
+        <id>https://alook.so/posts/mbtBGP</id>
+        <link href="https://alook.so/posts/mbtBGP"/>
+        <updated>2021-10-18T18:16:29.391Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtBGP">어느 2009년생이 백신 예방접종 예약을 하기까지,</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4000만원짜리 졸업장]]></title>
+        <id>https://alook.so/posts/q1tlRp</id>
+        <link href="https://alook.so/posts/q1tlRp"/>
+        <updated>2021-10-18T18:16:29.396Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tlRp">4000만원짜리 졸업장</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월배당주에 꽂힌 이유]]></title>
+        <id>https://alook.so/posts/o7t0ky</id>
+        <link href="https://alook.so/posts/o7t0ky"/>
+        <updated>2021-10-18T18:16:29.396Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0ky">월배당주에 꽂힌 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성 전자 주식]]></title>
+        <id>https://alook.so/posts/70tm8b</id>
+        <link href="https://alook.so/posts/70tm8b"/>
+        <updated>2021-10-18T18:16:29.396Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tm8b">삼성 전자 주식</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국방비에 대한 생각]]></title>
+        <id>https://alook.so/posts/YytDE2</id>
+        <link href="https://alook.so/posts/YytDE2"/>
+        <updated>2021-10-18T18:16:29.396Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDE2">국방비에 대한 생각</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내가 비출산을 결심한 이유]]></title>
         <id>https://alook.so/posts/E7t3Wy</id>
         <link href="https://alook.so/posts/E7t3Wy"/>
         <updated>2021-10-18T17:21:20.268Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3Wy">내가 비출산을 결심한 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋소 5년 다닌 운 좋은 사람]]></title>
-        <id>https://alook.so/posts/lat1zW</id>
-        <link href="https://alook.so/posts/lat1zW"/>
-        <updated>2021-10-18T17:21:20.268Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1zW">좋소 5년 다닌 운 좋은 사람</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지긋지긋한 나의 타인]]></title>
-        <id>https://alook.so/posts/92t39w</id>
-        <link href="https://alook.so/posts/92t39w"/>
-        <updated>2021-10-18T17:21:20.270Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t39w">지긋지긋한 나의 타인</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네니오...]]></title>
-        <id>https://alook.so/posts/mbtBw9</id>
-        <link href="https://alook.so/posts/mbtBw9"/>
-        <updated>2021-10-18T17:21:20.272Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtBw9">네니오...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취업하고싶다]]></title>
-        <id>https://alook.so/posts/Djtlkv</id>
-        <link href="https://alook.so/posts/Djtlkv"/>
-        <updated>2021-10-18T17:21:20.276Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtlkv">취업하고싶다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설명이 안 되는 부분이 있습니다.]]></title>
-        <id>https://alook.so/posts/o7t0WJ</id>
-        <link href="https://alook.so/posts/o7t0WJ"/>
-        <updated>2021-10-18T17:21:20.276Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0WJ">설명이 안 되는 부분이 있습니다.</a>]]></content>
     </entry>
 </feed>
