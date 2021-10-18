@@ -2,63 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-18T13:21:19.838Z</updated>
+    <updated>2021-10-18T14:14:52.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[죽음]]></title>
-        <id>https://alook.so/posts/potbon</id>
-        <link href="https://alook.so/posts/potbon"/>
-        <updated>2021-10-18T13:19:46.830Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/potbon">죽음</a>]]></content>
+        <title type="html"><![CDATA[집값은 ‘이 것’ 하나면 해결됩니다!]]></title>
+        <id>https://alook.so/posts/BatqDk</id>
+        <link href="https://alook.so/posts/BatqDk"/>
+        <updated>2021-10-18T14:13:33.503Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/BatqDk">집값은 ‘이 것’ 하나면 해결됩니다!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국방비는 국가의 미래]]></title>
-        <id>https://alook.so/posts/eVtree</id>
-        <link href="https://alook.so/posts/eVtree"/>
-        <updated>2021-10-18T13:19:46.832Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/eVtree">국방비는 국가의 미래</a>]]></content>
+        <title type="html"><![CDATA[육식은 대체불가지]]></title>
+        <id>https://alook.so/posts/LKtawa</id>
+        <link href="https://alook.so/posts/LKtawa"/>
+        <updated>2021-10-18T14:13:33.504Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtawa">육식은 대체불가지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재수할 때, 할아버지한테서 오는 전화는 못 받았어요..]]></title>
-        <id>https://alook.so/posts/Pvteo2</id>
-        <link href="https://alook.so/posts/Pvteo2"/>
-        <updated>2021-10-18T13:19:46.842Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Pvteo2">재수할 때, 할아버지한테서 오는 전화는 못 받았어요..</a>]]></content>
+        <title type="html"><![CDATA[소상공인 20년차 언제나 고민이 있었습니다.지금은 고통이네요.]]></title>
+        <id>https://alook.so/posts/G1t9nj</id>
+        <link href="https://alook.so/posts/G1t9nj"/>
+        <updated>2021-10-18T14:13:33.506Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9nj">소상공인 20년차 언제나 고민이 있었습니다.지금은 고통이네요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러닝에 꽂힌 대학생]]></title>
-        <id>https://alook.so/posts/Vntelj</id>
-        <link href="https://alook.so/posts/Vntelj"/>
-        <updated>2021-10-18T13:19:46.842Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Vntelj">러닝에 꽂힌 대학생</a>]]></content>
+        <title type="html"><![CDATA[계속해서 새로운 일자리의 발생]]></title>
+        <id>https://alook.so/posts/OEtOJ1</id>
+        <link href="https://alook.so/posts/OEtOJ1"/>
+        <updated>2021-10-18T14:13:33.506Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEtOJ1">계속해서 새로운 일자리의 발생</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20세가 바라보는 국민연금]]></title>
-        <id>https://alook.so/posts/0ktmJM</id>
-        <link href="https://alook.so/posts/0ktmJM"/>
-        <updated>2021-10-18T13:19:46.842Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktmJM">20세가 바라보는 국민연금</a>]]></content>
+        <title type="html"><![CDATA[재택근무를 포함하면 주4일제 가능하지않을까요?]]></title>
+        <id>https://alook.so/posts/DjtlOv</id>
+        <link href="https://alook.so/posts/DjtlOv"/>
+        <updated>2021-10-18T14:13:33.508Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtlOv">재택근무를 포함하면 주4일제 가능하지않을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[궁금해서...]]></title>
-        <id>https://alook.so/posts/4XtOzE</id>
-        <link href="https://alook.so/posts/4XtOzE"/>
-        <updated>2021-10-18T13:19:46.846Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtOzE">궁금해서...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 할수있다 우리는 할수있다]]></title>
-        <id>https://alook.so/posts/XBt3My</id>
-        <link href="https://alook.so/posts/XBt3My"/>
-        <updated>2021-10-18T13:19:46.847Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt3My">나는 할수있다 우리는 할수있다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나한테 쌍욕하던 “갑” 고객님]]></title>
-        <id>https://alook.so/posts/w9tydZ</id>
-        <link href="https://alook.so/posts/w9tydZ"/>
-        <updated>2021-10-18T13:19:46.849Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/w9tydZ">나한테 쌍욕하던 “갑” 고객님 </a>]]></content>
+        <title type="html"><![CDATA[나의 반려동물]]></title>
+        <id>https://alook.so/posts/1RtMY4</id>
+        <link href="https://alook.so/posts/1RtMY4"/>
+        <updated>2021-10-18T14:13:33.510Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtMY4">나의 반려동물</a>]]></content>
     </entry>
 </feed>
