@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-19T17:20:09.071Z</updated>
+    <updated>2021-10-19T18:19:44.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[기후 물려주기]]></title>
+        <id>https://alook.so/posts/lat1XM</id>
+        <link href="https://alook.so/posts/lat1XM"/>
+        <updated>2021-10-19T18:18:14.340Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1XM">기후 물려주기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통일 후의 북한 사람은 '필요없는 짐'이 될까?]]></title>
+        <id>https://alook.so/posts/92t328</id>
+        <link href="https://alook.so/posts/92t328"/>
+        <updated>2021-10-19T18:18:14.343Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t328">통일 후의 북한 사람은 '필요없는 짐'이 될까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공공부문 연구 용역의 복수 발주를 의무화하자.]]></title>
+        <id>https://alook.so/posts/54t4Gj</id>
+        <link href="https://alook.so/posts/54t4Gj"/>
+        <updated>2021-10-19T18:18:14.344Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54t4Gj">공공부문 연구 용역의 복수 발주를 의무화하자.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해도 되지만 안해도 되지 않을까요!]]></title>
         <id>https://alook.so/posts/DjtlDW</id>
@@ -18,26 +39,5 @@
         <link href="https://alook.so/posts/o7t0DD"/>
         <updated>2021-10-19T17:18:47.547Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0DD">어쩌면 한걸음</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동성 간 결혼]]></title>
-        <id>https://alook.so/posts/lat1Xo</id>
-        <link href="https://alook.so/posts/lat1Xo"/>
-        <updated>2021-10-19T17:18:47.548Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1Xo">동성 간 결혼</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나보다 무서운 것은...?]]></title>
-        <id>https://alook.so/posts/92t32W</id>
-        <link href="https://alook.so/posts/92t32W"/>
-        <updated>2021-10-19T17:18:47.549Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t32W">코로나보다 무서운 것은...?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿈에 대한 확신의 차이]]></title>
-        <id>https://alook.so/posts/Kmtkye</id>
-        <link href="https://alook.so/posts/Kmtkye"/>
-        <updated>2021-10-19T16:20:37.850Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtkye">꿈에 대한 확신의 차이</a>]]></content>
     </entry>
 </feed>
