@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-19T16:21:51.622Z</updated>
+    <updated>2021-10-19T17:20:09.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[해도 되지만 안해도 되지 않을까요!]]></title>
+        <id>https://alook.so/posts/DjtlDW</id>
+        <link href="https://alook.so/posts/DjtlDW"/>
+        <updated>2021-10-19T17:18:47.547Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtlDW">해도 되지만 안해도 되지 않을까요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어쩌면 한걸음]]></title>
+        <id>https://alook.so/posts/o7t0DD</id>
+        <link href="https://alook.so/posts/o7t0DD"/>
+        <updated>2021-10-19T17:18:47.547Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0DD">어쩌면 한걸음</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동성 간 결혼]]></title>
+        <id>https://alook.so/posts/lat1Xo</id>
+        <link href="https://alook.so/posts/lat1Xo"/>
+        <updated>2021-10-19T17:18:47.548Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1Xo">동성 간 결혼</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나보다 무서운 것은...?]]></title>
+        <id>https://alook.so/posts/92t32W</id>
+        <link href="https://alook.so/posts/92t32W"/>
+        <updated>2021-10-19T17:18:47.549Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t32W">코로나보다 무서운 것은...?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꿈에 대한 확신의 차이]]></title>
         <id>https://alook.so/posts/Kmtkye</id>
         <link href="https://alook.so/posts/Kmtkye"/>
         <updated>2021-10-19T16:20:37.850Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtkye">꿈에 대한 확신의 차이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위드 코로나 위드 코리아]]></title>
-        <id>https://alook.so/posts/54t4G9</id>
-        <link href="https://alook.so/posts/54t4G9"/>
-        <updated>2021-10-19T16:20:37.851Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54t4G9">위드 코로나 위드 코리아</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["엄마 얼음이 이상해"]]></title>
-        <id>https://alook.so/posts/q1tlkE</id>
-        <link href="https://alook.so/posts/q1tlkE"/>
-        <updated>2021-10-19T16:20:37.853Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tlkE">"엄마 얼음이 이상해"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현재로서는 줄이는 것이 마땅할 듯. . .]]></title>
-        <id>https://alook.so/posts/1RtMoX</id>
-        <link href="https://alook.so/posts/1RtMoX"/>
-        <updated>2021-10-19T16:20:37.854Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtMoX">현재로서는 줄이는 것이 마땅할 듯. . . </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월급만으로는 먹고 살기 힘든 시대 #N잡러 #직장인부업 #디지털노마드]]></title>
-        <id>https://alook.so/posts/o7t0Da</id>
-        <link href="https://alook.so/posts/o7t0Da"/>
-        <updated>2021-10-19T16:20:37.855Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0Da">월급만으로는 먹고 살기 힘든 시대 #N잡러 #직장인부업 #디지털노마드</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[훌륭한 자료네요!]]></title>
-        <id>https://alook.so/posts/rDtwD8</id>
-        <link href="https://alook.so/posts/rDtwD8"/>
-        <updated>2021-10-19T16:20:37.857Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDtwD8">훌륭한 자료네요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자영업은 마음에 멍이 생기는 직업]]></title>
-        <id>https://alook.so/posts/jdt5L5</id>
-        <link href="https://alook.so/posts/jdt5L5"/>
-        <updated>2021-10-19T16:20:37.860Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt5L5">자영업은 마음에 멍이 생기는 직업</a>]]></content>
     </entry>
 </feed>
