@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-19T19:13:19.228Z</updated>
+    <updated>2021-10-19T20:17:31.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[성별차이를 극복하기 위해서는 무엇이 필요한가??]]></title>
+        <id>https://alook.so/posts/3wtk40</id>
+        <link href="https://alook.so/posts/3wtk40"/>
+        <updated>2021-10-19T20:16:09.661Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtk40">성별차이를 극복하기 위해서는 무엇이 필요한가??</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어느 언론을 봐야하며 어떤 언론을 신뢰해야 할까......]]></title>
         <id>https://alook.so/posts/8Wt7p9</id>
@@ -39,12 +46,5 @@
         <link href="https://alook.so/posts/92t328"/>
         <updated>2021-10-19T18:18:14.343Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t328">통일 후의 북한 사람은 '필요없는 짐'이 될까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공공부문 연구 용역의 복수 발주를 의무화하자.]]></title>
-        <id>https://alook.so/posts/54t4Gj</id>
-        <link href="https://alook.so/posts/54t4Gj"/>
-        <updated>2021-10-19T18:18:14.344Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54t4Gj">공공부문 연구 용역의 복수 발주를 의무화하자.</a>]]></content>
     </entry>
 </feed>
