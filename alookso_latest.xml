@@ -2,28 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-19T07:15:40.863Z</updated>
+    <updated>2021-10-19T08:18:24.037Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[위드 코로나에 대해서 생각해봅니다]]></title>
-        <id>https://alook.so/posts/1RtMap</id>
-        <link href="https://alook.so/posts/1RtMap"/>
-        <updated>2021-10-19T07:14:14.541Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtMap">위드 코로나에 대해서 생각해봅니다</a>]]></content>
+        <title type="html"><![CDATA[하지만]]></title>
+        <id>https://alook.so/posts/VnteaR</id>
+        <link href="https://alook.so/posts/VnteaR"/>
+        <updated>2021-10-19T08:17:05.648Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/VnteaR">하지만</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[종이 없는 국감 언제쯤 가능할까요?]]></title>
-        <id>https://alook.so/posts/YytDbV</id>
-        <link href="https://alook.so/posts/YytDbV"/>
-        <updated>2021-10-19T07:14:14.544Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDbV">종이 없는 국감 언제쯤 가능할까요?</a>]]></content>
+        <title type="html"><![CDATA[정치에 관심없는 '나' 이상한가요.]]></title>
+        <id>https://alook.so/posts/2xtM9b</id>
+        <link href="https://alook.so/posts/2xtM9b"/>
+        <updated>2021-10-19T08:17:05.649Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/2xtM9b">정치에 관심없는 '나' 이상한가요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저는 왜 지지하는 정당이 없는가를 생각해봤습니다.]]></title>
-        <id>https://alook.so/posts/bWtdLJ</id>
-        <link href="https://alook.so/posts/bWtdLJ"/>
-        <updated>2021-10-19T07:14:14.545Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtdLJ">저는 왜 지지하는 정당이 없는가를 생각해봤습니다.</a>]]></content>
+        <title type="html"><![CDATA[가족이 부담스러웠던 적이 있나요?]]></title>
+        <id>https://alook.so/posts/WLtJYx</id>
+        <link href="https://alook.so/posts/WLtJYx"/>
+        <updated>2021-10-19T08:17:05.650Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLtJYx">가족이 부담스러웠던 적이 있나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케팅 관점으로 봐야]]></title>
+        <id>https://alook.so/posts/0ktmeL</id>
+        <link href="https://alook.so/posts/0ktmeL"/>
+        <updated>2021-10-19T08:17:05.651Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktmeL">마케팅 관점으로 봐야</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주4일제는 가능하다고 생각합니다]]></title>
+        <id>https://alook.so/posts/M9t8X7</id>
+        <link href="https://alook.so/posts/M9t8X7"/>
+        <updated>2021-10-19T08:17:05.652Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t8X7">주4일제는 가능하다고 생각합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최신 트렌드를 외치면서 가장 뒤처진 업계]]></title>
+        <id>https://alook.so/posts/4XtO4k</id>
+        <link href="https://alook.so/posts/4XtO4k"/>
+        <updated>2021-10-19T08:17:05.654Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtO4k">최신 트렌드를 외치면서 가장 뒤처진 업계</a>]]></content>
     </entry>
 </feed>
