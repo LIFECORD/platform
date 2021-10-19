@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8Ogtna</id>
     <title>alookso ─ 윤성원</title>
-    <updated>2021-10-18T23:16:14.234Z</updated>
+    <updated>2021-10-19T00:52:06.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[과로와 번아웃은, 자기 통제의 실패입니다??]]></title>
+        <id>https://alook.so/posts/eVtrK9</id>
+        <link href="https://alook.so/posts/eVtrK9"/>
+        <updated>2021-10-19T00:51:18.282Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/eVtrK9">과로와 번아웃은, 자기 통제의 실패입니다??</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국감장에서 나온 "왜 KBS는 오징어게임 같은 작품을 생산하지 못 하느냐"는 질문에 대해..]]></title>
         <id>https://alook.so/posts/54twx5</id>

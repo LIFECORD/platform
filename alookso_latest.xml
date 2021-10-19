@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-18T23:16:14.241Z</updated>
+    <updated>2021-10-19T00:52:06.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[엄마에게 하루중 가장 행복한 시간은 언제인가요?]]></title>
-        <id>https://alook.so/posts/zvtZ4o</id>
-        <link href="https://alook.so/posts/zvtZ4o"/>
-        <updated>2021-10-18T23:14:51.443Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/zvtZ4o">엄마에게 하루중 가장 행복한 시간은 언제인가요? </a>]]></content>
+        <title type="html"><![CDATA[청소년 코로나19 예방접종 예약은 시작되었고,]]></title>
+        <id>https://alook.so/posts/Kmtkx2</id>
+        <link href="https://alook.so/posts/Kmtkx2"/>
+        <updated>2021-10-19T00:50:43.569Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtkx2">청소년 코로나19 예방접종 예약은 시작되었고,</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화이팅...!]]></title>
-        <id>https://alook.so/posts/2xtMEY</id>
-        <link href="https://alook.so/posts/2xtMEY"/>
-        <updated>2021-10-18T23:14:51.443Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/2xtMEY">화이팅...!</a>]]></content>
+        <title type="html"><![CDATA[IT 개발자가 되는 것이 유행이 된 시대]]></title>
+        <id>https://alook.so/posts/54t4X4</id>
+        <link href="https://alook.so/posts/54t4X4"/>
+        <updated>2021-10-19T00:50:43.569Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54t4X4">IT 개발자가 되는 것이 유행이 된 시대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제조업 하청 노동자의 한탄]]></title>
-        <id>https://alook.so/posts/0ktmVb</id>
-        <link href="https://alook.so/posts/0ktmVb"/>
-        <updated>2021-10-18T23:14:51.443Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktmVb">제조업 하청 노동자의 한탄</a>]]></content>
+        <title type="html"><![CDATA[왜 삼성전자를 사셨나요?]]></title>
+        <id>https://alook.so/posts/q1tlEp</id>
+        <link href="https://alook.so/posts/q1tlEp"/>
+        <updated>2021-10-19T00:50:43.571Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tlEp">왜 삼성전자를 사셨나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["암만 살 쪄도 난 마름" 블랙핑크 가사 괜찮을까?]]></title>
-        <id>https://alook.so/posts/M9t8lk</id>
-        <link href="https://alook.so/posts/M9t8lk"/>
-        <updated>2021-10-18T23:14:51.445Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t8lk">"암만 살 쪄도 난 마름" 블랙핑크 가사 괜찮을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동성이라는 이유로 결혼을 막아도 될까?]]></title>
-        <id>https://alook.so/posts/XBt3V8</id>
-        <link href="https://alook.so/posts/XBt3V8"/>
-        <updated>2021-10-18T23:14:51.446Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt3V8">동성이라는 이유로 결혼을 막아도 될까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[속 상한 노 신사에게 어떤 말을 해야 할까요]]></title>
-        <id>https://alook.so/posts/RGtqjb</id>
-        <link href="https://alook.so/posts/RGtqjb"/>
-        <updated>2021-10-18T23:14:51.448Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtqjb">속 상한 노 신사에게 어떤 말을 해야 할까요</a>]]></content>
+        <title type="html"><![CDATA[노후준비 안하는 아버지..]]></title>
+        <id>https://alook.so/posts/1RtMZJ</id>
+        <link href="https://alook.so/posts/1RtMZJ"/>
+        <updated>2021-10-19T00:50:43.573Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtMZJ">노후준비 안하는 아버지..</a>]]></content>
     </entry>
 </feed>
