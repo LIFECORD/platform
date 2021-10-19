@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-19T21:13:44.279Z</updated>
+    <updated>2021-10-19T22:15:19.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연애가 하고 싶지만 자기계발이 우선]]></title>
+        <id>https://alook.so/posts/xltJle</id>
+        <link href="https://alook.so/posts/xltJle"/>
+        <updated>2021-10-19T22:13:55.234Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/xltJle">연애가 하고 싶지만 자기계발이 우선</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선호킴 왜그랬어요]]></title>
+        <id>https://alook.so/posts/RGtqbZ</id>
+        <link href="https://alook.so/posts/RGtqbZ"/>
+        <updated>2021-10-19T22:13:55.235Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtqbZ">선호킴 왜그랬어요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈이요,돈]]></title>
         <id>https://alook.so/posts/Batqxo</id>
@@ -25,19 +39,5 @@
         <link href="https://alook.so/posts/3wtk40"/>
         <updated>2021-10-19T20:16:09.661Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtk40">성별차이를 극복하기 위해서는 무엇이 필요한가??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어느 언론을 봐야하며 어떤 언론을 신뢰해야 할까......]]></title>
-        <id>https://alook.so/posts/8Wt7p9</id>
-        <link href="https://alook.so/posts/8Wt7p9"/>
-        <updated>2021-10-19T19:11:44.717Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt7p9">어느 언론을 봐야하며 어떤 언론을 신뢰해야 할까......</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후위기, 이젠 솔직하자]]></title>
-        <id>https://alook.so/posts/G1t9GL</id>
-        <link href="https://alook.so/posts/G1t9GL"/>
-        <updated>2021-10-19T19:11:44.718Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9GL">기후위기, 이젠 솔직하자</a>]]></content>
     </entry>
 </feed>
