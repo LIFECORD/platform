@@ -2,113 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-10-19T03:17:44.029Z</updated>
+    <updated>2021-10-19T04:20:27.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[반복되는 사고는 사고가 아니다.]]></title>
-        <id>https://alook.so/posts/RGt18W</id>
-        <link href="https://alook.so/posts/RGt18W"/>
-        <updated>2021-10-18T07:27:49.576Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGt18W">반복되는 사고는 사고가 아니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사장님이 이 글을 봤다]]></title>
-        <id>https://alook.so/posts/vKt6YG</id>
-        <link href="https://alook.so/posts/vKt6YG"/>
-        <updated>2021-10-18T07:27:49.507Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKt6YG">사장님이 이 글을 봤다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Datalook] 온라인 커뮤니티가 출입처가 된 기자들]]></title>
-        <id>https://alook.so/posts/YytD0e</id>
-        <link href="https://alook.so/posts/YytD0e"/>
-        <updated>2021-10-18T10:15:46.703Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytD0e">[Datalook] 온라인 커뮤니티가 출입처가 된 기자들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가정주부도 직업이라고 생각하시나요?]]></title>
-        <id>https://alook.so/posts/lat1pE</id>
-        <link href="https://alook.so/posts/lat1pE"/>
-        <updated>2021-10-18T07:27:49.512Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1pE">가정주부도 직업이라고 생각하시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동물사진 찍기의 즐거움]]></title>
-        <id>https://alook.so/posts/a0t9om</id>
-        <link href="https://alook.so/posts/a0t9om"/>
-        <updated>2021-10-18T07:27:49.579Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0t9om">동물사진 찍기의 즐거움</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저희에게도 사랑스런 아기가 와줄까요?]]></title>
-        <id>https://alook.so/posts/latO86</id>
-        <link href="https://alook.so/posts/latO86"/>
-        <updated>2021-10-18T14:13:41.587Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/latO86">저희에게도 사랑스런 아기가 와줄까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에서 받은 보상 어디에 쓰시나요?]]></title>
-        <id>https://alook.so/posts/q1tlnV</id>
-        <link href="https://alook.so/posts/q1tlnV"/>
-        <updated>2021-10-18T14:13:41.579Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tlnV">얼룩소에서 받은 보상 어디에 쓰시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장애가 있는체로 살아가는 삶이란]]></title>
-        <id>https://alook.so/posts/njtXrv</id>
-        <link href="https://alook.so/posts/njtXrv"/>
-        <updated>2021-10-18T07:27:49.558Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtXrv">장애가 있는체로 살아가는 삶이란</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13만원과 184 좋아요를 받아 기쁜 얼룩커의 시스템 건의사항]]></title>
-        <id>https://alook.so/posts/LKtyoZ</id>
-        <link href="https://alook.so/posts/LKtyoZ"/>
-        <updated>2021-10-18T16:21:51.225Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtyoZ">13만원과 184 좋아요를 받아 기쁜 얼룩커의 시스템 건의사항</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자영업 절대로 하지마라, 월 500을 벌어도 손해.]]></title>
-        <id>https://alook.so/posts/potLVv</id>
-        <link href="https://alook.so/posts/potLVv"/>
-        <updated>2021-10-18T07:27:49.493Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/potLVv">자영업 절대로 하지마라, 월 500을 벌어도 손해.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 삶의 모습을 함께 그려봅시다.]]></title>
-        <id>https://alook.so/posts/92t37a</id>
-        <link href="https://alook.so/posts/92t37a"/>
-        <updated>2021-10-18T14:13:41.579Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t37a">우리 삶의 모습을 함께 그려봅시다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리들의 음식물쓰레기는 어떻게 되는 걸까]]></title>
-        <id>https://alook.so/posts/kZt3JZ</id>
-        <link href="https://alook.so/posts/kZt3JZ"/>
-        <updated>2021-10-19T03:16:34.423Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/kZt3JZ">우리들의 음식물쓰레기는 어떻게 되는 걸까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사소한 일일 수도 있지만  커피 한잔 때문에 퇴사를 결심했습니다]]></title>
-        <id>https://alook.so/posts/vKtR11</id>
-        <link href="https://alook.so/posts/vKtR11"/>
-        <updated>2021-10-18T08:18:59.809Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtR11">사소한 일일 수도 있지만  커피 한잔 때문에 퇴사를 결심했습니다 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그런데 왜 지하철에는 시(詩)가 붙어 있나요? (좋아서요.)]]></title>
-        <id>https://alook.so/posts/PvteeP</id>
-        <link href="https://alook.so/posts/PvteeP"/>
-        <updated>2021-10-19T03:16:34.426Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/PvteeP">그런데 왜 지하철에는 시(詩)가 붙어 있나요? (좋아서요.)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25살에 카페창업 그리고 코로나지옥]]></title>
-        <id>https://alook.so/posts/ZktOKd</id>
-        <link href="https://alook.so/posts/ZktOKd"/>
-        <updated>2021-10-18T07:27:49.527Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/ZktOKd">25살에 카페창업 그리고 코로나지옥</a>]]></content>
+        <title type="html"><![CDATA[키오스크사용에 대한 어려움: 점점 나이들어가는 사회에 대한 대안은 있는걸까?]]></title>
+        <id>https://alook.so/posts/njtXlx</id>
+        <link href="https://alook.so/posts/njtXlx"/>
+        <updated>2021-10-18T22:15:11.008Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtXlx"> 키오스크사용에 대한 어려움: 점점 나이들어가는 사회에 대한 대안은 있는걸까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이러다가는 다 죽어?]]></title>
@@ -118,25 +20,74 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt3qb">이러다가는 다 죽어? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[쉽게 실천하는 비거니즘] ② 외식할 땐 비건 식당에 가봅시다(feat. 서울 채식 지도)]]></title>
-        <id>https://alook.so/posts/eVtrpZ</id>
-        <link href="https://alook.so/posts/eVtrpZ"/>
-        <updated>2021-10-19T00:50:52.528Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/eVtrpZ">[쉽게 실천하는 비거니즘] ② 외식할 땐 비건 식당에 가봅시다(feat. 서울 채식 지도)</a>]]></content>
+        <title type="html"><![CDATA[[Datalook] 온라인 커뮤니티가 출입처가 된 기자들]]></title>
+        <id>https://alook.so/posts/YytD0e</id>
+        <link href="https://alook.so/posts/YytD0e"/>
+        <updated>2021-10-18T10:15:46.703Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytD0e">[Datalook] 온라인 커뮤니티가 출입처가 된 기자들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 투잡을 하는데 '고마워' 하는 소리를 못 듣는건가요?]]></title>
-        <id>https://alook.so/posts/DjtlEj</id>
-        <link href="https://alook.so/posts/DjtlEj"/>
-        <updated>2021-10-18T10:15:46.701Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtlEj">왜 투잡을 하는데 '고마워' 하는 소리를 못 듣는건가요?</a>]]></content>
+        <title type="html"><![CDATA[동물사진 찍기의 즐거움]]></title>
+        <id>https://alook.so/posts/a0t9om</id>
+        <link href="https://alook.so/posts/a0t9om"/>
+        <updated>2021-10-18T07:27:49.579Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0t9om">동물사진 찍기의 즐거움</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[키오스크사용에 대한 어려움: 점점 나이들어가는 사회에 대한 대안은 있는걸까?]]></title>
-        <id>https://alook.so/posts/njtXlx</id>
-        <link href="https://alook.so/posts/njtXlx"/>
-        <updated>2021-10-18T22:15:11.008Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtXlx"> 키오스크사용에 대한 어려움: 점점 나이들어가는 사회에 대한 대안은 있는걸까?</a>]]></content>
+        <title type="html"><![CDATA[자영업 절대로 하지마라, 월 500을 벌어도 손해.]]></title>
+        <id>https://alook.so/posts/potLVv</id>
+        <link href="https://alook.so/posts/potLVv"/>
+        <updated>2021-10-18T07:27:49.493Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/potLVv">자영업 절대로 하지마라, 월 500을 벌어도 손해.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저희에게도 사랑스런 아기가 와줄까요?]]></title>
+        <id>https://alook.so/posts/latO86</id>
+        <link href="https://alook.so/posts/latO86"/>
+        <updated>2021-10-18T14:13:41.587Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/latO86">저희에게도 사랑스런 아기가 와줄까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 삶의 모습을 함께 그려봅시다.]]></title>
+        <id>https://alook.so/posts/92t37a</id>
+        <link href="https://alook.so/posts/92t37a"/>
+        <updated>2021-10-18T14:13:41.579Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t37a">우리 삶의 모습을 함께 그려봅시다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[25살에 카페창업 그리고 코로나지옥]]></title>
+        <id>https://alook.so/posts/ZktOKd</id>
+        <link href="https://alook.so/posts/ZktOKd"/>
+        <updated>2021-10-18T07:27:49.527Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/ZktOKd">25살에 카페창업 그리고 코로나지옥</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소에서 받은 보상 어디에 쓰시나요?]]></title>
+        <id>https://alook.so/posts/q1tlnV</id>
+        <link href="https://alook.so/posts/q1tlnV"/>
+        <updated>2021-10-18T14:13:41.579Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tlnV">얼룩소에서 받은 보상 어디에 쓰시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13만원과 184 좋아요를 받아 기쁜 얼룩커의 시스템 건의사항]]></title>
+        <id>https://alook.so/posts/LKtyoZ</id>
+        <link href="https://alook.so/posts/LKtyoZ"/>
+        <updated>2021-10-18T16:21:51.225Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtyoZ">13만원과 184 좋아요를 받아 기쁜 얼룩커의 시스템 건의사항</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["암만 살 쪄도 난 마름" 블랙핑크 가사 괜찮을까?]]></title>
+        <id>https://alook.so/posts/M9t8lk</id>
+        <link href="https://alook.so/posts/M9t8lk"/>
+        <updated>2021-10-19T04:19:19.180Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t8lk">"암만 살 쪄도 난 마름" 블랙핑크 가사 괜찮을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반복되는 사고는 사고가 아니다.]]></title>
+        <id>https://alook.so/posts/RGt18W</id>
+        <link href="https://alook.so/posts/RGt18W"/>
+        <updated>2021-10-18T07:27:49.576Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGt18W">반복되는 사고는 사고가 아니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오징어게임 죽음관련 데이터]]></title>
@@ -144,5 +95,54 @@
         <link href="https://alook.so/posts/3wtd1V"/>
         <updated>2021-10-18T09:15:48.664Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtd1V">오징어게임 죽음관련 데이터</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사소한 일일 수도 있지만  커피 한잔 때문에 퇴사를 결심했습니다]]></title>
+        <id>https://alook.so/posts/vKtR11</id>
+        <link href="https://alook.so/posts/vKtR11"/>
+        <updated>2021-10-18T08:18:59.809Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtR11">사소한 일일 수도 있지만  커피 한잔 때문에 퇴사를 결심했습니다 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[쉽게 실천하는 비거니즘] ② 외식할 땐 비건 식당에 가봅시다(feat. 서울 채식 지도)]]></title>
+        <id>https://alook.so/posts/eVtrpZ</id>
+        <link href="https://alook.so/posts/eVtrpZ"/>
+        <updated>2021-10-19T00:50:52.528Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/eVtrpZ">[쉽게 실천하는 비거니즘] ② 외식할 땐 비건 식당에 가봅시다(feat. 서울 채식 지도)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가정주부도 직업이라고 생각하시나요?]]></title>
+        <id>https://alook.so/posts/lat1pE</id>
+        <link href="https://alook.so/posts/lat1pE"/>
+        <updated>2021-10-18T07:27:49.512Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1pE">가정주부도 직업이라고 생각하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그런데 왜 지하철에는 시(詩)가 붙어 있나요? (좋아서요.)]]></title>
+        <id>https://alook.so/posts/PvteeP</id>
+        <link href="https://alook.so/posts/PvteeP"/>
+        <updated>2021-10-19T03:16:34.426Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/PvteeP">그런데 왜 지하철에는 시(詩)가 붙어 있나요? (좋아서요.)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장애가 있는체로 살아가는 삶이란]]></title>
+        <id>https://alook.so/posts/njtXrv</id>
+        <link href="https://alook.so/posts/njtXrv"/>
+        <updated>2021-10-18T07:27:49.558Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtXrv">장애가 있는체로 살아가는 삶이란</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리들의 음식물쓰레기는 어떻게 되는 걸까]]></title>
+        <id>https://alook.so/posts/kZt3JZ</id>
+        <link href="https://alook.so/posts/kZt3JZ"/>
+        <updated>2021-10-19T03:16:34.423Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/kZt3JZ">우리들의 음식물쓰레기는 어떻게 되는 걸까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 투잡을 하는데 '고마워' 하는 소리를 못 듣는건가요?]]></title>
+        <id>https://alook.so/posts/DjtlEj</id>
+        <link href="https://alook.so/posts/DjtlEj"/>
+        <updated>2021-10-18T10:15:46.701Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtlEj">왜 투잡을 하는데 '고마워' 하는 소리를 못 듣는건가요?</a>]]></content>
     </entry>
 </feed>
