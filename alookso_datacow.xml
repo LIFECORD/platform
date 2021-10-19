@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/bA6tp1</id>
     <title>alookso ─ 데이터카우</title>
-    <updated>2021-10-19T02:02:55.911Z</updated>
+    <updated>2021-10-19T03:17:44.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🧐 당신이 생각하는 '중산층'은 누구인가요?]]></title>
+        <id>https://alook.so/posts/WLtJqD</id>
+        <link href="https://alook.so/posts/WLtJqD"/>
+        <updated>2021-10-19T03:17:43.385Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLtJqD">🧐 당신이 생각하는 '중산층'은 누구인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧐 지역간 미술문화 접근 격차를 분석해볼 수 있을까요?]]></title>
+        <id>https://alook.so/posts/4XtOyB</id>
+        <link href="https://alook.so/posts/4XtOyB"/>
+        <updated>2021-10-19T03:17:43.387Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtOyB">🧐 지역간 미술문화 접근 격차를 분석해볼 수 있을까요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧐 '생활이동' 데이터, 자유롭게 분석해주세요!]]></title>
         <id>https://alook.so/posts/potb7O</id>
@@ -53,19 +67,5 @@
         <link href="https://alook.so/posts/RGtk5G"/>
         <updated>2021-10-18T08:20:10.469Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtk5G">🧐 쏘프라이즈를 소개합니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 저출생 대응 예산, 어떻게 편성되어 있나요?]]></title>
-        <id>https://alook.so/posts/Yyt0yl</id>
-        <link href="https://alook.so/posts/Yyt0yl"/>
-        <updated>2021-10-18T08:20:10.470Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0yl">🧐 저출생 대응 예산, 어떻게 편성되어 있나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 S(시간) N(낭비) S(서비스)]]></title>
-        <id>https://alook.so/posts/54t3mB</id>
-        <link href="https://alook.so/posts/54t3mB"/>
-        <updated>2021-10-18T08:20:10.471Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54t3mB">🧐 S(시간) N(낭비) S(서비스)</a>]]></content>
     </entry>
 </feed>

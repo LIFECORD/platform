@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-19T02:02:55.913Z</updated>
+    <updated>2021-10-19T03:17:44.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[갓연아님]]></title>
-        <id>https://alook.so/posts/q1tl7p</id>
-        <link href="https://alook.so/posts/q1tl7p"/>
-        <updated>2021-10-19T02:01:32.510Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tl7p">갓연아님</a>]]></content>
+        <title type="html"><![CDATA[작은 월급, 무주택자, 우리의 희망은?]]></title>
+        <id>https://alook.so/posts/zvtZpd</id>
+        <link href="https://alook.so/posts/zvtZpd"/>
+        <updated>2021-10-19T03:16:26.312Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/zvtZpd">작은 월급, 무주택자, 우리의 희망은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자영업은 500벌어도 손해다? 다른의견입니다]]></title>
-        <id>https://alook.so/posts/1RtM8J</id>
-        <link href="https://alook.so/posts/1RtM8J"/>
-        <updated>2021-10-19T02:01:32.512Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtM8J">자영업은 500벌어도 손해다? 다른의견입니다</a>]]></content>
+        <title type="html"><![CDATA[행복한 가정이 되게 하려면]]></title>
+        <id>https://alook.so/posts/2xtMZ0</id>
+        <link href="https://alook.so/posts/2xtMZ0"/>
+        <updated>2021-10-19T03:16:26.313Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/2xtMZ0">행복한 가정이 되게 하려면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모든 엄마아빠들의 걱정]]></title>
-        <id>https://alook.so/posts/o7t0Ry</id>
-        <link href="https://alook.so/posts/o7t0Ry"/>
-        <updated>2021-10-19T02:01:32.512Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0Ry">모든 엄마아빠들의 걱정</a>]]></content>
+        <title type="html"><![CDATA[🧐 당신이 생각하는 '중산층'은 누구인가요?]]></title>
+        <id>https://alook.so/posts/WLtJqD</id>
+        <link href="https://alook.so/posts/WLtJqD"/>
+        <updated>2021-10-19T03:16:26.314Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLtJqD">🧐 당신이 생각하는 '중산층'은 누구인가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대학교 1학년의 고민]]></title>
-        <id>https://alook.so/posts/70tmzb</id>
-        <link href="https://alook.so/posts/70tmzb"/>
-        <updated>2021-10-19T02:01:32.513Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tmzb">대학교 1학년의 고민</a>]]></content>
+        <title type="html"><![CDATA[🧐 지역간 미술문화 접근 격차를 분석해볼 수 있을까요?]]></title>
+        <id>https://alook.so/posts/4XtOyB</id>
+        <link href="https://alook.so/posts/4XtOyB"/>
+        <updated>2021-10-19T03:16:26.315Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtOyB">🧐 지역간 미술문화 접근 격차를 분석해볼 수 있을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[허경영을 아십니까 2]]></title>
-        <id>https://alook.so/posts/jdt5G0</id>
-        <link href="https://alook.so/posts/jdt5G0"/>
-        <updated>2021-10-19T02:01:32.514Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt5G0">허경영을 아십니까 2</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주4일제 시대는 언제쯤]]></title>
-        <id>https://alook.so/posts/a0tm8L</id>
-        <link href="https://alook.so/posts/a0tm8L"/>
-        <updated>2021-10-19T02:01:32.515Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0tm8L">주4일제 시대는 언제쯤</a>]]></content>
+        <title type="html"><![CDATA[[아쉬운 점] 부디 반영 바랍니다.]]></title>
+        <id>https://alook.so/posts/XBt3k5</id>
+        <link href="https://alook.so/posts/XBt3k5"/>
+        <updated>2021-10-19T03:16:26.316Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt3k5">[아쉬운 점] 부디 반영 바랍니다.</a>]]></content>
     </entry>
 </feed>
