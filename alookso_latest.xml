@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-19T20:17:31.867Z</updated>
+    <updated>2021-10-19T21:13:44.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[돈이요,돈]]></title>
+        <id>https://alook.so/posts/Batqxo</id>
+        <link href="https://alook.so/posts/Batqxo"/>
+        <updated>2021-10-19T21:12:24.388Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batqxo">돈이요,돈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새벽시간 취준생의 불확실한 미래에 대한 고찰글..]]></title>
+        <id>https://alook.so/posts/LKtakd</id>
+        <link href="https://alook.so/posts/LKtakd"/>
+        <updated>2021-10-19T21:12:24.388Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtakd">새벽시간 취준생의 불확실한 미래에 대한 고찰글..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성별차이를 극복하기 위해서는 무엇이 필요한가??]]></title>
         <id>https://alook.so/posts/3wtk40</id>
@@ -25,26 +39,5 @@
         <link href="https://alook.so/posts/G1t9GL"/>
         <updated>2021-10-19T19:11:44.718Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9GL">기후위기, 이젠 솔직하자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을? 겨울? 이네요.]]></title>
-        <id>https://alook.so/posts/vKtRXM</id>
-        <link href="https://alook.so/posts/vKtRXM"/>
-        <updated>2021-10-19T19:11:44.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtRXM">가을? 겨울? 이네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후 물려주기]]></title>
-        <id>https://alook.so/posts/lat1XM</id>
-        <link href="https://alook.so/posts/lat1XM"/>
-        <updated>2021-10-19T18:18:14.340Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1XM">기후 물려주기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통일 후의 북한 사람은 '필요없는 짐'이 될까?]]></title>
-        <id>https://alook.so/posts/92t328</id>
-        <link href="https://alook.so/posts/92t328"/>
-        <updated>2021-10-19T18:18:14.343Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t328">통일 후의 북한 사람은 '필요없는 짐'이 될까?</a>]]></content>
     </entry>
 </feed>
