@@ -2,70 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-19T11:14:08.747Z</updated>
+    <updated>2021-10-19T12:25:34.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[생명과학의 발달- 크리스퍼 유전자 가위]]></title>
-        <id>https://alook.so/posts/Djtlze</id>
-        <link href="https://alook.so/posts/Djtlze"/>
-        <updated>2021-10-19T11:12:47.810Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtlze">생명과학의 발달- 크리스퍼 유전자 가위</a>]]></content>
+        <title type="html"><![CDATA[나이는 먹기 싫다고 하면서.]]></title>
+        <id>https://alook.so/posts/potb5r</id>
+        <link href="https://alook.so/posts/potb5r"/>
+        <updated>2021-10-19T12:24:12.430Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/potb5r">나이는 먹기 싫다고 하면서. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자기집 화장실에 갇혀보신분? 저요 저]]></title>
-        <id>https://alook.so/posts/1RtM30</id>
-        <link href="https://alook.so/posts/1RtM30"/>
-        <updated>2021-10-19T11:12:47.817Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtM30">자기집 화장실에 갇혀보신분? 저요 저</a>]]></content>
+        <title type="html"><![CDATA[답글: '몰라도 되는 권력'이 조금이나마 깨지겠죠?]]></title>
+        <id>https://alook.so/posts/eVtr0P</id>
+        <link href="https://alook.so/posts/eVtr0P"/>
+        <updated>2021-10-19T12:24:12.433Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/eVtr0P">답글: '몰라도 되는 권력'이 조금이나마 깨지겠죠?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주식투자를 하면서 행복한 것]]></title>
-        <id>https://alook.so/posts/70tmVR</id>
-        <link href="https://alook.so/posts/70tmVR"/>
-        <updated>2021-10-19T11:12:47.818Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tmVR">주식투자를 하면서 행복한 것</a>]]></content>
+        <title type="html"><![CDATA[딸의 배우자 이상형을 들었습니다.]]></title>
+        <id>https://alook.so/posts/PvtevY</id>
+        <link href="https://alook.so/posts/PvtevY"/>
+        <updated>2021-10-19T12:24:12.435Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/PvtevY">딸의 배우자 이상형을 들었습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[결혼에 대하여]]></title>
-        <id>https://alook.so/posts/rDtwXd</id>
-        <link href="https://alook.so/posts/rDtwXd"/>
-        <updated>2021-10-19T11:12:47.818Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDtwXd">결혼에 대하여</a>]]></content>
+        <title type="html"><![CDATA[이제는.. 자극적인 뉴스기사,영화,드라마.. 이런것들이 더 문제가 아닐까?]]></title>
+        <id>https://alook.so/posts/zvtZXa</id>
+        <link href="https://alook.so/posts/zvtZXa"/>
+        <updated>2021-10-19T12:24:12.436Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/zvtZXa">이제는.. 자극적인 뉴스기사,영화,드라마.. 이런것들이 더 문제가 아닐까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불안한 내 인생을 바꿔보기]]></title>
-        <id>https://alook.so/posts/jdt5mO</id>
-        <link href="https://alook.so/posts/jdt5mO"/>
-        <updated>2021-10-19T11:12:47.818Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt5mO">불안한 내 인생을 바꿔보기 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부모님 30년 결혼기념일, 무슨 선물이 좋을까요?]]></title>
-        <id>https://alook.so/posts/bWtdZ6</id>
-        <link href="https://alook.so/posts/bWtdZ6"/>
-        <updated>2021-10-19T11:12:47.818Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtdZ6">부모님 30년 결혼기념일, 무슨 선물이 좋을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제가 삼성전자를 산 이유는요...]]></title>
-        <id>https://alook.so/posts/a0tmDJ</id>
-        <link href="https://alook.so/posts/a0tmDJ"/>
-        <updated>2021-10-19T11:12:47.819Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0tmDJ">제가 삼성전자를 산 이유는요...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열심히 노력하면 계층 상승이 될까?]]></title>
-        <id>https://alook.so/posts/Zktb1K</id>
-        <link href="https://alook.so/posts/Zktb1K"/>
-        <updated>2021-10-19T11:12:47.819Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Zktb1K">열심히 노력하면 계층 상승이 될까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 공부 어떻게 하나요?]]></title>
-        <id>https://alook.so/posts/dztY1b</id>
-        <link href="https://alook.so/posts/dztY1b"/>
-        <updated>2021-10-19T11:12:47.820Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dztY1b">재테크 공부 어떻게 하나요?</a>]]></content>
+        <title type="html"><![CDATA[이 질문을 현역 군인에게 물어봤습니다.]]></title>
+        <id>https://alook.so/posts/WLtJ4v</id>
+        <link href="https://alook.so/posts/WLtJ4v"/>
+        <updated>2021-10-19T12:24:12.437Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLtJ4v">이 질문을 현역 군인에게 물어봤습니다.</a>]]></content>
     </entry>
 </feed>
