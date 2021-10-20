@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-19T23:15:40.138Z</updated>
+    <updated>2021-10-20T00:50:16.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[부업, 가깝고도 먼 이름]]></title>
-        <id>https://alook.so/posts/0ktmRm</id>
-        <link href="https://alook.so/posts/0ktmRm"/>
-        <updated>2021-10-19T23:14:17.121Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktmRm">부업, 가깝고도 먼 이름</a>]]></content>
+        <title type="html"><![CDATA[답글: 저도 왜 지지하는 정당이 없는가를 생각해봤어요.]]></title>
+        <id>https://alook.so/posts/E7t30K</id>
+        <link href="https://alook.so/posts/E7t30K"/>
+        <updated>2021-10-20T00:48:47.307Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t30K">답글: 저도 왜 지지하는 정당이 없는가를 생각해봤어요. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연애가 하고 싶지만 자기계발이 우선]]></title>
-        <id>https://alook.so/posts/xltJle</id>
-        <link href="https://alook.so/posts/xltJle"/>
-        <updated>2021-10-19T22:13:55.234Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/xltJle">연애가 하고 싶지만 자기계발이 우선</a>]]></content>
+        <title type="html"><![CDATA[주4일제, 광고회사에서도, 프로덕션에서도 가능할까요?]]></title>
+        <id>https://alook.so/posts/92t3B8</id>
+        <link href="https://alook.so/posts/92t3B8"/>
+        <updated>2021-10-20T00:48:47.309Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t3B8">주4일제, 광고회사에서도, 프로덕션에서도 가능할까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선호킴 왜그랬어요]]></title>
-        <id>https://alook.so/posts/RGtqbZ</id>
-        <link href="https://alook.so/posts/RGtqbZ"/>
-        <updated>2021-10-19T22:13:55.235Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtqbZ">선호킴 왜그랬어요</a>]]></content>
+        <title type="html"><![CDATA[허경영을 아십니까 3]]></title>
+        <id>https://alook.so/posts/mbtBe6</id>
+        <link href="https://alook.so/posts/mbtBe6"/>
+        <updated>2021-10-20T00:48:47.311Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtBe6">허경영을 아십니까 3</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돈이요,돈]]></title>
-        <id>https://alook.so/posts/Batqxo</id>
-        <link href="https://alook.so/posts/Batqxo"/>
-        <updated>2021-10-19T21:12:24.388Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batqxo">돈이요,돈</a>]]></content>
+        <title type="html"><![CDATA[쉽지 않은 얼룩소]]></title>
+        <id>https://alook.so/posts/54t4Jj</id>
+        <link href="https://alook.so/posts/54t4Jj"/>
+        <updated>2021-10-20T00:48:47.312Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54t4Jj">쉽지 않은 얼룩소</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 우리에게 북한이란?]]></title>
+        <id>https://alook.so/posts/DjtlZW</id>
+        <link href="https://alook.so/posts/DjtlZW"/>
+        <updated>2021-10-20T00:48:47.313Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtlZW">답글: 우리에게 북한이란? </a>]]></content>
     </entry>
 </feed>
