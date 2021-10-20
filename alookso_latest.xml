@@ -2,56 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-20T04:19:29.625Z</updated>
+    <updated>2021-10-20T05:14:26.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[기술 발전은 우리의 터전을 위협한다.]]></title>
-        <id>https://alook.so/posts/rDtw6q</id>
-        <link href="https://alook.so/posts/rDtw6q"/>
-        <updated>2021-10-20T04:18:07.621Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDtw6q">기술 발전은 우리의 터전을 위협한다.</a>]]></content>
+        <title type="html"><![CDATA[오직 대입을 위한 교육은 이제 그만...]]></title>
+        <id>https://alook.so/posts/xltJ97</id>
+        <link href="https://alook.so/posts/xltJ97"/>
+        <updated>2021-10-20T05:12:56.618Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/xltJ97">오직 대입을 위한 교육은 이제 그만...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사회 생활이 오징어 게임이라면]]></title>
-        <id>https://alook.so/posts/a0tmPy</id>
-        <link href="https://alook.so/posts/a0tmPy"/>
-        <updated>2021-10-20T04:18:07.623Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0tmPy">사회 생활이 오징어 게임이라면</a>]]></content>
+        <title type="html"><![CDATA[2015년부터 카카오 주주였어요. ^^]]></title>
+        <id>https://alook.so/posts/kZtLzy</id>
+        <link href="https://alook.so/posts/kZtLzy"/>
+        <updated>2021-10-20T05:12:56.620Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/kZtLzy">2015년부터 카카오 주주였어요. ^^</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무역수지흑자로 돈이 많아서요]]></title>
-        <id>https://alook.so/posts/ZktbEx</id>
-        <link href="https://alook.so/posts/ZktbEx"/>
-        <updated>2021-10-20T04:18:07.623Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/ZktbEx">무역수지흑자로 돈이 많아서요</a>]]></content>
+        <title type="html"><![CDATA[대선주자들은 재외국민 우편투표 문제에 관심이 있을까요?]]></title>
+        <id>https://alook.so/posts/6MtOnm</id>
+        <link href="https://alook.so/posts/6MtOnm"/>
+        <updated>2021-10-20T05:12:56.622Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6MtOnm">대선주자들은 재외국민 우편투표 문제에 관심이 있을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사회적으론 뭐가 답인지 모르겠어요. 하지만 복잡한 논리들 떠나서 흉악범은 죽여버렸으면 좋겠습니다.]]></title>
-        <id>https://alook.so/posts/dztYL9</id>
-        <link href="https://alook.so/posts/dztYL9"/>
-        <updated>2021-10-20T04:18:07.625Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dztYL9">사회적으론 뭐가 답인지 모르겠어요. 하지만 복잡한 논리들 떠나서 흉악범은 죽여버렸으면 좋겠습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[속타는 무주택자, 집값 안잡는건가요? 못잡는건가요?]]></title>
-        <id>https://alook.so/posts/J5ty1B</id>
-        <link href="https://alook.so/posts/J5ty1B"/>
-        <updated>2021-10-20T04:18:07.626Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5ty1B">속타는 무주택자, 집값 안잡는건가요? 못잡는건가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국과 중국이 사이가 나빠질 때, 우리의 미래는?]]></title>
-        <id>https://alook.so/posts/potbaa</id>
-        <link href="https://alook.so/posts/potbaa"/>
-        <updated>2021-10-20T04:18:07.627Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/potbaa">미국과 중국이 사이가 나빠질 때, 우리의 미래는?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자연이 너무나 좋다.]]></title>
-        <id>https://alook.so/posts/eVtraw</id>
-        <link href="https://alook.so/posts/eVtraw"/>
-        <updated>2021-10-20T04:18:07.628Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/eVtraw">자연이 너무나 좋다.</a>]]></content>
+        <title type="html"><![CDATA[국민연금공단 직접 연락해보니]]></title>
+        <id>https://alook.so/posts/3wtkBk</id>
+        <link href="https://alook.so/posts/3wtkBk"/>
+        <updated>2021-10-20T05:12:56.623Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtkBk">국민연금공단 직접 연락해보니</a>]]></content>
     </entry>
 </feed>
