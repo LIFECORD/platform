@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-20T19:15:09.119Z</updated>
+    <updated>2021-10-20T20:17:01.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -60,19 +60,5 @@
         <link href="https://alook.so/posts/YytDpJ"/>
         <updated>2021-10-20T17:21:29.244Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDpJ">우울증 어떻게 견디나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대화가 필요해.]]></title>
-        <id>https://alook.so/posts/ZktbV5</id>
-        <link href="https://alook.so/posts/ZktbV5"/>
-        <updated>2021-10-20T17:21:29.246Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/ZktbV5">대화가 필요해.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번아웃의 시점은 언제일까?]]></title>
-        <id>https://alook.so/posts/dztYbW</id>
-        <link href="https://alook.so/posts/dztYbW"/>
-        <updated>2021-10-20T17:21:29.246Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dztYbW">번아웃의 시점은 언제일까?</a>]]></content>
     </entry>
 </feed>
