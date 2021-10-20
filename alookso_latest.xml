@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-20T17:22:49.798Z</updated>
+    <updated>2021-10-20T18:18:08.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[주식을 알아야 하나요? 우리들의 주식 이야기]]></title>
+        <id>https://alook.so/posts/VnteKa</id>
+        <link href="https://alook.so/posts/VnteKa"/>
+        <updated>2021-10-20T18:16:46.735Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/VnteKa">주식을 알아야 하나요? 우리들의 주식 이야기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국방비..? 하하..;;;]]></title>
+        <id>https://alook.so/posts/0ktmql</id>
+        <link href="https://alook.so/posts/0ktmql"/>
+        <updated>2021-10-20T18:16:46.735Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktmql">국방비..? 하하..;;;</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엉뚱하지만 그럴듯한 지방의 미래와 투자와 행복]]></title>
+        <id>https://alook.so/posts/6MtOo0</id>
+        <link href="https://alook.so/posts/6MtOo0"/>
+        <updated>2021-10-20T18:16:46.737Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6MtOo0">엉뚱하지만 그럴듯한 지방의 미래와 투자와 행복</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(9년차) 현역 군인이 생각하는 통일]]></title>
+        <id>https://alook.so/posts/3wtkK1</id>
+        <link href="https://alook.so/posts/3wtkK1"/>
+        <updated>2021-10-20T18:16:46.737Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtkK1">(9년차) 현역 군인이 생각하는 통일</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[늦깎이 사회초년생이 시도하고 있는 부업 3가지 (여러분은 어떤 부업을 하고 계신가요?)]]></title>
         <id>https://alook.so/posts/KmtkEv</id>
@@ -46,26 +74,5 @@
         <link href="https://alook.so/posts/J5tynE"/>
         <updated>2021-10-20T17:21:29.246Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tynE">아뇨, 그렇다고 말하면 조금 기만적이지 않을까요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여러분에 선택은?]]></title>
-        <id>https://alook.so/posts/eVtr30</id>
-        <link href="https://alook.so/posts/eVtr30"/>
-        <updated>2021-10-20T16:21:34.130Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/eVtr30">여러분에 선택은?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주 4일제..? 글쎄요..;;;]]></title>
-        <id>https://alook.so/posts/Pvte8m</id>
-        <link href="https://alook.so/posts/Pvte8m"/>
-        <updated>2021-10-20T16:21:34.131Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Pvte8m">주 4일제..? 글쎄요..;;;</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다단계: 개인적인 얼룩소 홍보방식]]></title>
-        <id>https://alook.so/posts/VnteBa</id>
-        <link href="https://alook.so/posts/VnteBa"/>
-        <updated>2021-10-20T16:21:34.132Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/VnteBa">다단계: 개인적인 얼룩소 홍보방식</a>]]></content>
     </entry>
 </feed>
