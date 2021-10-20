@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-20T07:16:00.605Z</updated>
+    <updated>2021-10-20T08:18:34.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[사랑에 편견버리기]]></title>
-        <id>https://alook.so/posts/njtwDk</id>
-        <link href="https://alook.so/posts/njtwDk"/>
-        <updated>2021-10-20T07:14:34.845Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtwDk">사랑에 편견버리기</a>]]></content>
+        <title type="html"><![CDATA[가족이 항상 안정감을 주는 건 아니죠.]]></title>
+        <id>https://alook.so/posts/YytDJ0</id>
+        <link href="https://alook.so/posts/YytDJ0"/>
+        <updated>2021-10-20T08:17:04.521Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDJ0">가족이 항상 안정감을 주는 건 아니죠.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하늘나라는 어떤 곳일까요??]]></title>
-        <id>https://alook.so/posts/6MtOXK</id>
-        <link href="https://alook.so/posts/6MtOXK"/>
-        <updated>2021-10-20T07:14:34.847Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6MtOXK">하늘나라는 어떤 곳일까요??</a>]]></content>
+        <title type="html"><![CDATA[오래살기의 국룰, 채식일까요?]]></title>
+        <id>https://alook.so/posts/rDtwyJ</id>
+        <link href="https://alook.so/posts/rDtwyJ"/>
+        <updated>2021-10-20T08:17:04.522Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDtwyJ">오래살기의 국룰, 채식일까요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한중 청년의 문화 전쟁]]></title>
-        <id>https://alook.so/posts/OEtO63</id>
-        <link href="https://alook.so/posts/OEtO63"/>
-        <updated>2021-10-20T07:14:34.848Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEtO63">한중 청년의 문화 전쟁</a>]]></content>
+        <title type="html"><![CDATA[아!! 진짜 인간적으로 가게 앞에 개똥은 좀 치워주세요!!!]]></title>
+        <id>https://alook.so/posts/jdt5a1</id>
+        <link href="https://alook.so/posts/jdt5a1"/>
+        <updated>2021-10-20T08:17:04.524Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt5a1">아!! 진짜 인간적으로 가게 앞에 개똥은 좀 치워주세요!!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경제적 자유란 것이 무엇인지.. 허상은 아닐까요?]]></title>
-        <id>https://alook.so/posts/vKtRYj</id>
-        <link href="https://alook.so/posts/vKtRYj"/>
-        <updated>2021-10-20T07:14:34.850Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtRYj">경제적 자유란 것이 무엇인지.. 허상은 아닐까요?</a>]]></content>
+        <title type="html"><![CDATA[결혼이야기]]></title>
+        <id>https://alook.so/posts/a0tm6o</id>
+        <link href="https://alook.so/posts/a0tm6o"/>
+        <updated>2021-10-20T08:17:04.525Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0tm6o">결혼이야기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인내하는 것이 미덕인 줄 알았는데,]]></title>
+        <id>https://alook.so/posts/Zktbwv</id>
+        <link href="https://alook.so/posts/Zktbwv"/>
+        <updated>2021-10-20T08:17:04.527Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Zktbwv">인내하는 것이 미덕인 줄 알았는데,</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멧돼지와 산양의 다른 점]]></title>
+        <id>https://alook.so/posts/dztY9p</id>
+        <link href="https://alook.so/posts/dztY9p"/>
+        <updated>2021-10-20T08:17:04.529Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dztY9p">멧돼지와 산양의 다른 점</a>]]></content>
     </entry>
 </feed>
