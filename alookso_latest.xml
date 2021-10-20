@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-20T10:18:52.879Z</updated>
+    <updated>2021-10-20T11:14:58.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[안녕하세요!!]]></title>
-        <id>https://alook.so/posts/mbtBnL</id>
-        <link href="https://alook.so/posts/mbtBnL"/>
-        <updated>2021-10-20T10:17:36.219Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtBnL">안녕하세요!!</a>]]></content>
+        <title type="html"><![CDATA[삼성전자주식]]></title>
+        <id>https://alook.so/posts/LKta1X</id>
+        <link href="https://alook.so/posts/LKta1X"/>
+        <updated>2021-10-20T11:12:16.561Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKta1X">삼성전자주식</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지리학적으로 불리하다고만 생각했는데...]]></title>
-        <id>https://alook.so/posts/q1tlD3</id>
-        <link href="https://alook.so/posts/q1tlD3"/>
-        <updated>2021-10-20T10:17:36.220Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tlD3">지리학적으로 불리하다고만 생각했는데...</a>]]></content>
+        <title type="html"><![CDATA[실제로 뻥 웃게 만든 <재미로 읽는 시> 추천합니다!]]></title>
+        <id>https://alook.so/posts/6MtOPv</id>
+        <link href="https://alook.so/posts/6MtOPv"/>
+        <updated>2021-10-20T11:12:16.562Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6MtOPv">실제로 뻥 웃게 만든 &lt;재미로 읽는 시&gt; 추천합니다!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인생의 '노잼시기' 극복하는 법]]></title>
-        <id>https://alook.so/posts/DjtlXq</id>
-        <link href="https://alook.so/posts/DjtlXq"/>
-        <updated>2021-10-20T10:17:36.220Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtlXq">인생의 '노잼시기' 극복하는 법</a>]]></content>
+        <title type="html"><![CDATA[AI 시대니까]]></title>
+        <id>https://alook.so/posts/3wtkZj</id>
+        <link href="https://alook.so/posts/3wtkZj"/>
+        <updated>2021-10-20T11:12:16.564Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtkZj">AI 시대니까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보상 시스템 덕분에 자발적 광고중인 얼룩커입니다.]]></title>
-        <id>https://alook.so/posts/70tmXk</id>
-        <link href="https://alook.so/posts/70tmXk"/>
-        <updated>2021-10-20T10:17:36.222Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tmXk">보상 시스템 덕분에 자발적 광고중인 얼룩커입니다.</a>]]></content>
+        <title type="html"><![CDATA[북한 사람들은 우리와 함께 살 준비가 되어 있을까요?]]></title>
+        <id>https://alook.so/posts/8Wt7dM</id>
+        <link href="https://alook.so/posts/8Wt7dM"/>
+        <updated>2021-10-20T11:12:16.566Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt7dM">북한 사람들은 우리와 함께 살 준비가 되어 있을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문화지리학? 문화정치학!]]></title>
-        <id>https://alook.so/posts/YytDz0</id>
-        <link href="https://alook.so/posts/YytDz0"/>
-        <updated>2021-10-20T10:17:36.223Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDz0">문화지리학? 문화정치학!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살다보면 내가 절대 이길 수 없는 천재를 만날 때가 있다]]></title>
-        <id>https://alook.so/posts/rDtwoJ</id>
-        <link href="https://alook.so/posts/rDtwoJ"/>
-        <updated>2021-10-20T10:17:36.223Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDtwoJ">살다보면 내가 절대 이길 수 없는 천재를 만날 때가 있다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Datalook] - 한국은 민주적인가요? 를 데이터로 답해봅니다.]]></title>
-        <id>https://alook.so/posts/jdt5v1</id>
-        <link href="https://alook.so/posts/jdt5v1"/>
-        <updated>2021-10-20T10:17:36.224Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt5v1">[Datalook] - 한국은 민주적인가요? 를 데이터로 답해봅니다.</a>]]></content>
+        <title type="html"><![CDATA[그래서 투잡, 쓰리잡 하는 사람이 많은가 봅니다.]]></title>
+        <id>https://alook.so/posts/E7t3Pn</id>
+        <link href="https://alook.so/posts/E7t3Pn"/>
+        <updated>2021-10-20T11:12:16.567Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3Pn">그래서 투잡, 쓰리잡 하는 사람이 많은가 봅니다.</a>]]></content>
     </entry>
 </feed>
