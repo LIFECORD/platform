@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-10-20T06:19:30.871Z</updated>
+    <updated>2021-10-20T07:16:00.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한류의 문화지리학 - 미국과 일본의 어깨에 올라탄 K-콘텐츠?]]></title>
+        <id>https://alook.so/posts/VnteZn</id>
+        <link href="https://alook.so/posts/VnteZn"/>
+        <updated>2021-10-20T07:14:53.284Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/VnteZn">한류의 문화지리학 - 미국과 일본의 어깨에 올라탄 K-콘텐츠?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대장동 블루스 - 이재명은 한다며?]]></title>
         <id>https://alook.so/posts/DjtlK2</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/Djt3xZ"/>
         <updated>2021-10-18T08:19:08.473Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3xZ">‘에디터픽’을 소개합니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루 100명에게 1만원... 어떤 글이 받아갔나요?]]></title>
-        <id>https://alook.so/posts/yEtEna</id>
-        <link href="https://alook.so/posts/yEtEna"/>
-        <updated>2021-10-18T08:19:08.474Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEna">하루 100명에게 1만원... 어떤 글이 받아갔나요?</a>]]></content>
     </entry>
 </feed>

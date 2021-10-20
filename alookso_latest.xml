@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-20T06:19:30.874Z</updated>
+    <updated>2021-10-20T07:16:00.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[지금 내가 처한 상황에서 최선을 다하면 원하는 것들이 이뤄질 수 있을까?]]></title>
-        <id>https://alook.so/posts/o7t04l</id>
-        <link href="https://alook.so/posts/o7t04l"/>
-        <updated>2021-10-20T06:18:14.707Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t04l">지금 내가 처한 상황에서 최선을 다하면 원하는 것들이 이뤄질 수 있을까? </a>]]></content>
+        <title type="html"><![CDATA[사랑에 편견버리기]]></title>
+        <id>https://alook.so/posts/njtwDk</id>
+        <link href="https://alook.so/posts/njtwDk"/>
+        <updated>2021-10-20T07:14:34.845Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtwDk">사랑에 편견버리기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 4일제를 원하는거죠?]]></title>
-        <id>https://alook.so/posts/YytDY0</id>
-        <link href="https://alook.so/posts/YytDY0"/>
-        <updated>2021-10-20T06:18:14.707Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDY0">왜 4일제를 원하는거죠?</a>]]></content>
+        <title type="html"><![CDATA[하늘나라는 어떤 곳일까요??]]></title>
+        <id>https://alook.so/posts/6MtOXK</id>
+        <link href="https://alook.so/posts/6MtOXK"/>
+        <updated>2021-10-20T07:14:34.847Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6MtOXK">하늘나라는 어떤 곳일까요??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국회의원 연봉은 얼마일까요?]]></title>
-        <id>https://alook.so/posts/E7t3nx</id>
-        <link href="https://alook.so/posts/E7t3nx"/>
-        <updated>2021-10-20T06:18:14.708Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3nx">국회의원 연봉은 얼마일까요?</a>]]></content>
+        <title type="html"><![CDATA[한중 청년의 문화 전쟁]]></title>
+        <id>https://alook.so/posts/OEtO63</id>
+        <link href="https://alook.so/posts/OEtO63"/>
+        <updated>2021-10-20T07:14:34.848Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEtO63">한중 청년의 문화 전쟁</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[asd]]></title>
-        <id>https://alook.so/posts/lat1LB</id>
-        <link href="https://alook.so/posts/lat1LB"/>
-        <updated>2021-10-20T06:18:14.709Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1LB">asd</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부업으로 한 달 십만원 만들어보고 싶어요..]]></title>
-        <id>https://alook.so/posts/92t3dz</id>
-        <link href="https://alook.so/posts/92t3dz"/>
-        <updated>2021-10-20T06:18:14.710Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t3dz">부업으로 한 달 십만원 만들어보고 싶어요..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dsadsdas]]></title>
-        <id>https://alook.so/posts/Kmtkop</id>
-        <link href="https://alook.so/posts/Kmtkop"/>
-        <updated>2021-10-20T06:18:14.711Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtkop">dsadsdas</a>]]></content>
+        <title type="html"><![CDATA[경제적 자유란 것이 무엇인지.. 허상은 아닐까요?]]></title>
+        <id>https://alook.so/posts/vKtRYj</id>
+        <link href="https://alook.so/posts/vKtRYj"/>
+        <updated>2021-10-20T07:14:34.850Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtRYj">경제적 자유란 것이 무엇인지.. 허상은 아닐까요?</a>]]></content>
     </entry>
 </feed>
