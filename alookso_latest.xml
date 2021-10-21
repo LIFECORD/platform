@@ -2,21 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-21T08:18:12.401Z</updated>
+    <updated>2021-10-21T09:19:56.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[CJ ENM, SM엔터테인먼트 인수]]></title>
-        <id>https://alook.so/posts/eVtr2y</id>
-        <link href="https://alook.so/posts/eVtr2y"/>
-        <updated>2021-10-21T08:16:24.345Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/eVtr2y">CJ ENM, SM엔터테인먼트 인수</a>]]></content>
+        <title type="html"><![CDATA[중산층의 기준]]></title>
+        <id>https://alook.so/posts/8Wt7xP</id>
+        <link href="https://alook.so/posts/8Wt7xP"/>
+        <updated>2021-10-21T09:18:41.201Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt7xP">중산층의 기준</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["조던 피터슨 교수가 본 젠더갈등"]]></title>
-        <id>https://alook.so/posts/Vntex9</id>
-        <link href="https://alook.so/posts/Vntex9"/>
-        <updated>2021-10-21T08:16:24.346Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Vntex9">"조던 피터슨 교수가 본 젠더갈등"</a>]]></content>
+        <title type="html"><![CDATA[제주살이 해보고 싶다 생각만 하시나요?]]></title>
+        <id>https://alook.so/posts/OEtOaD</id>
+        <link href="https://alook.so/posts/OEtOaD"/>
+        <updated>2021-10-21T09:18:41.202Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEtOaD">제주살이 해보고 싶다 생각만 하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[창의력과 보편성의 결합]]></title>
+        <id>https://alook.so/posts/vKtRd4</id>
+        <link href="https://alook.so/posts/vKtRd4"/>
+        <updated>2021-10-21T09:18:41.205Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtRd4">창의력과 보편성의 결합</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탈락한 어느 누구도 결코 패배하지 않았음을]]></title>
+        <id>https://alook.so/posts/E7t3JM</id>
+        <link href="https://alook.so/posts/E7t3JM"/>
+        <updated>2021-10-21T09:18:41.206Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3JM">탈락한 어느 누구도 결코 패배하지 않았음을</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임포스터, 게임 이름만이 아니더군요]]></title>
+        <id>https://alook.so/posts/lat16K</id>
+        <link href="https://alook.so/posts/lat16K"/>
+        <updated>2021-10-21T09:18:41.208Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat16K">임포스터, 게임 이름만이 아니더군요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누리호 발사]]></title>
+        <id>https://alook.so/posts/92t3wv</id>
+        <link href="https://alook.so/posts/92t3wv"/>
+        <updated>2021-10-21T09:18:41.209Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92t3wv">누리호 발사</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서로 사랑과 관심이 필요합니다.]]></title>
+        <id>https://alook.so/posts/mbtB0v</id>
+        <link href="https://alook.so/posts/mbtB0v"/>
+        <updated>2021-10-21T09:18:41.212Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtB0v">서로 사랑과 관심이 필요합니다.</a>]]></content>
     </entry>
 </feed>
