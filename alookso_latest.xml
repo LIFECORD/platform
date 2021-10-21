@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-21T14:16:09.966Z</updated>
+    <updated>2021-10-21T15:34:38.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[아이들을 대하는 멋지고 가치있는 일^^]]></title>
-        <id>https://alook.so/posts/0ktmWY</id>
-        <link href="https://alook.so/posts/0ktmWY"/>
-        <updated>2021-10-21T14:14:47.316Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktmWY">아이들을 대하는 멋지고 가치있는 일^^</a>]]></content>
+        <title type="html"><![CDATA[alookso 대체 이곳 뭐야? 한국이 선진국이였어?]]></title>
+        <id>https://alook.so/posts/LKtaD8</id>
+        <link href="https://alook.so/posts/LKtaD8"/>
+        <updated>2021-10-21T15:33:12.866Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtaD8">alookso 대체 이곳 뭐야? 한국이 선진국이였어?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이럴 때 제 기사 홍보를....!]]></title>
-        <id>https://alook.so/posts/M9t8Lm</id>
-        <link href="https://alook.so/posts/M9t8Lm"/>
-        <updated>2021-10-21T14:14:47.317Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t8Lm">이럴 때 제 기사 홍보를....!</a>]]></content>
+        <title type="html"><![CDATA[내게 초능력이 있다면,]]></title>
+        <id>https://alook.so/posts/njtwlp</id>
+        <link href="https://alook.so/posts/njtwlp"/>
+        <updated>2021-10-21T15:33:12.867Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtwlp">내게 초능력이 있다면,</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[꽤 괜찮은 라면받침...!]]></title>
-        <id>https://alook.so/posts/XBt3yv</id>
-        <link href="https://alook.so/posts/XBt3yv"/>
-        <updated>2021-10-21T14:14:47.317Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt3yv">꽤 괜찮은 라면받침...!</a>]]></content>
+        <title type="html"><![CDATA[우리는 말을 할때 '왜' 라는 말을 쓰지 않을까?]]></title>
+        <id>https://alook.so/posts/8Wt7D8</id>
+        <link href="https://alook.so/posts/8Wt7D8"/>
+        <updated>2021-10-21T15:33:12.869Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt7D8">우리는 말을 할때 '왜' 라는 말을 쓰지 않을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 시국 예술가로 살아남기1]]></title>
-        <id>https://alook.so/posts/w9tyz4</id>
-        <link href="https://alook.so/posts/w9tyz4"/>
-        <updated>2021-10-21T14:14:47.320Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/w9tyz4">코로나 시국 예술가로 살아남기1</a>]]></content>
+        <title type="html"><![CDATA[젊치인에 주목하겠습니다만, 젊다고 뽑진 않을 겁니다.]]></title>
+        <id>https://alook.so/posts/G1t9jx</id>
+        <link href="https://alook.so/posts/G1t9jx"/>
+        <updated>2021-10-21T15:33:12.870Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9jx">젊치인에 주목하겠습니다만, 젊다고 뽑진 않을 겁니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 가장 기억에 남는 김선호..]]></title>
-        <id>https://alook.so/posts/RGtqZ6</id>
-        <link href="https://alook.so/posts/RGtqZ6"/>
-        <updated>2021-10-21T14:14:47.321Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtqZ6">오늘 가장 기억에 남는 김선호..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성은 삼성이라서 샀습니다 한국은 선진국이라고 생각합니다.]]></title>
-        <id>https://alook.so/posts/yEtZPl</id>
-        <link href="https://alook.so/posts/yEtZPl"/>
-        <updated>2021-10-21T14:14:47.323Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtZPl">삼성은 삼성이라서 샀습니다 한국은 선진국이라고 생각합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분노조절장애 상사와 일한다는 것]]></title>
-        <id>https://alook.so/posts/Batq6j</id>
-        <link href="https://alook.so/posts/Batq6j"/>
-        <updated>2021-10-21T14:14:47.325Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batq6j">분노조절장애 상사와 일한다는 것</a>]]></content>
+        <title type="html"><![CDATA[대한민국에서 미쳤다고 출산을?]]></title>
+        <id>https://alook.so/posts/OEtOnm</id>
+        <link href="https://alook.so/posts/OEtOnm"/>
+        <updated>2021-10-21T15:33:12.872Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEtOnm">대한민국에서 미쳤다고 출산을?</a>]]></content>
     </entry>
 </feed>
