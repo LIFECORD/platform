@@ -2,28 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-20T23:16:49.440Z</updated>
+    <updated>2021-10-21T00:54:37.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[이래도 되나 싶은 쉬운 회의 대리 참석 알바(알바 이야기7)]]></title>
-        <id>https://alook.so/posts/q1tlee</id>
-        <link href="https://alook.so/posts/q1tlee"/>
-        <updated>2021-10-20T23:15:17.361Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tlee">이래도 되나 싶은 쉬운 회의 대리 참석 알바(알바 이야기7)</a>]]></content>
+        <title type="html"><![CDATA[저도 아직 미접종자입니다.]]></title>
+        <id>https://alook.so/posts/yEtZ2x</id>
+        <link href="https://alook.so/posts/yEtZ2x"/>
+        <updated>2021-10-21T00:53:20.518Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtZ2x">저도 아직 미접종자입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[흠...]]></title>
-        <id>https://alook.so/posts/1RtM4W</id>
-        <link href="https://alook.so/posts/1RtM4W"/>
-        <updated>2021-10-20T22:13:57.060Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtM4W">흠...</a>]]></content>
+        <title type="html"><![CDATA[2021년 10월 21일 경제 & 사설]]></title>
+        <id>https://alook.so/posts/BatqnM</id>
+        <link href="https://alook.so/posts/BatqnM"/>
+        <updated>2021-10-21T00:53:20.519Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/BatqnM">2021년 10월 21일 경제 &amp; 사설</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10월 21일부터 자기 일은 자기가 합시다, 존엄을 위해]]></title>
-        <id>https://alook.so/posts/70tmyX</id>
-        <link href="https://alook.so/posts/70tmyX"/>
-        <updated>2021-10-20T22:13:57.063Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tmyX">10월 21일부터 자기 일은 자기가 합시다, 존엄을 위해</a>]]></content>
+        <title type="html"><![CDATA[상생의 아이러니]]></title>
+        <id>https://alook.so/posts/LKtaXv</id>
+        <link href="https://alook.so/posts/LKtaXv"/>
+        <updated>2021-10-21T00:53:20.520Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtaXv">상생의 아이러니</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To Neolith: 전염병 예방접종건수의 신뢰구간이란]]></title>
+        <id>https://alook.so/posts/3wtkqr</id>
+        <link href="https://alook.so/posts/3wtkqr"/>
+        <updated>2021-10-21T00:53:20.522Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtkqr">To Neolith: 전염병 예방접종건수의 신뢰구간이란 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[줄이느냐...끊느냐...]]></title>
+        <id>https://alook.so/posts/8Wt7Vz</id>
+        <link href="https://alook.so/posts/8Wt7Vz"/>
+        <updated>2021-10-21T00:53:20.524Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt7Vz">줄이느냐...끊느냐...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 재테크에 꽂혀 있습니다]]></title>
+        <id>https://alook.so/posts/G1t9L3</id>
+        <link href="https://alook.so/posts/G1t9L3"/>
+        <updated>2021-10-21T00:53:20.525Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9L3">요즘 재테크에 꽂혀 있습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리기술의 노동력은 북한으로]]></title>
+        <id>https://alook.so/posts/OEtOdG</id>
+        <link href="https://alook.so/posts/OEtOdG"/>
+        <updated>2021-10-21T00:53:20.526Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEtOdG">우리기술의 노동력은 북한으로</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전세 세입자 입니다]]></title>
+        <id>https://alook.so/posts/vKtRlE</id>
+        <link href="https://alook.so/posts/vKtRlE"/>
+        <updated>2021-10-21T00:53:20.529Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtRlE">전세 세입자 입니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모두 잘 자고 있습니까]]></title>
+        <id>https://alook.so/posts/E7t3Mw</id>
+        <link href="https://alook.so/posts/E7t3Mw"/>
+        <updated>2021-10-21T00:53:20.529Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3Mw">모두 잘 자고 있습니까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강아지 생일케이크]]></title>
+        <id>https://alook.so/posts/lat1ay</id>
+        <link href="https://alook.so/posts/lat1ay"/>
+        <updated>2021-10-21T00:53:20.530Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat1ay">강아지 생일케이크</a>]]></content>
     </entry>
 </feed>
