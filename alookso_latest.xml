@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-21T12:25:17.918Z</updated>
+    <updated>2021-10-21T13:22:43.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[한국은 선진국입니다.]]></title>
-        <id>https://alook.so/posts/J5tyLD</id>
-        <link href="https://alook.so/posts/J5tyLD"/>
-        <updated>2021-10-21T12:23:50.207Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tyLD">한국은 선진국입니다.</a>]]></content>
+        <title type="html"><![CDATA[막을 수 있을 거라고 생각해야 합니다.]]></title>
+        <id>https://alook.so/posts/KmtkJ4</id>
+        <link href="https://alook.so/posts/KmtkJ4"/>
+        <updated>2021-10-21T13:21:25.822Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/KmtkJ4">막을 수 있을 거라고 생각해야 합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엄마의 삶이란..]]></title>
-        <id>https://alook.so/posts/eVtrlq</id>
-        <link href="https://alook.so/posts/eVtrlq"/>
-        <updated>2021-10-21T12:23:50.207Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/eVtrlq">엄마의 삶이란..</a>]]></content>
+        <title type="html"><![CDATA[따로 사는게 득인듯요]]></title>
+        <id>https://alook.so/posts/mbtBr5</id>
+        <link href="https://alook.so/posts/mbtBr5"/>
+        <updated>2021-10-21T13:21:25.823Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtBr5">따로 사는게 득인듯요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무엇을 위한 인공지능일까요?]]></title>
-        <id>https://alook.so/posts/2xtMrv</id>
-        <link href="https://alook.so/posts/2xtMrv"/>
-        <updated>2021-10-21T12:23:50.210Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/2xtMrv">무엇을 위한 인공지능일까요?</a>]]></content>
+        <title type="html"><![CDATA[그럴순없겠죠]]></title>
+        <id>https://alook.so/posts/DjtleV</id>
+        <link href="https://alook.so/posts/DjtleV"/>
+        <updated>2021-10-21T13:21:25.824Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtleV">그럴순없겠죠</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한때는 같았어도 앞으로도 계속 달라야합니다]]></title>
-        <id>https://alook.so/posts/0ktma0</id>
-        <link href="https://alook.so/posts/0ktma0"/>
-        <updated>2021-10-21T12:23:50.212Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktma0">한때는 같았어도 앞으로도 계속 달라야합니다</a>]]></content>
+        <title type="html"><![CDATA[청담동 명품거리에는 20,30대가 주 소비층]]></title>
+        <id>https://alook.so/posts/jdt5q2</id>
+        <link href="https://alook.so/posts/jdt5q2"/>
+        <updated>2021-10-21T13:21:25.827Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt5q2">청담동 명품거리에는 20,30대가 주 소비층</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동료의 죽음]]></title>
-        <id>https://alook.so/posts/XBt324</id>
-        <link href="https://alook.so/posts/XBt324"/>
-        <updated>2021-10-21T12:23:50.213Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt324">동료의 죽음</a>]]></content>
+        <title type="html"><![CDATA[안전한 교통문화 만들기 (feat. 오토바이 less)]]></title>
+        <id>https://alook.so/posts/bWtdw2</id>
+        <link href="https://alook.so/posts/bWtdw2"/>
+        <updated>2021-10-21T13:21:25.828Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtdw2">안전한 교통문화 만들기 (feat. 오토바이 less)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원래는 결혼에 관심이 전혀 없었지만..]]></title>
+        <id>https://alook.so/posts/dztYkd</id>
+        <link href="https://alook.so/posts/dztYkd"/>
+        <updated>2021-10-21T13:21:25.829Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dztYkd">원래는 결혼에 관심이 전혀 없었지만..</a>]]></content>
     </entry>
 </feed>
