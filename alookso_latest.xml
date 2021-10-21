@@ -2,49 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-21T22:15:19.226Z</updated>
+    <updated>2021-10-21T23:15:42.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[가족이 제일 중요한대]]></title>
-        <id>https://alook.so/posts/70tDnO</id>
-        <link href="https://alook.so/posts/70tDnO"/>
-        <updated>2021-10-21T22:14:02.988Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tDnO">가족이 제일 중요한대</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5,000만원 사회 활동 지원 자금]]></title>
-        <id>https://alook.so/posts/rDt8J0</id>
-        <link href="https://alook.so/posts/rDt8J0"/>
-        <updated>2021-10-21T22:14:02.988Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt8J0">5,000만원 사회 활동 지원 자금</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤 선택을 하는 것이 맞을까요..?]]></title>
-        <id>https://alook.so/posts/KmtXKq</id>
-        <link href="https://alook.so/posts/KmtXKq"/>
-        <updated>2021-10-21T20:16:33.476Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/KmtXKq">어떤 선택을 하는 것이 맞을까요..?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육아 우울증, 나는 아닐꺼라고 생각했는데]]></title>
-        <id>https://alook.so/posts/mbtP4Y</id>
-        <link href="https://alook.so/posts/mbtP4Y"/>
-        <updated>2021-10-21T19:11:36.948Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtP4Y">육아 우울증, 나는 아닐꺼라고 생각했는데</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 NBTI는 ISFP다]]></title>
-        <id>https://alook.so/posts/54tzW8</id>
-        <link href="https://alook.so/posts/54tzW8"/>
-        <updated>2021-10-21T19:11:36.949Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tzW8">내 NBTI는 ISFP다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여러분들은 힘들 때 무슨 음악을 듣나요?]]></title>
-        <id>https://alook.so/posts/q1tr8o</id>
-        <link href="https://alook.so/posts/q1tr8o"/>
-        <updated>2021-10-21T18:16:21.337Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tr8o">여러분들은 힘들 때 무슨 음악을 듣나요?</a>]]></content>
-    </entry>
 </feed>
