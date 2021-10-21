@@ -2,63 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-21T06:18:20.400Z</updated>
+    <updated>2021-10-21T07:15:42.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[사라져서 아쉬운 제품이나 브랜드 있으신가요?]]></title>
-        <id>https://alook.so/posts/Kmtk5r</id>
-        <link href="https://alook.so/posts/Kmtk5r"/>
-        <updated>2021-10-21T06:16:57.157Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtk5r">사라져서 아쉬운 제품이나 브랜드 있으신가요?</a>]]></content>
+        <title type="html"><![CDATA[흉악범 사형 집행에 대하여..]]></title>
+        <id>https://alook.so/posts/8Wt7PP</id>
+        <link href="https://alook.so/posts/8Wt7PP"/>
+        <updated>2021-10-21T07:14:17.329Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt7PP">흉악범 사형 집행에 대하여..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[크루즈 뉴 이어 파티에서 한복을 입은 나는]]></title>
-        <id>https://alook.so/posts/mbtBDj</id>
-        <link href="https://alook.so/posts/mbtBDj"/>
-        <updated>2021-10-21T06:16:57.157Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtBDj">크루즈 뉴 이어 파티에서 한복을 입은 나는</a>]]></content>
+        <title type="html"><![CDATA[방탄소년단은 '상남자'인가 '꽃미남'인가]]></title>
+        <id>https://alook.so/posts/G1t9KB</id>
+        <link href="https://alook.so/posts/G1t9KB"/>
+        <updated>2021-10-21T07:14:17.331Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9KB">방탄소년단은 '상남자'인가 '꽃미남'인가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[과거 미련 끊는 법]]></title>
-        <id>https://alook.so/posts/q1tlKb</id>
-        <link href="https://alook.so/posts/q1tlKb"/>
-        <updated>2021-10-21T06:16:57.162Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tlKb">과거 미련 끊는 법</a>]]></content>
+        <title type="html"><![CDATA[50자? 50자!]]></title>
+        <id>https://alook.so/posts/OEtOyD</id>
+        <link href="https://alook.so/posts/OEtOyD"/>
+        <updated>2021-10-21T07:14:17.333Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEtOyD">50자? 50자!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["이걸 해봤자 나아지겠어."]]></title>
-        <id>https://alook.so/posts/Djtlyx</id>
-        <link href="https://alook.so/posts/Djtlyx"/>
-        <updated>2021-10-21T06:16:57.164Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtlyx">"이걸 해봤자 나아지겠어."</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100% 줄여야 한다!!]]></title>
-        <id>https://alook.so/posts/1RtMm8</id>
-        <link href="https://alook.so/posts/1RtMm8"/>
-        <updated>2021-10-21T06:16:57.165Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtMm8">100% 줄여야 한다!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 언젠가 내 글을 발견할지도 모르는 어떤 독자를 위해]]></title>
-        <id>https://alook.so/posts/o7t0PV</id>
-        <link href="https://alook.so/posts/o7t0PV"/>
-        <updated>2021-10-21T06:16:57.165Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0PV">답글: 언젠가 내 글을 발견할지도 모르는 어떤 독자를 위해 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회복지분야 15년차를 경험하면서 선진국으로 갈길이 아직 멉니다.]]></title>
-        <id>https://alook.so/posts/70tmPw</id>
-        <link href="https://alook.so/posts/70tmPw"/>
-        <updated>2021-10-21T06:16:57.166Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tmPw">사회복지분야 15년차를 경험하면서 선진국으로 갈길이 아직 멉니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[출발 호루라기!!]]></title>
-        <id>https://alook.so/posts/YytD7E</id>
-        <link href="https://alook.so/posts/YytD7E"/>
-        <updated>2021-10-21T06:16:57.167Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytD7E">출발 호루라기!!</a>]]></content>
+        <title type="html"><![CDATA[좋은 질문이란 무엇일까요?]]></title>
+        <id>https://alook.so/posts/E7t35M</id>
+        <link href="https://alook.so/posts/E7t35M"/>
+        <updated>2021-10-21T07:14:17.335Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t35M">좋은 질문이란 무엇일까요? </a>]]></content>
     </entry>
 </feed>
