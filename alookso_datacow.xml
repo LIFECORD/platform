@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/bA6tp1</id>
     <title>alookso ─ 데이터카우</title>
-    <updated>2021-10-21T04:20:09.527Z</updated>
+    <updated>2021-10-21T05:29:37.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🧐 부동산 기사의 ‘페르소나’는 누구일까요?]]></title>
+        <id>https://alook.so/posts/Batqd8</id>
+        <link href="https://alook.so/posts/Batqd8"/>
+        <updated>2021-10-21T05:29:32.742Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batqd8">🧐 부동산 기사의 ‘페르소나’는 누구일까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧐 '경계청년' 지훈이와 유진이의 가계부를 써볼 수 있을까요?]]></title>
+        <id>https://alook.so/posts/E7t3eO</id>
+        <link href="https://alook.so/posts/E7t3eO"/>
+        <updated>2021-10-21T05:29:32.745Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3eO">🧐 '경계청년' 지훈이와 유진이의 가계부를 써볼 수 있을까요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧐 당신이 생각하는 '중산층'은 누구인가요?]]></title>
         <id>https://alook.so/posts/WLtJqD</id>
@@ -60,12 +74,5 @@
         <link href="https://alook.so/posts/Yyt6Vr"/>
         <updated>2021-10-18T08:20:10.468Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt6Vr">🧐 수신료, 얼마가 적당할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 쏘프라이즈를 소개합니다!]]></title>
-        <id>https://alook.so/posts/RGtk5G</id>
-        <link href="https://alook.so/posts/RGtk5G"/>
-        <updated>2021-10-18T08:20:10.469Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtk5G">🧐 쏘프라이즈를 소개합니다!</a>]]></content>
     </entry>
 </feed>

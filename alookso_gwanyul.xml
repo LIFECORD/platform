@@ -2,63 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8letPq</id>
     <title>alookso ─ 천관율</title>
-    <updated>2021-10-21T04:20:09.533Z</updated>
+    <updated>2021-10-21T05:29:37.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[사장님이 이 글을 봤다]]></title>
-        <id>https://alook.so/posts/vKt6YG</id>
-        <link href="https://alook.so/posts/vKt6YG"/>
-        <updated>2021-10-18T08:19:16.113Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKt6YG">사장님이 이 글을 봤다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤도 늦었고 하니 얼룩소의 비밀 하나 풀겠습니다]]></title>
-        <id>https://alook.so/posts/E7takr</id>
-        <link href="https://alook.so/posts/E7takr"/>
-        <updated>2021-10-18T08:19:16.118Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7takr">밤도 늦었고 하니 얼룩소의 비밀 하나 풀겠습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위 글의 후속을 보시려면 여기로]]></title>
-        <id>https://alook.so/posts/54tked</id>
-        <link href="https://alook.so/posts/54tked"/>
-        <updated>2021-10-18T08:19:16.119Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tked">위 글의 후속을 보시려면 여기로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역시 이재명은 못웃는다 - 3차 선거인단 참패 추가검토]]></title>
-        <id>https://alook.so/posts/q1tnLb</id>
-        <link href="https://alook.so/posts/q1tnLb"/>
-        <updated>2021-10-18T08:19:16.120Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tnLb">역시 이재명은 못웃는다 - 3차 선거인단 참패 추가검토</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여동준 / 재외국민 투표의 경우]]></title>
-        <id>https://alook.so/posts/LKt7Ev</id>
-        <link href="https://alook.so/posts/LKt7Ev"/>
-        <updated>2021-10-18T08:19:16.122Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKt7Ev">여동준 / 재외국민 투표의 경우</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김현성 / 이낙연 캠프의 영업의 승리라면....]]></title>
-        <id>https://alook.so/posts/njt14b</id>
-        <link href="https://alook.so/posts/njt14b"/>
-        <updated>2021-10-18T08:19:16.123Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njt14b">김현성 / 이낙연 캠프의 영업의 승리라면....</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명은 웃었는가 - 3차 선거인단 참패의 의미]]></title>
-        <id>https://alook.so/posts/54tkbk</id>
-        <link href="https://alook.so/posts/54tkbk"/>
-        <updated>2021-10-18T08:19:16.124Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tkbk">이재명은 웃었는가 - 3차 선거인단 참패의 의미</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 추천하는, 중요하면서 재미있는 토론 1]]></title>
-        <id>https://alook.so/posts/6Mt6RK</id>
-        <link href="https://alook.so/posts/6Mt6RK"/>
-        <updated>2021-10-18T08:19:16.125Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt6RK">오늘 추천하는, 중요하면서 재미있는 토론 1</a>]]></content>
-    </entry>
 </feed>
