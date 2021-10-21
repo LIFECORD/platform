@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-21T03:17:09.609Z</updated>
+    <updated>2021-10-21T04:20:09.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[두서없는 질문 모음집]]></title>
-        <id>https://alook.so/posts/DjtlJx</id>
-        <link href="https://alook.so/posts/DjtlJx"/>
-        <updated>2021-10-21T03:15:44.317Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtlJx">두서없는 질문 모음집</a>]]></content>
+        <title type="html"><![CDATA[사랑하는데 성별이 중요한가요?]]></title>
+        <id>https://alook.so/posts/0ktmk3</id>
+        <link href="https://alook.so/posts/0ktmk3"/>
+        <updated>2021-10-21T04:18:48.533Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktmk3">사랑하는데 성별이 중요한가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지금까지 환경 단체에 후원한 돈. 그 돈으로 배달 음식을 시켜 먹었다면?]]></title>
-        <id>https://alook.so/posts/1RtMl8</id>
-        <link href="https://alook.so/posts/1RtMl8"/>
-        <updated>2021-10-21T03:15:44.317Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtMl8">지금까지 환경 단체에 후원한 돈. 그 돈으로 배달 음식을 시켜 먹었다면?</a>]]></content>
+        <title type="html"><![CDATA[우리는 언제나 방법을 찾을거에요, 늘 그랬듯이]]></title>
+        <id>https://alook.so/posts/XBt377</id>
+        <link href="https://alook.so/posts/XBt377"/>
+        <updated>2021-10-21T04:18:48.536Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt377">우리는 언제나 방법을 찾을거에요, 늘 그랬듯이</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[상처받지 않을 권리]]></title>
-        <id>https://alook.so/posts/o7t09V</id>
-        <link href="https://alook.so/posts/o7t09V"/>
-        <updated>2021-10-21T03:15:44.317Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t09V">상처받지 않을 권리</a>]]></content>
+        <title type="html"><![CDATA[코로나 접종 무서워요 받고싶지 않습니다.왜 눈치를 주나요?]]></title>
+        <id>https://alook.so/posts/w9tyYD</id>
+        <link href="https://alook.so/posts/w9tyYD"/>
+        <updated>2021-10-21T04:18:48.538Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/w9tyYD">코로나 접종 무서워요 받고싶지 않습니다.왜 눈치를 주나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[흉악범의 사형은 반대합니다]]></title>
-        <id>https://alook.so/posts/YytDmE</id>
-        <link href="https://alook.so/posts/YytDmE"/>
-        <updated>2021-10-21T03:15:44.318Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDmE">흉악범의 사형은 반대합니다</a>]]></content>
+        <title type="html"><![CDATA[남녀 임금 격차는 가구 소득에 더 효율적인 선택을 하기 때문!]]></title>
+        <id>https://alook.so/posts/xltJOP</id>
+        <link href="https://alook.so/posts/xltJOP"/>
+        <updated>2021-10-21T04:18:48.539Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/xltJOP">남녀 임금 격차는 가구 소득에 더 효율적인 선택을 하기 때문!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['가족을 책임'지는 가장으로의 부담]]></title>
-        <id>https://alook.so/posts/E7t31w</id>
-        <link href="https://alook.so/posts/E7t31w"/>
-        <updated>2021-10-21T03:15:44.320Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t31w">'가족을 책임'지는 가장으로의 부담</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래서 저는 '지금' 통일에 반대합니다.]]></title>
-        <id>https://alook.so/posts/Kmtkvk</id>
-        <link href="https://alook.so/posts/Kmtkvk"/>
-        <updated>2021-10-21T03:15:44.321Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtkvk">그래서 저는 '지금' 통일에 반대합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[88서울올림픽~]]></title>
-        <id>https://alook.so/posts/mbtBoE</id>
-        <link href="https://alook.so/posts/mbtBoE"/>
-        <updated>2021-10-21T03:15:44.322Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtBoE">88서울올림픽~</a>]]></content>
+        <title type="html"><![CDATA[오징어게임 후속작에 나왔으면 좋겠는 놀이]]></title>
+        <id>https://alook.so/posts/Batqw8</id>
+        <link href="https://alook.so/posts/Batqw8"/>
+        <updated>2021-10-21T04:18:48.540Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batqw8">오징어게임 후속작에 나왔으면 좋겠는 놀이</a>]]></content>
     </entry>
 </feed>
