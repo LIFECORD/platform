@@ -2,28 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-22T13:22:38.439Z</updated>
+    <updated>2021-10-22T14:16:05.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[직업이 없으면 어케하죠..]]></title>
-        <id>https://alook.so/posts/54tzpm</id>
-        <link href="https://alook.so/posts/54tzpm"/>
-        <updated>2021-10-22T13:21:11.357Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tzpm">직업이 없으면 어케하죠..</a>]]></content>
+        <title type="html"><![CDATA[..........엄마?]]></title>
+        <id>https://alook.so/posts/yEtap2</id>
+        <link href="https://alook.so/posts/yEtap2"/>
+        <updated>2021-10-22T14:14:36.702Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtap2">..........엄마?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[없는것(無)을 없애는 방법?]]></title>
-        <id>https://alook.so/posts/q1tr0v</id>
-        <link href="https://alook.so/posts/q1tr0v"/>
-        <updated>2021-10-22T13:21:11.359Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tr0v">없는것(無)을 없애는 방법?</a>]]></content>
+        <title type="html"><![CDATA[출퇴근 자체가 완벽한 운동]]></title>
+        <id>https://alook.so/posts/BatkDO</id>
+        <link href="https://alook.so/posts/BatkDO"/>
+        <updated>2021-10-22T14:14:36.703Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/BatkDO">출퇴근 자체가 완벽한 운동 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 10대는 불행할까?]]></title>
-        <id>https://alook.so/posts/70tD5L</id>
-        <link href="https://alook.so/posts/70tD5L"/>
-        <updated>2021-10-22T13:21:11.360Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tD5L">왜 10대는 불행할까?</a>]]></content>
+        <title type="html"><![CDATA[환경과 비트코인]]></title>
+        <id>https://alook.so/posts/LKtKwL</id>
+        <link href="https://alook.so/posts/LKtKwL"/>
+        <updated>2021-10-22T14:14:36.704Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtKwL">환경과 비트코인</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대표님, 짧은 시간에 일의 능률이 확 오르길 원한다면 주4일제요!]]></title>
+        <id>https://alook.so/posts/njtoeB</id>
+        <link href="https://alook.so/posts/njtoeB"/>
+        <updated>2021-10-22T14:14:36.706Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtoeB">대표님, 짧은 시간에 일의 능률이 확 오르길 원한다면 주4일제요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라의 자부심이니까!]]></title>
+        <id>https://alook.so/posts/6Mtmpd</id>
+        <link href="https://alook.so/posts/6Mtmpd"/>
+        <updated>2021-10-22T14:14:36.707Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtmpd">우리나라의 자부심이니까! </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주린이는 안전빵을 좋아해요❤️]]></title>
+        <id>https://alook.so/posts/8Wt1nY</id>
+        <link href="https://alook.so/posts/8Wt1nY"/>
+        <updated>2021-10-22T14:14:36.709Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt1nY">주린이는 안전빵을 좋아해요❤️</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미투운동의 대한 고찰]]></title>
+        <id>https://alook.so/posts/G1tyXv</id>
+        <link href="https://alook.so/posts/G1tyXv"/>
+        <updated>2021-10-22T14:14:36.710Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1tyXv">미투운동의 대한 고찰</a>]]></content>
     </entry>
 </feed>
