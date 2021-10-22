@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-22T16:22:16.912Z</updated>
+    <updated>2021-10-22T17:20:27.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[개천에서 용날수 있을까?]]></title>
+        <id>https://alook.so/posts/njtoKl</id>
+        <link href="https://alook.so/posts/njtoKl"/>
+        <updated>2021-10-22T17:19:08.403Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtoKl">개천에서 용날수 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경제적 자유에 꽂혀있는 지금]]></title>
+        <id>https://alook.so/posts/6Mtmjl</id>
+        <link href="https://alook.so/posts/6Mtmjl"/>
+        <updated>2021-10-22T17:19:08.405Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtmjl">경제적 자유에 꽂혀있는 지금</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단지 요물이 등장했을 뿐]]></title>
+        <id>https://alook.so/posts/3wtoyl</id>
+        <link href="https://alook.so/posts/3wtoyl"/>
+        <updated>2021-10-22T17:19:08.406Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtoyl">단지 요물이 등장했을 뿐</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람은 사람답게 살 수 있는 권리가 있습니다.]]></title>
+        <id>https://alook.so/posts/G1typJ</id>
+        <link href="https://alook.so/posts/G1typJ"/>
+        <updated>2021-10-22T17:19:08.407Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1typJ">사람은 사람답게 살 수 있는 권리가 있습니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정치인이 '사회적 합의' 뒤에 숨을 때]]></title>
         <id>https://alook.so/posts/KmtXPL</id>
         <link href="https://alook.so/posts/KmtXPL"/>
         <updated>2021-10-22T16:20:51.227Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/KmtXPL">정치인이 '사회적 합의' 뒤에 숨을 때</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[졸업장과 개인. 그 가치에 대하여]]></title>
-        <id>https://alook.so/posts/q1tro5</id>
-        <link href="https://alook.so/posts/q1tro5"/>
-        <updated>2021-10-22T16:20:51.228Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tro5">졸업장과 개인. 그 가치에 대하여</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30대 미혼 고졸백수는 서글픕니다.]]></title>
-        <id>https://alook.so/posts/Djtqk5</id>
-        <link href="https://alook.so/posts/Djtqk5"/>
-        <updated>2021-10-22T16:20:51.229Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtqk5">30대 미혼 고졸백수는 서글픕니다.</a>]]></content>
     </entry>
 </feed>
