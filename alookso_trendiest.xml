@@ -2,64 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-10-22T05:15:12.797Z</updated>
+    <updated>2021-10-22T06:18:20.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[회사는 당신에게 어떤 의미인가요?]]></title>
-        <id>https://alook.so/posts/yEtZLm</id>
-        <link href="https://alook.so/posts/yEtZLm"/>
-        <updated>2021-10-22T02:11:07.828Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtZLm">회사는 당신에게 어떤 의미인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 질문이란 무엇일까요?]]></title>
-        <id>https://alook.so/posts/E7t35M</id>
-        <link href="https://alook.so/posts/E7t35M"/>
-        <updated>2021-10-21T16:33:00.354Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t35M">좋은 질문이란 무엇일까요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다단계: 개인적인 얼룩소 홍보방식]]></title>
-        <id>https://alook.so/posts/VnteBa</id>
-        <link href="https://alook.so/posts/VnteBa"/>
-        <updated>2021-10-21T08:16:32.768Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/VnteBa">다단계: 개인적인 얼룩소 홍보방식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두 잘 자고 있습니까]]></title>
-        <id>https://alook.so/posts/E7t3Mw</id>
-        <link href="https://alook.so/posts/E7t3Mw"/>
-        <updated>2021-10-21T06:17:06.351Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3Mw">모두 잘 자고 있습니까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신이 생각한 최악의 상황은 정말 최악이 상황인가요?]]></title>
-        <id>https://alook.so/posts/0ktm2J</id>
-        <link href="https://alook.so/posts/0ktm2J"/>
-        <updated>2021-10-21T16:33:00.363Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktm2J">당신이 생각한 최악의 상황은 정말 최악이 상황인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우리나라의 하루] 4. 매일 113만 명이 우리나라를 위해 출근합니다.]]></title>
-        <id>https://alook.so/posts/2xtMY2</id>
-        <link href="https://alook.so/posts/2xtMY2"/>
-        <updated>2021-10-21T00:53:28.928Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/2xtMY2">[우리나라의 하루] 4. 매일 113만 명이 우리나라를 위해 출근합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 '그런 남자'를 계속 만나냐고요?]]></title>
-        <id>https://alook.so/posts/XBt3Le</id>
-        <link href="https://alook.so/posts/XBt3Le"/>
-        <updated>2021-10-21T23:14:27.770Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt3Le">왜 '그런 남자'를 계속 만나냐고요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감당할 수 없는 엄마의 사랑]]></title>
-        <id>https://alook.so/posts/3wtodX</id>
-        <link href="https://alook.so/posts/3wtodX"/>
-        <updated>2021-10-22T04:18:32.079Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtodX">감당할 수 없는 엄마의 사랑</a>]]></content>
+        <title type="html"><![CDATA[나를 사로잡은 질문은 무엇입니까?: 20대 청년들의 이야기]]></title>
+        <id>https://alook.so/posts/bWtpB3</id>
+        <link href="https://alook.so/posts/bWtpB3"/>
+        <updated>2021-10-22T05:14:01.119Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtpB3">나를 사로잡은 질문은 무엇입니까?: 20대 청년들의 이야기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[추억은 몇 억일까요?]]></title>
@@ -69,6 +20,20 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLtJRV">추억은 몇 억일까요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[다단계: 개인적인 얼룩소 홍보방식]]></title>
+        <id>https://alook.so/posts/VnteBa</id>
+        <link href="https://alook.so/posts/VnteBa"/>
+        <updated>2021-10-21T08:16:32.768Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/VnteBa">다단계: 개인적인 얼룩소 홍보방식</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 '그런 남자'를 계속 만나냐고요?]]></title>
+        <id>https://alook.so/posts/XBt3Le</id>
+        <link href="https://alook.so/posts/XBt3Le"/>
+        <updated>2021-10-21T23:14:27.770Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt3Le">왜 '그런 남자'를 계속 만나냐고요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[얼룩커님들을 위해 참잘했어요 주시면?]]></title>
         <id>https://alook.so/posts/YytDwr</id>
         <link href="https://alook.so/posts/YytDwr"/>
@@ -76,18 +41,32 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDwr">얼룩커님들을 위해 참잘했어요 주시면?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[100퍼센트가 아니면 실패인가요?]]></title>
-        <id>https://alook.so/posts/J5tyzY</id>
-        <link href="https://alook.so/posts/J5tyzY"/>
-        <updated>2021-10-22T00:52:54.788Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tyzY">100퍼센트가 아니면 실패인가요?</a>]]></content>
+        <title type="html"><![CDATA[좋은 질문이란 무엇일까요?]]></title>
+        <id>https://alook.so/posts/E7t35M</id>
+        <link href="https://alook.so/posts/E7t35M"/>
+        <updated>2021-10-21T16:33:00.354Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t35M">좋은 질문이란 무엇일까요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 이야기를 얼룩소에서 해야죠, 특히 저는요]]></title>
-        <id>https://alook.so/posts/0ktmOK</id>
-        <link href="https://alook.so/posts/0ktmOK"/>
-        <updated>2021-10-20T07:14:43.802Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktmOK">얼룩소 이야기를 얼룩소에서 해야죠, 특히 저는요</a>]]></content>
+        <title type="html"><![CDATA[회사는 당신에게 어떤 의미인가요?]]></title>
+        <id>https://alook.so/posts/yEtZLm</id>
+        <link href="https://alook.so/posts/yEtZLm"/>
+        <updated>2021-10-22T02:11:07.828Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtZLm">회사는 당신에게 어떤 의미인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신이 생각한 최악의 상황은 정말 최악이 상황인가요?]]></title>
+        <id>https://alook.so/posts/0ktm2J</id>
+        <link href="https://alook.so/posts/0ktm2J"/>
+        <updated>2021-10-21T16:33:00.363Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktm2J">당신이 생각한 최악의 상황은 정말 최악이 상황인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모두 잘 자고 있습니까]]></title>
+        <id>https://alook.so/posts/E7t3Mw</id>
+        <link href="https://alook.so/posts/E7t3Mw"/>
+        <updated>2021-10-21T06:17:06.351Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3Mw">모두 잘 자고 있습니까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리는 왜 계속 '글'을 쓸까?(ft.반말을 해본다)]]></title>
@@ -95,6 +74,13 @@
         <link href="https://alook.so/posts/mbtB6L"/>
         <updated>2021-10-20T10:17:44.889Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtB6L">우리는 왜 계속 '글'을 쓸까?(ft.반말을 해본다)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100퍼센트가 아니면 실패인가요?]]></title>
+        <id>https://alook.so/posts/J5tyzY</id>
+        <link href="https://alook.so/posts/J5tyzY"/>
+        <updated>2021-10-22T00:52:54.788Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tyzY">100퍼센트가 아니면 실패인가요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국영수와 맞바꾼 학생들의 삶]]></title>
@@ -111,25 +97,11 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtM1P">불행을 야기하는 경쟁</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방탄소년단은 '상남자'인가 '꽃미남'인가]]></title>
-        <id>https://alook.so/posts/G1t9KB</id>
-        <link href="https://alook.so/posts/G1t9KB"/>
-        <updated>2021-10-21T09:18:48.921Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9KB">방탄소년단은 '상남자'인가 '꽃미남'인가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나를 사로잡은 질문은 무엇입니까?: 20대 청년들의 이야기]]></title>
-        <id>https://alook.so/posts/bWtpB3</id>
-        <link href="https://alook.so/posts/bWtpB3"/>
-        <updated>2021-10-22T05:14:01.119Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtpB3">나를 사로잡은 질문은 무엇입니까?: 20대 청년들의 이야기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산 문제와 금융 리터러시를 억지로 엮어보았다]]></title>
-        <id>https://alook.so/posts/RGtqX7</id>
-        <link href="https://alook.so/posts/RGtqX7"/>
-        <updated>2021-10-20T16:21:43.414Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtqX7">부동산 문제와 금융 리터러시를 억지로 엮어보았다</a>]]></content>
+        <title type="html"><![CDATA[감당할 수 없는 엄마의 사랑]]></title>
+        <id>https://alook.so/posts/3wtodX</id>
+        <link href="https://alook.so/posts/3wtodX"/>
+        <updated>2021-10-22T04:18:32.079Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtodX">감당할 수 없는 엄마의 사랑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소의 지향점은 매거진인가, 커뮤니티인가]]></title>
@@ -139,10 +111,31 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0X2">얼룩소의 지향점은 매거진인가, 커뮤니티인가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임포스터, 게임 이름만이 아니더군요]]></title>
-        <id>https://alook.so/posts/lat16K</id>
-        <link href="https://alook.so/posts/lat16K"/>
-        <updated>2021-10-22T05:14:01.124Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat16K">임포스터, 게임 이름만이 아니더군요</a>]]></content>
+        <title type="html"><![CDATA[부동산 문제와 금융 리터러시를 억지로 엮어보았다]]></title>
+        <id>https://alook.so/posts/RGtqX7</id>
+        <link href="https://alook.so/posts/RGtqX7"/>
+        <updated>2021-10-20T16:21:43.414Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtqX7">부동산 문제와 금융 리터러시를 억지로 엮어보았다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일본은 '소득주도성장'을 꿈꾸는가]]></title>
+        <id>https://alook.so/posts/Djtq6d</id>
+        <link href="https://alook.so/posts/Djtq6d"/>
+        <updated>2021-10-22T06:17:08.035Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtq6d">일본은 '소득주도성장'을 꿈꾸는가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 정치세력, "젊치인" 들어보셨나요?]]></title>
+        <id>https://alook.so/posts/Kmtk9r</id>
+        <link href="https://alook.so/posts/Kmtk9r"/>
+        <updated>2021-10-22T06:17:08.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtk9r">새로운 정치세력, "젊치인" 들어보셨나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단은 '상남자'인가 '꽃미남'인가]]></title>
+        <id>https://alook.so/posts/G1t9KB</id>
+        <link href="https://alook.so/posts/G1t9KB"/>
+        <updated>2021-10-21T09:18:48.921Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9KB">방탄소년단은 '상남자'인가 '꽃미남'인가</a>]]></content>
     </entry>
 </feed>
