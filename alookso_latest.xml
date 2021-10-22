@@ -2,14 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-22T09:16:31.557Z</updated>
+    <updated>2021-10-22T10:18:39.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[개고기와 동물 권리]]></title>
-        <id>https://alook.so/posts/6Mtm79</id>
-        <link href="https://alook.so/posts/6Mtm79"/>
-        <updated>2021-10-22T09:15:11.033Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtm79">개고기와 동물 권리</a>]]></content>
+        <title type="html"><![CDATA[저라면 추천 하겠습니다.]]></title>
+        <id>https://alook.so/posts/rDt85Z</id>
+        <link href="https://alook.so/posts/rDt85Z"/>
+        <updated>2021-10-22T10:17:21.851Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt85Z">저라면 추천 하겠습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결혼이란]]></title>
+        <id>https://alook.so/posts/bWtp1K</id>
+        <link href="https://alook.so/posts/bWtp1K"/>
+        <updated>2021-10-22T10:17:21.852Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtp1K">결혼이란</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[학생이 왜 불행할까요?]]></title>
+        <id>https://alook.so/posts/eVtOkL</id>
+        <link href="https://alook.so/posts/eVtOkL"/>
+        <updated>2021-10-22T10:17:21.853Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/eVtOkL">학생이 왜 불행할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벌써 밑천이 바닥이라니?!]]></title>
+        <id>https://alook.so/posts/Vntj5K</id>
+        <link href="https://alook.so/posts/Vntj5K"/>
+        <updated>2021-10-22T10:17:21.854Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Vntj5K">벌써 밑천이 바닥이라니?!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어느 가을날의 소풍]]></title>
+        <id>https://alook.so/posts/zvtYV5</id>
+        <link href="https://alook.so/posts/zvtYV5"/>
+        <updated>2021-10-22T10:17:21.855Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/zvtYV5">어느 가을날의 소풍</a>]]></content>
     </entry>
 </feed>
