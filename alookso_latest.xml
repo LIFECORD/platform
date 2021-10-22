@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-22T12:23:48.100Z</updated>
+    <updated>2021-10-22T13:22:38.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[신상 털기가 우려된다면서 신상터는 k-언론]]></title>
-        <id>https://alook.so/posts/J5trbr</id>
-        <link href="https://alook.so/posts/J5trbr"/>
-        <updated>2021-10-22T12:22:13.186Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5trbr">신상 털기가 우려된다면서 신상터는 k-언론</a>]]></content>
+        <title type="html"><![CDATA[직업이 없으면 어케하죠..]]></title>
+        <id>https://alook.so/posts/54tzpm</id>
+        <link href="https://alook.so/posts/54tzpm"/>
+        <updated>2021-10-22T13:21:11.357Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tzpm">직업이 없으면 어케하죠..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나의 행동에 따라 대학 졸업장의 가치는 결정이 됩니다.]]></title>
-        <id>https://alook.so/posts/Pvtwqr</id>
-        <link href="https://alook.so/posts/Pvtwqr"/>
-        <updated>2021-10-22T12:22:13.187Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtwqr">나의 행동에 따라 대학 졸업장의 가치는 결정이 됩니다.</a>]]></content>
+        <title type="html"><![CDATA[없는것(無)을 없애는 방법?]]></title>
+        <id>https://alook.so/posts/q1tr0v</id>
+        <link href="https://alook.so/posts/q1tr0v"/>
+        <updated>2021-10-22T13:21:11.359Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tr0v">없는것(無)을 없애는 방법?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카메라 뒤의 사람들]]></title>
-        <id>https://alook.so/posts/Vntjnw</id>
-        <link href="https://alook.so/posts/Vntjnw"/>
-        <updated>2021-10-22T12:22:13.188Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Vntjnw">카메라 뒤의 사람들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[졸업장은 가치없을지 몰라도 특정 대학(환경)이 주는 가치는 있다.]]></title>
-        <id>https://alook.so/posts/WLtOXw</id>
-        <link href="https://alook.so/posts/WLtOXw"/>
-        <updated>2021-10-22T12:22:13.189Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLtOXw">졸업장은 가치없을지 몰라도 특정 대학(환경)이 주는 가치는 있다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바람이 현실이 되는 날까지 응원합니다.]]></title>
-        <id>https://alook.so/posts/w9tbxl</id>
-        <link href="https://alook.so/posts/w9tbxl"/>
-        <updated>2021-10-22T12:22:13.191Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/w9tbxl">바람이 현실이 되는 날까지 응원합니다.</a>]]></content>
+        <title type="html"><![CDATA[왜 10대는 불행할까?]]></title>
+        <id>https://alook.so/posts/70tD5L</id>
+        <link href="https://alook.so/posts/70tD5L"/>
+        <updated>2021-10-22T13:21:11.360Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tD5L">왜 10대는 불행할까?</a>]]></content>
     </entry>
 </feed>
