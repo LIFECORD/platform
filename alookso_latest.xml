@@ -2,77 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-22T03:16:24.832Z</updated>
+    <updated>2021-10-22T04:19:47.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[불평등을 없앨 자유]]></title>
-        <id>https://alook.so/posts/6Mtmee</id>
-        <link href="https://alook.so/posts/6Mtmee"/>
-        <updated>2021-10-22T03:15:08.101Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtmee">불평등을 없앨 자유</a>]]></content>
+        <title type="html"><![CDATA[그래서 저는 이 기사 제목이 참 맘에 들었답니다.]]></title>
+        <id>https://alook.so/posts/mbtPED</id>
+        <link href="https://alook.so/posts/mbtPED"/>
+        <updated>2021-10-22T04:18:23.163Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPED">그래서 저는 이 기사 제목이 참 맘에 들었답니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 감당할 수 없는 엄마의 사랑 : 20대 청년들의 이야기]]></title>
-        <id>https://alook.so/posts/3wtodX</id>
-        <link href="https://alook.so/posts/3wtodX"/>
-        <updated>2021-10-22T03:15:08.102Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtodX">답글: 감당할 수 없는 엄마의 사랑 : 20대 청년들의 이야기</a>]]></content>
+        <title type="html"><![CDATA[9월 달에만 두 명의 사망사고를 접했다]]></title>
+        <id>https://alook.so/posts/q1trpB</id>
+        <link href="https://alook.so/posts/q1trpB"/>
+        <updated>2021-10-22T04:18:23.166Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1trpB">9월 달에만 두 명의 사망사고를 접했다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돈은 우주를 지배한다]]></title>
-        <id>https://alook.so/posts/8Wt1ow</id>
-        <link href="https://alook.so/posts/8Wt1ow"/>
-        <updated>2021-10-22T03:15:08.103Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt1ow">돈은 우주를 지배한다</a>]]></content>
+        <title type="html"><![CDATA[일본은 '소득주도성장'을 꿈꾸는가]]></title>
+        <id>https://alook.so/posts/Djtq6d</id>
+        <link href="https://alook.so/posts/Djtq6d"/>
+        <updated>2021-10-22T04:18:23.167Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtq6d">일본은 '소득주도성장'을 꿈꾸는가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국영수와 맞바꾼 학생들의 삶]]></title>
-        <id>https://alook.so/posts/G1tywM</id>
-        <link href="https://alook.so/posts/G1tywM"/>
-        <updated>2021-10-22T03:15:08.103Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1tywM">국영수와 맞바꾼 학생들의 삶</a>]]></content>
+        <title type="html"><![CDATA[엄마를 위한 삶, 주인 없는 삶이 내 삶이었다.]]></title>
+        <id>https://alook.so/posts/1RtORV</id>
+        <link href="https://alook.so/posts/1RtORV"/>
+        <updated>2021-10-22T04:18:23.167Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtORV">엄마를 위한 삶, 주인 없는 삶이 내 삶이었다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 요즘 어디에 꽂혔어요?]]></title>
-        <id>https://alook.so/posts/OEtewn</id>
-        <link href="https://alook.so/posts/OEtewn"/>
-        <updated>2021-10-22T03:15:08.104Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEtewn">답글: 요즘 어디에 꽂혔어요?</a>]]></content>
+        <title type="html"><![CDATA[차별화 되는 것에 대한 두려움]]></title>
+        <id>https://alook.so/posts/o7tmlO</id>
+        <link href="https://alook.so/posts/o7tmlO"/>
+        <updated>2021-10-22T04:18:23.169Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7tmlO">차별화 되는 것에 대한 두려움</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재난지원금, 누구에게 어떻게 주는 게 맞을까요? : 코로나, 함께 이겨내야지요!]]></title>
-        <id>https://alook.so/posts/vKtW12</id>
-        <link href="https://alook.so/posts/vKtW12"/>
-        <updated>2021-10-22T03:15:08.105Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtW12">재난지원금, 누구에게 어떻게 주는 게 맞을까요? : 코로나, 함께 이겨내야지요! </a>]]></content>
+        <title type="html"><![CDATA[한국의 10대는 왜 불행할까?]]></title>
+        <id>https://alook.so/posts/Yyt95O</id>
+        <link href="https://alook.so/posts/Yyt95O"/>
+        <updated>2021-10-22T04:18:23.170Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt95O">한국의 10대는 왜 불행할까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[40대 직장인의 회사 생활 이야기(feat. 직장 생활이 답인가?)]]></title>
-        <id>https://alook.so/posts/E7tY9R</id>
-        <link href="https://alook.so/posts/E7tY9R"/>
-        <updated>2021-10-22T03:15:08.107Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7tY9R">40대 직장인의 회사 생활 이야기(feat. 직장 생활이 답인가?)</a>]]></content>
+        <title type="html"><![CDATA[건강한 먹거리로 보다 건강한 삶을 살아가는 법]]></title>
+        <id>https://alook.so/posts/jdt93z</id>
+        <link href="https://alook.so/posts/jdt93z"/>
+        <updated>2021-10-22T04:18:23.172Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt93z"> 건강한 먹거리로 보다 건강한 삶을 살아가는 법</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누가, 무엇을 만들었지? -카카오, 혁신인가요 독점인가요?]]></title>
-        <id>https://alook.so/posts/latl52</id>
-        <link href="https://alook.so/posts/latl52"/>
-        <updated>2021-10-22T03:15:08.108Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/latl52">누가, 무엇을 만들었지? -카카오, 혁신인가요 독점인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위드 코로나' 속 진정한 가치]]></title>
-        <id>https://alook.so/posts/92tJ76</id>
-        <link href="https://alook.so/posts/92tJ76"/>
-        <updated>2021-10-22T03:15:08.110Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92tJ76">'위드 코로나' 속 진정한 가치</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빵집 아르바이트생의 이야기: 갑질 그리고 노동자]]></title>
-        <id>https://alook.so/posts/KmtX16</id>
-        <link href="https://alook.so/posts/KmtX16"/>
-        <updated>2021-10-22T03:15:08.111Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/KmtX16">빵집 아르바이트생의 이야기: 갑질 그리고 노동자</a>]]></content>
+        <title type="html"><![CDATA[미래에는 채식 보단..]]></title>
+        <id>https://alook.so/posts/a0ta96</id>
+        <link href="https://alook.so/posts/a0ta96"/>
+        <updated>2021-10-22T04:18:23.173Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0ta96">미래에는 채식 보단..</a>]]></content>
     </entry>
 </feed>
