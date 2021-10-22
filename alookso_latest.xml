@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-22T21:15:00.834Z</updated>
+    <updated>2021-10-22T22:16:24.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[댓글: 장의진님 불행을 야기하는 경쟁]]></title>
+        <id>https://alook.so/posts/54tz8R</id>
+        <link href="https://alook.so/posts/54tz8R"/>
+        <updated>2021-10-22T22:15:02.965Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tz8R">댓글: 장의진님 불행을 야기하는 경쟁</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[호로무비 대한민국에 월급 없는 국회를]]></title>
+        <id>https://alook.so/posts/q1trR5</id>
+        <link href="https://alook.so/posts/q1trR5"/>
+        <updated>2021-10-22T22:15:02.967Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1trR5">호로무비 대한민국에 월급 없는 국회를</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[학생은 아닌데요. 개선 사항 제안드립니다.]]></title>
         <id>https://alook.so/posts/WLtOxZ</id>
