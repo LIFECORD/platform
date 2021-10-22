@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/bA6tp1</id>
     <title>alookso ─ 데이터카우</title>
-    <updated>2021-10-22T04:19:47.239Z</updated>
+    <updated>2021-10-22T05:15:12.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🧐 눈에 보이는 삼성의 존재감, 가늠해볼 수 있을까요?]]></title>
+        <id>https://alook.so/posts/LKtKaK</id>
+        <link href="https://alook.so/posts/LKtKaK"/>
+        <updated>2021-10-22T05:15:12.049Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtKaK">🧐 눈에 보이는 삼성의 존재감, 가늠해볼 수 있을까요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧐 부동산 기사의 ‘페르소나’는 누구일까요?]]></title>
         <id>https://alook.so/posts/Batqd8</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/LKt7r8"/>
         <updated>2021-10-18T08:20:10.466Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKt7r8">🧐 반려동물에게 좋은 동네는 어디일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 수신료, 얼마가 적당할까요?]]></title>
-        <id>https://alook.so/posts/Yyt6Vr</id>
-        <link href="https://alook.so/posts/Yyt6Vr"/>
-        <updated>2021-10-18T08:20:10.468Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt6Vr">🧐 수신료, 얼마가 적당할까요?</a>]]></content>
     </entry>
 </feed>

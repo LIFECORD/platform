@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-22T04:19:47.290Z</updated>
+    <updated>2021-10-22T05:15:12.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[중심을 확장하기 (FIGK)]]></title>
@@ -847,130 +847,60 @@
         <content type="html"><![CDATA[차우진]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그래서 저는 이 기사 제목이 참 맘에 들었답니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/mbtPED</id>
-        <link href="https://alook.so/posts/mbtPED"/>
-        <updated>2021-10-22T04:18:23.163Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPED">그래서 저는 이 기사 제목이 참 맘에 들었답니다.</a>]]></content>
+        <title type="html"><![CDATA[요즘 시대에 아이.. 갖고 싶다고 생각하시고 계신분들 있으신가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/VntjeG</id>
+        <link href="https://alook.so/posts/VntjeG"/>
+        <updated>2021-10-22T05:13:52.708Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/VntjeG">요즘 시대에 아이.. 갖고 싶다고 생각하시고 계신분들 있으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9월 달에만 두 명의 사망사고를 접했다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/q1trpB</id>
-        <link href="https://alook.so/posts/q1trpB"/>
-        <updated>2021-10-22T04:18:23.166Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1trpB">9월 달에만 두 명의 사망사고를 접했다</a>]]></content>
+        <title type="html"><![CDATA[일자리 문제에 대하여 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/zvtYZX</id>
+        <link href="https://alook.so/posts/zvtYZX"/>
+        <updated>2021-10-22T05:13:52.710Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/zvtYZX">일자리 문제에 대하여</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일본은 '소득주도성장'을 꿈꾸는가 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Djtq6d</id>
-        <link href="https://alook.so/posts/Djtq6d"/>
-        <updated>2021-10-22T04:18:23.167Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtq6d">일본은 '소득주도성장'을 꿈꾸는가</a>]]></content>
+        <title type="html"><![CDATA[자기계발, 성공 중독 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/2xtyMK</id>
+        <link href="https://alook.so/posts/2xtyMK"/>
+        <updated>2021-10-22T05:13:52.711Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/2xtyMK">자기계발, 성공 중독</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엄마를 위한 삶, 주인 없는 삶이 내 삶이었다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/1RtORV</id>
-        <link href="https://alook.so/posts/1RtORV"/>
-        <updated>2021-10-22T04:18:23.167Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtORV">엄마를 위한 삶, 주인 없는 삶이 내 삶이었다.</a>]]></content>
+        <title type="html"><![CDATA[효과가 좋았던 걱정 해소법이 있으신가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/WLtOJY</id>
+        <link href="https://alook.so/posts/WLtOJY"/>
+        <updated>2021-10-22T05:13:52.712Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLtOJY">효과가 좋았던 걱정 해소법이 있으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차별화 되는 것에 대한 두려움 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/o7tmlO</id>
-        <link href="https://alook.so/posts/o7tmlO"/>
-        <updated>2021-10-22T04:18:23.169Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7tmlO">차별화 되는 것에 대한 두려움</a>]]></content>
+        <title type="html"><![CDATA[삶... 치열하게 사는게 정답 일까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/0ktdmr</id>
+        <link href="https://alook.so/posts/0ktdmr"/>
+        <updated>2021-10-22T05:13:52.714Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdmr">삶... 치열하게 사는게 정답 일까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국의 10대는 왜 불행할까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Yyt95O</id>
-        <link href="https://alook.so/posts/Yyt95O"/>
-        <updated>2021-10-22T04:18:23.170Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt95O">한국의 10대는 왜 불행할까?</a>]]></content>
+        <title type="html"><![CDATA[무력한 기도를 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/M9t08n</id>
+        <link href="https://alook.so/posts/M9t08n"/>
+        <updated>2021-10-22T05:13:52.716Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t08n">무력한 기도를</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[건강한 먹거리로 보다 건강한 삶을 살아가는 법 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/jdt93z</id>
-        <link href="https://alook.so/posts/jdt93z"/>
-        <updated>2021-10-22T04:18:23.172Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt93z"> 건강한 먹거리로 보다 건강한 삶을 살아가는 법</a>]]></content>
+        <title type="html"><![CDATA[하이켈하임 로마사 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/4XtmO6</id>
+        <link href="https://alook.so/posts/4XtmO6"/>
+        <updated>2021-10-22T05:13:52.717Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtmO6">하이켈하임 로마사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미래에는 채식 보단.. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/a0ta96</id>
-        <link href="https://alook.so/posts/a0ta96"/>
-        <updated>2021-10-22T04:18:23.173Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0ta96">미래에는 채식 보단..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다르게 생각하니까 다른 일이 생기네! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/yEtZjR</id>
-        <link href="https://alook.so/posts/yEtZjR"/>
-        <updated>2021-10-22T00:52:54.783Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtZjR">다르게 생각하니까 다른 일이 생기네!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소의 지향점은 매거진인가, 커뮤니티인가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/o7t0X2</id>
-        <link href="https://alook.so/posts/o7t0X2"/>
-        <updated>2021-10-21T13:21:34.984Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0X2">얼룩소의 지향점은 매거진인가, 커뮤니티인가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두 잘 자고 있습니까 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/E7t3Mw</id>
-        <link href="https://alook.so/posts/E7t3Mw"/>
-        <updated>2021-10-21T06:17:06.351Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3Mw">모두 잘 자고 있습니까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국영수와 맞바꾼 학생들의 삶 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/G1tywM</id>
-        <link href="https://alook.so/posts/G1tywM"/>
-        <updated>2021-10-22T03:15:08.103Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1tywM">국영수와 맞바꾼 학생들의 삶</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 이야기를 얼룩소에서 해야죠, 특히 저는요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/0ktmOK</id>
-        <link href="https://alook.so/posts/0ktmOK"/>
-        <updated>2021-10-20T07:14:43.802Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktmOK">얼룩소 이야기를 얼룩소에서 해야죠, 특히 저는요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 '그런 남자'를 계속 만나냐고요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/XBt3Le</id>
-        <link href="https://alook.so/posts/XBt3Le"/>
-        <updated>2021-10-21T23:14:27.770Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt3Le">왜 '그런 남자'를 계속 만나냐고요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Datalook] - 한국은 민주적인가? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/jdt5v1</id>
-        <link href="https://alook.so/posts/jdt5v1"/>
-        <updated>2021-10-20T16:21:43.404Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt5v1">[Datalook] - 한국은 민주적인가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩커님들을 위해 참잘했어요 주시면? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/YytDwr</id>
-        <link href="https://alook.so/posts/YytDwr"/>
-        <updated>2021-10-22T02:11:07.835Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDwr">얼룩커님들을 위해 참잘했어요 주시면?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산 문제와 금융 리터러시를 억지로 엮어보았다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/RGtqX7</id>
-        <link href="https://alook.so/posts/RGtqX7"/>
-        <updated>2021-10-20T14:14:34.949Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtqX7">부동산 문제와 금융 리터러시를 억지로 엮어보았다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 왜 계속 '글'을 쓸까?(ft.반말을 해본다) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/mbtB6L</id>
-        <link href="https://alook.so/posts/mbtB6L"/>
-        <updated>2021-10-20T10:17:44.889Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtB6L">우리는 왜 계속 '글'을 쓸까?(ft.반말을 해본다)</a>]]></content>
+        <title type="html"><![CDATA[인권도 중요하지만 흉악범은 사형을 집행해야 합니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/XBtG3k</id>
+        <link href="https://alook.so/posts/XBtG3k"/>
+        <updated>2021-10-22T05:13:52.719Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBtG3k">인권도 중요하지만 흉악범은 사형을 집행해야 합니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[회사는 당신에게 어떤 의미인가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -980,11 +910,11 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtZLm">회사는 당신에게 어떤 의미인가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방탄소년단은 '상남자'인가 '꽃미남'인가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/G1t9KB</id>
-        <link href="https://alook.so/posts/G1t9KB"/>
-        <updated>2021-10-21T09:18:48.921Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9KB">방탄소년단은 '상남자'인가 '꽃미남'인가</a>]]></content>
+        <title type="html"><![CDATA[좋은 질문이란 무엇일까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/E7t35M</id>
+        <link href="https://alook.so/posts/E7t35M"/>
+        <updated>2021-10-21T16:33:00.354Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t35M">좋은 질문이란 무엇일까요? </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다단계: 개인적인 얼룩소 홍보방식 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -994,39 +924,11 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/VnteBa">다단계: 개인적인 얼룩소 홍보방식</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추억은 몇 억일까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/WLtJRV</id>
-        <link href="https://alook.so/posts/WLtJRV"/>
-        <updated>2021-10-21T16:33:00.341Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLtJRV">추억은 몇 억일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[100퍼센트가 아니면 실패인가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/J5tyzY</id>
-        <link href="https://alook.so/posts/J5tyzY"/>
-        <updated>2021-10-22T00:52:54.788Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tyzY">100퍼센트가 아니면 실패인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[우리나라의 하루] 4. 매일 113만 명이 우리나라를 위해 출근합니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/2xtMY2</id>
-        <link href="https://alook.so/posts/2xtMY2"/>
-        <updated>2021-10-21T00:53:28.928Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/2xtMY2">[우리나라의 하루] 4. 매일 113만 명이 우리나라를 위해 출근합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 질문이란 무엇일까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/E7t35M</id>
-        <link href="https://alook.so/posts/E7t35M"/>
-        <updated>2021-10-21T16:33:00.354Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t35M">좋은 질문이란 무엇일까요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[분노조절장애 상사와 일한다는 것 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Batq6j</id>
-        <link href="https://alook.so/posts/Batq6j"/>
-        <updated>2021-10-22T00:52:54.797Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batq6j">분노조절장애 상사와 일한다는 것</a>]]></content>
+        <title type="html"><![CDATA[모두 잘 자고 있습니까 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/E7t3Mw</id>
+        <link href="https://alook.so/posts/E7t3Mw"/>
+        <updated>2021-10-21T06:17:06.351Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3Mw">모두 잘 자고 있습니까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신이 생각한 최악의 상황은 정말 최악이 상황인가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -1036,11 +938,109 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktm2J">당신이 생각한 최악의 상황은 정말 최악이 상황인가요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[우리나라의 하루] 4. 매일 113만 명이 우리나라를 위해 출근합니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/2xtMY2</id>
+        <link href="https://alook.so/posts/2xtMY2"/>
+        <updated>2021-10-21T00:53:28.928Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/2xtMY2">[우리나라의 하루] 4. 매일 113만 명이 우리나라를 위해 출근합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 '그런 남자'를 계속 만나냐고요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/XBt3Le</id>
+        <link href="https://alook.so/posts/XBt3Le"/>
+        <updated>2021-10-21T23:14:27.770Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt3Le">왜 '그런 남자'를 계속 만나냐고요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[감당할 수 없는 엄마의 사랑 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/3wtodX</id>
         <link href="https://alook.so/posts/3wtodX"/>
         <updated>2021-10-22T03:15:08.102Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtodX">감당할 수 없는 엄마의 사랑</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추억은 몇 억일까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/WLtJRV</id>
+        <link href="https://alook.so/posts/WLtJRV"/>
+        <updated>2021-10-21T16:33:00.341Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLtJRV">추억은 몇 억일까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩커님들을 위해 참잘했어요 주시면? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/YytDwr</id>
+        <link href="https://alook.so/posts/YytDwr"/>
+        <updated>2021-10-22T02:11:07.835Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/YytDwr">얼룩커님들을 위해 참잘했어요 주시면?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100퍼센트가 아니면 실패인가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/J5tyzY</id>
+        <link href="https://alook.so/posts/J5tyzY"/>
+        <updated>2021-10-22T00:52:54.788Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tyzY">100퍼센트가 아니면 실패인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 이야기를 얼룩소에서 해야죠, 특히 저는요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/0ktmOK</id>
+        <link href="https://alook.so/posts/0ktmOK"/>
+        <updated>2021-10-20T07:14:43.802Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktmOK">얼룩소 이야기를 얼룩소에서 해야죠, 특히 저는요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리는 왜 계속 '글'을 쓸까?(ft.반말을 해본다) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/mbtB6L</id>
+        <link href="https://alook.so/posts/mbtB6L"/>
+        <updated>2021-10-20T10:17:44.889Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtB6L">우리는 왜 계속 '글'을 쓸까?(ft.반말을 해본다)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국영수와 맞바꾼 학생들의 삶 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/G1tywM</id>
+        <link href="https://alook.so/posts/G1tywM"/>
+        <updated>2021-10-22T03:15:08.103Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1tywM">국영수와 맞바꾼 학생들의 삶</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불행을 야기하는 경쟁 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/RGtM1P</id>
+        <link href="https://alook.so/posts/RGtM1P"/>
+        <updated>2021-10-22T05:14:01.117Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtM1P">불행을 야기하는 경쟁</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방탄소년단은 '상남자'인가 '꽃미남'인가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/G1t9KB</id>
+        <link href="https://alook.so/posts/G1t9KB"/>
+        <updated>2021-10-21T09:18:48.921Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9KB">방탄소년단은 '상남자'인가 '꽃미남'인가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나를 사로잡은 질문은 무엇입니까?: 20대 청년들의 이야기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/bWtpB3</id>
+        <link href="https://alook.so/posts/bWtpB3"/>
+        <updated>2021-10-22T05:14:01.119Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtpB3">나를 사로잡은 질문은 무엇입니까?: 20대 청년들의 이야기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부동산 문제와 금융 리터러시를 억지로 엮어보았다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/RGtqX7</id>
+        <link href="https://alook.so/posts/RGtqX7"/>
+        <updated>2021-10-20T14:14:34.949Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtqX7">부동산 문제와 금융 리터러시를 억지로 엮어보았다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소의 지향점은 매거진인가, 커뮤니티인가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/o7t0X2</id>
+        <link href="https://alook.so/posts/o7t0X2"/>
+        <updated>2021-10-21T13:21:34.984Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0X2">얼룩소의 지향점은 매거진인가, 커뮤니티인가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임포스터, 게임 이름만이 아니더군요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/lat16K</id>
+        <link href="https://alook.so/posts/lat16K"/>
+        <updated>2021-10-22T05:14:01.124Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/lat16K">임포스터, 게임 이름만이 아니더군요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한류의 문화지리학 - 미국과 일본의 어깨에 올라탄 K-콘텐츠? (alookso ─ alookso)]]></title>
@@ -1323,6 +1323,13 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/N2xtYZ">미래의 일자리에 대한 팟캐스트 추천</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[무력한 기도를 (alookso ─ 신요조)]]></title>
+        <id>https://alook.so/posts/M9t08n</id>
+        <link href="https://alook.so/posts/M9t08n"/>
+        <updated>2021-10-22T05:14:56.784Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t08n">무력한 기도를</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우리들의 음식물쓰레기는 어떻게 되는 걸까 (alookso ─ 신요조)]]></title>
         <id>https://alook.so/posts/kZt3JZ</id>
         <link href="https://alook.so/posts/kZt3JZ"/>
@@ -1356,6 +1363,13 @@
         <link href="https://alook.so/posts/XBtBDJ"/>
         <updated>2021-10-18T08:20:02.515Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBtBDJ">온라인에서 진지하고 발전적인 대화가 정말 가능할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧐 눈에 보이는 삼성의 존재감, 가늠해볼 수 있을까요? (alookso ─ 데이터카우)]]></title>
+        <id>https://alook.so/posts/LKtKaK</id>
+        <link href="https://alook.so/posts/LKtKaK"/>
+        <updated>2021-10-22T05:15:12.049Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtKaK">🧐 눈에 보이는 삼성의 존재감, 가늠해볼 수 있을까요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🧐 부동산 기사의 ‘페르소나’는 누구일까요? (alookso ─ 데이터카우)]]></title>
@@ -1419,12 +1433,5 @@
         <link href="https://alook.so/posts/LKt7r8"/>
         <updated>2021-10-18T08:20:10.466Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKt7r8">🧐 반려동물에게 좋은 동네는 어디일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 수신료, 얼마가 적당할까요? (alookso ─ 데이터카우)]]></title>
-        <id>https://alook.so/posts/Yyt6Vr</id>
-        <link href="https://alook.so/posts/Yyt6Vr"/>
-        <updated>2021-10-18T08:20:10.468Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt6Vr">🧐 수신료, 얼마가 적당할까요?</a>]]></content>
     </entry>
 </feed>
