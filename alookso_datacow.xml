@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/bA6tp1</id>
     <title>alookso ─ 데이터카우</title>
-    <updated>2021-10-22T08:17:46.230Z</updated>
+    <updated>2021-10-22T09:16:31.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🧐 회장님을 사면하면 정말 경제가 살아날까요?]]></title>
+        <id>https://alook.so/posts/a0taa3</id>
+        <link href="https://alook.so/posts/a0taa3"/>
+        <updated>2021-10-22T09:16:30.806Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0taa3">🧐 회장님을 사면하면 정말 경제가 살아날까요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧐 눈에 보이는 삼성의 존재감, 가늠해볼 수 있을까요?]]></title>
         <id>https://alook.so/posts/LKtKaK</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/yEt18l"/>
         <updated>2021-10-18T08:20:10.465Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEt18l">🧐 내 나이 00살, 어떻게들 살고 계신가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 반려동물에게 좋은 동네는 어디일까요?]]></title>
-        <id>https://alook.so/posts/LKt7r8</id>
-        <link href="https://alook.so/posts/LKt7r8"/>
-        <updated>2021-10-18T08:20:10.466Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKt7r8">🧐 반려동물에게 좋은 동네는 어디일까요?</a>]]></content>
     </entry>
 </feed>

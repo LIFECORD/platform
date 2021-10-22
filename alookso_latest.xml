@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-22T08:17:46.233Z</updated>
+    <updated>2021-10-22T09:16:31.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[서비스업 화장 필수적인가요?]]></title>
-        <id>https://alook.so/posts/0ktddz</id>
-        <link href="https://alook.so/posts/0ktddz"/>
-        <updated>2021-10-22T08:16:32.309Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktddz">서비스업 화장 필수적인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 반대로 생각해보았습니다]]></title>
-        <id>https://alook.so/posts/M9t00R</id>
-        <link href="https://alook.so/posts/M9t00R"/>
-        <updated>2021-10-22T08:16:32.310Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t00R">전 반대로 생각해보았습니다</a>]]></content>
+        <title type="html"><![CDATA[개고기와 동물 권리]]></title>
+        <id>https://alook.so/posts/6Mtm79</id>
+        <link href="https://alook.so/posts/6Mtm79"/>
+        <updated>2021-10-22T09:15:11.033Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtm79">개고기와 동물 권리</a>]]></content>
     </entry>
 </feed>

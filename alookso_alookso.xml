@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-10-22T08:17:46.222Z</updated>
+    <updated>2021-10-22T09:16:31.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA['위드 코로나'에 대해 궁금한 점은? alookso가 대신 알아봐드립니다!]]></title>
+        <id>https://alook.so/posts/Yyt99a</id>
+        <link href="https://alook.so/posts/Yyt99a"/>
+        <updated>2021-10-22T09:15:28.514Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt99a">'위드 코로나'에 대해 궁금한 점은? alookso가 대신 알아봐드립니다!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한류의 문화지리학 - 미국과 일본의 어깨에 올라탄 K-콘텐츠?]]></title>
         <id>https://alook.so/posts/VnteZn</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/J5tOBw"/>
         <updated>2021-10-21T06:17:15.206Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOBw">프로젝트 alookso가 (       ) 얼룩커를 추천합니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘에디터픽’을 소개합니다]]></title>
-        <id>https://alook.so/posts/Djt3xZ</id>
-        <link href="https://alook.so/posts/Djt3xZ"/>
-        <updated>2021-10-21T06:17:15.207Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3xZ">‘에디터픽’을 소개합니다</a>]]></content>
     </entry>
 </feed>
