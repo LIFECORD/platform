@@ -2,49 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-22T07:16:13.551Z</updated>
+    <updated>2021-10-22T08:17:46.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[기사 제목이 주는 감동과 여운]]></title>
-        <id>https://alook.so/posts/njtoom</id>
-        <link href="https://alook.so/posts/njtoom"/>
-        <updated>2021-10-22T07:14:48.549Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtoom">기사 제목이 주는 감동과 여운</a>]]></content>
+        <title type="html"><![CDATA[서비스업 화장 필수적인가요?]]></title>
+        <id>https://alook.so/posts/0ktddz</id>
+        <link href="https://alook.so/posts/0ktddz"/>
+        <updated>2021-10-22T08:16:32.309Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktddz">서비스업 화장 필수적인가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리가 태어난 이유?]]></title>
-        <id>https://alook.so/posts/6Mtmm9</id>
-        <link href="https://alook.so/posts/6Mtmm9"/>
-        <updated>2021-10-22T07:14:48.550Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtmm9">우리가 태어난 이유?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과거와 현재, 대학교 배움의 결실은?]]></title>
-        <id>https://alook.so/posts/3wtooz</id>
-        <link href="https://alook.so/posts/3wtooz"/>
-        <updated>2021-10-22T07:14:48.552Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtooz">과거와 현재, 대학교 배움의 결실은?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경쟁이 엄청나니 결과물이 좋아서..]]></title>
-        <id>https://alook.so/posts/G1tyyW</id>
-        <link href="https://alook.so/posts/G1tyyW"/>
-        <updated>2021-10-22T07:14:48.553Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1tyyW">경쟁이 엄청나니 결과물이 좋아서..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혁신과 독점의 사이]]></title>
-        <id>https://alook.so/posts/vKtWW5</id>
-        <link href="https://alook.so/posts/vKtWW5"/>
-        <updated>2021-10-22T07:14:48.555Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtWW5">혁신과 독점의 사이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직접 체험해 본 아르바이트 후기]]></title>
-        <id>https://alook.so/posts/E7tYYd</id>
-        <link href="https://alook.so/posts/E7tYYd"/>
-        <updated>2021-10-22T07:14:48.556Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7tYYd">직접 체험해 본 아르바이트 후기</a>]]></content>
+        <title type="html"><![CDATA[전 반대로 생각해보았습니다]]></title>
+        <id>https://alook.so/posts/M9t00R</id>
+        <link href="https://alook.so/posts/M9t00R"/>
+        <updated>2021-10-22T08:16:32.310Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t00R">전 반대로 생각해보았습니다</a>]]></content>
     </entry>
 </feed>
