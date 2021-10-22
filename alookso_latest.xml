@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-22T17:20:27.670Z</updated>
+    <updated>2021-10-22T18:18:50.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2002년 월드컵 4강을 겪어보지 않은 자, 국뽕을 논하지 마라.]]></title>
+        <id>https://alook.so/posts/kZtOy3</id>
+        <link href="https://alook.so/posts/kZtOy3"/>
+        <updated>2021-10-22T18:16:21.465Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/kZtOy3">2002년 월드컵 4강을 겪어보지 않은 자, 국뽕을 논하지 마라.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회실험 카메라]]></title>
+        <id>https://alook.so/posts/yEta91</id>
+        <link href="https://alook.so/posts/yEta91"/>
+        <updated>2021-10-22T18:16:21.465Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEta91">사회실험 카메라</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방구석 N잡러.. 부자되기]]></title>
+        <id>https://alook.so/posts/BatkEa</id>
+        <link href="https://alook.so/posts/BatkEa"/>
+        <updated>2021-10-22T18:16:21.467Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/BatkEa">방구석 N잡러.. 부자되기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씁쓸한 부담]]></title>
+        <id>https://alook.so/posts/LKtKGb</id>
+        <link href="https://alook.so/posts/LKtKGb"/>
+        <updated>2021-10-22T18:16:21.469Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtKGb">씁쓸한 부담</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개천에서 용날수 있을까?]]></title>
         <id>https://alook.so/posts/njtoKl</id>
@@ -25,19 +53,5 @@
         <link href="https://alook.so/posts/3wtoyl"/>
         <updated>2021-10-22T17:19:08.406Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtoyl">단지 요물이 등장했을 뿐</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람은 사람답게 살 수 있는 권리가 있습니다.]]></title>
-        <id>https://alook.so/posts/G1typJ</id>
-        <link href="https://alook.so/posts/G1typJ"/>
-        <updated>2021-10-22T17:19:08.407Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1typJ">사람은 사람답게 살 수 있는 권리가 있습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정치인이 '사회적 합의' 뒤에 숨을 때]]></title>
-        <id>https://alook.so/posts/KmtXPL</id>
-        <link href="https://alook.so/posts/KmtXPL"/>
-        <updated>2021-10-22T16:20:51.227Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/KmtXPL">정치인이 '사회적 합의' 뒤에 숨을 때</a>]]></content>
     </entry>
 </feed>
