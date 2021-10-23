@@ -2,56 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-23T16:22:04.672Z</updated>
+    <updated>2021-10-23T17:19:38.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[어쩌면 집값을 잡으려면 다른 곳을 잡아야할지도 모릅니다]]></title>
-        <id>https://alook.so/posts/o7tmGo</id>
-        <link href="https://alook.so/posts/o7tmGo"/>
-        <updated>2021-10-23T16:20:44.954Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7tmGo">어쩌면 집값을 잡으려면 다른 곳을 잡아야할지도 모릅니다</a>]]></content>
+        <title type="html"><![CDATA[젠더 갈등을 줄이려면 나라가 바뀌어야 합니다.]]></title>
+        <id>https://alook.so/posts/o7tmG9</id>
+        <link href="https://alook.so/posts/o7tmG9"/>
+        <updated>2021-10-23T17:18:18.647Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7tmG9">젠더 갈등을 줄이려면 나라가 바뀌어야 합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오겜에 아이들도 물들어가고 있습니다.]]></title>
-        <id>https://alook.so/posts/Yyt9W8</id>
-        <link href="https://alook.so/posts/Yyt9W8"/>
-        <updated>2021-10-23T16:20:44.959Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt9W8">오겜에 아이들도 물들어가고 있습니다. </a>]]></content>
+        <title type="html"><![CDATA[초보 부모들이 가장 하기 쉬운 실수 공유]]></title>
+        <id>https://alook.so/posts/Yyt9WM</id>
+        <link href="https://alook.so/posts/Yyt9WM"/>
+        <updated>2021-10-23T17:18:18.647Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt9WM">초보 부모들이 가장 하기 쉬운 실수 공유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요즘 '나를 나답게 하는 도전'에 꽂혀있습니다.]]></title>
-        <id>https://alook.so/posts/rDt83n</id>
-        <link href="https://alook.so/posts/rDt83n"/>
-        <updated>2021-10-23T16:20:44.959Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt83n">요즘 '나를 나답게 하는 도전'에 꽂혀있습니다. </a>]]></content>
+        <title type="html"><![CDATA[대인관계, 정신질환.. 지친분들께 드리는 글]]></title>
+        <id>https://alook.so/posts/rDt83L</id>
+        <link href="https://alook.so/posts/rDt83L"/>
+        <updated>2021-10-23T17:18:18.647Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt83L">대인관계, 정신질환.. 지친분들께 드리는 글</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사람마다 다르겠지만]]></title>
-        <id>https://alook.so/posts/jdt966</id>
-        <link href="https://alook.so/posts/jdt966"/>
-        <updated>2021-10-23T16:20:44.959Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt966">사람마다 다르겠지만</a>]]></content>
+        <title type="html"><![CDATA[점점 대학 졸업장이 필요없어지는 것 같아요]]></title>
+        <id>https://alook.so/posts/E7tYbq</id>
+        <link href="https://alook.so/posts/E7tYbq"/>
+        <updated>2021-10-23T17:18:18.653Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7tYbq">점점 대학 졸업장이 필요없어지는 것 같아요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[죽음 앞에 선 인간 1]]></title>
-        <id>https://alook.so/posts/bWtpYZ</id>
-        <link href="https://alook.so/posts/bWtpYZ"/>
-        <updated>2021-10-23T16:20:44.959Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtpYZ">죽음 앞에 선 인간 1</a>]]></content>
+        <title type="html"><![CDATA[숫자는 상관없고 국회의원 연봉 삭감 좀]]></title>
+        <id>https://alook.so/posts/latler</id>
+        <link href="https://alook.so/posts/latler"/>
+        <updated>2021-10-23T17:18:18.654Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/latler">숫자는 상관없고 국회의원 연봉 삭감 좀</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직업의 변화는 있어도 일자리는 없어지지 않는다.]]></title>
-        <id>https://alook.so/posts/a0ta10</id>
-        <link href="https://alook.so/posts/a0ta10"/>
-        <updated>2021-10-23T16:20:44.962Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0ta10">직업의 변화는 있어도 일자리는 없어지지 않는다.</a>]]></content>
+        <title type="html"><![CDATA[100세 시대 준비하기 위해 꼭 읽어야 하는 글]]></title>
+        <id>https://alook.so/posts/92tJoO</id>
+        <link href="https://alook.so/posts/92tJoO"/>
+        <updated>2021-10-23T17:18:18.657Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92tJoO">100세 시대 준비하기 위해 꼭 읽어야 하는 글</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5일간의 휴가를 마치고 돌아와서 따뜻한 마음으로 outlook을 켜 버린 그 순간..!]]></title>
-        <id>https://alook.so/posts/J5tr4j</id>
-        <link href="https://alook.so/posts/J5tr4j"/>
-        <updated>2021-10-23T16:20:44.964Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5tr4j">5일간의 휴가를 마치고 돌아와서 따뜻한 마음으로 outlook을 켜 버린 그 순간..!</a>]]></content>
+        <title type="html"><![CDATA[같은 성별도 결혼해도 된다고 생각해요]]></title>
+        <id>https://alook.so/posts/KmtXlR</id>
+        <link href="https://alook.so/posts/KmtXlR"/>
+        <updated>2021-10-23T17:18:18.657Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/KmtXlR">같은 성별도 결혼해도 된다고 생각해요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한민국 유네스코 세계유산 15곳!]]></title>
+        <id>https://alook.so/posts/54tzmP</id>
+        <link href="https://alook.so/posts/54tzmP"/>
+        <updated>2021-10-23T17:18:18.657Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tzmP">대한민국 유네스코 세계유산 15곳!</a>]]></content>
     </entry>
 </feed>
