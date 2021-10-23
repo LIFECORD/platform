@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-23T19:13:46.555Z</updated>
+    <updated>2021-10-23T20:17:11.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[과연 한국의 10대는 정말 불행한가?]]></title>
+        <id>https://alook.so/posts/LKtKOw</id>
+        <link href="https://alook.so/posts/LKtKOw"/>
+        <updated>2021-10-23T20:15:48.915Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtKOw">과연 한국의 10대는 정말 불행한가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인종차별을 모르는 인종차별주의자라서 죄송합니다.]]></title>
+        <id>https://alook.so/posts/njtokW</id>
+        <link href="https://alook.so/posts/njtokW"/>
+        <updated>2021-10-23T20:15:48.921Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtokW">인종차별을 모르는 인종차별주의자라서 죄송합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국뽕의 문제점]]></title>
+        <id>https://alook.so/posts/6MtmE7</id>
+        <link href="https://alook.so/posts/6MtmE7"/>
+        <updated>2021-10-23T20:15:48.925Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6MtmE7">국뽕의 문제점</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갖고 싶지만 갖고 싶지 않아요]]></title>
+        <id>https://alook.so/posts/3wtoMo</id>
+        <link href="https://alook.so/posts/3wtoMo"/>
+        <updated>2021-10-23T20:15:48.925Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtoMo">갖고 싶지만 갖고 싶지 않아요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성주식 상승? 하락?]]></title>
+        <id>https://alook.so/posts/8Wt187</id>
+        <link href="https://alook.so/posts/8Wt187"/>
+        <updated>2021-10-23T20:15:48.925Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt187">삼성주식 상승? 하락?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부정적인 세상을 살아가는 어른을 바라보는 10대들]]></title>
+        <id>https://alook.so/posts/G1tyYw</id>
+        <link href="https://alook.so/posts/G1tyYw"/>
+        <updated>2021-10-23T20:15:48.948Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1tyYw">부정적인 세상을 살아가는 어른을 바라보는 10대들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[군인의 가치]]></title>
         <id>https://alook.so/posts/OEte2w</id>
@@ -25,40 +67,5 @@
         <link href="https://alook.so/posts/E7tYjp"/>
         <updated>2021-10-23T19:12:26.440Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7tYjp">코로나19는 어떻게 여성의 정신건강을 해쳤나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ai 투자앱 로보어드바이저]]></title>
-        <id>https://alook.so/posts/92tJoM</id>
-        <link href="https://alook.so/posts/92tJoM"/>
-        <updated>2021-10-23T19:12:26.441Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92tJoM">ai 투자앱 로보어드바이저 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘고민]]></title>
-        <id>https://alook.so/posts/KmtXlJ</id>
-        <link href="https://alook.so/posts/KmtXlJ"/>
-        <updated>2021-10-23T19:12:26.443Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/KmtXlJ">요즘고민</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 애를 낳나요?]]></title>
-        <id>https://alook.so/posts/mbtPlJ</id>
-        <link href="https://alook.so/posts/mbtPlJ"/>
-        <updated>2021-10-23T18:15:30.784Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPlJ">왜 애를 낳나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 계층상승을 하려하죠]]></title>
-        <id>https://alook.so/posts/54tzm6</id>
-        <link href="https://alook.so/posts/54tzm6"/>
-        <updated>2021-10-23T18:15:30.788Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tzm6">왜 계층상승을 하려하죠</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이 낳으라 낳으라더니 입덧약은 왜 비보험?]]></title>
-        <id>https://alook.so/posts/Djtqby</id>
-        <link href="https://alook.so/posts/Djtqby"/>
-        <updated>2021-10-23T18:15:30.788Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtqby">아이 낳으라 낳으라더니 입덧약은 왜 비보험?</a>]]></content>
     </entry>
 </feed>
