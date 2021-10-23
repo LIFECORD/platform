@@ -2,56 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-23T00:50:35.688Z</updated>
+    <updated>2021-10-23T02:03:08.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[마음도 방역이 필요해  - 코로나19와 정신건강]]></title>
-        <id>https://alook.so/posts/3wtoDl</id>
-        <link href="https://alook.so/posts/3wtoDl"/>
-        <updated>2021-10-23T00:49:14.450Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtoDl">마음도 방역이 필요해  - 코로나19와 정신건강</a>]]></content>
+        <title type="html"><![CDATA[한 번 뿐인 인생! 그저 그렇게 살아야 할까요?]]></title>
+        <id>https://alook.so/posts/bWtple</id>
+        <link href="https://alook.so/posts/bWtple"/>
+        <updated>2021-10-23T02:01:50.077Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtple">한 번 뿐인 인생! 그저 그렇게 살아야 할까요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알바 많이하면 성공 한다?]]></title>
-        <id>https://alook.so/posts/8Wt1WL</id>
-        <link href="https://alook.so/posts/8Wt1WL"/>
-        <updated>2021-10-23T00:49:14.451Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt1WL">알바 많이하면 성공 한다?</a>]]></content>
+        <title type="html"><![CDATA[지금나와있는 자들이 대선 주자 맞나요?]]></title>
+        <id>https://alook.so/posts/WLtOZZ</id>
+        <link href="https://alook.so/posts/WLtOZZ"/>
+        <updated>2021-10-23T02:01:50.080Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLtOZZ">지금나와있는 자들이 대선 주자 맞나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[워밍업하는 중입니다.]]></title>
-        <id>https://alook.so/posts/vKtWmx</id>
-        <link href="https://alook.so/posts/vKtWmx"/>
-        <updated>2021-10-23T00:49:14.452Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtWmx">워밍업하는 중입니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세금만 걷는 나라]]></title>
-        <id>https://alook.so/posts/KmtXbL</id>
-        <link href="https://alook.so/posts/KmtXbL"/>
-        <updated>2021-10-23T00:49:14.453Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/KmtXbL">세금만 걷는 나라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채식은 없어서 못 먹죠.]]></title>
-        <id>https://alook.so/posts/mbtPGm</id>
-        <link href="https://alook.so/posts/mbtPGm"/>
-        <updated>2021-10-23T00:49:14.455Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPGm">채식은 없어서 못 먹죠.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[댓글: 장의진님 불행을 야기하는 경쟁]]></title>
-        <id>https://alook.so/posts/54tz8R</id>
-        <link href="https://alook.so/posts/54tz8R"/>
-        <updated>2021-10-22T22:15:02.965Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tz8R">댓글: 장의진님 불행을 야기하는 경쟁</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호로무비 대한민국에 월급 없는 국회를]]></title>
-        <id>https://alook.so/posts/q1trR5</id>
-        <link href="https://alook.so/posts/q1trR5"/>
-        <updated>2021-10-22T22:15:02.967Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1trR5">호로무비 대한민국에 월급 없는 국회를</a>]]></content>
+        <title type="html"><![CDATA[버릴 줄 아는 용기(勇氣)...]]></title>
+        <id>https://alook.so/posts/0ktdjV</id>
+        <link href="https://alook.so/posts/0ktdjV"/>
+        <updated>2021-10-23T02:01:50.081Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdjV">버릴 줄 아는 용기(勇氣)...</a>]]></content>
     </entry>
 </feed>

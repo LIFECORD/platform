@@ -2,72 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-10-23T00:50:35.694Z</updated>
+    <updated>2021-10-23T02:03:08.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[그래서 저는 이 기사 제목이 참 맘에 들었답니다.]]></title>
-        <id>https://alook.so/posts/mbtPED</id>
-        <link href="https://alook.so/posts/mbtPED"/>
-        <updated>2021-10-22T07:14:58.259Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPED">그래서 저는 이 기사 제목이 참 맘에 들었답니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법무부, '고 변희수 하사 강제 전역 부당' 육군에 항소 포기 지휘]]></title>
-        <id>https://alook.so/posts/8Wt1kY</id>
-        <link href="https://alook.so/posts/8Wt1kY"/>
-        <updated>2021-10-22T15:14:33.699Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt1kY">법무부, '고 변희수 하사 강제 전역 부당' 육군에 항소 포기 지휘</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불행을 야기하는 경쟁]]></title>
-        <id>https://alook.so/posts/RGtM1P</id>
-        <link href="https://alook.so/posts/RGtM1P"/>
-        <updated>2021-10-22T05:14:01.117Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtM1P">불행을 야기하는 경쟁</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 질문이란 무엇일까요?]]></title>
-        <id>https://alook.so/posts/E7t35M</id>
-        <link href="https://alook.so/posts/E7t35M"/>
-        <updated>2021-10-21T16:33:00.354Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7t35M">좋은 질문이란 무엇일까요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오발]]></title>
-        <id>https://alook.so/posts/njtoWB</id>
-        <link href="https://alook.so/posts/njtoWB"/>
-        <updated>2021-10-22T15:14:33.687Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtoWB">오발</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무력한 기도를]]></title>
-        <id>https://alook.so/posts/M9t08n</id>
-        <link href="https://alook.so/posts/M9t08n"/>
-        <updated>2021-10-22T10:17:29.529Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t08n">무력한 기도를</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미접종자가 접종을 주저하는 이유]]></title>
-        <id>https://alook.so/posts/jdt5VX</id>
-        <link href="https://alook.so/posts/jdt5VX"/>
-        <updated>2021-10-22T10:17:29.530Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt5VX"> 미접종자가 접종을 주저하는 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단은 '상남자'인가 '꽃미남'인가]]></title>
-        <id>https://alook.so/posts/G1t9KB</id>
-        <link href="https://alook.so/posts/G1t9KB"/>
-        <updated>2021-10-21T09:18:48.921Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9KB">방탄소년단은 '상남자'인가 '꽃미남'인가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 좋아하는 채식은?]]></title>
-        <id>https://alook.so/posts/ZktmmX</id>
-        <link href="https://alook.so/posts/ZktmmX"/>
-        <updated>2021-10-23T00:49:22.941Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/ZktmmX">내가 좋아하는 채식은? </a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[광장이 없는 사회]]></title>
         <id>https://alook.so/posts/M9t04E</id>
@@ -76,18 +13,32 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t04E">광장이 없는 사회</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20대를 맞이한 학생들에게: 결혼에 대한 현실적인 걱정]]></title>
-        <id>https://alook.so/posts/latl5v</id>
-        <link href="https://alook.so/posts/latl5v"/>
-        <updated>2021-10-22T09:15:19.761Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/latl5v">20대를 맞이한 학생들에게: 결혼에 대한 현실적인 걱정</a>]]></content>
+        <title type="html"><![CDATA[당신이 생각한 최악의 상황은 정말 최악이 상황인가요?]]></title>
+        <id>https://alook.so/posts/0ktm2J</id>
+        <link href="https://alook.so/posts/0ktm2J"/>
+        <updated>2021-10-21T16:33:00.363Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktm2J">당신이 생각한 최악의 상황은 정말 최악이 상황인가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 '그런 남자'를 계속 만나냐고요?]]></title>
-        <id>https://alook.so/posts/XBt3Le</id>
-        <link href="https://alook.so/posts/XBt3Le"/>
-        <updated>2021-10-21T23:14:27.770Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBt3Le">왜 '그런 남자'를 계속 만나냐고요?</a>]]></content>
+        <title type="html"><![CDATA[남들과의 경쟁보단 나 자신과의 싸움]]></title>
+        <id>https://alook.so/posts/VntjOG</id>
+        <link href="https://alook.so/posts/VntjOG"/>
+        <updated>2021-10-23T02:01:58.278Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/VntjOG">남들과의 경쟁보단 나 자신과의 싸움</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국영수와 맞바꾼 학생들의 삶]]></title>
+        <id>https://alook.so/posts/G1tywM</id>
+        <link href="https://alook.so/posts/G1tywM"/>
+        <updated>2021-10-22T04:18:32.057Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1tywM">국영수와 맞바꾼 학생들의 삶</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오발]]></title>
+        <id>https://alook.so/posts/njtoWB</id>
+        <link href="https://alook.so/posts/njtoWB"/>
+        <updated>2021-10-22T15:14:33.687Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtoWB">오발</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나를 사로잡은 질문은 무엇입니까?: 20대 청년들의 이야기]]></title>
@@ -104,32 +55,32 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtq6d">일본은 '소득주도성장'을 꿈꾸는가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국영수와 맞바꾼 학생들의 삶]]></title>
-        <id>https://alook.so/posts/G1tywM</id>
-        <link href="https://alook.so/posts/G1tywM"/>
-        <updated>2021-10-22T04:18:32.057Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1tywM">국영수와 맞바꾼 학생들의 삶</a>]]></content>
+        <title type="html"><![CDATA[방탄소년단은 '상남자'인가 '꽃미남'인가]]></title>
+        <id>https://alook.so/posts/G1t9KB</id>
+        <link href="https://alook.so/posts/G1t9KB"/>
+        <updated>2021-10-21T09:18:48.921Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1t9KB">방탄소년단은 '상남자'인가 '꽃미남'인가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[진짜 최악은...]]></title>
-        <id>https://alook.so/posts/J5trWK</id>
-        <link href="https://alook.so/posts/J5trWK"/>
-        <updated>2021-10-23T00:49:22.949Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5trWK">진짜 최악은...</a>]]></content>
+        <title type="html"><![CDATA[미접종자가 접종을 주저하는 이유]]></title>
+        <id>https://alook.so/posts/jdt5VX</id>
+        <link href="https://alook.so/posts/jdt5VX"/>
+        <updated>2021-10-22T10:17:29.530Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt5VX"> 미접종자가 접종을 주저하는 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신이 생각한 최악의 상황은 정말 최악이 상황인가요?]]></title>
-        <id>https://alook.so/posts/0ktm2J</id>
-        <link href="https://alook.so/posts/0ktm2J"/>
-        <updated>2021-10-21T16:33:00.363Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktm2J">당신이 생각한 최악의 상황은 정말 최악이 상황인가요?</a>]]></content>
+        <title type="html"><![CDATA[무력한 기도를]]></title>
+        <id>https://alook.so/posts/M9t08n</id>
+        <link href="https://alook.so/posts/M9t08n"/>
+        <updated>2021-10-22T10:17:29.529Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t08n">무력한 기도를</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소의 지향점은 매거진인가, 커뮤니티인가]]></title>
-        <id>https://alook.so/posts/o7t0X2</id>
-        <link href="https://alook.so/posts/o7t0X2"/>
-        <updated>2021-10-21T13:21:34.984Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7t0X2">얼룩소의 지향점은 매거진인가, 커뮤니티인가</a>]]></content>
+        <title type="html"><![CDATA[그래서 저는 이 기사 제목이 참 맘에 들었답니다.]]></title>
+        <id>https://alook.so/posts/mbtPED</id>
+        <link href="https://alook.so/posts/mbtPED"/>
+        <updated>2021-10-22T07:14:58.259Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPED">그래서 저는 이 기사 제목이 참 맘에 들었답니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[100퍼센트가 아니면 실패인가요?]]></title>
@@ -144,5 +95,47 @@
         <link href="https://alook.so/posts/3wtodX"/>
         <updated>2021-10-22T04:18:32.079Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtodX">감당할 수 없는 엄마의 사랑</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진짜 최악은...]]></title>
+        <id>https://alook.so/posts/J5trWK</id>
+        <link href="https://alook.so/posts/J5trWK"/>
+        <updated>2021-10-23T00:49:22.949Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5trWK">진짜 최악은...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20대를 맞이한 학생들에게: 결혼에 대한 현실적인 걱정]]></title>
+        <id>https://alook.so/posts/latl5v</id>
+        <link href="https://alook.so/posts/latl5v"/>
+        <updated>2021-10-22T09:15:19.761Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/latl5v">20대를 맞이한 학생들에게: 결혼에 대한 현실적인 걱정</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글:  점점 쌓여만 가는 쓰레기 더미 , 방관하고만 계실건가요?]]></title>
+        <id>https://alook.so/posts/92tJ70</id>
+        <link href="https://alook.so/posts/92tJ70"/>
+        <updated>2021-10-23T02:01:58.283Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92tJ70">답글:  점점 쌓여만 가는 쓰레기 더미 , 방관하고만 계실건가요?  </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 좋아하는 채식은?]]></title>
+        <id>https://alook.so/posts/ZktmmX</id>
+        <link href="https://alook.so/posts/ZktmmX"/>
+        <updated>2021-10-23T00:49:22.941Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/ZktmmX">내가 좋아하는 채식은? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불행을 야기하는 경쟁]]></title>
+        <id>https://alook.so/posts/RGtM1P</id>
+        <link href="https://alook.so/posts/RGtM1P"/>
+        <updated>2021-10-22T05:14:01.117Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtM1P">불행을 야기하는 경쟁</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[법무부, '고 변희수 하사 강제 전역 부당' 육군에 항소 포기 지휘]]></title>
+        <id>https://alook.so/posts/8Wt1kY</id>
+        <link href="https://alook.so/posts/8Wt1kY"/>
+        <updated>2021-10-22T15:14:33.699Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt1kY">법무부, '고 변희수 하사 강제 전역 부당' 육군에 항소 포기 지휘</a>]]></content>
     </entry>
 </feed>
