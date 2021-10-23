@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-23T04:19:00.803Z</updated>
+    <updated>2021-10-23T05:15:03.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[군인이 존중받는 군대가 되려면.....]]></title>
-        <id>https://alook.so/posts/njtoGG</id>
-        <link href="https://alook.so/posts/njtoGG"/>
-        <updated>2021-10-23T04:17:41.139Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtoGG">군인이 존중받는 군대가 되려면.....</a>]]></content>
+        <title type="html"><![CDATA[대학진학은 어떻게?]]></title>
+        <id>https://alook.so/posts/dztrDq</id>
+        <link href="https://alook.so/posts/dztrDq"/>
+        <updated>2021-10-23T05:13:36.626Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dztrDq">대학진학은 어떻게?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[과연]]></title>
-        <id>https://alook.so/posts/3wtorD</id>
-        <link href="https://alook.so/posts/3wtorD"/>
-        <updated>2021-10-23T04:17:41.143Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtorD">과연</a>]]></content>
+        <title type="html"><![CDATA[골린이, 테린이, 주린이... 그냥 '초보'라고 하면 안되나요?]]></title>
+        <id>https://alook.so/posts/J5trpn</id>
+        <link href="https://alook.so/posts/J5trpn"/>
+        <updated>2021-10-23T05:13:36.628Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5trpn">골린이, 테린이, 주린이... 그냥 '초보'라고 하면 안되나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[개인적인 카카오에 대한 생각]]></title>
-        <id>https://alook.so/posts/G1ty0X</id>
-        <link href="https://alook.so/posts/G1ty0X"/>
-        <updated>2021-10-23T04:17:41.144Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1ty0X">개인적인 카카오에 대한 생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어떻게" 해야할까요?]]></title>
-        <id>https://alook.so/posts/OEteEJ</id>
-        <link href="https://alook.so/posts/OEteEJ"/>
-        <updated>2021-10-23T04:17:41.145Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEteEJ">"어떻게" 해야할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말이 거시기]]></title>
-        <id>https://alook.so/posts/vKtWOy</id>
-        <link href="https://alook.so/posts/vKtWOy"/>
-        <updated>2021-10-23T04:17:41.147Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtWOy">말이 거시기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의자가지고 찍어버려]]></title>
-        <id>https://alook.so/posts/E7tYmY</id>
-        <link href="https://alook.so/posts/E7tYmY"/>
-        <updated>2021-10-23T04:17:41.148Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7tYmY">의자가지고 찍어버려</a>]]></content>
+        <title type="html"><![CDATA[배달 중독으로 없는 지갑에 구멍나게 생겼어요..]]></title>
+        <id>https://alook.so/posts/2xtyZ4</id>
+        <link href="https://alook.so/posts/2xtyZ4"/>
+        <updated>2021-10-23T05:13:36.630Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/2xtyZ4">배달 중독으로 없는 지갑에 구멍나게 생겼어요.. </a>]]></content>
     </entry>
 </feed>
