@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-23T18:16:58.853Z</updated>
+    <updated>2021-10-23T19:13:46.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[군인의 가치]]></title>
+        <id>https://alook.so/posts/OEte2w</id>
+        <link href="https://alook.so/posts/OEte2w"/>
+        <updated>2021-10-23T19:12:26.438Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEte2w">군인의 가치</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현재 같은 성별끼리 결혼한 사람입니다.]]></title>
+        <id>https://alook.so/posts/vKtWzB</id>
+        <link href="https://alook.so/posts/vKtWzB"/>
+        <updated>2021-10-23T19:12:26.439Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtWzB">현재 같은 성별끼리 결혼한 사람입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19는 어떻게 여성의 정신건강을 해쳤나]]></title>
+        <id>https://alook.so/posts/E7tYjp</id>
+        <link href="https://alook.so/posts/E7tYjp"/>
+        <updated>2021-10-23T19:12:26.440Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7tYjp">코로나19는 어떻게 여성의 정신건강을 해쳤나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ai 투자앱 로보어드바이저]]></title>
+        <id>https://alook.so/posts/92tJoM</id>
+        <link href="https://alook.so/posts/92tJoM"/>
+        <updated>2021-10-23T19:12:26.441Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92tJoM">ai 투자앱 로보어드바이저 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘고민]]></title>
+        <id>https://alook.so/posts/KmtXlJ</id>
+        <link href="https://alook.so/posts/KmtXlJ"/>
+        <updated>2021-10-23T19:12:26.443Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/KmtXlJ">요즘고민</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왜 애를 낳나요?]]></title>
         <id>https://alook.so/posts/mbtPlJ</id>
@@ -25,40 +60,5 @@
         <link href="https://alook.so/posts/Djtqby"/>
         <updated>2021-10-23T18:15:30.788Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtqby">아이 낳으라 낳으라더니 입덧약은 왜 비보험?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이라는 생명체]]></title>
-        <id>https://alook.so/posts/1RtOev</id>
-        <link href="https://alook.so/posts/1RtOev"/>
-        <updated>2021-10-23T18:15:30.791Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtOev">아이라는 생명체</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젠더 갈등을 줄이려면 나라가 바뀌어야 합니다.]]></title>
-        <id>https://alook.so/posts/o7tmG9</id>
-        <link href="https://alook.so/posts/o7tmG9"/>
-        <updated>2021-10-23T17:18:18.647Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7tmG9">젠더 갈등을 줄이려면 나라가 바뀌어야 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초보 부모들이 가장 하기 쉬운 실수 공유]]></title>
-        <id>https://alook.so/posts/Yyt9WM</id>
-        <link href="https://alook.so/posts/Yyt9WM"/>
-        <updated>2021-10-23T17:18:18.647Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt9WM">초보 부모들이 가장 하기 쉬운 실수 공유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대인관계, 정신질환.. 지친분들께 드리는 글]]></title>
-        <id>https://alook.so/posts/rDt83L</id>
-        <link href="https://alook.so/posts/rDt83L"/>
-        <updated>2021-10-23T17:18:18.647Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt83L">대인관계, 정신질환.. 지친분들께 드리는 글</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점점 대학 졸업장이 필요없어지는 것 같아요]]></title>
-        <id>https://alook.so/posts/E7tYbq</id>
-        <link href="https://alook.so/posts/E7tYbq"/>
-        <updated>2021-10-23T17:18:18.653Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7tYbq">점점 대학 졸업장이 필요없어지는 것 같아요</a>]]></content>
     </entry>
 </feed>
