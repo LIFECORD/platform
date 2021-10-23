@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-23T03:16:33.046Z</updated>
+    <updated>2021-10-23T04:19:00.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[우리나라 순수성]]></title>
-        <id>https://alook.so/posts/92tJbE</id>
-        <link href="https://alook.so/posts/92tJbE"/>
-        <updated>2021-10-23T03:15:00.427Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92tJbE">우리나라 순수성</a>]]></content>
+        <title type="html"><![CDATA[군인이 존중받는 군대가 되려면.....]]></title>
+        <id>https://alook.so/posts/njtoGG</id>
+        <link href="https://alook.so/posts/njtoGG"/>
+        <updated>2021-10-23T04:17:41.139Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtoGG">군인이 존중받는 군대가 되려면.....</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사이버 범죄]]></title>
-        <id>https://alook.so/posts/mbtPYm</id>
-        <link href="https://alook.so/posts/mbtPYm"/>
-        <updated>2021-10-23T03:15:00.429Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPYm">사이버 범죄</a>]]></content>
+        <title type="html"><![CDATA[과연]]></title>
+        <id>https://alook.so/posts/3wtorD</id>
+        <link href="https://alook.so/posts/3wtorD"/>
+        <updated>2021-10-23T04:17:41.143Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtorD">과연</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차 뒷쪽에 붙이는 스티커로 기분나쁘게 하기]]></title>
-        <id>https://alook.so/posts/1RtOZb</id>
-        <link href="https://alook.so/posts/1RtOZb"/>
-        <updated>2021-10-23T03:15:00.431Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtOZb">차 뒷쪽에 붙이는 스티커로 기분나쁘게 하기</a>]]></content>
+        <title type="html"><![CDATA[개인적인 카카오에 대한 생각]]></title>
+        <id>https://alook.so/posts/G1ty0X</id>
+        <link href="https://alook.so/posts/G1ty0X"/>
+        <updated>2021-10-23T04:17:41.144Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1ty0X">개인적인 카카오에 대한 생각</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대표님께 건의드릴 수 있는 기회를 살려서..]]></title>
-        <id>https://alook.so/posts/o7tmVj</id>
-        <link href="https://alook.so/posts/o7tmVj"/>
-        <updated>2021-10-23T03:15:00.433Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/o7tmVj">대표님께 건의드릴 수 있는 기회를 살려서..</a>]]></content>
+        <title type="html"><![CDATA["어떻게" 해야할까요?]]></title>
+        <id>https://alook.so/posts/OEteEJ</id>
+        <link href="https://alook.so/posts/OEteEJ"/>
+        <updated>2021-10-23T04:17:41.145Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/OEteEJ">"어떻게" 해야할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[말이 거시기]]></title>
+        <id>https://alook.so/posts/vKtWOy</id>
+        <link href="https://alook.so/posts/vKtWOy"/>
+        <updated>2021-10-23T04:17:41.147Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtWOy">말이 거시기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[의자가지고 찍어버려]]></title>
+        <id>https://alook.so/posts/E7tYmY</id>
+        <link href="https://alook.so/posts/E7tYmY"/>
+        <updated>2021-10-23T04:17:41.148Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/E7tYmY">의자가지고 찍어버려</a>]]></content>
     </entry>
 </feed>
