@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-23T10:16:10.528Z</updated>
+    <updated>2021-10-23T11:13:14.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[해고를 원합니다.]]></title>
-        <id>https://alook.so/posts/latlVx</id>
-        <link href="https://alook.so/posts/latlVx"/>
-        <updated>2021-10-23T10:14:46.931Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/latlVx">해고를 원합니다.</a>]]></content>
+        <title type="html"><![CDATA[돈과 행복은 비례할까?]]></title>
+        <id>https://alook.so/posts/potK9z</id>
+        <link href="https://alook.so/posts/potK9z"/>
+        <updated>2021-10-23T11:11:49.256Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/potK9z">돈과 행복은 비례할까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신의 자녀에게 투자를 시켜보세요]]></title>
-        <id>https://alook.so/posts/92tJWk</id>
-        <link href="https://alook.so/posts/92tJWk"/>
-        <updated>2021-10-23T10:14:46.933Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92tJWk">당신의 자녀에게 투자를 시켜보세요</a>]]></content>
+        <title type="html"><![CDATA[남편으로서 대선 주자들.]]></title>
+        <id>https://alook.so/posts/2xtyBn</id>
+        <link href="https://alook.so/posts/2xtyBn"/>
+        <updated>2021-10-23T11:11:49.258Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/2xtyBn">남편으로서 대선 주자들.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금천구 약품 누출 사고]]></title>
-        <id>https://alook.so/posts/mbtPkb</id>
-        <link href="https://alook.so/posts/mbtPkb"/>
-        <updated>2021-10-23T10:14:46.934Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPkb">금천구 약품 누출 사고</a>]]></content>
+        <title type="html"><![CDATA[기업은 돈밖에 관심이 없다]]></title>
+        <id>https://alook.so/posts/0ktdr1</id>
+        <link href="https://alook.so/posts/0ktdr1"/>
+        <updated>2021-10-23T11:11:49.259Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdr1">기업은 돈밖에 관심이 없다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홍준표 화이팅 !!]]></title>
-        <id>https://alook.so/posts/54tzdq</id>
-        <link href="https://alook.so/posts/54tzdq"/>
-        <updated>2021-10-23T10:14:46.935Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tzdq">홍준표 화이팅 !!</a>]]></content>
+        <title type="html"><![CDATA[[우리나라의 하루] 6. 한 반의 학생수가 줄어들고 있어요]]></title>
+        <id>https://alook.so/posts/w9tb6L</id>
+        <link href="https://alook.so/posts/w9tb6L"/>
+        <updated>2021-10-23T11:11:49.261Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/w9tb6L">[우리나라의 하루] 6. 한 반의 학생수가 줄어들고 있어요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[레버레지가 당신의 인생을 바꾼다.(2편)]]></title>
-        <id>https://alook.so/posts/q1tr17</id>
-        <link href="https://alook.so/posts/q1tr17"/>
-        <updated>2021-10-23T10:14:46.937Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1tr17">레버레지가 당신의 인생을 바꾼다.(2편)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년은 대학생 뿐일까?]]></title>
-        <id>https://alook.so/posts/Djtq2B</id>
-        <link href="https://alook.so/posts/Djtq2B"/>
-        <updated>2021-10-23T10:14:46.938Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtq2B">청년은 대학생 뿐일까?</a>]]></content>
+        <title type="html"><![CDATA[국회의원 숫자는 줄여야 합니다]]></title>
+        <id>https://alook.so/posts/RGtMBp</id>
+        <link href="https://alook.so/posts/RGtMBp"/>
+        <updated>2021-10-23T11:11:49.263Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtMBp">국회의원 숫자는 줄여야 합니다</a>]]></content>
     </entry>
 </feed>
