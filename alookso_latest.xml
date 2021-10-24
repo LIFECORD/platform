@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-24T16:21:52.217Z</updated>
+    <updated>2021-10-24T17:19:12.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[시간은 당신에게 무슨 의미인가요?]]></title>
-        <id>https://alook.so/posts/zvtYr2</id>
-        <link href="https://alook.so/posts/zvtYr2"/>
-        <updated>2021-10-24T16:20:22.169Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/zvtYr2">시간은 당신에게 무슨 의미인가요?</a>]]></content>
+        <title type="html"><![CDATA[학교공부만 하는게 맞는지 점점 중심을 잃어가고 있어요.]]></title>
+        <id>https://alook.so/posts/Yyt9zo</id>
+        <link href="https://alook.so/posts/Yyt9zo"/>
+        <updated>2021-10-24T17:17:42.106Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt9zo">학교공부만 하는게 맞는지 점점 중심을 잃어가고 있어요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[케이팝이 먹히는 이유]]></title>
-        <id>https://alook.so/posts/2xtydd</id>
-        <link href="https://alook.so/posts/2xtydd"/>
-        <updated>2021-10-24T16:20:22.170Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/2xtydd">케이팝이 먹히는 이유 </a>]]></content>
+        <title type="html"><![CDATA[돈만 추구하는 투자는 행복이 아닙니다.]]></title>
+        <id>https://alook.so/posts/rDt8oK</id>
+        <link href="https://alook.so/posts/rDt8oK"/>
+        <updated>2021-10-24T17:17:42.108Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt8oK">돈만 추구하는 투자는 행복이 아닙니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[메타버스의 기원과 사이키델릭]]></title>
-        <id>https://alook.so/posts/WLtOoL</id>
-        <link href="https://alook.so/posts/WLtOoL"/>
-        <updated>2021-10-24T16:20:22.172Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLtOoL">메타버스의 기원과 사이키델릭</a>]]></content>
+        <title type="html"><![CDATA[당신의 하루를 100만원에 파시겠습니까?]]></title>
+        <id>https://alook.so/posts/jdt9zR</id>
+        <link href="https://alook.so/posts/jdt9zR"/>
+        <updated>2021-10-24T17:17:42.109Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt9zR">당신의 하루를 100만원에 파시겠습니까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주 4일제 가능하다!! 언제부터가 문제]]></title>
-        <id>https://alook.so/posts/0ktdzP</id>
-        <link href="https://alook.so/posts/0ktdzP"/>
-        <updated>2021-10-24T16:20:22.174Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdzP">주 4일제 가능하다!! 언제부터가 문제</a>]]></content>
+        <title type="html"><![CDATA[빛이 되는 문(바람이 부니 살아야겠다-폴발레르)]]></title>
+        <id>https://alook.so/posts/bWtpW4</id>
+        <link href="https://alook.so/posts/bWtpW4"/>
+        <updated>2021-10-24T17:17:42.110Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtpW4">빛이 되는 문(바람이 부니 살아야겠다-폴발레르)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나의 딸이 ( 혹은 아이가 ) 공부를 안하려 할 때 대처법은?]]></title>
-        <id>https://alook.so/posts/4XtmnK</id>
-        <link href="https://alook.so/posts/4XtmnK"/>
-        <updated>2021-10-24T16:20:22.175Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtmnK">나의 딸이 ( 혹은 아이가 ) 공부를 안하려 할 때 대처법은?</a>]]></content>
+        <title type="html"><![CDATA[내가 못나도 사랑만 줄 때]]></title>
+        <id>https://alook.so/posts/Zktm2j</id>
+        <link href="https://alook.so/posts/Zktm2j"/>
+        <updated>2021-10-24T17:17:42.111Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Zktm2j">내가 못나도 사랑만 줄 때</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손실을 보고 난 후..]]></title>
+        <id>https://alook.so/posts/dztryM</id>
+        <link href="https://alook.so/posts/dztryM"/>
+        <updated>2021-10-24T17:17:42.113Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dztryM">손실을 보고 난 후..</a>]]></content>
     </entry>
 </feed>
