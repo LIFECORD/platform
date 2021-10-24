@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-10-24T20:15:06.626Z</updated>
+    <updated>2021-10-24T21:14:36.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[중심을 확장하기 (FIGK)]]></title>
@@ -847,6 +847,13 @@
         <content type="html"><![CDATA[차우진]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가족이라고해서 모든것을 이해야하는것은 아니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/G1tyPV</id>
+        <link href="https://alook.so/posts/G1tyPV"/>
+        <updated>2021-10-24T21:13:13.333Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1tyPV">가족이라고해서 모든것을 이해야하는것은 아니다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[핸드폰 없이 살아보기...해보셨나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/E7tY6G</id>
         <link href="https://alook.so/posts/E7tY6G"/>
@@ -868,11 +875,46 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tzvw">한국10대의 하루는 감옥의 죄수의 하루다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[마음도 방역이 필요해  - 코로나19와 정신건강 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/3wtoDl</id>
+        <link href="https://alook.so/posts/3wtoDl"/>
+        <updated>2021-10-23T08:16:26.509Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtoDl">마음도 방역이 필요해  - 코로나19와 정신건강</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이게 진짜 저의 모습일까요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/w9tb8L</id>
+        <link href="https://alook.so/posts/w9tb8L"/>
+        <updated>2021-10-23T12:21:09.934Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/w9tb8L">이게 진짜 저의 모습일까요</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[로또 1등 종이 가지실래요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/0ktdE9</id>
         <link href="https://alook.so/posts/0ktdE9"/>
         <updated>2021-10-24T10:15:05.924Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdE9">로또 1등 종이 가지실래요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청년은 대학생 뿐일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Djtq2B</id>
+        <link href="https://alook.so/posts/Djtq2B"/>
+        <updated>2021-10-23T15:15:21.870Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtq2B">청년은 대학생 뿐일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["밥" 당신에겐 어떤 의미인가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/XBtGjV</id>
+        <link href="https://alook.so/posts/XBtGjV"/>
+        <updated>2021-10-24T16:20:31.523Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBtGjV">"밥" 당신에겐 어떤 의미인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제 8년 남은 시간! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/rDt8xL</id>
+        <link href="https://alook.so/posts/rDt8xL"/>
+        <updated>2021-10-24T12:21:21.871Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt8xL">이제 8년 남은 시간!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[정신질환에 대한 우리의 쉬운 혐오, 그를 이용하는 사람들 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -889,18 +931,25 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtP6o">여전히 배고픈 아이들이 있다 (feat. 어른들의 무관심)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["아이 가졌으면 좋겠다"는 남에게 할 말이 아니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/q1trEX</id>
+        <link href="https://alook.so/posts/q1trEX"/>
+        <updated>2021-10-23T09:13:50.251Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1trEX">"아이 가졌으면 좋겠다"는 남에게 할 말이 아니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["어린 내가 투자를 하며 느낀 것" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/92tJWk</id>
+        <link href="https://alook.so/posts/92tJWk"/>
+        <updated>2021-10-23T13:18:41.590Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92tJWk">"어린 내가 투자를 하며 느낀 것"</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[유튜브를 장시간 보는 자녀.....ㅠㅠ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/xltn5x</id>
         <link href="https://alook.so/posts/xltn5x"/>
         <updated>2021-10-24T15:14:14.376Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/xltn5x">유튜브를 장시간 보는 자녀.....ㅠㅠ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음도 방역이 필요해  - 코로나19와 정신건강 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/3wtoDl</id>
-        <link href="https://alook.so/posts/3wtoDl"/>
-        <updated>2021-10-23T08:16:26.509Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtoDl">마음도 방역이 필요해  - 코로나19와 정신건강</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[힘들 때 듣고 싶은 말은 무엇인가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -915,48 +964,6 @@
         <link href="https://alook.so/posts/4Xtmd4"/>
         <updated>2021-10-24T07:13:48.385Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtmd4">주말 아침 산책으로...시작 합시다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년은 대학생 뿐일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Djtq2B</id>
-        <link href="https://alook.so/posts/Djtq2B"/>
-        <updated>2021-10-23T15:15:21.870Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtq2B">청년은 대학생 뿐일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이게 진짜 저의 모습일까요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/w9tb8L</id>
-        <link href="https://alook.so/posts/w9tb8L"/>
-        <updated>2021-10-23T12:21:09.934Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/w9tb8L">이게 진짜 저의 모습일까요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아이 가졌으면 좋겠다"는 남에게 할 말이 아니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/q1trEX</id>
-        <link href="https://alook.so/posts/q1trEX"/>
-        <updated>2021-10-23T09:13:50.251Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1trEX">"아이 가졌으면 좋겠다"는 남에게 할 말이 아니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 8년 남은 시간! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/rDt8xL</id>
-        <link href="https://alook.so/posts/rDt8xL"/>
-        <updated>2021-10-24T12:21:21.871Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt8xL">이제 8년 남은 시간!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["밥" 당신에겐 어떤 의미인가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/XBtGjV</id>
-        <link href="https://alook.so/posts/XBtGjV"/>
-        <updated>2021-10-24T16:20:31.523Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBtGjV">"밥" 당신에겐 어떤 의미인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["어린 내가 투자를 하며 느낀 것" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/92tJWk</id>
-        <link href="https://alook.so/posts/92tJWk"/>
-        <updated>2021-10-23T13:18:41.590Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92tJWk">"어린 내가 투자를 하며 느낀 것"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[골린이, 테린이, 주린이... 그냥 '초보'라고 하면 안되나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
