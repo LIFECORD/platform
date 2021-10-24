@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-24T04:20:32.579Z</updated>
+    <updated>2021-10-24T05:15:43.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[초등학생도 돈 벌 수 있는 앱]]></title>
-        <id>https://alook.so/posts/njto34</id>
-        <link href="https://alook.so/posts/njto34"/>
-        <updated>2021-10-24T04:19:05.488Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njto34"> 초등학생도 돈 벌 수 있는 앱</a>]]></content>
+        <title type="html"><![CDATA[로또 1등 종이 가지실래요?]]></title>
+        <id>https://alook.so/posts/0ktdE9</id>
+        <link href="https://alook.so/posts/0ktdE9"/>
+        <updated>2021-10-24T05:14:23.422Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdE9">로또 1등 종이 가지실래요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[죽음 앞에 선 인간 2 - 공포 관리]]></title>
-        <id>https://alook.so/posts/vKtWX9</id>
-        <link href="https://alook.so/posts/vKtWX9"/>
-        <updated>2021-10-24T04:19:05.491Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtWX9">죽음 앞에 선 인간 2 - 공포 관리</a>]]></content>
+        <title type="html"><![CDATA[MZ세대는 공정과 명품을 좋아한다고? 정말?]]></title>
+        <id>https://alook.so/posts/M9t0ay</id>
+        <link href="https://alook.so/posts/M9t0ay"/>
+        <updated>2021-10-24T05:14:23.427Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t0ay">MZ세대는 공정과 명품을 좋아한다고? 정말?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[개인적으로 꽤 코로나 블루를 체감중입니다.]]></title>
-        <id>https://alook.so/posts/latlX8</id>
-        <link href="https://alook.so/posts/latlX8"/>
-        <updated>2021-10-24T04:19:05.492Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/latlX8">개인적으로 꽤 코로나 블루를 체감중입니다.</a>]]></content>
+        <title type="html"><![CDATA[전 뭘 해야하는 걸까요?]]></title>
+        <id>https://alook.so/posts/4XtmLp</id>
+        <link href="https://alook.so/posts/4XtmLp"/>
+        <updated>2021-10-24T05:14:23.427Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtmLp">전 뭘 해야하는 걸까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돈에 대해 고민이다]]></title>
-        <id>https://alook.so/posts/92tJ2b</id>
-        <link href="https://alook.so/posts/92tJ2b"/>
-        <updated>2021-10-24T04:19:05.493Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92tJ2b">돈에 대해 고민이다</a>]]></content>
+        <title type="html"><![CDATA[선택이라 다행인 걸까요?]]></title>
+        <id>https://alook.so/posts/XBtGwr</id>
+        <link href="https://alook.so/posts/XBtGwr"/>
+        <updated>2021-10-24T05:14:23.429Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBtGwr">선택이라 다행인 걸까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힘들 때 듣고 싶은 말은 무엇인가요?]]></title>
+        <id>https://alook.so/posts/Batkx1</id>
+        <link href="https://alook.so/posts/Batkx1"/>
+        <updated>2021-10-24T05:14:23.430Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batkx1">힘들 때 듣고 싶은 말은 무엇인가요? </a>]]></content>
     </entry>
 </feed>
