@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-24T05:15:43.626Z</updated>
+    <updated>2021-10-24T06:17:36.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[로또 1등 종이 가지실래요?]]></title>
-        <id>https://alook.so/posts/0ktdE9</id>
-        <link href="https://alook.so/posts/0ktdE9"/>
-        <updated>2021-10-24T05:14:23.422Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdE9">로또 1등 종이 가지실래요?</a>]]></content>
+        <title type="html"><![CDATA[북한은 남한을 어떻게 생각하고 있을까?]]></title>
+        <id>https://alook.so/posts/rDt8mv</id>
+        <link href="https://alook.so/posts/rDt8mv"/>
+        <updated>2021-10-24T06:16:17.115Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt8mv">북한은 남한을 어떻게 생각하고 있을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MZ세대는 공정과 명품을 좋아한다고? 정말?]]></title>
-        <id>https://alook.so/posts/M9t0ay</id>
-        <link href="https://alook.so/posts/M9t0ay"/>
-        <updated>2021-10-24T05:14:23.427Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t0ay">MZ세대는 공정과 명품을 좋아한다고? 정말?</a>]]></content>
+        <title type="html"><![CDATA[제가 글을 쓰는 이유.]]></title>
+        <id>https://alook.so/posts/jdt9pK</id>
+        <link href="https://alook.so/posts/jdt9pK"/>
+        <updated>2021-10-24T06:16:17.116Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/jdt9pK">제가 글을 쓰는 이유.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전 뭘 해야하는 걸까요?]]></title>
-        <id>https://alook.so/posts/4XtmLp</id>
-        <link href="https://alook.so/posts/4XtmLp"/>
-        <updated>2021-10-24T05:14:23.427Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtmLp">전 뭘 해야하는 걸까요?</a>]]></content>
+        <title type="html"><![CDATA[위드코로나]]></title>
+        <id>https://alook.so/posts/a0talB</id>
+        <link href="https://alook.so/posts/a0talB"/>
+        <updated>2021-10-24T06:16:17.117Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0talB">위드코로나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선택이라 다행인 걸까요?]]></title>
-        <id>https://alook.so/posts/XBtGwr</id>
-        <link href="https://alook.so/posts/XBtGwr"/>
-        <updated>2021-10-24T05:14:23.429Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBtGwr">선택이라 다행인 걸까요?</a>]]></content>
+        <title type="html"><![CDATA[국회의원 줄여야합니다]]></title>
+        <id>https://alook.so/posts/dztrWn</id>
+        <link href="https://alook.so/posts/dztrWn"/>
+        <updated>2021-10-24T06:16:17.118Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dztrWn">국회의원 줄여야합니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[힘들 때 듣고 싶은 말은 무엇인가요?]]></title>
-        <id>https://alook.so/posts/Batkx1</id>
-        <link href="https://alook.so/posts/Batkx1"/>
-        <updated>2021-10-24T05:14:23.430Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batkx1">힘들 때 듣고 싶은 말은 무엇인가요? </a>]]></content>
+        <title type="html"><![CDATA[같은 성별끼리 결혼? 저는 이렇게 생각합니다.]]></title>
+        <id>https://alook.so/posts/J5trZz</id>
+        <link href="https://alook.so/posts/J5trZz"/>
+        <updated>2021-10-24T06:16:17.119Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5trZz">같은 성별끼리 결혼? 저는 이렇게 생각합니다.</a>]]></content>
     </entry>
 </feed>
