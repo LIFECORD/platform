@@ -2,42 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-24T12:22:44.315Z</updated>
+    <updated>2021-10-24T13:19:34.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[일단 차악이라도 올려놓고, 문제가 커지면 끌어내릴려고요.]]></title>
-        <id>https://alook.so/posts/0ktdPD</id>
-        <link href="https://alook.so/posts/0ktdPD"/>
-        <updated>2021-10-24T12:21:11.942Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdPD">일단 차악이라도 올려놓고, 문제가 커지면 끌어내릴려고요.</a>]]></content>
+        <title type="html"><![CDATA[계속해 불행하지 않을 10대를 소망하면서..]]></title>
+        <id>https://alook.so/posts/0ktdbD</id>
+        <link href="https://alook.so/posts/0ktdbD"/>
+        <updated>2021-10-24T13:18:13.442Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdbD">계속해 불행하지 않을 10대를 소망하면서.. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["밥" 당신에겐 어떤 의미인가요?]]></title>
-        <id>https://alook.so/posts/XBtGjV</id>
-        <link href="https://alook.so/posts/XBtGjV"/>
-        <updated>2021-10-24T12:21:11.943Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBtGjV">"밥" 당신에겐 어떤 의미인가요?</a>]]></content>
+        <title type="html"><![CDATA[자본주의는 자본이 지배하는 세상이기에]]></title>
+        <id>https://alook.so/posts/4XtmjW</id>
+        <link href="https://alook.so/posts/4XtmjW"/>
+        <updated>2021-10-24T13:18:13.444Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtmjW">자본주의는 자본이 지배하는 세상이기에</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남 얘기를 하지 말고, 내 얘기를 하자]]></title>
-        <id>https://alook.so/posts/yEtaDa</id>
-        <link href="https://alook.so/posts/yEtaDa"/>
-        <updated>2021-10-24T12:21:11.944Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtaDa">남 얘기를 하지 말고, 내 얘기를 하자</a>]]></content>
+        <title type="html"><![CDATA[집이 없는 서러움을 느껴 보았습니다.]]></title>
+        <id>https://alook.so/posts/RGtM6V</id>
+        <link href="https://alook.so/posts/RGtM6V"/>
+        <updated>2021-10-24T13:18:13.446Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtM6V">집이 없는 서러움을 느껴 보았습니다. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 공무원이 인기인 줄 아시나요?]]></title>
-        <id>https://alook.so/posts/Batkzq</id>
-        <link href="https://alook.so/posts/Batkzq"/>
-        <updated>2021-10-24T12:21:11.946Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batkzq">왜 공무원이 인기인 줄 아시나요?</a>]]></content>
+        <title type="html"><![CDATA[일주일에 4일만 일하면 어떨까요?]]></title>
+        <id>https://alook.so/posts/kZtOxv</id>
+        <link href="https://alook.so/posts/kZtOxv"/>
+        <updated>2021-10-24T13:18:13.450Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/kZtOxv">일주일에 4일만 일하면 어떨까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요즘 날씨에는 역시 산책이 최고지요]]></title>
-        <id>https://alook.so/posts/njtoD1</id>
-        <link href="https://alook.so/posts/njtoD1"/>
-        <updated>2021-10-24T12:21:11.948Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtoD1">요즘 날씨에는 역시 산책이 최고지요 </a>]]></content>
+        <title type="html"><![CDATA[개인이 현실적으로 할 수 있는 일이 뭐가 있을까요?]]></title>
+        <id>https://alook.so/posts/yEtaea</id>
+        <link href="https://alook.so/posts/yEtaea"/>
+        <updated>2021-10-24T13:18:13.451Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtaea">개인이 현실적으로 할 수 있는 일이 뭐가 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청혼을 결심했다]]></title>
+        <id>https://alook.so/posts/LKtK0y</id>
+        <link href="https://alook.so/posts/LKtK0y"/>
+        <updated>2021-10-24T13:18:13.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtK0y">청혼을 결심했다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간의 외로움에 대하여]]></title>
+        <id>https://alook.so/posts/njtoj1</id>
+        <link href="https://alook.so/posts/njtoj1"/>
+        <updated>2021-10-24T13:18:13.453Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/njtoj1">인간의 외로움에 대하여</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 블로그 하는 재미에 꽂혔어요]]></title>
+        <id>https://alook.so/posts/6MtmZY</id>
+        <link href="https://alook.so/posts/6MtmZY"/>
+        <updated>2021-10-24T13:18:13.454Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6MtmZY">요즘 블로그 하는 재미에 꽂혔어요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여성, 남성간의 젠더 문제 해결 방법이 있을까?]]></title>
+        <id>https://alook.so/posts/3wto9b</id>
+        <link href="https://alook.so/posts/3wto9b"/>
+        <updated>2021-10-24T13:18:13.455Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wto9b">여성, 남성간의 젠더 문제 해결 방법이 있을까?</a>]]></content>
     </entry>
 </feed>
