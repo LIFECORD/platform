@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-23T23:16:36.316Z</updated>
+    <updated>2021-10-24T00:48:01.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[우리 엄마]]></title>
-        <id>https://alook.so/posts/WLtOBB</id>
-        <link href="https://alook.so/posts/WLtOBB"/>
-        <updated>2021-10-23T23:15:07.889Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/WLtOBB">우리 엄마</a>]]></content>
+        <title type="html"><![CDATA[가을 외출시..]]></title>
+        <id>https://alook.so/posts/Yyt9yM</id>
+        <link href="https://alook.so/posts/Yyt9yM"/>
+        <updated>2021-10-24T00:46:40.483Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt9yM">가을 외출시..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가려진 정보를 통해서 개인의 사익을 도모하는 자]]></title>
-        <id>https://alook.so/posts/M9t0Kw</id>
-        <link href="https://alook.so/posts/M9t0Kw"/>
-        <updated>2021-10-23T23:15:07.891Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t0Kw">가려진 정보를 통해서 개인의 사익을 도모하는 자</a>]]></content>
+        <title type="html"><![CDATA[그런데 팬덤 이대로 괜찮나요?]]></title>
+        <id>https://alook.so/posts/Zktmz2</id>
+        <link href="https://alook.so/posts/Zktmz2"/>
+        <updated>2021-10-24T00:46:40.484Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Zktmz2">그런데 팬덤 이대로 괜찮나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주말 아침 산책으로...시작 합시다.]]></title>
-        <id>https://alook.so/posts/4Xtmd4</id>
-        <link href="https://alook.so/posts/4Xtmd4"/>
-        <updated>2021-10-23T23:15:07.893Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtmd4">주말 아침 산책으로...시작 합시다.</a>]]></content>
+        <title type="html"><![CDATA[그들의 심중에 어떤 망설임이 있을까, 헤아려보는 마음]]></title>
+        <id>https://alook.so/posts/dztr5E</id>
+        <link href="https://alook.so/posts/dztr5E"/>
+        <updated>2021-10-24T00:46:40.486Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dztr5E">그들의 심중에 어떤 망설임이 있을까, 헤아려보는 마음</a>]]></content>
     </entry>
 </feed>
