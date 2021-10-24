@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-24T02:01:19.646Z</updated>
+    <updated>2021-10-24T02:34:30.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이제 8년 남은 시간!]]></title>
+        <id>https://alook.so/posts/rDt8xL</id>
+        <link href="https://alook.so/posts/rDt8xL"/>
+        <updated>2021-10-24T02:33:05.699Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt8xL">이제 8년 남은 시간!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방송 심의라는 직무 추천 or 비추천?]]></title>
+        <id>https://alook.so/posts/bWtp5G</id>
+        <link href="https://alook.so/posts/bWtp5G"/>
+        <updated>2021-10-24T02:33:05.700Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/bWtp5G">방송 심의라는 직무 추천 or 비추천? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 꽂힌 k드라마]]></title>
+        <id>https://alook.so/posts/a0taOk</id>
+        <link href="https://alook.so/posts/a0taOk"/>
+        <updated>2021-10-24T02:33:05.701Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/a0taOk">요즘 꽂힌 k드라마</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그렇게 생각 하시면 안되요^^]]></title>
         <id>https://alook.so/posts/Zktmk2</id>
