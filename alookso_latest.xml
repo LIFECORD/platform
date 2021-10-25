@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-25T07:15:55.557Z</updated>
+    <updated>2021-10-25T08:18:42.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼룩소 👍]]></title>
-        <id>https://alook.so/posts/KmtXLE</id>
-        <link href="https://alook.so/posts/KmtXLE"/>
-        <updated>2021-10-25T07:14:33.721Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/KmtXLE">얼룩소 👍</a>]]></content>
+        <title type="html"><![CDATA[같은 성별끼리 결혼해도 될까요?]]></title>
+        <id>https://alook.so/posts/Pvtw67</id>
+        <link href="https://alook.so/posts/Pvtw67"/>
+        <updated>2021-10-25T08:17:20.038Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtw67">같은 성별끼리 결혼해도 될까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KT전국 인터넷망 먹통 디도스공격]]></title>
-        <id>https://alook.so/posts/mbtPRa</id>
-        <link href="https://alook.so/posts/mbtPRa"/>
-        <updated>2021-10-25T07:14:33.723Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPRa">KT전국 인터넷망 먹통 디도스공격</a>]]></content>
+        <title type="html"><![CDATA[답글: 밥은 '오늘'이 아닌 '내일'을 생각할 수 있게 해주는 힘]]></title>
+        <id>https://alook.so/posts/Vntj36</id>
+        <link href="https://alook.so/posts/Vntj36"/>
+        <updated>2021-10-25T08:17:20.039Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Vntj36">답글: 밥은 '오늘'이 아닌 '내일'을 생각할 수 있게 해주는 힘</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[텀블러를 들고 다니는 이유]]></title>
-        <id>https://alook.so/posts/q1trmD</id>
-        <link href="https://alook.so/posts/q1trmD"/>
-        <updated>2021-10-25T07:14:33.724Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1trmD">텀블러를 들고 다니는 이유</a>]]></content>
+        <title type="html"><![CDATA[결혼은 꼭 해야하는것인가?]]></title>
+        <id>https://alook.so/posts/0ktdGZ</id>
+        <link href="https://alook.so/posts/0ktdGZ"/>
+        <updated>2021-10-25T08:17:20.041Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdGZ">결혼은 꼭 해야하는것인가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10월 25일은 독도의 날]]></title>
-        <id>https://alook.so/posts/Djtqv8</id>
-        <link href="https://alook.so/posts/Djtqv8"/>
-        <updated>2021-10-25T07:14:33.726Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtqv8">10월 25일은 독도의 날 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[간호사 비추인가 추천인가]]></title>
-        <id>https://alook.so/posts/70tDjx</id>
-        <link href="https://alook.so/posts/70tDjx"/>
-        <updated>2021-10-25T07:14:33.727Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tDjx">간호사 비추인가 추천인가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직업연기자, 김선호에게는 없고 오영수에게는 있는 것은?!]]></title>
-        <id>https://alook.so/posts/rDt8Vm</id>
-        <link href="https://alook.so/posts/rDt8Vm"/>
-        <updated>2021-10-25T07:14:33.729Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt8Vm">직업연기자, 김선호에게는 없고 오영수에게는 있는 것은?!</a>]]></content>
+        <title type="html"><![CDATA[운동(줄넘기)]]></title>
+        <id>https://alook.so/posts/4XtmRz</id>
+        <link href="https://alook.so/posts/4XtmRz"/>
+        <updated>2021-10-25T08:17:20.042Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtmRz">운동(줄넘기)</a>]]></content>
     </entry>
 </feed>
