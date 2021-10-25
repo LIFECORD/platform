@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-25T11:14:33.823Z</updated>
+    <updated>2021-10-25T12:23:37.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[‘비마이너’를 소개합니다.]]></title>
-        <id>https://alook.so/posts/mbtPo2</id>
-        <link href="https://alook.so/posts/mbtPo2"/>
-        <updated>2021-10-25T11:13:15.773Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPo2">‘비마이너’를 소개합니다. </a>]]></content>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://alook.so/discover/latest</id>
+        <link href="https://alook.so/discover/latest"/>
+        <updated>2021-10-25T12:22:18.221Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtOWJ">"AI가 미래를 만든다?"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자취후 저희 어머니 덕에 힘들긴 하지만 돈은 아낄 수 있더라구요~]]></title>
-        <id>https://alook.so/posts/54tzL7</id>
-        <link href="https://alook.so/posts/54tzL7"/>
-        <updated>2021-10-25T11:13:15.775Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tzL7">자취후 저희 어머니 덕에 힘들긴 하지만 돈은 아낄 수 있더라구요~</a>]]></content>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://alook.so/discover/latest</id>
+        <link href="https://alook.so/discover/latest"/>
+        <updated>2021-10-25T12:22:18.223Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntj8r">마음 속 '작은 빛'이 되어주셔서 감사합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[너무 높은 진입장벽과 직면해야하는 현실들]]></title>
-        <id>https://alook.so/posts/q1trBw</id>
-        <link href="https://alook.so/posts/q1trBw"/>
-        <updated>2021-10-25T11:13:15.776Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1trBw">너무 높은 진입장벽과 직면해야하는 현실들</a>]]></content>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://alook.so/discover/latest</id>
+        <link href="https://alook.so/discover/latest"/>
+        <updated>2021-10-25T12:22:18.225Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtyJP">이것은 정답이 정해져 있습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민은 나라의 주인.]]></title>
-        <id>https://alook.so/posts/1RtOlj</id>
-        <link href="https://alook.so/posts/1RtOlj"/>
-        <updated>2021-10-25T11:13:15.793Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/1RtOlj">국민은 나라의 주인.</a>]]></content>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://alook.so/discover/latest</id>
+        <link href="https://alook.so/discover/latest"/>
+        <updated>2021-10-25T12:22:18.226Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t0rd">나는 기술 발전이 무섭다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10주간의 시험 프로젝트 이후 다른 방법으로 이어지는 거로 압니다.]]></title>
-        <id>https://alook.so/posts/70tDrP</id>
-        <link href="https://alook.so/posts/70tDrP"/>
-        <updated>2021-10-25T11:13:15.793Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tDrP">10주간의 시험 프로젝트 이후 다른 방법으로 이어지는 거로 압니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아랍어는 오른쪽에서 왼쪽으로 씁니다.]]></title>
-        <id>https://alook.so/posts/rDt822</id>
-        <link href="https://alook.so/posts/rDt822"/>
-        <updated>2021-10-25T11:13:15.795Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt822">아랍어는 오른쪽에서 왼쪽으로 씁니다.</a>]]></content>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://alook.so/discover/latest</id>
+        <link href="https://alook.so/discover/latest"/>
+        <updated>2021-10-25T12:22:18.228Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtGq1">내 집, 불가능한 유토피아일까?</a>]]></content>
     </entry>
 </feed>
