@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/bA6tp1</id>
     <title>alookso ─ 데이터카우</title>
-    <updated>2021-10-25T08:18:42.651Z</updated>
+    <updated>2021-10-25T09:16:16.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🧐한국의 '젊은 인플루언서' 100명을 꼽아본다면?]]></title>
+        <id>https://alook.so/posts/q1trqD</id>
+        <link href="https://alook.so/posts/q1trqD"/>
+        <updated>2021-10-25T09:16:16.115Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1trqD">🧐한국의 '젊은 인플루언서' 100명을 꼽아본다면?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧐 회장님을 사면하면 정말 경제가 살아날까요?]]></title>
         <id>https://alook.so/posts/a0taa3</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/dztXoE"/>
         <updated>2021-10-18T08:20:10.461Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dztXoE">&lt;datalook - 데이터 좀 볼까요?&gt; 토픽의 몇 가지 규칙들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 내 나이 00살, 어떻게들 살고 계신가요?]]></title>
-        <id>https://alook.so/posts/yEt18l</id>
-        <link href="https://alook.so/posts/yEt18l"/>
-        <updated>2021-10-18T08:20:10.465Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEt18l">🧐 내 나이 00살, 어떻게들 살고 계신가요?</a>]]></content>
     </entry>
 </feed>

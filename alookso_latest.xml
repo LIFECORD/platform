@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-25T08:18:42.653Z</updated>
+    <updated>2021-10-25T09:16:16.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[같은 성별끼리 결혼해도 될까요?]]></title>
-        <id>https://alook.so/posts/Pvtw67</id>
-        <link href="https://alook.so/posts/Pvtw67"/>
-        <updated>2021-10-25T08:17:20.038Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtw67">같은 성별끼리 결혼해도 될까요?</a>]]></content>
+        <title type="html"><![CDATA[28살 헤어디자이너의 일을 하며 느끼는 점]]></title>
+        <id>https://alook.so/posts/Yyt9e4</id>
+        <link href="https://alook.so/posts/Yyt9e4"/>
+        <updated>2021-10-25T09:14:45.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt9e4">28살 헤어디자이너의 일을 하며 느끼는 점</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 밥은 '오늘'이 아닌 '내일'을 생각할 수 있게 해주는 힘]]></title>
-        <id>https://alook.so/posts/Vntj36</id>
-        <link href="https://alook.so/posts/Vntj36"/>
-        <updated>2021-10-25T08:17:20.039Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Vntj36">답글: 밥은 '오늘'이 아닌 '내일'을 생각할 수 있게 해주는 힘</a>]]></content>
+        <title type="html"><![CDATA[MS가 오픈소스 개발자들의 요구를 수용했다.]]></title>
+        <id>https://alook.so/posts/rDt8k2</id>
+        <link href="https://alook.so/posts/rDt8k2"/>
+        <updated>2021-10-25T09:14:45.453Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt8k2">MS가 오픈소스 개발자들의 요구를 수용했다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[결혼은 꼭 해야하는것인가?]]></title>
-        <id>https://alook.so/posts/0ktdGZ</id>
-        <link href="https://alook.so/posts/0ktdGZ"/>
-        <updated>2021-10-25T08:17:20.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdGZ">결혼은 꼭 해야하는것인가?</a>]]></content>
+        <title type="html"><![CDATA[K-pop : 완성도가 높으면 누구나 만족]]></title>
+        <id>https://alook.so/posts/KmtXdE</id>
+        <link href="https://alook.so/posts/KmtXdE"/>
+        <updated>2021-10-25T09:14:45.454Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/KmtXdE">K-pop : 완성도가 높으면 누구나 만족</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[운동(줄넘기)]]></title>
-        <id>https://alook.so/posts/4XtmRz</id>
-        <link href="https://alook.so/posts/4XtmRz"/>
-        <updated>2021-10-25T08:17:20.042Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4XtmRz">운동(줄넘기)</a>]]></content>
+        <title type="html"><![CDATA[KT 인터넷 장애]]></title>
+        <id>https://alook.so/posts/54tznv</id>
+        <link href="https://alook.so/posts/54tznv"/>
+        <updated>2021-10-25T09:14:45.455Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/54tznv">KT 인터넷 장애</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧐한국의 '젊은 인플루언서' 100명을 꼽아본다면?]]></title>
+        <id>https://alook.so/posts/q1trqD</id>
+        <link href="https://alook.so/posts/q1trqD"/>
+        <updated>2021-10-25T09:14:45.456Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/q1trqD">🧐한국의 '젊은 인플루언서' 100명을 꼽아본다면?</a>]]></content>
     </entry>
 </feed>
