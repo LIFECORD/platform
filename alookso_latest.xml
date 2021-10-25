@@ -2,70 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-24T23:16:12.203Z</updated>
+    <updated>2021-10-25T00:50:18.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[추억놀이]]></title>
-        <id>https://alook.so/posts/RGtMXz</id>
-        <link href="https://alook.so/posts/RGtMXz"/>
-        <updated>2021-10-24T23:14:39.810Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtMXz">추억놀이</a>]]></content>
+        <title type="html"><![CDATA[욕심에 비례하는 주식투자의 행복]]></title>
+        <id>https://alook.so/posts/DjtqMK</id>
+        <link href="https://alook.so/posts/DjtqMK"/>
+        <updated>2021-10-25T00:48:52.385Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtqMK">욕심에 비례하는 주식투자의 행복</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[극회의원을 더늘렸으면 좋겠어요]]></title>
-        <id>https://alook.so/posts/kZtOdP</id>
-        <link href="https://alook.so/posts/kZtOdP"/>
-        <updated>2021-10-24T23:14:39.811Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/kZtOdP">극회의원을 더늘렸으면 좋겠어요</a>]]></content>
+        <title type="html"><![CDATA[오늘 가장 기억에 남는 뉴스?]]></title>
+        <id>https://alook.so/posts/70tDZz</id>
+        <link href="https://alook.so/posts/70tDZz"/>
+        <updated>2021-10-25T00:48:52.386Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/70tDZz">오늘 가장 기억에 남는 뉴스?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무슨 일 하세요?]]></title>
-        <id>https://alook.so/posts/yEtaGq</id>
-        <link href="https://alook.so/posts/yEtaGq"/>
-        <updated>2021-10-24T23:14:39.812Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/yEtaGq">무슨 일 하세요?</a>]]></content>
+        <title type="html"><![CDATA[2021년 10월 25일 오늘의 경제 & 사설]]></title>
+        <id>https://alook.so/posts/Yyt9OR</id>
+        <link href="https://alook.so/posts/Yyt9OR"/>
+        <updated>2021-10-25T00:48:52.388Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt9OR">2021년 10월 25일 오늘의 경제 &amp; 사설</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에디터와 얼룩커의 소통이 가장 큰 강점인 얼룩소.]]></title>
-        <id>https://alook.so/posts/Batk8V</id>
-        <link href="https://alook.so/posts/Batk8V"/>
-        <updated>2021-10-24T23:14:39.814Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batk8V">에디터와 얼룩커의 소통이 가장 큰 강점인 얼룩소.</a>]]></content>
+        <title type="html"><![CDATA[이건 엄연한 학대이고, 가정 폭력입니다만]]></title>
+        <id>https://alook.so/posts/rDt8Wl</id>
+        <link href="https://alook.so/posts/rDt8Wl"/>
+        <updated>2021-10-25T00:48:52.390Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt8Wl">이건 엄연한 학대이고, 가정 폭력입니다만</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엉덩이가 가벼워 우울합니다]]></title>
-        <id>https://alook.so/posts/LKtKjW</id>
-        <link href="https://alook.so/posts/LKtKjW"/>
-        <updated>2021-10-24T23:14:39.815Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/LKtKjW">엉덩이가 가벼워 우울합니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방사선사]]></title>
-        <id>https://alook.so/posts/6Mtmdq</id>
-        <link href="https://alook.so/posts/6Mtmdq"/>
-        <updated>2021-10-24T22:14:22.301Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtmdq">방사선사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워라벨을 지키면서 부자 되는 거 어떻게 하는 거야?]]></title>
-        <id>https://alook.so/posts/3wtoJv</id>
-        <link href="https://alook.so/posts/3wtoJv"/>
-        <updated>2021-10-24T22:14:22.302Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtoJv">워라벨을 지키면서 부자 되는 거 어떻게 하는 거야?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감당하기 버거운 큰딸]]></title>
-        <id>https://alook.so/posts/8Wt1MO</id>
-        <link href="https://alook.so/posts/8Wt1MO"/>
-        <updated>2021-10-24T22:14:22.303Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt1MO">감당하기 버거운 큰딸</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족이라고해서 모든것을 이해야하는것은 아니다]]></title>
-        <id>https://alook.so/posts/G1tyPV</id>
-        <link href="https://alook.so/posts/G1tyPV"/>
-        <updated>2021-10-24T21:13:13.333Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/G1tyPV">가족이라고해서 모든것을 이해야하는것은 아니다</a>]]></content>
+        <title type="html"><![CDATA[따뜻한"물"한잔의 12가지 놀라운 효능]]></title>
+        <id>https://alook.so/posts/KmtXzX</id>
+        <link href="https://alook.so/posts/KmtXzX"/>
+        <updated>2021-10-25T00:48:52.391Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/KmtXzX">따뜻한"물"한잔의 12가지 놀라운 효능</a>]]></content>
     </entry>
 </feed>
