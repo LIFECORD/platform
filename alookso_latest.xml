@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-25T16:22:26.825Z</updated>
+    <updated>2021-10-25T17:20:39.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T16:21:07.630Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tm81">이제 수도권과 비수도권은 헤어져야 할 시간, 다음에 또 만나요.</a>]]></content>
+        <updated>2021-10-25T17:19:09.714Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPd3">설거지론, '여성혐오'가 뒷걸음질 하다 발견한 '관계의 어려움'에 대해.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T16:21:07.631Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt9K9">"솥뚜껑 고장나서 새로 사로 나왔다 왜 XX야."</a>]]></content>
+        <updated>2021-10-25T17:19:09.715Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tz65">통일위대한 것</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T16:21:07.632Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt9R3">306보충대..01군번</a>]]></content>
+        <updated>2021-10-25T17:19:09.716Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1trVL">10대</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T16:21:07.633Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtpjB">학교라는 시스템 안에서는 불충분, 사회 나가서는 충분</a>]]></content>
+        <updated>2021-10-25T17:19:09.718Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt8BX">인간의 외로움에 대하여2</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T16:21:07.634Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0ta3Y">보육교사 10년차 입니다. </a>]]></content>
+        <updated>2021-10-25T17:19:09.720Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latlWV">주 4일제 가능하다고 생각합니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T16:21:07.634Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tr6X">스스로 부자라고 말하는 사람들이 너무 많은 요즘.</a>]]></content>
+        <updated>2021-10-25T17:19:09.721Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtXVa">2021년 10월 대체공휴일 파티</a>]]></content>
     </entry>
 </feed>
