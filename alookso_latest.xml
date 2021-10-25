@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-25T18:18:26.099Z</updated>
+    <updated>2021-10-25T19:14:48.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T18:16:52.621Z</updated>
+        <updated>2021-10-25T19:13:20.689Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tJ6x">누가 저 좀 도와주세요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T18:16:52.623Z</updated>
+        <updated>2021-10-25T19:13:20.690Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPd3">설거지론, '여성혐오'가 뒷걸음질 하다 발견한 '관계의 어려움'에 대해.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T18:16:52.625Z</updated>
+        <updated>2021-10-25T19:13:20.692Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tz65">통일위대한 것</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T18:16:52.627Z</updated>
+        <updated>2021-10-25T19:13:20.693Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1trVL">10대</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T18:16:52.628Z</updated>
+        <updated>2021-10-25T19:13:20.694Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt8BX">인간의 외로움에 대하여2</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T18:16:52.630Z</updated>
+        <updated>2021-10-25T19:13:20.696Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latlWV">주 4일제 가능하다고 생각합니다</a>]]></content>
     </entry>
 </feed>
