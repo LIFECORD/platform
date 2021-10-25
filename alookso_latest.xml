@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-25T03:16:34.653Z</updated>
+    <updated>2021-10-25T04:20:35.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[요새 배우는 재미에 꽂혔어요:)]]></title>
-        <id>https://alook.so/posts/vKtWMD</id>
-        <link href="https://alook.so/posts/vKtWMD"/>
-        <updated>2021-10-25T03:15:05.734Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/vKtWMD">요새 배우는 재미에 꽂혔어요:)</a>]]></content>
+        <title type="html"><![CDATA[늦었다고 생각할 때가 진짜 늦었다!]]></title>
+        <id>https://alook.so/posts/ZktmKm</id>
+        <link href="https://alook.so/posts/ZktmKm"/>
+        <updated>2021-10-25T04:19:15.524Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/ZktmKm">늦었다고 생각할 때가 진짜 늦었다!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KT 유선·무선 인터넷망 먹통..전국 네트워크 마비]]></title>
-        <id>https://alook.so/posts/latlED</id>
-        <link href="https://alook.so/posts/latlED"/>
-        <updated>2021-10-25T03:15:05.737Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/latlED">KT 유선·무선 인터넷망 먹통..전국 네트워크 마비</a>]]></content>
+        <title type="html"><![CDATA[돈 걱정 없을 때 나의 순수한 꿈은 무엇인가요?]]></title>
+        <id>https://alook.so/posts/dztrqY</id>
+        <link href="https://alook.so/posts/dztrqY"/>
+        <updated>2021-10-25T04:19:15.526Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/dztrqY">돈 걱정 없을 때 나의 순수한 꿈은 무엇인가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[너는 원래 그렇잖아]]></title>
-        <id>https://alook.so/posts/92tJvL</id>
-        <link href="https://alook.so/posts/92tJvL"/>
-        <updated>2021-10-25T03:15:05.739Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92tJvL">너는 원래 그렇잖아</a>]]></content>
+        <title type="html"><![CDATA[어린이 투자에 대한 짧은 감상]]></title>
+        <id>https://alook.so/posts/M9t0e6</id>
+        <link href="https://alook.so/posts/M9t0e6"/>
+        <updated>2021-10-25T04:19:15.526Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/M9t0e6">어린이 투자에 대한 짧은 감상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국,어떻게 변했나?우리나라 탄핵과함께보기.]]></title>
-        <id>https://alook.so/posts/mbtP1z</id>
-        <link href="https://alook.so/posts/mbtP1z"/>
-        <updated>2021-10-25T03:15:05.740Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtP1z">미국,어떻게 변했나?우리나라 탄핵과함께보기.</a>]]></content>
+        <title type="html"><![CDATA[김쌍식 씨 동네에는 아동급식카드를 쓸 수 있는 편의점이 몇 개?]]></title>
+        <id>https://alook.so/posts/kZtOj4</id>
+        <link href="https://alook.so/posts/kZtOj4"/>
+        <updated>2021-10-25T04:19:15.527Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/kZtOj4">김쌍식 씨 동네에는 아동급식카드를 쓸 수 있는 편의점이 몇 개?</a>]]></content>
     </entry>
 </feed>
