@@ -2,22 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-10-25T02:37:12.229Z</updated>
+    <updated>2021-10-25T03:16:34.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[주말 아침 산책으로...시작 합시다.]]></title>
-        <id>https://alook.so/posts/4Xtmd4</id>
-        <link href="https://alook.so/posts/4Xtmd4"/>
-        <updated>2021-10-24T07:13:48.385Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtmd4">주말 아침 산책으로...시작 합시다.</a>]]></content>
+        <title type="html"><![CDATA[골린이, 테린이, 주린이... 그냥 '초보'라고 하면 안되나요?]]></title>
+        <id>https://alook.so/posts/J5trpn</id>
+        <link href="https://alook.so/posts/J5trpn"/>
+        <updated>2021-10-23T11:11:58.874Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5trpn">골린이, 테린이, 주린이... 그냥 '초보'라고 하면 안되나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여전히 배고픈 아이들이 있다 (feat. 어른들의 무관심)]]></title>
-        <id>https://alook.so/posts/mbtP6o</id>
-        <link href="https://alook.so/posts/mbtP6o"/>
-        <updated>2021-10-24T19:11:23.721Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtP6o">여전히 배고픈 아이들이 있다 (feat. 어른들의 무관심)</a>]]></content>
+        <title type="html"><![CDATA["밥" 당신에겐 어떤 의미인가요?]]></title>
+        <id>https://alook.so/posts/XBtGjV</id>
+        <link href="https://alook.so/posts/XBtGjV"/>
+        <updated>2021-10-24T16:20:31.523Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBtGjV">"밥" 당신에겐 어떤 의미인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정신질환에 대한 우리의 쉬운 혐오, 그를 이용하는 사람들]]></title>
+        <id>https://alook.so/posts/DjtqbG</id>
+        <link href="https://alook.so/posts/DjtqbG"/>
+        <updated>2021-10-24T00:46:49.064Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtqbG">정신질환에 대한 우리의 쉬운 혐오, 그를 이용하는 사람들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힘들 때 듣고 싶은 말은 무엇인가요?]]></title>
+        <id>https://alook.so/posts/Batkx1</id>
+        <link href="https://alook.so/posts/Batkx1"/>
+        <updated>2021-10-24T08:16:12.631Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batkx1">힘들 때 듣고 싶은 말은 무엇인가요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로또 1등 종이 가지실래요?]]></title>
+        <id>https://alook.so/posts/0ktdE9</id>
+        <link href="https://alook.so/posts/0ktdE9"/>
+        <updated>2021-10-24T10:15:05.924Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdE9">로또 1등 종이 가지실래요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마음도 방역이 필요해  - 코로나19와 정신건강]]></title>
+        <id>https://alook.so/posts/3wtoDl</id>
+        <link href="https://alook.so/posts/3wtoDl"/>
+        <updated>2021-10-23T08:16:26.509Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtoDl">마음도 방역이 필요해  - 코로나19와 정신건강</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청년은 대학생 뿐일까?]]></title>
+        <id>https://alook.so/posts/Djtq2B</id>
+        <link href="https://alook.so/posts/Djtq2B"/>
+        <updated>2021-10-23T15:15:21.870Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtq2B">청년은 대학생 뿐일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유튜브를 장시간 보는 자녀.....ㅠㅠ]]></title>
+        <id>https://alook.so/posts/xltn5x</id>
+        <link href="https://alook.so/posts/xltn5x"/>
+        <updated>2021-10-24T15:14:14.376Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/xltn5x">유튜브를 장시간 보는 자녀.....ㅠㅠ</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["아이 가졌으면 좋겠다"는 남에게 할 말이 아니다.]]></title>
@@ -34,62 +76,6 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/w9tb8L">이게 진짜 저의 모습일까요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음도 방역이 필요해  - 코로나19와 정신건강]]></title>
-        <id>https://alook.so/posts/3wtoDl</id>
-        <link href="https://alook.so/posts/3wtoDl"/>
-        <updated>2021-10-23T08:16:26.509Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/3wtoDl">마음도 방역이 필요해  - 코로나19와 정신건강</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힘들 때 듣고 싶은 말은 무엇인가요?]]></title>
-        <id>https://alook.so/posts/Batkx1</id>
-        <link href="https://alook.so/posts/Batkx1"/>
-        <updated>2021-10-24T08:16:12.631Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Batkx1">힘들 때 듣고 싶은 말은 무엇인가요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년은 대학생 뿐일까?]]></title>
-        <id>https://alook.so/posts/Djtq2B</id>
-        <link href="https://alook.so/posts/Djtq2B"/>
-        <updated>2021-10-23T15:15:21.870Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/Djtq2B">청년은 대학생 뿐일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[골린이, 테린이, 주린이... 그냥 '초보'라고 하면 안되나요?]]></title>
-        <id>https://alook.so/posts/J5trpn</id>
-        <link href="https://alook.so/posts/J5trpn"/>
-        <updated>2021-10-23T11:11:58.874Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/J5trpn">골린이, 테린이, 주린이... 그냥 '초보'라고 하면 안되나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정신질환에 대한 우리의 쉬운 혐오, 그를 이용하는 사람들]]></title>
-        <id>https://alook.so/posts/DjtqbG</id>
-        <link href="https://alook.so/posts/DjtqbG"/>
-        <updated>2021-10-24T00:46:49.064Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/DjtqbG">정신질환에 대한 우리의 쉬운 혐오, 그를 이용하는 사람들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로또 1등 종이 가지실래요?]]></title>
-        <id>https://alook.so/posts/0ktdE9</id>
-        <link href="https://alook.so/posts/0ktdE9"/>
-        <updated>2021-10-24T10:15:05.924Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/0ktdE9">로또 1등 종이 가지실래요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜브를 장시간 보는 자녀.....ㅠㅠ]]></title>
-        <id>https://alook.so/posts/xltn5x</id>
-        <link href="https://alook.so/posts/xltn5x"/>
-        <updated>2021-10-24T15:14:14.376Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/xltn5x">유튜브를 장시간 보는 자녀.....ㅠㅠ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["밥" 당신에겐 어떤 의미인가요?]]></title>
-        <id>https://alook.so/posts/XBtGjV</id>
-        <link href="https://alook.so/posts/XBtGjV"/>
-        <updated>2021-10-24T16:20:31.523Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/XBtGjV">"밥" 당신에겐 어떤 의미인가요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[추억놀이]]></title>
         <id>https://alook.so/posts/RGtMXz</id>
         <link href="https://alook.so/posts/RGtMXz"/>
@@ -97,11 +83,11 @@
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/RGtMXz">추억놀이</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이제 8년 남은 시간!]]></title>
-        <id>https://alook.so/posts/rDt8xL</id>
-        <link href="https://alook.so/posts/rDt8xL"/>
-        <updated>2021-10-24T12:21:21.871Z</updated>
-        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/rDt8xL">이제 8년 남은 시간!</a>]]></content>
+        <title type="html"><![CDATA[여전히 배고픈 아이들이 있다 (feat. 어른들의 무관심)]]></title>
+        <id>https://alook.so/posts/mbtP6o</id>
+        <link href="https://alook.so/posts/mbtP6o"/>
+        <updated>2021-10-24T19:11:23.721Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/mbtP6o">여전히 배고픈 아이들이 있다 (feat. 어른들의 무관심)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["어린 내가 투자를 하며 느낀 것"]]></title>
@@ -109,5 +95,12 @@
         <link href="https://alook.so/posts/92tJWk"/>
         <updated>2021-10-23T13:18:41.590Z</updated>
         <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/92tJWk">"어린 내가 투자를 하며 느낀 것"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주말 아침 산책으로...시작 합시다.]]></title>
+        <id>https://alook.so/posts/4Xtmd4</id>
+        <link href="https://alook.so/posts/4Xtmd4"/>
+        <updated>2021-10-24T07:13:48.385Z</updated>
+        <content type="html"><![CDATA[<a class="text-xl text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtmd4">주말 아침 산책으로...시작 합시다.</a>]]></content>
     </entry>
 </feed>
