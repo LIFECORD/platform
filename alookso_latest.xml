@@ -2,42 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-25T14:15:10.502Z</updated>
+    <updated>2021-10-25T15:14:10.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T14:13:44.197Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEteaz">내시간을 컨트롤하는 것</a>]]></content>
+        <updated>2021-10-25T15:12:51.671Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtG9L">폐마스크의 재발견</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T14:13:44.199Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tYJX">오징어 게임 후기</a>]]></content>
+        <updated>2021-10-25T15:12:51.671Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tbk5">굉장한 대회를 발견했습니다.(Feat.어른 버전도 만들어 주세요)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T14:13:44.200Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tJw4">범죄 완전하게 막을수있을까?</a>]]></content>
+        <updated>2021-10-25T15:12:51.673Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtMne">BTS는 최고의 국뽕</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T14:13:44.201Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtP0V">같은 성별끼리 결혼해도 될까요?</a>]]></content>
+        <updated>2021-10-25T15:12:51.674Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtajD">제 직업은 이공계 대학원생.. 석사라면 추천!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-25T14:13:44.203Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tzYX">온라인 셀러</a>]]></content>
+        <updated>2021-10-25T15:12:51.675Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatkP2">나는 잠이 오지만, 나와의 약속을 지키기 위해 쓴다.(별거 아님 주의)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://alook.so/discover/latest</id>
+        <link href="https://alook.so/discover/latest"/>
+        <updated>2021-10-25T15:12:51.676Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtKd4">오늘 시험 끝난 대학생이야기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://alook.so/discover/latest</id>
+        <link href="https://alook.so/discover/latest"/>
+        <updated>2021-10-25T15:12:51.677Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtoO7">나는 부동산과 맞벌이한다 (1)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://alook.so/discover/latest</id>
+        <link href="https://alook.so/discover/latest"/>
+        <updated>2021-10-25T15:12:51.679Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtmkx">학생의 하루</a>]]></content>
     </entry>
 </feed>
