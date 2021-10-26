@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-26T04:19:48.958Z</updated>
+    <updated>2021-10-26T05:14:56.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T04:18:27.460Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtqpJ">해봐야 알 수 있었던 알바 </a>]]></content>
+        <updated>2021-10-26T05:13:36.540Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0ta7G">집은 원래 대출받아 사는 겁니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T04:18:27.461Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0taBG">자연의 섭리는 영원해요</a>]]></content>
+        <updated>2021-10-26T05:13:36.543Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktmGw">디지털 시대에 발맞줘 지는 변화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T04:18:27.462Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5trX1">북한은 나라가 아니라서 북한 정권이라고 부른다.</a>]]></content>
+        <updated>2021-10-26T05:13:36.543Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5trR1">실패를 용인하는 한국 사회, 가능할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://alook.so/discover/latest</id>
+        <link href="https://alook.so/discover/latest"/>
+        <updated>2021-10-26T05:13:36.544Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntjqY">요즘 하늘 너무 행복하지 않나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://alook.so/discover/latest</id>
+        <link href="https://alook.so/discover/latest"/>
+        <updated>2021-10-26T05:13:36.544Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtOkM">얼룩소 에디터픽</a>]]></content>
     </entry>
 </feed>
