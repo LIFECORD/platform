@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-26T01:57:17.004Z</updated>
+    <updated>2021-10-26T02:28:20.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T01:55:47.582Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtOMM">무기 거래보다 중요한 것은 무기에 대한 통제</a>]]></content>
+        <updated>2021-10-26T02:26:54.378Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tre5">돈에 관심없던 내가 주식투자를 하기 까지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T01:55:47.584Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtaLB">KT 접속 장애?!</a>]]></content>
+        <updated>2021-10-26T02:26:54.381Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtwdq">'그때 그 사람'이 없던 세상은 어땠을까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T01:55:47.585Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtKPZ">다들 돈벌던데 나만 왜 안될까</a>]]></content>
+        <updated>2021-10-26T02:26:54.383Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t0Y4">얼룩소를 통해 살아난 수다본능 ft. 해비토커의 변명</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://alook.so/discover/latest</id>
+        <link href="https://alook.so/discover/latest"/>
+        <updated>2021-10-26T02:26:54.384Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtmPe">쓰는 입장에서도, 읽는 입장에서도 무거움에 지쳐가는건 정상입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://alook.so/discover/latest</id>
+        <link href="https://alook.so/discover/latest"/>
+        <updated>2021-10-26T02:26:54.385Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtGOZ">얼룩소의 타겟은 누구인가요?</a>]]></content>
     </entry>
 </feed>
