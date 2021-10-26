@@ -2,63 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-26T17:20:44.092Z</updated>
+    <updated>2021-10-26T18:17:31.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T17:19:20.677Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt7O1">한국의 십대들이 불편한 이유</a>]]></content>
+        <updated>2021-10-26T18:16:12.999Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtMYY">미래가 걱정.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T17:19:20.678Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tL1B">과연 받을 수 있을까요?</a>]]></content>
+        <updated>2021-10-26T18:16:13.000Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latyRl">20대 초반 아들 둘을 둔  엄마입니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T17:19:20.679Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t1Go">박원순은 본인이 못생겼다는 걸 알고 있었을까?</a>]]></content>
+        <updated>2021-10-26T18:16:13.001Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tKm3">개인적으로 대학 졸업장 가치가 없다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T17:19:20.680Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytkXK">열심히 노력하면 계층 상승이 될까요?</a>]]></content>
+        <updated>2021-10-26T18:16:13.006Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOL7">강아지랑 눈이 마주치면 말을 못해서 답답할 것 같아요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T17:19:20.681Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt5r4">감사 챌린지를 했으면 좋겠습니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5]]></title>
-        <id>https://alook.so/discover/latest</id>
-        <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T17:19:20.683Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtbwM">블로그 1일1포</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6]]></title>
-        <id>https://alook.so/discover/latest</id>
-        <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T17:19:20.684Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt10a">한국의 10대들은 정말 불행할까요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7]]></title>
-        <id>https://alook.so/discover/latest</id>
-        <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-26T17:19:20.685Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tEv4">바르면 주름이 펴지고 밝은 피부가 되는 크림 </a>]]></content>
+        <updated>2021-10-26T18:16:13.006Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt7O1">한국의 십대들이 불편한 이유</a>]]></content>
     </entry>
 </feed>
