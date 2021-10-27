@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-27T22:15:35.613Z</updated>
+    <updated>2021-10-27T23:16:17.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[군인이 존중받으려면 군대가 바뀌어야 하는 걸까요.]]></title>
+        <id>https://alook.so/posts/eVtkde</id>
+        <link href="https://alook.so/posts/eVtkde"/>
+        <updated>2021-10-27T23:14:51.079Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtkde">군인이 존중받으려면 군대가 바뀌어야 하는 걸까요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[항상 우리곁에 있는 삼성]]></title>
+        <id>https://alook.so/posts/zvtVkZ</id>
+        <link href="https://alook.so/posts/zvtVkZ"/>
+        <updated>2021-10-27T23:14:51.079Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtVkZ">항상 우리곁에 있는 삼성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안될 이유가 없습니다.]]></title>
+        <id>https://alook.so/posts/2xtRXp</id>
+        <link href="https://alook.so/posts/2xtRXp"/>
+        <updated>2021-10-27T23:14:51.080Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtRXp">안될 이유가 없습니다. </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어려운 50글자]]></title>
         <id>https://alook.so/posts/WLtGBn</id>
@@ -25,26 +46,5 @@
         <link href="https://alook.so/posts/4XtzrE"/>
         <updated>2021-10-27T22:14:09.064Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtzrE">이재명 음식점 허가총량제는 무엇일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전과35범 이렇게 생겼다.(성범죄자)]]></title>
-        <id>https://alook.so/posts/xltzxK</id>
-        <link href="https://alook.so/posts/xltzxK"/>
-        <updated>2021-10-27T22:14:09.068Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltzxK">전과35범 이렇게 생겼다.(성범죄자)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친구]]></title>
-        <id>https://alook.so/posts/RGt24O</id>
-        <link href="https://alook.so/posts/RGt24O"/>
-        <updated>2021-10-27T22:14:09.069Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt24O">친구</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비참한 현실은 외면하면 외면할수록 더욱 비참해질 뿐입니다.]]></title>
-        <id>https://alook.so/posts/yEtkq5</id>
-        <link href="https://alook.so/posts/yEtkq5"/>
-        <updated>2021-10-27T22:14:09.070Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtkq5">비참한 현실은 외면하면 외면할수록 더욱 비참해질 뿐입니다.</a>]]></content>
     </entry>
 </feed>
