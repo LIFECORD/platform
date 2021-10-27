@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8Ogtd9</id>
     <title>alookso ─ 신요조</title>
-    <updated>2021-10-27T08:19:27.283Z</updated>
+    <updated>2021-10-27T09:16:02.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[대선 후보가 다 싫어서 절망하는 당신에게]]></title>
+        <id>https://alook.so/posts/mbtOpn</id>
+        <link href="https://alook.so/posts/mbtOpn"/>
+        <updated>2021-10-27T09:15:43.781Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOpn">대선 후보가 다 싫어서 절망하는 당신에게</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘비마이너’를 소개합니다.]]></title>
         <id>https://alook.so/posts/mbtPo2</id>
