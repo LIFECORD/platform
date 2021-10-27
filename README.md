@@ -9,6 +9,9 @@ https://lifecord.github.io/geeknews/all.xml
 - Weekly: https://lifecord.github.io/geeknews/weekly.xml
 
 ## Alookso
+- 최신 글: https://lifecord.github.io/platform/alookso_latest.xml
+- 뜨는 글: https://lifecord.github.io/platform/alookso_trendiest.xml
+### User
 - 얼룩소: https://lifecord.github.io/platform/alookso_alookso.xml
 - 천관율: https://lifecord.github.io/platform/alookso_gwanyul.xml
 - 윤성원: https://lifecord.github.io/platform/alookso_somewon.xml
