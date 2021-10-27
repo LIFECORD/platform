@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-27T03:16:49.998Z</updated>
+    <updated>2021-10-27T03:19:54.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
-        <id>https://alook.so/discover/latest</id>
-        <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-27T03:15:18.470Z</updated>
+        <title type="html"><![CDATA[답글: 투자를 하고 행복해졌습니다. 경제보는 눈이 생겼어요.]]></title>
+        <id>https://alook.so/posts/E7t4dj</id>
+        <link href="https://alook.so/posts/E7t4dj"/>
+        <updated>2021-10-27T03:18:27.912Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4dj">답글: 투자를 하고 행복해졌습니다. 경제보는 눈이 생겼어요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://alook.so/discover/latest</id>
-        <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-27T03:15:18.471Z</updated>
+        <title type="html"><![CDATA[당신은 천지 만물과 사람은 태초부터 어떻게 존재하였는지를 아시나요?]]></title>
+        <id>https://alook.so/posts/latywe</id>
+        <link href="https://alook.so/posts/latywe"/>
+        <updated>2021-10-27T03:18:27.913Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latywe">당신은 천지 만물과 사람은 태초부터 어떻게 존재하였는지를 아시나요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
-        <id>https://alook.so/discover/latest</id>
-        <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-27T03:15:18.472Z</updated>
+        <title type="html"><![CDATA[무슨 생각을 하고 있었을까요? (Feat. 고양이의 하루)]]></title>
+        <id>https://alook.so/posts/Kmt2bW</id>
+        <link href="https://alook.so/posts/Kmt2bW"/>
+        <updated>2021-10-27T03:18:27.915Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt2bW">무슨 생각을 하고 있었을까요? (Feat. 고양이의 하루)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
-        <id>https://alook.so/discover/latest</id>
-        <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-27T03:15:18.474Z</updated>
+        <title type="html"><![CDATA[독립서점을 통해 펼치고 싶으신 꿈이 궁금합니다.]]></title>
+        <id>https://alook.so/posts/54tB8M</id>
+        <link href="https://alook.so/posts/54tB8M"/>
+        <updated>2021-10-27T03:18:27.916Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tB8M">독립서점을 통해 펼치고 싶으신 꿈이 궁금합니다.</a>]]></content>
     </entry>
 </feed>

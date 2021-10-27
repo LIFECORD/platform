@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/qQPtde</id>
     <title>alookso ─ 조소담</title>
-    <updated>2021-10-27T03:16:49.996Z</updated>
+    <updated>2021-10-27T03:19:54.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[0]]></title>
-        <id>https://alook.so/users/qQPtde</id>
-        <link href="https://alook.so/users/qQPtde"/>
-        <updated>2021-10-27T03:16:05.610Z</updated>
+        <title type="html"><![CDATA[정치가 듣는 '국민 의견' ,'여론'의 진짜 실체는 무엇일까요?]]></title>
+        <id>https://alook.so/posts/6Mt7VJ</id>
+        <link href="https://alook.so/posts/6Mt7VJ"/>
+        <updated>2021-10-27T03:19:11.757Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt7VJ">정치가 듣는 '국민 의견' ,'여론'의 진짜 실체는 무엇일까요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://alook.so/users/qQPtde</id>
-        <link href="https://alook.so/users/qQPtde"/>
-        <updated>2021-10-27T03:16:05.613Z</updated>
+        <title type="html"><![CDATA[빚 끼고 건물주 되라는 덕담에 대해서]]></title>
+        <id>https://alook.so/posts/mbtO87</id>
+        <link href="https://alook.so/posts/mbtO87"/>
+        <updated>2021-10-27T03:19:11.758Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtO87">빚 끼고 건물주 되라는 덕담에 대해서 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
-        <id>https://alook.so/users/qQPtde</id>
-        <link href="https://alook.so/users/qQPtde"/>
-        <updated>2021-10-27T03:16:05.614Z</updated>
+        <title type="html"><![CDATA[코로나 이후 근무 형태의 변화가 지역 발전에 영향을 미칠까요?]]></title>
+        <id>https://alook.so/posts/DjtaOr</id>
+        <link href="https://alook.so/posts/DjtaOr"/>
+        <updated>2021-10-27T03:19:11.759Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtaOr">코로나 이후 근무 형태의 변화가 지역 발전에 영향을 미칠까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
-        <id>https://alook.so/users/qQPtde</id>
-        <link href="https://alook.so/users/qQPtde"/>
-        <updated>2021-10-27T03:16:05.615Z</updated>
+        <title type="html"><![CDATA[사회가 강요하는 모성에 대해서]]></title>
+        <id>https://alook.so/posts/rDtRr8</id>
+        <link href="https://alook.so/posts/rDtRr8"/>
+        <updated>2021-10-27T03:19:11.761Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtRr8">사회가 강요하는 모성에 대해서 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
-        <id>https://alook.so/users/qQPtde</id>
-        <link href="https://alook.so/users/qQPtde"/>
-        <updated>2021-10-27T03:16:05.616Z</updated>
+        <title type="html"><![CDATA[답글: AI '이루다'와 미래]]></title>
+        <id>https://alook.so/posts/bWtB0O</id>
+        <link href="https://alook.so/posts/bWtB0O"/>
+        <updated>2021-10-27T03:19:11.763Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtB0O">답글: AI '이루다'와 미래 </a>]]></content>
     </entry>
 </feed>
