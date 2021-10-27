@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-27T10:17:49.209Z</updated>
+    <updated>2021-10-27T11:13:43.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투자로 돈을 벌어본 적이 없습니다.]]></title>
+        <id>https://alook.so/posts/vKtyr1</id>
+        <link href="https://alook.so/posts/vKtyr1"/>
+        <updated>2021-10-27T11:12:15.999Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtyr1">투자로 돈을 벌어본 적이 없습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개인의 자유라고 생각합니다]]></title>
+        <id>https://alook.so/posts/o7tLxe</id>
+        <link href="https://alook.so/posts/o7tLxe"/>
+        <updated>2021-10-27T11:12:16.001Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tLxe">개인의 자유라고 생각합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[볼 건 너무 많지만 뭘 봐야 할지 모르겠고 보기 시작해도 끝까지 다볼 자신은 없어요]]></title>
+        <id>https://alook.so/posts/YytkBe</id>
+        <link href="https://alook.so/posts/YytkBe"/>
+        <updated>2021-10-27T11:12:16.002Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytkBe">볼 건 너무 많지만 뭘 봐야 할지 모르겠고 보기 시작해도 끝까지 다볼 자신은 없어요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소와 함께 춤을]]></title>
+        <id>https://alook.so/posts/bWt13n</id>
+        <link href="https://alook.so/posts/bWt13n"/>
+        <updated>2021-10-27T11:12:16.003Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt13n">얼룩소와 함께 춤을</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그이유는 바로]]></title>
         <id>https://alook.so/posts/ZktYp3</id>
         <link href="https://alook.so/posts/ZktYp3"/>
         <updated>2021-10-27T10:16:26.787Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktYp3">그이유는 바로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[있습니다.]]></title>
-        <id>https://alook.so/posts/J5taPk</id>
-        <link href="https://alook.so/posts/J5taPk"/>
-        <updated>2021-10-27T10:16:26.787Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5taPk">있습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽음이 없는 삶은 없다..]]></title>
-        <id>https://alook.so/posts/potJjO</id>
-        <link href="https://alook.so/posts/potJjO"/>
-        <updated>2021-10-27T10:16:26.789Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potJjO">죽음이 없는 삶은 없다..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정말 뉴스를 있는 그대로 받아들여도 될까요??]]></title>
-        <id>https://alook.so/posts/eVtk45</id>
-        <link href="https://alook.so/posts/eVtk45"/>
-        <updated>2021-10-27T10:16:26.793Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtk45">정말 뉴스를 있는 그대로 받아들여도 될까요??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 인생에서 대학의 가치는 얼마 정도일까 ?]]></title>
-        <id>https://alook.so/posts/2xtROw</id>
-        <link href="https://alook.so/posts/2xtROw"/>
-        <updated>2021-10-27T10:16:26.795Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtROw">내 인생에서 대학의 가치는 얼마 정도일까 ?</a>]]></content>
     </entry>
 </feed>
