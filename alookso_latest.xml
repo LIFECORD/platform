@@ -2,42 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-27T07:16:06.782Z</updated>
+    <updated>2021-10-27T08:19:27.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[결혼하면 너는 끝이야]]></title>
-        <id>https://alook.so/posts/kZtvVZ</id>
-        <link href="https://alook.so/posts/kZtvVZ"/>
-        <updated>2021-10-27T07:14:34.409Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtvVZ">결혼하면 너는 끝이야</a>]]></content>
+        <title type="html"><![CDATA[대학은 특별한 재능이 없는 평범한 사람들이 가는 곳이 아닐까요?]]></title>
+        <id>https://alook.so/posts/bWt1XY</id>
+        <link href="https://alook.so/posts/bWt1XY"/>
+        <updated>2021-10-27T08:17:57.059Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt1XY">대학은 특별한 재능이 없는 평범한 사람들이 가는 곳이 아닐까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘두 번째’ ‘여성’ 국방 장관 기사가 나왔네요?]]></title>
-        <id>https://alook.so/posts/yEtkmP</id>
-        <link href="https://alook.so/posts/yEtkmP"/>
-        <updated>2021-10-27T07:14:34.411Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtkmP">‘두 번째’ ‘여성’ 국방 장관 기사가 나왔네요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세금은 내는데 혜택을 받을 수 있을까요?]]></title>
-        <id>https://alook.so/posts/LKtxJP</id>
-        <link href="https://alook.so/posts/LKtxJP"/>
-        <updated>2021-10-27T07:14:34.412Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtxJP">세금은 내는데 혜택을 받을 수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1년에 해외여행 10번 이상 가면서 느낀점 (솔직리뷰)]]></title>
-        <id>https://alook.so/posts/3wtarV</id>
-        <link href="https://alook.so/posts/3wtarV"/>
-        <updated>2021-10-27T07:14:34.415Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtarV">1년에 해외여행 10번 이상 가면서 느낀점 (솔직리뷰)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너만 예민하네..코로나 백신..?!]]></title>
-        <id>https://alook.so/posts/8Wt6OR</id>
-        <link href="https://alook.so/posts/8Wt6OR"/>
-        <updated>2021-10-27T07:14:34.415Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt6OR">너만 예민하네..코로나 백신..?!</a>]]></content>
+        <title type="html"><![CDATA[행복했답니다~^^]]></title>
+        <id>https://alook.so/posts/dztoGK</id>
+        <link href="https://alook.so/posts/dztoGK"/>
+        <updated>2021-10-27T08:17:57.060Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztoGK">행복했답니다~^^</a>]]></content>
     </entry>
 </feed>
