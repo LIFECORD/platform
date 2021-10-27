@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-27T20:17:52.438Z</updated>
+    <updated>2021-10-27T21:14:53.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[모기는 잡아야 하나요? 무시해야 하나요?]]></title>
+        <id>https://alook.so/posts/LKtxlp</id>
+        <link href="https://alook.so/posts/LKtxlp"/>
+        <updated>2021-10-27T21:13:32.318Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtxlp">모기는 잡아야 하나요? 무시해야 하나요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리도 사실 이웃이잖아요]]></title>
         <id>https://alook.so/posts/njtavR</id>
@@ -32,12 +39,5 @@
         <link href="https://alook.so/posts/E7t4bB"/>
         <updated>2021-10-27T17:19:44.653Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4bB">&lt;미투 운동&gt;세상엔 선과 악이 있다는 사실을 입증했다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<임신과 출산> 아니지도, 그렇지도 않다]]></title>
-        <id>https://alook.so/posts/latyeb</id>
-        <link href="https://alook.so/posts/latyeb"/>
-        <updated>2021-10-27T17:19:44.654Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latyeb">&lt;임신과 출산&gt; 아니지도, 그렇지도 않다</a>]]></content>
     </entry>
 </feed>
