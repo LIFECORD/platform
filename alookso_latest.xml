@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-27T00:45:32.351Z</updated>
+    <updated>2021-10-27T01:57:13.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-27T00:44:12.565Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tLaB">영화 듄에 꽂혔어요.</a>]]></content>
+        <updated>2021-10-27T01:55:41.443Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtGjm">데이터 소비자에서 데이터 생산자로!!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-27T00:44:12.571Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytkZK">성소수자에 대한 생각들</a>]]></content>
+        <updated>2021-10-27T01:55:41.444Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batl0J">국뽕이 차오르는 방탄</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://alook.so/discover/latest</id>
         <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-27T00:44:12.571Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt1ma">누가 매일 점심 좀 골라줬으면 좋겠습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3]]></title>
-        <id>https://alook.so/discover/latest</id>
-        <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-27T00:44:12.572Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tEx4">[늦은 아침 생각] 나중을 위해 아껴 두지 마세요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4]]></title>
-        <id>https://alook.so/discover/latest</id>
-        <link href="https://alook.so/discover/latest"/>
-        <updated>2021-10-27T00:44:12.572Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzto4B">조깅으로 하루를 시작해요^^;;</a>]]></content>
+        <updated>2021-10-27T01:55:41.445Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtxM0">전세계의 주목을 한몫에 받고 있는 한국! 그 비결은?</a>]]></content>
     </entry>
 </feed>
