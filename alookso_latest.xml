@@ -2,63 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-27T16:22:24.322Z</updated>
+    <updated>2021-10-27T17:21:17.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[세상엔 선과 악이 있다는 사실을 입증했다]]></title>
+        <id>https://alook.so/posts/E7t4bB</id>
+        <link href="https://alook.so/posts/E7t4bB"/>
+        <updated>2021-10-27T17:19:44.653Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4bB">세상엔 선과 악이 있다는 사실을 입증했다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아니지도, 그렇지도 않다]]></title>
+        <id>https://alook.so/posts/latyeb</id>
+        <link href="https://alook.so/posts/latyeb"/>
+        <updated>2021-10-27T17:19:44.654Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latyeb">아니지도, 그렇지도 않다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠더 갈등, 어떻게 극복해야 할까?]]></title>
+        <id>https://alook.so/posts/54tBmJ</id>
+        <link href="https://alook.so/posts/54tBmJ"/>
+        <updated>2021-10-27T17:19:44.656Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tBmJ">젠더 갈등, 어떻게 극복해야 할까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소에서 놀 때 좋은 점]]></title>
+        <id>https://alook.so/posts/Djt7bm</id>
+        <link href="https://alook.so/posts/Djt7bm"/>
+        <updated>2021-10-27T17:19:44.657Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt7bm">얼룩소에서 놀 때 좋은 점 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리는 격려해줄 의무밖에는 없습니다.]]></title>
+        <id>https://alook.so/posts/1RtxeG</id>
+        <link href="https://alook.so/posts/1RtxeG"/>
+        <updated>2021-10-27T17:19:44.658Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtxeG">우리는 격려해줄 의무밖에는 없습니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[친구와 권태기 계속 유지하는 게 맞을까요?]]></title>
         <id>https://alook.so/posts/o7tLGG</id>
         <link href="https://alook.so/posts/o7tLGG"/>
         <updated>2021-10-27T16:20:55.021Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tLGG">친구와 권태기 계속 유지하는 게 맞을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군부의 분열이 가져온 민주화?]]></title>
-        <id>https://alook.so/posts/70t1OV</id>
-        <link href="https://alook.so/posts/70t1OV"/>
-        <updated>2021-10-27T16:20:55.021Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t1OV">군부의 분열이 가져온 민주화?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신은 뭘 좋아하시나요?]]></title>
-        <id>https://alook.so/posts/rDt53j</id>
-        <link href="https://alook.so/posts/rDt53j"/>
-        <updated>2021-10-27T16:20:55.021Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt53j">당신은 뭘 좋아하시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[많이 힘드셨을 것 같습니다만...]]></title>
-        <id>https://alook.so/posts/E7t4b2</id>
-        <link href="https://alook.so/posts/E7t4b2"/>
-        <updated>2021-10-27T16:20:55.021Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4b2">많이 힘드셨을 것 같습니다만... </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점심메뉴 골라주는 사진과 사이트!]]></title>
-        <id>https://alook.so/posts/latyeZ</id>
-        <link href="https://alook.so/posts/latyeZ"/>
-        <updated>2021-10-27T16:20:55.023Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latyeZ">점심메뉴 골라주는 사진과 사이트!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자동저장 기능 추가, 감사합니다!]]></title>
-        <id>https://alook.so/posts/92tKoq</id>
-        <link href="https://alook.so/posts/92tKoq"/>
-        <updated>2021-10-27T16:20:55.023Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tKoq">자동저장 기능 추가, 감사합니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게으른 취준생의 툭!]]></title>
-        <id>https://alook.so/posts/Kmt2lx</id>
-        <link href="https://alook.so/posts/Kmt2lx"/>
-        <updated>2021-10-27T16:20:55.023Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt2lx">게으른 취준생의 툭!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이를 갖을 용기가 나지않습니다]]></title>
-        <id>https://alook.so/posts/54tBmK</id>
-        <link href="https://alook.so/posts/54tBmK"/>
-        <updated>2021-10-27T16:20:55.030Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tBmK">아이를 갖을 용기가 나지않습니다</a>]]></content>
     </entry>
 </feed>
