@@ -2,43 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-10-27T03:21:16.090Z</updated>
+    <updated>2021-10-27T04:19:39.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나의 1등은]]></title>
+        <id>https://alook.so/posts/OEtMlj</id>
+        <link href="https://alook.so/posts/OEtMlj"/>
+        <updated>2021-10-27T03:18:36.996Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtMlj">나의 1등은</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[특목고로 내 인생은 얼마나 달라졌나 : 배움이란]]></title>
+        <id>https://alook.so/posts/w9tdK1</id>
+        <link href="https://alook.so/posts/w9tdK1"/>
+        <updated>2021-10-27T03:18:36.994Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tdK1">특목고로 내 인생은 얼마나 달라졌나 : 배움이란</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무거운 글에 지쳐가는 나, 정상인가요?]]></title>
         <id>https://alook.so/posts/bWtpa8</id>
         <link href="https://alook.so/posts/bWtpa8"/>
         <updated>2021-10-27T03:18:36.988Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtpa8">무거운 글에 지쳐가는 나, 정상인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영원하지 않은 어머니]]></title>
-        <id>https://alook.so/posts/6Mt702</id>
-        <link href="https://alook.so/posts/6Mt702"/>
-        <updated>2021-10-27T03:18:36.987Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt702">영원하지 않은 어머니</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민주화의 수수께끼 - 노태우 씨의 경우]]></title>
-        <id>https://alook.so/posts/E7t445</id>
-        <link href="https://alook.so/posts/E7t445"/>
-        <updated>2021-10-27T03:18:36.996Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t445">민주화의 수수께끼 - 노태우 씨의 경우</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자극성에 비례하는 수익]]></title>
-        <id>https://alook.so/posts/zvtVGn</id>
-        <link href="https://alook.so/posts/zvtVGn"/>
-        <updated>2021-10-27T03:18:36.994Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtVGn">자극성에 비례하는 수익</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따뜻한"물"한잔의 12가지 놀라운 효능]]></title>
-        <id>https://alook.so/posts/KmtXzX</id>
-        <link href="https://alook.so/posts/KmtXzX"/>
-        <updated>2021-10-27T03:18:37.001Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtXzX">따뜻한"물"한잔의 12가지 놀라운 효능</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘비마이너’를 소개합니다.]]></title>
@@ -48,11 +34,46 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtPo2">‘비마이너’를 소개합니다. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“나 사실 같이 사는 언니가 와이프야”]]></title>
-        <id>https://alook.so/posts/Yytk0l</id>
-        <link href="https://alook.so/posts/Yytk0l"/>
-        <updated>2021-10-27T03:18:37.004Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytk0l">“나 사실 같이 사는 언니가 와이프야”</a>]]></content>
+        <title type="html"><![CDATA[교과서 이야기]]></title>
+        <id>https://alook.so/posts/3wtaYx</id>
+        <link href="https://alook.so/posts/3wtaYx"/>
+        <updated>2021-10-27T03:18:36.989Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtaYx">교과서 이야기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도대체 왜 '설거지'여야 할까요?]]></title>
+        <id>https://alook.so/posts/bWtpVW</id>
+        <link href="https://alook.so/posts/bWtpVW"/>
+        <updated>2021-10-27T03:18:36.987Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtpVW">도대체 왜 '설거지'여야 할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nowhere. Now, Here.]]></title>
+        <id>https://alook.so/posts/RGt2LG</id>
+        <link href="https://alook.so/posts/RGt2LG"/>
+        <updated>2021-10-27T04:18:28.136Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt2LG">Nowhere. Now, Here.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소나라의 이상한 앨리스]]></title>
+        <id>https://alook.so/posts/Kmt2kd</id>
+        <link href="https://alook.so/posts/Kmt2kd"/>
+        <updated>2021-10-27T03:18:36.991Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt2kd">얼룩소나라의 이상한 앨리스</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람들의 1분을 붙잡는 묘수가 있을까요?]]></title>
+        <id>https://alook.so/posts/M9t34Y</id>
+        <link href="https://alook.so/posts/M9t34Y"/>
+        <updated>2021-10-27T03:18:37.008Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t34Y">사람들의 1분을 붙잡는 묘수가 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떻게 해서든 유지하고 싶어요.]]></title>
+        <id>https://alook.so/posts/zvtYPL</id>
+        <link href="https://alook.so/posts/zvtYPL"/>
+        <updated>2021-10-27T03:18:36.982Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtYPL">어떻게 해서든 유지하고 싶어요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오전 1답글, 오후 1본글로 페이스조절하게 되었습니다.]]></title>
@@ -69,32 +90,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtw3q">얼룩소 4주 차 당신에게 어떤 변화가 일어났나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도대체 왜 '설거지'여야 할까요?]]></title>
-        <id>https://alook.so/posts/bWtpVW</id>
-        <link href="https://alook.so/posts/bWtpVW"/>
-        <updated>2021-10-27T03:18:36.987Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtpVW">도대체 왜 '설거지'여야 할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특목고로 내 인생은 얼마나 달라졌나 : 배움이란]]></title>
-        <id>https://alook.so/posts/w9tdK1</id>
-        <link href="https://alook.so/posts/w9tdK1"/>
-        <updated>2021-10-27T03:18:36.994Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tdK1">특목고로 내 인생은 얼마나 달라졌나 : 배움이란</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 1등은]]></title>
-        <id>https://alook.so/posts/OEtMlj</id>
-        <link href="https://alook.so/posts/OEtMlj"/>
-        <updated>2021-10-27T03:18:36.996Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtMlj">나의 1등은</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[우리는 어디서 왔으며, 무엇이며, 어디로 가는가?: 20대 청년들의 이야기2]]></title>
         <id>https://alook.so/posts/q1t38r</id>
         <link href="https://alook.so/posts/q1t38r"/>
         <updated>2021-10-27T03:18:36.984Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t38r">우리는 어디서 왔으며, 무엇이며, 어디로 가는가?: 20대 청년들의 이야기2</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민주화의 수수께끼 - 노태우 씨의 경우]]></title>
+        <id>https://alook.so/posts/E7t445</id>
+        <link href="https://alook.so/posts/E7t445"/>
+        <updated>2021-10-27T03:18:36.996Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t445">민주화의 수수께끼 - 노태우 씨의 경우</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역사라는 흐름 속에서 사고하기:노태우 전 대통령의 경우]]></title>
@@ -104,34 +111,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtGnk">역사라는 흐름 속에서 사고하기:노태우 전 대통령의 경우</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소나라의 이상한 앨리스]]></title>
-        <id>https://alook.so/posts/Kmt2kd</id>
-        <link href="https://alook.so/posts/Kmt2kd"/>
-        <updated>2021-10-27T03:18:36.991Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt2kd">얼룩소나라의 이상한 앨리스</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교과서 이야기]]></title>
-        <id>https://alook.so/posts/3wtaYx</id>
-        <link href="https://alook.so/posts/3wtaYx"/>
-        <updated>2021-10-27T03:18:36.989Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtaYx">교과서 이야기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 해서든 유지하고 싶어요.]]></title>
-        <id>https://alook.so/posts/zvtYPL</id>
-        <link href="https://alook.so/posts/zvtYPL"/>
-        <updated>2021-10-27T03:18:36.982Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtYPL">어떻게 해서든 유지하고 싶어요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플 광택용 천 주문폭주로 본 소비 트렌드]]></title>
-        <id>https://alook.so/posts/bWtpLd</id>
-        <link href="https://alook.so/posts/bWtpLd"/>
-        <updated>2021-10-27T03:18:36.987Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtpLd">애플 광택용 천 주문폭주로 본 소비 트렌드</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[핸드폰 없이 살아보기...해보셨나요?]]></title>
         <id>https://alook.so/posts/E7tY6G</id>
         <link href="https://alook.so/posts/E7tY6G"/>
@@ -139,10 +118,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tY6G">핸드폰 없이 살아보기...해보셨나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사람들의 1분을 붙잡는 묘수가 있을까요?]]></title>
-        <id>https://alook.so/posts/M9t34Y</id>
-        <link href="https://alook.so/posts/M9t34Y"/>
-        <updated>2021-10-27T03:18:37.008Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t34Y">사람들의 1분을 붙잡는 묘수가 있을까요?</a>]]></content>
+        <title type="html"><![CDATA[영원하지 않은 어머니]]></title>
+        <id>https://alook.so/posts/6Mt702</id>
+        <link href="https://alook.so/posts/6Mt702"/>
+        <updated>2021-10-27T03:18:36.987Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt702">영원하지 않은 어머니</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“나 사실 같이 사는 언니가 와이프야”]]></title>
+        <id>https://alook.so/posts/Yytk0l</id>
+        <link href="https://alook.so/posts/Yytk0l"/>
+        <updated>2021-10-27T03:18:37.004Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytk0l">“나 사실 같이 사는 언니가 와이프야”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자극성에 비례하는 수익]]></title>
+        <id>https://alook.so/posts/zvtVGn</id>
+        <link href="https://alook.so/posts/zvtVGn"/>
+        <updated>2021-10-27T03:18:36.994Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtVGn">자극성에 비례하는 수익</a>]]></content>
     </entry>
 </feed>
