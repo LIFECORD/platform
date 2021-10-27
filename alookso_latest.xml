@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-27T06:18:51.154Z</updated>
+    <updated>2021-10-27T07:16:06.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[계층의 레벨 업]]></title>
-        <id>https://alook.so/posts/70t1Jd</id>
-        <link href="https://alook.so/posts/70t1Jd"/>
-        <updated>2021-10-27T06:17:26.382Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t1Jd">계층의 레벨 업</a>]]></content>
+        <title type="html"><![CDATA[결혼하면 너는 끝이야]]></title>
+        <id>https://alook.so/posts/kZtvVZ</id>
+        <link href="https://alook.so/posts/kZtvVZ"/>
+        <updated>2021-10-27T07:14:34.409Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtvVZ">결혼하면 너는 끝이야</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부모와 자식간의 갈등]]></title>
-        <id>https://alook.so/posts/YytkGx</id>
-        <link href="https://alook.so/posts/YytkGx"/>
-        <updated>2021-10-27T06:17:26.383Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytkGx">부모와 자식간의 갈등</a>]]></content>
+        <title type="html"><![CDATA[‘두 번째’ ‘여성’ 국방 장관 기사가 나왔네요?]]></title>
+        <id>https://alook.so/posts/yEtkmP</id>
+        <link href="https://alook.so/posts/yEtkmP"/>
+        <updated>2021-10-27T07:14:34.411Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtkmP">‘두 번째’ ‘여성’ 국방 장관 기사가 나왔네요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성희롱을 당해도 참아야 한다.]]></title>
-        <id>https://alook.so/posts/rDt57x</id>
-        <link href="https://alook.so/posts/rDt57x"/>
-        <updated>2021-10-27T06:17:26.384Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt57x">성희롱을 당해도 참아야 한다.</a>]]></content>
+        <title type="html"><![CDATA[세금은 내는데 혜택을 받을 수 있을까요?]]></title>
+        <id>https://alook.so/posts/LKtxJP</id>
+        <link href="https://alook.so/posts/LKtxJP"/>
+        <updated>2021-10-27T07:14:34.412Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtxJP">세금은 내는데 혜택을 받을 수 있을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10대들은 왜 불행 한가요?]]></title>
-        <id>https://alook.so/posts/jdtbPx</id>
-        <link href="https://alook.so/posts/jdtbPx"/>
-        <updated>2021-10-27T06:17:26.386Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtbPx">10대들은 왜 불행 한가요?</a>]]></content>
+        <title type="html"><![CDATA[1년에 해외여행 10번 이상 가면서 느낀점 (솔직리뷰)]]></title>
+        <id>https://alook.so/posts/3wtarV</id>
+        <link href="https://alook.so/posts/3wtarV"/>
+        <updated>2021-10-27T07:14:34.415Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtarV">1년에 해외여행 10번 이상 가면서 느낀점 (솔직리뷰)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성전자 주식]]></title>
-        <id>https://alook.so/posts/dztoDK</id>
-        <link href="https://alook.so/posts/dztoDK"/>
-        <updated>2021-10-27T06:17:26.387Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztoDK">삼성전자 주식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장애아를 임신한걸 6개월에 알았다..선택은?]]></title>
-        <id>https://alook.so/posts/J5tapP</id>
-        <link href="https://alook.so/posts/J5tapP"/>
-        <updated>2021-10-27T06:17:26.388Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tapP">장애아를 임신한걸 6개월에 알았다..선택은?</a>]]></content>
+        <title type="html"><![CDATA[너만 예민하네..코로나 백신..?!]]></title>
+        <id>https://alook.so/posts/8Wt6OR</id>
+        <link href="https://alook.so/posts/8Wt6OR"/>
+        <updated>2021-10-27T07:14:34.415Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt6OR">너만 예민하네..코로나 백신..?!</a>]]></content>
     </entry>
 </feed>
