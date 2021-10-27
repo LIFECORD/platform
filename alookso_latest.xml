@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-27T17:21:17.701Z</updated>
+    <updated>2021-10-27T18:17:53.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[세상엔 선과 악이 있다는 사실을 입증했다]]></title>
+        <title type="html"><![CDATA[들었던 말중에 가장 슬픈말..]]></title>
+        <id>https://alook.so/posts/3wtap6</id>
+        <link href="https://alook.so/posts/3wtap6"/>
+        <updated>2021-10-27T18:16:31.150Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtap6">들었던 말중에 가장 슬픈말..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주 4일제? 그 전에 모두가 평등하게 쉴 권리가 필요합니다]]></title>
+        <id>https://alook.so/posts/vKtynv</id>
+        <link href="https://alook.so/posts/vKtynv"/>
+        <updated>2021-10-27T18:16:31.151Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtynv">주 4일제? 그 전에 모두가 평등하게 쉴 권리가 필요합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<미투 운동>세상엔 선과 악이 있다는 사실을 입증했다]]></title>
         <id>https://alook.so/posts/E7t4bB</id>
         <link href="https://alook.so/posts/E7t4bB"/>
         <updated>2021-10-27T17:19:44.653Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4bB">세상엔 선과 악이 있다는 사실을 입증했다</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4bB">&lt;미투 운동&gt;세상엔 선과 악이 있다는 사실을 입증했다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아니지도, 그렇지도 않다]]></title>
+        <title type="html"><![CDATA[<임신과 출산> 아니지도, 그렇지도 않다]]></title>
         <id>https://alook.so/posts/latyeb</id>
         <link href="https://alook.so/posts/latyeb"/>
         <updated>2021-10-27T17:19:44.654Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latyeb">아니지도, 그렇지도 않다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젠더 갈등, 어떻게 극복해야 할까?]]></title>
-        <id>https://alook.so/posts/54tBmJ</id>
-        <link href="https://alook.so/posts/54tBmJ"/>
-        <updated>2021-10-27T17:19:44.656Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tBmJ">젠더 갈등, 어떻게 극복해야 할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에서 놀 때 좋은 점]]></title>
-        <id>https://alook.so/posts/Djt7bm</id>
-        <link href="https://alook.so/posts/Djt7bm"/>
-        <updated>2021-10-27T17:19:44.657Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt7bm">얼룩소에서 놀 때 좋은 점 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 격려해줄 의무밖에는 없습니다.]]></title>
-        <id>https://alook.so/posts/1RtxeG</id>
-        <link href="https://alook.so/posts/1RtxeG"/>
-        <updated>2021-10-27T17:19:44.658Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtxeG">우리는 격려해줄 의무밖에는 없습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친구와 권태기 계속 유지하는 게 맞을까요?]]></title>
-        <id>https://alook.so/posts/o7tLGG</id>
-        <link href="https://alook.so/posts/o7tLGG"/>
-        <updated>2021-10-27T16:20:55.021Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tLGG">친구와 권태기 계속 유지하는 게 맞을까요?</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latyeb">&lt;임신과 출산&gt; 아니지도, 그렇지도 않다</a>]]></content>
     </entry>
 </feed>
