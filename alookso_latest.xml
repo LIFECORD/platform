@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T07:16:46.501Z</updated>
+    <updated>2021-10-28T08:18:11.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[에디터 픽 1개 보단 얼룩커 픽 20개를 목표로]]></title>
-        <id>https://alook.so/posts/WLtGvo</id>
-        <link href="https://alook.so/posts/WLtGvo"/>
-        <updated>2021-10-28T07:15:21.696Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtGvo">에디터 픽 1개 보단 얼룩커 픽 20개를 목표로</a>]]></content>
+        <title type="html"><![CDATA[길고양이, 키우실 건가요?]]></title>
+        <id>https://alook.so/posts/vKtykm</id>
+        <link href="https://alook.so/posts/vKtykm"/>
+        <updated>2021-10-28T08:16:46.437Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtykm">길고양이, 키우실 건가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에디터픽 솔직히 다 받고싶죠?]]></title>
-        <id>https://alook.so/posts/RGt2Gb</id>
-        <link href="https://alook.so/posts/RGt2Gb"/>
-        <updated>2021-10-28T07:15:21.697Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt2Gb">에디터픽 솔직히 다 받고싶죠?</a>]]></content>
+        <title type="html"><![CDATA[답글: 넷제로, 가야만 하는 길이지만 급하게 가면 부작용이 많을 수 있는 길]]></title>
+        <id>https://alook.so/posts/E7t4vW</id>
+        <link href="https://alook.so/posts/E7t4vW"/>
+        <updated>2021-10-28T08:16:46.438Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4vW">답글: 넷제로, 가야만 하는 길이지만 급하게 가면 부작용이 많을 수 있는 길</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라면뽕]]></title>
-        <id>https://alook.so/posts/BatlR9</id>
-        <link href="https://alook.so/posts/BatlR9"/>
-        <updated>2021-10-28T07:15:21.700Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatlR9">라면뽕 </a>]]></content>
+        <title type="html"><![CDATA[한국의 특정 10대는 왜 불행해야 할까요?]]></title>
+        <id>https://alook.so/posts/latymR</id>
+        <link href="https://alook.so/posts/latymR"/>
+        <updated>2021-10-28T08:16:46.439Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latymR">한국의 특정 10대는 왜 불행해야 할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모두 노력했을겁니다.]]></title>
+        <id>https://alook.so/posts/mbtOyP</id>
+        <link href="https://alook.so/posts/mbtOyP"/>
+        <updated>2021-10-28T08:16:46.440Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOyP">모두 노력했을겁니다.</a>]]></content>
     </entry>
 </feed>
