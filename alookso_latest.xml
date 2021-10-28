@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T05:14:34.457Z</updated>
+    <updated>2021-10-28T06:18:54.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[통일을 해야할까요?]]></title>
-        <id>https://alook.so/posts/0ktpR4</id>
-        <link href="https://alook.so/posts/0ktpR4"/>
-        <updated>2021-10-28T05:13:02.352Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktpR4">통일을 해야할까요?</a>]]></content>
+        <title type="html"><![CDATA[너무 많이 늦었지만 이제라도 반드시.]]></title>
+        <id>https://alook.so/posts/latydW</id>
+        <link href="https://alook.so/posts/latydW"/>
+        <updated>2021-10-28T06:17:28.391Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latydW">너무 많이 늦었지만 이제라도 반드시.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[햇볕덕후 나야나]]></title>
-        <id>https://alook.so/posts/M9t3Op</id>
-        <link href="https://alook.so/posts/M9t3Op"/>
-        <updated>2021-10-28T05:13:02.359Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t3Op">햇볕덕후 나야나</a>]]></content>
+        <title type="html"><![CDATA[답글: 저도 어쩔 수 없는 진지충 엄마인가봐요.]]></title>
+        <id>https://alook.so/posts/mbtOe9</id>
+        <link href="https://alook.so/posts/mbtOe9"/>
+        <updated>2021-10-28T06:17:28.392Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOe9">답글: 저도 어쩔 수 없는 진지충 엄마인가봐요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 사람들의 1분을 붙잡는 묘수가 있을까요?(영어 콘텐츠는 어떨까요)]]></title>
-        <id>https://alook.so/posts/4XtzDy</id>
-        <link href="https://alook.so/posts/4XtzDy"/>
-        <updated>2021-10-28T05:13:02.360Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtzDy">답글: 사람들의 1분을 붙잡는 묘수가 있을까요?(영어 콘텐츠는 어떨까요)</a>]]></content>
+        <title type="html"><![CDATA[직종별 밸런스를 잡는 것이 중요할것 같아요!]]></title>
+        <id>https://alook.so/posts/54tBJL</id>
+        <link href="https://alook.so/posts/54tBJL"/>
+        <updated>2021-10-28T06:17:28.394Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tBJL">직종별 밸런스를 잡는 것이 중요할것 같아요!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지나가다가 담배 피는 학생..모르는척 할까? 아님 혼내야 할까?]]></title>
-        <id>https://alook.so/posts/w9tdXR</id>
-        <link href="https://alook.so/posts/w9tdXR"/>
-        <updated>2021-10-28T05:13:02.363Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tdXR">지나가다가 담배 피는 학생..모르는척 할까? 아님 혼내야 할까?</a>]]></content>
+        <title type="html"><![CDATA[그렇게 아버지가 된다.]]></title>
+        <id>https://alook.so/posts/1Rtxd4</id>
+        <link href="https://alook.so/posts/1Rtxd4"/>
+        <updated>2021-10-28T06:17:28.395Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtxd4">그렇게 아버지가 된다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선택과 후회]]></title>
-        <id>https://alook.so/posts/xltz3B</id>
-        <link href="https://alook.so/posts/xltz3B"/>
-        <updated>2021-10-28T05:13:02.374Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltz3B">선택과 후회</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그대는 별 이다.]]></title>
-        <id>https://alook.so/posts/RGt2vD</id>
-        <link href="https://alook.so/posts/RGt2vD"/>
-        <updated>2021-10-28T05:13:02.374Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt2vD">그대는 별 이다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자, 별같은 그대]]></title>
-        <id>https://alook.so/posts/kZtvX1</id>
-        <link href="https://alook.so/posts/kZtvX1"/>
-        <updated>2021-10-28T05:13:02.374Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtvX1">삼성전자, 별같은 그대 </a>]]></content>
+        <title type="html"><![CDATA[엄마와 내딸의 관계]]></title>
+        <id>https://alook.so/posts/o7tLoJ</id>
+        <link href="https://alook.so/posts/o7tLoJ"/>
+        <updated>2021-10-28T06:17:28.397Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tLoJ">엄마와 내딸의 관계</a>]]></content>
     </entry>
 </feed>
