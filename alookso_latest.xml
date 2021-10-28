@@ -2,49 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T16:22:47.632Z</updated>
+    <updated>2021-10-28T17:21:11.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[에디터 픽..받고싶죠?]]></title>
-        <id>https://alook.so/posts/92tKD7</id>
-        <link href="https://alook.so/posts/92tKD7"/>
-        <updated>2021-10-28T16:09:04.691Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tKD7">에디터 픽..받고싶죠?</a>]]></content>
+        <title type="html"><![CDATA[매일 글쓰기를 할 수 있는 3가지 꿀팁]]></title>
+        <id>https://alook.so/posts/3wta6R</id>
+        <link href="https://alook.so/posts/3wta6R"/>
+        <updated>2021-10-28T17:19:35.759Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wta6R">매일 글쓰기를 할 수 있는 3가지 꿀팁</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모든것..]]></title>
-        <id>https://alook.so/posts/Kmt2ZD</id>
-        <link href="https://alook.so/posts/Kmt2ZD"/>
-        <updated>2021-10-28T16:09:04.693Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt2ZD">모든것..</a>]]></content>
+        <title type="html"><![CDATA[나의 고민얘기]]></title>
+        <id>https://alook.so/posts/G1t6zD</id>
+        <link href="https://alook.so/posts/G1t6zD"/>
+        <updated>2021-10-28T17:19:35.763Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t6zD">나의 고민얘기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[톺아보기를 톺아볼까요?]]></title>
-        <id>https://alook.so/posts/mbtOm4</id>
-        <link href="https://alook.so/posts/mbtOm4"/>
-        <updated>2021-10-28T16:09:04.694Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOm4">톺아보기를 톺아볼까요?</a>]]></content>
+        <title type="html"><![CDATA[아가야 통잠 자자]]></title>
+        <id>https://alook.so/posts/OEtM02</id>
+        <link href="https://alook.so/posts/OEtM02"/>
+        <updated>2021-10-28T17:19:35.763Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtM02">아가야 통잠 자자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자본주의에서 투자를 하지 않는 것이 불행한 것이다.]]></title>
-        <id>https://alook.so/posts/Djt7Re</id>
-        <link href="https://alook.so/posts/Djt7Re"/>
-        <updated>2021-10-28T16:09:04.695Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt7Re">자본주의에서 투자를 하지 않는 것이 불행한 것이다.</a>]]></content>
+        <title type="html"><![CDATA[수요와 공급, 매도와 매수]]></title>
+        <id>https://alook.so/posts/vKty8n</id>
+        <link href="https://alook.so/posts/vKty8n"/>
+        <updated>2021-10-28T17:19:35.763Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKty8n">수요와 공급, 매도와 매수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[되는대로 써보는 답(?)]]></title>
-        <id>https://alook.so/posts/o7tLJ8</id>
-        <link href="https://alook.so/posts/o7tLJ8"/>
-        <updated>2021-10-28T16:09:04.697Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tLJ8">되는대로 써보는 답(?)</a>]]></content>
+        <title type="html"><![CDATA[어제의 일과]]></title>
+        <id>https://alook.so/posts/E7t4L8</id>
+        <link href="https://alook.so/posts/E7t4L8"/>
+        <updated>2021-10-28T17:19:35.763Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4L8">어제의 일과</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현타 쎄게 온 월급쟁이]]></title>
-        <id>https://alook.so/posts/70t17R</id>
-        <link href="https://alook.so/posts/70t17R"/>
-        <updated>2021-10-28T16:09:04.698Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t17R">현타 쎄게 온 월급쟁이</a>]]></content>
+        <title type="html"><![CDATA[10대?]]></title>
+        <id>https://alook.so/posts/latyKo</id>
+        <link href="https://alook.so/posts/latyKo"/>
+        <updated>2021-10-28T17:19:35.763Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latyKo">10대?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["기준을 낮추더라도 무조건 쓰십시오"]]></title>
+        <id>https://alook.so/posts/92tKDW</id>
+        <link href="https://alook.so/posts/92tKDW"/>
+        <updated>2021-10-28T17:19:35.764Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tKDW">"기준을 낮추더라도 무조건 쓰십시오"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후위기에 대한 대책은 인간 모두의 과제다]]></title>
+        <id>https://alook.so/posts/Kmt2Ze</id>
+        <link href="https://alook.so/posts/Kmt2Ze"/>
+        <updated>2021-10-28T17:19:35.769Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt2Ze">기후위기에 대한 대책은 인간 모두의 과제다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 들이는 품과 가치를 비교해봐야할 것 같아요]]></title>
+        <id>https://alook.so/posts/mbtOmp</id>
+        <link href="https://alook.so/posts/mbtOmp"/>
+        <updated>2021-10-28T17:19:35.769Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOmp">내가 들이는 품과 가치를 비교해봐야할 것 같아요</a>]]></content>
     </entry>
 </feed>
