@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://figk.net/text</id>
     <title>FIGK</title>
-    <updated>2021-10-28T09:16:53.513Z</updated>
+    <updated>2021-10-28T09:26:41.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://figk.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국영상자료원, ‘한국영화X공간’, 2021]]></title>
+        <id>https://www.youtube.com/watch?v=56kdoHBNk1o</id>
+        <link href="https://www.youtube.com/watch?v=56kdoHBNk1o"/>
+        <updated>2021-10-28T09:25:02.222Z</updated>
+        <content type="html"><![CDATA[나지언]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스코틀랜드 경찰, ‘Don’t Be That Guy’ 캠페인, 2021]]></title>
+        <id>https://twitter.com/ThatGuyScotland/status/1448211977629798402</id>
+        <link href="https://twitter.com/ThatGuyScotland/status/1448211977629798402"/>
+        <updated>2021-10-28T09:25:02.226Z</updated>
+        <content type="html"><![CDATA[나지언]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈하우스 서울 2021 (10.30-11.13)]]></title>
+        <id>https://www.ohseoul.org/</id>
+        <link href="https://www.ohseoul.org/"/>
+        <updated>2021-10-28T09:25:02.227Z</updated>
+        <content type="html"><![CDATA[박정용]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조경숙 [왜 개발자를 생각하면 남성의 얼굴이 떠오르는가]]]></title>
+        <id>https://www.sisain.co.kr/news/articleView.html?idxno=45728</id>
+        <link href="https://www.sisain.co.kr/news/articleView.html?idxno=45728"/>
+        <updated>2021-10-28T09:25:02.227Z</updated>
+        <content type="html"><![CDATA[이서영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<유퀴즈 온 더 블럭> ‘팔도 리포터’ 편]]></title>
         <id>https://youtu.be/dhzra6urJKc</id>
@@ -121,7 +149,7 @@
         <title type="html"><![CDATA[]]></title>
         <id>https://figk.net/text</id>
         <link href="https://figk.net/text"/>
-        <updated>2021-10-28T08:16:37.828Z</updated>
+        <updated>2021-10-28T09:25:02.237Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[<패들보더와 호기심 많은 고래의 아름다운 조우> BBC News]]></title>
@@ -150,6 +178,34 @@
         <link href="https://www.joongang.co.kr/article/25006158"/>
         <updated>2021-10-19T06:16:53.682Z</updated>
         <content type="html"><![CDATA[차우진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스파오에 들어선 국내 첫 '평균 체헝 마네킹']]></title>
+        <id>https://www.youtube.com/watch?v=xJk5nKKtYPc</id>
+        <link href="https://www.youtube.com/watch?v=xJk5nKKtYPc"/>
+        <updated>2021-10-28T09:25:02.243Z</updated>
+        <content type="html"><![CDATA[김소희]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 코끼리가 ‘상아' 없이 태어나는 이유]]></title>
+        <id>https://www.hani.co.kr/arti/animalpeople/ecology_evolution/1016255.html</id>
+        <link href="https://www.hani.co.kr/arti/animalpeople/ecology_evolution/1016255.html"/>
+        <updated>2021-10-28T09:25:02.244Z</updated>
+        <content type="html"><![CDATA[김도훈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<보통 깡이 아니다 / 새우깡 블랙> 농심 유튜브 채널]]></title>
+        <id>https://youtu.be/PQHiDTDBOxQ</id>
+        <link href="https://youtu.be/PQHiDTDBOxQ"/>
+        <updated>2021-10-28T09:25:02.245Z</updated>
+        <content type="html"><![CDATA[신기헌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밀레니얼 세대 번아웃을 이야기하는 신간 <요즘 애들>]]></title>
+        <id>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281634223</id>
+        <link href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=281634223"/>
+        <updated>2021-10-28T09:25:02.247Z</updated>
+        <content type="html"><![CDATA[김도훈]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<멍청한 대중들> 과나 유튜브 채널]]></title>
@@ -295,7 +351,35 @@
         <title type="html"><![CDATA[]]></title>
         <id>https://figk.net/text</id>
         <link href="https://figk.net/text"/>
-        <updated>2021-10-28T08:16:37.866Z</updated>
+        <updated>2021-10-28T09:25:02.291Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<“왜 이제야?” “눈물 난다”... 메르켈 연설에 놀란 독일> 오마이뉴스]]></title>
+        <id>http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002780728&amp;SRS_CD=0000012215</id>
+        <link href="http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002780728&amp;SRS_CD=0000012215"/>
+        <updated>2021-10-28T09:25:02.293Z</updated>
+        <content type="html"><![CDATA[김지연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<[문소영의 문화가 암시하는 사회] ‘이건희 컬렉션’에 대한 세 가지 오해> 중앙일보]]></title>
+        <id>https://www.joongang.co.kr/article/25013284</id>
+        <link href="https://www.joongang.co.kr/article/25013284"/>
+        <updated>2021-10-28T09:25:02.298Z</updated>
+        <content type="html"><![CDATA[김지연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CL의 과거와 현재, 미래를 담은 첫 정규작 ‘ALPHA’]]></title>
+        <id>https://www.youtube.com/watch?v=mKeJk3gaEbo</id>
+        <link href="https://www.youtube.com/watch?v=mKeJk3gaEbo"/>
+        <updated>2021-10-28T09:25:02.298Z</updated>
+        <content type="html"><![CDATA[김도헌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<How TikTok Serves Up Sex and Drug Videos to Minors> WSJ]]></title>
+        <id>https://www.wsj.com/articles/tiktok-algorithm-sex-drugs-minors-11631052944</id>
+        <link href="https://www.wsj.com/articles/tiktok-algorithm-sex-drugs-minors-11631052944"/>
+        <updated>2021-10-28T09:25:02.299Z</updated>
+        <content type="html"><![CDATA[김도헌]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<시라노>  영화 트레일러]]></title>

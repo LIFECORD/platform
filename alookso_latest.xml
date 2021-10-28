@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T09:16:53.631Z</updated>
+    <updated>2021-10-28T09:26:41.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[네, 고등학교 2학년이 답합니다.]]></title>
+        <id>https://alook.so/posts/a0tEPL</id>
+        <link href="https://alook.so/posts/a0tEPL"/>
+        <updated>2021-10-28T09:25:10.092Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tEPL">네, 고등학교 2학년이 답합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하늘사진찍는데 푹빠졌습니다.]]></title>
+        <id>https://alook.so/posts/ZktYE4</id>
+        <link href="https://alook.so/posts/ZktYE4"/>
+        <updated>2021-10-28T09:25:10.093Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktYE4">하늘사진찍는데 푹빠졌습니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카르페 디엠, 현재를 즐겨라]]></title>
         <id>https://alook.so/posts/J5ta10</id>
@@ -46,19 +60,5 @@
         <link href="https://alook.so/posts/0ktpyb"/>
         <updated>2021-10-28T09:15:25.002Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktpyb">학위가 살아가면서 중요할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대기업 종사자가 생각하는 기술발전이 미치는 영향 (솔직리뷰)]]></title>
-        <id>https://alook.so/posts/XBtM88</id>
-        <link href="https://alook.so/posts/XBtM88"/>
-        <updated>2021-10-28T09:15:25.004Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtM88">대기업 종사자가 생각하는 기술발전이 미치는 영향 (솔직리뷰)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상은 이미 변했습니다.]]></title>
-        <id>https://alook.so/posts/w9tdjP</id>
-        <link href="https://alook.so/posts/w9tdjP"/>
-        <updated>2021-10-28T09:15:25.006Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tdjP">세상은 이미 변했습니다.</a>]]></content>
     </entry>
 </feed>
