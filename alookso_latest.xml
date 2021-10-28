@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T14:16:33.362Z</updated>
+    <updated>2021-10-28T15:16:43.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[사람들과의 조화]]></title>
-        <id>https://alook.so/posts/E7t4K3</id>
-        <link href="https://alook.so/posts/E7t4K3"/>
-        <updated>2021-10-28T14:13:52.713Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4K3">사람들과의 조화</a>]]></content>
+        <title type="html"><![CDATA[주 4일제는 새로운 시작 입니다.]]></title>
+        <id>https://alook.so/posts/eVtk3P</id>
+        <link href="https://alook.so/posts/eVtk3P"/>
+        <updated>2021-10-28T15:15:08.709Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtk3P">주 4일제는 새로운 시작 입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모든 고민은 이 3가지로부터 나옵니다.]]></title>
-        <id>https://alook.so/posts/92tKj7</id>
-        <link href="https://alook.so/posts/92tKj7"/>
-        <updated>2021-10-28T14:13:52.714Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tKj7">모든 고민은 이 3가지로부터 나옵니다.</a>]]></content>
+        <title type="html"><![CDATA[오징어 게임이 전세계적으로 흥행하는 이유?]]></title>
+        <id>https://alook.so/posts/Pvt28Y</id>
+        <link href="https://alook.so/posts/Pvt28Y"/>
+        <updated>2021-10-28T15:15:08.709Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt28Y">오징어 게임이 전세계적으로 흥행하는 이유?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요즘 내가 꽂혀있는 것들]]></title>
-        <id>https://alook.so/posts/Kmt2zD</id>
-        <link href="https://alook.so/posts/Kmt2zD"/>
-        <updated>2021-10-28T14:13:52.716Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt2zD">요즘 내가 꽂혀있는 것들</a>]]></content>
+        <title type="html"><![CDATA[외국에서 홍보수단이 되어지는 반출 문화재]]></title>
+        <id>https://alook.so/posts/Vnt5B7</id>
+        <link href="https://alook.so/posts/Vnt5B7"/>
+        <updated>2021-10-28T15:15:08.710Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt5B7">외국에서 홍보수단이 되어지는 반출 문화재</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대학, 취업 순서가 바뀐 것 같다.]]></title>
-        <id>https://alook.so/posts/Yytkq7</id>
-        <link href="https://alook.so/posts/Yytkq7"/>
-        <updated>2021-10-28T14:13:52.717Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytkq7">대학, 취업 순서가 바뀐 것 같다.</a>]]></content>
+        <title type="html"><![CDATA[정답은 바로]]></title>
+        <id>https://alook.so/posts/0ktp9R</id>
+        <link href="https://alook.so/posts/0ktp9R"/>
+        <updated>2021-10-28T15:15:08.714Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktp9R">정답은 바로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국뽕]]></title>
-        <id>https://alook.so/posts/E7t461</id>
-        <link href="https://alook.so/posts/E7t461"/>
-        <updated>2021-10-28T14:13:52.718Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t461">국뽕</a>]]></content>
+        <title type="html"><![CDATA["조깅 하실래요?" - 마라닉 30분 30일 프로그램 소개]]></title>
+        <id>https://alook.so/posts/XBtMLE</id>
+        <link href="https://alook.so/posts/XBtMLE"/>
+        <updated>2021-10-28T15:15:08.715Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtMLE">"조깅 하실래요?" - 마라닉 30분 30일 프로그램 소개</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매일매일 잘해주기만 하는 가족이 참 부담스럽습니다.]]></title>
+        <id>https://alook.so/posts/w9td23</id>
+        <link href="https://alook.so/posts/w9td23"/>
+        <updated>2021-10-28T15:15:08.716Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9td23">매일매일 잘해주기만 하는 가족이 참 부담스럽습니다.</a>]]></content>
     </entry>
 </feed>
