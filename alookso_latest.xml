@@ -2,56 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T03:16:31.989Z</updated>
+    <updated>2021-10-28T04:20:02.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA["여러분은 노래를 잘 부르시나요?"]]></title>
-        <id>https://alook.so/posts/RGt2bD</id>
-        <link href="https://alook.so/posts/RGt2bD"/>
-        <updated>2021-10-28T03:15:10.876Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt2bD">"여러분은 노래를 잘 부르시나요?"</a>]]></content>
+        <title type="html"><![CDATA[치과위생사라는 직업 추천합니다]]></title>
+        <id>https://alook.so/posts/1Rtxo4</id>
+        <link href="https://alook.so/posts/1Rtxo4"/>
+        <updated>2021-10-28T04:18:34.184Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtxo4">치과위생사라는 직업 추천합니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안녕하십니까? 자살 시도자 입니다.]]></title>
-        <id>https://alook.so/posts/kZtvD1</id>
-        <link href="https://alook.so/posts/kZtvD1"/>
-        <updated>2021-10-28T03:15:10.877Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtvD1">안녕하십니까? 자살 시도자 입니다.</a>]]></content>
+        <title type="html"><![CDATA[시월이면 생각나는 노래]]></title>
+        <id>https://alook.so/posts/o7tLDJ</id>
+        <link href="https://alook.so/posts/o7tLDJ"/>
+        <updated>2021-10-28T04:18:34.185Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tLDJ">시월이면 생각나는 노래</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보기 싫은 것은 안 본다고 없어지는 것이 아니다.]]></title>
-        <id>https://alook.so/posts/yEtkOk</id>
-        <link href="https://alook.so/posts/yEtkOk"/>
-        <updated>2021-10-28T03:15:10.878Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtkOk">보기 싫은 것은 안 본다고 없어지는 것이 아니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 성소수자 인권, 숫자로 보면 어떨까요?]]></title>
-        <id>https://alook.so/posts/LKtxka</id>
-        <link href="https://alook.so/posts/LKtxka"/>
-        <updated>2021-10-28T03:15:10.880Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtxka">한국 성소수자 인권, 숫자로 보면 어떨까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내면의 변화를 주다]]></title>
-        <id>https://alook.so/posts/njta3X</id>
-        <link href="https://alook.so/posts/njta3X"/>
-        <updated>2021-10-28T03:15:10.881Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njta3X">내면의 변화를 주다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무슨 고민 있으신가요?]]></title>
-        <id>https://alook.so/posts/G1t6Dj</id>
-        <link href="https://alook.so/posts/G1t6Dj"/>
-        <updated>2021-10-28T03:15:10.883Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t6Dj">무슨 고민 있으신가요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이별]]></title>
-        <id>https://alook.so/posts/vKtyKZ</id>
-        <link href="https://alook.so/posts/vKtyKZ"/>
-        <updated>2021-10-28T03:15:10.884Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtyKZ">이별</a>]]></content>
+        <title type="html"><![CDATA[콜센터 1년 후기]]></title>
+        <id>https://alook.so/posts/ZktYLE</id>
+        <link href="https://alook.so/posts/ZktYLE"/>
+        <updated>2021-10-28T04:18:34.187Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktYLE">콜센터 1년 후기</a>]]></content>
     </entry>
 </feed>
