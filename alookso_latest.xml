@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T21:14:36.195Z</updated>
+    <updated>2021-10-28T22:15:31.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[라면 끊을 수 있을까요?]]></title>
+        <id>https://alook.so/posts/xltzw4</id>
+        <link href="https://alook.so/posts/xltzw4"/>
+        <updated>2021-10-28T22:14:00.465Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltzw4">라면 끊을 수 있을까요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매일 글쓰기를 할 수 있는 3가지 꿀팁(3)]]></title>
         <id>https://alook.so/posts/LKtxRq</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/vKty8n"/>
         <updated>2021-10-28T17:19:35.763Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKty8n">수요와 공급, 매도와 매수</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어제의 일과]]></title>
-        <id>https://alook.so/posts/E7t4L8</id>
-        <link href="https://alook.so/posts/E7t4L8"/>
-        <updated>2021-10-28T17:19:35.763Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4L8">어제의 일과</a>]]></content>
     </entry>
 </feed>

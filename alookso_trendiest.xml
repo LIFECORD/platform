@@ -2,50 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-10-28T21:14:36.184Z</updated>
+    <updated>2021-10-28T22:15:31.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[자동저장 기능 추가, 감사합니다!]]></title>
-        <id>https://alook.so/posts/92tKoq</id>
-        <link href="https://alook.so/posts/92tKoq"/>
-        <updated>2021-10-28T07:15:30.659Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tKoq">자동저장 기능 추가, 감사합니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평생 월급으로만 살 수 있을까요?]]></title>
-        <id>https://alook.so/posts/ZktYzZ</id>
-        <link href="https://alook.so/posts/ZktYzZ"/>
-        <updated>2021-10-28T15:15:17.494Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktYzZ">평생 월급으로만 살 수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 오늘 얼룩소로부터 만원을 입금 받았다]]></title>
-        <id>https://alook.so/posts/70t1Ym</id>
-        <link href="https://alook.so/posts/70t1Ym"/>
-        <updated>2021-10-28T15:15:17.511Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t1Ym">나는 오늘 얼룩소로부터 만원을 입금 받았다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에디터픽 솔직히 다 받고싶죠?]]></title>
-        <id>https://alook.so/posts/RGt2Gb</id>
-        <link href="https://alook.so/posts/RGt2Gb"/>
-        <updated>2021-10-28T10:06:04.850Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt2Gb">에디터픽 솔직히 다 받고싶죠?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국이 식민지를 가져본 경험이 없는 나라 중 처음으로 '문화(초)강국'이 된 경우라고?]]></title>
-        <id>https://alook.so/posts/92tKya</id>
-        <link href="https://alook.so/posts/92tKya"/>
-        <updated>2021-10-28T21:13:08.603Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tKya">한국이 식민지를 가져본 경험이 없는 나라 중 처음으로 '문화(초)강국'이 된 경우라고?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[창백한 푸른 점 (Pale Blue Dot)]]></title>
-        <id>https://alook.so/posts/a0tED7</id>
-        <link href="https://alook.so/posts/a0tED7"/>
-        <updated>2021-10-28T11:12:15.078Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tED7">창백한 푸른 점 (Pale Blue Dot)</a>]]></content>
+        <title type="html"><![CDATA['간성(intersex)'을 아시나요?]]></title>
+        <id>https://alook.so/posts/6Mt7x6</id>
+        <link href="https://alook.so/posts/6Mt7x6"/>
+        <updated>2021-10-28T18:17:10.271Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt7x6">'간성(intersex)'을 아시나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하루 중 당신만의 시간은 언제인가요?]]></title>
@@ -55,25 +20,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t16V">하루 중 당신만의 시간은 언제인가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['간성(intersex)'을 아시나요?]]></title>
-        <id>https://alook.so/posts/6Mt7x6</id>
-        <link href="https://alook.so/posts/6Mt7x6"/>
-        <updated>2021-10-28T18:17:10.271Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt7x6">'간성(intersex)'을 아시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[36살인데 초등학생들이 따돌립니다. 어떻게 하면 '왕따'를 피할 수 있나요?]]></title>
-        <id>https://alook.so/posts/Pvt21K</id>
-        <link href="https://alook.so/posts/Pvt21K"/>
-        <updated>2021-10-28T10:06:04.851Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt21K">36살인데 초등학생들이 따돌립니다. 어떻게 하면 '왕따'를 피할 수 있나요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[책을 좋아하는 아이의 반장 선거 도전기]]></title>
         <id>https://alook.so/posts/njtakR</id>
         <link href="https://alook.so/posts/njtakR"/>
         <updated>2021-10-28T15:15:17.513Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtakR">책을 좋아하는 아이의 반장 선거 도전기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평생 월급으로만 살 수 있을까요?]]></title>
+        <id>https://alook.so/posts/ZktYzZ</id>
+        <link href="https://alook.so/posts/ZktYzZ"/>
+        <updated>2021-10-28T15:15:17.494Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktYzZ">평생 월급으로만 살 수 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국이 식민지를 가져본 경험이 없는 나라 중 처음으로 '문화(초)강국'이 된 경우라고?]]></title>
+        <id>https://alook.so/posts/92tKya</id>
+        <link href="https://alook.so/posts/92tKya"/>
+        <updated>2021-10-28T21:13:08.603Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tKya">한국이 식민지를 가져본 경험이 없는 나라 중 처음으로 '문화(초)강국'이 된 경우라고?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주변인식이 두려웠던 일]]></title>
@@ -83,18 +48,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9td66">주변인식이 두려웠던 일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모니카의 1분, 심상정의 1분]]></title>
-        <id>https://alook.so/posts/Pvt2oa</id>
-        <link href="https://alook.so/posts/Pvt2oa"/>
-        <updated>2021-10-27T12:22:59.501Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt2oa">모니카의 1분, 심상정의 1분</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회의 최하층에서 불평등을 외치다 -1-]]></title>
-        <id>https://alook.so/posts/M9t3ap</id>
-        <link href="https://alook.so/posts/M9t3ap"/>
-        <updated>2021-10-28T13:21:21.361Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t3ap">사회의 최하층에서 불평등을 외치다 -1-</a>]]></content>
+        <title type="html"><![CDATA[창백한 푸른 점 (Pale Blue Dot)]]></title>
+        <id>https://alook.so/posts/a0tED7</id>
+        <link href="https://alook.so/posts/a0tED7"/>
+        <updated>2021-10-28T11:12:15.078Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tED7">창백한 푸른 점 (Pale Blue Dot)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[퇴근 후 씻고 누워서 유튜브]]></title>
@@ -104,10 +62,52 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tBVJ">퇴근 후 씻고 누워서 유튜브</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[36살인데 초등학생들이 따돌립니다. 어떻게 하면 '왕따'를 피할 수 있나요?]]></title>
+        <id>https://alook.so/posts/Pvt21K</id>
+        <link href="https://alook.so/posts/Pvt21K"/>
+        <updated>2021-10-28T10:06:04.851Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt21K">36살인데 초등학생들이 따돌립니다. 어떻게 하면 '왕따'를 피할 수 있나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회의 최하층에서 불평등을 외치다 -1-]]></title>
+        <id>https://alook.so/posts/M9t3ap</id>
+        <link href="https://alook.so/posts/M9t3ap"/>
+        <updated>2021-10-28T13:21:21.361Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t3ap">사회의 최하층에서 불평등을 외치다 -1-</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에디터픽 솔직히 다 받고싶죠?]]></title>
+        <id>https://alook.so/posts/RGt2Gb</id>
+        <link href="https://alook.so/posts/RGt2Gb"/>
+        <updated>2021-10-28T10:06:04.850Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt2Gb">에디터픽 솔직히 다 받고싶죠?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모니카의 1분, 심상정의 1분]]></title>
+        <id>https://alook.so/posts/Pvt2oa</id>
+        <link href="https://alook.so/posts/Pvt2oa"/>
+        <updated>2021-10-27T12:22:59.501Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt2oa">모니카의 1분, 심상정의 1분</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에디터 픽 1개 보단 얼룩커 픽 20개를 목표로]]></title>
         <id>https://alook.so/posts/WLtGvo</id>
         <link href="https://alook.so/posts/WLtGvo"/>
         <updated>2021-10-28T11:12:15.086Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtGvo">에디터 픽 1개 보단 얼룩커 픽 20개를 목표로</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자동저장 기능 추가, 감사합니다!]]></title>
+        <id>https://alook.so/posts/92tKoq</id>
+        <link href="https://alook.so/posts/92tKoq"/>
+        <updated>2021-10-28T07:15:30.659Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tKoq">자동저장 기능 추가, 감사합니다!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 오늘 얼룩소로부터 만원을 입금 받았다]]></title>
+        <id>https://alook.so/posts/70t1Ym</id>
+        <link href="https://alook.so/posts/70t1Ym"/>
+        <updated>2021-10-28T15:15:17.511Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t1Ym">나는 오늘 얼룩소로부터 만원을 입금 받았다</a>]]></content>
     </entry>
 </feed>
