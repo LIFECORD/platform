@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/bA6tp1</id>
     <title>alookso ─ 데이터카우</title>
-    <updated>2021-10-28T08:18:11.255Z</updated>
+    <updated>2021-10-28T09:16:53.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🧐 법령에 등장하는 '나이'들을 시각화 해볼 수 있을까요?]]></title>
+        <id>https://alook.so/posts/xltzb3</id>
+        <link href="https://alook.so/posts/xltzb3"/>
+        <updated>2021-10-28T09:16:52.870Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltzb3">🧐 법령에 등장하는 '나이'들을 시각화 해볼 수 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧐 당신의 대한민국은 선진국인가요?]]></title>
+        <id>https://alook.so/posts/kZtvR8</id>
+        <link href="https://alook.so/posts/kZtvR8"/>
+        <updated>2021-10-28T09:16:52.872Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtvR8">🧐 당신의 대한민국은 선진국인가요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧐 평생 직장, 앞으로도 존재할 수 있을까요?]]></title>
         <id>https://alook.so/posts/eVtkyY</id>
@@ -60,19 +74,5 @@
         <link href="https://alook.so/posts/LKtKaK"/>
         <updated>2021-10-27T03:19:53.270Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtKaK">🧐 눈에 보이는 삼성의 존재감, 가늠해볼 수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 부동산 기사의 ‘페르소나’는 누구일까요?]]></title>
-        <id>https://alook.so/posts/Batqd8</id>
-        <link href="https://alook.so/posts/Batqd8"/>
-        <updated>2021-10-27T03:19:53.272Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batqd8">🧐 부동산 기사의 ‘페르소나’는 누구일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 '경계청년' 지훈이와 유진이의 가계부를 써볼 수 있을까요?]]></title>
-        <id>https://alook.so/posts/E7t3eO</id>
-        <link href="https://alook.so/posts/E7t3eO"/>
-        <updated>2021-10-27T03:19:53.274Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t3eO">🧐 '경계청년' 지훈이와 유진이의 가계부를 써볼 수 있을까요?</a>]]></content>
     </entry>
 </feed>

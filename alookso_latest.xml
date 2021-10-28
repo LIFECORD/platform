@@ -2,35 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T08:18:11.254Z</updated>
+    <updated>2021-10-28T09:16:53.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[길고양이, 키우실 건가요?]]></title>
-        <id>https://alook.so/posts/vKtykm</id>
-        <link href="https://alook.so/posts/vKtykm"/>
-        <updated>2021-10-28T08:16:46.437Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtykm">길고양이, 키우실 건가요?</a>]]></content>
+        <title type="html"><![CDATA[카르페 디엠, 현재를 즐겨라]]></title>
+        <id>https://alook.so/posts/J5ta10</id>
+        <link href="https://alook.so/posts/J5ta10"/>
+        <updated>2021-10-28T09:15:24.994Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5ta10">카르페 디엠, 현재를 즐겨라</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 넷제로, 가야만 하는 길이지만 급하게 가면 부작용이 많을 수 있는 길]]></title>
-        <id>https://alook.so/posts/E7t4vW</id>
-        <link href="https://alook.so/posts/E7t4vW"/>
-        <updated>2021-10-28T08:16:46.438Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4vW">답글: 넷제로, 가야만 하는 길이지만 급하게 가면 부작용이 많을 수 있는 길</a>]]></content>
+        <title type="html"><![CDATA[언론의 지배로부터 벗어난 뉴스의 수용자가 되자]]></title>
+        <id>https://alook.so/posts/potJaE</id>
+        <link href="https://alook.so/posts/potJaE"/>
+        <updated>2021-10-28T09:15:24.996Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potJaE">언론의 지배로부터 벗어난 뉴스의 수용자가 되자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국의 특정 10대는 왜 불행해야 할까요?]]></title>
-        <id>https://alook.so/posts/latymR</id>
-        <link href="https://alook.so/posts/latymR"/>
-        <updated>2021-10-28T08:16:46.439Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latymR">한국의 특정 10대는 왜 불행해야 할까요?</a>]]></content>
+        <title type="html"><![CDATA[답글: 🧐 30대 중반 남성 1인, 이렇게 살고 있답니다.]]></title>
+        <id>https://alook.so/posts/eVtka9</id>
+        <link href="https://alook.so/posts/eVtka9"/>
+        <updated>2021-10-28T09:15:24.997Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtka9">답글: 🧐 30대 중반 남성 1인, 이렇게 살고 있답니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모두 노력했을겁니다.]]></title>
-        <id>https://alook.so/posts/mbtOyP</id>
-        <link href="https://alook.so/posts/mbtOyP"/>
-        <updated>2021-10-28T08:16:46.440Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOyP">모두 노력했을겁니다.</a>]]></content>
+        <title type="html"><![CDATA[수학 공부, 어떻게 해야 할까요?]]></title>
+        <id>https://alook.so/posts/Pvt2VR</id>
+        <link href="https://alook.so/posts/Pvt2VR"/>
+        <updated>2021-10-28T09:15:24.999Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt2VR">수학 공부, 어떻게 해야 할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혹시 깡통전세 들어보셨나요?]]></title>
+        <id>https://alook.so/posts/zvtVLo</id>
+        <link href="https://alook.so/posts/zvtVLo"/>
+        <updated>2021-10-28T09:15:25.000Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtVLo">혹시 깡통전세 들어보셨나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[학위가 살아가면서 중요할까요?]]></title>
+        <id>https://alook.so/posts/0ktpyb</id>
+        <link href="https://alook.so/posts/0ktpyb"/>
+        <updated>2021-10-28T09:15:25.002Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktpyb">학위가 살아가면서 중요할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대기업 종사자가 생각하는 기술발전이 미치는 영향 (솔직리뷰)]]></title>
+        <id>https://alook.so/posts/XBtM88</id>
+        <link href="https://alook.so/posts/XBtM88"/>
+        <updated>2021-10-28T09:15:25.004Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtM88">대기업 종사자가 생각하는 기술발전이 미치는 영향 (솔직리뷰)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상은 이미 변했습니다.]]></title>
+        <id>https://alook.so/posts/w9tdjP</id>
+        <link href="https://alook.so/posts/w9tdjP"/>
+        <updated>2021-10-28T09:15:25.006Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tdjP">세상은 이미 변했습니다.</a>]]></content>
     </entry>
 </feed>
