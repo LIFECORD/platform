@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T16:10:37.277Z</updated>
+    <updated>2021-10-28T16:22:47.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -46,12 +46,5 @@
         <link href="https://alook.so/posts/70t17R"/>
         <updated>2021-10-28T16:09:04.698Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t17R">현타 쎄게 온 월급쟁이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오징어 게임이 전세계적으로 흥행하는 이유?]]></title>
-        <id>https://alook.so/posts/Pvt28Y</id>
-        <link href="https://alook.so/posts/Pvt28Y"/>
-        <updated>2021-10-28T15:15:08.709Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt28Y">오징어 게임이 전세계적으로 흥행하는 이유?</a>]]></content>
     </entry>
 </feed>
