@@ -1,7 +1,7 @@
 [figk]
 title = "FIGK"
 url = "https://figk.net/text"
-entrySelector = "div.styles_TextFIGKContainer__1iZw8"
+entrySelector = "div.styles_TextFIGKContainer__1iZw8:not(:last-child)"
 titleSelector = "div.styles_Title__2bpAt"
 linkSelector = "div.styles_ToolBox__2vzTh > a"
 authorSelector = "h3"
@@ -12,7 +12,7 @@ onFail = "stale"
 [figk_origin]
 title = "FIGK"
 url = "https://figk.net/text"
-entrySelector = "div.styles_TextFIGKContainer__1iZw8"
+entrySelector = "div.styles_TextFIGKContainer__1iZw8:not(:last-child)"
 titleSelector = "h2.styles_Subtitle__2PhmW"
 linkSelector = "div.styles_ToolBox__2vzTh > a"
 contentSelector = "h3"
