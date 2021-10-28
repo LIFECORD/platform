@@ -2,28 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T00:46:36.598Z</updated>
+    <updated>2021-10-28T01:58:41.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오바마]]></title>
-        <id>https://alook.so/posts/LKtxOp</id>
-        <link href="https://alook.so/posts/LKtxOp"/>
-        <updated>2021-10-28T00:45:05.830Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtxOp">오바마</a>]]></content>
+        <title type="html"><![CDATA[가족적 거리두기]]></title>
+        <id>https://alook.so/posts/54tBbJ</id>
+        <link href="https://alook.so/posts/54tBbJ"/>
+        <updated>2021-10-28T01:57:07.116Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tBbJ">가족적 거리두기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[책을 좋아하는 아이의 반장 선거 도전기]]></title>
-        <id>https://alook.so/posts/njtakR</id>
-        <link href="https://alook.so/posts/njtakR"/>
-        <updated>2021-10-28T00:45:05.831Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtakR">책을 좋아하는 아이의 반장 선거 도전기</a>]]></content>
+        <title type="html"><![CDATA[자살을 생각하는 사람들에게]]></title>
+        <id>https://alook.so/posts/1RtxyG</id>
+        <link href="https://alook.so/posts/1RtxyG"/>
+        <updated>2021-10-28T01:57:07.117Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtxyG">자살을 생각하는 사람들에게</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알지 못했던 해외 입양의 그늘]]></title>
-        <id>https://alook.so/posts/6Mt7EG</id>
-        <link href="https://alook.so/posts/6Mt7EG"/>
-        <updated>2021-10-28T00:45:05.833Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt7EG">알지 못했던 해외 입양의 그늘</a>]]></content>
+        <title type="html"><![CDATA[고졸로 산다는 게]]></title>
+        <id>https://alook.so/posts/o7tLZG</id>
+        <link href="https://alook.so/posts/o7tLZG"/>
+        <updated>2021-10-28T01:57:07.118Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tLZG">고졸로 산다는 게</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일어나면 제일먼저 찾아보는 날씨]]></title>
+        <id>https://alook.so/posts/70t1BV</id>
+        <link href="https://alook.so/posts/70t1BV"/>
+        <updated>2021-10-28T01:57:07.119Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t1BV">일어나면 제일먼저 찾아보는 날씨</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불면의 밤에.. 나만의 극복 방법]]></title>
+        <id>https://alook.so/posts/Yytk8L</id>
+        <link href="https://alook.so/posts/Yytk8L"/>
+        <updated>2021-10-28T01:57:07.120Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytk8L">불면의 밤에.. 나만의 극복 방법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외계행성을 발견하였습니다.]]></title>
+        <id>https://alook.so/posts/rDt5xj</id>
+        <link href="https://alook.so/posts/rDt5xj"/>
+        <updated>2021-10-28T01:57:07.122Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt5xj">외계행성을 발견하였습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[늦은 아침 생각] "다음"이란 여전히 오지 않을 수도 있다.]]></title>
+        <id>https://alook.so/posts/jdtbZV</id>
+        <link href="https://alook.so/posts/jdtbZV"/>
+        <updated>2021-10-28T01:57:07.123Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtbZV">[늦은 아침 생각] "다음"이란 여전히 오지 않을 수도 있다.</a>]]></content>
     </entry>
 </feed>
