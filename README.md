@@ -13,6 +13,7 @@ https://lifecord.github.io/geeknews/all.xml
 - 뜨는 글: https://lifecord.github.io/platform/alookso_trendiest.xml
 ### User
 - 얼룩소: https://lifecord.github.io/platform/alookso_alookso.xml
+- 정혜승: https://lifecord.github.io/platform/alookso_hyeseung.xml
 - 천관율: https://lifecord.github.io/platform/alookso_gwanyul.xml
 - 윤성원: https://lifecord.github.io/platform/alookso_somewon.xml
 - 조소담: https://lifecord.github.io/platform/alookso_showdam.xml
