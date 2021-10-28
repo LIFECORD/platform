@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T06:18:54.486Z</updated>
+    <updated>2021-10-28T07:16:46.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[너무 많이 늦었지만 이제라도 반드시.]]></title>
-        <id>https://alook.so/posts/latydW</id>
-        <link href="https://alook.so/posts/latydW"/>
-        <updated>2021-10-28T06:17:28.391Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latydW">너무 많이 늦었지만 이제라도 반드시.</a>]]></content>
+        <title type="html"><![CDATA[에디터 픽 1개 보단 얼룩커 픽 20개를 목표로]]></title>
+        <id>https://alook.so/posts/WLtGvo</id>
+        <link href="https://alook.so/posts/WLtGvo"/>
+        <updated>2021-10-28T07:15:21.696Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtGvo">에디터 픽 1개 보단 얼룩커 픽 20개를 목표로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 저도 어쩔 수 없는 진지충 엄마인가봐요.]]></title>
-        <id>https://alook.so/posts/mbtOe9</id>
-        <link href="https://alook.so/posts/mbtOe9"/>
-        <updated>2021-10-28T06:17:28.392Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOe9">답글: 저도 어쩔 수 없는 진지충 엄마인가봐요.</a>]]></content>
+        <title type="html"><![CDATA[에디터픽 솔직히 다 받고싶죠?]]></title>
+        <id>https://alook.so/posts/RGt2Gb</id>
+        <link href="https://alook.so/posts/RGt2Gb"/>
+        <updated>2021-10-28T07:15:21.697Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt2Gb">에디터픽 솔직히 다 받고싶죠?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직종별 밸런스를 잡는 것이 중요할것 같아요!]]></title>
-        <id>https://alook.so/posts/54tBJL</id>
-        <link href="https://alook.so/posts/54tBJL"/>
-        <updated>2021-10-28T06:17:28.394Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tBJL">직종별 밸런스를 잡는 것이 중요할것 같아요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그렇게 아버지가 된다.]]></title>
-        <id>https://alook.so/posts/1Rtxd4</id>
-        <link href="https://alook.so/posts/1Rtxd4"/>
-        <updated>2021-10-28T06:17:28.395Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtxd4">그렇게 아버지가 된다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마와 내딸의 관계]]></title>
-        <id>https://alook.so/posts/o7tLoJ</id>
-        <link href="https://alook.so/posts/o7tLoJ"/>
-        <updated>2021-10-28T06:17:28.397Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tLoJ">엄마와 내딸의 관계</a>]]></content>
+        <title type="html"><![CDATA[라면뽕]]></title>
+        <id>https://alook.so/posts/BatlR9</id>
+        <link href="https://alook.so/posts/BatlR9"/>
+        <updated>2021-10-28T07:15:21.700Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatlR9">라면뽕 </a>]]></content>
     </entry>
 </feed>
