@@ -2,63 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T22:15:31.732Z</updated>
+    <updated>2021-10-28T23:16:42.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[라면 끊을 수 있을까요?]]></title>
-        <id>https://alook.so/posts/xltzw4</id>
-        <link href="https://alook.so/posts/xltzw4"/>
-        <updated>2021-10-28T22:14:00.465Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltzw4">라면 끊을 수 있을까요?</a>]]></content>
+        <title type="html"><![CDATA[어른은 음식에서 파를 골라내면 안되나요?]]></title>
+        <id>https://alook.so/posts/Pvt2R3</id>
+        <link href="https://alook.so/posts/Pvt2R3"/>
+        <updated>2021-10-28T23:15:04.831Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt2R3">어른은 음식에서 파를 골라내면 안되나요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매일 글쓰기를 할 수 있는 3가지 꿀팁(3)]]></title>
-        <id>https://alook.so/posts/LKtxRq</id>
-        <link href="https://alook.so/posts/LKtxRq"/>
-        <updated>2021-10-28T18:17:01.640Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtxRq">매일 글쓰기를 할 수 있는 3가지 꿀팁(3)</a>]]></content>
+        <title type="html"><![CDATA[나 공무원 준비하고있어! 야 너두 ?]]></title>
+        <id>https://alook.so/posts/Vnt5KD</id>
+        <link href="https://alook.so/posts/Vnt5KD"/>
+        <updated>2021-10-28T23:15:04.833Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt5KD">나 공무원 준비하고있어! 야 너두 ?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매일 글쓰기를 할 수 있는 3가지 꿀팁(2)]]></title>
-        <id>https://alook.so/posts/njtaE9</id>
-        <link href="https://alook.so/posts/njtaE9"/>
-        <updated>2021-10-28T18:17:01.640Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtaE9">매일 글쓰기를 할 수 있는 3가지 꿀팁(2)</a>]]></content>
+        <title type="html"><![CDATA[주담대 금리 5%(feat. 이제 잔치는 끝났다 이말인가?)]]></title>
+        <id>https://alook.so/posts/WLtG9R</id>
+        <link href="https://alook.so/posts/WLtG9R"/>
+        <updated>2021-10-28T23:15:04.835Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtG9R">주담대 금리 5%(feat. 이제 잔치는 끝났다 이말인가?)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대통령과 역사 이야기 하나, 동양의 모스크바 대구와 빨갱이 박정희]]></title>
-        <id>https://alook.so/posts/6Mt7oM</id>
-        <link href="https://alook.so/posts/6Mt7oM"/>
-        <updated>2021-10-28T18:17:01.641Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt7oM">대통령과 역사 이야기 하나, 동양의 모스크바 대구와 빨갱이 박정희</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매일 글쓰기를 할 수 있는 3가지 꿀팁]]></title>
-        <id>https://alook.so/posts/3wta6R</id>
-        <link href="https://alook.so/posts/3wta6R"/>
-        <updated>2021-10-28T17:19:35.759Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wta6R">매일 글쓰기를 할 수 있는 3가지 꿀팁</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 고민얘기]]></title>
-        <id>https://alook.so/posts/G1t6zD</id>
-        <link href="https://alook.so/posts/G1t6zD"/>
-        <updated>2021-10-28T17:19:35.763Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t6zD">나의 고민얘기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아가야 통잠 자자]]></title>
-        <id>https://alook.so/posts/OEtM02</id>
-        <link href="https://alook.so/posts/OEtM02"/>
-        <updated>2021-10-28T17:19:35.763Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtM02">아가야 통잠 자자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수요와 공급, 매도와 매수]]></title>
-        <id>https://alook.so/posts/vKty8n</id>
-        <link href="https://alook.so/posts/vKty8n"/>
-        <updated>2021-10-28T17:19:35.763Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKty8n">수요와 공급, 매도와 매수</a>]]></content>
+        <title type="html"><![CDATA[본인이 만족하면 가치가 있죠.]]></title>
+        <id>https://alook.so/posts/M9t3mD</id>
+        <link href="https://alook.so/posts/M9t3mD"/>
+        <updated>2021-10-28T23:15:04.846Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t3mD">본인이 만족하면 가치가 있죠. </a>]]></content>
     </entry>
 </feed>
