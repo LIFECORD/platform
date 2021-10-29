@@ -2,42 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-29T11:14:15.197Z</updated>
+    <updated>2021-10-29T12:23:31.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[국회의원에 대하여..]]></title>
-        <id>https://alook.so/posts/Pvt2yD</id>
-        <link href="https://alook.so/posts/Pvt2yD"/>
-        <updated>2021-10-29T11:12:35.583Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt2yD">국회의원에 대하여..</a>]]></content>
+        <title type="html"><![CDATA[오늘 하늘은 어땠나요?]]></title>
+        <id>https://alook.so/posts/3wtam3</id>
+        <link href="https://alook.so/posts/3wtam3"/>
+        <updated>2021-10-29T12:21:56.252Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtam3">오늘 하늘은 어땠나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유튜브 영상에 '싫어요 1'을 보고 든 생각]]></title>
-        <id>https://alook.so/posts/Vnt5D3</id>
-        <link href="https://alook.so/posts/Vnt5D3"/>
-        <updated>2021-10-29T11:12:35.585Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt5D3">유튜브 영상에 '싫어요 1'을 보고 든 생각</a>]]></content>
+        <title type="html"><![CDATA[세금천국이니까요]]></title>
+        <id>https://alook.so/posts/mbtOJL</id>
+        <link href="https://alook.so/posts/mbtOJL"/>
+        <updated>2021-10-29T12:21:56.253Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOJL">세금천국이니까요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩커픽 되는 법]]></title>
-        <id>https://alook.so/posts/2xtRk6</id>
-        <link href="https://alook.so/posts/2xtRk6"/>
-        <updated>2021-10-29T11:12:35.586Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtRk6">얼룩커픽 되는 법</a>]]></content>
+        <title type="html"><![CDATA[월 실수령 천만원, 그렇지만 비추합니다.]]></title>
+        <id>https://alook.so/posts/54tBZr</id>
+        <link href="https://alook.so/posts/54tBZr"/>
+        <updated>2021-10-29T12:21:56.254Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tBZr">월 실수령 천만원, 그렇지만 비추합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 같은 경우에는 굉장히 훌륭한 플랫폼이라고 하더라고요.]]></title>
-        <id>https://alook.so/posts/WLtGVb</id>
-        <link href="https://alook.so/posts/WLtGVb"/>
-        <updated>2021-10-29T11:12:35.588Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtGVb">얼룩소 같은 경우에는 굉장히 훌륭한 플랫폼이라고 하더라고요.</a>]]></content>
+        <title type="html"><![CDATA[기술의 중요성은 강조하면서 왜 기술자는 천대하나요?]]></title>
+        <id>https://alook.so/posts/o7tLKl</id>
+        <link href="https://alook.so/posts/o7tLKl"/>
+        <updated>2021-10-29T12:21:56.256Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tLKl">기술의 중요성은 강조하면서 왜 기술자는 천대하나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[걱정인형이필요해요]]></title>
-        <id>https://alook.so/posts/4XtzGn</id>
-        <link href="https://alook.so/posts/4XtzGn"/>
-        <updated>2021-10-29T11:12:35.589Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtzGn">걱정인형이필요해요</a>]]></content>
+        <title type="html"><![CDATA[우리의 마음속에는 천사도 있고 악마도 있습니다.]]></title>
+        <id>https://alook.so/posts/70t1ok</id>
+        <link href="https://alook.so/posts/70t1ok"/>
+        <updated>2021-10-29T12:21:56.257Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t1ok">우리의 마음속에는 천사도 있고 악마도 있습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학원 조교를 하기 때문이죠]]></title>
+        <id>https://alook.so/posts/rDt5KJ</id>
+        <link href="https://alook.so/posts/rDt5KJ"/>
+        <updated>2021-10-29T12:21:56.258Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt5KJ">대학원 조교를 하기 때문이죠</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테슬라를 사둘껄]]></title>
+        <id>https://alook.so/posts/jdtbR1</id>
+        <link href="https://alook.so/posts/jdtbR1"/>
+        <updated>2021-10-29T12:21:56.259Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtbR1">테슬라를 사둘껄 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족이 부담스러운적]]></title>
+        <id>https://alook.so/posts/bWt1jb</id>
+        <link href="https://alook.so/posts/bWt1jb"/>
+        <updated>2021-10-29T12:21:56.262Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt1jb">가족이 부담스러운적 </a>]]></content>
     </entry>
 </feed>
