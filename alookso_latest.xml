@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-29T07:17:23.292Z</updated>
+    <updated>2021-10-29T08:18:27.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[주면 받지... 없어서 못받지...]]></title>
-        <id>https://alook.so/posts/LKtxd6</id>
-        <link href="https://alook.so/posts/LKtxd6"/>
-        <updated>2021-10-29T07:15:47.717Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtxd6">주면 받지... 없어서 못받지...</a>]]></content>
+        <title type="html"><![CDATA[개인업장에서의 오전 시간]]></title>
+        <id>https://alook.so/posts/ZktYXx</id>
+        <link href="https://alook.so/posts/ZktYXx"/>
+        <updated>2021-10-29T08:16:53.580Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktYXx">개인업장에서의 오전 시간</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자신의 기준에 따라 달라지는 것]]></title>
-        <id>https://alook.so/posts/3wtaLk</id>
-        <link href="https://alook.so/posts/3wtaLk"/>
-        <updated>2021-10-29T07:15:47.718Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtaLk">자신의 기준에 따라 달라지는 것</a>]]></content>
+        <title type="html"><![CDATA[단계적 일상 회복의 시작, '모이지 않기'에서 '안전하게 모이기'로]]></title>
+        <id>https://alook.so/posts/J5ta6B</id>
+        <link href="https://alook.so/posts/J5ta6B"/>
+        <updated>2021-10-29T08:16:53.581Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5ta6B">단계적 일상 회복의 시작, '모이지 않기'에서 '안전하게 모이기'로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이폰 13이 발매될 때까지 바뀌지 않은 것]]></title>
-        <id>https://alook.so/posts/8Wt6xo</id>
-        <link href="https://alook.so/posts/8Wt6xo"/>
-        <updated>2021-10-29T07:15:47.718Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt6xo"> 아이폰 13이 발매될 때까지 바뀌지 않은 것</a>]]></content>
+        <title type="html"><![CDATA[매번 자기 합리화를 했던 것 같아요..]]></title>
+        <id>https://alook.so/posts/potJ0a</id>
+        <link href="https://alook.so/posts/potJ0a"/>
+        <updated>2021-10-29T08:16:53.581Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potJ0a">매번 자기 합리화를 했던 것 같아요..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불로소득 vs 노동소득]]></title>
-        <id>https://alook.so/posts/G1t6Eo</id>
-        <link href="https://alook.so/posts/G1t6Eo"/>
-        <updated>2021-10-29T07:15:47.720Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t6Eo">불로소득 vs 노동소득</a>]]></content>
+        <title type="html"><![CDATA[이상허다.. 에디터 픽이 어디갔지..]]></title>
+        <id>https://alook.so/posts/zvtVBW</id>
+        <link href="https://alook.so/posts/zvtVBW"/>
+        <updated>2021-10-29T08:16:53.582Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtVBW">이상허다.. 에디터 픽이 어디갔지..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[간호사 비추합니다.]]></title>
-        <id>https://alook.so/posts/OEtMaL</id>
-        <link href="https://alook.so/posts/OEtMaL"/>
-        <updated>2021-10-29T07:15:47.722Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtMaL">간호사 비추합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아묻따(아무것도 묻지도 따지지도 말고) 쉬게 해줘라]]></title>
-        <id>https://alook.so/posts/E7t45x</id>
-        <link href="https://alook.so/posts/E7t45x"/>
-        <updated>2021-10-29T07:15:47.725Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t45x">아묻따(아무것도 묻지도 따지지도 말고) 쉬게 해줘라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제페토 옷 만들어 돈벌기]]></title>
-        <id>https://alook.so/posts/latykB</id>
-        <link href="https://alook.so/posts/latykB"/>
-        <updated>2021-10-29T07:15:47.726Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latykB">제페토 옷 만들어 돈벌기</a>]]></content>
+        <title type="html"><![CDATA[험난한 회사생활 - 욕받이2탄]]></title>
+        <id>https://alook.so/posts/2xtRnX</id>
+        <link href="https://alook.so/posts/2xtRnX"/>
+        <updated>2021-10-29T08:16:53.584Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtRnX">험난한 회사생활 - 욕받이2탄</a>]]></content>
     </entry>
 </feed>
