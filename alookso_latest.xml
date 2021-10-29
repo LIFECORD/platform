@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-29T01:57:39.677Z</updated>
+    <updated>2021-10-29T02:29:35.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[K-pop이 세계를 제패한 이유가?]]></title>
-        <id>https://alook.so/posts/njtaRZ</id>
-        <link href="https://alook.so/posts/njtaRZ"/>
-        <updated>2021-10-29T01:56:07.040Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtaRZ">K-pop이 세계를 제패한 이유가?</a>]]></content>
+        <title type="html"><![CDATA[이번 연예인 김선호 사건에 대해 어떻게 생각하세요?]]></title>
+        <id>https://alook.so/posts/Vnt5En</id>
+        <link href="https://alook.so/posts/Vnt5En"/>
+        <updated>2021-10-29T02:27:59.497Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt5En">이번 연예인 김선호 사건에 대해 어떻게 생각하세요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대학 졸업장에 나만의 가치 담기]]></title>
-        <id>https://alook.so/posts/E7t4o8</id>
-        <link href="https://alook.so/posts/E7t4o8"/>
-        <updated>2021-10-29T01:56:07.042Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4o8">대학 졸업장에 나만의 가치 담기</a>]]></content>
+        <title type="html"><![CDATA[최소한의 안전망에 목 메게되는 아이러니]]></title>
+        <id>https://alook.so/posts/2xtRDR</id>
+        <link href="https://alook.so/posts/2xtRDR"/>
+        <updated>2021-10-29T02:27:59.498Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtRDR">최소한의 안전망에 목 메게되는 아이러니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주4일제?]]></title>
-        <id>https://alook.so/posts/ZktYra</id>
-        <link href="https://alook.so/posts/ZktYra"/>
-        <updated>2021-10-29T01:56:07.043Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktYra">주4일제?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 ‘X세대’입니다.]]></title>
-        <id>https://alook.so/posts/J5taGR</id>
-        <link href="https://alook.so/posts/J5taGR"/>
-        <updated>2021-10-29T01:56:07.044Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5taGR">나는 ‘X세대’입니다.</a>]]></content>
+        <title type="html"><![CDATA[범죄가 없어질 수 있을까요?]]></title>
+        <id>https://alook.so/posts/4Xtzbw</id>
+        <link href="https://alook.so/posts/4Xtzbw"/>
+        <updated>2021-10-29T02:27:59.499Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtzbw">범죄가 없어질 수 있을까요?</a>]]></content>
     </entry>
 </feed>
