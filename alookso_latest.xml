@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-29T21:14:38.778Z</updated>
+    <updated>2021-10-29T22:15:41.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 각자의 노력으로 +__+]]></title>
+        <id>https://alook.so/posts/0ktJBl</id>
+        <link href="https://alook.so/posts/0ktJBl"/>
+        <updated>2021-10-29T22:14:04.755Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktJBl">답글: 각자의 노력으로 +__+ </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['1인 미디어의 자극성’ 이대로 괜찮은가요?]]></title>
         <id>https://alook.so/posts/M9t9xq</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtk89">사회의 최하층에서 불평등을 외치다 -2-</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지속가능한 “가공채식"의 트렌드]]></title>
+        <title type="html"><![CDATA[지속가능한 `가공채식’의 트렌드]]></title>
         <id>https://alook.so/posts/XBtKZe</id>
         <link href="https://alook.so/posts/XBtKZe"/>
         <updated>2021-10-29T20:14:42.274Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtKZe">지속가능한 “가공채식"의 트렌드</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtKZe">지속가능한 `가공채식’의 트렌드</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나는 미니멀라이프를 시작하고 있다.]]></title>
