@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-10-29T04:20:17.291Z</updated>
+    <updated>2021-10-29T05:14:26.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA["아프면 쉬어라. 그리고 쉬게 해줘라" 위드 코로나 시대에 우리가 지켜야 할 가장 중요한 원칙이다.]]></title>
+        <id>https://alook.so/posts/Batl3o</id>
+        <link href="https://alook.so/posts/Batl3o"/>
+        <updated>2021-10-29T05:13:12.097Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batl3o">"아프면 쉬어라. 그리고 쉬게 해줘라" 위드 코로나 시대에 우리가 지켜야 할 가장 중요한 원칙이다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['위드 코로나'의 고비는 이번 겨울이다. 이유는 우리 예상과 전혀 다르다.]]></title>
         <id>https://alook.so/posts/WLtG6e</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/o7tlm9"/>
         <updated>2021-10-27T03:18:45.825Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tlm9">대장동 블루스 - 대장동은 누구 주머니로 들어가는가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 토픽 다섯 개가 생겼어요]]></title>
-        <id>https://alook.so/posts/WLt5P0</id>
-        <link href="https://alook.so/posts/WLt5P0"/>
-        <updated>2021-10-27T03:18:45.830Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5P0">새로운 토픽 다섯 개가 생겼어요</a>]]></content>
     </entry>
 </feed>

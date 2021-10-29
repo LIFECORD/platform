@@ -2,28 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-29T04:20:17.280Z</updated>
+    <updated>2021-10-29T05:14:26.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[버추얼인플루언서, 가상인간의 시대에 살고 있나요?]]></title>
-        <id>https://alook.so/posts/Yytk4y</id>
-        <link href="https://alook.so/posts/Yytk4y"/>
-        <updated>2021-10-29T04:18:32.542Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytk4y">버추얼인플루언서, 가상인간의 시대에 살고 있나요?</a>]]></content>
+        <title type="html"><![CDATA[드디어 나도 얼룩커 픽]]></title>
+        <id>https://alook.so/posts/E7t4ex</id>
+        <link href="https://alook.so/posts/E7t4ex"/>
+        <updated>2021-10-29T05:12:53.536Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4ex">드디어 나도 얼룩커 픽</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기술 발전이 일자리를 늘린다 Vs 없앤다]]></title>
-        <id>https://alook.so/posts/a0tEqM</id>
-        <link href="https://alook.so/posts/a0tEqM"/>
-        <updated>2021-10-29T04:18:32.542Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tEqM">기술 발전이 일자리를 늘린다 Vs 없앤다 </a>]]></content>
+        <title type="html"><![CDATA[고기를 안먹는다고요?!]]></title>
+        <id>https://alook.so/posts/92tKXz</id>
+        <link href="https://alook.so/posts/92tKXz"/>
+        <updated>2021-10-29T05:12:53.537Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tKXz">고기를 안먹는다고요?!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일차적으로]]></title>
-        <id>https://alook.so/posts/potJvx</id>
-        <link href="https://alook.so/posts/potJvx"/>
-        <updated>2021-10-29T04:18:32.544Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potJvx">일차적으로</a>]]></content>
+        <title type="html"><![CDATA[페이스북의 메타버스, 기대하시나요?]]></title>
+        <id>https://alook.so/posts/q1t3ZK</id>
+        <link href="https://alook.so/posts/q1t3ZK"/>
+        <updated>2021-10-29T05:12:53.539Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t3ZK">페이스북의 메타버스, 기대하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["요 음악 잊으면 섭섭하지요?! : 권투에 대한 단상"]]></title>
+        <id>https://alook.so/posts/o7tLed</id>
+        <link href="https://alook.so/posts/o7tLed"/>
+        <updated>2021-10-29T05:12:53.540Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tLed">"요 음악 잊으면 섭섭하지요?! : 권투에 대한 단상"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일러라 일러라 일본놈]]></title>
+        <id>https://alook.so/posts/rDt5dq</id>
+        <link href="https://alook.so/posts/rDt5dq"/>
+        <updated>2021-10-29T05:12:53.541Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt5dq">일러라 일러라 일본놈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저는 피부미용 자격증을 딴 공대졸업자입니다.]]></title>
+        <id>https://alook.so/posts/E7t4eK</id>
+        <link href="https://alook.so/posts/E7t4eK"/>
+        <updated>2021-10-29T05:12:53.542Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4eK">저는 피부미용 자격증을 딴 공대졸업자입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위드코로나? 백신접종자와 비 접종자..차이두기?]]></title>
+        <id>https://alook.so/posts/laty7M</id>
+        <link href="https://alook.so/posts/laty7M"/>
+        <updated>2021-10-29T05:12:53.543Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/laty7M">위드코로나? 백신접종자와 비 접종자..차이두기?</a>]]></content>
     </entry>
 </feed>
