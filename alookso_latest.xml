@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-29T00:45:42.229Z</updated>
+    <updated>2021-10-29T01:57:39.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[감성음악듣고 꾸르잠]]></title>
-        <id>https://alook.so/posts/RGt2mX</id>
-        <link href="https://alook.so/posts/RGt2mX"/>
-        <updated>2021-10-29T00:44:01.374Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt2mX">감성음악듣고 꾸르잠</a>]]></content>
+        <title type="html"><![CDATA[K-pop이 세계를 제패한 이유가?]]></title>
+        <id>https://alook.so/posts/njtaRZ</id>
+        <link href="https://alook.so/posts/njtaRZ"/>
+        <updated>2021-10-29T01:56:07.040Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtaRZ">K-pop이 세계를 제패한 이유가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국뽕이 차오른다, K-pop]]></title>
-        <id>https://alook.so/posts/yEtk2e</id>
-        <link href="https://alook.so/posts/yEtk2e"/>
-        <updated>2021-10-29T00:44:01.376Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtk2e">국뽕이 차오른다, K-pop</a>]]></content>
+        <title type="html"><![CDATA[대학 졸업장에 나만의 가치 담기]]></title>
+        <id>https://alook.so/posts/E7t4o8</id>
+        <link href="https://alook.so/posts/E7t4o8"/>
+        <updated>2021-10-29T01:56:07.042Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t4o8">대학 졸업장에 나만의 가치 담기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[접종완료 50대와 얀센 접종자, 내달부터 부스터샷 시작 !!!]]></title>
-        <id>https://alook.so/posts/Batlnz</id>
-        <link href="https://alook.so/posts/Batlnz"/>
-        <updated>2021-10-29T00:44:01.378Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batlnz">접종완료 50대와 얀센 접종자, 내달부터 부스터샷 시작 !!! </a>]]></content>
+        <title type="html"><![CDATA[주4일제?]]></title>
+        <id>https://alook.so/posts/ZktYra</id>
+        <link href="https://alook.so/posts/ZktYra"/>
+        <updated>2021-10-29T01:56:07.043Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktYra">주4일제?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코바늘 수세미 뜨기^^]]></title>
-        <id>https://alook.so/posts/6Mt7GM</id>
-        <link href="https://alook.so/posts/6Mt7GM"/>
-        <updated>2021-10-29T00:44:01.380Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt7GM">코바늘 수세미 뜨기^^</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 설거지론, '여성혐오'가 뒷걸음질 하다 발견한 '관계의 어려움'에 대해.]]></title>
-        <id>https://alook.so/posts/8Wt6Vp</id>
-        <link href="https://alook.so/posts/8Wt6Vp"/>
-        <updated>2021-10-29T00:44:01.382Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt6Vp">답글: 설거지론, '여성혐오'가 뒷걸음질 하다 발견한 '관계의 어려움'에 대해.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후위기 우리가 막을수 있도록 해야합니다.]]></title>
-        <id>https://alook.so/posts/G1t6LD</id>
-        <link href="https://alook.so/posts/G1t6LD"/>
-        <updated>2021-10-29T00:44:01.383Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t6LD">기후위기 우리가 막을수 있도록 해야합니다. </a>]]></content>
+        <title type="html"><![CDATA[나는 ‘X세대’입니다.]]></title>
+        <id>https://alook.so/posts/J5taGR</id>
+        <link href="https://alook.so/posts/J5taGR"/>
+        <updated>2021-10-29T01:56:07.044Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5taGR">나는 ‘X세대’입니다.</a>]]></content>
     </entry>
 </feed>
