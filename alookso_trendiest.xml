@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-10-29T15:16:41.482Z</updated>
+    <updated>2021-10-29T16:23:57.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[책을 좋아하는 아이의 반장 선거 도전기]]></title>
+        <id>https://alook.so/posts/njtakR</id>
+        <link href="https://alook.so/posts/njtakR"/>
+        <updated>2021-10-28T15:15:17.513Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtakR">책을 좋아하는 아이의 반장 선거 도전기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회의 최하층에서 불평등을 외치다 -1-]]></title>
+        <id>https://alook.so/posts/M9t3ap</id>
+        <link href="https://alook.so/posts/M9t3ap"/>
+        <updated>2021-10-28T13:21:21.361Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t3ap">사회의 최하층에서 불평등을 외치다 -1-</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어른은 음식에서 파를 골라내면 안되나요?]]></title>
+        <id>https://alook.so/posts/Pvt2R3</id>
+        <link href="https://alook.so/posts/Pvt2R3"/>
+        <updated>2021-10-29T11:12:45.209Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt2R3">어른은 음식에서 파를 골라내면 안되나요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[36살인데 초등학생들이 따돌립니다. 어떻게 하면 '왕따'를 피할 수 있나요?]]></title>
+        <id>https://alook.so/posts/Pvt21K</id>
+        <link href="https://alook.so/posts/Pvt21K"/>
+        <updated>2021-10-28T10:06:04.851Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt21K">36살인데 초등학생들이 따돌립니다. 어떻게 하면 '왕따'를 피할 수 있나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 오늘 얼룩소로부터 만원을 입금 받았다]]></title>
+        <id>https://alook.so/posts/70t1Ym</id>
+        <link href="https://alook.so/posts/70t1Ym"/>
+        <updated>2021-10-28T15:15:17.511Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t1Ym">나는 오늘 얼룩소로부터 만원을 입금 받았다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[너는 운이 아주 좋구나!]]></title>
         <id>https://alook.so/posts/eVtkjw</id>
@@ -13,11 +48,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtkjw">너는 운이 아주 좋구나!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["힘들면 회사 그만둬 내가 책임질게!!" 라고  말해주지 못해 미안한 아내..]]></title>
-        <id>https://alook.so/posts/Kmt2RZ</id>
-        <link href="https://alook.so/posts/Kmt2RZ"/>
-        <updated>2021-10-29T01:56:15.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt2RZ">"힘들면 회사 그만둬 내가 책임질게!!" 라고  말해주지 못해 미안한 아내..</a>]]></content>
+        <title type="html"><![CDATA[사용자의 의견을 반영한 새로운 토픽 업데이트!!]]></title>
+        <id>https://alook.so/posts/mbtO96</id>
+        <link href="https://alook.so/posts/mbtO96"/>
+        <updated>2021-10-29T10:17:03.114Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtO96">사용자의 의견을 반영한 새로운 토픽 업데이트!!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 들이는 품과 가치를 비교해봐야할 것 같아요]]></title>
+        <id>https://alook.so/posts/mbtOmp</id>
+        <link href="https://alook.so/posts/mbtOmp"/>
+        <updated>2021-10-29T01:56:15.480Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOmp">내가 들이는 품과 가치를 비교해봐야할 것 같아요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대학 졸업장에 담긴 노력]]></title>
@@ -34,60 +76,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt70r">당신은 진짜 독하게 노력해보신 적이 있으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[36살인데 초등학생들이 따돌립니다. 어떻게 하면 '왕따'를 피할 수 있나요?]]></title>
-        <id>https://alook.so/posts/Pvt21K</id>
-        <link href="https://alook.so/posts/Pvt21K"/>
-        <updated>2021-10-28T10:06:04.851Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt21K">36살인데 초등학생들이 따돌립니다. 어떻게 하면 '왕따'를 피할 수 있나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오월 광주, 어떤 콘텐츠가 떠오르세요? 👀]]></title>
-        <id>https://alook.so/posts/Batlox</id>
-        <link href="https://alook.so/posts/Batlox"/>
-        <updated>2021-10-29T14:13:22.448Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batlox">오월 광주, 어떤 콘텐츠가 떠오르세요? 👀</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른은 음식에서 파를 골라내면 안되나요?]]></title>
-        <id>https://alook.so/posts/Pvt2R3</id>
-        <link href="https://alook.so/posts/Pvt2R3"/>
-        <updated>2021-10-29T11:12:45.209Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt2R3">어른은 음식에서 파를 골라내면 안되나요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅테크는 왜 안면인식기술을 경찰에 판매하지 않을까?]]></title>
-        <id>https://alook.so/posts/njtaOa</id>
-        <link href="https://alook.so/posts/njtaOa"/>
-        <updated>2021-10-29T09:15:11.780Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtaOa">빅테크는 왜 안면인식기술을 경찰에 판매하지 않을까?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[혁신을 위했다는 당신에게]]></title>
         <id>https://alook.so/posts/Djt7yP</id>
         <link href="https://alook.so/posts/Djt7yP"/>
         <updated>2021-10-29T09:15:11.777Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt7yP">혁신을 위했다는 당신에게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 오늘 얼룩소로부터 만원을 입금 받았다]]></title>
-        <id>https://alook.so/posts/70t1Ym</id>
-        <link href="https://alook.so/posts/70t1Ym"/>
-        <updated>2021-10-28T15:15:17.511Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t1Ym">나는 오늘 얼룩소로부터 만원을 입금 받았다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회의 최하층에서 불평등을 외치다 -1-]]></title>
-        <id>https://alook.so/posts/M9t3ap</id>
-        <link href="https://alook.so/posts/M9t3ap"/>
-        <updated>2021-10-28T13:21:21.361Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t3ap">사회의 최하층에서 불평등을 외치다 -1-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사용자의 의견을 반영한 새로운 토픽 업데이트!!]]></title>
-        <id>https://alook.so/posts/mbtO96</id>
-        <link href="https://alook.so/posts/mbtO96"/>
-        <updated>2021-10-29T10:17:03.114Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtO96">사용자의 의견을 반영한 새로운 토픽 업데이트!!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에디터픽 솔직히 다 받고싶죠?]]></title>
@@ -97,17 +90,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt2Gb">에디터픽 솔직히 다 받고싶죠?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[책을 좋아하는 아이의 반장 선거 도전기]]></title>
-        <id>https://alook.so/posts/njtakR</id>
-        <link href="https://alook.so/posts/njtakR"/>
-        <updated>2021-10-28T15:15:17.513Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtakR">책을 좋아하는 아이의 반장 선거 도전기</a>]]></content>
+        <title type="html"><![CDATA["힘들면 회사 그만둬 내가 책임질게!!" 라고  말해주지 못해 미안한 아내..]]></title>
+        <id>https://alook.so/posts/Kmt2RZ</id>
+        <link href="https://alook.so/posts/Kmt2RZ"/>
+        <updated>2021-10-29T01:56:15.473Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt2RZ">"힘들면 회사 그만둬 내가 책임질게!!" 라고  말해주지 못해 미안한 아내..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 들이는 품과 가치를 비교해봐야할 것 같아요]]></title>
-        <id>https://alook.so/posts/mbtOmp</id>
-        <link href="https://alook.so/posts/mbtOmp"/>
-        <updated>2021-10-29T01:56:15.480Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOmp">내가 들이는 품과 가치를 비교해봐야할 것 같아요</a>]]></content>
+        <title type="html"><![CDATA[오월 광주, 어떤 콘텐츠가 떠오르세요? 👀]]></title>
+        <id>https://alook.so/posts/Batlox</id>
+        <link href="https://alook.so/posts/Batlox"/>
+        <updated>2021-10-29T14:13:22.448Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batlox">오월 광주, 어떤 콘텐츠가 떠오르세요? 👀</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빅테크는 왜 안면인식기술을 경찰에 판매하지 않을까?]]></title>
+        <id>https://alook.so/posts/njtaOa</id>
+        <link href="https://alook.so/posts/njtaOa"/>
+        <updated>2021-10-29T09:15:11.780Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtaOa">빅테크는 왜 안면인식기술을 경찰에 판매하지 않을까?</a>]]></content>
     </entry>
 </feed>
