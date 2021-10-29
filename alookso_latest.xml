@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-29T22:15:41.034Z</updated>
+    <updated>2021-10-29T23:17:17.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[목조 건축, 탄소 배출 감소를 위한 좋은 방법이 될 수 있을까?]]></title>
+        <id>https://alook.so/posts/eVtex0</id>
+        <link href="https://alook.so/posts/eVtex0"/>
+        <updated>2021-10-29T23:15:40.982Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtex0">목조 건축, 탄소 배출 감소를 위한 좋은 방법이 될 수 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[체력이 약한게 고민이에요.]]></title>
+        <id>https://alook.so/posts/PvtoMm</id>
+        <link href="https://alook.so/posts/PvtoMm"/>
+        <updated>2021-10-29T23:15:40.984Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtoMm">체력이 약한게 고민이에요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저도 통장에 1억 찍혀본적 없어요~]]></title>
+        <id>https://alook.so/posts/2xte5O</id>
+        <link href="https://alook.so/posts/2xte5O"/>
+        <updated>2021-10-29T23:15:40.985Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xte5O">저도 통장에 1억 찍혀본적 없어요~</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 각자의 노력으로 +__+]]></title>
         <id>https://alook.so/posts/0ktJBl</id>
@@ -18,54 +39,5 @@
         <link href="https://alook.so/posts/M9t9xq"/>
         <updated>2021-10-29T20:14:42.271Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t9xq">'1인 미디어의 자극성’ 이대로 괜찮은가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회의 최하층에서 불평등을 외치다 -2-]]></title>
-        <id>https://alook.so/posts/4Xtk89</id>
-        <link href="https://alook.so/posts/4Xtk89"/>
-        <updated>2021-10-29T20:14:42.272Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtk89">사회의 최하층에서 불평등을 외치다 -2-</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지속가능한 `가공채식’의 트렌드]]></title>
-        <id>https://alook.so/posts/XBtKZe</id>
-        <link href="https://alook.so/posts/XBtKZe"/>
-        <updated>2021-10-29T20:14:42.274Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtKZe">지속가능한 `가공채식’의 트렌드</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 미니멀라이프를 시작하고 있다.]]></title>
-        <id>https://alook.so/posts/w9txK0</id>
-        <link href="https://alook.so/posts/w9txK0"/>
-        <updated>2021-10-29T19:12:29.949Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9txK0">나는 미니멀라이프를 시작하고 있다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루 빨리 데이터청을 논의해야 할 때!]]></title>
-        <id>https://alook.so/posts/xltXVX</id>
-        <link href="https://alook.so/posts/xltXVX"/>
-        <updated>2021-10-29T19:12:29.949Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltXVX"> 하루 빨리 데이터청을 논의해야 할 때!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K케이팝]]></title>
-        <id>https://alook.so/posts/kZt16O</id>
-        <link href="https://alook.so/posts/kZt16O"/>
-        <updated>2021-10-29T18:16:52.821Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt16O">K케이팝</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회의원 진심으로]]></title>
-        <id>https://alook.so/posts/yEtJnZ</id>
-        <link href="https://alook.so/posts/yEtJnZ"/>
-        <updated>2021-10-29T18:16:52.822Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtJnZ">국회의원 진심으로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 와 함께 살아가기]]></title>
-        <id>https://alook.so/posts/BatXb5</id>
-        <link href="https://alook.so/posts/BatXb5"/>
-        <updated>2021-10-29T18:16:52.824Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatXb5">코로나 와 함께 살아가기</a>]]></content>
     </entry>
 </feed>
