@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-28T23:16:42.081Z</updated>
+    <updated>2021-10-29T00:45:42.229Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[어른은 음식에서 파를 골라내면 안되나요?]]></title>
-        <id>https://alook.so/posts/Pvt2R3</id>
-        <link href="https://alook.so/posts/Pvt2R3"/>
-        <updated>2021-10-28T23:15:04.831Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt2R3">어른은 음식에서 파를 골라내면 안되나요? </a>]]></content>
+        <title type="html"><![CDATA[감성음악듣고 꾸르잠]]></title>
+        <id>https://alook.so/posts/RGt2mX</id>
+        <link href="https://alook.so/posts/RGt2mX"/>
+        <updated>2021-10-29T00:44:01.374Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt2mX">감성음악듣고 꾸르잠</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나 공무원 준비하고있어! 야 너두 ?]]></title>
-        <id>https://alook.so/posts/Vnt5KD</id>
-        <link href="https://alook.so/posts/Vnt5KD"/>
-        <updated>2021-10-28T23:15:04.833Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt5KD">나 공무원 준비하고있어! 야 너두 ?</a>]]></content>
+        <title type="html"><![CDATA[국뽕이 차오른다, K-pop]]></title>
+        <id>https://alook.so/posts/yEtk2e</id>
+        <link href="https://alook.so/posts/yEtk2e"/>
+        <updated>2021-10-29T00:44:01.376Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtk2e">국뽕이 차오른다, K-pop</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주담대 금리 5%(feat. 이제 잔치는 끝났다 이말인가?)]]></title>
-        <id>https://alook.so/posts/WLtG9R</id>
-        <link href="https://alook.so/posts/WLtG9R"/>
-        <updated>2021-10-28T23:15:04.835Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtG9R">주담대 금리 5%(feat. 이제 잔치는 끝났다 이말인가?)</a>]]></content>
+        <title type="html"><![CDATA[접종완료 50대와 얀센 접종자, 내달부터 부스터샷 시작 !!!]]></title>
+        <id>https://alook.so/posts/Batlnz</id>
+        <link href="https://alook.so/posts/Batlnz"/>
+        <updated>2021-10-29T00:44:01.378Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batlnz">접종완료 50대와 얀센 접종자, 내달부터 부스터샷 시작 !!! </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[본인이 만족하면 가치가 있죠.]]></title>
-        <id>https://alook.so/posts/M9t3mD</id>
-        <link href="https://alook.so/posts/M9t3mD"/>
-        <updated>2021-10-28T23:15:04.846Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t3mD">본인이 만족하면 가치가 있죠. </a>]]></content>
+        <title type="html"><![CDATA[코바늘 수세미 뜨기^^]]></title>
+        <id>https://alook.so/posts/6Mt7GM</id>
+        <link href="https://alook.so/posts/6Mt7GM"/>
+        <updated>2021-10-29T00:44:01.380Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt7GM">코바늘 수세미 뜨기^^</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 설거지론, '여성혐오'가 뒷걸음질 하다 발견한 '관계의 어려움'에 대해.]]></title>
+        <id>https://alook.so/posts/8Wt6Vp</id>
+        <link href="https://alook.so/posts/8Wt6Vp"/>
+        <updated>2021-10-29T00:44:01.382Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt6Vp">답글: 설거지론, '여성혐오'가 뒷걸음질 하다 발견한 '관계의 어려움'에 대해.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후위기 우리가 막을수 있도록 해야합니다.]]></title>
+        <id>https://alook.so/posts/G1t6LD</id>
+        <link href="https://alook.so/posts/G1t6LD"/>
+        <updated>2021-10-29T00:44:01.383Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t6LD">기후위기 우리가 막을수 있도록 해야합니다. </a>]]></content>
     </entry>
 </feed>
