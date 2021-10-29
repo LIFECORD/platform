@@ -2,63 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-29T12:23:31.264Z</updated>
+    <updated>2021-10-29T13:22:59.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오늘 하늘은 어땠나요?]]></title>
-        <id>https://alook.so/posts/3wtam3</id>
-        <link href="https://alook.so/posts/3wtam3"/>
-        <updated>2021-10-29T12:21:56.252Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtam3">오늘 하늘은 어땠나요?</a>]]></content>
+        <title type="html"><![CDATA[직업상담사 직업을 고민하다.]]></title>
+        <id>https://alook.so/posts/mbtOrK</id>
+        <link href="https://alook.so/posts/mbtOrK"/>
+        <updated>2021-10-29T13:21:16.478Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOrK">직업상담사 직업을 고민하다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세금천국이니까요]]></title>
-        <id>https://alook.so/posts/mbtOJL</id>
-        <link href="https://alook.so/posts/mbtOJL"/>
-        <updated>2021-10-29T12:21:56.253Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtOJL">세금천국이니까요</a>]]></content>
+        <title type="html"><![CDATA[범죄 걱정 자체는 없어지는 것이 아니라고 봐요]]></title>
+        <id>https://alook.so/posts/54tByb</id>
+        <link href="https://alook.so/posts/54tByb"/>
+        <updated>2021-10-29T13:21:16.480Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tByb">범죄 걱정 자체는 없어지는 것이 아니라고 봐요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[월 실수령 천만원, 그렇지만 비추합니다.]]></title>
-        <id>https://alook.so/posts/54tBZr</id>
-        <link href="https://alook.so/posts/54tBZr"/>
-        <updated>2021-10-29T12:21:56.254Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tBZr">월 실수령 천만원, 그렇지만 비추합니다.</a>]]></content>
+        <title type="html"><![CDATA[행복해 지기 위해 한 투자가....불행을 초래하다..]]></title>
+        <id>https://alook.so/posts/q1t3w6</id>
+        <link href="https://alook.so/posts/q1t3w6"/>
+        <updated>2021-10-29T13:21:16.480Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t3w6">행복해 지기 위해 한 투자가....불행을 초래하다..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기술의 중요성은 강조하면서 왜 기술자는 천대하나요?]]></title>
-        <id>https://alook.so/posts/o7tLKl</id>
-        <link href="https://alook.so/posts/o7tLKl"/>
-        <updated>2021-10-29T12:21:56.256Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tLKl">기술의 중요성은 강조하면서 왜 기술자는 천대하나요?</a>]]></content>
+        <title type="html"><![CDATA[요즘 공무원을 꿈꾸는 이유.]]></title>
+        <id>https://alook.so/posts/q1t3w3</id>
+        <link href="https://alook.so/posts/q1t3w3"/>
+        <updated>2021-10-29T13:21:16.481Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t3w3">요즘 공무원을 꿈꾸는 이유.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리의 마음속에는 천사도 있고 악마도 있습니다.]]></title>
-        <id>https://alook.so/posts/70t1ok</id>
-        <link href="https://alook.so/posts/70t1ok"/>
-        <updated>2021-10-29T12:21:56.257Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t1ok">우리의 마음속에는 천사도 있고 악마도 있습니다.</a>]]></content>
+        <title type="html"><![CDATA[자동화시대..편리성과 두려움]]></title>
+        <id>https://alook.so/posts/70t14k</id>
+        <link href="https://alook.so/posts/70t14k"/>
+        <updated>2021-10-29T13:21:16.483Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t14k">자동화시대..편리성과 두려움</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대학원 조교를 하기 때문이죠]]></title>
-        <id>https://alook.so/posts/rDt5KJ</id>
-        <link href="https://alook.so/posts/rDt5KJ"/>
-        <updated>2021-10-29T12:21:56.258Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt5KJ">대학원 조교를 하기 때문이죠</a>]]></content>
+        <title type="html"><![CDATA[우주에 엘리베이터 타고 가는 세상이 온다고???]]></title>
+        <id>https://alook.so/posts/rDt5EJ</id>
+        <link href="https://alook.so/posts/rDt5EJ"/>
+        <updated>2021-10-29T13:21:16.484Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt5EJ">우주에 엘리베이터 타고 가는 세상이 온다고???</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[테슬라를 사둘껄]]></title>
-        <id>https://alook.so/posts/jdtbR1</id>
-        <link href="https://alook.so/posts/jdtbR1"/>
-        <updated>2021-10-29T12:21:56.259Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtbR1">테슬라를 사둘껄 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족이 부담스러운적]]></title>
-        <id>https://alook.so/posts/bWt1jb</id>
-        <link href="https://alook.so/posts/bWt1jb"/>
-        <updated>2021-10-29T12:21:56.262Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt1jb">가족이 부담스러운적 </a>]]></content>
+        <title type="html"><![CDATA[투자를 통해 시야가 넓어지는 경험]]></title>
+        <id>https://alook.so/posts/J5taL6</id>
+        <link href="https://alook.so/posts/J5taL6"/>
+        <updated>2021-10-29T13:21:16.487Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5taL6">투자를 통해 시야가 넓어지는 경험</a>]]></content>
     </entry>
 </feed>
