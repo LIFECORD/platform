@@ -2,28 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-30T16:21:29.159Z</updated>
+    <updated>2021-10-30T17:20:25.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[완벽함]]></title>
-        <id>https://alook.so/posts/xltXBW</id>
-        <link href="https://alook.so/posts/xltXBW"/>
-        <updated>2021-10-30T16:19:54.418Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltXBW">완벽함</a>]]></content>
+        <title type="html"><![CDATA[두렵지 않은 대통령]]></title>
+        <id>https://alook.so/posts/rDtrlk</id>
+        <link href="https://alook.so/posts/rDtrlk"/>
+        <updated>2021-10-30T17:18:56.570Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtrlk">두렵지 않은 대통령</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리는 흥의 민족! 떼창하면 대한민국!]]></title>
-        <id>https://alook.so/posts/BatX0G</id>
-        <link href="https://alook.so/posts/BatX0G"/>
-        <updated>2021-10-30T16:19:54.421Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatX0G">우리는 흥의 민족! 떼창하면 대한민국!</a>]]></content>
+        <title type="html"><![CDATA[답글: 울면서 본 '나는 세월호 잠수사다' 뒤죽박죽 리뷰]]></title>
+        <id>https://alook.so/posts/jdtwX2</id>
+        <link href="https://alook.so/posts/jdtwX2"/>
+        <updated>2021-10-30T17:18:56.572Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtwX2">답글: 울면서 본 '나는 세월호 잠수사다' 뒤죽박죽 리뷰</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 우리는 꽁돈이 생기면 왜 다 써버리는가?]]></title>
-        <id>https://alook.so/posts/njtWKK</id>
-        <link href="https://alook.so/posts/njtWKK"/>
-        <updated>2021-10-30T16:19:54.422Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtWKK">왜 우리는 꽁돈이 생기면 왜 다 써버리는가? </a>]]></content>
+        <title type="html"><![CDATA[청년에게 허락된 원룸]]></title>
+        <id>https://alook.so/posts/bWt0o2</id>
+        <link href="https://alook.so/posts/bWt0o2"/>
+        <updated>2021-10-30T17:18:56.572Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt0o2">청년에게 허락된 원룸</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국의 10대는 왜 불행한가]]></title>
+        <id>https://alook.so/posts/a0tvKn</id>
+        <link href="https://alook.so/posts/a0tvKn"/>
+        <updated>2021-10-30T17:18:56.572Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tvKn">한국의 10대는 왜 불행한가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[할머니와 코로나.]]></title>
+        <id>https://alook.so/posts/dztvmd</id>
+        <link href="https://alook.so/posts/dztvmd"/>
+        <updated>2021-10-30T17:18:56.578Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztvmd">할머니와 코로나.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼마나 추웠을까. 울면서 본 '나는 세월호 잠수사다' 도서 리뷰]]></title>
+        <id>https://alook.so/posts/J5tMJD</id>
+        <link href="https://alook.so/posts/J5tMJD"/>
+        <updated>2021-10-30T17:18:56.580Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tMJD">얼마나 추웠을까. 울면서 본 '나는 세월호 잠수사다' 도서 리뷰</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제가 본 역대급 국뽕]]></title>
+        <id>https://alook.so/posts/potoBw</id>
+        <link href="https://alook.so/posts/potoBw"/>
+        <updated>2021-10-30T17:18:56.580Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potoBw">제가 본 역대급 국뽕</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[범죄걱정을 안할수는 없지않을까요?]]></title>
+        <id>https://alook.so/posts/Pvtoxz</id>
+        <link href="https://alook.so/posts/Pvtoxz"/>
+        <updated>2021-10-30T17:18:56.581Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtoxz">범죄걱정을 안할수는 없지않을까요?</a>]]></content>
     </entry>
 </feed>
