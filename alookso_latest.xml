@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-29T23:17:17.449Z</updated>
+    <updated>2021-10-30T00:47:05.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[목조 건축, 탄소 배출 감소를 위한 좋은 방법이 될 수 있을까?]]></title>
-        <id>https://alook.so/posts/eVtex0</id>
-        <link href="https://alook.so/posts/eVtex0"/>
-        <updated>2021-10-29T23:15:40.982Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtex0">목조 건축, 탄소 배출 감소를 위한 좋은 방법이 될 수 있을까?</a>]]></content>
+        <title type="html"><![CDATA[AI가 다가오는 시대, 내 일자리가 사라질까?]]></title>
+        <id>https://alook.so/posts/vKta0e</id>
+        <link href="https://alook.so/posts/vKta0e"/>
+        <updated>2021-10-30T00:43:25.626Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKta0e">AI가 다가오는 시대, 내 일자리가 사라질까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[체력이 약한게 고민이에요.]]></title>
-        <id>https://alook.so/posts/PvtoMm</id>
-        <link href="https://alook.so/posts/PvtoMm"/>
-        <updated>2021-10-29T23:15:40.984Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtoMm">체력이 약한게 고민이에요.</a>]]></content>
+        <title type="html"><![CDATA[폐마스크를 활용할 수 있는 방안은 무엇일까요?]]></title>
+        <id>https://alook.so/posts/mbt84x</id>
+        <link href="https://alook.so/posts/mbt84x"/>
+        <updated>2021-10-30T00:43:25.627Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt84x">폐마스크를 활용할 수 있는 방안은 무엇일까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저도 통장에 1억 찍혀본적 없어요~]]></title>
-        <id>https://alook.so/posts/2xte5O</id>
-        <link href="https://alook.so/posts/2xte5O"/>
-        <updated>2021-10-29T23:15:40.985Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xte5O">저도 통장에 1억 찍혀본적 없어요~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 각자의 노력으로 +__+]]></title>
-        <id>https://alook.so/posts/0ktJBl</id>
-        <link href="https://alook.so/posts/0ktJBl"/>
-        <updated>2021-10-29T22:14:04.755Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktJBl">답글: 각자의 노력으로 +__+ </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['1인 미디어의 자극성’ 이대로 괜찮은가요?]]></title>
-        <id>https://alook.so/posts/M9t9xq</id>
-        <link href="https://alook.so/posts/M9t9xq"/>
-        <updated>2021-10-29T20:14:42.271Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t9xq">'1인 미디어의 자극성’ 이대로 괜찮은가요?</a>]]></content>
+        <title type="html"><![CDATA[주식 투자! 욕심은 불행을! 노력은 평생 행복을!]]></title>
+        <id>https://alook.so/posts/DjtOER</id>
+        <link href="https://alook.so/posts/DjtOER"/>
+        <updated>2021-10-30T00:43:25.629Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtOER">주식 투자! 욕심은 불행을! 노력은 평생 행복을!</a>]]></content>
     </entry>
 </feed>
