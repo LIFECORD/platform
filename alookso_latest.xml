@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-30T21:14:11.671Z</updated>
+    <updated>2021-10-30T22:15:31.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[금융사기 범죄(feat. 좋은 곳으로 가셨길...)]]></title>
+        <id>https://alook.so/posts/xltX8W</id>
+        <link href="https://alook.so/posts/xltX8W"/>
+        <updated>2021-10-30T22:13:59.400Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltX8W">금융사기 범죄(feat. 좋은 곳으로 가셨길...)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공인중개사 40만명 응시(feat. 수고 많이 하셨습니다!)]]></title>
+        <id>https://alook.so/posts/RGtVjE</id>
+        <link href="https://alook.so/posts/RGtVjE"/>
+        <updated>2021-10-30T22:13:59.401Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtVjE">공인중개사 40만명 응시(feat. 수고 많이 하셨습니다!)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왜 공교육에는 경제교육이 빠져 있을까요?]]></title>
         <id>https://alook.so/posts/kZt1yr</id>
