@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-30T12:22:14.103Z</updated>
+    <updated>2021-10-30T13:20:19.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[아이들이 즐겨보는 유투브에 의무적으로 공익광고를 넣었으면 좋겠어요.]]></title>
-        <id>https://alook.so/posts/1RtYxq</id>
-        <link href="https://alook.so/posts/1RtYxq"/>
-        <updated>2021-10-30T12:20:39.009Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtYxq">아이들이 즐겨보는 유투브에 의무적으로 공익광고를 넣었으면 좋겠어요.</a>]]></content>
+        <title type="html"><![CDATA[요즘 인간관계 안녕하신가요?]]></title>
+        <id>https://alook.so/posts/njtWWP</id>
+        <link href="https://alook.so/posts/njtWWP"/>
+        <updated>2021-10-30T13:18:34.435Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtWWP">요즘 인간관계 안녕하신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지금의 엄마 모습이 내탓 같아  언제나.. 미안하고 화나고 맘이 아프네요..]]></title>
-        <id>https://alook.so/posts/70tG1W</id>
-        <link href="https://alook.so/posts/70tG1W"/>
-        <updated>2021-10-30T12:20:39.010Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tG1W">지금의 엄마 모습이 내탓 같아  언제나.. 미안하고 화나고 맘이 아프네요..</a>]]></content>
+        <title type="html"><![CDATA[반오십..? 나이후려치기가 좀 심한 거 아니오?]]></title>
+        <id>https://alook.so/posts/6MtVV8</id>
+        <link href="https://alook.so/posts/6MtVV8"/>
+        <updated>2021-10-30T13:18:34.437Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtVV8">반오십..? 나이후려치기가 좀 심한 거 아니오?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인류는 지구의 주인이다.]]></title>
-        <id>https://alook.so/posts/mbt8Oj</id>
-        <link href="https://alook.so/posts/mbt8Oj"/>
-        <updated>2021-10-30T12:20:39.012Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt8Oj">인류는 지구의 주인이다.</a>]]></content>
+        <title type="html"><![CDATA[성격 더러운 관종]]></title>
+        <id>https://alook.so/posts/3wtGGL</id>
+        <link href="https://alook.so/posts/3wtGGL"/>
+        <updated>2021-10-30T13:18:34.438Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtGGL">성격 더러운 관종</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 십대가 썰 푼다]]></title>
+        <id>https://alook.so/posts/OEtJJD</id>
+        <link href="https://alook.so/posts/OEtJJD"/>
+        <updated>2021-10-30T13:18:34.440Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtJJD">한국 십대가 썰 푼다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["사람은 고쳐쓰는게 아니다." 이 말 어떻게 생각하시나요??]]></title>
+        <id>https://alook.so/posts/vKtaa4</id>
+        <link href="https://alook.so/posts/vKtaa4"/>
+        <updated>2021-10-30T13:18:34.444Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtaa4">"사람은 고쳐쓰는게 아니다." 이 말 어떻게 생각하시나요??</a>]]></content>
     </entry>
 </feed>
