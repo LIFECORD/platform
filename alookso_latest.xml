@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-30T20:15:40.892Z</updated>
+    <updated>2021-10-30T21:14:11.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[왜 공교육에는 경제교육이 빠져 있을까요?]]></title>
+        <id>https://alook.so/posts/kZt1yr</id>
+        <link href="https://alook.so/posts/kZt1yr"/>
+        <updated>2021-10-30T21:12:30.110Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt1yr">왜 공교육에는 경제교육이 빠져 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이름에 답이 있네요]]></title>
+        <id>https://alook.so/posts/yEtJ9m</id>
+        <link href="https://alook.so/posts/yEtJ9m"/>
+        <updated>2021-10-30T21:12:30.110Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtJ9m">이름에 답이 있네요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국회의원의 양이냐 질이냐]]></title>
         <id>https://alook.so/posts/BatXEG</id>
@@ -25,19 +39,5 @@
         <link href="https://alook.so/posts/3wtGDG"/>
         <updated>2021-10-30T20:14:05.738Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtGDG">손 흥 민 선수</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<걸스플래닛 999>와 중국 문제]]></title>
-        <id>https://alook.so/posts/vKtam6</id>
-        <link href="https://alook.so/posts/vKtam6"/>
-        <updated>2021-10-30T19:12:15.328Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtam6">&lt;걸스플래닛 999&gt;와 중국 문제</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월의 마지막날, 자신에게 칭찬 하나씩 할까요?]]></title>
-        <id>https://alook.so/posts/E7twd9</id>
-        <link href="https://alook.so/posts/E7twd9"/>
-        <updated>2021-10-30T19:12:15.329Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7twd9">10월의 마지막날, 자신에게 칭찬 하나씩 할까요?</a>]]></content>
     </entry>
 </feed>
