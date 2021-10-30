@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-10-30T11:13:38.183Z</updated>
+    <updated>2021-10-30T12:22:14.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,53 +13,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt0Ox">남자애는 머리 좀 기르면 안되나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신은 진짜 독하게 노력해보신 적이 있으신가요?]]></title>
-        <id>https://alook.so/posts/Djt70r</id>
-        <link href="https://alook.so/posts/Djt70r"/>
-        <updated>2021-10-29T11:12:45.196Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt70r">당신은 진짜 독하게 노력해보신 적이 있으신가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['돈버는법' 알려줘도 하지 않는 사람이 태반이더라~]]></title>
-        <id>https://alook.so/posts/vKtyej</id>
-        <link href="https://alook.so/posts/vKtyej"/>
-        <updated>2021-10-29T20:14:51.635Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtyej"> '돈버는법' 알려줘도 하지 않는 사람이 태반이더라~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“괴물을 죽이기 위해 괴물이 되고 싶지는 않다.” 선과 악은 무엇일까요?]]></title>
-        <id>https://alook.so/posts/eVteOx</id>
-        <link href="https://alook.so/posts/eVteOx"/>
-        <updated>2021-10-30T11:12:04.858Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVteOx">“괴물을 죽이기 위해 괴물이 되고 싶지는 않다.” 선과 악은 무엇일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공교육에서만 배울 수 있는 것들 (4) 영재교육, 누가 무엇을 배우는 곳인가.]]></title>
-        <id>https://alook.so/posts/rDt5BJ</id>
-        <link href="https://alook.so/posts/rDt5BJ"/>
-        <updated>2021-10-30T02:28:10.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt5BJ">공교육에서만 배울 수 있는 것들 (4) 영재교육, 누가 무엇을 배우는 곳인가.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월 실수령 천만원, 그렇지만 비추합니다.]]></title>
-        <id>https://alook.so/posts/54tBZr</id>
-        <link href="https://alook.so/posts/54tBZr"/>
-        <updated>2021-10-30T07:15:53.163Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tBZr">월 실수령 천만원, 그렇지만 비추합니다.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[너는 운이 아주 좋구나!]]></title>
         <id>https://alook.so/posts/eVtkjw</id>
         <link href="https://alook.so/posts/eVtkjw"/>
         <updated>2021-10-29T10:17:03.111Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtkjw">너는 운이 아주 좋구나!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나를 잃어버리는 일.]]></title>
-        <id>https://alook.so/posts/njtaME</id>
-        <link href="https://alook.so/posts/njtaME"/>
-        <updated>2021-10-30T11:12:04.861Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtaME">나를 잃어버리는 일.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오월 광주, 어떤 콘텐츠가 떠오르세요? 👀]]></title>
@@ -69,18 +27,46 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batlox">오월 광주, 어떤 콘텐츠가 떠오르세요? 👀</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아프면 쉬어... 텅 빈 또하나의 잔소리]]></title>
-        <id>https://alook.so/posts/YytkaJ</id>
-        <link href="https://alook.so/posts/YytkaJ"/>
-        <updated>2021-10-30T10:16:29.499Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytkaJ">아프면 쉬어... 텅 빈 또하나의 잔소리</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['생각 아미' 얼룩커를 직접 만났습니다!]]></title>
         <id>https://alook.so/posts/WLtGky</id>
         <link href="https://alook.so/posts/WLtGky"/>
         <updated>2021-10-30T02:28:10.380Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtGky">'생각 아미' 얼룩커를 직접 만났습니다!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미혼모인 내게 다정하게 건네던 말]]></title>
+        <id>https://alook.so/posts/54tBoa</id>
+        <link href="https://alook.so/posts/54tBoa"/>
+        <updated>2021-10-30T12:20:48.156Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tBoa">미혼모인 내게 다정하게 건네던 말</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['돈버는법' 알려줘도 하지 않는 사람이 태반이더라~]]></title>
+        <id>https://alook.so/posts/vKtyej</id>
+        <link href="https://alook.so/posts/vKtyej"/>
+        <updated>2021-10-29T20:14:51.635Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtyej"> '돈버는법' 알려줘도 하지 않는 사람이 태반이더라~</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월 실수령 천만원, 그렇지만 비추합니다.]]></title>
+        <id>https://alook.so/posts/54tBZr</id>
+        <link href="https://alook.so/posts/54tBZr"/>
+        <updated>2021-10-30T07:15:53.163Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tBZr">월 실수령 천만원, 그렇지만 비추합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신은 진짜 독하게 노력해보신 적이 있으신가요?]]></title>
+        <id>https://alook.so/posts/Djt70r</id>
+        <link href="https://alook.so/posts/Djt70r"/>
+        <updated>2021-10-29T11:12:45.196Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt70r">당신은 진짜 독하게 노력해보신 적이 있으신가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정말 지구의 주인이 '인간'이라고 생각하십니까?]]></title>
+        <id>https://alook.so/posts/vKtyoe</id>
+        <link href="https://alook.so/posts/vKtyoe"/>
+        <updated>2021-10-30T03:16:18.060Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtyoe">정말 지구의 주인이 '인간'이라고 생각하십니까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[단계적 일상 회복의 시작, '모이지 않기'에서 '안전하게 모이기'로]]></title>
@@ -90,11 +76,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5ta6B">단계적 일상 회복의 시작, '모이지 않기'에서 '안전하게 모이기'로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빅테크는 왜 안면인식기술을 경찰에 판매하지 않을까?]]></title>
-        <id>https://alook.so/posts/njtaOa</id>
-        <link href="https://alook.so/posts/njtaOa"/>
-        <updated>2021-10-29T09:15:11.780Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtaOa">빅테크는 왜 안면인식기술을 경찰에 판매하지 않을까?</a>]]></content>
+        <title type="html"><![CDATA[“괴물을 죽이기 위해 괴물이 되고 싶지는 않다.” - 선과 악은 무엇일까요?]]></title>
+        <id>https://alook.so/posts/eVteOx</id>
+        <link href="https://alook.so/posts/eVteOx"/>
+        <updated>2021-10-30T11:12:04.858Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVteOx">“괴물을 죽이기 위해 괴물이 되고 싶지는 않다.” - 선과 악은 무엇일까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공교육에서만 배울 수 있는 것들 (4) 영재교육, 누가 무엇을 배우는 곳인가.]]></title>
+        <id>https://alook.so/posts/rDt5BJ</id>
+        <link href="https://alook.so/posts/rDt5BJ"/>
+        <updated>2021-10-30T02:28:10.381Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt5BJ">공교육에서만 배울 수 있는 것들 (4) 영재교육, 누가 무엇을 배우는 곳인가.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지각하는 사람의 심리학과 지각하지 않는 사람의 심리학]]></title>
+        <id>https://alook.so/posts/potoLV</id>
+        <link href="https://alook.so/posts/potoLV"/>
+        <updated>2021-10-30T12:20:48.216Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potoLV">지각하는 사람의 심리학과 지각하지 않는 사람의 심리학</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[혁신을 위했다는 당신에게]]></title>
@@ -102,12 +102,5 @@
         <link href="https://alook.so/posts/Djt7yP"/>
         <updated>2021-10-29T09:15:11.777Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt7yP">혁신을 위했다는 당신에게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정말 지구의 주인이 '인간'이라고 생각하십니까?]]></title>
-        <id>https://alook.so/posts/vKtyoe</id>
-        <link href="https://alook.so/posts/vKtyoe"/>
-        <updated>2021-10-30T03:16:18.060Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtyoe">정말 지구의 주인이 '인간'이라고 생각하십니까?</a>]]></content>
     </entry>
 </feed>

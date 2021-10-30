@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-30T11:13:38.206Z</updated>
+    <updated>2021-10-30T12:22:14.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[모두의 행복을 위한 징검다리 "alookso"]]></title>
-        <id>https://alook.so/posts/G1tnyO</id>
-        <link href="https://alook.so/posts/G1tnyO"/>
-        <updated>2021-10-30T11:11:54.643Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tnyO">모두의 행복을 위한 징검다리 "alookso"</a>]]></content>
+        <title type="html"><![CDATA[아이들이 즐겨보는 유투브에 의무적으로 공익광고를 넣었으면 좋겠어요.]]></title>
+        <id>https://alook.so/posts/1RtYxq</id>
+        <link href="https://alook.so/posts/1RtYxq"/>
+        <updated>2021-10-30T12:20:39.009Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtYxq">아이들이 즐겨보는 유투브에 의무적으로 공익광고를 넣었으면 좋겠어요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군인들 존중에 대하여]]></title>
-        <id>https://alook.so/posts/OEtJe5</id>
-        <link href="https://alook.so/posts/OEtJe5"/>
-        <updated>2021-10-30T11:11:54.643Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtJe5">군인들 존중에 대하여</a>]]></content>
+        <title type="html"><![CDATA[지금의 엄마 모습이 내탓 같아  언제나.. 미안하고 화나고 맘이 아프네요..]]></title>
+        <id>https://alook.so/posts/70tG1W</id>
+        <link href="https://alook.so/posts/70tG1W"/>
+        <updated>2021-10-30T12:20:39.010Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tG1W">지금의 엄마 모습이 내탓 같아  언제나.. 미안하고 화나고 맘이 아프네요..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여러분은 '인도' 라는 나라를 아시나요?]]></title>
-        <id>https://alook.so/posts/vKtaWX</id>
-        <link href="https://alook.so/posts/vKtaWX"/>
-        <updated>2021-10-30T11:11:54.643Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtaWX">여러분은 '인도' 라는 나라를 아시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[졸업장 자체의 가치보다는 습관에 있다고 생각해요.]]></title>
-        <id>https://alook.so/posts/E7twYO</id>
-        <link href="https://alook.so/posts/E7twYO"/>
-        <updated>2021-10-30T11:11:54.646Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7twYO">졸업장 자체의 가치보다는 습관에 있다고 생각해요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주부도 바쁘다!!!!]]></title>
-        <id>https://alook.so/posts/latYl3</id>
-        <link href="https://alook.so/posts/latYl3"/>
-        <updated>2021-10-30T11:11:54.647Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latYl3">주부도 바쁘다!!!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동성결혼 찬성]]></title>
-        <id>https://alook.so/posts/KmtGXr</id>
-        <link href="https://alook.so/posts/KmtGXr"/>
-        <updated>2021-10-30T11:11:54.648Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtGXr">동성결혼 찬성</a>]]></content>
+        <title type="html"><![CDATA[인류는 지구의 주인이다.]]></title>
+        <id>https://alook.so/posts/mbt8Oj</id>
+        <link href="https://alook.so/posts/mbt8Oj"/>
+        <updated>2021-10-30T12:20:39.012Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt8Oj">인류는 지구의 주인이다.</a>]]></content>
     </entry>
 </feed>
