@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-30T07:17:19.700Z</updated>
+    <updated>2021-10-30T08:18:08.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[요즘 ‘재테크’에 관심중]]></title>
-        <id>https://alook.so/posts/q1tYlb</id>
-        <link href="https://alook.so/posts/q1tYlb"/>
-        <updated>2021-10-30T07:15:44.085Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tYlb">요즘 ‘재테크’에 관심중 </a>]]></content>
+        <title type="html"><![CDATA[거짓말이라고...]]></title>
+        <id>https://alook.so/posts/G1tn9O</id>
+        <link href="https://alook.so/posts/G1tn9O"/>
+        <updated>2021-10-30T08:16:22.907Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tn9O">거짓말이라고...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신의 노후는 안녕하십니까? 진짜요?!]]></title>
-        <id>https://alook.so/posts/DjtOlx</id>
-        <link href="https://alook.so/posts/DjtOlx"/>
-        <updated>2021-10-30T07:15:44.088Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtOlx">당신의 노후는 안녕하십니까? 진짜요?! </a>]]></content>
+        <title type="html"><![CDATA[금요일밤 숙직근무 후]]></title>
+        <id>https://alook.so/posts/E7tw3O</id>
+        <link href="https://alook.so/posts/E7tw3O"/>
+        <updated>2021-10-30T08:16:22.908Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tw3O">금요일밤 숙직근무 후</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대한민국에서 대학졸업장은 이제 필수!]]></title>
-        <id>https://alook.so/posts/o7t10V</id>
-        <link href="https://alook.so/posts/o7t10V"/>
-        <updated>2021-10-30T07:15:44.089Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t10V">대한민국에서 대학졸업장은 이제 필수!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기승전결이 있는 드라마에 실력은 덤]]></title>
-        <id>https://alook.so/posts/70tGmw</id>
-        <link href="https://alook.so/posts/70tGmw"/>
-        <updated>2021-10-30T07:15:44.092Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tGmw">기승전결이 있는 드라마에 실력은 덤</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 직업은 ‘간호사’]]></title>
-        <id>https://alook.so/posts/E7tw3w</id>
-        <link href="https://alook.so/posts/E7tw3w"/>
-        <updated>2021-10-30T07:15:44.093Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tw3w">내 직업은 ‘간호사’</a>]]></content>
+        <title type="html"><![CDATA[삼성 전자의 주식은 ‘십만전자’가 될것이다…]]></title>
+        <id>https://alook.so/posts/KmtGkr</id>
+        <link href="https://alook.so/posts/KmtGkr"/>
+        <updated>2021-10-30T08:16:22.910Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtGkr">삼성 전자의 주식은 ‘십만전자’가 될것이다…</a>]]></content>
     </entry>
 </feed>
