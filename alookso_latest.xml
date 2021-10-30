@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-30T04:19:25.767Z</updated>
+    <updated>2021-10-30T05:13:55.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[군대]]></title>
-        <id>https://alook.so/posts/92tn5J</id>
-        <link href="https://alook.so/posts/92tn5J"/>
-        <updated>2021-10-30T04:17:53.959Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tn5J">군대</a>]]></content>
+        <title type="html"><![CDATA[아버지의 뒷모습(부모님은 뒷모습)]]></title>
+        <id>https://alook.so/posts/VntlO1</id>
+        <link href="https://alook.so/posts/VntlO1"/>
+        <updated>2021-10-30T05:12:17.446Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntlO1">아버지의 뒷모습(부모님은 뒷모습)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[학교에서의 '과일' 제공에 대해 어떻게 생각하시나요?]]></title>
-        <id>https://alook.so/posts/DjtO6E</id>
-        <link href="https://alook.so/posts/DjtO6E"/>
-        <updated>2021-10-30T04:17:53.961Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtO6E">학교에서의 '과일' 제공에 대해 어떻게 생각하시나요?</a>]]></content>
+        <title type="html"><![CDATA[통일하나 안하나 국방비을 늘려하는 이유..]]></title>
+        <id>https://alook.so/posts/WLtX73</id>
+        <link href="https://alook.so/posts/WLtX73"/>
+        <updated>2021-10-30T05:12:17.447Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtX73">통일하나 안하나 국방비을 늘려하는 이유..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10월의 마지막 주말입니다]]></title>
-        <id>https://alook.so/posts/o7t1rz</id>
-        <link href="https://alook.so/posts/o7t1rz"/>
-        <updated>2021-10-30T04:17:53.962Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t1rz">10월의 마지막 주말입니다 </a>]]></content>
+        <title type="html"><![CDATA[토요일은 어떻게 보내시나요?]]></title>
+        <id>https://alook.so/posts/0ktJ6O</id>
+        <link href="https://alook.so/posts/0ktJ6O"/>
+        <updated>2021-10-30T05:12:17.448Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktJ6O">토요일은 어떻게 보내시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[진정...아직도 그런 회사가 있단 말입니까?]]></title>
-        <id>https://alook.so/posts/70tGk4</id>
-        <link href="https://alook.so/posts/70tGk4"/>
-        <updated>2021-10-30T04:17:53.963Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tGk4">진정...아직도 그런 회사가 있단 말입니까?</a>]]></content>
+        <title type="html"><![CDATA[다짜고짜 영어(미국 유학 준비 이야기)]]></title>
+        <id>https://alook.so/posts/XBtKoz</id>
+        <link href="https://alook.so/posts/XBtKoz"/>
+        <updated>2021-10-30T05:12:17.450Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtKoz">다짜고짜 영어(미국 유학 준비 이야기)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주 4일제 정말 개꿀인가..?]]></title>
+        <id>https://alook.so/posts/RGtV15</id>
+        <link href="https://alook.so/posts/RGtV15"/>
+        <updated>2021-10-30T05:12:17.451Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtV15">주 4일제 정말 개꿀인가..?</a>]]></content>
     </entry>
 </feed>
