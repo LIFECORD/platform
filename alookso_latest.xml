@@ -2,28 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-30T08:18:08.247Z</updated>
+    <updated>2021-10-30T09:15:48.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[거짓말이라고...]]></title>
-        <id>https://alook.so/posts/G1tn9O</id>
-        <link href="https://alook.so/posts/G1tn9O"/>
-        <updated>2021-10-30T08:16:22.907Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tn9O">거짓말이라고...</a>]]></content>
+        <title type="html"><![CDATA[모든건 부모의 욕심]]></title>
+        <id>https://alook.so/posts/Vntlem</id>
+        <link href="https://alook.so/posts/Vntlem"/>
+        <updated>2021-10-30T09:14:05.984Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntlem">모든건 부모의 욕심</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[금요일밤 숙직근무 후]]></title>
-        <id>https://alook.so/posts/E7tw3O</id>
-        <link href="https://alook.so/posts/E7tw3O"/>
-        <updated>2021-10-30T08:16:22.908Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tw3O">금요일밤 숙직근무 후</a>]]></content>
+        <title type="html"><![CDATA[“불법 인간”은 없다 - 2017/05/25 '육군 A 대위 사건' 당시 썼던 글]]></title>
+        <id>https://alook.so/posts/zvt6Z7</id>
+        <link href="https://alook.so/posts/zvt6Z7"/>
+        <updated>2021-10-30T09:14:05.984Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt6Z7">“불법 인간”은 없다 - 2017/05/25 '육군 A 대위 사건' 당시 썼던 글</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼성 전자의 주식은 ‘십만전자’가 될것이다…]]></title>
-        <id>https://alook.so/posts/KmtGkr</id>
-        <link href="https://alook.so/posts/KmtGkr"/>
-        <updated>2021-10-30T08:16:22.910Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtGkr">삼성 전자의 주식은 ‘십만전자’가 될것이다…</a>]]></content>
+        <title type="html"><![CDATA["카메라를 설치한 것은 맞지만 성적인 의도는 없었습니다."]]></title>
+        <id>https://alook.so/posts/2xteMr</id>
+        <link href="https://alook.so/posts/2xteMr"/>
+        <updated>2021-10-30T09:14:05.986Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xteMr">"카메라를 설치한 것은 맞지만 성적인 의도는 없었습니다."</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금까지 내 인생에 투자는 실패였다]]></title>
+        <id>https://alook.so/posts/WLtXJV</id>
+        <link href="https://alook.so/posts/WLtXJV"/>
+        <updated>2021-10-30T09:14:05.987Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtXJV">지금까지 내 인생에 투자는 실패였다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람들 만나면 얼국소에서 용돈 벌라고 꼬시는 저 정상인가요?]]></title>
+        <id>https://alook.so/posts/0ktJm3</id>
+        <link href="https://alook.so/posts/0ktJm3"/>
+        <updated>2021-10-30T09:14:05.988Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktJm3">사람들 만나면 얼국소에서 용돈 벌라고 꼬시는 저 정상인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩커들의 모임 장소 픽하나요??]]></title>
+        <id>https://alook.so/posts/M9t98W</id>
+        <link href="https://alook.so/posts/M9t98W"/>
+        <updated>2021-10-30T09:14:05.990Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t98W">얼룩커들의 모임 장소 픽하나요??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자유경쟁시장에서 독점으로 느껴질 수 밖에 없는 이유]]></title>
+        <id>https://alook.so/posts/4XtkOJ</id>
+        <link href="https://alook.so/posts/4XtkOJ"/>
+        <updated>2021-10-30T09:14:05.991Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtkOJ">자유경쟁시장에서 독점으로 느껴질 수 밖에 없는 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그렇게 아버지가 된다. -2]]></title>
+        <id>https://alook.so/posts/XBtK37</id>
+        <link href="https://alook.so/posts/XBtK37"/>
+        <updated>2021-10-30T09:14:05.993Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtK37">그렇게 아버지가 된다. -2</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시작할 줄 아는 사람들. 우린 이미 반은 지나왔네요..]]></title>
+        <id>https://alook.so/posts/w9txyD</id>
+        <link href="https://alook.so/posts/w9txyD"/>
+        <updated>2021-10-30T09:14:05.994Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9txyD">시작할 줄 아는 사람들. 우린 이미 반은 지나왔네요..</a>]]></content>
     </entry>
 </feed>
