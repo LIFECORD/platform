@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-30T01:57:51.569Z</updated>
+    <updated>2021-10-30T02:29:44.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[테슬라 천슬라 취소합니다!!(feat. 나도 샀어야.......)]]></title>
+        <id>https://alook.so/posts/latYqk</id>
+        <link href="https://alook.so/posts/latYqk"/>
+        <updated>2021-10-30T02:27:59.884Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latYqk">테슬라 천슬라 취소합니다!!(feat. 나도 샀어야.......)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아늑한 중산층의 삶에 접어들다]]></title>
+        <id>https://alook.so/posts/KmtGDv</id>
+        <link href="https://alook.so/posts/KmtGDv"/>
+        <updated>2021-10-30T02:27:59.885Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtGDv">아늑한 중산층의 삶에 접어들다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고민의 시작]]></title>
         <id>https://alook.so/posts/70tGeX</id>
@@ -25,26 +39,5 @@
         <link href="https://alook.so/posts/rDtrv1"/>
         <updated>2021-10-30T01:55:07.328Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtrv1">생산성은 시간에 비례하지 않는다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성의 목소리로 광주를 기록하기]]></title>
-        <id>https://alook.so/posts/jdtwdJ</id>
-        <link href="https://alook.so/posts/jdtwdJ"/>
-        <updated>2021-10-30T01:55:07.330Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtwdJ">여성의 목소리로 광주를 기록하기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-POP이 세계를 제패한 이유가 뭘까요?]]></title>
-        <id>https://alook.so/posts/bWt0yq</id>
-        <link href="https://alook.so/posts/bWt0yq"/>
-        <updated>2021-10-30T01:55:07.332Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt0yq">K-POP이 세계를 제패한 이유가 뭘까요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11월1일은 반값 한우먹는날♥]]></title>
-        <id>https://alook.so/posts/ZktMa5</id>
-        <link href="https://alook.so/posts/ZktMa5"/>
-        <updated>2021-10-30T01:55:07.333Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktMa5">11월1일은 반값 한우먹는날♥</a>]]></content>
     </entry>
 </feed>
