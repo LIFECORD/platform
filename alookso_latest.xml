@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-30T19:13:46.034Z</updated>
+    <updated>2021-10-30T20:15:40.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국회의원의 양이냐 질이냐]]></title>
+        <id>https://alook.so/posts/BatXEG</id>
+        <link href="https://alook.so/posts/BatXEG"/>
+        <updated>2021-10-30T20:14:05.735Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatXEG">국회의원의 양이냐 질이냐</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[학교가 끝나면 학원에 가는 10대, "공부하기 싫어도 해야 해요."]]></title>
+        <id>https://alook.so/posts/LKt6GG</id>
+        <link href="https://alook.so/posts/LKt6GG"/>
+        <updated>2021-10-30T20:14:05.737Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt6GG">학교가 끝나면 학원에 가는 10대, "공부하기 싫어도 해야 해요."</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손 흥 민 선수]]></title>
+        <id>https://alook.so/posts/3wtGDG</id>
+        <link href="https://alook.so/posts/3wtGDG"/>
+        <updated>2021-10-30T20:14:05.738Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtGDG">손 흥 민 선수</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<걸스플래닛 999>와 중국 문제]]></title>
         <id>https://alook.so/posts/vKtam6</id>
@@ -18,12 +39,5 @@
         <link href="https://alook.so/posts/E7twd9"/>
         <updated>2021-10-30T19:12:15.329Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7twd9">10월의 마지막날, 자신에게 칭찬 하나씩 할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회적 분위기로 인해 목표없는 달리기가 문제]]></title>
-        <id>https://alook.so/posts/54trKy</id>
-        <link href="https://alook.so/posts/54trKy"/>
-        <updated>2021-10-30T18:17:14.595Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54trKy">사회적 분위기로 인해 목표없는 달리기가 문제</a>]]></content>
     </entry>
 </feed>
