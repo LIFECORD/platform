@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-31T07:15:32.391Z</updated>
+    <updated>2021-10-31T08:18:54.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[핸드폰 바이러스]]></title>
-        <id>https://alook.so/posts/latYPv</id>
-        <link href="https://alook.so/posts/latYPv"/>
-        <updated>2021-10-31T07:14:00.482Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latYPv">핸드폰 바이러스</a>]]></content>
+        <title type="html"><![CDATA[심심한 백수, 앱테크에 관심이 생기다.]]></title>
+        <id>https://alook.so/posts/0ktJrn</id>
+        <link href="https://alook.so/posts/0ktJrn"/>
+        <updated>2021-10-31T08:17:17.347Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktJrn">심심한 백수, 앱테크에 관심이 생기다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글 쓰기의 의미와 괴로움]]></title>
-        <id>https://alook.so/posts/92tn40</id>
-        <link href="https://alook.so/posts/92tn40"/>
-        <updated>2021-10-31T07:14:00.483Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tn40">글 쓰기의 의미와 괴로움</a>]]></content>
+        <title type="html"><![CDATA[일요일 너를 미워하고 싶진 않아]]></title>
+        <id>https://alook.so/posts/xltXdY</id>
+        <link href="https://alook.so/posts/xltXdY"/>
+        <updated>2021-10-31T08:17:17.348Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltXdY">일요일 너를 미워하고 싶진 않아</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[준비되지 않은 출산에 대하여]]></title>
-        <id>https://alook.so/posts/mbt8by</id>
-        <link href="https://alook.so/posts/mbt8by"/>
-        <updated>2021-10-31T07:14:00.484Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt8by">준비되지 않은 출산에 대하여</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배달 서비스는 앞으로도 지속될 수 있을까요?]]></title>
-        <id>https://alook.so/posts/54trMe</id>
-        <link href="https://alook.so/posts/54trMe"/>
-        <updated>2021-10-31T07:14:00.485Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54trMe">배달 서비스는 앞으로도 지속될 수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머리 나쁘고 빽 없는 내가 유일하게 가진 건 "인복"]]></title>
-        <id>https://alook.so/posts/q1tYbM</id>
-        <link href="https://alook.so/posts/q1tYbM"/>
-        <updated>2021-10-31T07:14:00.492Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tYbM">머리 나쁘고 빽 없는 내가 유일하게 가진 건 "인복"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터 시각화로 보는 도시/건물의 나이]]></title>
-        <id>https://alook.so/posts/o7t1xb</id>
-        <link href="https://alook.so/posts/o7t1xb"/>
-        <updated>2021-10-31T07:14:00.494Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t1xb">데이터 시각화로 보는 도시/건물의 나이</a>]]></content>
+        <title type="html"><![CDATA[목표가 없는 달리기]]></title>
+        <id>https://alook.so/posts/BatXLe</id>
+        <link href="https://alook.so/posts/BatXLe"/>
+        <updated>2021-10-31T08:17:17.350Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatXLe">목표가 없는 달리기</a>]]></content>
     </entry>
 </feed>
