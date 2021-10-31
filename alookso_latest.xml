@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-31T11:15:14.497Z</updated>
+    <updated>2021-10-31T12:23:52.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[시간이 지나면 오늘의 가슴떨리는 선택도 추억이 될꺼예요.]]></title>
-        <id>https://alook.so/posts/yEtJbJ</id>
-        <link href="https://alook.so/posts/yEtJbJ"/>
-        <updated>2021-10-31T11:13:31.743Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtJbJ">시간이 지나면 오늘의 가슴떨리는 선택도 추억이 될꺼예요.</a>]]></content>
+        <title type="html"><![CDATA[안녕하세요 저는 현재 중학교 2학년 학생입니다]]></title>
+        <id>https://alook.so/posts/ZktMPD</id>
+        <link href="https://alook.so/posts/ZktMPD"/>
+        <updated>2021-10-31T12:22:16.709Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktMPD">안녕하세요 저는 현재 중학교 2학년 학생입니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[늘어지면 죄책감을 느끼는 나는 비정상인가요.?]]></title>
-        <id>https://alook.so/posts/LKt6WK</id>
-        <link href="https://alook.so/posts/LKt6WK"/>
-        <updated>2021-10-31T11:13:31.743Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt6WK">늘어지면 죄책감을 느끼는 나는 비정상인가요.?</a>]]></content>
+        <title type="html"><![CDATA[NO]]></title>
+        <id>https://alook.so/posts/J5tMVK</id>
+        <link href="https://alook.so/posts/J5tMVK"/>
+        <updated>2021-10-31T12:22:16.710Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tMVK">NO</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노력은 경쟁에서 상수일까, 변수일까?]]></title>
-        <id>https://alook.so/posts/8Wtkjw</id>
-        <link href="https://alook.so/posts/8Wtkjw"/>
-        <updated>2021-10-31T11:13:31.745Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtkjw">노력은 경쟁에서 상수일까, 변수일까?</a>]]></content>
+        <title type="html"><![CDATA[k-pop]]></title>
+        <id>https://alook.so/posts/potomY</id>
+        <link href="https://alook.so/posts/potomY"/>
+        <updated>2021-10-31T12:22:16.714Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potomY">k-pop</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[읽어야 할까요, 읽지 말아야 할까요.]]></title>
-        <id>https://alook.so/posts/OEtJXn</id>
-        <link href="https://alook.so/posts/OEtJXn"/>
-        <updated>2021-10-31T11:13:31.751Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtJXn">읽어야 할까요, 읽지 말아야 할까요.</a>]]></content>
+        <title type="html"><![CDATA[마인크래프트 수성온라인 서버를 플레이해보았다 (with 새노트북)]]></title>
+        <id>https://alook.so/posts/VntlaG</id>
+        <link href="https://alook.so/posts/VntlaG"/>
+        <updated>2021-10-31T12:22:16.715Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntlaG">마인크래프트 수성온라인 서버를 플레이해보았다 (with 새노트북)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MBTI 믿어야 할까?]]></title>
+        <id>https://alook.so/posts/zvt6qX</id>
+        <link href="https://alook.so/posts/zvt6qX"/>
+        <updated>2021-10-31T12:22:16.716Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt6qX">MBTI 믿어야 할까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현역,예비역이 먼저 바뀌어야 된다]]></title>
+        <id>https://alook.so/posts/WLtXYY</id>
+        <link href="https://alook.so/posts/WLtXYY"/>
+        <updated>2021-10-31T12:22:16.718Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtXYY">현역,예비역이 먼저 바뀌어야 된다</a>]]></content>
     </entry>
 </feed>
