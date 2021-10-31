@@ -2,56 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-31T03:16:56.970Z</updated>
+    <updated>2021-10-31T04:19:51.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[전세 계약 기간이 남아도 항상 불안해]]></title>
-        <id>https://alook.so/posts/M9t9qm</id>
-        <link href="https://alook.so/posts/M9t9qm"/>
-        <updated>2021-10-31T03:15:13.330Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t9qm">전세 계약 기간이 남아도 항상 불안해</a>]]></content>
+        <title type="html"><![CDATA["안녕하세요" 한마디]]></title>
+        <id>https://alook.so/posts/YytX1D</id>
+        <link href="https://alook.so/posts/YytX1D"/>
+        <updated>2021-10-31T04:18:14.607Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytX1D">"안녕하세요" 한마디</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 경험한 최악의 면접은?]]></title>
-        <id>https://alook.so/posts/4XtkWv</id>
-        <link href="https://alook.so/posts/4XtkWv"/>
-        <updated>2021-10-31T03:15:13.331Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtkWv">내가 경험한 최악의 면접은? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종이 한 장 들고 만난 국회의원(정치 이야기)]]></title>
-        <id>https://alook.so/posts/w9tx74</id>
-        <link href="https://alook.so/posts/w9tx74"/>
-        <updated>2021-10-31T03:15:13.332Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tx74">종이 한 장 들고 만난 국회의원(정치 이야기)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이, 가질 수 있을까요?]]></title>
-        <id>https://alook.so/posts/kZt1nE</id>
-        <link href="https://alook.so/posts/kZt1nE"/>
-        <updated>2021-10-31T03:15:13.333Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt1nE">아이, 가질 수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['꼬꼬무'필리핀 연쇄 납치사건]]></title>
-        <id>https://alook.so/posts/OEtJPm</id>
-        <link href="https://alook.so/posts/OEtJPm"/>
-        <updated>2021-10-31T03:15:13.340Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtJPm">'꼬꼬무'필리핀 연쇄 납치사건</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[!!!! 사형 절대 NO NO !!!!]]></title>
-        <id>https://alook.so/posts/vKta5q</id>
-        <link href="https://alook.so/posts/vKta5q"/>
-        <updated>2021-10-31T03:15:13.344Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKta5q">!!!! 사형 절대 NO NO !!!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 '얼룩소픽'으로 선정되었다는 반가운 이메일^^]]></title>
-        <id>https://alook.so/posts/E7twkz</id>
-        <link href="https://alook.so/posts/E7twkz"/>
-        <updated>2021-10-31T03:15:13.345Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7twkz">오늘 '얼룩소픽'으로 선정되었다는 반가운 이메일^^</a>]]></content>
+        <title type="html"><![CDATA["그 일 제꺼 아닌데요?"]]></title>
+        <id>https://alook.so/posts/jdtwre</id>
+        <link href="https://alook.so/posts/jdtwre"/>
+        <updated>2021-10-31T04:18:14.609Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtwre">"그 일 제꺼 아닌데요?"</a>]]></content>
     </entry>
 </feed>
