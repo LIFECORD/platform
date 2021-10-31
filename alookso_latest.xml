@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-31T09:15:38.319Z</updated>
+    <updated>2021-10-31T10:18:10.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[반성]]></title>
-        <id>https://alook.so/posts/54trde</id>
-        <link href="https://alook.so/posts/54trde"/>
-        <updated>2021-10-31T09:13:54.886Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54trde">반성</a>]]></content>
+        <title type="html"><![CDATA[제 직업은 감정노동자 상담사 입니다...]]></title>
+        <id>https://alook.so/posts/92tnW6</id>
+        <link href="https://alook.so/posts/92tnW6"/>
+        <updated>2021-10-31T10:16:27.277Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tnW6">제 직업은 감정노동자 상담사 입니다...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[해고 당한적도 있어요 ㅠㅠ]]></title>
-        <id>https://alook.so/posts/q1tY1M</id>
-        <link href="https://alook.so/posts/q1tY1M"/>
-        <updated>2021-10-31T09:13:54.888Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tY1M">해고 당한적도 있어요 ㅠㅠ</a>]]></content>
+        <title type="html"><![CDATA[대학원 진학을 추천하나요?]]></title>
+        <id>https://alook.so/posts/q1tY1B</id>
+        <link href="https://alook.so/posts/q1tY1B"/>
+        <updated>2021-10-31T10:16:27.278Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tY1B">대학원 진학을 추천하나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3년 후 내 미래는?]]></title>
-        <id>https://alook.so/posts/1RtYay</id>
-        <link href="https://alook.so/posts/1RtYay"/>
-        <updated>2021-10-31T09:13:54.889Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtYay">3년 후 내 미래는?</a>]]></content>
+        <title type="html"><![CDATA[일요일 어떻게 마무리하고 계세요?]]></title>
+        <id>https://alook.so/posts/70tGM7</id>
+        <link href="https://alook.so/posts/70tGM7"/>
+        <updated>2021-10-31T10:16:27.280Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tGM7">일요일 어떻게 마무리하고 계세요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인생 한 방, 성별에도 자유를 누리자]]></title>
-        <id>https://alook.so/posts/o7t1wb</id>
-        <link href="https://alook.so/posts/o7t1wb"/>
-        <updated>2021-10-31T09:13:54.891Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t1wb">인생 한 방, 성별에도 자유를 누리자</a>]]></content>
+        <title type="html"><![CDATA[한국인은 가무를 즐기는 민족이라는 것도 이유중 하나가 아닐까요?]]></title>
+        <id>https://alook.so/posts/rDtrjP</id>
+        <link href="https://alook.so/posts/rDtrjP"/>
+        <updated>2021-10-31T10:16:27.282Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtrjP">한국인은 가무를 즐기는 민족이라는 것도 이유중 하나가 아닐까요?</a>]]></content>
     </entry>
 </feed>
