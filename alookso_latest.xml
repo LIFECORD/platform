@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-31T02:02:11.137Z</updated>
+    <updated>2021-10-31T02:35:57.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[트로피가 뭐길래]]></title>
-        <id>https://alook.so/posts/DjtOrV</id>
-        <link href="https://alook.so/posts/DjtOrV"/>
-        <updated>2021-10-31T01:59:27.963Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtOrV">트로피가 뭐길래</a>]]></content>
+        <title type="html"><![CDATA['제로 웨이스트' 캠페인]]></title>
+        <id>https://alook.so/posts/latYGP</id>
+        <link href="https://alook.so/posts/latYGP"/>
+        <updated>2021-10-31T02:34:15.797Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latYGP">'제로 웨이스트' 캠페인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩커님들의 판단이 필요합니다. 저는 이해 해 주는 걸까요? 이해 하는척 하는걸까요?]]></title>
-        <id>https://alook.so/posts/1RtY56</id>
-        <link href="https://alook.so/posts/1RtY56"/>
-        <updated>2021-10-31T01:59:27.965Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtY56">얼룩커님들의 판단이 필요합니다. 저는 이해 해 주는 걸까요? 이해 하는척 하는걸까요?</a>]]></content>
+        <title type="html"><![CDATA[위드 코로나 유럽, 확진자 다시 늘어]]></title>
+        <id>https://alook.so/posts/92tnby</id>
+        <link href="https://alook.so/posts/92tnby"/>
+        <updated>2021-10-31T02:34:15.799Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tnby">위드 코로나 유럽, 확진자 다시 늘어</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다들 글 쓰는 이유는 무엇인가요?]]></title>
-        <id>https://alook.so/posts/o7t1kP</id>
-        <link href="https://alook.so/posts/o7t1kP"/>
-        <updated>2021-10-31T01:59:27.966Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t1kP">다들 글 쓰는 이유는 무엇인가요?</a>]]></content>
+        <title type="html"><![CDATA[동서양의 힘의 차이]]></title>
+        <id>https://alook.so/posts/q1tYEo</id>
+        <link href="https://alook.so/posts/q1tYEo"/>
+        <updated>2021-10-31T02:34:15.800Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tYEo">동서양의 힘의 차이</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[' 당신 하고픈거 다 해!' 2]]></title>
+        <id>https://alook.so/posts/YytXPD</id>
+        <link href="https://alook.so/posts/YytXPD"/>
+        <updated>2021-10-31T02:34:15.801Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytXPD">' 당신 하고픈거 다 해!' 2</a>]]></content>
     </entry>
 </feed>
