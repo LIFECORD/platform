@@ -2,29 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-10-31T19:13:43.478Z</updated>
+    <updated>2021-10-31T20:16:09.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA["안녕하세요" 한마디]]></title>
-        <id>https://alook.so/posts/YytX1D</id>
-        <link href="https://alook.so/posts/YytX1D"/>
-        <updated>2021-10-31T09:14:04.744Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytX1D">"안녕하세요" 한마디</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람들 만나면 얼룩소에서 용돈 벌라고 꼬시는 저 정상인가요?]]></title>
-        <id>https://alook.so/posts/0ktJm3</id>
-        <link href="https://alook.so/posts/0ktJm3"/>
-        <updated>2021-10-31T00:47:26.515Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktJm3">사람들 만나면 얼룩소에서 용돈 벌라고 꼬시는 저 정상인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N번방은 계속 된다.]]></title>
-        <id>https://alook.so/posts/Pvtow4</id>
-        <link href="https://alook.so/posts/Pvtow4"/>
-        <updated>2021-10-31T06:18:10.717Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtow4">N번방은 계속 된다. </a>]]></content>
+        <title type="html"><![CDATA[글 쓰기의 의미와 괴로움]]></title>
+        <id>https://alook.so/posts/92tn40</id>
+        <link href="https://alook.so/posts/92tn40"/>
+        <updated>2021-10-31T14:14:14.870Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tn40">글 쓰기의 의미와 괴로움</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['을'에서 나오기로 선택했습니다. [대놓고 격려 부탁드립니다.]]]></title>
@@ -34,18 +20,46 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtJEm">'을'에서 나오기로 선택했습니다. [대놓고 격려 부탁드립니다.]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글 쓰기의 의미와 괴로움]]></title>
-        <id>https://alook.so/posts/92tn40</id>
-        <link href="https://alook.so/posts/92tn40"/>
-        <updated>2021-10-31T14:14:14.870Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tn40">글 쓰기의 의미와 괴로움</a>]]></content>
+        <title type="html"><![CDATA[심상정도 이재명도 놓치고 있는 '개발공익 실현']]></title>
+        <id>https://alook.so/posts/KmtGW6</id>
+        <link href="https://alook.so/posts/KmtGW6"/>
+        <updated>2021-10-31T15:15:30.951Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtGW6">심상정도 이재명도 놓치고 있는 '개발공익 실현'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[차라투스트라는 이렇게 말했습니다.]]></title>
-        <id>https://alook.so/posts/mbt8VY</id>
-        <link href="https://alook.so/posts/mbt8VY"/>
-        <updated>2021-10-31T13:19:15.864Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt8VY">차라투스트라는 이렇게 말했습니다.</a>]]></content>
+        <title type="html"><![CDATA[내가 싫어질 때]]></title>
+        <id>https://alook.so/posts/rDtrYk</id>
+        <link href="https://alook.so/posts/rDtrYk"/>
+        <updated>2021-10-31T13:19:15.874Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtrYk">내가 싫어질 때</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신의 노후는 안녕하십니까? 진짜요?!]]></title>
+        <id>https://alook.so/posts/DjtOlx</id>
+        <link href="https://alook.so/posts/DjtOlx"/>
+        <updated>2021-10-30T16:20:03.426Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtOlx">당신의 노후는 안녕하십니까? 진짜요?! </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주부도 바쁘다!!!!]]></title>
+        <id>https://alook.so/posts/latYl3</id>
+        <link href="https://alook.so/posts/latYl3"/>
+        <updated>2021-10-31T04:18:23.724Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latYl3">주부도 바쁘다!!!!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[N번방은 계속 된다.]]></title>
+        <id>https://alook.so/posts/Pvtow4</id>
+        <link href="https://alook.so/posts/Pvtow4"/>
+        <updated>2021-10-31T06:18:10.717Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtow4">N번방은 계속 된다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["안녕하세요" 한마디]]></title>
+        <id>https://alook.so/posts/YytX1D</id>
+        <link href="https://alook.so/posts/YytX1D"/>
+        <updated>2021-10-31T09:14:04.744Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytX1D">"안녕하세요" 한마디</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Datalook] 누리호를 쏘아 올린 대통령은 누구일까요?]]></title>
@@ -55,11 +69,32 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtk9r">[Datalook] 누리호를 쏘아 올린 대통령은 누구일까요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신의 노후는 안녕하십니까? 진짜요?!]]></title>
-        <id>https://alook.so/posts/DjtOlx</id>
-        <link href="https://alook.so/posts/DjtOlx"/>
-        <updated>2021-10-30T16:20:03.426Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtOlx">당신의 노후는 안녕하십니까? 진짜요?! </a>]]></content>
+        <title type="html"><![CDATA["그 일 제꺼 아닌데요?"]]></title>
+        <id>https://alook.so/posts/jdtwre</id>
+        <link href="https://alook.so/posts/jdtwre"/>
+        <updated>2021-10-31T11:13:41.777Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtwre">"그 일 제꺼 아닌데요?"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차라투스트라는 이렇게 말했습니다.]]></title>
+        <id>https://alook.so/posts/mbt8VY</id>
+        <link href="https://alook.so/posts/mbt8VY"/>
+        <updated>2021-10-31T13:19:15.864Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt8VY">차라투스트라는 이렇게 말했습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람들 만나면 얼룩소에서 용돈 벌라고 꼬시는 저 정상인가요?]]></title>
+        <id>https://alook.so/posts/0ktJm3</id>
+        <link href="https://alook.so/posts/0ktJm3"/>
+        <updated>2021-10-31T00:47:26.515Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktJm3">사람들 만나면 얼룩소에서 용돈 벌라고 꼬시는 저 정상인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Datalook] 올해는 10월 31일을 할로윈으로 기억하지 말아주세요!]]></title>
+        <id>https://alook.so/posts/a0tvaa</id>
+        <link href="https://alook.so/posts/a0tvaa"/>
+        <updated>2021-10-30T13:18:44.381Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tvaa">[Datalook] 올해는 10월 31일을 할로윈으로 기억하지 말아주세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나쁜사람이 죽었다]]></title>
@@ -74,40 +109,5 @@
         <link href="https://alook.so/posts/o7t1kP"/>
         <updated>2021-10-31T05:12:55.811Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t1kP">다들 글 쓰는 이유는 무엇인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 싫어질 때]]></title>
-        <id>https://alook.so/posts/rDtrYk</id>
-        <link href="https://alook.so/posts/rDtrYk"/>
-        <updated>2021-10-31T13:19:15.874Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtrYk">내가 싫어질 때</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Datalook] 올해는 10월 31일을 할로윈으로 기억하지 말아주세요!]]></title>
-        <id>https://alook.so/posts/a0tvaa</id>
-        <link href="https://alook.so/posts/a0tvaa"/>
-        <updated>2021-10-30T13:18:44.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tvaa">[Datalook] 올해는 10월 31일을 할로윈으로 기억하지 말아주세요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주부도 바쁘다!!!!]]></title>
-        <id>https://alook.so/posts/latYl3</id>
-        <link href="https://alook.so/posts/latYl3"/>
-        <updated>2021-10-31T04:18:23.724Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latYl3">주부도 바쁘다!!!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["그 일 제꺼 아닌데요?"]]></title>
-        <id>https://alook.so/posts/jdtwre</id>
-        <link href="https://alook.so/posts/jdtwre"/>
-        <updated>2021-10-31T11:13:41.777Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtwre">"그 일 제꺼 아닌데요?"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심상정도 이재명도 놓치고 있는 '개발공익 실현']]></title>
-        <id>https://alook.so/posts/KmtGW6</id>
-        <link href="https://alook.so/posts/KmtGW6"/>
-        <updated>2021-10-31T15:15:30.951Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtGW6">심상정도 이재명도 놓치고 있는 '개발공익 실현'</a>]]></content>
     </entry>
 </feed>
