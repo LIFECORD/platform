@@ -2,21 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-31T13:21:50.201Z</updated>
+    <updated>2021-10-31T14:15:47.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[과도한 걱정은 해롭다]]></title>
-        <id>https://alook.so/posts/vKtaq2</id>
-        <link href="https://alook.so/posts/vKtaq2"/>
-        <updated>2021-10-31T13:19:05.148Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtaq2">과도한 걱정은 해롭다</a>]]></content>
+        <title type="html"><![CDATA[이 시대의 가장 큰 문제!!!]]></title>
+        <id>https://alook.so/posts/mbt8lO</id>
+        <link href="https://alook.so/posts/mbt8lO"/>
+        <updated>2021-10-31T14:14:05.037Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt8lO">이 시대의 가장 큰 문제!!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[심상정도 이재명도 놓치고 있는 '개발공익 실현']]></title>
-        <id>https://alook.so/posts/KmtGW6</id>
-        <link href="https://alook.so/posts/KmtGW6"/>
-        <updated>2021-10-31T13:19:05.151Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtGW6">심상정도 이재명도 놓치고 있는 '개발공익 실현'</a>]]></content>
+        <title type="html"><![CDATA[기후위기]]></title>
+        <id>https://alook.so/posts/DjtOb6</id>
+        <link href="https://alook.so/posts/DjtOb6"/>
+        <updated>2021-10-31T14:14:05.038Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtOb6">기후위기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라떼 이야기가 듣고 싶어요.(라떼는 말이야~)]]></title>
+        <id>https://alook.so/posts/rDtrXP</id>
+        <link href="https://alook.so/posts/rDtrXP"/>
+        <updated>2021-10-31T14:14:05.040Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtrXP">라떼 이야기가 듣고 싶어요.(라떼는 말이야~)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국방비]]></title>
+        <id>https://alook.so/posts/bWt0Zz</id>
+        <link href="https://alook.so/posts/bWt0Zz"/>
+        <updated>2021-10-31T14:14:05.041Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt0Zz">국방비</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한과의 통일]]></title>
+        <id>https://alook.so/posts/J5tMmK</id>
+        <link href="https://alook.so/posts/J5tMmK"/>
+        <updated>2021-10-31T14:14:05.043Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tMmK">북한과의 통일</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회초년생의 투자는 결론에 상관없는 행복]]></title>
+        <id>https://alook.so/posts/Vntl4G</id>
+        <link href="https://alook.so/posts/Vntl4G"/>
+        <updated>2021-10-31T14:14:05.045Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntl4G">사회초년생의 투자는 결론에 상관없는 행복</a>]]></content>
     </entry>
 </feed>
