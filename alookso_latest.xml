@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-31T00:48:53.799Z</updated>
+    <updated>2021-10-31T02:02:11.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[내가 싫어질 때]]></title>
-        <id>https://alook.so/posts/rDtrYk</id>
-        <link href="https://alook.so/posts/rDtrYk"/>
-        <updated>2021-10-31T00:47:17.028Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtrYk">내가 싫어질 때</a>]]></content>
+        <title type="html"><![CDATA[트로피가 뭐길래]]></title>
+        <id>https://alook.so/posts/DjtOrV</id>
+        <link href="https://alook.so/posts/DjtOrV"/>
+        <updated>2021-10-31T01:59:27.963Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtOrV">트로피가 뭐길래</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스턴트글과 계약직의 늪]]></title>
-        <id>https://alook.so/posts/a0tvbn</id>
-        <link href="https://alook.so/posts/a0tvbn"/>
-        <updated>2021-10-31T00:47:17.028Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tvbn">인스턴트글과 계약직의 늪</a>]]></content>
+        <title type="html"><![CDATA[얼룩커님들의 판단이 필요합니다. 저는 이해 해 주는 걸까요? 이해 하는척 하는걸까요?]]></title>
+        <id>https://alook.so/posts/1RtY56</id>
+        <link href="https://alook.so/posts/1RtY56"/>
+        <updated>2021-10-31T01:59:27.965Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtY56">얼룩커님들의 판단이 필요합니다. 저는 이해 해 주는 걸까요? 이해 하는척 하는걸까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저는 돈을 땅 속에 묻어두고 싶지 않습니다.]]></title>
-        <id>https://alook.so/posts/ZktMB8</id>
-        <link href="https://alook.so/posts/ZktMB8"/>
-        <updated>2021-10-31T00:47:17.029Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktMB8">저는 돈을 땅 속에 묻어두고 싶지 않습니다. </a>]]></content>
+        <title type="html"><![CDATA[다들 글 쓰는 이유는 무엇인가요?]]></title>
+        <id>https://alook.so/posts/o7t1kP</id>
+        <link href="https://alook.so/posts/o7t1kP"/>
+        <updated>2021-10-31T01:59:27.966Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t1kP">다들 글 쓰는 이유는 무엇인가요?</a>]]></content>
     </entry>
 </feed>
