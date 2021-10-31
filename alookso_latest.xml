@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-31T04:19:51.344Z</updated>
+    <updated>2021-10-31T05:14:25.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA["안녕하세요" 한마디]]></title>
-        <id>https://alook.so/posts/YytX1D</id>
-        <link href="https://alook.so/posts/YytX1D"/>
-        <updated>2021-10-31T04:18:14.607Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytX1D">"안녕하세요" 한마디</a>]]></content>
+        <title type="html"><![CDATA[한국 10대들의 비밀스러운 속사정]]></title>
+        <id>https://alook.so/posts/G1tnWr</id>
+        <link href="https://alook.so/posts/G1tnWr"/>
+        <updated>2021-10-31T05:12:46.093Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tnWr">한국 10대들의 비밀스러운 속사정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["그 일 제꺼 아닌데요?"]]></title>
-        <id>https://alook.so/posts/jdtwre</id>
-        <link href="https://alook.so/posts/jdtwre"/>
-        <updated>2021-10-31T04:18:14.609Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtwre">"그 일 제꺼 아닌데요?"</a>]]></content>
+        <title type="html"><![CDATA[노태우씨 국가장, 얼룩커님 생각은 어떠신가요?]]></title>
+        <id>https://alook.so/posts/mbt8py</id>
+        <link href="https://alook.so/posts/mbt8py"/>
+        <updated>2021-10-31T05:12:46.094Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt8py">노태우씨 국가장, 얼룩커님 생각은 어떠신가요?</a>]]></content>
     </entry>
 </feed>
