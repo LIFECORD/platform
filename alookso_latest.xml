@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-10-31T08:18:54.870Z</updated>
+    <updated>2021-10-31T09:15:38.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[심심한 백수, 앱테크에 관심이 생기다.]]></title>
-        <id>https://alook.so/posts/0ktJrn</id>
-        <link href="https://alook.so/posts/0ktJrn"/>
-        <updated>2021-10-31T08:17:17.347Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktJrn">심심한 백수, 앱테크에 관심이 생기다.</a>]]></content>
+        <title type="html"><![CDATA[반성]]></title>
+        <id>https://alook.so/posts/54trde</id>
+        <link href="https://alook.so/posts/54trde"/>
+        <updated>2021-10-31T09:13:54.886Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54trde">반성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일요일 너를 미워하고 싶진 않아]]></title>
-        <id>https://alook.so/posts/xltXdY</id>
-        <link href="https://alook.so/posts/xltXdY"/>
-        <updated>2021-10-31T08:17:17.348Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltXdY">일요일 너를 미워하고 싶진 않아</a>]]></content>
+        <title type="html"><![CDATA[해고 당한적도 있어요 ㅠㅠ]]></title>
+        <id>https://alook.so/posts/q1tY1M</id>
+        <link href="https://alook.so/posts/q1tY1M"/>
+        <updated>2021-10-31T09:13:54.888Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tY1M">해고 당한적도 있어요 ㅠㅠ</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[목표가 없는 달리기]]></title>
-        <id>https://alook.so/posts/BatXLe</id>
-        <link href="https://alook.so/posts/BatXLe"/>
-        <updated>2021-10-31T08:17:17.350Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatXLe">목표가 없는 달리기</a>]]></content>
+        <title type="html"><![CDATA[3년 후 내 미래는?]]></title>
+        <id>https://alook.so/posts/1RtYay</id>
+        <link href="https://alook.so/posts/1RtYay"/>
+        <updated>2021-10-31T09:13:54.889Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtYay">3년 후 내 미래는?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인생 한 방, 성별에도 자유를 누리자]]></title>
+        <id>https://alook.so/posts/o7t1wb</id>
+        <link href="https://alook.so/posts/o7t1wb"/>
+        <updated>2021-10-31T09:13:54.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t1wb">인생 한 방, 성별에도 자유를 누리자</a>]]></content>
     </entry>
 </feed>
