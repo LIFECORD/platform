@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-01T21:14:40.761Z</updated>
+    <updated>2021-11-01T22:15:05.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[우울증 극복하고 싶습니다!]]></title>
-        <id>https://alook.so/posts/yEtJX9</id>
-        <link href="https://alook.so/posts/yEtJX9"/>
-        <updated>2021-11-01T20:16:01.851Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtJX9">우울증 극복하고 싶습니다!</a>]]></content>
+        <title type="html"><![CDATA[친미 해야죠, 친중 할 순 없잖아요?]]></title>
+        <id>https://alook.so/posts/WLtX9B</id>
+        <link href="https://alook.so/posts/WLtX9B"/>
+        <updated>2021-11-01T22:13:23.919Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtX9B">친미 해야죠, 친중 할 순 없잖아요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성별을 기재하지 않습니다]]></title>
-        <id>https://alook.so/posts/njtWEW</id>
-        <link href="https://alook.so/posts/njtWEW"/>
-        <updated>2021-11-01T18:17:57.905Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtWEW">성별을 기재하지 않습니다 </a>]]></content>
+        <title type="html"><![CDATA[꺼X, 너 존X 약하자나(벌크업한 이야기)-1]]></title>
+        <id>https://alook.so/posts/0ktJq8</id>
+        <link href="https://alook.so/posts/0ktJq8"/>
+        <updated>2021-11-01T22:13:23.921Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktJq8">꺼X, 너 존X 약하자나(벌크업한 이야기)-1</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동물병원에는 예쁜 강아지들만 올까요?]]></title>
-        <id>https://alook.so/posts/6MtVo7</id>
-        <link href="https://alook.so/posts/6MtVo7"/>
-        <updated>2021-11-01T18:17:57.906Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtVo7">동물병원에는 예쁜 강아지들만 올까요?</a>]]></content>
+        <title type="html"><![CDATA[엄마의 감정쓰레기통]]></title>
+        <id>https://alook.so/posts/4Xtk24</id>
+        <link href="https://alook.so/posts/4Xtk24"/>
+        <updated>2021-11-01T22:13:23.923Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtk24">엄마의 감정쓰레기통</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[점점 아물었던 기억들이 다시 돋아났다.]]></title>
-        <id>https://alook.so/posts/8WtkK7</id>
-        <link href="https://alook.so/posts/8WtkK7"/>
-        <updated>2021-11-01T18:17:57.907Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtkK7">점점 아물었던 기억들이 다시 돋아났다.</a>]]></content>
+        <title type="html"><![CDATA[개인보단 국가와 기업이 힘 써야될때]]></title>
+        <id>https://alook.so/posts/w9txL8</id>
+        <link href="https://alook.so/posts/w9txL8"/>
+        <updated>2021-11-01T22:13:23.925Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9txL8">개인보단 국가와 기업이 힘 써야될때</a>]]></content>
     </entry>
 </feed>
