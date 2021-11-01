@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-11-01T04:19:52.919Z</updated>
+    <updated>2021-11-01T05:14:54.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[탄소배출은 바로 지금 당신의 일자리를 위협한다. 미래세대 말고.]]></title>
+        <id>https://alook.so/posts/RGtV3q</id>
+        <link href="https://alook.so/posts/RGtV3q"/>
+        <updated>2021-11-01T05:13:33.901Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtV3q">탄소배출은 바로 지금 당신의 일자리를 위협한다. 미래세대 말고.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["아프면 쉬어라. 그리고 쉬게 해줘라" 위드 코로나 시대에 우리가 지켜야 할 가장 중요한 원칙이다.]]></title>
         <id>https://alook.so/posts/Batl3o</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/8WtoOD"/>
         <updated>2021-10-27T03:18:45.825Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtoOD">대장동 블루스 - 대장동의 진짜 주인은 누구인가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대장동 블루스 - 대장동은 누구 주머니로 들어가는가]]></title>
-        <id>https://alook.so/posts/o7tlm9</id>
-        <link href="https://alook.so/posts/o7tlm9"/>
-        <updated>2021-10-27T03:18:45.825Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tlm9">대장동 블루스 - 대장동은 누구 주머니로 들어가는가</a>]]></content>
     </entry>
 </feed>
