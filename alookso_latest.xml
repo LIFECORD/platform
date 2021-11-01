@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-01T11:14:07.756Z</updated>
+    <updated>2021-11-01T12:24:15.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼룩소가 가진 장점]]></title>
-        <id>https://alook.so/posts/Vntl0v</id>
-        <link href="https://alook.so/posts/Vntl0v"/>
-        <updated>2021-11-01T11:12:26.073Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntl0v">얼룩소가 가진 장점</a>]]></content>
+        <title type="html"><![CDATA[우수한 인재가 지방에 모이려면]]></title>
+        <id>https://alook.so/posts/BatXJY</id>
+        <link href="https://alook.so/posts/BatXJY"/>
+        <updated>2021-11-01T12:22:44.081Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatXJY">우수한 인재가 지방에 모이려면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이 셋 육아하며 먹고 살기 힘드네요.]]></title>
-        <id>https://alook.so/posts/WLtXLl</id>
-        <link href="https://alook.so/posts/WLtXLl"/>
-        <updated>2021-11-01T11:12:26.075Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtXLl">아이 셋 육아하며 먹고 살기 힘드네요.</a>]]></content>
+        <title type="html"><![CDATA[기후위기, 우리가 막아야 합니다]]></title>
+        <id>https://alook.so/posts/G1tnZG</id>
+        <link href="https://alook.so/posts/G1tnZG"/>
+        <updated>2021-11-01T12:22:44.082Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tnZG">기후위기, 우리가 막아야 합니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🐄얼룩소! 날 좋아하나 HOXY~?]]></title>
-        <id>https://alook.so/posts/RGtV6p</id>
-        <link href="https://alook.so/posts/RGtV6p"/>
-        <updated>2021-11-01T11:12:26.077Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtV6p">🐄얼룩소! 날 좋아하나 HOXY~?</a>]]></content>
+        <title type="html"><![CDATA[일본에 등장한 김치자판기 , SNS에서 인기 품절도 금방이라고 해요.]]></title>
+        <id>https://alook.so/posts/OEtJrB</id>
+        <link href="https://alook.so/posts/OEtJrB"/>
+        <updated>2021-11-01T12:22:44.083Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtJrB">일본에 등장한 김치자판기 , SNS에서 인기 품절도 금방이라고 해요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신혼부부의 현실적인 고민]]></title>
+        <id>https://alook.so/posts/vKtavz</id>
+        <link href="https://alook.so/posts/vKtavz"/>
+        <updated>2021-11-01T12:22:44.084Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtavz">신혼부부의 현실적인 고민</a>]]></content>
     </entry>
 </feed>
