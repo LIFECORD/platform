@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-01T14:15:43.237Z</updated>
+    <updated>2021-11-01T15:18:50.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[주 4일제 하고싶어요 그런데 페이는요?]]></title>
-        <id>https://alook.so/posts/3wtGjw</id>
-        <link href="https://alook.so/posts/3wtGjw"/>
-        <updated>2021-11-01T14:13:58.506Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtGjw">주 4일제 하고싶어요 그런데 페이는요?</a>]]></content>
+        <title type="html"><![CDATA[군인들 밥이나 잘 맥이세요.]]></title>
+        <id>https://alook.so/posts/potoZ3</id>
+        <link href="https://alook.so/posts/potoZ3"/>
+        <updated>2021-11-01T15:17:19.428Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potoZ3">군인들 밥이나 잘 맥이세요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[허상에 불과한 젠더 갈등]]></title>
-        <id>https://alook.so/posts/latYrr</id>
-        <link href="https://alook.so/posts/latYrr"/>
-        <updated>2021-11-01T14:13:58.507Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latYrr">허상에 불과한 젠더 갈등</a>]]></content>
+        <title type="html"><![CDATA[양날의 검 “기술발전”]]></title>
+        <id>https://alook.so/posts/VntlBV</id>
+        <link href="https://alook.so/posts/VntlBV"/>
+        <updated>2021-11-01T15:17:19.428Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntlBV">양날의 검 “기술발전”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['빠순이'를 넘어서 하나의 문화 공동체로]]></title>
-        <id>https://alook.so/posts/54trDP</id>
-        <link href="https://alook.so/posts/54trDP"/>
-        <updated>2021-11-01T14:13:58.509Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54trDP">'빠순이'를 넘어서 하나의 문화 공동체로</a>]]></content>
+        <title type="html"><![CDATA[줄여야합니다.]]></title>
+        <id>https://alook.so/posts/2xteoe</id>
+        <link href="https://alook.so/posts/2xteoe"/>
+        <updated>2021-11-01T15:17:19.429Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xteoe">줄여야합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 이후, 자기계발에 대한 수요가 급증한 이유는?]]></title>
-        <id>https://alook.so/posts/70tGZK</id>
-        <link href="https://alook.so/posts/70tGZK"/>
-        <updated>2021-11-01T14:13:58.510Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tGZK">코로나 이후, 자기계발에 대한 수요가 급증한 이유는?</a>]]></content>
+        <title type="html"><![CDATA[2보 후퇴 3보전진.]]></title>
+        <id>https://alook.so/posts/WLtXbG</id>
+        <link href="https://alook.so/posts/WLtXbG"/>
+        <updated>2021-11-01T15:17:19.429Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtXbG">2보 후퇴 3보전진.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘CS강사’라는 직업 들어보셨나요? :)]]></title>
+        <id>https://alook.so/posts/M9t9e8</id>
+        <link href="https://alook.so/posts/M9t9e8"/>
+        <updated>2021-11-01T15:17:19.430Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t9e8">‘CS강사’라는 직업 들어보셨나요? :)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주식투자.. 내가 사면 내리고, 팔면 오르더라고요..]]></title>
+        <id>https://alook.so/posts/RGtVpr</id>
+        <link href="https://alook.so/posts/RGtVpr"/>
+        <updated>2021-11-01T15:17:19.434Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtVpr">주식투자.. 내가 사면 내리고, 팔면 오르더라고요..</a>]]></content>
     </entry>
 </feed>
