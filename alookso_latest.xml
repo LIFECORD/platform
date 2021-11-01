@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-01T17:22:55.157Z</updated>
+    <updated>2021-11-01T18:19:32.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[당신이 생각하는 대한민국의 20대는 어떠한가요?]]></title>
-        <id>https://alook.so/posts/mbt81J</id>
-        <link href="https://alook.so/posts/mbt81J"/>
-        <updated>2021-11-01T17:21:17.698Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt81J">당신이 생각하는 대한민국의 20대는 어떠한가요?</a>]]></content>
+        <title type="html"><![CDATA[성별을 기재하지 않습니다]]></title>
+        <id>https://alook.so/posts/njtWEW</id>
+        <link href="https://alook.so/posts/njtWEW"/>
+        <updated>2021-11-01T18:17:57.905Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtWEW">성별을 기재하지 않습니다 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남성으로서 페미니즘을 발언하는 태도]]></title>
-        <id>https://alook.so/posts/54trR6</id>
-        <link href="https://alook.so/posts/54trR6"/>
-        <updated>2021-11-01T17:21:17.700Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54trR6">남성으로서 페미니즘을 발언하는 태도</a>]]></content>
+        <title type="html"><![CDATA[동물병원에는 예쁜 강아지들만 올까요?]]></title>
+        <id>https://alook.so/posts/6MtVo7</id>
+        <link href="https://alook.so/posts/6MtVo7"/>
+        <updated>2021-11-01T18:17:57.906Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtVo7">동물병원에는 예쁜 강아지들만 올까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위드 코로나(with Corona)에 대한 당신의 생각은 어떠한가요?]]></title>
-        <id>https://alook.so/posts/q1tYJO</id>
-        <link href="https://alook.so/posts/q1tYJO"/>
-        <updated>2021-11-01T17:21:17.701Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tYJO">위드 코로나(with Corona)에 대한 당신의 생각은 어떠한가요?</a>]]></content>
+        <title type="html"><![CDATA[점점 아물었던 기억들이 다시 돋아났다.]]></title>
+        <id>https://alook.so/posts/8WtkK7</id>
+        <link href="https://alook.so/posts/8WtkK7"/>
+        <updated>2021-11-01T18:17:57.907Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtkK7">점점 아물었던 기억들이 다시 돋아났다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대입준비만 시키지 말아주세요]]></title>
-        <id>https://alook.so/posts/DjtORy</id>
-        <link href="https://alook.so/posts/DjtORy"/>
-        <updated>2021-11-01T17:21:17.702Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtORy">대입준비만 시키지 말아주세요</a>]]></content>
+        <title type="html"><![CDATA[얼룩소의 시스템이 공정할까요?]]></title>
+        <id>https://alook.so/posts/G1tnzw</id>
+        <link href="https://alook.so/posts/G1tnzw"/>
+        <updated>2021-11-01T18:17:57.908Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tnzw">얼룩소의 시스템이 공정할까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["사회적 합의가 필요하다"는 마법의 주문]]></title>
-        <id>https://alook.so/posts/1RtY9v</id>
-        <link href="https://alook.so/posts/1RtY9v"/>
-        <updated>2021-11-01T17:21:17.703Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtY9v">"사회적 합의가 필요하다"는 마법의 주문</a>]]></content>
+        <title type="html"><![CDATA[왜? 얼룩소엔 로그아웃이 없나요? 아니면 못 찾는 건가요?]]></title>
+        <id>https://alook.so/posts/OEtJ0w</id>
+        <link href="https://alook.so/posts/OEtJ0w"/>
+        <updated>2021-11-01T18:17:57.909Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtJ0w">왜? 얼룩소엔 로그아웃이 없나요? 아니면 못 찾는 건가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모든 게 옳다]]></title>
+        <id>https://alook.so/posts/vKta8B</id>
+        <link href="https://alook.so/posts/vKta8B"/>
+        <updated>2021-11-01T18:17:57.911Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKta8B">모든 게 옳다</a>]]></content>
     </entry>
 </feed>
