@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-01T02:04:26.542Z</updated>
+    <updated>2021-11-01T02:37:12.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[공부머리가 아니다 싶으면 굳이 사교육을 할 필요는 없다고 생각합니다.]]></title>
-        <id>https://alook.so/posts/ZktM5M</id>
-        <link href="https://alook.so/posts/ZktM5M"/>
-        <updated>2021-11-01T01:59:32.229Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktM5M">공부머리가 아니다 싶으면 굳이 사교육을 할 필요는 없다고 생각합니다.</a>]]></content>
+        <title type="html"><![CDATA[전라북도 군산시 새만금 방조제 사업, 필수적이었을까요?]]></title>
+        <id>https://alook.so/posts/8WtkXL</id>
+        <link href="https://alook.so/posts/8WtkXL"/>
+        <updated>2021-11-01T02:35:26.540Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtkXL">전라북도 군산시 새만금 방조제 사업, 필수적이었을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퇴직금 받고 싶어요(이직 이야기)]]></title>
-        <id>https://alook.so/posts/WLtX6w</id>
-        <link href="https://alook.so/posts/WLtX6w"/>
-        <updated>2021-11-01T01:59:32.230Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtX6w">퇴직금 받고 싶어요(이직 이야기)</a>]]></content>
+        <title type="html"><![CDATA[10대의 생각]]></title>
+        <id>https://alook.so/posts/vKtaDx</id>
+        <link href="https://alook.so/posts/vKtaDx"/>
+        <updated>2021-11-01T02:35:26.541Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtaDx">10대의 생각</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[긴 얼룩소도, 짧은 얼룩소도 서로 관심갖고 함께 해야합니다.]]></title>
-        <id>https://alook.so/posts/XBtKw9</id>
-        <link href="https://alook.so/posts/XBtKw9"/>
-        <updated>2021-11-01T01:59:32.232Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtKw9">긴 얼룩소도, 짧은 얼룩소도 서로 관심갖고 함께 해야합니다.</a>]]></content>
+        <title type="html"><![CDATA[글의 다름도 이해하고 인정하는 얼룩소문화.]]></title>
+        <id>https://alook.so/posts/latYd9</id>
+        <link href="https://alook.so/posts/latYd9"/>
+        <updated>2021-11-01T02:35:26.543Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latYd9">글의 다름도 이해하고 인정하는 얼룩소문화.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사회의 약자 기준은 없다.]]></title>
-        <id>https://alook.so/posts/6MtVBd</id>
-        <link href="https://alook.so/posts/6MtVBd"/>
-        <updated>2021-11-01T01:59:32.233Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtVBd">사회의 약자 기준은 없다.</a>]]></content>
+        <title type="html"><![CDATA[자본주의의 결과: 초등학생 래퍼]]></title>
+        <id>https://alook.so/posts/mbt8em</id>
+        <link href="https://alook.so/posts/mbt8em"/>
+        <updated>2021-11-01T02:35:26.544Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt8em">자본주의의 결과: 초등학생 래퍼</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이를 가져야할까요 ㅜㅜ]]></title>
+        <id>https://alook.so/posts/o7t1oj</id>
+        <link href="https://alook.so/posts/o7t1oj"/>
+        <updated>2021-11-01T02:35:26.548Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t1oj">아이를 가져야할까요 ㅜㅜ</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠더 혐오는 어디에서 오는 걸까? 해결방법은 있을까? (feat.설거지론 글을 읽고나서)]]></title>
+        <id>https://alook.so/posts/70tGdq</id>
+        <link href="https://alook.so/posts/70tGdq"/>
+        <updated>2021-11-01T02:35:26.549Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tGdq">젠더 혐오는 어디에서 오는 걸까? 해결방법은 있을까? (feat.설거지론 글을 읽고나서)</a>]]></content>
     </entry>
 </feed>
