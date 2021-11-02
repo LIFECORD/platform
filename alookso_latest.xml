@@ -2,56 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-02T00:51:50.552Z</updated>
+    <updated>2021-11-02T02:03:25.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[30대 미혼율이 42퍼센트라는 뉴스를 봤습니다.]]></title>
-        <id>https://alook.so/posts/xltXP5</id>
-        <link href="https://alook.so/posts/xltXP5"/>
-        <updated>2021-11-02T00:50:10.543Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltXP5">30대 미혼율이 42퍼센트라는 뉴스를 봤습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실명의 한계를 느꼈다.]]></title>
-        <id>https://alook.so/posts/kZt19n</id>
-        <link href="https://alook.so/posts/kZt19n"/>
-        <updated>2021-11-02T00:50:10.543Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt19n">실명의 한계를 느꼈다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난 둘 다.]]></title>
-        <id>https://alook.so/posts/yEtJ29</id>
-        <link href="https://alook.so/posts/yEtJ29"/>
-        <updated>2021-11-02T00:50:10.543Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtJ29">난 둘 다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글쎄요.]]></title>
-        <id>https://alook.so/posts/6MtVG7</id>
-        <link href="https://alook.so/posts/6MtVG7"/>
-        <updated>2021-11-02T00:50:10.546Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtVG7">글쎄요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대학졸업 아무 소용없는듯]]></title>
-        <id>https://alook.so/posts/3wtGqo</id>
-        <link href="https://alook.so/posts/3wtGqo"/>
-        <updated>2021-11-02T00:50:10.548Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtGqo">대학졸업 아무 소용없는듯</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얀센 부스터샷 추가접종 후 24시간 증상 및 후기 (Feat. 모더나, 잔여백신)]]></title>
-        <id>https://alook.so/posts/8WtkV7</id>
-        <link href="https://alook.so/posts/8WtkV7"/>
-        <updated>2021-11-02T00:50:10.551Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtkV7">얀센 부스터샷 추가접종 후 24시간 증상 및 후기 (Feat. 모더나, 잔여백신)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채식보다 고단백]]></title>
-        <id>https://alook.so/posts/G1tnLw</id>
-        <link href="https://alook.so/posts/G1tnLw"/>
-        <updated>2021-11-02T00:50:10.553Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tnLw">채식보다 고단백</a>]]></content>
+        <title type="html"><![CDATA[상대적 안전]]></title>
+        <id>https://alook.so/posts/92tnrM</id>
+        <link href="https://alook.so/posts/92tnrM"/>
+        <updated>2021-11-02T02:00:35.727Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tnrM">상대적 안전</a>]]></content>
     </entry>
 </feed>
