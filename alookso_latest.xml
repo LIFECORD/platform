@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-02T10:17:22.882Z</updated>
+    <updated>2021-11-02T11:14:26.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[메일]]></title>
-        <id>https://alook.so/posts/RGtVOV</id>
-        <link href="https://alook.so/posts/RGtVOV"/>
-        <updated>2021-11-02T10:15:38.462Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtVOV">메일</a>]]></content>
+        <title type="html"><![CDATA[딸아이가 어린이집에서 '망나니'란 단어를 썼어요(...)]]></title>
+        <id>https://alook.so/posts/BatXKq</id>
+        <link href="https://alook.so/posts/BatXKq"/>
+        <updated>2021-11-02T11:12:48.351Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatXKq">딸아이가 어린이집에서 '망나니'란 단어를 썼어요(...)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모를 수도 있죠 (feat. 정주)]]></title>
-        <id>https://alook.so/posts/kZt1kv</id>
-        <link href="https://alook.so/posts/kZt1kv"/>
-        <updated>2021-11-02T10:15:38.463Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt1kv">모를 수도 있죠 (feat. 정주)</a>]]></content>
+        <title type="html"><![CDATA[미혼모인 그녀가 내게 다정하게 건네던 말]]></title>
+        <id>https://alook.so/posts/njtWP1</id>
+        <link href="https://alook.so/posts/njtWP1"/>
+        <updated>2021-11-02T11:12:48.353Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtWP1">미혼모인 그녀가 내게 다정하게 건네던 말</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글:]]></title>
-        <id>https://alook.so/posts/yEtJBa</id>
-        <link href="https://alook.so/posts/yEtJBa"/>
-        <updated>2021-11-02T10:15:38.464Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtJBa">답글: </a>]]></content>
+        <title type="html"><![CDATA[내가 가족이 부담스러웠던 적]]></title>
+        <id>https://alook.so/posts/8WtkBD</id>
+        <link href="https://alook.so/posts/8WtkBD"/>
+        <updated>2021-11-02T11:12:48.354Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtkBD"> 내가 가족이 부담스러웠던 적</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[때가 가기 전에 장미 꽃봉오리를!]]></title>
-        <id>https://alook.so/posts/BatXoq</id>
-        <link href="https://alook.so/posts/BatXoq"/>
-        <updated>2021-11-02T10:15:38.465Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatXoq">때가 가기 전에 장미 꽃봉오리를!</a>]]></content>
+        <title type="html"><![CDATA[요즘 저는 글쓰기에 꽂혔습니다.]]></title>
+        <id>https://alook.so/posts/1RtYj9</id>
+        <link href="https://alook.so/posts/1RtYj9"/>
+        <updated>2021-11-02T11:12:48.355Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtYj9">요즘 저는 글쓰기에 꽂혔습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주린이의 첫투자를 응원합니다.]]></title>
-        <id>https://alook.so/posts/LKt6Yy</id>
-        <link href="https://alook.so/posts/LKt6Yy"/>
-        <updated>2021-11-02T10:15:38.466Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt6Yy">주린이의 첫투자를 응원합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 무엇이든 '적당히' 잘하는 사람이다.]]></title>
-        <id>https://alook.so/posts/6MtV8Y</id>
-        <link href="https://alook.so/posts/6MtV8Y"/>
-        <updated>2021-11-02T10:15:38.468Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtV8Y">나는 무엇이든 '적당히' 잘하는 사람이다. </a>]]></content>
+        <title type="html"><![CDATA[아이, 가지고 싶지 않습니다]]></title>
+        <id>https://alook.so/posts/o7t18v</id>
+        <link href="https://alook.so/posts/o7t18v"/>
+        <updated>2021-11-02T11:12:48.357Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t18v">아이, 가지고 싶지 않습니다</a>]]></content>
     </entry>
 </feed>
