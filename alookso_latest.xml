@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-02T07:16:18.678Z</updated>
+    <updated>2021-11-02T08:18:49.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼룩소 처음와봤습니다]]></title>
-        <id>https://alook.so/posts/E7tw5r</id>
-        <link href="https://alook.so/posts/E7tw5r"/>
-        <updated>2021-11-02T07:14:44.167Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tw5r">얼룩소 처음와봤습니다</a>]]></content>
+        <title type="html"><![CDATA[다들 결혼생활 행복하신가요?]]></title>
+        <id>https://alook.so/posts/4XtkYM</id>
+        <link href="https://alook.so/posts/4XtkYM"/>
+        <updated>2021-11-02T08:17:15.180Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtkYM">다들 결혼생활 행복하신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 직업, 백수직]]></title>
-        <id>https://alook.so/posts/92tnlY</id>
-        <link href="https://alook.so/posts/92tnlY"/>
-        <updated>2021-11-02T07:14:44.168Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tnlY">내 직업, 백수직</a>]]></content>
+        <title type="html"><![CDATA["너네 개 너한테나 귀엽지"]]></title>
+        <id>https://alook.so/posts/xltXGq</id>
+        <link href="https://alook.so/posts/xltXGq"/>
+        <updated>2021-11-02T08:17:15.181Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltXGq">"너네 개 너한테나 귀엽지"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['With Covid-19?' , 왜?]]></title>
-        <id>https://alook.so/posts/KmtG5O</id>
-        <link href="https://alook.so/posts/KmtG5O"/>
-        <updated>2021-11-02T07:14:44.169Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtG5O">'With Covid-19?' , 왜?</a>]]></content>
+        <title type="html"><![CDATA[좋아하는, 위로가 되는 글귀가 있으신가요?]]></title>
+        <id>https://alook.so/posts/RGtV7n</id>
+        <link href="https://alook.so/posts/RGtV7n"/>
+        <updated>2021-11-02T08:17:15.182Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtV7n">좋아하는, 위로가 되는 글귀가 있으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[alookso는 성장통 중.]]></title>
-        <id>https://alook.so/posts/54tr0G</id>
-        <link href="https://alook.so/posts/54tr0G"/>
-        <updated>2021-11-02T07:14:44.170Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tr0G">alookso는 성장통 중.</a>]]></content>
+        <title type="html"><![CDATA[언제부터인가 열심히 일하는 것이 불편해졌습니다.]]></title>
+        <id>https://alook.so/posts/kZt1ll</id>
+        <link href="https://alook.so/posts/kZt1ll"/>
+        <updated>2021-11-02T08:17:15.183Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt1ll">언제부터인가 열심히 일하는 것이 불편해졌습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국내 MBA 는 가치가 있는가?]]></title>
-        <id>https://alook.so/posts/1RtYme</id>
-        <link href="https://alook.so/posts/1RtYme"/>
-        <updated>2021-11-02T07:14:44.171Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtYme">국내 MBA 는 가치가 있는가? </a>]]></content>
+        <title type="html"><![CDATA[alookso 1달 사용기]]></title>
+        <id>https://alook.so/posts/yEtJ5Y</id>
+        <link href="https://alook.so/posts/yEtJ5Y"/>
+        <updated>2021-11-02T08:17:15.185Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtJ5Y">alookso 1달 사용기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4라는 숫자, 4를 자주 보십니까?]]></title>
+        <id>https://alook.so/posts/LKt6Z2</id>
+        <link href="https://alook.so/posts/LKt6Z2"/>
+        <updated>2021-11-02T08:17:15.186Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt6Z2">4라는 숫자, 4를 자주 보십니까?</a>]]></content>
     </entry>
 </feed>
