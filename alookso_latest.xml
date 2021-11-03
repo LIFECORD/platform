@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-03T08:20:15.535Z</updated>
+    <updated>2021-11-03T09:17:23.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[남북관계 개선은 단거리가 아닌 장거리 경주]]></title>
-        <id>https://alook.so/posts/mbtLP2</id>
-        <link href="https://alook.so/posts/mbtLP2"/>
-        <updated>2021-11-03T08:18:37.602Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtLP2">남북관계 개선은 단거리가 아닌 장거리 경주</a>]]></content>
+        <title type="html"><![CDATA[더 좋은 사람이 되기 위한 노력.]]></title>
+        <id>https://alook.so/posts/Kmt72a</id>
+        <link href="https://alook.so/posts/Kmt72a"/>
+        <updated>2021-11-03T09:14:51.259Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt72a">더 좋은 사람이 되기 위한 노력. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[겨울하면 뭐가 떠오르시나요?]]></title>
-        <id>https://alook.so/posts/YytZ94</id>
-        <link href="https://alook.so/posts/YytZ94"/>
-        <updated>2021-11-03T08:18:37.606Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytZ94">겨울하면 뭐가 떠오르시나요?</a>]]></content>
+        <title type="html"><![CDATA[치열하게 살아가는 나를 위해..! 치맥을 선물 합니다.]]></title>
+        <id>https://alook.so/posts/q1t03R</id>
+        <link href="https://alook.so/posts/q1t03R"/>
+        <updated>2021-11-03T09:14:51.260Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t03R">치열하게 살아가는 나를 위해..! 치맥을 선물 합니다. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[살짝 데이터 수정이 필요해 보입니다.]]></title>
-        <id>https://alook.so/posts/jdtn9W</id>
-        <link href="https://alook.so/posts/jdtn9W"/>
-        <updated>2021-11-03T08:18:37.607Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtn9W">살짝 데이터 수정이 필요해 보입니다.</a>]]></content>
+        <title type="html"><![CDATA[미국, 중국 갈등 사이에서의 기회 및 위협요인]]></title>
+        <id>https://alook.so/posts/70t511</id>
+        <link href="https://alook.so/posts/70t511"/>
+        <updated>2021-11-03T09:14:51.262Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t511">미국, 중국 갈등 사이에서의 기회 및 위협요인</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한민국에서 고졸 출신으로 살아간다는 것]]></title>
+        <id>https://alook.so/posts/YytZk9</id>
+        <link href="https://alook.so/posts/YytZk9"/>
+        <updated>2021-11-03T09:14:51.263Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytZk9">대한민국에서 고졸 출신으로 살아간다는 것</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리는 왜 타인의 인정으로 살아갈까]]></title>
+        <id>https://alook.so/posts/E7tG4a</id>
+        <link href="https://alook.so/posts/E7tG4a"/>
+        <updated>2021-11-03T09:14:51.264Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tG4a">우리는 왜 타인의 인정으로 살아갈까</a>]]></content>
     </entry>
 </feed>
