@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-03T22:15:38.959Z</updated>
+    <updated>2021-11-03T23:16:33.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 시장에서 경쟁력을 보여주다]]></title>
+        <id>https://alook.so/posts/njteyv</id>
+        <link href="https://alook.so/posts/njteyv"/>
+        <updated>2021-11-03T23:14:50.594Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njteyv">세계 시장에서 경쟁력을 보여주다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 시대 사람들이 주문한..]]></title>
+        <id>https://alook.so/posts/3wtYvO</id>
+        <link href="https://alook.so/posts/3wtYvO"/>
+        <updated>2021-11-03T23:14:50.596Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtYvO">이 시대 사람들이 주문한..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비위생 순대공장(feat. 나도 많이 먹었네?)]]></title>
+        <id>https://alook.so/posts/8Wtnvr</id>
+        <link href="https://alook.so/posts/8Wtnvr"/>
+        <updated>2021-11-03T23:14:50.597Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtnvr">비위생 순대공장(feat. 나도 많이 먹었네?)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성찰 많이 하면 성공한다? / 나는야 성찰 중독자]]></title>
         <id>https://alook.so/posts/E7tGVk</id>
@@ -25,54 +46,5 @@
         <link href="https://alook.so/posts/92tmy9"/>
         <updated>2021-11-03T22:13:43.429Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tmy9">솔직히 백신 맞기 두렵네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백석 준치가시]]></title>
-        <id>https://alook.so/posts/Kmt7a7</id>
-        <link href="https://alook.so/posts/Kmt7a7"/>
-        <updated>2021-11-03T22:13:43.437Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt7a7">백석 준치가시</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채식은 절대 대세가 안된다]]></title>
-        <id>https://alook.so/posts/mbtLp8</id>
-        <link href="https://alook.so/posts/mbtLp8"/>
-        <updated>2021-11-03T20:15:21.799Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtLp8">채식은 절대 대세가 안된다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군대보다 중요한건 인식이다]]></title>
-        <id>https://alook.so/posts/54tpqB</id>
-        <link href="https://alook.so/posts/54tpqB"/>
-        <updated>2021-11-03T20:15:21.799Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tpqB">군대보다 중요한건 인식이다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아버지와 마찰]]></title>
-        <id>https://alook.so/posts/q1t0ar</id>
-        <link href="https://alook.so/posts/q1t0ar"/>
-        <updated>2021-11-03T19:11:54.281Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t0ar">아버지와 마찰</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서양과 동양의 차이]]></title>
-        <id>https://alook.so/posts/Djtoxl</id>
-        <link href="https://alook.so/posts/Djtoxl"/>
-        <updated>2021-11-03T19:11:54.281Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtoxl">서양과 동양의 차이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 모든 일은 인간으로부터 비롯된 것]]></title>
-        <id>https://alook.so/posts/1RtBnR</id>
-        <link href="https://alook.so/posts/1RtBnR"/>
-        <updated>2021-11-03T19:11:54.283Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtBnR">이 모든 일은 인간으로부터 비롯된 것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충분히 가능함]]></title>
-        <id>https://alook.so/posts/o7ta5r</id>
-        <link href="https://alook.so/posts/o7ta5r"/>
-        <updated>2021-11-03T19:11:54.283Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7ta5r">충분히 가능함</a>]]></content>
     </entry>
 </feed>
