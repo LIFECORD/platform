@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-03T18:18:10.950Z</updated>
+    <updated>2021-11-03T19:14:24.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아버지와 마찰]]></title>
+        <id>https://alook.so/posts/q1t0ar</id>
+        <link href="https://alook.so/posts/q1t0ar"/>
+        <updated>2021-11-03T19:11:54.281Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t0ar">아버지와 마찰</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서양과 동양의 차이]]></title>
+        <id>https://alook.so/posts/Djtoxl</id>
+        <link href="https://alook.so/posts/Djtoxl"/>
+        <updated>2021-11-03T19:11:54.281Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtoxl">서양과 동양의 차이</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 모든 일은 인간으로부터 비롯된 것]]></title>
+        <id>https://alook.so/posts/1RtBnR</id>
+        <link href="https://alook.so/posts/1RtBnR"/>
+        <updated>2021-11-03T19:11:54.283Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtBnR">이 모든 일은 인간으로부터 비롯된 것</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[충분히 가능함]]></title>
+        <id>https://alook.so/posts/o7ta5r</id>
+        <link href="https://alook.so/posts/o7ta5r"/>
+        <updated>2021-11-03T19:11:54.283Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7ta5r">충분히 가능함</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드라마 도깨비에 나왔던 시, 사랑의 물리학]]></title>
+        <id>https://alook.so/posts/70t5Le</id>
+        <link href="https://alook.so/posts/70t5Le"/>
+        <updated>2021-11-03T19:11:54.284Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t5Le">드라마 도깨비에 나왔던 시, 사랑의 물리학</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[같은 성별끼리 결혼해선 안됨]]></title>
+        <id>https://alook.so/posts/YytZ1l</id>
+        <link href="https://alook.so/posts/YytZ1l"/>
+        <updated>2021-11-03T19:11:54.285Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytZ1l">같은 성별끼리 결혼해선 안됨</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국방비를 늘리고 줄이는것을 중요하지 않다]]></title>
         <id>https://alook.so/posts/rDtb7a</id>
@@ -25,33 +67,5 @@
         <link href="https://alook.so/posts/92tmqp"/>
         <updated>2021-11-03T18:16:38.065Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tmqp">저는 대학교 1학년 신입생 입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스우파 보고 히히덕거릴때가 아님]]></title>
-        <id>https://alook.so/posts/Kmt7qV</id>
-        <link href="https://alook.so/posts/Kmt7qV"/>
-        <updated>2021-11-03T18:16:38.066Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt7qV">스우파 보고 히히덕거릴때가 아님</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람을 화나게 하는 두 가지 방법이 있는데]]></title>
-        <id>https://alook.so/posts/mbtLV0</id>
-        <link href="https://alook.so/posts/mbtLV0"/>
-        <updated>2021-11-03T18:16:38.067Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtLV0">사람을 화나게 하는 두 가지 방법이 있는데</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 아이를 괴롭힌 아이를 집에 불러 함께 통닭으로 화해를^^]]></title>
-        <id>https://alook.so/posts/54tp90</id>
-        <link href="https://alook.so/posts/54tp90"/>
-        <updated>2021-11-03T17:20:34.343Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tp90">내 아이를 괴롭힌 아이를 집에 불러 함께 통닭으로 화해를^^</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈키에게 간식을 보내게 된 사연]]></title>
-        <id>https://alook.so/posts/q1t07Z</id>
-        <link href="https://alook.so/posts/q1t07Z"/>
-        <updated>2021-11-03T17:20:34.344Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t07Z">슈키에게 간식을 보내게 된 사연</a>]]></content>
     </entry>
 </feed>
