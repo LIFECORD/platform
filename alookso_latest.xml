@@ -2,35 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-03T12:24:43.040Z</updated>
+    <updated>2021-11-03T13:22:37.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[장례와 SNS]]></title>
-        <id>https://alook.so/posts/potnoD</id>
-        <link href="https://alook.so/posts/potnoD"/>
-        <updated>2021-11-03T12:23:11.445Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potnoD">장례와 SNS</a>]]></content>
+        <title type="html"><![CDATA[얼룩소 임신 고민]]></title>
+        <id>https://alook.so/posts/XBtYeZ</id>
+        <link href="https://alook.so/posts/XBtYeZ"/>
+        <updated>2021-11-03T13:21:03.071Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtYeZ">얼룩소 임신 고민 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다이어트란 도대체 뭐길래 저를 이렇게 괴롭힐까요]]></title>
-        <id>https://alook.so/posts/eVtDel</id>
-        <link href="https://alook.so/posts/eVtDel"/>
-        <updated>2021-11-03T12:23:11.446Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtDel">다이어트란 도대체 뭐길래 저를 이렇게 괴롭힐까요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 기후위기가 오는 것을 알면서 왜 실천을 안할까요?]]></title>
-        <id>https://alook.so/posts/zvt16y</id>
-        <link href="https://alook.so/posts/zvt16y"/>
-        <updated>2021-11-03T12:23:11.447Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt16y">우리는 기후위기가 오는 것을 알면서 왜 실천을 안할까요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로 N잡러를 꿈꾸는 나는, 오늘도 프로 고민러]]></title>
-        <id>https://alook.so/posts/WLtaXP</id>
-        <link href="https://alook.so/posts/WLtaXP"/>
-        <updated>2021-11-03T12:23:11.449Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtaXP">프로 N잡러를 꿈꾸는 나는, 오늘도 프로 고민러 </a>]]></content>
+        <title type="html"><![CDATA[ㅎㅎㅎ]]></title>
+        <id>https://alook.so/posts/njteeq</id>
+        <link href="https://alook.so/posts/njteeq"/>
+        <updated>2021-11-03T13:21:03.072Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njteeq">ㅎㅎㅎ</a>]]></content>
     </entry>
 </feed>
