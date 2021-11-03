@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-03T14:14:57.225Z</updated>
+    <updated>2021-11-03T15:16:43.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[어떤 책 부터 시작하면 좋을까요?]]></title>
-        <id>https://alook.so/posts/zvt14V</id>
-        <link href="https://alook.so/posts/zvt14V"/>
-        <updated>2021-11-03T14:13:18.083Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt14V">어떤 책 부터 시작하면 좋을까요?</a>]]></content>
+        <title type="html"><![CDATA[답글: 성장통 중이니 이제 쑥 크겠네요.]]></title>
+        <id>https://alook.so/posts/bWtmlW</id>
+        <link href="https://alook.so/posts/bWtmlW"/>
+        <updated>2021-11-03T15:15:10.267Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtmlW">답글: 성장통 중이니 이제 쑥 크겠네요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[운동을 시작할려고 합니다.]]></title>
-        <id>https://alook.so/posts/M9t7l4</id>
-        <link href="https://alook.so/posts/M9t7l4"/>
-        <updated>2021-11-03T14:13:18.084Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t7l4">운동을 시작할려고 합니다.</a>]]></content>
+        <title type="html"><![CDATA[날이 좋을땐 1만보 걷기]]></title>
+        <id>https://alook.so/posts/J5tb51</id>
+        <link href="https://alook.so/posts/J5tb51"/>
+        <updated>2021-11-03T15:15:10.268Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tb51">날이 좋을땐 1만보 걷기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단 한 번뿐인 삶]]></title>
-        <id>https://alook.so/posts/w9t0GJ</id>
-        <link href="https://alook.so/posts/w9t0GJ"/>
-        <updated>2021-11-03T14:13:18.085Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t0GJ">단 한 번뿐인 삶</a>]]></content>
+        <title type="html"><![CDATA[사형 해야된다고...]]></title>
+        <id>https://alook.so/posts/eVtDGo</id>
+        <link href="https://alook.so/posts/eVtDGo"/>
+        <updated>2021-11-03T15:15:10.269Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtDGo">사형 해야된다고...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 수익으로 순대를 사먹었습니다.]]></title>
-        <id>https://alook.so/posts/6Mtpjz</id>
-        <link href="https://alook.so/posts/6Mtpjz"/>
-        <updated>2021-11-03T14:13:18.086Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtpjz">얼룩소 수익으로 순대를 사먹었습니다.</a>]]></content>
+        <title type="html"><![CDATA[얼룩소, 하루 중에 언제 어느만큼 하시나요?]]></title>
+        <id>https://alook.so/posts/zvt1ek</id>
+        <link href="https://alook.so/posts/zvt1ek"/>
+        <updated>2021-11-03T15:15:10.270Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt1ek">얼룩소, 하루 중에 언제 어느만큼 하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나에게는 먼나라 얘기였다.]]></title>
+        <id>https://alook.so/posts/XBtYpD</id>
+        <link href="https://alook.so/posts/XBtYpD"/>
+        <updated>2021-11-03T15:15:10.271Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtYpD">나에게는 먼나라 얘기였다.</a>]]></content>
     </entry>
 </feed>
