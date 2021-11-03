@@ -2,28 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-03T10:17:19.645Z</updated>
+    <updated>2021-11-03T11:13:58.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[부모의 감정 쓰레기통이 되어본적 있나요?]]></title>
-        <id>https://alook.so/posts/2xtaRJ</id>
-        <link href="https://alook.so/posts/2xtaRJ"/>
-        <updated>2021-11-03T10:15:33.928Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtaRJ">부모의 감정 쓰레기통이 되어본적 있나요? </a>]]></content>
+        <title type="html"><![CDATA[건축설계전공입니다.]]></title>
+        <id>https://alook.so/posts/Kmt7Ga</id>
+        <link href="https://alook.so/posts/Kmt7Ga"/>
+        <updated>2021-11-03T11:12:22.288Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt7Ga">건축설계전공입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘은 어떤 고민이나 생각을 했나요?]]></title>
-        <id>https://alook.so/posts/0ktZpG</id>
-        <link href="https://alook.so/posts/0ktZpG"/>
-        <updated>2021-11-03T10:15:33.933Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktZpG">오늘은 어떤 고민이나 생각을 했나요?</a>]]></content>
+        <title type="html"><![CDATA[해외에서 느끼는 K-POP의 위력]]></title>
+        <id>https://alook.so/posts/mbtL8V</id>
+        <link href="https://alook.so/posts/mbtL8V"/>
+        <updated>2021-11-03T11:12:22.288Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtL8V">해외에서 느끼는 K-POP의 위력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불안]]></title>
-        <id>https://alook.so/posts/M9t73P</id>
-        <link href="https://alook.so/posts/M9t73P"/>
-        <updated>2021-11-03T10:15:33.935Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t73P">불안</a>]]></content>
+        <title type="html"><![CDATA[나는 대학에 가길 정말 잘했다]]></title>
+        <id>https://alook.so/posts/54tprX</id>
+        <link href="https://alook.so/posts/54tprX"/>
+        <updated>2021-11-03T11:12:22.288Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tprX">나는 대학에 가길 정말 잘했다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여자친구와 다이어트를 시작했어요.]]></title>
+        <id>https://alook.so/posts/1RtBYB</id>
+        <link href="https://alook.so/posts/1RtBYB"/>
+        <updated>2021-11-03T11:12:22.289Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtBYB">여자친구와 다이어트를 시작했어요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진로 못 정함…]]></title>
+        <id>https://alook.so/posts/70t5G1</id>
+        <link href="https://alook.so/posts/70t5G1"/>
+        <updated>2021-11-03T11:12:22.290Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t5G1">진로 못 정함…</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 엄청 후회하는 일]]></title>
+        <id>https://alook.so/posts/rDtbrw</id>
+        <link href="https://alook.so/posts/rDtbrw"/>
+        <updated>2021-11-03T11:12:22.292Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtbrw">내가 엄청 후회하는 일</a>]]></content>
     </entry>
 </feed>
