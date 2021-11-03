@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-03T06:18:25.676Z</updated>
+    <updated>2021-11-03T07:16:13.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[주4일제보다 생산성 격차를 줄이기 위한 교육훈련 강화부터]]></title>
-        <id>https://alook.so/posts/o7ta0X</id>
-        <link href="https://alook.so/posts/o7ta0X"/>
-        <updated>2021-11-03T06:16:59.404Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7ta0X">주4일제보다 생산성 격차를 줄이기 위한 교육훈련 강화부터</a>]]></content>
+        <title type="html"><![CDATA[낚시 사랑하는 여자에요]]></title>
+        <id>https://alook.so/posts/XBtYG1</id>
+        <link href="https://alook.so/posts/XBtYG1"/>
+        <updated>2021-11-03T07:14:33.475Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtYG1">낚시 사랑하는 여자에요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이번에는 동생이네요]]></title>
-        <id>https://alook.so/posts/YytZD4</id>
-        <link href="https://alook.so/posts/YytZD4"/>
-        <updated>2021-11-03T06:16:59.405Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytZD4">이번에는 동생이네요</a>]]></content>
+        <title type="html"><![CDATA[소소한 행복 얼룩소]]></title>
+        <id>https://alook.so/posts/yEtpa3</id>
+        <link href="https://alook.so/posts/yEtpa3"/>
+        <updated>2021-11-03T07:14:33.476Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtpa3">소소한 행복 얼룩소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<오징어 게임>, 역사상 가장 긴 밈]]></title>
-        <id>https://alook.so/posts/jdtn5W</id>
-        <link href="https://alook.so/posts/jdtn5W"/>
-        <updated>2021-11-03T06:16:59.406Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtn5W">&lt;오징어 게임&gt;, 역사상 가장 긴 밈</a>]]></content>
+        <title type="html"><![CDATA[국민연금의 효율성?]]></title>
+        <id>https://alook.so/posts/BatDkv</id>
+        <link href="https://alook.so/posts/BatDkv"/>
+        <updated>2021-11-03T07:14:33.477Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatDkv">국민연금의 효율성?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고민 is 뭔들 ~]]></title>
-        <id>https://alook.so/posts/dzt4YP</id>
-        <link href="https://alook.so/posts/dzt4YP"/>
-        <updated>2021-11-03T06:16:59.407Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt4YP">고민 is 뭔들 ~ </a>]]></content>
+        <title type="html"><![CDATA[생각을 줄이면 된다.]]></title>
+        <id>https://alook.so/posts/LKtwKB</id>
+        <link href="https://alook.so/posts/LKtwKB"/>
+        <updated>2021-11-03T07:14:33.478Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtwKB">생각을 줄이면 된다.</a>]]></content>
     </entry>
 </feed>
