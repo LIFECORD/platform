@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-03T23:16:33.042Z</updated>
+    <updated>2021-11-04T00:47:02.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[세계 시장에서 경쟁력을 보여주다]]></title>
-        <id>https://alook.so/posts/njteyv</id>
-        <link href="https://alook.so/posts/njteyv"/>
-        <updated>2021-11-03T23:14:50.594Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njteyv">세계 시장에서 경쟁력을 보여주다</a>]]></content>
+        <title type="html"><![CDATA[우리의 작은 실천이 큰 결실을 만든다 :)]]></title>
+        <id>https://alook.so/posts/BatDLm</id>
+        <link href="https://alook.so/posts/BatDLm"/>
+        <updated>2021-11-04T00:45:29.968Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatDLm">우리의 작은 실천이 큰 결실을 만든다 :)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이 시대 사람들이 주문한..]]></title>
-        <id>https://alook.so/posts/3wtYvO</id>
-        <link href="https://alook.so/posts/3wtYvO"/>
-        <updated>2021-11-03T23:14:50.596Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtYvO">이 시대 사람들이 주문한..</a>]]></content>
+        <title type="html"><![CDATA[국민연금의 투자 포토폴리오를 믿어요]]></title>
+        <id>https://alook.so/posts/6Mtpq2</id>
+        <link href="https://alook.so/posts/6Mtpq2"/>
+        <updated>2021-11-04T00:45:29.969Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtpq2">국민연금의 투자 포토폴리오를 믿어요 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비위생 순대공장(feat. 나도 많이 먹었네?)]]></title>
-        <id>https://alook.so/posts/8Wtnvr</id>
-        <link href="https://alook.so/posts/8Wtnvr"/>
-        <updated>2021-11-03T23:14:50.597Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtnvr">비위생 순대공장(feat. 나도 많이 먹었네?)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성찰 많이 하면 성공한다? / 나는야 성찰 중독자]]></title>
-        <id>https://alook.so/posts/E7tGVk</id>
-        <link href="https://alook.so/posts/E7tGVk"/>
-        <updated>2021-11-03T22:13:43.426Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tGVk">성찰 많이 하면 성공한다? / 나는야 성찰 중독자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시댁에서 나는 딸이 될 수 있을까?]]></title>
-        <id>https://alook.so/posts/latRZw</id>
-        <link href="https://alook.so/posts/latRZw"/>
-        <updated>2021-11-03T22:13:43.428Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latRZw">시댁에서 나는 딸이 될 수 있을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔직히 백신 맞기 두렵네요.]]></title>
-        <id>https://alook.so/posts/92tmy9</id>
-        <link href="https://alook.so/posts/92tmy9"/>
-        <updated>2021-11-03T22:13:43.429Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tmy9">솔직히 백신 맞기 두렵네요.</a>]]></content>
+        <title type="html"><![CDATA[공무원이 HOT한 이유]]></title>
+        <id>https://alook.so/posts/8Wtn2r</id>
+        <link href="https://alook.so/posts/8Wtn2r"/>
+        <updated>2021-11-04T00:45:29.971Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtn2r">공무원이 HOT한 이유 </a>]]></content>
     </entry>
 </feed>
