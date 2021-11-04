@@ -2,113 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-04T21:14:42.298Z</updated>
+    <updated>2021-11-04T22:18:00.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[연애의 끝, 이제 이별.]]></title>
-        <id>https://alook.so/posts/kZta64</id>
-        <link href="https://alook.so/posts/kZta64"/>
-        <updated>2021-11-03T16:21:48.921Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZta64">연애의 끝, 이제 이별. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무운? 모를 수 있습니다. 중요한 건 그 다음이죠.]]></title>
-        <id>https://alook.so/posts/Kmt7Wy</id>
-        <link href="https://alook.so/posts/Kmt7Wy"/>
-        <updated>2021-11-04T17:21:04.205Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt7Wy">무운? 모를 수 있습니다. 중요한 건 그 다음이죠.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[날이 좋을땐 1만보 걷기]]></title>
-        <id>https://alook.so/posts/J5tb51</id>
-        <link href="https://alook.so/posts/J5tb51"/>
-        <updated>2021-11-04T08:18:04.670Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tb51">날이 좋을땐 1만보 걷기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔직히 백신 맞기 두렵네요.]]></title>
-        <id>https://alook.so/posts/92tmy9</id>
-        <link href="https://alook.so/posts/92tmy9"/>
-        <updated>2021-11-04T08:18:04.671Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tmy9">솔직히 백신 맞기 두렵네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시댁에서 나는 딸이 될 수 있을까?]]></title>
-        <id>https://alook.so/posts/latRZw</id>
-        <link href="https://alook.so/posts/latRZw"/>
-        <updated>2021-11-04T12:22:33.057Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latRZw">시댁에서 나는 딸이 될 수 있을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무식하지 마세요. 부탁입니다.]]></title>
-        <id>https://alook.so/posts/rDtbvl</id>
-        <link href="https://alook.so/posts/rDtbvl"/>
-        <updated>2021-11-03T12:23:20.236Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtbvl">무식하지 마세요. 부탁입니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[없는데 어떻게 논쟁을 해요? (feat. 조세호)]]></title>
-        <id>https://alook.so/posts/potnmK</id>
-        <link href="https://alook.so/posts/potnmK"/>
-        <updated>2021-11-04T06:18:18.913Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potnmK">없는데 어떻게 논쟁을 해요? (feat. 조세호)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공정한 시스템은 얼룩소의 노력만으로 완성되지 않습니다.]]></title>
-        <id>https://alook.so/posts/o7ta26</id>
-        <link href="https://alook.so/posts/o7ta26"/>
-        <updated>2021-11-04T15:15:25.514Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7ta26">공정한 시스템은 얼룩소의 노력만으로 완성되지 않습니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아파트 비상계단에서 소변을 보는 사람]]></title>
-        <id>https://alook.so/posts/YytZGp</id>
-        <link href="https://alook.so/posts/YytZGp"/>
-        <updated>2021-11-04T06:18:18.914Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytZGp">아파트 비상계단에서 소변을 보는 사람</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드라마 도깨비에 나왔던 시, 사랑의 물리학]]></title>
-        <id>https://alook.so/posts/70t5Le</id>
-        <link href="https://alook.so/posts/70t5Le"/>
-        <updated>2021-11-04T10:16:03.766Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t5Le">드라마 도깨비에 나왔던 시, 사랑의 물리학</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매일 저녁 얼룩소가 아니라 온라인 학원에 접속하고 있어요]]></title>
-        <id>https://alook.so/posts/M9t79P</id>
-        <link href="https://alook.so/posts/M9t79P"/>
-        <updated>2021-11-04T00:45:39.365Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t79P">매일 저녁 얼룩소가 아니라 온라인 학원에 접속하고 있어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스스로를 굶겨죽인 아버지는 아들의 형벌을 짐작하셨을까?]]></title>
-        <id>https://alook.so/posts/G1tXGp</id>
-        <link href="https://alook.so/posts/G1tXGp"/>
-        <updated>2021-11-04T13:21:18.222Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tXGp">스스로를 굶겨죽인 아버지는 아들의 형벌을 짐작하셨을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공정한 시스템은 alookso에서 만들어 주세요.]]></title>
-        <id>https://alook.so/posts/rDtbn4</id>
-        <link href="https://alook.so/posts/rDtbn4"/>
-        <updated>2021-11-04T10:16:03.760Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtbn4">공정한 시스템은 alookso에서 만들어 주세요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인적으로는 너무 기쁜데  자랑해도 되나요?]]></title>
-        <id>https://alook.so/posts/RGtD4M</id>
-        <link href="https://alook.so/posts/RGtD4M"/>
-        <updated>2021-11-04T09:15:49.734Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtD4M">개인적으로는 너무 기쁜데  자랑해도 되나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 수익으로 순대를 사먹었습니다.]]></title>
-        <id>https://alook.so/posts/6Mtpjz</id>
-        <link href="https://alook.so/posts/6Mtpjz"/>
-        <updated>2021-11-04T04:19:38.789Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtpjz">얼룩소 수익으로 순대를 사먹었습니다.</a>]]></content>
+        <title type="html"><![CDATA[에필로그 of '한국언론, 솔직히 별 관심 없습니다']]></title>
+        <id>https://alook.so/posts/latRVw</id>
+        <link href="https://alook.so/posts/latRVw"/>
+        <updated>2021-11-04T22:16:35.516Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latRVw">에필로그 of '한국언론, 솔직히 별 관심 없습니다'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저는 정당 당원입니다. 이상한가요?]]></title>
@@ -118,6 +20,20 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtDV4">저는 정당 당원입니다. 이상한가요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[무식하지 마세요. 부탁입니다.]]></title>
+        <id>https://alook.so/posts/rDtbvl</id>
+        <link href="https://alook.so/posts/rDtbvl"/>
+        <updated>2021-11-03T12:23:20.236Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtbvl">무식하지 마세요. 부탁입니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔직히 백신 맞기 두렵네요.]]></title>
+        <id>https://alook.so/posts/92tmy9</id>
+        <link href="https://alook.so/posts/92tmy9"/>
+        <updated>2021-11-04T08:18:04.671Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tmy9">솔직히 백신 맞기 두렵네요.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[내가 겪은 가정폭력의 `늪’에 대해서]]></title>
         <id>https://alook.so/posts/LKtwEV</id>
         <link href="https://alook.so/posts/LKtwEV"/>
@@ -125,10 +41,94 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtwEV">내가 겪은 가정폭력의 `늪’에 대해서</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[드라마 도깨비에 나왔던 시, 사랑의 물리학]]></title>
+        <id>https://alook.so/posts/70t5Le</id>
+        <link href="https://alook.so/posts/70t5Le"/>
+        <updated>2021-11-04T10:16:03.766Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t5Le">드라마 도깨비에 나왔던 시, 사랑의 물리학</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공정한 시스템은 alookso에서 만들어 주세요.]]></title>
+        <id>https://alook.so/posts/rDtbn4</id>
+        <link href="https://alook.so/posts/rDtbn4"/>
+        <updated>2021-11-04T10:16:03.760Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtbn4">공정한 시스템은 alookso에서 만들어 주세요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무운? 모를 수 있습니다. 중요한 건 그 다음이죠.]]></title>
+        <id>https://alook.so/posts/Kmt7Wy</id>
+        <link href="https://alook.so/posts/Kmt7Wy"/>
+        <updated>2021-11-04T17:21:04.205Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt7Wy">무운? 모를 수 있습니다. 중요한 건 그 다음이죠.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개인적으로는 너무 기쁜데  자랑해도 되나요?]]></title>
+        <id>https://alook.so/posts/RGtD4M</id>
+        <link href="https://alook.so/posts/RGtD4M"/>
+        <updated>2021-11-04T09:15:49.734Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtD4M">개인적으로는 너무 기쁜데  자랑해도 되나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공정한 시스템은 얼룩소의 노력만으로 완성되지 않습니다.]]></title>
+        <id>https://alook.so/posts/o7ta26</id>
+        <link href="https://alook.so/posts/o7ta26"/>
+        <updated>2021-11-04T15:15:25.514Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7ta26">공정한 시스템은 얼룩소의 노력만으로 완성되지 않습니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[없는데 어떻게 논쟁을 해요? (feat. 조세호)]]></title>
+        <id>https://alook.so/posts/potnmK</id>
+        <link href="https://alook.so/posts/potnmK"/>
+        <updated>2021-11-04T06:18:18.913Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potnmK">없는데 어떻게 논쟁을 해요? (feat. 조세호)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매일 저녁 얼룩소가 아니라 온라인 학원에 접속하고 있어요]]></title>
+        <id>https://alook.so/posts/M9t79P</id>
+        <link href="https://alook.so/posts/M9t79P"/>
+        <updated>2021-11-04T00:45:39.365Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t79P">매일 저녁 얼룩소가 아니라 온라인 학원에 접속하고 있어요</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[현재의 연인 혹은 배우자, 어디서 어떻게 만나셨나요?]]></title>
         <id>https://alook.so/posts/E7tGzv</id>
         <link href="https://alook.so/posts/E7tGzv"/>
         <updated>2021-11-04T06:18:18.915Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tGzv">현재의 연인 혹은 배우자, 어디서 어떻게 만나셨나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아파트 비상계단에서 소변을 보는 사람]]></title>
+        <id>https://alook.so/posts/YytZGp</id>
+        <link href="https://alook.so/posts/YytZGp"/>
+        <updated>2021-11-04T06:18:18.914Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytZGp">아파트 비상계단에서 소변을 보는 사람</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시댁에서 나는 딸이 될 수 있을까?]]></title>
+        <id>https://alook.so/posts/latRZw</id>
+        <link href="https://alook.so/posts/latRZw"/>
+        <updated>2021-11-04T12:22:33.057Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latRZw">시댁에서 나는 딸이 될 수 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 수익으로 순대를 사먹었습니다.]]></title>
+        <id>https://alook.so/posts/6Mtpjz</id>
+        <link href="https://alook.so/posts/6Mtpjz"/>
+        <updated>2021-11-04T04:19:38.789Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtpjz">얼룩소 수익으로 순대를 사먹었습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스스로를 굶겨죽인 아버지는 아들의 형벌을 짐작하셨을까?]]></title>
+        <id>https://alook.so/posts/G1tXGp</id>
+        <link href="https://alook.so/posts/G1tXGp"/>
+        <updated>2021-11-04T13:21:18.222Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tXGp">스스로를 굶겨죽인 아버지는 아들의 형벌을 짐작하셨을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연애의 끝, 이제 이별.]]></title>
+        <id>https://alook.so/posts/kZta64</id>
+        <link href="https://alook.so/posts/kZta64"/>
+        <updated>2021-11-03T16:21:48.921Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZta64">연애의 끝, 이제 이별. </a>]]></content>
     </entry>
 </feed>
