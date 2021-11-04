@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-04T20:16:56.733Z</updated>
+    <updated>2021-11-04T21:14:42.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[비운의 여자야구팀 샤론파스]]></title>
+        <id>https://alook.so/posts/q1t0jV</id>
+        <link href="https://alook.so/posts/q1t0jV"/>
+        <updated>2021-11-04T21:12:58.202Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t0jV">비운의 여자야구팀 샤론파스</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파시즘에 관한 의견필력]]></title>
+        <id>https://alook.so/posts/Djtowj</id>
+        <link href="https://alook.so/posts/Djtowj"/>
+        <updated>2021-11-04T21:12:58.203Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtowj">파시즘에 관한 의견필력</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국의 교수사회 과연 언제쯤 바뀔까요?]]></title>
+        <id>https://alook.so/posts/1RtBkm</id>
+        <link href="https://alook.so/posts/1RtBkm"/>
+        <updated>2021-11-04T21:12:58.204Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtBkm">한국의 교수사회 과연 언제쯤 바뀔까요? </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그래도 하고싶은거 하면서 살래요]]></title>
         <id>https://alook.so/posts/o7ta4e</id>
@@ -39,12 +60,5 @@
         <link href="https://alook.so/posts/q1t0jj"/>
         <updated>2021-11-04T17:20:55.470Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t0jj">아이를 가지고는 싶죠.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 소기업 디자이너 입니다.]]></title>
-        <id>https://alook.so/posts/1RtBk1</id>
-        <link href="https://alook.so/posts/1RtBk1"/>
-        <updated>2021-11-04T17:20:55.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtBk1">저는 소기업 디자이너 입니다.</a>]]></content>
     </entry>
 </feed>
