@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-04T00:47:02.271Z</updated>
+    <updated>2021-11-04T02:01:12.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[우리의 작은 실천이 큰 결실을 만든다 :)]]></title>
-        <id>https://alook.so/posts/BatDLm</id>
-        <link href="https://alook.so/posts/BatDLm"/>
-        <updated>2021-11-04T00:45:29.968Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatDLm">우리의 작은 실천이 큰 결실을 만든다 :)</a>]]></content>
+        <title type="html"><![CDATA[현재의 연인 혹은 배우자, 어디서 어떻게 만나셨나요?]]></title>
+        <id>https://alook.so/posts/E7tGzv</id>
+        <link href="https://alook.so/posts/E7tGzv"/>
+        <updated>2021-11-04T01:59:34.801Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tGzv">현재의 연인 혹은 배우자, 어디서 어떻게 만나셨나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민연금의 투자 포토폴리오를 믿어요]]></title>
-        <id>https://alook.so/posts/6Mtpq2</id>
-        <link href="https://alook.so/posts/6Mtpq2"/>
-        <updated>2021-11-04T00:45:29.969Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtpq2">국민연금의 투자 포토폴리오를 믿어요 </a>]]></content>
+        <title type="html"><![CDATA[공무원은 되고 싶은데, 공무원 증원은 싫어요?]]></title>
+        <id>https://alook.so/posts/Kmt7My</id>
+        <link href="https://alook.so/posts/Kmt7My"/>
+        <updated>2021-11-04T01:59:34.803Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt7My">공무원은 되고 싶은데, 공무원 증원은 싫어요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공무원이 HOT한 이유]]></title>
-        <id>https://alook.so/posts/8Wtn2r</id>
-        <link href="https://alook.so/posts/8Wtn2r"/>
-        <updated>2021-11-04T00:45:29.971Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtn2r">공무원이 HOT한 이유 </a>]]></content>
+        <title type="html"><![CDATA[하루 10분씩만 투자해도 수화 마스터]]></title>
+        <id>https://alook.so/posts/54tpdV</id>
+        <link href="https://alook.so/posts/54tpdV"/>
+        <updated>2021-11-04T01:59:34.804Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tpdV">하루 10분씩만 투자해도 수화 마스터</a>]]></content>
     </entry>
 </feed>
