@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://figk.net/text</id>
     <title>FIGK</title>
-    <updated>2021-11-04T09:17:12.777Z</updated>
+    <updated>2021-11-04T10:17:40.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://figk.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[영화 <너에게 가는 길>]]></title>
+        <id>https://youtu.be/-F3xOOPWX58</id>
+        <link href="https://youtu.be/-F3xOOPWX58"/>
+        <updated>2021-11-04T10:15:43.783Z</updated>
+        <content type="html"><![CDATA[복길]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비보 x 매직스트로베리 사운드 ‘잘 먹고 잘 사는 법’]]></title>
+        <id>https://www.youtube.com/watch?v=8rzG_VJcDkY</id>
+        <link href="https://www.youtube.com/watch?v=8rzG_VJcDkY"/>
+        <updated>2021-11-04T10:15:43.783Z</updated>
+        <content type="html"><![CDATA[장경진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙랏 사이트]]></title>
+        <id>https://www.blacklot.com/</id>
+        <link href="https://www.blacklot.com/"/>
+        <updated>2021-11-04T10:15:43.784Z</updated>
+        <content type="html"><![CDATA[이지현]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영국 음악계 종사자 3명 중 1명, 팬데믹 이후 실직]]></title>
+        <id>https://www.bbc.com/korean/international-58952589</id>
+        <link href="https://www.bbc.com/korean/international-58952589"/>
+        <updated>2021-11-04T10:15:43.784Z</updated>
+        <content type="html"><![CDATA[하박국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국영상자료원, ‘한국영화X공간’, 2021]]></title>
         <id>https://www.youtube.com/watch?v=56kdoHBNk1o</id>
@@ -167,6 +195,34 @@
         <content type="html"><![CDATA[고건혁]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[넷플릭스 <레인코트 킬러: 유영철을 추격하다>]]></title>
+        <id>https://youtu.be/UnuWINrzCyk</id>
+        <link href="https://youtu.be/UnuWINrzCyk"/>
+        <updated>2021-11-04T10:15:43.805Z</updated>
+        <content type="html"><![CDATA[복길]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<[무편집본] 누리호 발사 장면> 동아사이언스 비디오DongaScienceVideo]]></title>
+        <id>https://www.youtube.com/watch?v=T4QMswFn7iY</id>
+        <link href="https://www.youtube.com/watch?v=T4QMswFn7iY"/>
+        <updated>2021-11-04T10:15:43.806Z</updated>
+        <content type="html"><![CDATA[최진영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“적도처럼 뜨거워진 동해 ... ‘바다의 사막화’ 들어보셨나요” <한국일보> (2021)]]></title>
+        <id>https://www.hankookilbo.com/News/Read/A2021101114070003837?did=NA</id>
+        <link href="https://www.hankookilbo.com/News/Read/A2021101114070003837?did=NA"/>
+        <updated>2021-11-04T10:15:43.807Z</updated>
+        <content type="html"><![CDATA[하미나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘듄’ 드니 빌뇌브 X 크리스토퍼 놀란 감독 대담 | 놀란의 감상평과 궁금한 이야기들]]></title>
+        <id>https://www.youtube.com/watch?v=ibK91ArgmQo</id>
+        <link href="https://www.youtube.com/watch?v=ibK91ArgmQo"/>
+        <updated>2021-11-04T10:15:43.808Z</updated>
+        <content type="html"><![CDATA[최진영]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[스파오에 들어선 국내 첫 '평균 체헝 마네킹']]></title>
         <id>https://www.youtube.com/watch?v=xJk5nKKtYPc</id>
         <link href="https://www.youtube.com/watch?v=xJk5nKKtYPc"/>
@@ -326,6 +382,34 @@
         <link href="https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"/>
         <updated>2021-11-02T05:13:56.742Z</updated>
         <content type="html"><![CDATA[고건혁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가나다(GANADA) Choreography by AIKI & HOOK]]></title>
+        <id>https://www.youtube.com/watch?v=rjl__Vlo4ao</id>
+        <link href="https://www.youtube.com/watch?v=rjl__Vlo4ao"/>
+        <updated>2021-11-04T10:15:43.862Z</updated>
+        <content type="html"><![CDATA[차우진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<가상세계지만 스타가 되고싶어> TVING 오리지널]]></title>
+        <id>https://www.youtube.com/watch?v=QWkLoI-tIMw</id>
+        <link href="https://www.youtube.com/watch?v=QWkLoI-tIMw"/>
+        <updated>2021-11-04T10:15:43.863Z</updated>
+        <content type="html"><![CDATA[복길]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Robot Eats Trash #TeamSeas]]></title>
+        <id>https://www.youtube.com/watch?v=pXDx6DjNLDU</id>
+        <link href="https://www.youtube.com/watch?v=pXDx6DjNLDU"/>
+        <updated>2021-11-04T10:15:43.863Z</updated>
+        <content type="html"><![CDATA[차우진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울패션위크 비건타이거 런웨이 (2021)]]></title>
+        <id>https://www.youtube.com/watch?v=IBsiJfchJKI</id>
+        <link href="https://www.youtube.com/watch?v=IBsiJfchJKI"/>
+        <updated>2021-11-04T10:15:43.863Z</updated>
+        <content type="html"><![CDATA[이지현]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[<“왜 이제야?” “눈물 난다”... 메르켈 연설에 놀란 독일> 오마이뉴스]]></title>
