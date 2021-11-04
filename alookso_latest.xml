@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-04T18:19:09.375Z</updated>
+    <updated>2021-11-04T19:13:52.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우리나라는 정말 열심히 산다]]></title>
+        <id>https://alook.so/posts/E7tGrL</id>
+        <link href="https://alook.so/posts/E7tGrL"/>
+        <updated>2021-11-04T19:12:03.900Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tGrL">우리나라는 정말 열심히 산다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무운을 모른다 고백하셨던 분께 드리는 글.]]></title>
         <id>https://alook.so/posts/54tpPx</id>
