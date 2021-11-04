@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-04T04:21:02.293Z</updated>
+    <updated>2021-11-04T05:15:28.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[삼성전자 주식 괜찮은 걸까?]]></title>
-        <id>https://alook.so/posts/PvtqmB</id>
-        <link href="https://alook.so/posts/PvtqmB"/>
-        <updated>2021-11-04T04:19:29.707Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtqmB">삼성전자 주식 괜찮은 걸까?</a>]]></content>
+        <title type="html"><![CDATA[가족은 항상 부담이다.]]></title>
+        <id>https://alook.so/posts/w9t03x</id>
+        <link href="https://alook.so/posts/w9t03x"/>
+        <updated>2021-11-04T05:13:51.255Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t03x">가족은 항상 부담이다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개인적으로는 너무 기쁜데  자랑해도 되나요?]]></title>
+        <id>https://alook.so/posts/RGtD4M</id>
+        <link href="https://alook.so/posts/RGtD4M"/>
+        <updated>2021-11-04T05:13:51.256Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtD4M">개인적으로는 너무 기쁜데  자랑해도 되나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[범죄자들의 인권에 대해.]]></title>
+        <id>https://alook.so/posts/LKtwlm</id>
+        <link href="https://alook.so/posts/LKtwlm"/>
+        <updated>2021-11-04T05:13:51.257Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtwlm">범죄자들의 인권에 대해.</a>]]></content>
     </entry>
 </feed>
