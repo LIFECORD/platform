@@ -2,35 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-04T13:22:48.277Z</updated>
+    <updated>2021-11-04T14:15:06.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[주 4일제는 꼭 늘어났으면 좋겠습니다!!]]></title>
-        <id>https://alook.so/posts/q1t04j</id>
-        <link href="https://alook.so/posts/q1t04j"/>
-        <updated>2021-11-04T13:21:08.534Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t04j">주 4일제는 꼭 늘어났으면 좋겠습니다!!</a>]]></content>
+        <title type="html"><![CDATA[사람과 사람.]]></title>
+        <id>https://alook.so/posts/4XtV5O</id>
+        <link href="https://alook.so/posts/4XtV5O"/>
+        <updated>2021-11-04T14:13:35.169Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtV5O">사람과 사람.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공정한 시스템은 얼룩소의 노력만으로 완성되지 않습니다.]]></title>
-        <id>https://alook.so/posts/o7ta26</id>
-        <link href="https://alook.so/posts/o7ta26"/>
-        <updated>2021-11-04T13:21:08.537Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7ta26">공정한 시스템은 얼룩소의 노력만으로 완성되지 않습니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래에 대한 불안한 마음이 가장 큰 원인인 것 같습니다]]></title>
-        <id>https://alook.so/posts/E7tGvj</id>
-        <link href="https://alook.so/posts/E7tGvj"/>
-        <updated>2021-11-04T13:21:08.538Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tGvj">미래에 대한 불안한 마음이 가장 큰 원인인 것 같습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육아적 관점에서 본 이야기]]></title>
-        <id>https://alook.so/posts/latRme</id>
-        <link href="https://alook.so/posts/latRme"/>
-        <updated>2021-11-04T13:21:08.540Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latRme">육아적 관점에서 본 이야기</a>]]></content>
+        <title type="html"><![CDATA[절망적인 낙원: 문재인의 부동산 정책과 서울 집값]]></title>
+        <id>https://alook.so/posts/xltZ9o</id>
+        <link href="https://alook.so/posts/xltZ9o"/>
+        <updated>2021-11-04T14:13:35.170Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltZ9o">절망적인 낙원: 문재인의 부동산 정책과 서울 집값</a>]]></content>
     </entry>
 </feed>
