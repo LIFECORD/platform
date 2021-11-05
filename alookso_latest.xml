@@ -2,49 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-05T12:23:25.117Z</updated>
+    <updated>2021-11-05T13:23:05.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[취업이 잘되는 과는 무조건 좋기만 할까?]]></title>
-        <id>https://alook.so/posts/54tpnL</id>
-        <link href="https://alook.so/posts/54tpnL"/>
-        <updated>2021-11-05T12:21:54.165Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tpnL">취업이 잘되는 과는 무조건 좋기만 할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일자리 찾고 면접보는 일... 11월5일,오늘로  끝마칩니다.]]></title>
-        <id>https://alook.so/posts/1RtBP4</id>
-        <link href="https://alook.so/posts/1RtBP4"/>
-        <updated>2021-11-05T12:21:54.166Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtBP4">일자리 찾고 면접보는 일... 11월5일,오늘로  끝마칩니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장인들의 점심시간]]></title>
-        <id>https://alook.so/posts/o7tadJ</id>
-        <link href="https://alook.so/posts/o7tadJ"/>
-        <updated>2021-11-05T12:21:54.167Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tadJ">직장인들의 점심시간 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학벌 컴플렉스가 있었습니다.]]></title>
-        <id>https://alook.so/posts/70t59Z</id>
-        <link href="https://alook.so/posts/70t59Z"/>
-        <updated>2021-11-05T12:21:54.168Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t59Z">학벌 컴플렉스가 있었습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운동의 관점에서 보는 장애인에 대한 시각]]></title>
-        <id>https://alook.so/posts/YytZeq</id>
-        <link href="https://alook.so/posts/YytZeq"/>
-        <updated>2021-11-05T12:21:54.170Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytZeq">운동의 관점에서 보는 장애인에 대한 시각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상황에 맞게 조율 하여 한명의 낙오자가 없게]]></title>
-        <id>https://alook.so/posts/jdtnWv</id>
-        <link href="https://alook.so/posts/jdtnWv"/>
-        <updated>2021-11-05T12:21:54.171Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtnWv">상황에 맞게 조율 하여 한명의 낙오자가 없게 </a>]]></content>
+        <title type="html"><![CDATA[밤하늘을 밝게 빛내던 별들은 어디로 사라졌을까요?]]></title>
+        <id>https://alook.so/posts/potnPR</id>
+        <link href="https://alook.so/posts/potnPR"/>
+        <updated>2021-11-05T13:21:36.889Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potnPR">밤하늘을 밝게 빛내던 별들은 어디로 사라졌을까요?</a>]]></content>
     </entry>
 </feed>
