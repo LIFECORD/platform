@@ -2,28 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-05T09:18:03.606Z</updated>
+    <updated>2021-11-05T10:17:45.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[글을 자꾸 쓰다 보니 출간의뢰가 왔다.txt]]></title>
-        <id>https://alook.so/posts/6MtpoG</id>
-        <link href="https://alook.so/posts/6MtpoG"/>
-        <updated>2021-11-05T09:16:32.106Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtpoG">글을 자꾸 쓰다 보니 출간의뢰가 왔다.txt</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프레데터 VS 에일리언]]></title>
-        <id>https://alook.so/posts/8WtnKG</id>
-        <link href="https://alook.so/posts/8WtnKG"/>
-        <updated>2021-11-05T09:16:32.107Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtnKG">프레데터 VS 에일리언</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예전과는 다른방식으로 계층상승이 이루어진다고 봅니다]]></title>
-        <id>https://alook.so/posts/vKtE8v</id>
-        <link href="https://alook.so/posts/vKtE8v"/>
-        <updated>2021-11-05T09:16:32.109Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtE8v">예전과는 다른방식으로 계층상승이 이루어진다고 봅니다</a>]]></content>
+        <title type="html"><![CDATA[답글: 아끼다 똥 된적 많아요. 엄청..]]></title>
+        <id>https://alook.so/posts/eVtD9e</id>
+        <link href="https://alook.so/posts/eVtD9e"/>
+        <updated>2021-11-05T10:15:55.261Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtD9e">답글: 아끼다 똥 된적 많아요. 엄청..</a>]]></content>
     </entry>
 </feed>
