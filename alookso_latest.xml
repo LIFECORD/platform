@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-05T04:20:32.223Z</updated>
+    <updated>2021-11-05T05:14:39.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[몇시에 일어나세요?]]></title>
-        <id>https://alook.so/posts/RGtDXY</id>
-        <link href="https://alook.so/posts/RGtDXY"/>
-        <updated>2021-11-05T04:18:54.774Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtDXY">몇시에 일어나세요?</a>]]></content>
+        <title type="html"><![CDATA[노동의 가치]]></title>
+        <id>https://alook.so/posts/OEtYpK</id>
+        <link href="https://alook.so/posts/OEtYpK"/>
+        <updated>2021-11-05T05:12:58.844Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtYpK">노동의 가치</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문제는 <정보의 불평등>]]></title>
-        <id>https://alook.so/posts/yEtpG6</id>
-        <link href="https://alook.so/posts/yEtpG6"/>
-        <updated>2021-11-05T04:18:54.775Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtpG6">문제는 &lt;정보의 불평등&gt;</a>]]></content>
+        <title type="html"><![CDATA["얼룩소 수익을 어떻게 사용하셨나요?"]]></title>
+        <id>https://alook.so/posts/92tmjq</id>
+        <link href="https://alook.so/posts/92tmjq"/>
+        <updated>2021-11-05T05:12:58.844Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tmjq">"얼룩소 수익을 어떻게 사용하셨나요?"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도약하는 그날까지, 꾹꾹 발자국 잘 남기며 가면 되요~♡]]></title>
-        <id>https://alook.so/posts/BatD8R</id>
-        <link href="https://alook.so/posts/BatD8R"/>
-        <updated>2021-11-05T04:18:54.776Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatD8R">도약하는 그날까지, 꾹꾹 발자국 잘 남기며 가면 되요~♡</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가슴속에 품은 사직서]]></title>
-        <id>https://alook.so/posts/OEtY4K</id>
-        <link href="https://alook.so/posts/OEtY4K"/>
-        <updated>2021-11-05T04:18:54.777Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtY4K">가슴속에 품은 사직서</a>]]></content>
+        <title type="html"><![CDATA[비위생 순대 파문, 진성식품 박회장의 진심어린 사과!]]></title>
+        <id>https://alook.so/posts/mbtLaG</id>
+        <link href="https://alook.so/posts/mbtLaG"/>
+        <updated>2021-11-05T05:12:58.845Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtLaG">비위생 순대 파문, 진성식품 박회장의 진심어린 사과!</a>]]></content>
     </entry>
 </feed>
