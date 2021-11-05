@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-05T16:22:59.449Z</updated>
+    <updated>2021-11-05T17:22:25.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,19 +11,5 @@
         <link href="https://alook.so/posts/M9t7rk"/>
         <updated>2021-11-05T16:21:27.469Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t7rk">계층 상승까지는 아니고 지금보다 나은 삶을 살고 싶어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마라는 위대함]]></title>
-        <id>https://alook.so/posts/w9t0vP</id>
-        <link href="https://alook.so/posts/w9t0vP"/>
-        <updated>2021-11-05T16:21:27.470Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t0vP">엄마라는 위대함</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족을 만드는 하나의 방법일 뿐]]></title>
-        <id>https://alook.so/posts/BatDd9</id>
-        <link href="https://alook.so/posts/BatDd9"/>
-        <updated>2021-11-05T16:21:27.471Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatDd9">가족을 만드는 하나의 방법일 뿐</a>]]></content>
     </entry>
 </feed>
