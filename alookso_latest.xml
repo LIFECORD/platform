@@ -2,42 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-05T01:59:10.430Z</updated>
+    <updated>2021-11-05T02:32:03.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA['비키니 감옥'에서 벗어난 여성 비치 핸드볼 선수들. 그럼에도 불구하고...]]></title>
-        <id>https://alook.so/posts/yEtp7M</id>
-        <link href="https://alook.so/posts/yEtp7M"/>
-        <updated>2021-11-05T01:57:42.478Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtp7M">'비키니 감옥'에서 벗어난 여성 비치 핸드볼 선수들. 그럼에도 불구하고...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매월 찾아오는 놈, 무기력]]></title>
-        <id>https://alook.so/posts/3wtYZa</id>
-        <link href="https://alook.so/posts/3wtYZa"/>
-        <updated>2021-11-05T01:57:42.479Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtYZa">매월 찾아오는 놈, 무기력</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생활 속 탄소배출량을 알아봤어요!]]></title>
-        <id>https://alook.so/posts/E7tGP7</id>
-        <link href="https://alook.so/posts/E7tGP7"/>
-        <updated>2021-11-05T01:57:42.480Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tGP7">생활 속 탄소배출량을 알아봤어요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[못다한 결혼식]]></title>
-        <id>https://alook.so/posts/q1t0zV</id>
-        <link href="https://alook.so/posts/q1t0zV"/>
-        <updated>2021-11-05T01:57:42.481Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t0zV">못다한 결혼식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아끼다 똥 된다!?]]></title>
-        <id>https://alook.so/posts/Djto8j</id>
-        <link href="https://alook.so/posts/Djto8j"/>
-        <updated>2021-11-05T01:57:42.483Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djto8j">아끼다 똥 된다!?</a>]]></content>
+        <title type="html"><![CDATA[답글: 글을 작성하신 에디터님께.]]></title>
+        <id>https://alook.so/posts/VntndZ</id>
+        <link href="https://alook.so/posts/VntndZ"/>
+        <updated>2021-11-05T02:30:27.345Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntndZ">답글: 글을 작성하신 에디터님께. </a>]]></content>
     </entry>
 </feed>
