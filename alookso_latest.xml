@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-05T18:18:14.093Z</updated>
+    <updated>2021-11-05T19:14:52.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA['함께'  만들어가는 얼룩소.]]></title>
+        <title type="html"><![CDATA[가족이 부담스러웠던 적이 있나요??]]></title>
+        <id>https://alook.so/posts/rDtbdE</id>
+        <link href="https://alook.so/posts/rDtbdE"/>
+        <updated>2021-11-05T19:13:20.450Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtbdE">가족이 부담스러웠던 적이 있나요??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 우리'함께' 살찌워요.]]></title>
         <id>https://alook.so/posts/a0txqL</id>
         <link href="https://alook.so/posts/a0txqL"/>
         <updated>2021-11-05T18:16:47.267Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0txqL">'함께'  만들어가는 얼룩소.</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0txqL">얼룩소 우리'함께' 살찌워요.</a>]]></content>
     </entry>
 </feed>
