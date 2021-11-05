@@ -2,21 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-05T14:15:33.111Z</updated>
+    <updated>2021-11-05T15:16:55.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[식량난 시작되었다 바다 산성화가 뭐길래?]]></title>
-        <id>https://alook.so/posts/rDtb2E</id>
-        <link href="https://alook.so/posts/rDtb2E"/>
-        <updated>2021-11-05T14:13:53.499Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtb2E">식량난 시작되었다 바다 산성화가 뭐길래?</a>]]></content>
+        <title type="html"><![CDATA[대통령 누가 될까요? (feat.윤석열)]]></title>
+        <id>https://alook.so/posts/E7tGeW</id>
+        <link href="https://alook.so/posts/E7tGeW"/>
+        <updated>2021-11-05T15:15:16.520Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tGeW">대통령 누가 될까요? (feat.윤석열)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 그냥 당원일 뿐인데...]]></title>
-        <id>https://alook.so/posts/q1t0Bq</id>
-        <link href="https://alook.so/posts/q1t0Bq"/>
-        <updated>2021-11-05T14:13:53.501Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t0Bq">나는 그냥 당원일 뿐인데...</a>]]></content>
+        <title type="html"><![CDATA[[고민] 아무래도 저만 고양이가 없는 것 같습니다]]></title>
+        <id>https://alook.so/posts/latR7R</id>
+        <link href="https://alook.so/posts/latR7R"/>
+        <updated>2021-11-05T15:15:16.522Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latR7R">[고민] 아무래도 저만 고양이가 없는 것 같습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현 시대 가장 뜨거운 감자, 젠더 갈등]]></title>
+        <id>https://alook.so/posts/92tmXn</id>
+        <link href="https://alook.so/posts/92tmXn"/>
+        <updated>2021-11-05T15:15:16.522Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tmXn">현 시대 가장 뜨거운 감자, 젠더 갈등</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식량난의 시작. 사라지는 음식]]></title>
+        <id>https://alook.so/posts/Kmt792</id>
+        <link href="https://alook.so/posts/Kmt792"/>
+        <updated>2021-11-05T15:15:16.522Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt792">식량난의 시작. 사라지는 음식</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무기징역은 없어지고 사형은 있어야 한다]]></title>
+        <id>https://alook.so/posts/54tp24</id>
+        <link href="https://alook.so/posts/54tp24"/>
+        <updated>2021-11-05T15:15:16.543Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tp24">무기징역은 없어지고 사형은 있어야 한다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[야 너는 내가 연락안하면 연락 안할꺼지?]]></title>
+        <id>https://alook.so/posts/q1t0Zp</id>
+        <link href="https://alook.so/posts/q1t0Zp"/>
+        <updated>2021-11-05T15:15:16.543Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t0Zp">야 너는 내가 연락안하면 연락 안할꺼지?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국식 나이세기에 관해서]]></title>
+        <id>https://alook.so/posts/DjtoPa</id>
+        <link href="https://alook.so/posts/DjtoPa"/>
+        <updated>2021-11-05T15:15:16.543Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtoPa">한국식 나이세기에 관해서</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주린이의 주식투자]]></title>
+        <id>https://alook.so/posts/1RtBvJ</id>
+        <link href="https://alook.so/posts/1RtBvJ"/>
+        <updated>2021-11-05T15:15:16.555Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtBvJ">주린이의 주식투자</a>]]></content>
     </entry>
 </feed>
