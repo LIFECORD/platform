@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-05T07:17:07.187Z</updated>
+    <updated>2021-11-05T08:19:35.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[n번 방 이야기(2020.4)]]></title>
-        <id>https://alook.so/posts/YytZpL</id>
-        <link href="https://alook.so/posts/YytZpL"/>
-        <updated>2021-11-05T07:15:32.710Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytZpL">n번 방 이야기(2020.4)</a>]]></content>
+        <title type="html"><![CDATA[고시원에 고시생은 없지만, 나는 있었다]]></title>
+        <id>https://alook.so/posts/WLta9n</id>
+        <link href="https://alook.so/posts/WLta9n"/>
+        <updated>2021-11-05T08:17:57.406Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLta9n">고시원에 고시생은 없지만, 나는 있었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저는 제 직업을 좋아합니다]]></title>
-        <id>https://alook.so/posts/rDtbqj</id>
-        <link href="https://alook.so/posts/rDtbqj"/>
-        <updated>2021-11-05T07:15:32.712Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtbqj">저는 제 직업을 좋아합니다</a>]]></content>
+        <title type="html"><![CDATA[지렛대 부수기]]></title>
+        <id>https://alook.so/posts/RGtDWO</id>
+        <link href="https://alook.so/posts/RGtDWO"/>
+        <updated>2021-11-05T08:17:57.406Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtDWO">지렛대 부수기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다시 취준생의 삶으로]]></title>
-        <id>https://alook.so/posts/latREZ</id>
-        <link href="https://alook.so/posts/latREZ"/>
-        <updated>2021-11-05T07:15:32.713Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latREZ">다시 취준생의 삶으로</a>]]></content>
+        <title type="html"><![CDATA[마스크를 안 쓰는 사람들이 많아졌다.]]></title>
+        <id>https://alook.so/posts/kZtajw</id>
+        <link href="https://alook.so/posts/kZtajw"/>
+        <updated>2021-11-05T08:17:57.407Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtajw">마스크를 안 쓰는 사람들이 많아졌다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카우보이 비밥]]></title>
+        <id>https://alook.so/posts/BatDrd</id>
+        <link href="https://alook.so/posts/BatDrd"/>
+        <updated>2021-11-05T08:17:57.407Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatDrd">카우보이 비밥</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감히 외쳐봅니다."얼룩소 10주 더 연장해주세요!"]]></title>
+        <id>https://alook.so/posts/LKtwLp</id>
+        <link href="https://alook.so/posts/LKtwLp"/>
+        <updated>2021-11-05T08:17:57.408Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtwLp">감히 외쳐봅니다."얼룩소 10주 더 연장해주세요!"</a>]]></content>
     </entry>
 </feed>
