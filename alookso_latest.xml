@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-05T13:23:05.684Z</updated>
+    <updated>2021-11-05T14:15:33.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[밤하늘을 밝게 빛내던 별들은 어디로 사라졌을까요?]]></title>
-        <id>https://alook.so/posts/potnPR</id>
-        <link href="https://alook.so/posts/potnPR"/>
-        <updated>2021-11-05T13:21:36.889Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potnPR">밤하늘을 밝게 빛내던 별들은 어디로 사라졌을까요?</a>]]></content>
+        <title type="html"><![CDATA[식량난 시작되었다 바다 산성화가 뭐길래?]]></title>
+        <id>https://alook.so/posts/rDtb2E</id>
+        <link href="https://alook.so/posts/rDtb2E"/>
+        <updated>2021-11-05T14:13:53.499Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtb2E">식량난 시작되었다 바다 산성화가 뭐길래?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 그냥 당원일 뿐인데...]]></title>
+        <id>https://alook.so/posts/q1t0Bq</id>
+        <link href="https://alook.so/posts/q1t0Bq"/>
+        <updated>2021-11-05T14:13:53.501Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t0Bq">나는 그냥 당원일 뿐인데...</a>]]></content>
     </entry>
 </feed>
