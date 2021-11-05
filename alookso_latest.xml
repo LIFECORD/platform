@@ -2,14 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-04T23:16:38.265Z</updated>
+    <updated>2021-11-05T00:46:18.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[브이로그 왜 보세요? feat. 유투버라는 직업]]></title>
-        <id>https://alook.so/posts/yEtpeM</id>
-        <link href="https://alook.so/posts/yEtpeM"/>
-        <updated>2021-11-04T23:14:53.284Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtpeM">브이로그 왜 보세요? feat. 유투버라는 직업</a>]]></content>
+        <title type="html"><![CDATA[아빠는 왜 딸의 남자친구를 싫어하는 걸까요?]]></title>
+        <id>https://alook.so/posts/a0txGR</id>
+        <link href="https://alook.so/posts/a0txGR"/>
+        <updated>2021-11-05T00:44:45.515Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0txGR">아빠는 왜 딸의 남자친구를 싫어하는 걸까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이들에게 덜 미안한 우리길]]></title>
+        <id>https://alook.so/posts/Zkt7x3</id>
+        <link href="https://alook.so/posts/Zkt7x3"/>
+        <updated>2021-11-05T00:44:45.516Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt7x3">아이들에게 덜 미안한 우리길</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가맹점주에게 대하는 그들의 횡포]]></title>
+        <id>https://alook.so/posts/dzt4Ey</id>
+        <link href="https://alook.so/posts/dzt4Ey"/>
+        <updated>2021-11-05T00:44:45.522Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt4Ey">가맹점주에게 대하는 그들의 횡포 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 아메바다]]></title>
+        <id>https://alook.so/posts/J5tbkk</id>
+        <link href="https://alook.so/posts/J5tbkk"/>
+        <updated>2021-11-05T00:44:45.523Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tbkk">나는 아메바다 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[출근길]]></title>
+        <id>https://alook.so/posts/zvt1Mm</id>
+        <link href="https://alook.so/posts/zvt1Mm"/>
+        <updated>2021-11-05T00:44:45.524Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt1Mm">﻿출근길</a>]]></content>
     </entry>
 </feed>
