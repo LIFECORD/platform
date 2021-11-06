@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-06T05:15:24.820Z</updated>
+    <updated>2021-11-06T06:18:15.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오늘보다 내일 "더 나은 공론장"이 되길 바라며]]></title>
-        <id>https://alook.so/posts/LKtwdr</id>
-        <link href="https://alook.so/posts/LKtwdr"/>
-        <updated>2021-11-06T05:13:56.970Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtwdr">오늘보다 내일 "더 나은 공론장"이 되길 바라며</a>]]></content>
+        <title type="html"><![CDATA[부모님의 욕심 언제까지 계속될까요?]]></title>
+        <id>https://alook.so/posts/0ktZ3a</id>
+        <link href="https://alook.so/posts/0ktZ3a"/>
+        <updated>2021-11-06T06:16:45.587Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktZ3a">부모님의 욕심 언제까지 계속될까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추억이 담긴건 계속 봐야할까?]]></title>
-        <id>https://alook.so/posts/6MtpkP</id>
-        <link href="https://alook.so/posts/6MtpkP"/>
-        <updated>2021-11-06T05:13:56.970Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtpkP">추억이 담긴건 계속 봐야할까?</a>]]></content>
+        <title type="html"><![CDATA[어감이 좋지 않아 동네 이름이 바뀌게 된 사연]]></title>
+        <id>https://alook.so/posts/4XtVBB</id>
+        <link href="https://alook.so/posts/4XtVBB"/>
+        <updated>2021-11-06T06:16:45.592Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtVBB">어감이 좋지 않아 동네 이름이 바뀌게 된 사연</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[충격적인 국민의 힘 당 후보 선출 윤석열 후보의 진실]]></title>
-        <id>https://alook.so/posts/8Wtnxy</id>
-        <link href="https://alook.so/posts/8Wtnxy"/>
-        <updated>2021-11-06T05:13:56.972Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtnxy">충격적인 국민의 힘 당 후보 선출 윤석열 후보의 진실</a>]]></content>
+        <title type="html"><![CDATA[단풍이 지기 전에.]]></title>
+        <id>https://alook.so/posts/w9t0kv</id>
+        <link href="https://alook.so/posts/w9t0kv"/>
+        <updated>2021-11-06T06:16:45.593Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t0kv">단풍이 지기 전에.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펫샵에 대해 어떻게 생각하시나요?]]></title>
+        <id>https://alook.so/posts/RGtDnd</id>
+        <link href="https://alook.so/posts/RGtDnd"/>
+        <updated>2021-11-06T06:16:45.596Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtDnd">펫샵에 대해 어떻게 생각하시나요?</a>]]></content>
     </entry>
 </feed>
