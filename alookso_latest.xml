@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-06T13:20:22.659Z</updated>
+    <updated>2021-11-06T14:14:50.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[한국의 10대는 불행할까요?]]></title>
-        <id>https://alook.so/posts/potnDm</id>
-        <link href="https://alook.so/posts/potnDm"/>
-        <updated>2021-11-06T13:18:55.396Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potnDm">한국의 10대는 불행할까요?</a>]]></content>
+        <title type="html"><![CDATA[한국은 선진국이 아니라고 생각합니다.]]></title>
+        <id>https://alook.so/posts/LKtw9D</id>
+        <link href="https://alook.so/posts/LKtw9D"/>
+        <updated>2021-11-06T14:13:22.483Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtw9D">한국은 선진국이 아니라고 생각합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불혹, 40세]]></title>
-        <id>https://alook.so/posts/eVtD1X</id>
-        <link href="https://alook.so/posts/eVtD1X"/>
-        <updated>2021-11-06T13:18:55.397Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtD1X">불혹, 40세</a>]]></content>
+        <title type="html"><![CDATA[무인멀티콥터 파일럿입니다.]]></title>
+        <id>https://alook.so/posts/6Mtpbb</id>
+        <link href="https://alook.so/posts/6Mtpbb"/>
+        <updated>2021-11-06T14:13:22.484Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtpbb">무인멀티콥터 파일럿입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남편은 아내말을 잘 들어야 행복한가요?]]></title>
-        <id>https://alook.so/posts/PvtqdJ</id>
-        <link href="https://alook.so/posts/PvtqdJ"/>
-        <updated>2021-11-06T13:18:55.399Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtqdJ">남편은 아내말을 잘 들어야 행복한가요?</a>]]></content>
+        <title type="html"><![CDATA[대학 졸업장, 그만한 가치가 있다고 생각합니다.]]></title>
+        <id>https://alook.so/posts/G1tX7E</id>
+        <link href="https://alook.so/posts/G1tX7E"/>
+        <updated>2021-11-06T14:13:22.485Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tX7E">대학 졸업장, 그만한 가치가 있다고 생각합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[출발선은 공평하기 때문 입니다?]]></title>
-        <id>https://alook.so/posts/4XtVPk</id>
-        <link href="https://alook.so/posts/4XtVPk"/>
-        <updated>2021-11-06T13:18:55.400Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtVPk">출발선은 공평하기 때문 입니다?</a>]]></content>
+        <title type="html"><![CDATA[같은 성별끼리 결혼해도 된다고 생각합니다.]]></title>
+        <id>https://alook.so/posts/OEtYky</id>
+        <link href="https://alook.so/posts/OEtYky"/>
+        <updated>2021-11-06T14:13:22.486Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtYky">같은 성별끼리 결혼해도 된다고 생각합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혼자 밥먹을때는 반찬 리필하면 안되나요?]]></title>
+        <id>https://alook.so/posts/latRnj</id>
+        <link href="https://alook.so/posts/latRnj"/>
+        <updated>2021-11-06T14:13:22.487Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latRnj">혼자 밥먹을때는 반찬 리필하면 안되나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오징어 게임을 두 번 보고 느끼는 감정]]></title>
+        <id>https://alook.so/posts/Kmt7JZ</id>
+        <link href="https://alook.so/posts/Kmt7JZ"/>
+        <updated>2021-11-06T14:13:22.488Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt7JZ">오징어 게임을 두 번 보고 느끼는 감정</a>]]></content>
     </entry>
 </feed>
