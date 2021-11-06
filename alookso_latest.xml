@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-06T20:16:01.391Z</updated>
+    <updated>2021-11-06T21:13:50.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -25,19 +25,5 @@
         <link href="https://alook.so/posts/2xta1j"/>
         <updated>2021-11-06T18:17:51.441Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xta1j">진로 고민</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 세상에서 태풍이 가장 무섭습니다.]]></title>
-        <id>https://alook.so/posts/4XtVEq</id>
-        <link href="https://alook.so/posts/4XtVEq"/>
-        <updated>2021-11-06T17:19:40.525Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtVEq">전 세상에서 태풍이 가장 무섭습니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린이를 향한 차별적 시선: "아직 어려서 그렇지 뭐"]]></title>
-        <id>https://alook.so/posts/XBtYmE</id>
-        <link href="https://alook.so/posts/XBtYmE"/>
-        <updated>2021-11-06T17:19:40.527Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtYmE">어린이를 향한 차별적 시선: "아직 어려서 그렇지 뭐"</a>]]></content>
     </entry>
 </feed>
