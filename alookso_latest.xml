@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-06T06:18:15.658Z</updated>
+    <updated>2021-11-06T07:15:15.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 조퇴나 병가나..]]></title>
+        <id>https://alook.so/posts/potn6L</id>
+        <link href="https://alook.so/posts/potn6L"/>
+        <updated>2021-11-06T07:13:44.102Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potn6L">답글: 조퇴나 병가나..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가끔 외롭다고 느낄 때가 있지 않나요.]]></title>
+        <id>https://alook.so/posts/eVtDBV</id>
+        <link href="https://alook.so/posts/eVtDBV"/>
+        <updated>2021-11-06T07:13:44.105Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtDBV">가끔 외롭다고 느낄 때가 있지 않나요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매년 같이 단풍 구경 가요!]]></title>
+        <id>https://alook.so/posts/PvtqyG</id>
+        <link href="https://alook.so/posts/PvtqyG"/>
+        <updated>2021-11-06T07:13:44.107Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtqyG">매년 같이 단풍 구경 가요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단풍]]></title>
+        <id>https://alook.so/posts/VntnDy</id>
+        <link href="https://alook.so/posts/VntnDy"/>
+        <updated>2021-11-06T07:13:44.107Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntnDy">단풍</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 부모님의 욕심, 제 욕심은 아니잖아요]]></title>
+        <id>https://alook.so/posts/zvt1Bd</id>
+        <link href="https://alook.so/posts/zvt1Bd"/>
+        <updated>2021-11-06T07:13:44.108Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt1Bd">답글: 부모님의 욕심, 제 욕심은 아니잖아요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부모님의 욕심 언제까지 계속될까요?]]></title>
         <id>https://alook.so/posts/0ktZ3a</id>
@@ -18,19 +53,5 @@
         <link href="https://alook.so/posts/4XtVBB"/>
         <updated>2021-11-06T06:16:45.592Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtVBB">어감이 좋지 않아 동네 이름이 바뀌게 된 사연</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단풍이 지기 전에.]]></title>
-        <id>https://alook.so/posts/w9t0kv</id>
-        <link href="https://alook.so/posts/w9t0kv"/>
-        <updated>2021-11-06T06:16:45.593Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t0kv">단풍이 지기 전에.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펫샵에 대해 어떻게 생각하시나요?]]></title>
-        <id>https://alook.so/posts/RGtDnd</id>
-        <link href="https://alook.so/posts/RGtDnd"/>
-        <updated>2021-11-06T06:16:45.596Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtDnd">펫샵에 대해 어떻게 생각하시나요?</a>]]></content>
     </entry>
 </feed>
