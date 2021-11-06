@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-06T08:18:12.884Z</updated>
+    <updated>2021-11-06T09:16:16.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[나는 비건인 사람을 좋아한다.]]></title>
-        <id>https://alook.so/posts/q1t0VW</id>
-        <link href="https://alook.so/posts/q1t0VW"/>
-        <updated>2021-11-06T08:16:43.912Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t0VW">나는 비건인 사람을 좋아한다.</a>]]></content>
+        <title type="html"><![CDATA[주 4일제에 관련된 글]]></title>
+        <id>https://alook.so/posts/w9t0Wv</id>
+        <link href="https://alook.so/posts/w9t0Wv"/>
+        <updated>2021-11-06T09:14:39.232Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t0Wv">주 4일제에 관련된 글</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[은행 금리로는 살아 남을 수 없는 세상에서, 투자는 여러분에게 어떤 의미 인가요?]]></title>
-        <id>https://alook.so/posts/DjtoV2</id>
-        <link href="https://alook.so/posts/DjtoV2"/>
-        <updated>2021-11-06T08:16:43.913Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtoV2">은행 금리로는 살아 남을 수 없는 세상에서, 투자는 여러분에게 어떤 의미 인가요?</a>]]></content>
+        <title type="html"><![CDATA[휴식기를 가지고 있는데 불안합니다]]></title>
+        <id>https://alook.so/posts/RGtDOd</id>
+        <link href="https://alook.so/posts/RGtDOd"/>
+        <updated>2021-11-06T09:14:39.234Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtDOd">휴식기를 가지고 있는데 불안합니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민연금 적립금 1천조원! 투자수익은?]]></title>
-        <id>https://alook.so/posts/1RtBjr</id>
-        <link href="https://alook.so/posts/1RtBjr"/>
-        <updated>2021-11-06T08:16:43.914Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtBjr">국민연금 적립금 1천조원! 투자수익은?</a>]]></content>
+        <title type="html"><![CDATA[표현이 서툰 우리 아빠들]]></title>
+        <id>https://alook.so/posts/6Mtp8P</id>
+        <link href="https://alook.so/posts/6Mtp8P"/>
+        <updated>2021-11-06T09:14:39.236Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtp8P">표현이 서툰 우리 아빠들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["혹시...?" 재택근무 시대 가장 많이 받은 질문]]></title>
-        <id>https://alook.so/posts/rDtbBY</id>
-        <link href="https://alook.so/posts/rDtbBY"/>
-        <updated>2021-11-06T08:16:43.915Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtbBY">"혹시...?" 재택근무 시대 가장 많이 받은 질문</a>]]></content>
+        <title type="html"><![CDATA[노키즈존]]></title>
+        <id>https://alook.so/posts/3wtY79</id>
+        <link href="https://alook.so/posts/3wtY79"/>
+        <updated>2021-11-06T09:14:39.238Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtY79">노키즈존</a>]]></content>
     </entry>
 </feed>
