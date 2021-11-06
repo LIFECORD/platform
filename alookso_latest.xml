@@ -2,49 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-06T15:16:21.246Z</updated>
+    <updated>2021-11-06T16:22:52.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[미국 주식을 처음 시작할때 당장 사도 되는 종목 5가지]]></title>
-        <id>https://alook.so/posts/70t5aR</id>
-        <link href="https://alook.so/posts/70t5aR"/>
-        <updated>2021-11-06T15:14:48.149Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t5aR">미국 주식을 처음 시작할때 당장 사도 되는 종목 5가지</a>]]></content>
+        <title type="html"><![CDATA[국회의원 수는 줄여야 한다]]></title>
+        <id>https://alook.so/posts/yEtpRv</id>
+        <link href="https://alook.so/posts/yEtpRv"/>
+        <updated>2021-11-06T16:21:20.393Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtpRv">국회의원 수는 줄여야 한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경력이 짧아서 퇴사하기가 무서워요]]></title>
-        <id>https://alook.so/posts/YytZ27</id>
-        <link href="https://alook.so/posts/YytZ27"/>
-        <updated>2021-11-06T15:14:48.151Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytZ27">경력이 짧아서 퇴사하기가 무서워요</a>]]></content>
+        <title type="html"><![CDATA[트롤리 딜레마와 최대다수 최대행복]]></title>
+        <id>https://alook.so/posts/BatDy7</id>
+        <link href="https://alook.so/posts/BatDy7"/>
+        <updated>2021-11-06T16:21:20.398Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatDy7">트롤리 딜레마와 최대다수 최대행복</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내향형 인간이라 죄송합니다.]]></title>
-        <id>https://alook.so/posts/rDtbZd</id>
-        <link href="https://alook.so/posts/rDtbZd"/>
-        <updated>2021-11-06T15:14:48.152Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtbZd">내향형 인간이라 죄송합니다.</a>]]></content>
+        <title type="html"><![CDATA["세 아이가 피리 하나를 두고 경합해야 하는 상황 자체를 벗어나야 합니다"]]></title>
+        <id>https://alook.so/posts/LKtwDJ</id>
+        <link href="https://alook.so/posts/LKtwDJ"/>
+        <updated>2021-11-06T16:21:20.399Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtwDJ">"세 아이가 피리 하나를 두고 경합해야 하는 상황 자체를 벗어나야 합니다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국방비..]]></title>
-        <id>https://alook.so/posts/E7tGE1</id>
-        <link href="https://alook.so/posts/E7tGE1"/>
-        <updated>2021-11-06T15:14:48.153Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tGE1">국방비..</a>]]></content>
+        <title type="html"><![CDATA[뭘 배워야 돈도벌고 즐거울까요?]]></title>
+        <id>https://alook.so/posts/njtelY</id>
+        <link href="https://alook.so/posts/njtelY"/>
+        <updated>2021-11-06T16:21:20.401Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtelY">뭘 배워야 돈도벌고 즐거울까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민 연금..]]></title>
-        <id>https://alook.so/posts/latRBj</id>
-        <link href="https://alook.so/posts/latRBj"/>
-        <updated>2021-11-06T15:14:48.154Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latRBj">국민 연금..</a>]]></content>
+        <title type="html"><![CDATA[대학 졸업장, 그만한 가치가 있을까요?]]></title>
+        <id>https://alook.so/posts/6Mtp41</id>
+        <link href="https://alook.so/posts/6Mtp41"/>
+        <updated>2021-11-06T16:21:20.402Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtp41">대학 졸업장, 그만한 가치가 있을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[같은 성별끼리 결혼이라는 문제]]></title>
-        <id>https://alook.so/posts/mbtL51</id>
-        <link href="https://alook.so/posts/mbtL51"/>
-        <updated>2021-11-06T15:14:48.155Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtL51">같은 성별끼리 결혼이라는 문제</a>]]></content>
+        <title type="html"><![CDATA[글쓰는것은 어려워]]></title>
+        <id>https://alook.so/posts/OEtYnM</id>
+        <link href="https://alook.so/posts/OEtYnM"/>
+        <updated>2021-11-06T16:21:20.404Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtYnM">글쓰는것은 어려워</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오는 우리에게 가치를 주는가?]]></title>
+        <id>https://alook.so/posts/vKtEoW</id>
+        <link href="https://alook.so/posts/vKtEoW"/>
+        <updated>2021-11-06T16:21:20.405Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtEoW">카카오는 우리에게 가치를 주는가?</a>]]></content>
     </entry>
 </feed>
