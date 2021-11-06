@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-06T21:13:50.130Z</updated>
+    <updated>2021-11-06T22:16:08.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[막연한 꿈은 목표 달성에 이로울까? (열심히 적었는데 한 번만 봐주세요 ㅜㅜ)]]></title>
+        <id>https://alook.so/posts/dzt4Rb</id>
+        <link href="https://alook.so/posts/dzt4Rb"/>
+        <updated>2021-11-06T22:14:33.986Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt4Rb">막연한 꿈은 목표 달성에 이로울까? (열심히 적었는데 한 번만 봐주세요 ㅜㅜ)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신도 욕심 내려놔, 예서 인생하고 당신 인생은 다른 거야.]]></title>
         <id>https://alook.so/posts/Vntnq7</id>
