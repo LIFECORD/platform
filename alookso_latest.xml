@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-06T16:22:52.178Z</updated>
+    <updated>2021-11-06T17:21:15.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전 세상에서 태풍이 가장 무섭습니다.]]></title>
+        <id>https://alook.so/posts/4XtVEq</id>
+        <link href="https://alook.so/posts/4XtVEq"/>
+        <updated>2021-11-06T17:19:40.525Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtVEq">전 세상에서 태풍이 가장 무섭습니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어린이를 향한 차별적 시선: "아직 어려서 그렇지 뭐"]]></title>
+        <id>https://alook.so/posts/XBtYmE</id>
+        <link href="https://alook.so/posts/XBtYmE"/>
+        <updated>2021-11-06T17:19:40.527Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtYmE">어린이를 향한 차별적 시선: "아직 어려서 그렇지 뭐"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[적금대용으로 삼성전자 주식매수]]></title>
+        <id>https://alook.so/posts/kZtaZG</id>
+        <link href="https://alook.so/posts/kZtaZG"/>
+        <updated>2021-11-06T17:19:40.528Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtaZG">적금대용으로 삼성전자 주식매수</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국회의원 수는 줄여야 한다]]></title>
         <id>https://alook.so/posts/yEtpRv</id>
@@ -18,40 +39,5 @@
         <link href="https://alook.so/posts/BatDy7"/>
         <updated>2021-11-06T16:21:20.398Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatDy7">트롤리 딜레마와 최대다수 최대행복</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["세 아이가 피리 하나를 두고 경합해야 하는 상황 자체를 벗어나야 합니다"]]></title>
-        <id>https://alook.so/posts/LKtwDJ</id>
-        <link href="https://alook.so/posts/LKtwDJ"/>
-        <updated>2021-11-06T16:21:20.399Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtwDJ">"세 아이가 피리 하나를 두고 경합해야 하는 상황 자체를 벗어나야 합니다"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭘 배워야 돈도벌고 즐거울까요?]]></title>
-        <id>https://alook.so/posts/njtelY</id>
-        <link href="https://alook.so/posts/njtelY"/>
-        <updated>2021-11-06T16:21:20.401Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtelY">뭘 배워야 돈도벌고 즐거울까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대학 졸업장, 그만한 가치가 있을까요?]]></title>
-        <id>https://alook.so/posts/6Mtp41</id>
-        <link href="https://alook.so/posts/6Mtp41"/>
-        <updated>2021-11-06T16:21:20.402Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtp41">대학 졸업장, 그만한 가치가 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글쓰는것은 어려워]]></title>
-        <id>https://alook.so/posts/OEtYnM</id>
-        <link href="https://alook.so/posts/OEtYnM"/>
-        <updated>2021-11-06T16:21:20.404Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtYnM">글쓰는것은 어려워</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오는 우리에게 가치를 주는가?]]></title>
-        <id>https://alook.so/posts/vKtEoW</id>
-        <link href="https://alook.so/posts/vKtEoW"/>
-        <updated>2021-11-06T16:21:20.405Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtEoW">카카오는 우리에게 가치를 주는가?</a>]]></content>
     </entry>
 </feed>
