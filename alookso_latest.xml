@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-06T02:29:10.437Z</updated>
+    <updated>2021-11-06T03:16:59.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[넷플릭스 다큐멘터리]]></title>
-        <id>https://alook.so/posts/bWtmxj</id>
-        <link href="https://alook.so/posts/bWtmxj"/>
-        <updated>2021-11-06T02:27:42.897Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtmxj">넷플릭스 다큐멘터리</a>]]></content>
+        <title type="html"><![CDATA[안정적인 직업이 나를 지켜준다고 믿기 때문에]]></title>
+        <id>https://alook.so/posts/92tmwn</id>
+        <link href="https://alook.so/posts/92tmwn"/>
+        <updated>2021-11-06T03:15:32.086Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tmwn">안정적인 직업이 나를 지켜준다고 믿기 때문에</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주5일 근무 화두가 저무는 것 같아요]]></title>
-        <id>https://alook.so/posts/Zkt744</id>
-        <link href="https://alook.so/posts/Zkt744"/>
-        <updated>2021-11-06T02:27:42.898Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt744">주5일 근무 화두가 저무는 것 같아요</a>]]></content>
+        <title type="html"><![CDATA[코로나..백신 안전하다고 생각하세요?]]></title>
+        <id>https://alook.so/posts/54tpY4</id>
+        <link href="https://alook.so/posts/54tpY4"/>
+        <updated>2021-11-06T03:15:32.086Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tpY4">코로나..백신 안전하다고 생각하세요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뜨겁다고는 알고 있었지만 더 뜨거운 감자]]></title>
-        <id>https://alook.so/posts/potnGE</id>
-        <link href="https://alook.so/posts/potnGE"/>
-        <updated>2021-11-06T02:27:42.899Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potnGE">뜨겁다고는 알고 있었지만 더 뜨거운 감자</a>]]></content>
+        <title type="html"><![CDATA[요즘 비건이 대세인데 .]]></title>
+        <id>https://alook.so/posts/q1t0Op</id>
+        <link href="https://alook.so/posts/q1t0Op"/>
+        <updated>2021-11-06T03:15:32.089Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t0Op">요즘 비건이 대세인데 .</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 결혼하면 말이야]]></title>
-        <id>https://alook.so/posts/zvt1yo</id>
-        <link href="https://alook.so/posts/zvt1yo"/>
-        <updated>2021-11-06T01:53:49.425Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt1yo">나는 결혼하면 말이야</a>]]></content>
+        <title type="html"><![CDATA[빚 없이 집 사던 시절이 있었나요?]]></title>
+        <id>https://alook.so/posts/Djtoja</id>
+        <link href="https://alook.so/posts/Djtoja"/>
+        <updated>2021-11-06T03:15:32.093Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtoja">빚 없이 집 사던 시절이 있었나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제일 황당한 시, 읍, 동, 군, 리 이름은?!]]></title>
+        <id>https://alook.so/posts/o7taXy</id>
+        <link href="https://alook.so/posts/o7taXy"/>
+        <updated>2021-11-06T03:15:32.095Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7taXy">제일 황당한 시, 읍, 동, 군, 리 이름은?!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몇 가지 이야기하고 싶습니다]]></title>
+        <id>https://alook.so/posts/YytZ72</id>
+        <link href="https://alook.so/posts/YytZ72"/>
+        <updated>2021-11-06T03:15:32.097Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytZ72">몇 가지 이야기하고 싶습니다</a>]]></content>
     </entry>
 </feed>
