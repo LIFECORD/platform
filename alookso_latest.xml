@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-06T10:17:34.034Z</updated>
+    <updated>2021-11-06T11:14:34.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[타인을 바라보는 시선의 문제]]></title>
+        <id>https://alook.so/posts/70t5oJ</id>
+        <link href="https://alook.so/posts/70t5oJ"/>
+        <updated>2021-11-06T11:13:05.203Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t5oJ">타인을 바라보는 시선의 문제</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외로우면 연애하지 말아요..]]></title>
+        <id>https://alook.so/posts/YytZdP</id>
+        <link href="https://alook.so/posts/YytZdP"/>
+        <updated>2021-11-06T11:13:05.204Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytZdP">외로우면 연애하지 말아요..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초중고등 학생 평균 키 몸무게]]></title>
         <id>https://alook.so/posts/Zkt7vY</id>
         <link href="https://alook.so/posts/Zkt7vY"/>
         <updated>2021-11-06T10:16:06.571Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt7vY">초중고등 학생 평균 키 몸무게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저녁 뭐 드셨어요?]]></title>
-        <id>https://alook.so/posts/Pvtq3G</id>
-        <link href="https://alook.so/posts/Pvtq3G"/>
-        <updated>2021-11-06T10:16:06.572Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtq3G">저녁 뭐 드셨어요?</a>]]></content>
     </entry>
 </feed>
