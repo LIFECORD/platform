@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-07T14:14:18.863Z</updated>
+    <updated>2021-11-07T15:16:29.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[드디어 퇴사를]]></title>
-        <id>https://alook.so/posts/DjtkqP</id>
-        <link href="https://alook.so/posts/DjtkqP"/>
-        <updated>2021-11-07T14:12:48.714Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtkqP">드디어 퇴사를</a>]]></content>
+        <title type="html"><![CDATA[혈세 타령]]></title>
+        <id>https://alook.so/posts/xltBz7</id>
+        <link href="https://alook.so/posts/xltBz7"/>
+        <updated>2021-11-07T15:14:49.583Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBz7">혈세 타령 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[슈카월드라이브 요약]]></title>
-        <id>https://alook.so/posts/o7tWmd</id>
-        <link href="https://alook.so/posts/o7tWmd"/>
-        <updated>2021-11-07T14:12:48.714Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWmd">슈카월드라이브 요약</a>]]></content>
+        <title type="html"><![CDATA["입장 바꿔 생각해봐야지"라는 말에 동의하시나요?]]></title>
+        <id>https://alook.so/posts/RGtP20</id>
+        <link href="https://alook.so/posts/RGtP20"/>
+        <updated>2021-11-07T15:14:49.586Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtP20">"입장 바꿔 생각해봐야지"라는 말에 동의하시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아직까지 살 이유는 있었다]]></title>
-        <id>https://alook.so/posts/70t8Dj</id>
-        <link href="https://alook.so/posts/70t8Dj"/>
-        <updated>2021-11-07T14:12:48.716Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t8Dj">아직까지 살 이유는 있었다</a>]]></content>
+        <title type="html"><![CDATA[아이는 갖고 싶다고 갖을 수 있는 물건이 아닙니다]]></title>
+        <id>https://alook.so/posts/kZt5vy</id>
+        <link href="https://alook.so/posts/kZt5vy"/>
+        <updated>2021-11-07T15:14:49.589Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt5vy">아이는 갖고 싶다고 갖을 수 있는 물건이 아닙니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신이 생각하는 결혼은 뭡니까?]]></title>
-        <id>https://alook.so/posts/92t9J8</id>
-        <link href="https://alook.so/posts/92t9J8"/>
-        <updated>2021-11-07T14:12:48.716Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t9J8">당신이 생각하는 결혼은 뭡니까?</a>]]></content>
+        <title type="html"><![CDATA[무지의 베일이 가진 양면성]]></title>
+        <id>https://alook.so/posts/yEtKkK</id>
+        <link href="https://alook.so/posts/yEtKkK"/>
+        <updated>2021-11-07T15:14:49.591Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtKkK">무지의 베일이 가진 양면성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람들은 생각하는 것을 행동하는 것을 주저해]]></title>
+        <id>https://alook.so/posts/Bat0lD</id>
+        <link href="https://alook.so/posts/Bat0lD"/>
+        <updated>2021-11-07T15:14:49.593Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat0lD">사람들은 생각하는 것을 행동하는 것을 주저해</a>]]></content>
     </entry>
 </feed>
