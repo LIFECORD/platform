@@ -2,35 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-07T03:16:27.344Z</updated>
+    <updated>2021-11-07T04:19:31.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[사랑하는 사람에게 상처 입는 것에 익숙해지지 마세요.]]></title>
-        <id>https://alook.so/posts/KmtPDD</id>
-        <link href="https://alook.so/posts/KmtPDD"/>
-        <updated>2021-11-07T03:15:01.770Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtPDD">사랑하는 사람에게 상처 입는 것에 익숙해지지 마세요.</a>]]></content>
+        <title type="html"><![CDATA[매일 찾아오는 놈, 귀찮음]]></title>
+        <id>https://alook.so/posts/1RtXJX</id>
+        <link href="https://alook.so/posts/1RtXJX"/>
+        <updated>2021-11-07T04:18:04.683Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtXJX">매일 찾아오는 놈, 귀찮음</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모든 성공이 노력의 결실도 아니며 모든 가난이 게으름의 결과도 아니다]]></title>
-        <id>https://alook.so/posts/54tKWo</id>
-        <link href="https://alook.so/posts/54tKWo"/>
-        <updated>2021-11-07T03:15:01.772Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tKWo">모든 성공이 노력의 결실도 아니며 모든 가난이 게으름의 결과도 아니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에 꽂혔다..]]></title>
-        <id>https://alook.so/posts/rDtlJd</id>
-        <link href="https://alook.so/posts/rDtlJd"/>
-        <updated>2021-11-07T02:36:53.599Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtlJd">얼룩소에 꽂혔다.. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악명높은 가상의 사고실험 : 트롤리 딜레마 비판]]></title>
-        <id>https://alook.so/posts/bWtoD6</id>
-        <link href="https://alook.so/posts/bWtoD6"/>
-        <updated>2021-11-07T02:36:53.601Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtoD6"> 악명높은 가상의 사고실험 : 트롤리 딜레마 비판</a>]]></content>
+        <title type="html"><![CDATA[가면을 쓰기는 싫은데, 가면이 없으면 외롭다.]]></title>
+        <id>https://alook.so/posts/o7tWna</id>
+        <link href="https://alook.so/posts/o7tWna"/>
+        <updated>2021-11-07T04:18:04.683Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWna">가면을 쓰기는 싫은데, 가면이 없으면 외롭다.</a>]]></content>
     </entry>
 </feed>
