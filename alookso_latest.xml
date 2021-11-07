@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-07T08:18:50.389Z</updated>
+    <updated>2021-11-07T09:16:26.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[병신.. 육갑..?]]></title>
+        <id>https://alook.so/posts/o7tWla</id>
+        <link href="https://alook.so/posts/o7tWla"/>
+        <updated>2021-11-07T09:14:59.040Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWla">병신.. 육갑..?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 3행시 지어봤어요.]]></title>
+        <id>https://alook.so/posts/70t8vG</id>
+        <link href="https://alook.so/posts/70t8vG"/>
+        <updated>2021-11-07T09:14:59.040Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t8vG">얼룩소 3행시 지어봤어요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OECD 복지지출 20%, 우리나라 11%! 불평등 줄어들 수가 없죠.]]></title>
+        <id>https://alook.so/posts/YytE5k</id>
+        <link href="https://alook.so/posts/YytE5k"/>
+        <updated>2021-11-07T09:14:59.042Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytE5k">OECD 복지지출 20%, 우리나라 11%! 불평등 줄어들 수가 없죠. </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주 4일제의 꿈]]></title>
         <id>https://alook.so/posts/jdtX35</id>
@@ -18,33 +39,5 @@
         <link href="https://alook.so/posts/ZktnOa"/>
         <updated>2021-11-07T08:17:21.830Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktnOa">ㅎㅎㅎ 2002 월드컵</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당연히 있죠]]></title>
-        <id>https://alook.so/posts/dztmXx</id>
-        <link href="https://alook.so/posts/dztmXx"/>
-        <updated>2021-11-07T08:17:21.831Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztmXx">당연히 있죠</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일희일비 천국과 지옥을 오고간다.]]></title>
-        <id>https://alook.so/posts/potBW4</id>
-        <link href="https://alook.so/posts/potBW4"/>
-        <updated>2021-11-07T08:17:21.832Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potBW4">일희일비 천국과 지옥을 오고간다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그럼에도... 살아있어 주셔서 고맙습니다.]]></title>
-        <id>https://alook.so/posts/eVtpV1</id>
-        <link href="https://alook.so/posts/eVtpV1"/>
-        <updated>2021-11-07T07:13:53.645Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtpV1">그럼에도... 살아있어 주셔서 고맙습니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안정적인 직장을 가졌지만 불안정한 내 마음]]></title>
-        <id>https://alook.so/posts/VntVWD</id>
-        <link href="https://alook.so/posts/VntVWD"/>
-        <updated>2021-11-07T07:13:53.646Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntVWD">안정적인 직장을 가졌지만 불안정한 내 마음</a>]]></content>
     </entry>
 </feed>
