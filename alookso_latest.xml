@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-07T18:18:36.754Z</updated>
+    <updated>2021-11-07T19:13:54.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[어떤 사람과 결혼 해야할까요 ??]]></title>
+        <id>https://alook.so/posts/6MtjVm</id>
+        <link href="https://alook.so/posts/6MtjVm"/>
+        <updated>2021-11-07T19:12:28.982Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtjVm">어떤 사람과 결혼 해야할까요 ??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주택은 공공재가 아니다]]></title>
+        <id>https://alook.so/posts/8Wtlko</id>
+        <link href="https://alook.so/posts/8Wtlko"/>
+        <updated>2021-11-07T19:12:28.983Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtlko">주택은 공공재가 아니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[매달 같은 날에 어김없이 찾아오는 꿀 같은 월급의 소중함]]></title>
         <id>https://alook.so/posts/G1tpno</id>
@@ -25,40 +39,5 @@
         <link href="https://alook.so/posts/latzyB"/>
         <updated>2021-11-07T17:18:44.158Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latzyB">방과 후 강사 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자연이 주는 선물을 계속 받고 싶어요]]></title>
-        <id>https://alook.so/posts/92t9Kz</id>
-        <link href="https://alook.so/posts/92t9Kz"/>
-        <updated>2021-11-07T17:18:44.158Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t9Kz">자연이 주는 선물을 계속 받고 싶어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학교폭력 사이버폭력]]></title>
-        <id>https://alook.so/posts/KmtP2p</id>
-        <link href="https://alook.so/posts/KmtP2p"/>
-        <updated>2021-11-07T17:18:44.158Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtP2p">학교폭력 사이버폭력</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 아이가 심각하게 물었다.]]></title>
-        <id>https://alook.so/posts/mbtwOd</id>
-        <link href="https://alook.so/posts/mbtwOd"/>
-        <updated>2021-11-07T17:18:44.159Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtwOd">내 아이가 심각하게 물었다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불평등을 받아들이되 넘어서자!]]></title>
-        <id>https://alook.so/posts/54tKBY</id>
-        <link href="https://alook.so/posts/54tKBY"/>
-        <updated>2021-11-07T16:20:26.741Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tKBY">불평등을 받아들이되 넘어서자!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언젠가는 걱정하게 되지 않을까..?]]></title>
-        <id>https://alook.so/posts/q1to3K</id>
-        <link href="https://alook.so/posts/q1to3K"/>
-        <updated>2021-11-07T16:20:26.743Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1to3K">언젠가는 걱정하게 되지 않을까..?</a>]]></content>
     </entry>
 </feed>
