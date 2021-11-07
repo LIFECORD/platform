@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-07T02:02:40.450Z</updated>
+    <updated>2021-11-07T02:38:19.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 맞아요! '세 아이 모두의 만족'이 혁신의 지점이겠지요.]]></title>
-        <id>https://alook.so/posts/w9tGK3</id>
-        <link href="https://alook.so/posts/w9tGK3"/>
-        <updated>2021-11-07T02:01:06.023Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tGK3">답글: 맞아요! '세 아이 모두의 만족'이 혁신의 지점이겠지요.</a>]]></content>
+        <title type="html"><![CDATA[얼룩소에 꽂혔다..]]></title>
+        <id>https://alook.so/posts/rDtlJd</id>
+        <link href="https://alook.so/posts/rDtlJd"/>
+        <updated>2021-11-07T02:36:53.599Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtlJd">얼룩소에 꽂혔다.. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박정희 대통령]]></title>
-        <id>https://alook.so/posts/xltBVa</id>
-        <link href="https://alook.so/posts/xltBVa"/>
-        <updated>2021-11-07T02:01:06.025Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBVa">박정희 대통령</a>]]></content>
+        <title type="html"><![CDATA[악명높은 가상의 사고실험 : 트롤리 딜레마 비판]]></title>
+        <id>https://alook.so/posts/bWtoD6</id>
+        <link href="https://alook.so/posts/bWtoD6"/>
+        <updated>2021-11-07T02:36:53.601Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtoD6"> 악명높은 가상의 사고실험 : 트롤리 딜레마 비판</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[해고를 걱정해본 적이 있나요?]]></title>
-        <id>https://alook.so/posts/kZt56G</id>
-        <link href="https://alook.so/posts/kZt56G"/>
-        <updated>2021-11-07T02:01:06.027Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt56G">해고를 걱정해본 적이 있나요?</a>]]></content>
+        <title type="html"><![CDATA[1인이상 사업자 사장님들 주목! 11월부터 임금명세서 의무화!]]></title>
+        <id>https://alook.so/posts/Zktn9K</id>
+        <link href="https://alook.so/posts/Zktn9K"/>
+        <updated>2021-11-07T02:36:53.602Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktn9K">1인이상 사업자 사장님들 주목! 11월부터 임금명세서 의무화!</a>]]></content>
     </entry>
 </feed>

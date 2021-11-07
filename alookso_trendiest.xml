@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-07T02:02:40.450Z</updated>
+    <updated>2021-11-07T02:38:19.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA['무운을 빕니다' 논란의 진짜 문제]]></title>
-        <id>https://alook.so/posts/2xtazY</id>
-        <link href="https://alook.so/posts/2xtazY"/>
-        <updated>2021-11-06T14:13:30.945Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtazY">'무운을 빕니다' 논란의 진짜 문제</a>]]></content>
+        <title type="html"><![CDATA[공정성의 함정 : 얼룩소로 보는 '정의론']]></title>
+        <id>https://alook.so/posts/G1tXLj</id>
+        <link href="https://alook.so/posts/G1tXLj"/>
+        <updated>2021-11-05T21:13:37.354Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tXLj">공정성의 함정 : 얼룩소로 보는 '정의론'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지하철 빌런 만난 SSUL 푼다]]></title>
+        <id>https://alook.so/posts/vKtEMv</id>
+        <link href="https://alook.so/posts/vKtEMv"/>
+        <updated>2021-11-07T02:37:01.727Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtEMv">지하철 빌런 만난 SSUL 푼다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 우리'함께' 살찌워요.]]></title>
@@ -20,25 +27,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0txqL">얼룩소 우리'함께' 살찌워요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[타인을 바라보는 시선의 문제]]></title>
-        <id>https://alook.so/posts/70t5oJ</id>
-        <link href="https://alook.so/posts/70t5oJ"/>
-        <updated>2021-11-06T17:19:50.531Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t5oJ">타인을 바라보는 시선의 문제</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 취준생의 삶으로]]></title>
-        <id>https://alook.so/posts/latREZ</id>
-        <link href="https://alook.so/posts/latREZ"/>
-        <updated>2021-11-06T00:44:58.824Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latREZ">다시 취준생의 삶으로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추억이 담긴건 계속 봐야할까?]]></title>
-        <id>https://alook.so/posts/6MtpkP</id>
-        <link href="https://alook.so/posts/6MtpkP"/>
-        <updated>2021-11-06T23:14:46.969Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtpkP">추억이 담긴건 계속 봐야할까?</a>]]></content>
+        <title type="html"><![CDATA[글을 자꾸 쓰다 보니 출간의뢰가 왔다.txt]]></title>
+        <id>https://alook.so/posts/6MtpoG</id>
+        <link href="https://alook.so/posts/6MtpoG"/>
+        <updated>2021-11-05T15:15:25.856Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtpoG">글을 자꾸 쓰다 보니 출간의뢰가 왔다.txt</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[감히 외쳐봅니다."얼룩소 10주 더 연장해주세요!"]]></title>
@@ -46,13 +39,6 @@
         <link href="https://alook.so/posts/LKtwLp"/>
         <updated>2021-11-05T16:21:35.582Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtwLp">감히 외쳐봅니다."얼룩소 10주 더 연장해주세요!"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공정성의 함정 : 얼룩소로 보는 '정의론']]></title>
-        <id>https://alook.so/posts/G1tXLj</id>
-        <link href="https://alook.so/posts/G1tXLj"/>
-        <updated>2021-11-05T21:13:37.354Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tXLj">공정성의 함정 : 얼룩소로 보는 '정의론'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세번의 자살시도, 죽고싶은 사람을 살린 죗값.]]></title>
@@ -69,13 +55,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtDBV">가끔 외롭다고 느낄 때가 있지 않나요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[같이 오랜 기간 근무한 병사입니다!]]></title>
-        <id>https://alook.so/posts/mbtLR9</id>
-        <link href="https://alook.so/posts/mbtLR9"/>
-        <updated>2021-11-06T01:53:58.053Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtLR9">같이 오랜 기간 근무한 병사입니다!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[저는 얼룩소에 글쓰는 것이 두렵습니다]]></title>
         <id>https://alook.so/posts/Kmt76Y</id>
         <link href="https://alook.so/posts/Kmt76Y"/>
@@ -83,25 +62,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt76Y">저는 얼룩소에 글쓰는 것이 두렵습니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글을 자꾸 쓰다 보니 출간의뢰가 왔다.txt]]></title>
-        <id>https://alook.so/posts/6MtpoG</id>
-        <link href="https://alook.so/posts/6MtpoG"/>
-        <updated>2021-11-05T15:15:25.856Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtpoG">글을 자꾸 쓰다 보니 출간의뢰가 왔다.txt</a>]]></content>
+        <title type="html"><![CDATA[넷플릭스 다큐멘터리]]></title>
+        <id>https://alook.so/posts/bWtmxj</id>
+        <link href="https://alook.so/posts/bWtmxj"/>
+        <updated>2021-11-07T02:37:01.733Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtmxj">넷플릭스 다큐멘터리</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매년 같이 단풍 구경 가요!]]></title>
-        <id>https://alook.so/posts/PvtqyG</id>
-        <link href="https://alook.so/posts/PvtqyG"/>
-        <updated>2021-11-07T02:01:15.356Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtqyG">매년 같이 단풍 구경 가요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주먹으로 그린 인간의 크기란?]]></title>
-        <id>https://alook.so/posts/yEtpX5</id>
-        <link href="https://alook.so/posts/yEtpX5"/>
-        <updated>2021-11-06T01:53:58.064Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtpX5">주먹으로 그린 인간의 크기란?</a>]]></content>
+        <title type="html"><![CDATA[같이 오랜 기간 근무한 병사입니다!]]></title>
+        <id>https://alook.so/posts/mbtLR9</id>
+        <link href="https://alook.so/posts/mbtLR9"/>
+        <updated>2021-11-06T01:53:58.053Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtLR9">같이 오랜 기간 근무한 병사입니다!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[몇시에 일어나세요?]]></title>
@@ -111,6 +83,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtDXY">몇시에 일어나세요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[타인을 바라보는 시선의 문제]]></title>
+        <id>https://alook.so/posts/70t5oJ</id>
+        <link href="https://alook.so/posts/70t5oJ"/>
+        <updated>2021-11-06T17:19:50.531Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t5oJ">타인을 바라보는 시선의 문제</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[성격이 고민이에요... 여러분은 어떤 성격이신가요?]]></title>
         <id>https://alook.so/posts/rDtb4Y</id>
         <link href="https://alook.so/posts/rDtb4Y"/>
@@ -118,10 +97,31 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtb4Y">성격이 고민이에요... 여러분은 어떤 성격이신가요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[다시 취준생의 삶으로]]></title>
+        <id>https://alook.so/posts/latREZ</id>
+        <link href="https://alook.so/posts/latREZ"/>
+        <updated>2021-11-06T00:44:58.824Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latREZ">다시 취준생의 삶으로</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['무운을 빕니다' 논란의 진짜 문제]]></title>
+        <id>https://alook.so/posts/2xtazY</id>
+        <link href="https://alook.so/posts/2xtazY"/>
+        <updated>2021-11-06T14:13:30.945Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtazY">'무운을 빕니다' 논란의 진짜 문제</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[단풍이 지기 전에.]]></title>
         <id>https://alook.so/posts/w9t0kv</id>
         <link href="https://alook.so/posts/w9t0kv"/>
         <updated>2021-11-06T16:21:28.747Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t0kv">단풍이 지기 전에.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주먹으로 그린 인간의 크기란?]]></title>
+        <id>https://alook.so/posts/yEtpX5</id>
+        <link href="https://alook.so/posts/yEtpX5"/>
+        <updated>2021-11-06T01:53:58.064Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtpX5">주먹으로 그린 인간의 크기란?</a>]]></content>
     </entry>
 </feed>
