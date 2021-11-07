@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-07T20:17:56.291Z</updated>
+    <updated>2021-11-07T21:16:08.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나의 정신적 지주, 나의 부스터샷]]></title>
+        <id>https://alook.so/posts/kZt51y</id>
+        <link href="https://alook.so/posts/kZt51y"/>
+        <updated>2021-11-07T21:14:34.049Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt51y">나의 정신적 지주, 나의 부스터샷</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어떤 사람과 결혼 해야할까요 ??]]></title>
         <id>https://alook.so/posts/6MtjVm</id>
@@ -32,12 +39,5 @@
         <link href="https://alook.so/posts/OEtGJL"/>
         <updated>2021-11-07T17:18:44.153Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtGJL">아이언맨 슈트가 가져올 변화와 미래 세계</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방과 후 강사]]></title>
-        <id>https://alook.so/posts/latzyB</id>
-        <link href="https://alook.so/posts/latzyB"/>
-        <updated>2021-11-07T17:18:44.158Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latzyB">방과 후 강사 </a>]]></content>
     </entry>
 </feed>
