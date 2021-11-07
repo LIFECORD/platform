@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-07T07:15:19.884Z</updated>
+    <updated>2021-11-07T08:18:50.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,46 +13,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtb4Y">성격이 고민이에요... 여러분은 어떤 성격이신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[몇시에 일어나세요?]]></title>
-        <id>https://alook.so/posts/RGtDXY</id>
-        <link href="https://alook.so/posts/RGtDXY"/>
-        <updated>2021-11-06T13:19:03.856Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtDXY">몇시에 일어나세요?</a>]]></content>
+        <title type="html"><![CDATA[단풍이 지기 전에.]]></title>
+        <id>https://alook.so/posts/w9t0kv</id>
+        <link href="https://alook.so/posts/w9t0kv"/>
+        <updated>2021-11-06T16:21:28.747Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t0kv">단풍이 지기 전에.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주먹으로 그린 인간의 크기란?]]></title>
-        <id>https://alook.so/posts/yEtpX5</id>
-        <link href="https://alook.so/posts/yEtpX5"/>
-        <updated>2021-11-06T01:53:58.064Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtpX5">주먹으로 그린 인간의 크기란?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막연한 꿈은 목표 달성에 이로울까? (열심히 적었는데 한 번만 봐주세요 ㅜㅜ)]]></title>
-        <id>https://alook.so/posts/dzt4Rb</id>
-        <link href="https://alook.so/posts/dzt4Rb"/>
-        <updated>2021-11-07T06:18:06.295Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt4Rb">막연한 꿈은 목표 달성에 이로울까? (열심히 적었는데 한 번만 봐주세요 ㅜㅜ)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘은 입동, 이제 겨울이네요. (어떤 계절을 좋아하시나요?)]]></title>
-        <id>https://alook.so/posts/a0tx7J</id>
-        <link href="https://alook.so/posts/a0tx7J"/>
-        <updated>2021-11-07T06:18:06.286Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tx7J">오늘은 입동, 이제 겨울이네요. (어떤 계절을 좋아하시나요?)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감히 외쳐봅니다."얼룩소 10주 더 연장해주세요!"]]></title>
-        <id>https://alook.so/posts/LKtwLp</id>
-        <link href="https://alook.so/posts/LKtwLp"/>
-        <updated>2021-11-05T16:21:35.582Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtwLp">감히 외쳐봅니다."얼룩소 10주 더 연장해주세요!"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 얼룩소에 글쓰는 것이 두렵습니다]]></title>
-        <id>https://alook.so/posts/Kmt76Y</id>
-        <link href="https://alook.so/posts/Kmt76Y"/>
-        <updated>2021-11-06T14:13:30.935Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt76Y">저는 얼룩소에 글쓰는 것이 두렵습니다</a>]]></content>
+        <title type="html"><![CDATA[다시 취준생의 삶으로]]></title>
+        <id>https://alook.so/posts/latREZ</id>
+        <link href="https://alook.so/posts/latREZ"/>
+        <updated>2021-11-06T00:44:58.824Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latREZ">다시 취준생의 삶으로</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타인을 바라보는 시선의 문제]]></title>
@@ -62,11 +34,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t5oJ">타인을 바라보는 시선의 문제</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다시 취준생의 삶으로]]></title>
-        <id>https://alook.so/posts/latREZ</id>
-        <link href="https://alook.so/posts/latREZ"/>
-        <updated>2021-11-06T00:44:58.824Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latREZ">다시 취준생의 삶으로</a>]]></content>
+        <title type="html"><![CDATA[주먹으로 그린 인간의 크기란?]]></title>
+        <id>https://alook.so/posts/yEtpX5</id>
+        <link href="https://alook.so/posts/yEtpX5"/>
+        <updated>2021-11-06T01:53:58.064Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtpX5">주먹으로 그린 인간의 크기란?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전 세상에서 태풍이 가장 무섭습니다.]]></title>
@@ -83,18 +55,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtqyG">매년 같이 단풍 구경 가요!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['무운을 빕니다' 논란의 진짜 문제]]></title>
-        <id>https://alook.so/posts/2xtazY</id>
-        <link href="https://alook.so/posts/2xtazY"/>
-        <updated>2021-11-07T06:18:06.285Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtazY">'무운을 빕니다' 논란의 진짜 문제</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단풍이 지기 전에.]]></title>
-        <id>https://alook.so/posts/w9t0kv</id>
-        <link href="https://alook.so/posts/w9t0kv"/>
-        <updated>2021-11-06T16:21:28.747Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t0kv">단풍이 지기 전에.</a>]]></content>
+        <title type="html"><![CDATA["누가 이기나 보자" 40도 고열인 아기에게 약 안 먹인 엄마.]]></title>
+        <id>https://alook.so/posts/latzqo</id>
+        <link href="https://alook.so/posts/latzqo"/>
+        <updated>2021-11-07T08:17:30.141Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latzqo">"누가 이기나 보자" 40도 고열인 아기에게 약 안 먹인 엄마.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노키즈존]]></title>
@@ -111,10 +76,45 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtDBV">가끔 외롭다고 느낄 때가 있지 않나요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세번의 자살시도, 죽고싶은 사람을 살린 죗값.]]></title>
+        <title type="html"><![CDATA[죽고싶은 사람을 살린 죗값.]]></title>
         <id>https://alook.so/posts/J5tbzy</id>
         <link href="https://alook.so/posts/J5tbzy"/>
         <updated>2021-11-06T15:14:57.251Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tbzy">세번의 자살시도, 죽고싶은 사람을 살린 죗값.</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tbzy">죽고싶은 사람을 살린 죗값.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저는 얼룩소에 글쓰는 것이 두렵습니다]]></title>
+        <id>https://alook.so/posts/Kmt76Y</id>
+        <link href="https://alook.so/posts/Kmt76Y"/>
+        <updated>2021-11-06T14:13:30.935Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt76Y">저는 얼룩소에 글쓰는 것이 두렵습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몇시에 일어나세요?]]></title>
+        <id>https://alook.so/posts/RGtDXY</id>
+        <link href="https://alook.so/posts/RGtDXY"/>
+        <updated>2021-11-06T13:19:03.856Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtDXY">몇시에 일어나세요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘은 입동, 이제 겨울이네요. (어떤 계절을 좋아하시나요?)]]></title>
+        <id>https://alook.so/posts/a0tx7J</id>
+        <link href="https://alook.so/posts/a0tx7J"/>
+        <updated>2021-11-07T06:18:06.286Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tx7J">오늘은 입동, 이제 겨울이네요. (어떤 계절을 좋아하시나요?)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신도 욕심 내려놔, 예서 인생하고 당신 인생은 다른 거야.]]></title>
+        <id>https://alook.so/posts/Vntnq7</id>
+        <link href="https://alook.so/posts/Vntnq7"/>
+        <updated>2021-11-07T08:17:30.154Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntnq7">당신도 욕심 내려놔, 예서 인생하고 당신 인생은 다른 거야.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[막연한 꿈은 목표 달성에 이로울까? (열심히 적었는데 한 번만 봐주세요 ㅜㅜ)]]></title>
+        <id>https://alook.so/posts/dzt4Rb</id>
+        <link href="https://alook.so/posts/dzt4Rb"/>
+        <updated>2021-11-07T06:18:06.295Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt4Rb">막연한 꿈은 목표 달성에 이로울까? (열심히 적었는데 한 번만 봐주세요 ㅜㅜ)</a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-07T07:15:19.882Z</updated>
+    <updated>2021-11-07T08:18:50.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[주 4일제의 꿈]]></title>
+        <id>https://alook.so/posts/jdtX35</id>
+        <link href="https://alook.so/posts/jdtX35"/>
+        <updated>2021-11-07T08:17:21.829Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtX35">주 4일제의 꿈 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ㅎㅎㅎ 2002 월드컵]]></title>
+        <id>https://alook.so/posts/ZktnOa</id>
+        <link href="https://alook.so/posts/ZktnOa"/>
+        <updated>2021-11-07T08:17:21.830Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktnOa">ㅎㅎㅎ 2002 월드컵</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당연히 있죠]]></title>
+        <id>https://alook.so/posts/dztmXx</id>
+        <link href="https://alook.so/posts/dztmXx"/>
+        <updated>2021-11-07T08:17:21.831Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztmXx">당연히 있죠</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일희일비 천국과 지옥을 오고간다.]]></title>
+        <id>https://alook.so/posts/potBW4</id>
+        <link href="https://alook.so/posts/potBW4"/>
+        <updated>2021-11-07T08:17:21.832Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potBW4">일희일비 천국과 지옥을 오고간다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그럼에도... 살아있어 주셔서 고맙습니다.]]></title>
         <id>https://alook.so/posts/eVtpV1</id>
@@ -18,26 +46,5 @@
         <link href="https://alook.so/posts/VntVWD"/>
         <updated>2021-11-07T07:13:53.646Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntVWD">안정적인 직장을 가졌지만 불안정한 내 마음</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장인분들 체력 관리 어떻게 하고 계시나요?  ﻿(feat번아웃)]]></title>
-        <id>https://alook.so/posts/WLtjnR</id>
-        <link href="https://alook.so/posts/WLtjnR"/>
-        <updated>2021-11-07T07:13:53.647Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtjnR">﻿  직장인분들 체력 관리 어떻게 하고 계시나요?  ﻿(feat번아웃)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 알바를 그만두려는 생각]]></title>
-        <id>https://alook.so/posts/0ktLnk</id>
-        <link href="https://alook.so/posts/0ktLnk"/>
-        <updated>2021-11-07T07:13:53.649Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktLnk">첫 알바를 그만두려는 생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩커들의 엄마 자랑 듣고 싶어요! 좋은 엄마가 되려면 꼭 필요한 것이 있을까요?]]></title>
-        <id>https://alook.so/posts/XBteBx</id>
-        <link href="https://alook.so/posts/XBteBx"/>
-        <updated>2021-11-07T07:13:53.650Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBteBx">얼룩커들의 엄마 자랑 듣고 싶어요! 좋은 엄마가 되려면 꼭 필요한 것이 있을까요?</a>]]></content>
     </entry>
 </feed>
