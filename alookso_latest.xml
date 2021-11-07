@@ -2,63 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-07T10:16:53.120Z</updated>
+    <updated>2021-11-07T11:13:34.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[기후위기, 우리가 막을 수 있을까요?]]></title>
-        <id>https://alook.so/posts/70t8vB</id>
-        <link href="https://alook.so/posts/70t8vB"/>
-        <updated>2021-11-07T10:15:23.881Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t8vB">기후위기, 우리가 막을 수 있을까요?</a>]]></content>
+        <title type="html"><![CDATA[타이어와 같은 쓰레기가 생태계에 끼치는 영향은?]]></title>
+        <id>https://alook.so/posts/3wtyd0</id>
+        <link href="https://alook.so/posts/3wtyd0"/>
+        <updated>2021-11-07T11:12:04.791Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtyd0">타이어와 같은 쓰레기가 생태계에 끼치는 영향은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불평등은 왜 확대될까요? : 초기 조건과 마태효과]]></title>
-        <id>https://alook.so/posts/YytE5y</id>
-        <link href="https://alook.so/posts/YytE5y"/>
-        <updated>2021-11-07T10:15:23.881Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytE5y">불평등은 왜 확대될까요? : 초기 조건과 마태효과</a>]]></content>
+        <title type="html"><![CDATA['오늘무해'가 모여 '내일무해'가 되도록 노력해야죠]]></title>
+        <id>https://alook.so/posts/8Wtlo9</id>
+        <link href="https://alook.so/posts/8Wtlo9"/>
+        <updated>2021-11-07T11:12:04.792Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtlo9">'오늘무해'가 모여 '내일무해'가 되도록 노력해야죠</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소에 모인 많은 이야기들, 어떻게 활용하면 좋을까요?]]></title>
-        <id>https://alook.so/posts/E7tWa8</id>
-        <link href="https://alook.so/posts/E7tWa8"/>
-        <updated>2021-11-07T10:15:23.881Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tWa8">얼룩소에 모인 많은 이야기들, 어떻게 활용하면 좋을까요?</a>]]></content>
+        <title type="html"><![CDATA[이게 행복인것같다 (10대여중생 오늘의 tmi)반말로쓸께요]]></title>
+        <id>https://alook.so/posts/G1tpwL</id>
+        <link href="https://alook.so/posts/G1tpwL"/>
+        <updated>2021-11-07T11:12:04.793Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tpwL">이게 행복인것같다 (10대여중생 오늘의 tmi)반말로쓸께요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 때문에 해고를 당한 후에..]]></title>
-        <id>https://alook.so/posts/latzOo</id>
-        <link href="https://alook.so/posts/latzOo"/>
-        <updated>2021-11-07T10:15:23.883Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latzOo">코로나 때문에 해고를 당한 후에..</a>]]></content>
+        <title type="html"><![CDATA[나도 이번생애 팀장은 처음이라...]]></title>
+        <id>https://alook.so/posts/vKtb6M</id>
+        <link href="https://alook.so/posts/vKtb6M"/>
+        <updated>2021-11-07T11:12:04.793Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtb6M">나도 이번생애 팀장은 처음이라...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소설을 읽던 중 마음에 들었던 문구]]></title>
-        <id>https://alook.so/posts/92t95W</id>
-        <link href="https://alook.so/posts/92t95W"/>
-        <updated>2021-11-07T10:15:23.884Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t95W">소설을 읽던 중 마음에 들었던 문구</a>]]></content>
+        <title type="html"><![CDATA[일자리]]></title>
+        <id>https://alook.so/posts/E7tWaK</id>
+        <link href="https://alook.so/posts/E7tWaK"/>
+        <updated>2021-11-07T11:12:04.794Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tWaK">일자리</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[같은 성별끼리 결혼 찬성합니다.]]></title>
-        <id>https://alook.so/posts/KmtPBe</id>
-        <link href="https://alook.so/posts/KmtPBe"/>
-        <updated>2021-11-07T10:15:23.885Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtPBe">같은 성별끼리 결혼 찬성합니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투자를 시작하고 행복 해지려고 합니다.]]></title>
-        <id>https://alook.so/posts/54tKw9</id>
-        <link href="https://alook.so/posts/54tKw9"/>
-        <updated>2021-11-07T10:15:23.886Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tKw9">투자를 시작하고 행복 해지려고 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후위기, 두기가 막을수 있을까요?]]></title>
-        <id>https://alook.so/posts/q1topE</id>
-        <link href="https://alook.so/posts/q1topE"/>
-        <updated>2021-11-07T10:15:23.887Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1topE">기후위기, 두기가 막을수 있을까요?</a>]]></content>
+        <title type="html"><![CDATA[아이들을 좋아하는 선생님입니다.]]></title>
+        <id>https://alook.so/posts/KmtPBj</id>
+        <link href="https://alook.so/posts/KmtPBj"/>
+        <updated>2021-11-07T11:12:04.796Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtPBj">아이들을 좋아하는 선생님입니다.</a>]]></content>
     </entry>
 </feed>
