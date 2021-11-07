@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-07T22:16:02.056Z</updated>
+    <updated>2021-11-07T23:16:49.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[풍경 나눠드려요]]></title>
+        <title type="html"><![CDATA[우울증에 걸려 있는 엄마가 부담스러울까요?]]></title>
+        <id>https://alook.so/posts/w9tGxa</id>
+        <link href="https://alook.so/posts/w9tGxa"/>
+        <updated>2021-11-07T23:15:21.394Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tGxa">우울증에 걸려 있는 엄마가 부담스러울까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[풍경 나눠드릴게요]]></title>
         <id>https://alook.so/posts/RGtPV0</id>
         <link href="https://alook.so/posts/RGtPV0"/>
         <updated>2021-11-07T22:14:25.042Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtPV0">풍경 나눠드려요</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtPV0">풍경 나눠드릴게요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나의 정신적 지주, 나의 부스터샷]]></title>
@@ -18,19 +25,5 @@
         <link href="https://alook.so/posts/kZt51y"/>
         <updated>2021-11-07T21:14:34.049Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt51y">나의 정신적 지주, 나의 부스터샷</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤 사람과 결혼 해야할까요 ??]]></title>
-        <id>https://alook.so/posts/6MtjVm</id>
-        <link href="https://alook.so/posts/6MtjVm"/>
-        <updated>2021-11-07T19:12:28.982Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtjVm">어떤 사람과 결혼 해야할까요 ??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주택은 공공재가 아니다]]></title>
-        <id>https://alook.so/posts/8Wtlko</id>
-        <link href="https://alook.so/posts/8Wtlko"/>
-        <updated>2021-11-07T19:12:28.983Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtlko">주택은 공공재가 아니다</a>]]></content>
     </entry>
 </feed>
