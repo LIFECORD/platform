@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-07T16:22:01.230Z</updated>
+    <updated>2021-11-07T17:20:17.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[매달 같은 날에 어김없이 찾아오는 꿀 같은 월급의 소중함]]></title>
+        <id>https://alook.so/posts/G1tpno</id>
+        <link href="https://alook.so/posts/G1tpno"/>
+        <updated>2021-11-07T17:18:44.150Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tpno">매달 같은 날에 어김없이 찾아오는 꿀 같은 월급의 소중함</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이언맨 슈트가 가져올 변화와 미래 세계]]></title>
+        <id>https://alook.so/posts/OEtGJL</id>
+        <link href="https://alook.so/posts/OEtGJL"/>
+        <updated>2021-11-07T17:18:44.153Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtGJL">아이언맨 슈트가 가져올 변화와 미래 세계</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방과 후 강사]]></title>
+        <id>https://alook.so/posts/latzyB</id>
+        <link href="https://alook.so/posts/latzyB"/>
+        <updated>2021-11-07T17:18:44.158Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latzyB">방과 후 강사 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자연이 주는 선물을 계속 받고 싶어요]]></title>
+        <id>https://alook.so/posts/92t9Kz</id>
+        <link href="https://alook.so/posts/92t9Kz"/>
+        <updated>2021-11-07T17:18:44.158Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t9Kz">자연이 주는 선물을 계속 받고 싶어요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[학교폭력 사이버폭력]]></title>
+        <id>https://alook.so/posts/KmtP2p</id>
+        <link href="https://alook.so/posts/KmtP2p"/>
+        <updated>2021-11-07T17:18:44.158Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtP2p">학교폭력 사이버폭력</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 아이가 심각하게 물었다.]]></title>
+        <id>https://alook.so/posts/mbtwOd</id>
+        <link href="https://alook.so/posts/mbtwOd"/>
+        <updated>2021-11-07T17:18:44.159Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtwOd">내 아이가 심각하게 물었다. </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불평등을 받아들이되 넘어서자!]]></title>
         <id>https://alook.so/posts/54tKBY</id>
@@ -18,26 +60,5 @@
         <link href="https://alook.so/posts/q1to3K"/>
         <updated>2021-11-07T16:20:26.743Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1to3K">언젠가는 걱정하게 되지 않을까..?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명, 심상정 후보님! 주택은 공공재가 아닙니다.]]></title>
-        <id>https://alook.so/posts/70t81j</id>
-        <link href="https://alook.so/posts/70t81j"/>
-        <updated>2021-11-07T16:20:26.744Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t81j">이재명, 심상정 후보님! 주택은 공공재가 아닙니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래에는 채식 대세가 될까요?]]></title>
-        <id>https://alook.so/posts/rDtl5q</id>
-        <link href="https://alook.so/posts/rDtl5q"/>
-        <updated>2021-11-07T16:20:26.745Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtl5q">미래에는 채식 대세가 될까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그러니까, 장단점 말고 특성 - 장단점에 고민하지 않는 관점 전환]]></title>
-        <id>https://alook.so/posts/ZktnYx</id>
-        <link href="https://alook.so/posts/ZktnYx"/>
-        <updated>2021-11-07T16:20:26.746Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktnYx">그러니까, 장단점 말고 특성 - 장단점에 고민하지 않는 관점 전환</a>]]></content>
     </entry>
 </feed>
