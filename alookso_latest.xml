@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-08T22:16:03.339Z</updated>
+    <updated>2021-11-08T23:16:20.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[얼룩소프로젝트 어떻게 알고 오셨나요?]]></title>
+        <id>https://alook.so/posts/o7tWEz</id>
+        <link href="https://alook.so/posts/o7tWEz"/>
+        <updated>2021-11-08T23:14:48.045Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWEz">얼룩소프로젝트 어떻게 알고 오셨나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나도 이상한 밤]]></title>
+        <id>https://alook.so/posts/YytELd</id>
+        <link href="https://alook.so/posts/YytELd"/>
+        <updated>2021-11-08T23:14:48.046Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytELd">나도 이상한 밤</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만나봐~(연애 이야기)]]></title>
+        <id>https://alook.so/posts/rDtl0B</id>
+        <link href="https://alook.so/posts/rDtl0B"/>
+        <updated>2021-11-08T23:14:48.047Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtl0B">만나봐~(연애 이야기)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘 하루도 무사히 지나갑니다.]]></title>
         <id>https://alook.so/posts/bWtoEx</id>
@@ -18,19 +39,5 @@
         <link href="https://alook.so/posts/dztmlj"/>
         <updated>2021-11-08T20:15:59.869Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztmlj">주4일제,내 꿈과희망. 하지만 내 업무량은 최소2배</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상한 밤]]></title>
-        <id>https://alook.so/posts/eVtpE3</id>
-        <link href="https://alook.so/posts/eVtpE3"/>
-        <updated>2021-11-08T19:12:12.720Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtpE3">이상한 밤</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 읽고 있는 ‘언어의 온도’]]></title>
-        <id>https://alook.so/posts/VntVa1</id>
-        <link href="https://alook.so/posts/VntVa1"/>
-        <updated>2021-11-08T18:17:52.260Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntVa1">요즘 읽고 있는 ‘언어의 온도’</a>]]></content>
     </entry>
 </feed>
