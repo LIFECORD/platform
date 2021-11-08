@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-11-08T04:20:15.087Z</updated>
+    <updated>2021-11-08T05:15:25.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[계급이 돌아왔다 - 이대남 현상이라는 착시]]></title>
+        <id>https://alook.so/posts/XBteeJ</id>
+        <link href="https://alook.so/posts/XBteeJ"/>
+        <updated>2021-11-08T05:14:09.141Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBteeJ">계급이 돌아왔다 - 이대남 현상이라는 착시</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 징계 판결, 언론은 어떻게 보도했나]]></title>
         <id>https://alook.so/posts/o7taZB</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/njtw0e"/>
         <updated>2021-10-27T03:18:45.822Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtw0e">각 분야 얼룩커의 다른 글도 궁금하다면?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난 에디터 픽을 놓쳤다면?]]></title>
-        <id>https://alook.so/posts/lat1qp</id>
-        <link href="https://alook.so/posts/lat1qp"/>
-        <updated>2021-10-27T03:18:45.823Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat1qp">지난 에디터 픽을 놓쳤다면?</a>]]></content>
     </entry>
 </feed>
