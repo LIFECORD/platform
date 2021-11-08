@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-08T17:23:53.311Z</updated>
+    <updated>2021-11-08T18:19:24.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[고3이라서 더욱 많은 것 같아요]]></title>
+        <title type="html"><![CDATA[요즘 읽고 있는 ‘언어의 온도’]]></title>
+        <id>https://alook.so/posts/VntVa1</id>
+        <link href="https://alook.so/posts/VntVa1"/>
+        <updated>2021-11-08T18:17:52.260Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntVa1">요즘 읽고 있는 ‘언어의 온도’</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 질문]]></title>
+        <id>https://alook.so/posts/zvtjqr</id>
+        <link href="https://alook.so/posts/zvtjqr"/>
+        <updated>2021-11-08T18:17:52.262Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtjqr">새로운 질문</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고3이라서 더욱 고민이 많은 것 같아요]]></title>
         <id>https://alook.so/posts/2xt798</id>
         <link href="https://alook.so/posts/2xt798"/>
         <updated>2021-11-08T17:22:23.049Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt798">고3이라서 더욱 많은 것 같아요</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt798">고3이라서 더욱 고민이 많은 것 같아요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국 1400조 경기부양책]]></title>
@@ -39,19 +53,5 @@
         <link href="https://alook.so/posts/XBtebz"/>
         <updated>2021-11-08T17:22:23.053Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtebz">국방비는 감축할 수 없습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작은 의문 하나. 정말 착시 현상인 게 맞을까요?]]></title>
-        <id>https://alook.so/posts/xltB1E</id>
-        <link href="https://alook.so/posts/xltB1E"/>
-        <updated>2021-11-08T17:22:23.054Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltB1E">작은 의문 하나. 정말 착시 현상인 게 맞을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔직한 질문은 언젠가 진실한 답을 얻는다!]]></title>
-        <id>https://alook.so/posts/kZt5m0</id>
-        <link href="https://alook.so/posts/kZt5m0"/>
-        <updated>2021-11-08T17:22:23.056Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt5m0">솔직한 질문은 언젠가 진실한 답을 얻는다!</a>]]></content>
     </entry>
 </feed>
