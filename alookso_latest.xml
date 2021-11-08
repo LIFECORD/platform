@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-08T02:31:14.148Z</updated>
+    <updated>2021-11-08T03:17:05.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[단순한 대상화에서 벗어나는 일]]></title>
-        <id>https://alook.so/posts/njtKek</id>
-        <link href="https://alook.so/posts/njtKek"/>
-        <updated>2021-11-08T02:29:45.794Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtKek">단순한 대상화에서 벗어나는 일</a>]]></content>
+        <title type="html"><![CDATA[무기력, 우울증 미만]]></title>
+        <id>https://alook.so/posts/J5tJb6</id>
+        <link href="https://alook.so/posts/J5tJb6"/>
+        <updated>2021-11-08T03:15:32.484Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tJb6">무기력, 우울증 미만 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 가스는 불쏘시개를 만나 폭발합니다. 영웅과 커뮤니티도 같은 관계 아닐까요]]></title>
-        <id>https://alook.so/posts/8Wtlnj</id>
-        <link href="https://alook.so/posts/8Wtlnj"/>
-        <updated>2021-11-08T02:29:45.799Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtlnj">답글: 가스는 불쏘시개를 만나 폭발합니다. 영웅과 커뮤니티도 같은 관계 아닐까요</a>]]></content>
+        <title type="html"><![CDATA[채식뷔페 다녀온 소고]]></title>
+        <id>https://alook.so/posts/PvtxqD</id>
+        <link href="https://alook.so/posts/PvtxqD"/>
+        <updated>2021-11-08T03:15:32.486Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtxqD">채식뷔페 다녀온 소고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인상 깊게 들은 노래가 있으신가요?]]></title>
-        <id>https://alook.so/posts/E7tWGm</id>
-        <link href="https://alook.so/posts/E7tWGm"/>
-        <updated>2021-11-08T02:29:45.799Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tWGm">인상 깊게 들은 노래가 있으신가요?</a>]]></content>
+        <title type="html"><![CDATA[키오스크 증설에 대한 문제점]]></title>
+        <id>https://alook.so/posts/2xt7a6</id>
+        <link href="https://alook.so/posts/2xt7a6"/>
+        <updated>2021-11-08T03:15:32.487Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt7a6">키오스크 증설에 대한 문제점</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[예쁜 풍경 보실래요?]]></title>
-        <id>https://alook.so/posts/latzRG</id>
-        <link href="https://alook.so/posts/latzRG"/>
-        <updated>2021-11-08T01:56:57.196Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latzRG">예쁜 풍경 보실래요?</a>]]></content>
+        <title type="html"><![CDATA[흉악범은 사형집행보다 사는게 지옥이게 만들어줘야 합니다.]]></title>
+        <id>https://alook.so/posts/WLtjab</id>
+        <link href="https://alook.so/posts/WLtjab"/>
+        <updated>2021-11-08T03:15:32.489Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtjab">흉악범은 사형집행보다 사는게 지옥이게 만들어줘야 합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모든것인 대가가 있다]]></title>
+        <id>https://alook.so/posts/0ktLZo</id>
+        <link href="https://alook.so/posts/0ktLZo"/>
+        <updated>2021-11-08T03:15:32.490Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktLZo">모든것인 대가가 있다</a>]]></content>
     </entry>
 </feed>
