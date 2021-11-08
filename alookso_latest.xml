@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-07T23:16:49.770Z</updated>
+    <updated>2021-11-08T00:47:24.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[우울증에 걸려 있는 엄마가 부담스러울까요?]]></title>
-        <id>https://alook.so/posts/w9tGxa</id>
-        <link href="https://alook.so/posts/w9tGxa"/>
-        <updated>2021-11-07T23:15:21.394Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tGxa">우울증에 걸려 있는 엄마가 부담스러울까요?</a>]]></content>
+        <title type="html"><![CDATA[난 부모한테 어떤 딸일까?]]></title>
+        <id>https://alook.so/posts/rDtlrq</id>
+        <link href="https://alook.so/posts/rDtlrq"/>
+        <updated>2021-11-08T00:45:47.543Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtlrq">난 부모한테 어떤 딸일까? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[풍경 나눠드릴게요]]></title>
-        <id>https://alook.so/posts/RGtPV0</id>
-        <link href="https://alook.so/posts/RGtPV0"/>
-        <updated>2021-11-07T22:14:25.042Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtPV0">풍경 나눠드릴게요</a>]]></content>
+        <title type="html"><![CDATA[2021년 11월 8일 오늘의 경제 & 사설]]></title>
+        <id>https://alook.so/posts/jdtXwB</id>
+        <link href="https://alook.so/posts/jdtXwB"/>
+        <updated>2021-11-08T00:45:47.547Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtXwB">2021년 11월 8일 오늘의 경제 &amp; 사설</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나의 정신적 지주, 나의 부스터샷]]></title>
-        <id>https://alook.so/posts/kZt51y</id>
-        <link href="https://alook.so/posts/kZt51y"/>
-        <updated>2021-11-07T21:14:34.049Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt51y">나의 정신적 지주, 나의 부스터샷</a>]]></content>
+        <title type="html"><![CDATA[막연한 꿈이 인생을 행복하게 만드는 것 같아요.]]></title>
+        <id>https://alook.so/posts/J5tJMB</id>
+        <link href="https://alook.so/posts/J5tJMB"/>
+        <updated>2021-11-08T00:45:47.547Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tJMB">막연한 꿈이 인생을 행복하게 만드는 것 같아요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직장인이라면 누구나 꿈꿀 것이다.]]></title>
+        <id>https://alook.so/posts/Pvtxob</id>
+        <link href="https://alook.so/posts/Pvtxob"/>
+        <updated>2021-11-08T00:45:47.547Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtxob">직장인이라면 누구나 꿈꿀 것이다.</a>]]></content>
     </entry>
 </feed>
