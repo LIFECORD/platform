@@ -2,36 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-08T05:15:25.651Z</updated>
+    <updated>2021-11-08T06:19:53.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가난한 사람의 정치참여를 차별하는 정치후원금 세액공제]]></title>
+        <id>https://alook.so/posts/xltBy4</id>
+        <link href="https://alook.so/posts/xltBy4"/>
+        <updated>2021-11-07T14:12:56.435Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBy4">가난한 사람의 정치참여를 차별하는 정치후원금 세액공제</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["누가 이기나 보자" 40도 고열인 아기에게 약 안 먹인 엄마.]]></title>
         <id>https://alook.so/posts/latzqo</id>
         <link href="https://alook.so/posts/latzqo"/>
         <updated>2021-11-07T08:17:30.141Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latzqo">"누가 이기나 보자" 40도 고열인 아기에게 약 안 먹인 엄마.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 서울의 가을을 나눠드립니다. :)]]></title>
-        <id>https://alook.so/posts/1RtBw0</id>
-        <link href="https://alook.so/posts/1RtBw0"/>
-        <updated>2021-11-07T09:15:07.534Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtBw0">2021년 서울의 가을을 나눠드립니다. :)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악명높은 가상의 사고실험 : 트롤리 딜레마 비판]]></title>
-        <id>https://alook.so/posts/bWtoD6</id>
-        <link href="https://alook.so/posts/bWtoD6"/>
-        <updated>2021-11-07T21:14:42.987Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtoD6"> 악명높은 가상의 사고실험 : 트롤리 딜레마 비판</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜'가 된 '가짜' : 오사카 성 천수각 이야기]]></title>
-        <id>https://alook.so/posts/LKtMyd</id>
-        <link href="https://alook.so/posts/LKtMyd"/>
-        <updated>2021-11-08T00:45:56.470Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtMyd">'진짜'가 된 '가짜' : 오사카 성 천수각 이야기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[키오스크 증설에 대한 문제점]]></title>
@@ -41,25 +27,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt7a6">키오스크 증설에 대한 문제점</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명, 심상정 후보님! 주택은 공공재가 아닙니다.]]></title>
-        <id>https://alook.so/posts/70t81j</id>
-        <link href="https://alook.so/posts/70t81j"/>
-        <updated>2021-11-08T01:57:05.619Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t81j">이재명, 심상정 후보님! 주택은 공공재가 아닙니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘은 입동, 이제 겨울이네요. (어떤 계절을 좋아하시나요?)]]></title>
-        <id>https://alook.so/posts/a0tx7J</id>
-        <link href="https://alook.so/posts/a0tx7J"/>
-        <updated>2021-11-07T06:18:06.286Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tx7J">오늘은 입동, 이제 겨울이네요. (어떤 계절을 좋아하시나요?)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가난한 사람의 정치참여를 차별하는 정치후원금 세액공제]]></title>
-        <id>https://alook.so/posts/xltBy4</id>
-        <link href="https://alook.so/posts/xltBy4"/>
-        <updated>2021-11-07T14:12:56.435Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBy4">가난한 사람의 정치참여를 차별하는 정치후원금 세액공제</a>]]></content>
+        <title type="html"><![CDATA[막연한 꿈은 목표 달성에 이로울까? (열심히 적었는데 한 번만 봐주세요 ㅜㅜ)]]></title>
+        <id>https://alook.so/posts/dzt4Rb</id>
+        <link href="https://alook.so/posts/dzt4Rb"/>
+        <updated>2021-11-07T06:18:06.295Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt4Rb">막연한 꿈은 목표 달성에 이로울까? (열심히 적었는데 한 번만 봐주세요 ㅜㅜ)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저는 얼룩소에 글쓰는 것이 두렵습니다]]></title>
@@ -69,11 +41,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt76Y">저는 얼룩소에 글쓰는 것이 두렵습니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[값진 선물]]></title>
-        <id>https://alook.so/posts/3wtyby</id>
-        <link href="https://alook.so/posts/3wtyby"/>
-        <updated>2021-11-07T09:15:07.544Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtyby">값진 선물</a>]]></content>
+        <title type="html"><![CDATA[어제 인종차별을 당했습니다.]]></title>
+        <id>https://alook.so/posts/M9tG0b</id>
+        <link href="https://alook.so/posts/M9tG0b"/>
+        <updated>2021-11-08T01:57:05.635Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tG0b">어제 인종차별을 당했습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘은 입동, 이제 겨울이네요. (어떤 계절을 좋아하시나요?)]]></title>
+        <id>https://alook.so/posts/a0tx7J</id>
+        <link href="https://alook.so/posts/a0tx7J"/>
+        <updated>2021-11-07T06:18:06.286Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tx7J">오늘은 입동, 이제 겨울이네요. (어떤 계절을 좋아하시나요?)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메타버스를 만드는 노가다꾼들]]></title>
@@ -83,6 +62,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt75j">메타버스를 만드는 노가다꾼들</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[불평등은 왜 확대될까요? : 초기 조건과 마태효과]]></title>
+        <id>https://alook.so/posts/YytE5y</id>
+        <link href="https://alook.so/posts/YytE5y"/>
+        <updated>2021-11-07T23:15:29.429Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytE5y">불평등은 왜 확대될까요? : 초기 조건과 마태효과</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[얼룩소에 제안합니다. (감염병 및 백신 관련 게시물)]]></title>
         <id>https://alook.so/posts/Pvtq9P</id>
         <link href="https://alook.so/posts/Pvtq9P"/>
@@ -90,25 +76,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtq9P">얼룩소에 제안합니다. (감염병 및 백신 관련 게시물)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[막연한 꿈은 목표 달성에 이로울까? (열심히 적었는데 한 번만 봐주세요 ㅜㅜ)]]></title>
-        <id>https://alook.so/posts/dzt4Rb</id>
-        <link href="https://alook.so/posts/dzt4Rb"/>
-        <updated>2021-11-07T06:18:06.295Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt4Rb">막연한 꿈은 목표 달성에 이로울까? (열심히 적었는데 한 번만 봐주세요 ㅜㅜ)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OECD 복지지출 20%, 우리나라 11%! 불평등 줄어들 수가 없죠.]]></title>
-        <id>https://alook.so/posts/YytE5k</id>
-        <link href="https://alook.so/posts/YytE5k"/>
-        <updated>2021-11-08T04:18:51.575Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytE5k">OECD 복지지출 20%, 우리나라 11%! 불평등 줄어들 수가 없죠. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불평등은 왜 확대될까요? : 초기 조건과 마태효과]]></title>
-        <id>https://alook.so/posts/YytE5y</id>
-        <link href="https://alook.so/posts/YytE5y"/>
-        <updated>2021-11-07T23:15:29.429Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytE5y">불평등은 왜 확대될까요? : 초기 조건과 마태효과</a>]]></content>
+        <title type="html"><![CDATA[2021년 서울의 가을을 나눠드립니다. :)]]></title>
+        <id>https://alook.so/posts/1RtBw0</id>
+        <link href="https://alook.so/posts/1RtBw0"/>
+        <updated>2021-11-07T09:15:07.534Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtBw0">2021년 서울의 가을을 나눠드립니다. :)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕에는 노키즈존이 없습니다]]></title>
@@ -118,6 +90,27 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtpOK">뉴욕에는 노키즈존이 없습니다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[악명높은 가상의 사고실험 : 트롤리 딜레마 비판]]></title>
+        <id>https://alook.so/posts/bWtoD6</id>
+        <link href="https://alook.so/posts/bWtoD6"/>
+        <updated>2021-11-07T21:14:42.987Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtoD6"> 악명높은 가상의 사고실험 : 트롤리 딜레마 비판</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OECD 복지지출 20%, 우리나라 11%! 불평등 줄어들 수가 없죠.]]></title>
+        <id>https://alook.so/posts/YytE5k</id>
+        <link href="https://alook.so/posts/YytE5k"/>
+        <updated>2021-11-08T04:18:51.575Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytE5k">OECD 복지지출 20%, 우리나라 11%! 불평등 줄어들 수가 없죠. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[값진 선물]]></title>
+        <id>https://alook.so/posts/3wtyby</id>
+        <link href="https://alook.so/posts/3wtyby"/>
+        <updated>2021-11-07T09:15:07.544Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtyby">값진 선물</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[얼룩소의 두 가지 장치가 우리를 대화하게 만들어준다.]]></title>
         <id>https://alook.so/posts/XBteMd</id>
         <link href="https://alook.so/posts/XBteMd"/>
@@ -125,10 +118,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBteMd">얼룩소의 두 가지 장치가 우리를 대화하게 만들어준다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어제 인종차별을 당했습니다.]]></title>
-        <id>https://alook.so/posts/M9tG0b</id>
-        <link href="https://alook.so/posts/M9tG0b"/>
-        <updated>2021-11-08T01:57:05.635Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tG0b">어제 인종차별을 당했습니다.</a>]]></content>
+        <title type="html"><![CDATA['진짜'가 된 '가짜' : 오사카 성 천수각 이야기]]></title>
+        <id>https://alook.so/posts/LKtMyd</id>
+        <link href="https://alook.so/posts/LKtMyd"/>
+        <updated>2021-11-08T00:45:56.470Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtMyd">'진짜'가 된 '가짜' : 오사카 성 천수각 이야기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명, 심상정 후보님! 주택은 공공재가 아닙니다.]]></title>
+        <id>https://alook.so/posts/70t81j</id>
+        <link href="https://alook.so/posts/70t81j"/>
+        <updated>2021-11-08T01:57:05.619Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t81j">이재명, 심상정 후보님! 주택은 공공재가 아닙니다. </a>]]></content>
     </entry>
 </feed>
