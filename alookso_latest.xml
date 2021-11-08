@@ -2,28 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-08T10:17:43.858Z</updated>
+    <updated>2021-11-08T11:14:00.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 아이 에게 아무일이없어야 할텐데요]]></title>
-        <id>https://alook.so/posts/kZt5rO</id>
-        <link href="https://alook.so/posts/kZt5rO"/>
-        <updated>2021-11-08T10:16:14.593Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt5rO">답글: 아이 에게 아무일이없어야 할텐데요</a>]]></content>
+        <title type="html"><![CDATA[정말 몰랐을까.]]></title>
+        <id>https://alook.so/posts/jdtXrJ</id>
+        <link href="https://alook.so/posts/jdtXrJ"/>
+        <updated>2021-11-08T11:12:24.510Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtXrJ">정말 몰랐을까. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재난지원금추가지급..진짜 가능할까요?]]></title>
-        <id>https://alook.so/posts/LKtMz7</id>
-        <link href="https://alook.so/posts/LKtMz7"/>
-        <updated>2021-11-08T10:16:14.596Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtMz7">재난지원금추가지급..진짜 가능할까요?</a>]]></content>
+        <title type="html"><![CDATA[공교육만 시켜도 충분할까요?]]></title>
+        <id>https://alook.so/posts/bWtoXq</id>
+        <link href="https://alook.so/posts/bWtoXq"/>
+        <updated>2021-11-08T11:12:24.511Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtoXq">공교육만 시켜도 충분할까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가계대출과 거시경제 안정 문제: 간단한 가설 하나]]></title>
-        <id>https://alook.so/posts/njtKy0</id>
-        <link href="https://alook.so/posts/njtKy0"/>
-        <updated>2021-11-08T10:16:14.598Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtKy0">가계대출과 거시경제 안정 문제: 간단한 가설 하나</a>]]></content>
+        <title type="html"><![CDATA[코로나 이후 TV 속 간호사 모습은 달라질 수 있을까?]]></title>
+        <id>https://alook.so/posts/a0tKzW</id>
+        <link href="https://alook.so/posts/a0tKzW"/>
+        <updated>2021-11-08T11:12:24.514Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tKzW">코로나 이후 TV 속 간호사 모습은 달라질 수 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후위기와 관련한 우리나라 정책의 현주소]]></title>
+        <id>https://alook.so/posts/dztmGW</id>
+        <link href="https://alook.so/posts/dztmGW"/>
+        <updated>2021-11-08T11:12:24.514Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztmGW">기후위기와 관련한 우리나라 정책의 현주소</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국민에게 재난지원금?]]></title>
+        <id>https://alook.so/posts/eVtpy0</id>
+        <link href="https://alook.so/posts/eVtpy0"/>
+        <updated>2021-11-08T11:12:24.515Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtpy0">전국민에게 재난지원금?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[처음으로 얼룩커 픽으로 선정되었습니다.]]></title>
+        <id>https://alook.so/posts/VntVRa</id>
+        <link href="https://alook.so/posts/VntVRa"/>
+        <updated>2021-11-08T11:12:24.567Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntVRa">처음으로 얼룩커 픽으로 선정되었습니다.</a>]]></content>
     </entry>
 </feed>
