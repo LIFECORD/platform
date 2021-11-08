@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-08T21:15:50.246Z</updated>
+    <updated>2021-11-08T22:16:03.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -32,12 +32,5 @@
         <link href="https://alook.so/posts/VntVa1"/>
         <updated>2021-11-08T18:17:52.260Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntVa1">요즘 읽고 있는 ‘언어의 온도’</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 질문]]></title>
-        <id>https://alook.so/posts/zvtjqr</id>
-        <link href="https://alook.so/posts/zvtjqr"/>
-        <updated>2021-11-08T18:17:52.262Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtjqr">새로운 질문</a>]]></content>
     </entry>
 </feed>
