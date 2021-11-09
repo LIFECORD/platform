@@ -2,56 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-09T11:13:35.846Z</updated>
+    <updated>2021-11-09T12:24:28.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[대학 졸업장이 왜 중요하지..]]></title>
-        <id>https://alook.so/posts/KmtPy4</id>
-        <link href="https://alook.so/posts/KmtPy4"/>
-        <updated>2021-11-09T11:12:05.947Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtPy4">대학 졸업장이 왜 중요하지..</a>]]></content>
+        <title type="html"><![CDATA[얼룩소 안에서 배회하기]]></title>
+        <id>https://alook.so/posts/VntVPM</id>
+        <link href="https://alook.so/posts/VntVPM"/>
+        <updated>2021-11-09T12:22:58.536Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntVPM">얼룩소 안에서 배회하기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미디어, 매체안의 표현의자유? 노출? 어디까지 괜찮을까요? 제가 보수적인걸까요?]]></title>
-        <id>https://alook.so/posts/54tKGy</id>
-        <link href="https://alook.so/posts/54tKGy"/>
-        <updated>2021-11-09T11:12:05.948Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tKGy">미디어, 매체안의 표현의자유? 노출? 어디까지 괜찮을까요? 제가 보수적인걸까요?</a>]]></content>
+        <title type="html"><![CDATA[저를 응원해 주시겠어요?]]></title>
+        <id>https://alook.so/posts/zvtjmx</id>
+        <link href="https://alook.so/posts/zvtjmx"/>
+        <updated>2021-11-09T12:22:58.537Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtjmx">저를 응원해 주시겠어요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요즘 가게들 한국어 간판?]]></title>
-        <id>https://alook.so/posts/q1tokP</id>
-        <link href="https://alook.so/posts/q1tokP"/>
-        <updated>2021-11-09T11:12:05.951Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tokP">요즘 가게들 한국어 간판?</a>]]></content>
+        <title type="html"><![CDATA[풍류대장 본방 사수]]></title>
+        <id>https://alook.so/posts/2xt7vv</id>
+        <link href="https://alook.so/posts/2xt7vv"/>
+        <updated>2021-11-09T12:22:58.538Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt7vv">풍류대장 본방 사수</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이대남의 화염병]]></title>
-        <id>https://alook.so/posts/DjtkDV</id>
-        <link href="https://alook.so/posts/DjtkDV"/>
-        <updated>2021-11-09T11:12:05.952Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtkDV">이대남의 화염병</a>]]></content>
+        <title type="html"><![CDATA[내가 CEO라면 주 4일제를 앞두고 무엇을 준비해야 할까?]]></title>
+        <id>https://alook.so/posts/0ktLR0</id>
+        <link href="https://alook.so/posts/0ktLR0"/>
+        <updated>2021-11-09T12:22:58.539Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktLR0">내가 CEO라면 주 4일제를 앞두고 무엇을 준비해야 할까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[k-pop이 세계를 제패했다?]]></title>
-        <id>https://alook.so/posts/1RtXo6</id>
-        <link href="https://alook.so/posts/1RtXo6"/>
-        <updated>2021-11-09T11:12:05.953Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtXo6">k-pop이 세계를 제패했다?</a>]]></content>
+        <title type="html"><![CDATA[사교육 없어도 충분히 성공할 수 있다]]></title>
+        <id>https://alook.so/posts/M9tGOK</id>
+        <link href="https://alook.so/posts/M9tGOK"/>
+        <updated>2021-11-09T12:22:58.541Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tGOK">사교육 없어도 충분히 성공할 수 있다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[결혼 한거 후회해보신적은 없으세요?]]></title>
-        <id>https://alook.so/posts/o7tWDP</id>
-        <link href="https://alook.so/posts/o7tWDP"/>
-        <updated>2021-11-09T11:12:05.954Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWDP">결혼 한거 후회해보신적은 없으세요?</a>]]></content>
+        <title type="html"><![CDATA[육아는 그냥 무조건 같이 하세요]]></title>
+        <id>https://alook.so/posts/4XtlDr</id>
+        <link href="https://alook.so/posts/4XtlDr"/>
+        <updated>2021-11-09T12:22:58.543Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtlDr">육아는 그냥 무조건 같이 하세요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먹을 거 가지고 장난치면 벌받는다 배웠는데]]></title>
-        <id>https://alook.so/posts/E7tWlM</id>
-        <link href="https://alook.so/posts/E7tWlM"/>
-        <updated>2021-11-09T11:12:05.956Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tWlM">먹을 거 가지고 장난치면 벌받는다 배웠는데</a>]]></content>
+        <title type="html"><![CDATA[범죄 걱정을 안 하고 살 수 있을까요?]]></title>
+        <id>https://alook.so/posts/XBtez4</id>
+        <link href="https://alook.so/posts/XBtez4"/>
+        <updated>2021-11-09T12:22:58.546Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtez4">범죄 걱정을 안 하고 살 수 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사형집행부활..]]></title>
+        <id>https://alook.so/posts/xltB3W</id>
+        <link href="https://alook.so/posts/xltB3W"/>
+        <updated>2021-11-09T12:22:58.547Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltB3W">사형집행부활..</a>]]></content>
     </entry>
 </feed>
