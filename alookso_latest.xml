@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-08T23:16:20.395Z</updated>
+    <updated>2021-11-09T00:47:37.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼룩소프로젝트 어떻게 알고 오셨나요?]]></title>
-        <id>https://alook.so/posts/o7tWEz</id>
-        <link href="https://alook.so/posts/o7tWEz"/>
-        <updated>2021-11-08T23:14:48.045Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWEz">얼룩소프로젝트 어떻게 알고 오셨나요?</a>]]></content>
+        <title type="html"><![CDATA[그것이 알기 싫다]]></title>
+        <id>https://alook.so/posts/OEtGm5</id>
+        <link href="https://alook.so/posts/OEtGm5"/>
+        <updated>2021-11-09T00:46:08.730Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtGm5">그것이 알기 싫다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나도 이상한 밤]]></title>
-        <id>https://alook.so/posts/YytELd</id>
-        <link href="https://alook.so/posts/YytELd"/>
-        <updated>2021-11-08T23:14:48.046Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytELd">나도 이상한 밤</a>]]></content>
+        <title type="html"><![CDATA[언젠가는 되긴 하겠죠?]]></title>
+        <id>https://alook.so/posts/E7tW8O</id>
+        <link href="https://alook.so/posts/E7tW8O"/>
+        <updated>2021-11-09T00:46:08.731Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tW8O">언젠가는 되긴 하겠죠?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만나봐~(연애 이야기)]]></title>
-        <id>https://alook.so/posts/rDtl0B</id>
-        <link href="https://alook.so/posts/rDtl0B"/>
-        <updated>2021-11-08T23:14:48.047Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtl0B">만나봐~(연애 이야기)</a>]]></content>
+        <title type="html"><![CDATA[개그 얼룩커는 소재의 꿈을 꾸지 않는다]]></title>
+        <id>https://alook.so/posts/KmtPrr</id>
+        <link href="https://alook.so/posts/KmtPrr"/>
+        <updated>2021-11-09T00:46:08.733Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtPrr">개그 얼룩커는 소재의 꿈을 꾸지 않는다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 하루도 무사히 지나갑니다.]]></title>
-        <id>https://alook.so/posts/bWtoEx</id>
-        <link href="https://alook.so/posts/bWtoEx"/>
-        <updated>2021-11-08T21:14:16.052Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtoEx">오늘 하루도 무사히 지나갑니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주4일제,내 꿈과희망. 하지만 내 업무량은 최소2배]]></title>
-        <id>https://alook.so/posts/dztmlj</id>
-        <link href="https://alook.so/posts/dztmlj"/>
-        <updated>2021-11-08T20:15:59.869Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztmlj">주4일제,내 꿈과희망. 하지만 내 업무량은 최소2배</a>]]></content>
+        <title type="html"><![CDATA[아버지]]></title>
+        <id>https://alook.so/posts/mbtwzj</id>
+        <link href="https://alook.so/posts/mbtwzj"/>
+        <updated>2021-11-09T00:46:08.734Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtwzj">아버지</a>]]></content>
     </entry>
 </feed>
