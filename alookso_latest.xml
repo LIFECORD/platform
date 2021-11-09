@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-09T02:30:19.038Z</updated>
+    <updated>2021-11-09T03:17:01.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[이젠 군대도 바뀔때가 됐다]]></title>
-        <id>https://alook.so/posts/jdtX6w</id>
-        <link href="https://alook.so/posts/jdtX6w"/>
-        <updated>2021-11-09T02:28:49.715Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtX6w">이젠 군대도 바뀔때가 됐다</a>]]></content>
+        <title type="html"><![CDATA[불편한 청첩장]]></title>
+        <id>https://alook.so/posts/latze3</id>
+        <link href="https://alook.so/posts/latze3"/>
+        <updated>2021-11-09T03:15:34.264Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latze3">불편한 청첩장</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제자리에 두는게 그렇게 힘든일일까요??]]></title>
-        <id>https://alook.so/posts/a0tK1a</id>
-        <link href="https://alook.so/posts/a0tK1a"/>
-        <updated>2021-11-09T02:28:49.716Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tK1a">제자리에 두는게 그렇게 힘든일일까요??</a>]]></content>
+        <title type="html"><![CDATA[답글: 아직은 더 많은 딜레마에 부딪쳐야 할 때가 아닐까요]]></title>
+        <id>https://alook.so/posts/92t9oo</id>
+        <link href="https://alook.so/posts/92t9oo"/>
+        <updated>2021-11-09T03:15:34.266Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t9oo">답글: 아직은 더 많은 딜레마에 부딪쳐야 할 때가 아닐까요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[추가 재난지원금 차등 구별없이 지원되길...]]></title>
-        <id>https://alook.so/posts/Zktneb</id>
-        <link href="https://alook.so/posts/Zktneb"/>
-        <updated>2021-11-09T02:28:49.718Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktneb">추가 재난지원금 차등 구별없이 지원되길...</a>]]></content>
+        <title type="html"><![CDATA[주택임대사업자로 등록만 하면 한사람이 753채를 소유해도 종부세를 단 1원도 내지않는 사실을 아십니까?]]></title>
+        <id>https://alook.so/posts/KmtPlr</id>
+        <link href="https://alook.so/posts/KmtPlr"/>
+        <updated>2021-11-09T03:15:34.267Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtPlr">주택임대사업자로 등록만 하면 한사람이 753채를 소유해도 종부세를 단 1원도 내지않는 사실을 아십니까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공무원을 하려는 이유..]]></title>
-        <id>https://alook.so/posts/J5tJ48</id>
-        <link href="https://alook.so/posts/J5tJ48"/>
-        <updated>2021-11-09T02:28:49.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tJ48">공무원을 하려는 이유..</a>]]></content>
+        <title type="html"><![CDATA[주제가 점점 무거워진다는 느낌..저만 느끼나요?]]></title>
+        <id>https://alook.so/posts/q1toxb</id>
+        <link href="https://alook.so/posts/q1toxb"/>
+        <updated>2021-11-09T03:15:34.268Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1toxb">주제가 점점 무거워진다는 느낌..저만 느끼나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["너는 까만 머리이고 하얀 얼굴이 아니라서"]]></title>
-        <id>https://alook.so/posts/eVtp0x</id>
-        <link href="https://alook.so/posts/eVtp0x"/>
-        <updated>2021-11-09T02:28:49.720Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtp0x">"너는 까만 머리이고 하얀 얼굴이 아니라서"</a>]]></content>
+        <title type="html"><![CDATA[사람을 들인다는 것]]></title>
+        <id>https://alook.so/posts/1RtXe8</id>
+        <link href="https://alook.so/posts/1RtXe8"/>
+        <updated>2021-11-09T03:15:34.269Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtXe8">사람을 들인다는 것</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진짜 기득권은 날카로운 펜을 지닌 자]]></title>
+        <id>https://alook.so/posts/o7tWGV</id>
+        <link href="https://alook.so/posts/o7tWGV"/>
+        <updated>2021-11-09T03:15:34.271Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWGV">진짜 기득권은 날카로운 펜을 지닌 자</a>]]></content>
     </entry>
 </feed>
