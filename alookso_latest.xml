@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-09T17:22:53.656Z</updated>
+    <updated>2021-11-09T18:18:39.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -32,12 +32,5 @@
         <link href="https://alook.so/posts/xltBbm"/>
         <updated>2021-11-09T17:21:14.716Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBbm">답글: 돈, 좋아요 주세요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈, 좋아요,댓글 부탁드립니다🙇‍♂️]]></title>
-        <id>https://alook.so/posts/RGtP36</id>
-        <link href="https://alook.so/posts/RGtP36"/>
-        <updated>2021-11-09T16:22:19.899Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtP36">돈, 좋아요,댓글 부탁드립니다🙇‍♂️</a>]]></content>
     </entry>
 </feed>
