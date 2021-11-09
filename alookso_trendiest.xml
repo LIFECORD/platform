@@ -2,106 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-09T07:16:08.014Z</updated>
+    <updated>2021-11-09T08:19:56.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[정말 몰랐을까.]]></title>
-        <id>https://alook.so/posts/jdtXrJ</id>
-        <link href="https://alook.so/posts/jdtXrJ"/>
-        <updated>2021-11-09T07:14:45.742Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtXrJ">정말 몰랐을까. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음 한구석에 어떤 꿈을 꾸고 계신나요?]]></title>
-        <id>https://alook.so/posts/70t8Gj</id>
-        <link href="https://alook.so/posts/70t8Gj"/>
-        <updated>2021-11-08T15:15:38.299Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t8Gj">마음 한구석에 어떤 꿈을 꾸고 계신나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소의 두 가지 장치가 우리를 대화하게 만들어준다.]]></title>
-        <id>https://alook.so/posts/XBteMd</id>
-        <link href="https://alook.so/posts/XBteMd"/>
-        <updated>2021-11-08T05:13:59.998Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBteMd">얼룩소의 두 가지 장치가 우리를 대화하게 만들어준다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이대남'이라는 착시는 청년을 향한 악의적 공격.]]></title>
-        <id>https://alook.so/posts/J5tJ5M</id>
-        <link href="https://alook.so/posts/J5tJ5M"/>
-        <updated>2021-11-08T10:16:23.149Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tJ5M">'이대남'이라는 착시는 청년을 향한 악의적 공격. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['안전한 공론장' 에 비관적입니다.]]></title>
-        <id>https://alook.so/posts/o7tWWl</id>
-        <link href="https://alook.so/posts/o7tWWl"/>
-        <updated>2021-11-08T11:12:32.999Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWWl">'안전한 공론장' 에 비관적입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가계대출과 거시경제 안정 문제: 간단한 가설 하나]]></title>
-        <id>https://alook.so/posts/njtKy0</id>
-        <link href="https://alook.so/posts/njtKy0"/>
-        <updated>2021-11-08T14:14:18.615Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtKy0">가계대출과 거시경제 안정 문제: 간단한 가설 하나</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[키오스크 증설에 대한 문제점]]></title>
         <id>https://alook.so/posts/2xt7a6</id>
         <link href="https://alook.so/posts/2xt7a6"/>
         <updated>2021-11-08T05:13:59.978Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt7a6">키오스크 증설에 대한 문제점</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족들에게 얼룩소를 소개시켜 보았습니다 ^^]]></title>
-        <id>https://alook.so/posts/M9tGpq</id>
-        <link href="https://alook.so/posts/M9tGpq"/>
-        <updated>2021-11-08T14:14:18.603Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tGpq">가족들에게 얼룩소를 소개시켜 보았습니다 ^^</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2030이 영끌해서 아파트 산다고 했을 때부터 …]]></title>
-        <id>https://alook.so/posts/YytEGJ</id>
-        <link href="https://alook.so/posts/YytEGJ"/>
-        <updated>2021-11-08T12:23:38.728Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytEGJ">2030이 영끌해서 아파트 산다고 했을 때부터 …</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심리적 격차에도 영향을 미치지 않을까요]]></title>
-        <id>https://alook.so/posts/kZt5ej</id>
-        <link href="https://alook.so/posts/kZt5ej"/>
-        <updated>2021-11-09T05:14:19.554Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt5ej">심리적 격차에도 영향을 미치지 않을까요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["제로웨이스트"라는 말을 아시나요?]]></title>
-        <id>https://alook.so/posts/YytEGB</id>
-        <link href="https://alook.so/posts/YytEGB"/>
-        <updated>2021-11-09T07:14:45.752Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytEGB">"제로웨이스트"라는 말을 아시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상한 밤]]></title>
-        <id>https://alook.so/posts/eVtpE3</id>
-        <link href="https://alook.so/posts/eVtpE3"/>
-        <updated>2021-11-09T04:18:44.404Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtpE3">이상한 밤</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하층 청년인 제가 겪는 문제는 이렇습니다]]></title>
-        <id>https://alook.so/posts/rDtl9z</id>
-        <link href="https://alook.so/posts/rDtl9z"/>
-        <updated>2021-11-08T08:18:01.153Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtl9z">하층 청년인 제가 겪는 문제는 이렇습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[길거리 할머니께 1만원 드리고 채소를 샀습니다]]></title>
-        <id>https://alook.so/posts/rDtlYz</id>
-        <link href="https://alook.so/posts/rDtlYz"/>
-        <updated>2021-11-09T07:14:45.755Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtlYz">길거리 할머니께 1만원 드리고 채소를 샀습니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[♻️ 재활용품 분리배출 제대로 하고 있으신가요?]]></title>
@@ -111,10 +20,94 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtpGO">♻️ 재활용품 분리배출 제대로 하고 있으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세대 내 격차를 은폐하는 정치가 문제]]></title>
-        <id>https://alook.so/posts/LKtMGX</id>
-        <link href="https://alook.so/posts/LKtMGX"/>
-        <updated>2021-11-08T08:18:01.144Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtMGX">세대 내 격차를 은폐하는 정치가 문제</a>]]></content>
+        <title type="html"><![CDATA[정말 몰랐을까.]]></title>
+        <id>https://alook.so/posts/jdtXrJ</id>
+        <link href="https://alook.so/posts/jdtXrJ"/>
+        <updated>2021-11-09T07:14:45.742Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtXrJ">정말 몰랐을까. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심리적 격차에도 영향을 미치지 않을까요]]></title>
+        <id>https://alook.so/posts/kZt5ej</id>
+        <link href="https://alook.so/posts/kZt5ej"/>
+        <updated>2021-11-09T05:14:19.554Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt5ej">심리적 격차에도 영향을 미치지 않을까요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하층 청년인 제가 겪는 문제는 이렇습니다]]></title>
+        <id>https://alook.so/posts/rDtl9z</id>
+        <link href="https://alook.so/posts/rDtl9z"/>
+        <updated>2021-11-08T08:18:01.153Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtl9z">하층 청년인 제가 겪는 문제는 이렇습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2030이 영끌해서 아파트 산다고 했을 때부터 …]]></title>
+        <id>https://alook.so/posts/YytEGJ</id>
+        <link href="https://alook.so/posts/YytEGJ"/>
+        <updated>2021-11-08T12:23:38.728Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytEGJ">2030이 영끌해서 아파트 산다고 했을 때부터 …</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이상한 밤]]></title>
+        <id>https://alook.so/posts/eVtpE3</id>
+        <link href="https://alook.so/posts/eVtpE3"/>
+        <updated>2021-11-09T04:18:44.404Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtpE3">이상한 밤</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소의 두 가지 장치가 우리를 대화하게 만들어준다.]]></title>
+        <id>https://alook.so/posts/XBteMd</id>
+        <link href="https://alook.so/posts/XBteMd"/>
+        <updated>2021-11-08T05:13:59.998Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBteMd">얼룩소의 두 가지 장치가 우리를 대화하게 만들어준다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["제로웨이스트"라는 말을 아시나요?]]></title>
+        <id>https://alook.so/posts/YytEGB</id>
+        <link href="https://alook.so/posts/YytEGB"/>
+        <updated>2021-11-09T07:14:45.752Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytEGB">"제로웨이스트"라는 말을 아시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['안전한 공론장' 에 비관적입니다.]]></title>
+        <id>https://alook.so/posts/o7tWWl</id>
+        <link href="https://alook.so/posts/o7tWWl"/>
+        <updated>2021-11-08T11:12:32.999Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWWl">'안전한 공론장' 에 비관적입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족들에게 얼룩소를 소개시켜 보았습니다 ^^]]></title>
+        <id>https://alook.so/posts/M9tGpq</id>
+        <link href="https://alook.so/posts/M9tGpq"/>
+        <updated>2021-11-08T14:14:18.603Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tGpq">가족들에게 얼룩소를 소개시켜 보았습니다 ^^</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[길거리 할머니께 1만원 드리고 채소를 샀습니다]]></title>
+        <id>https://alook.so/posts/rDtlYz</id>
+        <link href="https://alook.so/posts/rDtlYz"/>
+        <updated>2021-11-09T07:14:45.755Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtlYz">길거리 할머니께 1만원 드리고 채소를 샀습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마음 한구석에 어떤 꿈을 꾸고 계신나요?]]></title>
+        <id>https://alook.so/posts/70t8Gj</id>
+        <link href="https://alook.so/posts/70t8Gj"/>
+        <updated>2021-11-08T15:15:38.299Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t8Gj">마음 한구석에 어떤 꿈을 꾸고 계신나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가계대출과 거시경제 안정 문제: 간단한 가설 하나]]></title>
+        <id>https://alook.so/posts/njtKy0</id>
+        <link href="https://alook.so/posts/njtKy0"/>
+        <updated>2021-11-08T14:14:18.615Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtKy0">가계대출과 거시경제 안정 문제: 간단한 가설 하나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[낙엽은 치워야 되나요? 아니면 남겨두어야 되나요?]]></title>
+        <id>https://alook.so/posts/xltBB9</id>
+        <link href="https://alook.so/posts/xltBB9"/>
+        <updated>2021-11-09T08:18:33.228Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBB9">낙엽은 치워야 되나요? 아니면 남겨두어야 되나요?</a>]]></content>
     </entry>
 </feed>
