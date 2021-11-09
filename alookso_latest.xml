@@ -2,21 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-09T08:19:56.382Z</updated>
+    <updated>2021-11-09T09:16:18.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 마음 한구석에 어떤 꿈을 꾸고 계신가요?]]></title>
-        <id>https://alook.so/posts/xltBly</id>
-        <link href="https://alook.so/posts/xltBly"/>
-        <updated>2021-11-09T08:18:24.033Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBly">답글: 마음 한구석에 어떤 꿈을 꾸고 계신가요?</a>]]></content>
+        <title type="html"><![CDATA[이제 시작이다! (스마트스토어 입점, 블로그 시작, 카카오뷰 채널 생성)]]></title>
+        <id>https://alook.so/posts/dztmWl</id>
+        <link href="https://alook.so/posts/dztmWl"/>
+        <updated>2021-11-09T09:14:42.447Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztmWl">이제 시작이다! (스마트스토어 입점, 블로그 시작, 카카오뷰 채널 생성)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사주에 대해 어떻게 생각하시나요?]]></title>
-        <id>https://alook.so/posts/RGtPbk</id>
-        <link href="https://alook.so/posts/RGtPbk"/>
-        <updated>2021-11-09T08:18:24.033Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtPbk">사주에 대해 어떻게 생각하시나요?</a>]]></content>
+        <title type="html"><![CDATA[좋은 기성세대가 되겠습니다.]]></title>
+        <id>https://alook.so/posts/potBRj</id>
+        <link href="https://alook.so/posts/potBRj"/>
+        <updated>2021-11-09T09:14:42.448Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potBRj">좋은 기성세대가 되겠습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이를 갖고 싶지만...]]></title>
+        <id>https://alook.so/posts/eVtpny</id>
+        <link href="https://alook.so/posts/eVtpny"/>
+        <updated>2021-11-09T09:14:42.449Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtpny">아이를 갖고 싶지만...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['893만4000명'을 대표하기에 '2명'은 너무 적다]]></title>
+        <id>https://alook.so/posts/Pvtx1W</id>
+        <link href="https://alook.so/posts/Pvtx1W"/>
+        <updated>2021-11-09T09:14:42.450Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtx1W">'893만4000명'을 대표하기에 '2명'은 너무 적다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잔소리야 누가 못해? [조언과 잔소리의 차이는 무엇일까]]]></title>
+        <id>https://alook.so/posts/VntVp9</id>
+        <link href="https://alook.so/posts/VntVp9"/>
+        <updated>2021-11-09T09:14:42.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntVp9">잔소리야 누가 못해? [조언과 잔소리의 차이는 무엇일까]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주 4일제는 어떻다고 생각하십니까?]]></title>
+        <id>https://alook.so/posts/zvtj34</id>
+        <link href="https://alook.so/posts/zvtj34"/>
+        <updated>2021-11-09T09:14:42.453Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtj34">주 4일제는 어떻다고 생각하십니까?</a>]]></content>
     </entry>
 </feed>
