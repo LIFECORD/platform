@@ -2,42 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-09T14:16:18.143Z</updated>
+    <updated>2021-11-09T15:16:48.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[국민연금]]></title>
-        <id>https://alook.so/posts/M9tGJK</id>
-        <link href="https://alook.so/posts/M9tGJK"/>
-        <updated>2021-11-09T14:14:45.163Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tGJK">국민연금</a>]]></content>
+        <title type="html"><![CDATA[전세 계약 후 원상복구, 어디까지 해야하나요?]]></title>
+        <id>https://alook.so/posts/E7tWv9</id>
+        <link href="https://alook.so/posts/E7tWv9"/>
+        <updated>2021-11-09T15:15:15.642Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tWv9">전세 계약 후 원상복구, 어디까지 해야하나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[외국 교환학생 때 느꼈던 국뽕]]></title>
-        <id>https://alook.so/posts/4Xtl7r</id>
-        <link href="https://alook.so/posts/4Xtl7r"/>
-        <updated>2021-11-09T14:14:45.165Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtl7r">외국 교환학생 때 느꼈던 국뽕</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결국은 회귀합니다.]]></title>
-        <id>https://alook.so/posts/XBtea4</id>
-        <link href="https://alook.so/posts/XBtea4"/>
-        <updated>2021-11-09T14:14:45.165Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtea4">결국은 회귀합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과거에 발목잡힐건 없지만 그래도 모른척 하지는 말아야지]]></title>
-        <id>https://alook.so/posts/w9tGPE</id>
-        <link href="https://alook.so/posts/w9tGPE"/>
-        <updated>2021-11-09T14:14:45.166Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tGPE">과거에 발목잡힐건 없지만 그래도 모른척 하지는 말아야지</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이를 키우게된다면 과연 나는…??]]></title>
-        <id>https://alook.so/posts/Bat0RG</id>
-        <link href="https://alook.so/posts/Bat0RG"/>
-        <updated>2021-11-09T14:14:45.167Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat0RG">아이를 키우게된다면 과연 나는…??</a>]]></content>
+        <title type="html"><![CDATA[소상공인 손실보상법~~~~]]></title>
+        <id>https://alook.so/posts/mbtwX5</id>
+        <link href="https://alook.so/posts/mbtwX5"/>
+        <updated>2021-11-09T15:15:15.643Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtwX5">소상공인 손실보상법~~~~</a>]]></content>
     </entry>
 </feed>
