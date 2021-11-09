@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-09T00:47:37.809Z</updated>
+    <updated>2021-11-09T01:58:27.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[그것이 알기 싫다]]></title>
-        <id>https://alook.so/posts/OEtGm5</id>
-        <link href="https://alook.so/posts/OEtGm5"/>
-        <updated>2021-11-09T00:46:08.730Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtGm5">그것이 알기 싫다</a>]]></content>
+        <title type="html"><![CDATA[성인 자녀와 부모 폭력 체크리스트는 왜 없을까?]]></title>
+        <id>https://alook.so/posts/4XtlXJ</id>
+        <link href="https://alook.so/posts/4XtlXJ"/>
+        <updated>2021-11-09T01:56:46.046Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtlXJ">성인 자녀와 부모 폭력 체크리스트는 왜 없을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[언젠가는 되긴 하겠죠?]]></title>
-        <id>https://alook.so/posts/E7tW8O</id>
-        <link href="https://alook.so/posts/E7tW8O"/>
-        <updated>2021-11-09T00:46:08.731Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tW8O">언젠가는 되긴 하겠죠?</a>]]></content>
+        <title type="html"><![CDATA[소액 기본소득에 반대하는 이유]]></title>
+        <id>https://alook.so/posts/w9tGBD</id>
+        <link href="https://alook.so/posts/w9tGBD"/>
+        <updated>2021-11-09T01:56:46.047Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tGBD">소액 기본소득에 반대하는 이유 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[개그 얼룩커는 소재의 꿈을 꾸지 않는다]]></title>
-        <id>https://alook.so/posts/KmtPrr</id>
-        <link href="https://alook.so/posts/KmtPrr"/>
-        <updated>2021-11-09T00:46:08.733Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtPrr">개그 얼룩커는 소재의 꿈을 꾸지 않는다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아버지]]></title>
-        <id>https://alook.so/posts/mbtwzj</id>
-        <link href="https://alook.so/posts/mbtwzj"/>
-        <updated>2021-11-09T00:46:08.734Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtwzj">아버지</a>]]></content>
+        <title type="html"><![CDATA[심리적 격차에도 영향을 미치지 않을까요]]></title>
+        <id>https://alook.so/posts/kZt5ej</id>
+        <link href="https://alook.so/posts/kZt5ej"/>
+        <updated>2021-11-09T01:56:46.048Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt5ej">심리적 격차에도 영향을 미치지 않을까요</a>]]></content>
     </entry>
 </feed>
