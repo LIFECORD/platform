@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-10T20:17:37.360Z</updated>
+    <updated>2021-11-10T21:12:37.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[갈수록 대학졸업장의 가치가 떨어지는거 같아요.]]></title>
+        <id>https://alook.so/posts/zvtjOG</id>
+        <link href="https://alook.so/posts/zvtjOG"/>
+        <updated>2021-11-10T21:11:09.559Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtjOG">갈수록 대학졸업장의 가치가 떨어지는거 같아요.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 후속적 관심이 더 이어지면 좋겠어요]]></title>
         <id>https://alook.so/posts/WLtj0w</id>
@@ -25,12 +32,5 @@
         <link href="https://alook.so/posts/XBte09"/>
         <updated>2021-11-10T18:14:32.543Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBte09">길고양이 같지 않은 길고양이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구의 아픔에 눈이 간 당신에게 추천하는 넷플릭스 다큐]]></title>
-        <id>https://alook.so/posts/kZt59Y</id>
-        <link href="https://alook.so/posts/kZt59Y"/>
-        <updated>2021-11-10T17:15:47.245Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt59Y">지구의 아픔에 눈이 간 당신에게 추천하는 넷플릭스 다큐</a>]]></content>
     </entry>
 </feed>
