@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-09T23:16:30.020Z</updated>
+    <updated>2021-11-10T00:47:24.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[OTT플랫폼,  얼마나 사용하고 계신가요?]]></title>
-        <id>https://alook.so/posts/92t9dy</id>
-        <link href="https://alook.so/posts/92t9dy"/>
-        <updated>2021-11-09T23:14:57.954Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t9dy">OTT플랫폼,  얼마나 사용하고 계신가요?</a>]]></content>
+        <title type="html"><![CDATA[멸균팩도 잊지 말아주세요. (Feat. 알맹상점 대동여지도)]]></title>
+        <id>https://alook.so/posts/6MtjnB</id>
+        <link href="https://alook.so/posts/6MtjnB"/>
+        <updated>2021-11-10T00:45:53.773Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtjnB">멸균팩도 잊지 말아주세요. (Feat. 알맹상점 대동여지도)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 좋아요,댓글 많이 받기]]></title>
-        <id>https://alook.so/posts/mbtw3Y</id>
-        <link href="https://alook.so/posts/mbtw3Y"/>
-        <updated>2021-11-09T23:14:57.955Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtw3Y">답글: 좋아요,댓글 많이 받기</a>]]></content>
+        <title type="html"><![CDATA[워라벨이 부족한건 말이 안된다]]></title>
+        <id>https://alook.so/posts/3wtyB5</id>
+        <link href="https://alook.so/posts/3wtyB5"/>
+        <updated>2021-11-10T00:45:53.775Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtyB5">워라벨이 부족한건 말이 안된다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정의론의 대가, 존 롤스의 무지의 베일과 그 한계]]></title>
-        <id>https://alook.so/posts/1RtXqY</id>
-        <link href="https://alook.so/posts/1RtXqY"/>
-        <updated>2021-11-09T21:14:09.807Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtXqY">정의론의 대가, 존 롤스의 무지의 베일과 그 한계</a>]]></content>
+        <title type="html"><![CDATA[2021년 11월 10일 오늘의 경제 & 사설]]></title>
+        <id>https://alook.so/posts/E7tWnz</id>
+        <link href="https://alook.so/posts/E7tWnz"/>
+        <updated>2021-11-10T00:45:53.776Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tWnz">2021년 11월 10일 오늘의 경제 &amp; 사설</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["투자 대박나서 퇴사했습니다"]]></title>
-        <id>https://alook.so/posts/o7tWqL</id>
-        <link href="https://alook.so/posts/o7tWqL"/>
-        <updated>2021-11-09T21:14:09.808Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWqL">"투자 대박나서 퇴사했습니다"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회의원 자격에도 정년을 적용한다면!!]]></title>
-        <id>https://alook.so/posts/rDtlMp</id>
-        <link href="https://alook.so/posts/rDtlMp"/>
-        <updated>2021-11-09T20:15:32.658Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtlMp">국회의원 자격에도 정년을 적용한다면!!</a>]]></content>
+        <title type="html"><![CDATA[세련되고 센스 있는 정치프로그램의 부재]]></title>
+        <id>https://alook.so/posts/latzLP</id>
+        <link href="https://alook.so/posts/latzLP"/>
+        <updated>2021-11-10T00:45:53.777Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latzLP">세련되고 센스 있는 정치프로그램의 부재</a>]]></content>
     </entry>
 </feed>
