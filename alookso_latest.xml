@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-10T03:17:12.817Z</updated>
+    <updated>2021-11-10T04:20:17.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[첫 승]]></title>
-        <id>https://alook.so/posts/RGtPYw</id>
-        <link href="https://alook.so/posts/RGtPYw"/>
-        <updated>2021-11-10T03:15:42.533Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtPYw">첫 승</a>]]></content>
+        <title type="html"><![CDATA[헤어질 수 없는 인생의 동반자]]></title>
+        <id>https://alook.so/posts/1RtXpy</id>
+        <link href="https://alook.so/posts/1RtXpy"/>
+        <updated>2021-11-10T04:18:46.925Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtXpy">헤어질 수 없는 인생의 동반자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["인도, 중국산 요소 80% 쓸어담아" 요소 싹쓸이에 한국 요소수 대란.]]></title>
-        <id>https://alook.so/posts/yEtKDj</id>
-        <link href="https://alook.so/posts/yEtKDj"/>
-        <updated>2021-11-10T03:15:42.534Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtKDj">"인도, 중국산 요소 80% 쓸어담아" 요소 싹쓸이에 한국 요소수 대란.</a>]]></content>
+        <title type="html"><![CDATA[작은 it회사에서 일하고 있어요]]></title>
+        <id>https://alook.so/posts/YytEJj</id>
+        <link href="https://alook.so/posts/YytEJj"/>
+        <updated>2021-11-10T04:18:46.927Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytEJj">작은 it회사에서 일하고 있어요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[솔직히 나 하나 책임지기도 벅차...]]></title>
-        <id>https://alook.so/posts/LKtMon</id>
-        <link href="https://alook.so/posts/LKtMon"/>
-        <updated>2021-11-10T03:15:42.537Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtMon">솔직히 나 하나 책임지기도 벅차...</a>]]></content>
+        <title type="html"><![CDATA[[흙수저 탈출기. 0] 결혼 7년차 아이 셋, 7억 모았습니다.]]></title>
+        <id>https://alook.so/posts/rDtly0</id>
+        <link href="https://alook.so/posts/rDtly0"/>
+        <updated>2021-11-10T04:18:46.928Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtly0">[흙수저 탈출기. 0] 결혼 7년차 아이 셋, 7억 모았습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요즘 나는 무엇에 분노하는가.]]></title>
-        <id>https://alook.so/posts/njtKDL</id>
-        <link href="https://alook.so/posts/njtKDL"/>
-        <updated>2021-11-10T03:15:42.538Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtKDL">요즘 나는 무엇에 분노하는가.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대기업 이직 후 새로운 직장에 대한 불안감..]]></title>
-        <id>https://alook.so/posts/6MtjXL</id>
-        <link href="https://alook.so/posts/6MtjXL"/>
-        <updated>2021-11-10T03:15:42.539Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtjXL">대기업 이직 후 새로운 직장에 대한 불안감..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거절이 너무 힘들어요]]></title>
-        <id>https://alook.so/posts/3wty8q</id>
-        <link href="https://alook.so/posts/3wty8q"/>
-        <updated>2021-11-10T03:15:42.541Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wty8q">거절이 너무 힘들어요</a>]]></content>
+        <title type="html"><![CDATA[신체나이]]></title>
+        <id>https://alook.so/posts/ZktnxW</id>
+        <link href="https://alook.so/posts/ZktnxW"/>
+        <updated>2021-11-10T04:18:46.929Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktnxW">신체나이</a>]]></content>
     </entry>
 </feed>
