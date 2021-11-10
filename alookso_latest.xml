@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-10T02:31:15.189Z</updated>
+    <updated>2021-11-10T03:17:12.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[너무 속상해요.]]></title>
-        <id>https://alook.so/posts/KmtPmq</id>
-        <link href="https://alook.so/posts/KmtPmq"/>
-        <updated>2021-11-10T02:29:43.352Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtPmq">너무 속상해요.</a>]]></content>
+        <title type="html"><![CDATA[첫 승]]></title>
+        <id>https://alook.so/posts/RGtPYw</id>
+        <link href="https://alook.so/posts/RGtPYw"/>
+        <updated>2021-11-10T03:15:42.533Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtPYw">첫 승</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기댈 곳이 필요해요]]></title>
-        <id>https://alook.so/posts/Djtkwo</id>
-        <link href="https://alook.so/posts/Djtkwo"/>
-        <updated>2021-11-10T02:29:43.353Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtkwo">기댈 곳이 필요해요</a>]]></content>
+        <title type="html"><![CDATA["인도, 중국산 요소 80% 쓸어담아" 요소 싹쓸이에 한국 요소수 대란.]]></title>
+        <id>https://alook.so/posts/yEtKDj</id>
+        <link href="https://alook.so/posts/yEtKDj"/>
+        <updated>2021-11-10T03:15:42.534Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtKDj">"인도, 중국산 요소 80% 쓸어담아" 요소 싹쓸이에 한국 요소수 대란.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 아이에게 문제가 생긴다면]]></title>
-        <id>https://alook.so/posts/70t8qD</id>
-        <link href="https://alook.so/posts/70t8qD"/>
-        <updated>2021-11-10T02:29:43.354Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t8qD">내 아이에게 문제가 생긴다면 </a>]]></content>
+        <title type="html"><![CDATA[솔직히 나 하나 책임지기도 벅차...]]></title>
+        <id>https://alook.so/posts/LKtMon</id>
+        <link href="https://alook.so/posts/LKtMon"/>
+        <updated>2021-11-10T03:15:42.537Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtMon">솔직히 나 하나 책임지기도 벅차...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1년 사이에 입을 옷이 없어졌다.]]></title>
-        <id>https://alook.so/posts/rDtl1p</id>
-        <link href="https://alook.so/posts/rDtl1p"/>
-        <updated>2021-11-10T02:29:43.354Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtl1p">1년 사이에 입을 옷이 없어졌다. </a>]]></content>
+        <title type="html"><![CDATA[요즘 나는 무엇에 분노하는가.]]></title>
+        <id>https://alook.so/posts/njtKDL</id>
+        <link href="https://alook.so/posts/njtKDL"/>
+        <updated>2021-11-10T03:15:42.538Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtKDL">요즘 나는 무엇에 분노하는가.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[헌옷 쓰레기강 충격적입니다]]></title>
-        <id>https://alook.so/posts/jdtXae</id>
-        <link href="https://alook.so/posts/jdtXae"/>
-        <updated>2021-11-10T02:29:43.355Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtXae">헌옷 쓰레기강 충격적입니다</a>]]></content>
+        <title type="html"><![CDATA[대기업 이직 후 새로운 직장에 대한 불안감..]]></title>
+        <id>https://alook.so/posts/6MtjXL</id>
+        <link href="https://alook.so/posts/6MtjXL"/>
+        <updated>2021-11-10T03:15:42.539Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtjXL">대기업 이직 후 새로운 직장에 대한 불안감..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[거절이 너무 힘들어요]]></title>
+        <id>https://alook.so/posts/3wty8q</id>
+        <link href="https://alook.so/posts/3wty8q"/>
+        <updated>2021-11-10T03:15:42.541Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wty8q">거절이 너무 힘들어요</a>]]></content>
     </entry>
 </feed>
