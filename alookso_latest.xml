@@ -2,28 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-10T11:14:11.515Z</updated>
+    <updated>2021-11-10T12:24:15.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[국민연금]]></title>
-        <id>https://alook.so/posts/54tKD2</id>
-        <link href="https://alook.so/posts/54tKD2"/>
-        <updated>2021-11-10T11:12:30.604Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tKD2">국민연금</a>]]></content>
+        <title type="html"><![CDATA[결혼 예정인 형에게 5천만원을 주었습니다.]]></title>
+        <id>https://alook.so/posts/WLtjbK</id>
+        <link href="https://alook.so/posts/WLtjbK"/>
+        <updated>2021-11-10T12:22:44.901Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtjbK">결혼 예정인 형에게 5천만원을 주었습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여성적 어조를 여성적 어조로 남길 수 없으므로]]></title>
-        <id>https://alook.so/posts/DjtkMd</id>
-        <link href="https://alook.so/posts/DjtkMd"/>
-        <updated>2021-11-10T11:12:30.605Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtkMd">여성적 어조를 여성적 어조로 남길 수 없으므로</a>]]></content>
+        <title type="html"><![CDATA[누가 반페미니스트인가?]]></title>
+        <id>https://alook.so/posts/4Xtlv3</id>
+        <link href="https://alook.so/posts/4Xtlv3"/>
+        <updated>2021-11-10T12:22:44.902Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtlv3">누가 반페미니스트인가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[범죄 걱정을 안 하고 살 수 있을까요?]]></title>
-        <id>https://alook.so/posts/o7tWvO</id>
-        <link href="https://alook.so/posts/o7tWvO"/>
-        <updated>2021-11-10T11:12:30.607Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWvO">범죄 걱정을 안 하고 살 수 있을까요?</a>]]></content>
+        <title type="html"><![CDATA[군인은 존중받아야합니다]]></title>
+        <id>https://alook.so/posts/XBteL6</id>
+        <link href="https://alook.so/posts/XBteL6"/>
+        <updated>2021-11-10T12:22:44.904Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBteL6">군인은 존중받아야합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신기한 세상이죠? 이글에 좋아요가 8개밖에 없다니]]></title>
+        <id>https://alook.so/posts/w9tG2j</id>
+        <link href="https://alook.so/posts/w9tG2j"/>
+        <updated>2021-11-10T12:22:44.905Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tG2j">신기한 세상이죠? 이글에 좋아요가 8개밖에 없다니</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 아이가 굳이 필요할까요?]]></title>
+        <id>https://alook.so/posts/xltBjk</id>
+        <link href="https://alook.so/posts/xltBjk"/>
+        <updated>2021-11-10T12:22:44.906Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBjk">답글: 아이가 굳이 필요할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공황장애? 신? 악령? 병명이 무엇일까요?]]></title>
+        <id>https://alook.so/posts/RGtPWv</id>
+        <link href="https://alook.so/posts/RGtPWv"/>
+        <updated>2021-11-10T12:22:44.908Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtPWv">공황장애? 신? 악령? 병명이 무엇일까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[낳아서 잘 키워야되는거 아닌가요?]]></title>
+        <id>https://alook.so/posts/kZt5jD</id>
+        <link href="https://alook.so/posts/kZt5jD"/>
+        <updated>2021-11-10T12:22:44.916Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt5jD">낳아서 잘 키워야되는거 아닌가요?</a>]]></content>
     </entry>
 </feed>
