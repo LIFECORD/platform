@@ -2,28 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-10T13:22:42.280Z</updated>
+    <updated>2021-11-10T14:16:20.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[조작되지 않은 진짜 데이터는 곧 진실인가?]]></title>
-        <id>https://alook.so/posts/92t9Dm</id>
-        <link href="https://alook.so/posts/92t9Dm"/>
-        <updated>2021-11-10T13:21:07.872Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t9Dm">조작되지 않은 진짜 데이터는 곧 진실인가?</a>]]></content>
+        <title type="html"><![CDATA[현재 직업에 대한 고민 ...]]></title>
+        <id>https://alook.so/posts/zvtjn5</id>
+        <link href="https://alook.so/posts/zvtjn5"/>
+        <updated>2021-11-10T14:14:40.236Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtjn5">현재 직업에 대한 고민 ...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여러분에게 힐링은 무엇인가요?]]></title>
-        <id>https://alook.so/posts/1RtX4E</id>
-        <link href="https://alook.so/posts/1RtX4E"/>
-        <updated>2021-11-10T13:21:07.873Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtX4E">여러분에게 힐링은 무엇인가요?</a>]]></content>
+        <title type="html"><![CDATA[역대 최고 대통령은 누구인가]]></title>
+        <id>https://alook.so/posts/2xt76G</id>
+        <link href="https://alook.so/posts/2xt76G"/>
+        <updated>2021-11-10T14:14:40.236Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt76G">역대 최고 대통령은 누구인가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 어떻게 익어갈까?]]></title>
-        <id>https://alook.so/posts/70t8yn</id>
-        <link href="https://alook.so/posts/70t8yn"/>
-        <updated>2021-11-10T13:21:07.875Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t8yn">나는 어떻게 익어갈까?</a>]]></content>
+        <title type="html"><![CDATA[차별금지법 제정을 위한 30일간의 걸음, 그리고 오늘의 뉴스.]]></title>
+        <id>https://alook.so/posts/WLtj9K</id>
+        <link href="https://alook.so/posts/WLtj9K"/>
+        <updated>2021-11-10T14:14:40.238Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtj9K">차별금지법 제정을 위한 30일간의 걸음, 그리고 오늘의 뉴스.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하게 하는 길은 역시나 답답할 것이다, 하지만.]]></title>
+        <id>https://alook.so/posts/XBtex6</id>
+        <link href="https://alook.so/posts/XBtex6"/>
+        <updated>2021-11-10T14:14:40.240Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtex6">하게 하는 길은 역시나 답답할 것이다, 하지만.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그때로 돌아가면 다른 선택을 내렸을거라고요? 정말로요?]]></title>
+        <id>https://alook.so/posts/w9tGLj</id>
+        <link href="https://alook.so/posts/w9tGLj"/>
+        <updated>2021-11-10T14:14:40.241Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tGLj">그때로 돌아가면 다른 선택을 내렸을거라고요? 정말로요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사교육은 누적이 아닌 조절의 대상입니다.]]></title>
+        <id>https://alook.so/posts/xltBwk</id>
+        <link href="https://alook.so/posts/xltBwk"/>
+        <updated>2021-11-10T14:14:40.243Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBwk">사교육은 누적이 아닌 조절의 대상입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 가장 많이 하는 고민]]></title>
+        <id>https://alook.so/posts/kZt54D</id>
+        <link href="https://alook.so/posts/kZt54D"/>
+        <updated>2021-11-10T14:14:40.245Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt54D">요즘 가장 많이 하는 고민</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건강과 환경]]></title>
+        <id>https://alook.so/posts/yEtKXw</id>
+        <link href="https://alook.so/posts/yEtKXw"/>
+        <updated>2021-11-10T14:14:40.247Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtKXw">건강과 환경</a>]]></content>
     </entry>
 </feed>
