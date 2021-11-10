@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-11-10T05:15:13.728Z</updated>
+    <updated>2021-11-10T06:18:48.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[누가 페미니스트인가]]></title>
+        <id>https://alook.so/posts/njtKjL</id>
+        <link href="https://alook.so/posts/njtKjL"/>
+        <updated>2021-11-10T06:17:34.559Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtKjL">누가 페미니스트인가</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[계급이 돌아왔다 - 이대남 현상이라는 착시]]></title>
         <id>https://alook.so/posts/XBteeJ</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/DjtlK2"/>
         <updated>2021-10-27T03:18:45.821Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtlK2">대장동 블루스 - 이재명은 한다며?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[각 분야 얼룩커의 다른 글도 궁금하다면?]]></title>
-        <id>https://alook.so/posts/njtw0e</id>
-        <link href="https://alook.so/posts/njtw0e"/>
-        <updated>2021-10-27T03:18:45.822Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtw0e">각 분야 얼룩커의 다른 글도 궁금하다면?</a>]]></content>
     </entry>
 </feed>
