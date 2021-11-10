@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-10T22:16:58.049Z</updated>
+    <updated>2021-11-10T23:16:37.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[조금 모순적이었어요.]]></title>
+        <id>https://alook.so/posts/dztmjo</id>
+        <link href="https://alook.so/posts/dztmjo"/>
+        <updated>2021-11-10T23:14:59.178Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztmjo">조금 모순적이었어요.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[죽음부터 사랑까지]]></title>
         <id>https://alook.so/posts/Pvtx6r</id>
@@ -18,26 +25,5 @@
         <link href="https://alook.so/posts/zvtjOG"/>
         <updated>2021-11-10T21:11:09.559Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtjOG">갈수록 대학졸업장의 가치가 떨어지는거 같아요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 후속적 관심이 더 이어지면 좋겠어요]]></title>
-        <id>https://alook.so/posts/WLtj0w</id>
-        <link href="https://alook.so/posts/WLtj0w"/>
-        <updated>2021-11-10T20:16:03.923Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtj0w">답글: 후속적 관심이 더 이어지면 좋겠어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누구나 바라고 원하는 금전적 자유]]></title>
-        <id>https://alook.so/posts/0ktLY5</id>
-        <link href="https://alook.so/posts/0ktLY5"/>
-        <updated>2021-11-10T20:16:03.924Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktLY5">누구나 바라고 원하는 금전적 자유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[길고양이 같지 않은 길고양이]]></title>
-        <id>https://alook.so/posts/XBte09</id>
-        <link href="https://alook.so/posts/XBte09"/>
-        <updated>2021-11-10T18:14:32.543Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBte09">길고양이 같지 않은 길고양이</a>]]></content>
     </entry>
 </feed>
