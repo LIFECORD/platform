@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-10T09:17:36.078Z</updated>
+    <updated>2021-11-10T10:17:47.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[만원의 진짜 행복; “저절로 아무는 상처는 없다.”]]></title>
-        <id>https://alook.so/posts/92t9O6</id>
-        <link href="https://alook.so/posts/92t9O6"/>
-        <updated>2021-11-10T09:16:06.500Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t9O6">만원의 진짜 행복; “저절로 아무는 상처는 없다.”</a>]]></content>
+        <title type="html"><![CDATA[오늘 가장 기억에 남는 뉴스는 '첫눈' 입니다]]></title>
+        <id>https://alook.so/posts/eVtp7n</id>
+        <link href="https://alook.so/posts/eVtp7n"/>
+        <updated>2021-11-10T10:16:12.258Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtp7n">오늘 가장 기억에 남는 뉴스는 '첫눈' 입니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부정의의 제거 + 역량의 증진 = 정의의 증진]]></title>
-        <id>https://alook.so/posts/KmtPw6</id>
-        <link href="https://alook.so/posts/KmtPw6"/>
-        <updated>2021-11-10T09:16:06.502Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtPw6">부정의의 제거 + 역량의 증진 = 정의의 증진</a>]]></content>
+        <title type="html"><![CDATA[주 4일제는 당장은 어렵지만 앞으로 가능성은 있습니다]]></title>
+        <id>https://alook.so/posts/VntVoG</id>
+        <link href="https://alook.so/posts/VntVoG"/>
+        <updated>2021-11-10T10:16:12.259Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntVoG">주 4일제는 당장은 어렵지만 앞으로 가능성은 있습니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[alookso가 당신을 찾아갑니다, 얼터뷰(alter-view)]]></title>
-        <id>https://alook.so/posts/o7tWYO</id>
-        <link href="https://alook.so/posts/o7tWYO"/>
-        <updated>2021-11-10T09:16:06.504Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWYO">alookso가 당신을 찾아갑니다, 얼터뷰(alter-view)</a>]]></content>
+        <title type="html"><![CDATA[좋아요의 가치]]></title>
+        <id>https://alook.so/posts/WLtj2Y</id>
+        <link href="https://alook.so/posts/WLtj2Y"/>
+        <updated>2021-11-10T10:16:12.261Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtj2Y">좋아요의 가치</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아주 가끔은 군대가 고맙기도하다.]]></title>
+        <id>https://alook.so/posts/0ktLor</id>
+        <link href="https://alook.so/posts/0ktLor"/>
+        <updated>2021-11-10T10:16:12.261Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktLor">아주 가끔은 군대가 고맙기도하다.</a>]]></content>
     </entry>
 </feed>
