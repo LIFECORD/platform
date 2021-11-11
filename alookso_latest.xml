@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-11T07:16:04.633Z</updated>
+    <updated>2021-11-11T08:19:44.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: '불편함'을 느낀다는 것 자체가 귀한 경험이라 생각합니다.]]></title>
-        <id>https://alook.so/posts/92t9w5</id>
-        <link href="https://alook.so/posts/92t9w5"/>
-        <updated>2021-11-11T07:14:32.654Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t9w5">답글: '불편함'을 느낀다는 것 자체가 귀한 경험이라 생각합니다.</a>]]></content>
+        <title type="html"><![CDATA[CGV 백신패스관 이용후기, 위드코로나 너무 이른 것 같아요]]></title>
+        <id>https://alook.so/posts/VntVx0</id>
+        <link href="https://alook.so/posts/VntVx0"/>
+        <updated>2021-11-11T08:18:17.011Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntVx0">CGV 백신패스관 이용후기, 위드코로나 너무 이른 것 같아요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[열심히 살다가도 오늘은 현타가 오네요.]]></title>
-        <id>https://alook.so/posts/mbtw0q</id>
-        <link href="https://alook.so/posts/mbtw0q"/>
-        <updated>2021-11-11T07:14:32.654Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtw0q">열심히 살다가도 오늘은 현타가 오네요. </a>]]></content>
+        <title type="html"><![CDATA[얼룩소가 업데이트 됐어요!!]]></title>
+        <id>https://alook.so/posts/XBte9P</id>
+        <link href="https://alook.so/posts/XBte9P"/>
+        <updated>2021-11-11T08:18:17.012Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBte9P">얼룩소가 업데이트 됐어요!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 집 마련]]></title>
-        <id>https://alook.so/posts/54tKYW</id>
-        <link href="https://alook.so/posts/54tKYW"/>
-        <updated>2021-11-11T07:14:32.656Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tKYW">내 집 마련</a>]]></content>
+        <title type="html"><![CDATA[가치는 나에게 있지 대학 졸업장에 있지 않습니다.]]></title>
+        <id>https://alook.so/posts/w9tGkO</id>
+        <link href="https://alook.so/posts/w9tGkO"/>
+        <updated>2021-11-11T08:18:17.013Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tGkO">가치는 나에게 있지 대학 졸업장에 있지 않습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대형 재수 기숙학원에서 겪은 일]]></title>
-        <id>https://alook.so/posts/1RtXm7</id>
-        <link href="https://alook.so/posts/1RtXm7"/>
-        <updated>2021-11-11T07:14:32.656Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtXm7">대형 재수 기숙학원에서 겪은 일</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애초에 나는 사회 불평등이 해소될 때의 피해자일까?]]></title>
-        <id>https://alook.so/posts/70t8P3</id>
-        <link href="https://alook.so/posts/70t8P3"/>
-        <updated>2021-11-11T07:14:32.657Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t8P3">애초에 나는 사회 불평등이 해소될 때의 피해자일까?</a>]]></content>
+        <title type="html"><![CDATA[당신의 소울푸드, 무엇인가요?]]></title>
+        <id>https://alook.so/posts/xltBpx</id>
+        <link href="https://alook.so/posts/xltBpx"/>
+        <updated>2021-11-11T08:18:17.014Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBpx">당신의 소울푸드, 무엇인가요?</a>]]></content>
     </entry>
 </feed>
