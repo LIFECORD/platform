@@ -2,42 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-11T15:18:01.080Z</updated>
+    <updated>2021-11-11T16:22:53.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[랩실의 노예생활 중 하루 기록]]></title>
-        <id>https://alook.so/posts/M9tGYo</id>
-        <link href="https://alook.so/posts/M9tGYo"/>
-        <updated>2021-11-11T15:16:05.995Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tGYo">랩실의 노예생활 중 하루 기록</a>]]></content>
+        <title type="html"><![CDATA[11월 11일]]></title>
+        <id>https://alook.so/posts/YytE28</id>
+        <link href="https://alook.so/posts/YytE28"/>
+        <updated>2021-11-11T16:21:25.178Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytE28">11월 11일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리 얼룩소에서만은 가짜사연 올리지말아요]]></title>
-        <id>https://alook.so/posts/4XtlPR</id>
-        <link href="https://alook.so/posts/4XtlPR"/>
-        <updated>2021-11-11T15:16:05.998Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtlPR">우리 얼룩소에서만은 가짜사연 올리지말아요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흉악범 사형]]></title>
-        <id>https://alook.so/posts/XBteO0</id>
-        <link href="https://alook.so/posts/XBteO0"/>
-        <updated>2021-11-11T15:16:06.004Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBteO0">흉악범 사형</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가난은 냄새를 풍긴다]]></title>
-        <id>https://alook.so/posts/xltBYj</id>
-        <link href="https://alook.so/posts/xltBYj"/>
-        <updated>2021-11-11T15:16:06.006Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBYj">가난은 냄새를 풍긴다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단어의 오용을 지적합니다.]]></title>
-        <id>https://alook.so/posts/yEtKy7</id>
-        <link href="https://alook.so/posts/yEtKy7"/>
-        <updated>2021-11-11T15:16:06.008Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtKy7">단어의 오용을 지적합니다. </a>]]></content>
+        <title type="html"><![CDATA[우리 엄마가 만든 손만두요~]]></title>
+        <id>https://alook.so/posts/E7tWEb</id>
+        <link href="https://alook.so/posts/E7tWEb"/>
+        <updated>2021-11-11T16:21:25.179Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tWEb">우리 엄마가 만든 손만두요~</a>]]></content>
     </entry>
 </feed>
