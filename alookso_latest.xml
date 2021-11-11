@@ -2,49 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-11T12:23:23.118Z</updated>
+    <updated>2021-11-11T13:24:23.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[여자도 군대 가라는 말?]]></title>
-        <id>https://alook.so/posts/o7tWKW</id>
-        <link href="https://alook.so/posts/o7tWKW"/>
-        <updated>2021-11-11T12:21:56.943Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tWKW">여자도 군대 가라는 말?</a>]]></content>
+        <title type="html"><![CDATA[붕어빵은 팥인가, 슈크림인가]]></title>
+        <id>https://alook.so/posts/4XtlaR</id>
+        <link href="https://alook.so/posts/4XtlaR"/>
+        <updated>2021-11-11T13:22:50.285Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtlaR">붕어빵은 팥인가, 슈크림인가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가장 가깝고도 어려운 가족이야기.]]></title>
-        <id>https://alook.so/posts/70t8o5</id>
-        <link href="https://alook.so/posts/70t8o5"/>
-        <updated>2021-11-11T12:21:56.944Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t8o5">가장 가깝고도 어려운 가족이야기.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[축구 보셨나요?]]></title>
-        <id>https://alook.so/posts/YytEdX</id>
-        <link href="https://alook.so/posts/YytEdX"/>
-        <updated>2021-11-11T12:21:56.945Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytEdX">축구 보셨나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘]]></title>
-        <id>https://alook.so/posts/bWtoj9</id>
-        <link href="https://alook.so/posts/bWtoj9"/>
-        <updated>2021-11-11T12:21:56.946Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtoj9">요즘</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬스요!]]></title>
-        <id>https://alook.so/posts/Zktndo</id>
-        <link href="https://alook.so/posts/Zktndo"/>
-        <updated>2021-11-11T12:21:56.947Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktndo">헬스요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후위기?]]></title>
-        <id>https://alook.so/posts/dztmpq</id>
-        <link href="https://alook.so/posts/dztmpq"/>
-        <updated>2021-11-11T12:21:56.948Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztmpq">기후위기?</a>]]></content>
+        <title type="html"><![CDATA[버려지는 아이, 폭력 받는 아이, 무관심 받는 아이 입니다.]]></title>
+        <id>https://alook.so/posts/kZt5Md</id>
+        <link href="https://alook.so/posts/kZt5Md"/>
+        <updated>2021-11-11T13:22:50.287Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt5Md">버려지는 아이, 폭력 받는 아이, 무관심 받는 아이 입니다.</a>]]></content>
     </entry>
 </feed>
