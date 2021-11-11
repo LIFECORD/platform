@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-11T13:24:23.387Z</updated>
+    <updated>2021-11-11T14:15:42.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[붕어빵은 팥인가, 슈크림인가]]></title>
-        <id>https://alook.so/posts/4XtlaR</id>
-        <link href="https://alook.so/posts/4XtlaR"/>
-        <updated>2021-11-11T13:22:50.285Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtlaR">붕어빵은 팥인가, 슈크림인가</a>]]></content>
+        <title type="html"><![CDATA[바리스타]]></title>
+        <id>https://alook.so/posts/njtKM2</id>
+        <link href="https://alook.so/posts/njtKM2"/>
+        <updated>2021-11-11T14:14:10.649Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtKM2">바리스타</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[버려지는 아이, 폭력 받는 아이, 무관심 받는 아이 입니다.]]></title>
-        <id>https://alook.so/posts/kZt5Md</id>
-        <link href="https://alook.so/posts/kZt5Md"/>
-        <updated>2021-11-11T13:22:50.287Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt5Md">버려지는 아이, 폭력 받는 아이, 무관심 받는 아이 입니다.</a>]]></content>
+        <title type="html"><![CDATA[해고당하다...]]></title>
+        <id>https://alook.so/posts/G1tp7G</id>
+        <link href="https://alook.so/posts/G1tp7G"/>
+        <updated>2021-11-11T14:14:10.650Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tp7G">해고당하다...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[살포시 숟가락 얹어봅니다ㅎ]]></title>
+        <id>https://alook.so/posts/vKtbZz</id>
+        <link href="https://alook.so/posts/vKtbZz"/>
+        <updated>2021-11-11T14:14:10.652Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtbZz">살포시 숟가락 얹어봅니다ㅎ</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요소수]]></title>
+        <id>https://alook.so/posts/E7tWRb</id>
+        <link href="https://alook.so/posts/E7tWRb"/>
+        <updated>2021-11-11T14:14:10.653Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tWRb">요소수</a>]]></content>
     </entry>
 </feed>
