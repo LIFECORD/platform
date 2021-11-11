@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-11T19:13:57.692Z</updated>
+    <updated>2021-11-11T20:17:12.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[대체 뭘로 먹고 살아야 할지 정말 고민입니다.]]></title>
+        <id>https://alook.so/posts/J5tJRj</id>
+        <link href="https://alook.so/posts/J5tJRj"/>
+        <updated>2021-11-11T20:15:40.180Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tJRj">대체 뭘로 먹고 살아야 할지 정말 고민입니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반드시 집행해야 합니다, 교도소 내부를 위해서라도.]]></title>
+        <id>https://alook.so/posts/potBz3</id>
+        <link href="https://alook.so/posts/potBz3"/>
+        <updated>2021-11-11T20:15:40.181Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potBz3">반드시 집행해야 합니다, 교도소 내부를 위해서라도.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['순수한' 페미니스트의 정의란?]]></title>
+        <id>https://alook.so/posts/eVtpvG</id>
+        <link href="https://alook.so/posts/eVtpvG"/>
+        <updated>2021-11-11T20:15:40.182Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtpvG">'순수한' 페미니스트의 정의란?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[범죄 걱정을 안 하는 세상이 좋은 세상은 아닐 겁니다.]]></title>
+        <id>https://alook.so/posts/Pvtx4Z</id>
+        <link href="https://alook.so/posts/Pvtx4Z"/>
+        <updated>2021-11-11T20:15:40.183Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtx4Z">범죄 걱정을 안 하는 세상이 좋은 세상은 아닐 겁니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20대 후반, 집을 샀더니 전혀 다른 차원의 행복과 불행이 같이 왔습니다.]]></title>
+        <id>https://alook.so/posts/zvtjd1</id>
+        <link href="https://alook.so/posts/zvtjd1"/>
+        <updated>2021-11-11T20:15:40.185Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtjd1">20대 후반, 집을 샀더니 전혀 다른 차원의 행복과 불행이 같이 왔습니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이들이 공교육을 받으면서 큰틀을 깨고 못 나갈까 걱정됩니다.]]></title>
         <id>https://alook.so/posts/2xt71e</id>
         <link href="https://alook.so/posts/2xt71e"/>
         <updated>2021-11-11T19:12:19.801Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt71e">아이들이 공교육을 받으면서 큰틀을 깨고 못 나갈까 걱정됩니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저요! 저요! 저요!!!]]></title>
-        <id>https://alook.so/posts/4XtlEo</id>
-        <link href="https://alook.so/posts/4XtlEo"/>
-        <updated>2021-11-11T18:16:30.588Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtlEo">저요! 저요! 저요!!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 가장 기억에 남는 뉴스나 소식은먼가요?]]></title>
-        <id>https://alook.so/posts/XBtemB</id>
-        <link href="https://alook.so/posts/XBtemB"/>
-        <updated>2021-11-11T18:16:30.591Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtemB">요즘 가장 기억에 남는 뉴스나 소식은먼가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저도 숟가락 얹어봅니다ㅎ...]]></title>
-        <id>https://alook.so/posts/xltBeV</id>
-        <link href="https://alook.so/posts/xltBeV"/>
-        <updated>2021-11-11T18:16:30.594Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBeV">저도 숟가락 얹어봅니다ㅎ...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노키즈존 담론이 거세질수록, 부모인 나는 어떻게 처신하게 될까.]]></title>
-        <id>https://alook.so/posts/RGtPZr</id>
-        <link href="https://alook.so/posts/RGtPZr"/>
-        <updated>2021-11-11T18:16:30.595Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtPZr">노키즈존 담론이 거세질수록, 부모인 나는 어떻게 처신하게 될까.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그때로 돌아가는 기분.]]></title>
-        <id>https://alook.so/posts/kZt5JJ</id>
-        <link href="https://alook.so/posts/kZt5JJ"/>
-        <updated>2021-11-11T18:16:30.596Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt5JJ">그때로 돌아가는 기분. </a>]]></content>
     </entry>
 </feed>
