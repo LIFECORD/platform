@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-11T02:02:02.906Z</updated>
+    <updated>2021-11-11T02:31:43.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[10대때 내가 해야 했던 진정한 것]]></title>
-        <id>https://alook.so/posts/potBPb</id>
-        <link href="https://alook.so/posts/potBPb"/>
-        <updated>2021-11-11T02:00:36.767Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potBPb">10대때 내가 해야 했던 진정한 것</a>]]></content>
+        <title type="html"><![CDATA[TV동물농장 트럭에 끌려가던 강아지2마리]]></title>
+        <id>https://alook.so/posts/o7tW9x</id>
+        <link href="https://alook.so/posts/o7tW9x"/>
+        <updated>2021-11-11T02:30:12.740Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tW9x">TV동물농장 트럭에 끌려가던 강아지2마리</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['주 4일제' 가능할까요?]]></title>
-        <id>https://alook.so/posts/PvtxDr</id>
-        <link href="https://alook.so/posts/PvtxDr"/>
-        <updated>2021-11-11T02:00:36.769Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtxDr">'주 4일제' 가능할까요?</a>]]></content>
+        <title type="html"><![CDATA[여러 민감한 이슈로부터 접할 수 밖에 없는 내면의 '불편함', 어떻게 다루시나요?]]></title>
+        <id>https://alook.so/posts/70t8rL</id>
+        <link href="https://alook.so/posts/70t8rL"/>
+        <updated>2021-11-11T02:30:12.741Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t8rL">여러 민감한 이슈로부터 접할 수 밖에 없는 내면의 '불편함', 어떻게 다루시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[목적을 어디에 두느냐에 따른것 같아요. '수능' vs '성인으로 가는 길목']]></title>
-        <id>https://alook.so/posts/zvtjPG</id>
-        <link href="https://alook.so/posts/zvtjPG"/>
-        <updated>2021-11-11T02:00:36.770Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtjPG">목적을 어디에 두느냐에 따른것 같아요. '수능' vs '성인으로 가는 길목' </a>]]></content>
+        <title type="html"><![CDATA[부캐가 필요해]]></title>
+        <id>https://alook.so/posts/jdtXOl</id>
+        <link href="https://alook.so/posts/jdtXOl"/>
+        <updated>2021-11-11T02:30:12.742Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtXOl">부캐가 필요해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기억나는 기념일이 있으신가요?]]></title>
-        <id>https://alook.so/posts/WLtjdw</id>
-        <link href="https://alook.so/posts/WLtjdw"/>
-        <updated>2021-11-11T02:00:36.771Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtjdw">기억나는 기념일이 있으신가요?</a>]]></content>
+        <title type="html"><![CDATA[답글: 페미니즘에 대한 개념이 모두 다른 상황에서...]]></title>
+        <id>https://alook.so/posts/a0tK4x</id>
+        <link href="https://alook.so/posts/a0tK4x"/>
+        <updated>2021-11-11T02:30:12.743Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tK4x">답글: 페미니즘에 대한 개념이 모두 다른 상황에서...</a>]]></content>
     </entry>
 </feed>
