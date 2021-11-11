@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-11T14:15:42.999Z</updated>
+    <updated>2021-11-11T15:18:01.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[바리스타]]></title>
-        <id>https://alook.so/posts/njtKM2</id>
-        <link href="https://alook.so/posts/njtKM2"/>
-        <updated>2021-11-11T14:14:10.649Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtKM2">바리스타</a>]]></content>
+        <title type="html"><![CDATA[랩실의 노예생활 중 하루 기록]]></title>
+        <id>https://alook.so/posts/M9tGYo</id>
+        <link href="https://alook.so/posts/M9tGYo"/>
+        <updated>2021-11-11T15:16:05.995Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tGYo">랩실의 노예생활 중 하루 기록</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[해고당하다...]]></title>
-        <id>https://alook.so/posts/G1tp7G</id>
-        <link href="https://alook.so/posts/G1tp7G"/>
-        <updated>2021-11-11T14:14:10.650Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tp7G">해고당하다...</a>]]></content>
+        <title type="html"><![CDATA[우리 얼룩소에서만은 가짜사연 올리지말아요]]></title>
+        <id>https://alook.so/posts/4XtlPR</id>
+        <link href="https://alook.so/posts/4XtlPR"/>
+        <updated>2021-11-11T15:16:05.998Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtlPR">우리 얼룩소에서만은 가짜사연 올리지말아요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[살포시 숟가락 얹어봅니다ㅎ]]></title>
-        <id>https://alook.so/posts/vKtbZz</id>
-        <link href="https://alook.so/posts/vKtbZz"/>
-        <updated>2021-11-11T14:14:10.652Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtbZz">살포시 숟가락 얹어봅니다ㅎ</a>]]></content>
+        <title type="html"><![CDATA[흉악범 사형]]></title>
+        <id>https://alook.so/posts/XBteO0</id>
+        <link href="https://alook.so/posts/XBteO0"/>
+        <updated>2021-11-11T15:16:06.004Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBteO0">흉악범 사형</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요소수]]></title>
-        <id>https://alook.so/posts/E7tWRb</id>
-        <link href="https://alook.so/posts/E7tWRb"/>
-        <updated>2021-11-11T14:14:10.653Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tWRb">요소수</a>]]></content>
+        <title type="html"><![CDATA[가난은 냄새를 풍긴다]]></title>
+        <id>https://alook.so/posts/xltBYj</id>
+        <link href="https://alook.so/posts/xltBYj"/>
+        <updated>2021-11-11T15:16:06.006Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltBYj">가난은 냄새를 풍긴다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단어의 오용을 지적합니다.]]></title>
+        <id>https://alook.so/posts/yEtKy7</id>
+        <link href="https://alook.so/posts/yEtKy7"/>
+        <updated>2021-11-11T15:16:06.008Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtKy7">단어의 오용을 지적합니다. </a>]]></content>
     </entry>
 </feed>
