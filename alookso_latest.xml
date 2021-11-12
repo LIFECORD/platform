@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-12T08:19:41.854Z</updated>
+    <updated>2021-11-12T09:18:02.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[아직은 ‘배리어 프리’하지 못한 주변 환경]]></title>
-        <id>https://alook.so/posts/vKtmR9</id>
-        <link href="https://alook.so/posts/vKtmR9"/>
-        <updated>2021-11-12T08:18:16.552Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtmR9">아직은 ‘배리어 프리’하지 못한 주변 환경</a>]]></content>
+        <title type="html"><![CDATA["여성 유튜버들이 한번씩 듣는 말"이란 영상을 봤어요]]></title>
+        <id>https://alook.so/posts/w9tRyV</id>
+        <link href="https://alook.so/posts/w9tRyV"/>
+        <updated>2021-11-12T09:16:36.040Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tRyV">"여성 유튜버들이 한번씩 듣는 말"이란 영상을 봤어요 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무슨 고민 있으세요?]]></title>
-        <id>https://alook.so/posts/mbtGBw</id>
-        <link href="https://alook.so/posts/mbtGBw"/>
-        <updated>2021-11-12T08:18:16.554Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtGBw">무슨 고민 있으세요?</a>]]></content>
+        <title type="html"><![CDATA[아무것도 하지 않아도 더 격하게 아무것도 하고 싶지 않아!!]]></title>
+        <id>https://alook.so/posts/xlt8JD</id>
+        <link href="https://alook.so/posts/xlt8JD"/>
+        <updated>2021-11-12T09:16:36.041Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt8JD">아무것도 하지 않아도 더 격하게 아무것도 하고 싶지 않아!!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생일]]></title>
+        <id>https://alook.so/posts/kZtyLR</id>
+        <link href="https://alook.so/posts/kZtyLR"/>
+        <updated>2021-11-12T09:16:36.043Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtyLR">생일 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무서운 물가상승세, 범인은 누구인가?]]></title>
+        <id>https://alook.so/posts/LKtGak</id>
+        <link href="https://alook.so/posts/LKtGak"/>
+        <updated>2021-11-12T09:16:36.044Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtGak">무서운 물가상승세, 범인은 누구인가?</a>]]></content>
     </entry>
 </feed>
