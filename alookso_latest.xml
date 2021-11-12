@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-12T09:18:02.007Z</updated>
+    <updated>2021-11-12T10:17:35.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA["여성 유튜버들이 한번씩 듣는 말"이란 영상을 봤어요]]></title>
-        <id>https://alook.so/posts/w9tRyV</id>
-        <link href="https://alook.so/posts/w9tRyV"/>
-        <updated>2021-11-12T09:16:36.040Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tRyV">"여성 유튜버들이 한번씩 듣는 말"이란 영상을 봤어요 </a>]]></content>
+        <title type="html"><![CDATA[로버트 케네디의 <라스트 캠페인>]]></title>
+        <id>https://alook.so/posts/Djtrq7</id>
+        <link href="https://alook.so/posts/Djtrq7"/>
+        <updated>2021-11-12T10:16:07.101Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtrq7">로버트 케네디의 &lt;라스트 캠페인&gt;</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아무것도 하지 않아도 더 격하게 아무것도 하고 싶지 않아!!]]></title>
-        <id>https://alook.so/posts/xlt8JD</id>
-        <link href="https://alook.so/posts/xlt8JD"/>
-        <updated>2021-11-12T09:16:36.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt8JD">아무것도 하지 않아도 더 격하게 아무것도 하고 싶지 않아!!</a>]]></content>
+        <title type="html"><![CDATA[어째~ 장을 봐서 요리를 하는데 식비가 더 드는것 같죠?]]></title>
+        <id>https://alook.so/posts/1Rt5OO</id>
+        <link href="https://alook.so/posts/1Rt5OO"/>
+        <updated>2021-11-12T10:16:07.104Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt5OO">어째~ 장을 봐서 요리를 하는데 식비가 더 드는것 같죠?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생일]]></title>
-        <id>https://alook.so/posts/kZtyLR</id>
-        <link href="https://alook.so/posts/kZtyLR"/>
-        <updated>2021-11-12T09:16:36.043Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtyLR">생일 </a>]]></content>
+        <title type="html"><![CDATA[십대들도 사회에 물이 들었다?]]></title>
+        <id>https://alook.so/posts/rDtY8v</id>
+        <link href="https://alook.so/posts/rDtY8v"/>
+        <updated>2021-11-12T10:16:07.104Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtY8v">십대들도 사회에 물이 들었다?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무서운 물가상승세, 범인은 누구인가?]]></title>
-        <id>https://alook.so/posts/LKtGak</id>
-        <link href="https://alook.so/posts/LKtGak"/>
-        <updated>2021-11-12T09:16:36.044Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtGak">무서운 물가상승세, 범인은 누구인가?</a>]]></content>
+        <title type="html"><![CDATA[이재명 후보님, 가쓰라-태프트 협약은 존재하지 않았습니다]]></title>
+        <id>https://alook.so/posts/jdtl9K</id>
+        <link href="https://alook.so/posts/jdtl9K"/>
+        <updated>2021-11-12T10:16:07.105Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtl9K">이재명 후보님, 가쓰라-태프트 협약은 존재하지 않았습니다</a>]]></content>
     </entry>
 </feed>
