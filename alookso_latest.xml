@@ -2,35 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-12T04:21:14.119Z</updated>
+    <updated>2021-11-12T05:16:49.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[우리 얼룩소에서만은 민낯으로 만나요.]]></title>
-        <id>https://alook.so/posts/8WtWa7</id>
-        <link href="https://alook.so/posts/8WtWa7"/>
-        <updated>2021-11-12T04:19:38.096Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtWa7">우리 얼룩소에서만은 민낯으로 만나요.</a>]]></content>
+        <title type="html"><![CDATA['어린이 제품'이 '어린이'를 위하는 게 어려운가요?]]></title>
+        <id>https://alook.so/posts/70twk9</id>
+        <link href="https://alook.so/posts/70twk9"/>
+        <updated>2021-11-12T05:15:20.779Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70twk9">'어린이 제품'이 '어린이'를 위하는 게 어려운가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 공화 共和를 생각하는 편입니다.]]></title>
-        <id>https://alook.so/posts/latwq0</id>
-        <link href="https://alook.so/posts/latwq0"/>
-        <updated>2021-11-12T04:19:38.098Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latwq0">답글: 공화 共和를 생각하는 편입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈을 모은다는건 참 힘든거 같아요]]></title>
-        <id>https://alook.so/posts/KmtbDJ</id>
-        <link href="https://alook.so/posts/KmtbDJ"/>
-        <updated>2021-11-12T04:19:38.102Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtbDJ">돈을 모은다는건 참 힘든거 같아요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전국 지방마다 빈집이 수두룩...(매년 이행강제금 물린다) 이게 해결책일까요?]]></title>
-        <id>https://alook.so/posts/mbtGqJ</id>
-        <link href="https://alook.so/posts/mbtGqJ"/>
-        <updated>2021-11-12T04:19:38.106Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtGqJ">전국 지방마다 빈집이 수두룩...(매년 이행강제금 물린다) 이게 해결책일까요?</a>]]></content>
+        <title type="html"><![CDATA[얼룩커 여러분의 일상은 '배리어 프리'하신가요?]]></title>
+        <id>https://alook.so/posts/jdtleD</id>
+        <link href="https://alook.so/posts/jdtleD"/>
+        <updated>2021-11-12T05:15:20.781Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtleD">얼룩커 여러분의 일상은 '배리어 프리'하신가요? </a>]]></content>
     </entry>
 </feed>
