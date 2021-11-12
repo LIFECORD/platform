@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-12T18:19:28.271Z</updated>
+    <updated>2021-11-12T19:15:00.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -18,12 +18,5 @@
         <link href="https://alook.so/posts/rDtYrO"/>
         <updated>2021-11-12T18:17:57.343Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtYrO">남녀임금격차, 여자도 군대가자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가능할까요?정말?]]></title>
-        <id>https://alook.so/posts/a0tbv8</id>
-        <link href="https://alook.so/posts/a0tbv8"/>
-        <updated>2021-11-12T16:21:01.890Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tbv8">가능할까요?정말?</a>]]></content>
     </entry>
 </feed>
