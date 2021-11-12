@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-12T03:17:32.942Z</updated>
+    <updated>2021-11-12T04:21:14.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[편견 없는 자연 상태, 이후엔 편견을 넘어서]]></title>
-        <id>https://alook.so/posts/eVtKMa</id>
-        <link href="https://alook.so/posts/eVtKMa"/>
-        <updated>2021-11-12T03:16:01.089Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtKMa">편견 없는 자연 상태, 이후엔 편견을 넘어서</a>]]></content>
+        <title type="html"><![CDATA[우리 얼룩소에서만은 민낯으로 만나요.]]></title>
+        <id>https://alook.so/posts/8WtWa7</id>
+        <link href="https://alook.so/posts/8WtWa7"/>
+        <updated>2021-11-12T04:19:38.096Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtWa7">우리 얼룩소에서만은 민낯으로 만나요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고통이 주는 즐거움에 대해서.]]></title>
-        <id>https://alook.so/posts/zvt4D3</id>
-        <link href="https://alook.so/posts/zvt4D3"/>
-        <updated>2021-11-12T03:16:01.090Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt4D3">고통이 주는 즐거움에 대해서.</a>]]></content>
+        <title type="html"><![CDATA[답글: 공화 共和를 생각하는 편입니다.]]></title>
+        <id>https://alook.so/posts/latwq0</id>
+        <link href="https://alook.so/posts/latwq0"/>
+        <updated>2021-11-12T04:19:38.098Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latwq0">답글: 공화 共和를 생각하는 편입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인간은 안전지대에 있으면 나태해진다]]></title>
-        <id>https://alook.so/posts/2xtE2l</id>
-        <link href="https://alook.so/posts/2xtE2l"/>
-        <updated>2021-11-12T03:16:01.091Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtE2l">인간은 안전지대에 있으면 나태해진다</a>]]></content>
+        <title type="html"><![CDATA[돈을 모은다는건 참 힘든거 같아요]]></title>
+        <id>https://alook.so/posts/KmtbDJ</id>
+        <link href="https://alook.so/posts/KmtbDJ"/>
+        <updated>2021-11-12T04:19:38.102Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtbDJ">돈을 모은다는건 참 힘든거 같아요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보험료 타려고 10대 아들 생살 밴 부부..<진짜 이 사람들 부모가 맞나요?>]]></title>
-        <id>https://alook.so/posts/WLtx5B</id>
-        <link href="https://alook.so/posts/WLtx5B"/>
-        <updated>2021-11-12T03:16:01.092Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtx5B">보험료 타려고 10대 아들 생살 밴 부부..&lt;진짜 이 사람들 부모가 맞나요?&gt;</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판사의 망치, 의사봉은 존재하는가?]]></title>
-        <id>https://alook.so/posts/0ktVM8</id>
-        <link href="https://alook.so/posts/0ktVM8"/>
-        <updated>2021-11-12T03:16:01.093Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktVM8">판사의 망치, 의사봉은 존재하는가?</a>]]></content>
+        <title type="html"><![CDATA[전국 지방마다 빈집이 수두룩...(매년 이행강제금 물린다) 이게 해결책일까요?]]></title>
+        <id>https://alook.so/posts/mbtGqJ</id>
+        <link href="https://alook.so/posts/mbtGqJ"/>
+        <updated>2021-11-12T04:19:38.106Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtGqJ">전국 지방마다 빈집이 수두룩...(매년 이행강제금 물린다) 이게 해결책일까요?</a>]]></content>
     </entry>
 </feed>
