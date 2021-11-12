@@ -2,21 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-12T05:16:49.701Z</updated>
+    <updated>2021-11-12T06:19:20.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA['어린이 제품'이 '어린이'를 위하는 게 어려운가요?]]></title>
-        <id>https://alook.so/posts/70twk9</id>
-        <link href="https://alook.so/posts/70twk9"/>
-        <updated>2021-11-12T05:15:20.779Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70twk9">'어린이 제품'이 '어린이'를 위하는 게 어려운가요?</a>]]></content>
+        <title type="html"><![CDATA[K-pop이 세계를 제패한 이유가 뭘까요?]]></title>
+        <id>https://alook.so/posts/KmtbBb</id>
+        <link href="https://alook.so/posts/KmtbBb"/>
+        <updated>2021-11-12T06:17:50.800Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtbBb">K-pop이 세계를 제패한 이유가 뭘까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩커 여러분의 일상은 '배리어 프리'하신가요?]]></title>
-        <id>https://alook.so/posts/jdtleD</id>
-        <link href="https://alook.so/posts/jdtleD"/>
-        <updated>2021-11-12T05:15:20.781Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtleD">얼룩커 여러분의 일상은 '배리어 프리'하신가요? </a>]]></content>
+        <title type="html"><![CDATA[얼룩소 검색기능이 생기면서 좋은점]]></title>
+        <id>https://alook.so/posts/mbtGEw</id>
+        <link href="https://alook.so/posts/mbtGEw"/>
+        <updated>2021-11-12T06:17:50.801Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtGEw">얼룩소 검색기능이 생기면서 좋은점</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내게 딸은 필요없다.]]></title>
+        <id>https://alook.so/posts/54t8wp</id>
+        <link href="https://alook.so/posts/54t8wp"/>
+        <updated>2021-11-12T06:17:50.801Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t8wp">내게 딸은 필요없다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국정농단 태블릿피씨  검찰이 밝혔다. 최순실것이 아니라고!]]></title>
+        <id>https://alook.so/posts/o7tkl0</id>
+        <link href="https://alook.so/posts/o7tkl0"/>
+        <updated>2021-11-12T06:17:50.803Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tkl0">국정농단 태블릿피씨  검찰이 밝혔다. 최순실것이 아니라고!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공공재는 자장면이나 짜장면이나, 의 문제가 아닙니다.]]></title>
+        <id>https://alook.so/posts/70twvv</id>
+        <link href="https://alook.so/posts/70twvv"/>
+        <updated>2021-11-12T06:17:50.804Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70twvv">공공재는 자장면이나 짜장면이나, 의 문제가 아닙니다. </a>]]></content>
     </entry>
 </feed>
