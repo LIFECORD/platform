@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-12T10:17:35.695Z</updated>
+    <updated>2021-11-12T11:14:33.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[로버트 케네디의 <라스트 캠페인>]]></title>
-        <id>https://alook.so/posts/Djtrq7</id>
-        <link href="https://alook.so/posts/Djtrq7"/>
-        <updated>2021-11-12T10:16:07.101Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtrq7">로버트 케네디의 &lt;라스트 캠페인&gt;</a>]]></content>
+        <title type="html"><![CDATA[나의 한계와 1만원]]></title>
+        <id>https://alook.so/posts/E7tdYr</id>
+        <link href="https://alook.so/posts/E7tdYr"/>
+        <updated>2021-11-12T11:13:01.309Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tdYr">나의 한계와 1만원</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어째~ 장을 봐서 요리를 하는데 식비가 더 드는것 같죠?]]></title>
-        <id>https://alook.so/posts/1Rt5OO</id>
-        <link href="https://alook.so/posts/1Rt5OO"/>
-        <updated>2021-11-12T10:16:07.104Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt5OO">어째~ 장을 봐서 요리를 하는데 식비가 더 드는것 같죠?</a>]]></content>
+        <title type="html"><![CDATA[비장애인에게도 '배리어 프리'한 멋진 공간]]></title>
+        <id>https://alook.so/posts/54t8zG</id>
+        <link href="https://alook.so/posts/54t8zG"/>
+        <updated>2021-11-12T11:13:01.310Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t8zG">비장애인에게도 '배리어 프리'한 멋진 공간</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[십대들도 사회에 물이 들었다?]]></title>
-        <id>https://alook.so/posts/rDtY8v</id>
-        <link href="https://alook.so/posts/rDtY8v"/>
-        <updated>2021-11-12T10:16:07.104Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtY8v">십대들도 사회에 물이 들었다?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 후보님, 가쓰라-태프트 협약은 존재하지 않았습니다]]></title>
-        <id>https://alook.so/posts/jdtl9K</id>
-        <link href="https://alook.so/posts/jdtl9K"/>
-        <updated>2021-11-12T10:16:07.105Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtl9K">이재명 후보님, 가쓰라-태프트 협약은 존재하지 않았습니다</a>]]></content>
+        <title type="html"><![CDATA[11월 12일]]></title>
+        <id>https://alook.so/posts/1Rt5Oe</id>
+        <link href="https://alook.so/posts/1Rt5Oe"/>
+        <updated>2021-11-12T11:13:01.312Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt5Oe">11월 12일</a>]]></content>
     </entry>
 </feed>
