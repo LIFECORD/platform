@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-13T21:13:51.686Z</updated>
+    <updated>2021-11-13T22:15:14.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 10대가 불행한 이유]]></title>
+        <id>https://alook.so/posts/VntLRq</id>
+        <link href="https://alook.so/posts/VntLRq"/>
+        <updated>2021-11-13T22:13:40.595Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntLRq">한국 10대가 불행한 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이를 갖고 싶어도 그럴 수 없는 현실]]></title>
+        <id>https://alook.so/posts/zvt4l0</id>
+        <link href="https://alook.so/posts/zvt4l0"/>
+        <updated>2021-11-13T22:13:40.595Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt4l0">아이를 갖고 싶어도 그럴 수 없는 현실</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이상한 학교에서 벌어진 일]]></title>
         <id>https://alook.so/posts/WLtxW8</id>
@@ -25,19 +39,5 @@
         <link href="https://alook.so/posts/xlt85L"/>
         <updated>2021-11-13T19:11:41.975Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt85L">난 그런거 안해</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생전 처음으로 삼성전자 주식을 샀습니다.]]></title>
-        <id>https://alook.so/posts/RGtjym</id>
-        <link href="https://alook.so/posts/RGtjym"/>
-        <updated>2021-11-13T18:16:20.049Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtjym">생전 처음으로 삼성전자 주식을 샀습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외국인노동자 그리고 월세살이]]></title>
-        <id>https://alook.so/posts/kZtyr4</id>
-        <link href="https://alook.so/posts/kZtyr4"/>
-        <updated>2021-11-13T18:16:20.049Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtyr4">외국인노동자 그리고 월세살이</a>]]></content>
     </entry>
 </feed>
