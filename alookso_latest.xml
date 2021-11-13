@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-13T02:30:06.475Z</updated>
+    <updated>2021-11-13T03:17:31.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[정치에서 바라시는 것이 무엇인가요?]]></title>
-        <id>https://alook.so/posts/dztw4Z</id>
-        <link href="https://alook.so/posts/dztw4Z"/>
-        <updated>2021-11-13T02:28:33.632Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztw4Z">정치에서 바라시는 것이 무엇인가요?</a>]]></content>
+        <title type="html"><![CDATA[집값, 왜 못잡나요?]]></title>
+        <id>https://alook.so/posts/G1t3Xb</id>
+        <link href="https://alook.so/posts/G1t3Xb"/>
+        <updated>2021-11-13T03:16:04.881Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t3Xb">집값, 왜 못잡나요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이런~ 얼터뷰라니~ㅋ]]></title>
-        <id>https://alook.so/posts/J5t9bZ</id>
-        <link href="https://alook.so/posts/J5t9bZ"/>
-        <updated>2021-11-13T02:28:33.634Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t9bZ">이런~ 얼터뷰라니~ㅋ</a>]]></content>
+        <title type="html"><![CDATA[커뮤니티에 대한 고민이 있어요]]></title>
+        <id>https://alook.so/posts/OEtVYk</id>
+        <link href="https://alook.so/posts/OEtVYk"/>
+        <updated>2021-11-13T03:16:04.882Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtVYk">커뮤니티에 대한 고민이 있어요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[독립출판]을 시작하기 원한다면, [초기비용]을 꼭 줄이세요!]]></title>
-        <id>https://alook.so/posts/potynX</id>
-        <link href="https://alook.so/posts/potynX"/>
-        <updated>2021-11-13T02:28:33.635Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potynX">[독립출판]을 시작하기 원한다면, [초기비용]을 꼭 줄이세요!</a>]]></content>
+        <title type="html"><![CDATA[답글: 아, 달걀이 집문제로~]]></title>
+        <id>https://alook.so/posts/92tZml</id>
+        <link href="https://alook.so/posts/92tZml"/>
+        <updated>2021-11-13T03:16:04.883Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tZml">답글: 아, 달걀이 집문제로~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[꾸준하게 매일..? 그게 제일 힘들다]]></title>
-        <id>https://alook.so/posts/eVtKDd</id>
-        <link href="https://alook.so/posts/eVtKDd"/>
-        <updated>2021-11-13T02:28:33.637Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtKDd">꾸준하게 매일..? 그게 제일 힘들다</a>]]></content>
+        <title type="html"><![CDATA[안녕하세요. 고1입니다]]></title>
+        <id>https://alook.so/posts/Kmtb79</id>
+        <link href="https://alook.so/posts/Kmtb79"/>
+        <updated>2021-11-13T03:16:04.884Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtb79">안녕하세요. 고1입니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아내와 다투었습니다]]></title>
-        <id>https://alook.so/posts/zvt41q</id>
-        <link href="https://alook.so/posts/zvt41q"/>
-        <updated>2021-11-13T02:28:33.638Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt41q"> 아내와 다투었습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매일 불평불만인 친구 어떻게 할까요?]]></title>
-        <id>https://alook.so/posts/WLtxa1</id>
-        <link href="https://alook.so/posts/WLtxa1"/>
-        <updated>2021-11-13T01:55:08.694Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtxa1">매일 불평불만인 친구 어떻게 할까요?</a>]]></content>
+        <title type="html"><![CDATA[술에 취해 귀가 안하는 여친 폭행한 20대 벌금 200만원]]></title>
+        <id>https://alook.so/posts/54t8pn</id>
+        <link href="https://alook.so/posts/54t8pn"/>
+        <updated>2021-11-13T03:16:04.885Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t8pn">술에 취해 귀가 안하는 여친 폭행한 20대 벌금 200만원</a>]]></content>
     </entry>
 </feed>
