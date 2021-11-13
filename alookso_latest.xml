@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-13T00:46:01.875Z</updated>
+    <updated>2021-11-13T01:56:34.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[사진을 찍으면 좋는 점]]></title>
-        <id>https://alook.so/posts/6Mt1pY</id>
-        <link href="https://alook.so/posts/6Mt1pY"/>
-        <updated>2021-11-13T00:44:21.048Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt1pY">사진을 찍으면 좋는 점</a>]]></content>
+        <title type="html"><![CDATA[매일 불평불만인 친구 어떻게 할까요?]]></title>
+        <id>https://alook.so/posts/WLtxa1</id>
+        <link href="https://alook.so/posts/WLtxa1"/>
+        <updated>2021-11-13T01:55:08.694Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtxa1">매일 불평불만인 친구 어떻게 할까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세입자로 사는 서러움]]></title>
-        <id>https://alook.so/posts/G1t3nb</id>
-        <link href="https://alook.so/posts/G1t3nb"/>
-        <updated>2021-11-13T00:44:21.050Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t3nb">세입자로 사는 서러움</a>]]></content>
+        <title type="html"><![CDATA[닮은꼴]]></title>
+        <id>https://alook.so/posts/0ktVZD</id>
+        <link href="https://alook.so/posts/0ktVZD"/>
+        <updated>2021-11-13T01:55:08.695Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktVZD">닮은꼴</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[육아휴직을 하는 대한민국 한명의 아빠로써 바라보는 마음]]></title>
-        <id>https://alook.so/posts/OEtVJk</id>
-        <link href="https://alook.so/posts/OEtVJk"/>
-        <updated>2021-11-13T00:44:21.052Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtVJk">육아휴직을 하는 대한민국 한명의 아빠로써 바라보는 마음</a>]]></content>
+        <title type="html"><![CDATA[가난은 게으름이 맞을까?]]></title>
+        <id>https://alook.so/posts/XBtVYV</id>
+        <link href="https://alook.so/posts/XBtVYV"/>
+        <updated>2021-11-13T01:55:08.696Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtVYV">가난은 게으름이 맞을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연말에 없어질 포인트를 이웃에게]]></title>
-        <id>https://alook.so/posts/E7tdwZ</id>
-        <link href="https://alook.so/posts/E7tdwZ"/>
-        <updated>2021-11-13T00:44:21.054Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tdwZ">연말에 없어질 포인트를 이웃에게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[test.hwp _ 친구의 결혼이 내 생각을 조금 바꿨다.]]></title>
-        <id>https://alook.so/posts/KmtbG9</id>
-        <link href="https://alook.so/posts/KmtbG9"/>
-        <updated>2021-11-13T00:44:21.056Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtbG9">test.hwp _ 친구의 결혼이 내 생각을 조금 바꿨다.</a>]]></content>
+        <title type="html"><![CDATA[아, 달걀이여!]]></title>
+        <id>https://alook.so/posts/w9tR0G</id>
+        <link href="https://alook.so/posts/w9tR0G"/>
+        <updated>2021-11-13T01:55:08.698Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tR0G">아, 달걀이여!</a>]]></content>
     </entry>
 </feed>
