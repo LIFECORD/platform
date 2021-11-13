@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-13T22:15:14.411Z</updated>
+    <updated>2021-11-13T23:17:30.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[돌부처에게 절하면 나도 돌이 된다고?]]></title>
+        <id>https://alook.so/posts/potyjW</id>
+        <link href="https://alook.so/posts/potyjW"/>
+        <updated>2021-11-13T23:15:52.308Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potyjW">돌부처에게 절하면 나도 돌이 된다고?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자기생각하는 나름인것 같습니다]]></title>
+        <id>https://alook.so/posts/eVtK4M</id>
+        <link href="https://alook.so/posts/eVtK4M"/>
+        <updated>2021-11-13T23:15:52.310Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtK4M">자기생각하는 나름인것 같습니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 10대가 불행한 이유]]></title>
         <id>https://alook.so/posts/VntLRq</id>
@@ -25,19 +39,5 @@
         <link href="https://alook.so/posts/WLtxW8"/>
         <updated>2021-11-13T21:12:19.396Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtxW8">이상한 학교에서 벌어진 일</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리가 연애를 못하는 이유]]></title>
-        <id>https://alook.so/posts/M9tlp6</id>
-        <link href="https://alook.so/posts/M9tlp6"/>
-        <updated>2021-11-13T19:11:41.974Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tlp6">우리가 연애를 못하는 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난 그런거 안해]]></title>
-        <id>https://alook.so/posts/xlt85L</id>
-        <link href="https://alook.so/posts/xlt85L"/>
-        <updated>2021-11-13T19:11:41.975Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt85L">난 그런거 안해</a>]]></content>
     </entry>
 </feed>
