@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-13T03:17:31.722Z</updated>
+    <updated>2021-11-13T04:21:12.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[저의 고민 상담입니다.]]></title>
+        <id>https://alook.so/posts/BatE0q</id>
+        <link href="https://alook.so/posts/BatE0q"/>
+        <updated>2021-11-13T04:19:35.327Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatE0q">저의 고민 상담입니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[집값, 왜 못잡나요?]]></title>
         <id>https://alook.so/posts/G1t3Xb</id>
@@ -18,26 +25,5 @@
         <link href="https://alook.so/posts/OEtVYk"/>
         <updated>2021-11-13T03:16:04.882Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtVYk">커뮤니티에 대한 고민이 있어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 아, 달걀이 집문제로~]]></title>
-        <id>https://alook.so/posts/92tZml</id>
-        <link href="https://alook.so/posts/92tZml"/>
-        <updated>2021-11-13T03:16:04.883Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tZml">답글: 아, 달걀이 집문제로~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕하세요. 고1입니다]]></title>
-        <id>https://alook.so/posts/Kmtb79</id>
-        <link href="https://alook.so/posts/Kmtb79"/>
-        <updated>2021-11-13T03:16:04.884Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtb79">안녕하세요. 고1입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[술에 취해 귀가 안하는 여친 폭행한 20대 벌금 200만원]]></title>
-        <id>https://alook.so/posts/54t8pn</id>
-        <link href="https://alook.so/posts/54t8pn"/>
-        <updated>2021-11-13T03:16:04.885Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t8pn">술에 취해 귀가 안하는 여친 폭행한 20대 벌금 200만원</a>]]></content>
     </entry>
 </feed>
