@@ -2,7 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-14T10:17:13.104Z</updated>
+    <updated>2021-11-14T11:15:19.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[바꿀 수 없다고 생각해요]]></title>
+        <id>https://alook.so/posts/bWt7Y8</id>
+        <link href="https://alook.so/posts/bWt7Y8"/>
+        <updated>2021-11-14T11:13:52.258Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt7Y8">바꿀 수 없다고 생각해요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학이 인생을 좌우하니까요]]></title>
+        <id>https://alook.so/posts/a0tb1w</id>
+        <link href="https://alook.so/posts/a0tb1w"/>
+        <updated>2021-11-14T11:13:52.261Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tb1w">대학이 인생을 좌우하니까요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[과거의 이상 사회가 가능할 미래]]></title>
+        <id>https://alook.so/posts/J5t94l</id>
+        <link href="https://alook.so/posts/J5t94l"/>
+        <updated>2021-11-14T11:13:52.262Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t94l">과거의 이상 사회가 가능할 미래 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강력한 군사력이 나라의 역사를 만든다]]></title>
+        <id>https://alook.so/posts/poty51</id>
+        <link href="https://alook.so/posts/poty51"/>
+        <updated>2021-11-14T11:13:52.263Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/poty51">강력한 군사력이 나라의 역사를 만든다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고등학생이 말하는 '슬기로운 학원생활']]></title>
+        <id>https://alook.so/posts/eVtK0J</id>
+        <link href="https://alook.so/posts/eVtK0J"/>
+        <updated>2021-11-14T11:13:52.264Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtK0J">고등학생이 말하는 '슬기로운 학원생활'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['배리어 프리'를 실천하기 : 장애인의 웹 접근성]]></title>
+        <id>https://alook.so/posts/PvtZvL</id>
+        <link href="https://alook.so/posts/PvtZvL"/>
+        <updated>2021-11-14T11:13:52.266Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtZvL">'배리어 프리'를 실천하기 : 장애인의 웹 접근성</a>]]></content>
+    </entry>
 </feed>
