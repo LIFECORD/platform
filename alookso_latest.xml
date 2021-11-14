@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-14T16:22:08.867Z</updated>
+    <updated>2021-11-14T17:20:48.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[내가 본 최고의 국뽕]]></title>
+        <id>https://alook.so/posts/q1tRkR</id>
+        <link href="https://alook.so/posts/q1tRkR"/>
+        <updated>2021-11-14T17:19:12.097Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tRkR">내가 본 최고의 국뽕</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 부인과 이재명 부인 기사의 차이]]></title>
+        <id>https://alook.so/posts/70twK1</id>
+        <link href="https://alook.so/posts/70twK1"/>
+        <updated>2021-11-14T17:19:12.097Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70twK1">윤석열 부인과 이재명 부인 기사의 차이</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노노갈등, 이러다가는 다 죽어!]]></title>
         <id>https://alook.so/posts/YytRx9</id>
@@ -18,33 +32,5 @@
         <link href="https://alook.so/posts/jdtlL3"/>
         <updated>2021-11-14T16:20:37.674Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtlL3">국방비 감축할 수 있는 기회를 만듭시다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로또 어디서 구매하시나요?]]></title>
-        <id>https://alook.so/posts/ZktBL9</id>
-        <link href="https://alook.so/posts/ZktBL9"/>
-        <updated>2021-11-14T16:20:37.676Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktBL9">로또 어디서 구매하시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행복과 불행을 넘어..]]></title>
-        <id>https://alook.so/posts/dztw8R</id>
-        <link href="https://alook.so/posts/dztw8R"/>
-        <updated>2021-11-14T16:20:37.678Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztw8R">행복과 불행을 넘어..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걷기운동]]></title>
-        <id>https://alook.so/posts/eVtKZl</id>
-        <link href="https://alook.so/posts/eVtKZl"/>
-        <updated>2021-11-14T16:20:37.679Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtKZl">걷기운동</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에서 좋아요 100개를 받게되었습니다.]]></title>
-        <id>https://alook.so/posts/PvtZXy</id>
-        <link href="https://alook.so/posts/PvtZXy"/>
-        <updated>2021-11-14T16:20:37.681Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtZXy">얼룩소에서 좋아요 100개를 받게되었습니다.</a>]]></content>
     </entry>
 </feed>
