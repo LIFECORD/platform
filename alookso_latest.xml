@@ -2,42 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-13T23:17:30.837Z</updated>
+    <updated>2021-11-14T00:48:44.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[돌부처에게 절하면 나도 돌이 된다고?]]></title>
-        <id>https://alook.so/posts/potyjW</id>
-        <link href="https://alook.so/posts/potyjW"/>
-        <updated>2021-11-13T23:15:52.308Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potyjW">돌부처에게 절하면 나도 돌이 된다고?</a>]]></content>
+        <title type="html"><![CDATA[10대들은 불행인가 축복인가]]></title>
+        <id>https://alook.so/posts/1Rt5rk</id>
+        <link href="https://alook.so/posts/1Rt5rk"/>
+        <updated>2021-11-14T00:47:18.353Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt5rk">10대들은 불행인가 축복인가 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자기생각하는 나름인것 같습니다]]></title>
-        <id>https://alook.so/posts/eVtK4M</id>
-        <link href="https://alook.so/posts/eVtK4M"/>
-        <updated>2021-11-13T23:15:52.310Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtK4M">자기생각하는 나름인것 같습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 10대가 불행한 이유]]></title>
-        <id>https://alook.so/posts/VntLRq</id>
-        <link href="https://alook.so/posts/VntLRq"/>
-        <updated>2021-11-13T22:13:40.595Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntLRq">한국 10대가 불행한 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이를 갖고 싶어도 그럴 수 없는 현실]]></title>
-        <id>https://alook.so/posts/zvt4l0</id>
-        <link href="https://alook.so/posts/zvt4l0"/>
-        <updated>2021-11-13T22:13:40.595Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt4l0">아이를 갖고 싶어도 그럴 수 없는 현실</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상한 학교에서 벌어진 일]]></title>
-        <id>https://alook.so/posts/WLtxW8</id>
-        <link href="https://alook.so/posts/WLtxW8"/>
-        <updated>2021-11-13T21:12:19.396Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtxW8">이상한 학교에서 벌어진 일</a>]]></content>
+        <title type="html"><![CDATA[논란이 되었던 '가짜사연' 주인공 혹시 저인가요?]]></title>
+        <id>https://alook.so/posts/o7tkxq</id>
+        <link href="https://alook.so/posts/o7tkxq"/>
+        <updated>2021-11-14T00:47:18.355Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tkxq">논란이 되었던 '가짜사연' 주인공 혹시 저인가요?</a>]]></content>
     </entry>
 </feed>
