@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-14T07:15:50.507Z</updated>
+    <updated>2021-11-14T08:18:12.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[요즘 나의 고민은]]></title>
-        <id>https://alook.so/posts/KmtbrK</id>
-        <link href="https://alook.so/posts/KmtbrK"/>
-        <updated>2021-11-14T07:14:19.295Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtbrK">요즘 나의 고민은</a>]]></content>
+        <title type="html"><![CDATA[샤넬 좋아하세요?]]></title>
+        <id>https://alook.so/posts/xlt8a1</id>
+        <link href="https://alook.so/posts/xlt8a1"/>
+        <updated>2021-11-14T08:16:43.252Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt8a1">샤넬 좋아하세요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20대 청년 소득세를 감면하면 재벌 3세만 혜택?]]></title>
-        <id>https://alook.so/posts/54t8E7</id>
-        <link href="https://alook.so/posts/54t8E7"/>
-        <updated>2021-11-14T07:14:19.296Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t8E7">20대 청년 소득세를 감면하면 재벌 3세만 혜택?</a>]]></content>
+        <title type="html"><![CDATA[추억을 떠올리게 하는 노래가 있으신가요?]]></title>
+        <id>https://alook.so/posts/RGtjJB</id>
+        <link href="https://alook.so/posts/RGtjJB"/>
+        <updated>2021-11-14T08:16:43.254Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtjJB">추억을 떠올리게 하는 노래가 있으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소스 좀 알려주세요.]]></title>
-        <id>https://alook.so/posts/q1tRWw</id>
-        <link href="https://alook.so/posts/q1tRWw"/>
-        <updated>2021-11-14T07:14:19.297Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tRWw">소스 좀 알려주세요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주4일제,근로자라면]]></title>
-        <id>https://alook.so/posts/Djtr4n</id>
-        <link href="https://alook.so/posts/Djtr4n"/>
-        <updated>2021-11-14T07:14:19.298Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtr4n">주4일제,근로자라면 </a>]]></content>
+        <title type="html"><![CDATA[힘든 일이라고 생각해요]]></title>
+        <id>https://alook.so/posts/njt8m8</id>
+        <link href="https://alook.so/posts/njt8m8"/>
+        <updated>2021-11-14T08:16:43.255Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt8m8">힘든 일이라고 생각해요</a>]]></content>
     </entry>
 </feed>
