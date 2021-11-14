@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-14T05:15:14.761Z</updated>
+    <updated>2021-11-14T06:18:40.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[가족과 비지니스 되기]]></title>
-        <id>https://alook.so/posts/kZtymB</id>
-        <link href="https://alook.so/posts/kZtymB"/>
-        <updated>2021-11-14T05:13:47.717Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtymB">가족과 비지니스 되기</a>]]></content>
+        <title type="html"><![CDATA[이게 바로 노.....]]></title>
+        <id>https://alook.so/posts/o7tkEq</id>
+        <link href="https://alook.so/posts/o7tkEq"/>
+        <updated>2021-11-14T06:17:03.306Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tkEq">이게 바로 노.....</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[참으로 치졸한 오세훈 서울시정.]]></title>
-        <id>https://alook.so/posts/LKtGv3</id>
-        <link href="https://alook.so/posts/LKtGv3"/>
-        <updated>2021-11-14T05:13:47.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtGv3">참으로 치졸한 오세훈 서울시정.</a>]]></content>
+        <title type="html"><![CDATA[어떻게 살아야 마음이 편할까.]]></title>
+        <id>https://alook.so/posts/YytRLn</id>
+        <link href="https://alook.so/posts/YytRLn"/>
+        <updated>2021-11-14T06:17:03.308Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytRLn">어떻게 살아야 마음이 편할까.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국의 10대는 경쟁구도…]]></title>
-        <id>https://alook.so/posts/njt85M</id>
-        <link href="https://alook.so/posts/njt85M"/>
-        <updated>2021-11-14T05:13:47.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt85M">한국의 10대는 경쟁구도… </a>]]></content>
+        <title type="html"><![CDATA[뒤늦게 깨달은 마케팅의 힘]]></title>
+        <id>https://alook.so/posts/rDtY0m</id>
+        <link href="https://alook.so/posts/rDtY0m"/>
+        <updated>2021-11-14T06:17:03.310Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtY0m">뒤늦게 깨달은 마케팅의 힘</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중증 얼루커들을 위한 대책, 있..으..시겠죠?]]></title>
-        <id>https://alook.so/posts/6Mt15w</id>
-        <link href="https://alook.so/posts/6Mt15w"/>
-        <updated>2021-11-14T05:13:47.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt15w">중증 얼루커들을 위한 대책, 있..으..시겠죠?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아파트에서 삼겹살 구워먹으면 안되나요?]]></title>
-        <id>https://alook.so/posts/3wtDz7</id>
-        <link href="https://alook.so/posts/3wtDz7"/>
-        <updated>2021-11-14T05:13:47.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtDz7">아파트에서 삼겹살 구워먹으면 안되나요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 청소년들은 언제나 불행하다]]></title>
-        <id>https://alook.so/posts/8WtWrx</id>
-        <link href="https://alook.so/posts/8WtWrx"/>
-        <updated>2021-11-14T05:13:47.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtWrx">한국의 청소년들은 언제나 불행하다</a>]]></content>
+        <title type="html"><![CDATA[답글: 금손이시네요~^^]]></title>
+        <id>https://alook.so/posts/bWt7E5</id>
+        <link href="https://alook.so/posts/bWt7E5"/>
+        <updated>2021-11-14T06:17:03.311Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt7E5">답글: 금손이시네요~^^</a>]]></content>
     </entry>
 </feed>
