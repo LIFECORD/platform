@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-14T17:20:48.947Z</updated>
+    <updated>2021-11-14T18:18:06.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -25,12 +25,5 @@
         <link href="https://alook.so/posts/YytRx9"/>
         <updated>2021-11-14T16:20:37.673Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytRx9">노노갈등, 이러다가는 다 죽어!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국방비 감축할 수 있는 기회를 만듭시다.]]></title>
-        <id>https://alook.so/posts/jdtlL3</id>
-        <link href="https://alook.so/posts/jdtlL3"/>
-        <updated>2021-11-14T16:20:37.674Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtlL3">국방비 감축할 수 있는 기회를 만듭시다.</a>]]></content>
     </entry>
 </feed>
