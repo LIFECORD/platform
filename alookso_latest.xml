@@ -2,56 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-15T07:16:14.478Z</updated>
+    <updated>2021-11-15T08:20:55.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[버스기사 직업 어떤 것 같아요? 기술직이라서..추천합니다.]]></title>
-        <id>https://alook.so/posts/LKtGoO</id>
-        <link href="https://alook.so/posts/LKtGoO"/>
-        <updated>2021-11-15T07:14:43.303Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtGoO">버스기사 직업 어떤 것 같아요? 기술직이라서..추천합니다.</a>]]></content>
+        <title type="html"><![CDATA[촉각방어증후군에 대해 아시나요?]]></title>
+        <id>https://alook.so/posts/YytRJl</id>
+        <link href="https://alook.so/posts/YytRJl"/>
+        <updated>2021-11-15T08:19:16.860Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytRJl">촉각방어증후군에 대해 아시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대학 졸업장, 그 가치에 대하여]]></title>
-        <id>https://alook.so/posts/6Mt1X2</id>
-        <link href="https://alook.so/posts/6Mt1X2"/>
-        <updated>2021-11-15T07:14:43.304Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt1X2">대학 졸업장, 그 가치에 대하여</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연돈볼카츠.. 농가엔 구세주? 소비자엔 낙제점?]]></title>
-        <id>https://alook.so/posts/3wtD8O</id>
-        <link href="https://alook.so/posts/3wtD8O"/>
-        <updated>2021-11-15T07:14:43.305Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtD8O">연돈볼카츠.. 농가엔 구세주? 소비자엔 낙제점?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 일주일 동안 오르막길 또 함께 오르죠~!!]]></title>
-        <id>https://alook.so/posts/8WtWyr</id>
-        <link href="https://alook.so/posts/8WtWyr"/>
-        <updated>2021-11-15T07:14:43.306Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtWyr">답글: 일주일 동안 오르막길 또 함께 오르죠~!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흉악범은 사형을 집행해야 할까요]]></title>
-        <id>https://alook.so/posts/G1t3va</id>
-        <link href="https://alook.so/posts/G1t3va"/>
-        <updated>2021-11-15T07:14:43.307Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t3va">흉악범은 사형을 집행해야 할까요 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나 하나쯤이야]]></title>
-        <id>https://alook.so/posts/OEtV6j</id>
-        <link href="https://alook.so/posts/OEtV6j"/>
-        <updated>2021-11-15T07:14:43.308Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtV6j">나 하나쯤이야</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이에게 꼭 메이커를 사줘야 하는 건가요?]]></title>
-        <id>https://alook.so/posts/vKtmYO</id>
-        <link href="https://alook.so/posts/vKtmYO"/>
-        <updated>2021-11-15T07:14:43.309Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtmYO">아이에게 꼭 메이커를 사줘야 하는 건가요?</a>]]></content>
+        <title type="html"><![CDATA[유자차 먹고 싶어지는 날]]></title>
+        <id>https://alook.so/posts/ZktBwd</id>
+        <link href="https://alook.so/posts/ZktBwd"/>
+        <updated>2021-11-15T08:19:16.874Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktBwd">유자차 먹고 싶어지는 날</a>]]></content>
     </entry>
 </feed>
