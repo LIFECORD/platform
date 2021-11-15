@@ -2,56 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-15T22:16:32.880Z</updated>
+    <updated>2021-11-15T23:16:25.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼루커 얼터뷰로 제가 선정되어, 인터뷰를 한다네요~!]]></title>
+        <title type="html"><![CDATA[아빠의 아르바이트 그리고 지하철]]></title>
+        <id>https://alook.so/posts/8WtWG0</id>
+        <link href="https://alook.so/posts/8WtWG0"/>
+        <updated>2021-11-15T23:14:59.293Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtWG0">아빠의 아르바이트 그리고 지하철</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비교집단 설정에 대한 의문]]></title>
+        <id>https://alook.so/posts/E7tdq5</id>
+        <link href="https://alook.so/posts/E7tdq5"/>
+        <updated>2021-11-15T23:14:59.294Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tdq5">비교집단 설정에 대한 의문</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼루커 얼터뷰로 선정되어, 인터뷰를 한다네요~!]]></title>
         <id>https://alook.so/posts/mbtG1R</id>
         <link href="https://alook.so/posts/mbtG1R"/>
         <updated>2021-11-15T22:15:04.823Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtG1R">얼루커 얼터뷰로 제가 선정되어, 인터뷰를 한다네요~!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대학졸업장!]]></title>
-        <id>https://alook.so/posts/q1tRJJ</id>
-        <link href="https://alook.so/posts/q1tRJJ"/>
-        <updated>2021-11-15T21:20:21.575Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tRJJ">대학졸업장!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 알진 못하지만]]></title>
-        <id>https://alook.so/posts/DjtrRM</id>
-        <link href="https://alook.so/posts/DjtrRM"/>
-        <updated>2021-11-15T21:20:21.578Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtrRM">잘 알진 못하지만</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이가 든다는 것은 무엇일까요?]]></title>
-        <id>https://alook.so/posts/1Rt59D</id>
-        <link href="https://alook.so/posts/1Rt59D"/>
-        <updated>2021-11-15T19:12:17.455Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt59D">나이가 든다는 것은 무엇일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BTS(방탄소년단)은 왜 세계적으로 인기있을까]]></title>
-        <id>https://alook.so/posts/o7tkJ3</id>
-        <link href="https://alook.so/posts/o7tkJ3"/>
-        <updated>2021-11-15T19:12:17.455Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tkJ3">BTS(방탄소년단)은 왜 세계적으로 인기있을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 경험한 최고의 국뽕]]></title>
-        <id>https://alook.so/posts/70tw70</id>
-        <link href="https://alook.so/posts/70tw70"/>
-        <updated>2021-11-15T19:12:17.459Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tw70">내가 경험한 최고의 국뽕</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 절대 나를 표현한 적이 없다.]]></title>
-        <id>https://alook.so/posts/rDtYqM</id>
-        <link href="https://alook.so/posts/rDtYqM"/>
-        <updated>2021-11-15T18:14:24.103Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtYqM">나는 절대 나를 표현한 적이 없다.</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtG1R">얼루커 얼터뷰로 선정되어, 인터뷰를 한다네요~!</a>]]></content>
     </entry>
 </feed>
