@@ -2,56 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-15T16:25:07.420Z</updated>
+    <updated>2021-11-15T17:23:53.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[국회의원의 숫자보다는 국회의원의 급여를 줄여야한다.]]></title>
-        <id>https://alook.so/posts/xlt8jz</id>
-        <link href="https://alook.so/posts/xlt8jz"/>
-        <updated>2021-11-15T16:23:39.112Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt8jz">국회의원의 숫자보다는 국회의원의 급여를 줄여야한다.</a>]]></content>
+        <title type="html"><![CDATA[미국과 중국이 사이가 나빠질 경우 우리나라는 곤란해집니다.]]></title>
+        <id>https://alook.so/posts/ZktBVL</id>
+        <link href="https://alook.so/posts/ZktBVL"/>
+        <updated>2021-11-15T17:22:22.447Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktBVL">미국과 중국이 사이가 나빠질 경우 우리나라는 곤란해집니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사람들이 부자가 된 게 아니라,]]></title>
-        <id>https://alook.so/posts/RGtjWM</id>
-        <link href="https://alook.so/posts/RGtjWM"/>
-        <updated>2021-11-15T16:23:39.113Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtjWM">사람들이 부자가 된 게 아니라,</a>]]></content>
+        <title type="html"><![CDATA[Qualified 되지 않은 자들]]></title>
+        <id>https://alook.so/posts/dztwb8</id>
+        <link href="https://alook.so/posts/dztwb8"/>
+        <updated>2021-11-15T17:22:22.449Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztwb8">Qualified 되지 않은 자들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[철도 지하화, 꼭 해야 할까요?]]></title>
-        <id>https://alook.so/posts/yEt90V</id>
-        <link href="https://alook.so/posts/yEt90V"/>
-        <updated>2021-11-15T16:23:39.115Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt90V">철도 지하화, 꼭 해야 할까요?</a>]]></content>
+        <title type="html"><![CDATA[재난지원금 한번도 못받아 본 여자]]></title>
+        <id>https://alook.so/posts/VntLBk</id>
+        <link href="https://alook.so/posts/VntLBk"/>
+        <updated>2021-11-15T17:22:22.450Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntLBk">재난지원금 한번도 못받아 본 여자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[합정역 여자화장실 갔다가 화나서 쓰는 글]]></title>
-        <id>https://alook.so/posts/LKtGLm</id>
-        <link href="https://alook.so/posts/LKtGLm"/>
-        <updated>2021-11-15T16:23:39.116Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtGLm">합정역 여자화장실 갔다가 화나서 쓰는 글</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[준석이는 무사히 할아버지가 될 수 있을까]]></title>
-        <id>https://alook.so/posts/njt8rz</id>
-        <link href="https://alook.so/posts/njt8rz"/>
-        <updated>2021-11-15T16:23:39.117Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt8rz">준석이는 무사히 할아버지가 될 수 있을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회사는 회사의 편]]></title>
-        <id>https://alook.so/posts/6Mt1D4</id>
-        <link href="https://alook.so/posts/6Mt1D4"/>
-        <updated>2021-11-15T16:23:39.119Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt1D4">회사는 회사의 편</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가능합니다. 충분히 말입니다.]]></title>
-        <id>https://alook.so/posts/3wtDj2</id>
-        <link href="https://alook.so/posts/3wtDj2"/>
-        <updated>2021-11-15T16:23:39.121Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtDj2">가능합니다. 충분히 말입니다.</a>]]></content>
+        <title type="html"><![CDATA[같은 성별끼리 결혼하면 왜 안되나요?]]></title>
+        <id>https://alook.so/posts/zvt45v</id>
+        <link href="https://alook.so/posts/zvt45v"/>
+        <updated>2021-11-15T17:22:22.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt45v">같은 성별끼리 결혼하면 왜 안되나요?</a>]]></content>
     </entry>
 </feed>
