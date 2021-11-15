@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-15T05:15:29.748Z</updated>
+    <updated>2021-11-15T06:20:14.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[질투가 난다는 것]]></title>
-        <id>https://alook.so/posts/KmtbnV</id>
-        <link href="https://alook.so/posts/KmtbnV"/>
-        <updated>2021-11-15T05:13:55.516Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtbnV">질투가 난다는 것</a>]]></content>
+        <title type="html"><![CDATA[산책에 빠졌어요]]></title>
+        <id>https://alook.so/posts/a0tbZG</id>
+        <link href="https://alook.so/posts/a0tbZG"/>
+        <updated>2021-11-15T06:18:48.601Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tbZG">산책에 빠졌어요 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: "꿈"에 실패라는 게 있을까요? 계속 꿈꿉시다.]]></title>
-        <id>https://alook.so/posts/54t850</id>
-        <link href="https://alook.so/posts/54t850"/>
-        <updated>2021-11-15T05:13:55.521Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t850">답글: "꿈"에 실패라는 게 있을까요? 계속 꿈꿉시다.</a>]]></content>
+        <title type="html"><![CDATA[대화가 가능한지 아닌지?]]></title>
+        <id>https://alook.so/posts/dztwJJ</id>
+        <link href="https://alook.so/posts/dztwJJ"/>
+        <updated>2021-11-15T06:18:48.602Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztwJJ">대화가 가능한지 아닌지?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아버지,  그 이름의 의미]]></title>
-        <id>https://alook.so/posts/q1tR4Z</id>
-        <link href="https://alook.so/posts/q1tR4Z"/>
-        <updated>2021-11-15T05:13:55.522Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tR4Z">아버지,  그 이름의 의미</a>]]></content>
+        <title type="html"><![CDATA[[흙수저 탈출기. 3] 재테크 책 100권 정도 읽고 깨달은 것]]></title>
+        <id>https://alook.so/posts/J5t9B1</id>
+        <link href="https://alook.so/posts/J5t9B1"/>
+        <updated>2021-11-15T06:18:48.604Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t9B1">[흙수저 탈출기. 3] 재테크 책 100권 정도 읽고 깨달은 것</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["무식해서 딸 낳은것" 시어머니 구박 몇 십년을 모시고 살았는데....남편과 3년 전  사별..부양책임은?]]></title>
-        <id>https://alook.so/posts/o7tk2p</id>
-        <link href="https://alook.so/posts/o7tk2p"/>
-        <updated>2021-11-15T05:13:55.524Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tk2p">"무식해서 딸 낳은것" 시어머니 구박 몇 십년을 모시고 살았는데....남편과 3년 전  사별..부양책임은?</a>]]></content>
+        <title type="html"><![CDATA[오늘 하루 어떻게 보내고 계신가요~?]]></title>
+        <id>https://alook.so/posts/eVtK5o</id>
+        <link href="https://alook.so/posts/eVtK5o"/>
+        <updated>2021-11-15T06:18:48.606Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtK5o">오늘 하루 어떻게 보내고 계신가요~?</a>]]></content>
     </entry>
 </feed>
