@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/bA6tp1</id>
     <title>alookso ─ 데이터카우</title>
-    <updated>2021-11-15T00:48:13.446Z</updated>
+    <updated>2021-11-15T01:58:10.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🧐 학교급식, 지역별 편차가 존재할까요?]]></title>
+        <id>https://alook.so/posts/bWt7eL</id>
+        <link href="https://alook.so/posts/bWt7eL"/>
+        <updated>2021-11-15T01:58:09.348Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt7eL">🧐 학교급식, 지역별 편차가 존재할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🧐 투자를 하고 계신가요? 그 이유는 무엇인가요?]]></title>
+        <id>https://alook.so/posts/potyYy</id>
+        <link href="https://alook.so/posts/potyYy"/>
+        <updated>2021-11-15T01:58:09.349Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potyYy">🧐 투자를 하고 계신가요? 그 이유는 무엇인가요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧐 장애인은 어디서, 어떻게 일하고 있을까요?]]></title>
         <id>https://alook.so/posts/0ktL7r</id>
@@ -60,19 +74,5 @@
         <link href="https://alook.so/posts/zvt1ZL"/>
         <updated>2021-11-03T06:18:25.055Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt1ZL">🧐 지역별 '채식 친화도' 지수를 만들어 볼 수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 머스크 재산 2%면 세계 기아 문제가 해결될까?]]></title>
-        <id>https://alook.so/posts/yEtpZ3</id>
-        <link href="https://alook.so/posts/yEtpZ3"/>
-        <updated>2021-11-03T05:14:28.918Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtpZ3">🧐 머스크 재산 2%면 세계 기아 문제가 해결될까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 한국, 성평등과 불평등 사이]]></title>
-        <id>https://alook.so/posts/xltXDx</id>
-        <link href="https://alook.so/posts/xltXDx"/>
-        <updated>2021-11-01T08:20:03.274Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltXDx">🧐 한국, 성평등과 불평등 사이</a>]]></content>
     </entry>
 </feed>
