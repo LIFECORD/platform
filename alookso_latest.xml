@@ -2,14 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-15T01:58:10.006Z</updated>
+    <updated>2021-11-15T02:31:14.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[무사히 할머니가 될 수 있을까~]]></title>
-        <id>https://alook.so/posts/6Mt1xz</id>
-        <link href="https://alook.so/posts/6Mt1xz"/>
-        <updated>2021-11-15T01:56:46.183Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt1xz">무사히 할머니가 될 수 있을까~</a>]]></content>
+        <title type="html"><![CDATA[답글: 언론이 공약을 분석하기 어려운 환경...]]></title>
+        <id>https://alook.so/posts/2xtEPy</id>
+        <link href="https://alook.so/posts/2xtEPy"/>
+        <updated>2021-11-15T02:29:38.453Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtEPy">답글: 언론이 공약을 분석하기 어려운 환경...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 동물해방 이야기]]></title>
+        <id>https://alook.so/posts/WLtxvJ</id>
+        <link href="https://alook.so/posts/WLtxvJ"/>
+        <updated>2021-11-15T02:29:38.457Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtxvJ">나의 동물해방 이야기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이퀄리즘은 페미니즘과 다르다]]></title>
+        <id>https://alook.so/posts/0ktVx6</id>
+        <link href="https://alook.so/posts/0ktVx6"/>
+        <updated>2021-11-15T02:29:38.459Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktVx6">이퀄리즘은 페미니즘과 다르다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찍먹과 디즈니플러스의 상관관계]]></title>
+        <id>https://alook.so/posts/w9tRXJ</id>
+        <link href="https://alook.so/posts/w9tRXJ"/>
+        <updated>2021-11-15T02:29:38.462Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tRXJ">찍먹과 디즈니플러스의 상관관계</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해고 걱정..]]></title>
+        <id>https://alook.so/posts/RGtjv8</id>
+        <link href="https://alook.so/posts/RGtjv8"/>
+        <updated>2021-11-15T02:29:38.463Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtjv8">해고 걱정..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저도 꿈이 공무원입니다.]]></title>
+        <id>https://alook.so/posts/kZtyXM</id>
+        <link href="https://alook.so/posts/kZtyXM"/>
+        <updated>2021-11-15T02:29:38.465Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtyXM">저도 꿈이 공무원입니다.</a>]]></content>
     </entry>
 </feed>
