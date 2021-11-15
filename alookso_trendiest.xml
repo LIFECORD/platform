@@ -2,58 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-15T14:16:00.168Z</updated>
+    <updated>2021-11-15T15:17:14.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[답글: 일주일 동안 오르막길 또 함께 오르죠~!!]]></title>
-        <id>https://alook.so/posts/8WtWyr</id>
-        <link href="https://alook.so/posts/8WtWyr"/>
-        <updated>2021-11-15T13:21:29.910Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtWyr">답글: 일주일 동안 오르막길 또 함께 오르죠~!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나도 알아, 근데 말이 쉽지.]]></title>
-        <id>https://alook.so/posts/a0tbPG</id>
-        <link href="https://alook.so/posts/a0tbPG"/>
-        <updated>2021-11-15T11:12:34.409Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tbPG">나도 알아, 근데 말이 쉽지.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인 관계 어떤가요?]]></title>
-        <id>https://alook.so/posts/ZktBpm</id>
-        <link href="https://alook.so/posts/ZktBpm"/>
-        <updated>2021-11-14T05:13:56.406Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktBpm">온라인 관계 어떤가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 그 쇳물 쓰지 마라, 얼룩커들 댓글이 노래가 될지도...]]></title>
-        <id>https://alook.so/posts/KmtboV</id>
-        <link href="https://alook.so/posts/KmtboV"/>
-        <updated>2021-11-15T09:16:56.001Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtboV">답글: 그 쇳물 쓰지 마라, 얼룩커들 댓글이 노래가 될지도...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lazing On A Sunday Afternoon]]></title>
-        <id>https://alook.so/posts/92tZVp</id>
-        <link href="https://alook.so/posts/92tZVp"/>
-        <updated>2021-11-15T09:16:55.997Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tZVp">Lazing On A Sunday Afternoon</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돌맹이에 맞으면 얼룩커도 죽을 수 있습니다.]]></title>
-        <id>https://alook.so/posts/KmtbWE</id>
-        <link href="https://alook.so/posts/KmtbWE"/>
-        <updated>2021-11-14T13:18:59.123Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtbWE">돌맹이에 맞으면 얼룩커도 죽을 수 있습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 달빛요정역전만루홈런-나도 만루홈런을 칠 수 있다고]]></title>
-        <id>https://alook.so/posts/PvtZz1</id>
-        <link href="https://alook.so/posts/PvtZz1"/>
-        <updated>2021-11-15T10:18:17.351Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtZz1">답글: 달빛요정역전만루홈런-나도 만루홈런을 칠 수 있다고</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[백신갑질 - 백신은 꼭 맞아야할까?]]></title>
         <id>https://alook.so/posts/70twd6</id>
@@ -76,46 +27,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtVaZ">Am I Wrong! 전투 개시! ^^</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: "유니버설 디자인"은 어떠신가요?]]></title>
-        <id>https://alook.so/posts/dztw1P</id>
-        <link href="https://alook.so/posts/dztw1P"/>
-        <updated>2021-11-15T00:46:53.863Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztw1P">답글: "유니버설 디자인"은 어떠신가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래도 태어나서 다행이야.]]></title>
-        <id>https://alook.so/posts/latwVa</id>
-        <link href="https://alook.so/posts/latwVa"/>
-        <updated>2021-11-14T12:22:34.177Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latwVa">그래도 태어나서 다행이야.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아이에게 꼭 메이커를 사줘야 하는 건가요?]]></title>
         <id>https://alook.so/posts/vKtmYO</id>
         <link href="https://alook.so/posts/vKtmYO"/>
         <updated>2021-11-15T14:14:25.940Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtmYO">아이에게 꼭 메이커를 사줘야 하는 건가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미혜 얼룩커님께]]></title>
-        <id>https://alook.so/posts/jdtljL</id>
-        <link href="https://alook.so/posts/jdtljL"/>
-        <updated>2021-11-14T19:13:25.443Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtljL">미혜 얼룩커님께</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 절대 너를 이해한 적이 없다.]]></title>
-        <id>https://alook.so/posts/OEtVob</id>
-        <link href="https://alook.so/posts/OEtVob"/>
-        <updated>2021-11-15T09:16:56.014Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtVob">나는 절대 너를 이해한 적이 없다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회에 내놓았던 아이디어가 실현되었다.]]></title>
-        <id>https://alook.so/posts/2xtElJ</id>
-        <link href="https://alook.so/posts/2xtElJ"/>
-        <updated>2021-11-15T08:19:26.751Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtElJ">국회에 내놓았던 아이디어가 실현되었다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무사히 할머니가 될 수 있을까~]]></title>
@@ -125,10 +41,80 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt1xz">무사히 할머니가 될 수 있을까~</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[답글: 그 쇳물 쓰지 마라, 얼룩커들 댓글이 노래가 될지도...]]></title>
+        <id>https://alook.so/posts/KmtboV</id>
+        <link href="https://alook.so/posts/KmtboV"/>
+        <updated>2021-11-15T09:16:56.001Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtboV">답글: 그 쇳물 쓰지 마라, 얼룩커들 댓글이 노래가 될지도...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온라인 관계 어떤가요?]]></title>
+        <id>https://alook.so/posts/ZktBpm</id>
+        <link href="https://alook.so/posts/ZktBpm"/>
+        <updated>2021-11-14T05:13:56.406Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktBpm">온라인 관계 어떤가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 달빛요정역전만루홈런-나도 만루홈런을 칠 수 있다고]]></title>
+        <id>https://alook.so/posts/PvtZz1</id>
+        <link href="https://alook.so/posts/PvtZz1"/>
+        <updated>2021-11-15T10:18:17.351Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtZz1">답글: 달빛요정역전만루홈런-나도 만루홈런을 칠 수 있다고</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: "유니버설 디자인"은 어떠신가요?]]></title>
+        <id>https://alook.so/posts/dztw1P</id>
+        <link href="https://alook.so/posts/dztw1P"/>
+        <updated>2021-11-15T00:46:53.863Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztw1P">답글: "유니버설 디자인"은 어떠신가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나도 알아, 근데 말이 쉽지.]]></title>
+        <id>https://alook.so/posts/a0tbPG</id>
+        <link href="https://alook.so/posts/a0tbPG"/>
+        <updated>2021-11-15T11:12:34.409Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tbPG">나도 알아, 근데 말이 쉽지.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 일주일 동안 오르막길 또 함께 오르죠~!!]]></title>
+        <id>https://alook.so/posts/8WtWyr</id>
+        <link href="https://alook.so/posts/8WtWyr"/>
+        <updated>2021-11-15T13:21:29.910Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtWyr">답글: 일주일 동안 오르막길 또 함께 오르죠~!!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['배리어 프리'를 실천하기 : 장애인의 웹 접근성]]></title>
         <id>https://alook.so/posts/PvtZvL</id>
         <link href="https://alook.so/posts/PvtZvL"/>
         <updated>2021-11-14T16:20:46.184Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtZvL">'배리어 프리'를 실천하기 : 장애인의 웹 접근성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lazing On A Sunday Afternoon]]></title>
+        <id>https://alook.so/posts/92tZVp</id>
+        <link href="https://alook.so/posts/92tZVp"/>
+        <updated>2021-11-15T09:16:55.997Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tZVp">Lazing On A Sunday Afternoon</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국회에 내놓았던 아이디어가 실현되었다.]]></title>
+        <id>https://alook.so/posts/2xtElJ</id>
+        <link href="https://alook.so/posts/2xtElJ"/>
+        <updated>2021-11-15T08:19:26.751Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtElJ">국회에 내놓았던 아이디어가 실현되었다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 절대 너를 이해한 적이 없다.]]></title>
+        <id>https://alook.so/posts/OEtVob</id>
+        <link href="https://alook.so/posts/OEtVob"/>
+        <updated>2021-11-15T09:16:56.014Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtVob">나는 절대 너를 이해한 적이 없다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그래도 태어나서 다행이야.]]></title>
+        <id>https://alook.so/posts/latwVa</id>
+        <link href="https://alook.so/posts/latwVa"/>
+        <updated>2021-11-14T12:22:34.177Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latwVa">그래도 태어나서 다행이야.</a>]]></content>
     </entry>
 </feed>
