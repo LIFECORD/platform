@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-15T21:21:49.322Z</updated>
+    <updated>2021-11-15T22:16:32.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[얼루커 얼터뷰로 제가 선정되어, 인터뷰를 한다네요~!]]></title>
+        <id>https://alook.so/posts/mbtG1R</id>
+        <link href="https://alook.so/posts/mbtG1R"/>
+        <updated>2021-11-15T22:15:04.823Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtG1R">얼루커 얼터뷰로 제가 선정되어, 인터뷰를 한다네요~!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대학졸업장!]]></title>
         <id>https://alook.so/posts/q1tRJJ</id>
@@ -46,12 +53,5 @@
         <link href="https://alook.so/posts/rDtYqM"/>
         <updated>2021-11-15T18:14:24.103Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtYqM">나는 절대 나를 표현한 적이 없다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재개발 투자의 불행(1) 혹독한 몸테크, 생각지도 못한 일들이 벌어진다]]></title>
-        <id>https://alook.so/posts/bWt7nR</id>
-        <link href="https://alook.so/posts/bWt7nR"/>
-        <updated>2021-11-15T18:14:24.103Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt7nR">재개발 투자의 불행(1) 혹독한 몸테크, 생각지도 못한 일들이 벌어진다</a>]]></content>
     </entry>
 </feed>
