@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-15T10:19:42.741Z</updated>
+    <updated>2021-11-15T11:13:57.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[투자를 시작하고 행복해지셨나요?]]></title>
-        <id>https://alook.so/posts/q1tRDx</id>
-        <link href="https://alook.so/posts/q1tRDx"/>
-        <updated>2021-11-15T10:18:08.560Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tRDx">투자를 시작하고 행복해지셨나요?</a>]]></content>
+        <title type="html"><![CDATA[10년차 직장인 어디로 가야하죠?]]></title>
+        <id>https://alook.so/posts/kZty2p</id>
+        <link href="https://alook.so/posts/kZty2p"/>
+        <updated>2021-11-15T11:12:25.491Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZty2p">10년차 직장인 어디로 가야하죠?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 📚고등학교 도서관에 기부할만한 책들을 뽑아봤습니다!]]></title>
-        <id>https://alook.so/posts/1Rt5bz</id>
-        <link href="https://alook.so/posts/1Rt5bz"/>
-        <updated>2021-11-15T10:18:08.562Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt5bz">답글: 📚고등학교 도서관에 기부할만한 책들을 뽑아봤습니다!</a>]]></content>
+        <title type="html"><![CDATA[약간의 행복이 추가되었습니다.]]></title>
+        <id>https://alook.so/posts/yEt97z</id>
+        <link href="https://alook.so/posts/yEt97z"/>
+        <updated>2021-11-15T11:12:25.492Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt97z">약간의 행복이 추가되었습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학졸업장뭐가중요한가요?]]></title>
+        <id>https://alook.so/posts/3wtDZJ</id>
+        <link href="https://alook.so/posts/3wtDZJ"/>
+        <updated>2021-11-15T11:12:25.494Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtDZJ">대학졸업장뭐가중요한가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제야 용기해 마주하는 그날의 "나"]]></title>
+        <id>https://alook.so/posts/G1t3Zd</id>
+        <link href="https://alook.so/posts/G1t3Zd"/>
+        <updated>2021-11-15T11:12:25.495Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t3Zd">이제야 용기해 마주하는 그날의 "나"</a>]]></content>
     </entry>
 </feed>
