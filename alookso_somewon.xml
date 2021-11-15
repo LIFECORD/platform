@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8Ogtna</id>
     <title>alookso ─ 윤성원</title>
-    <updated>2021-11-15T08:20:55.260Z</updated>
+    <updated>2021-11-15T09:18:15.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[약한 관계 vs 강한 관계??]]></title>
+        <id>https://alook.so/posts/6Mt1Z2</id>
+        <link href="https://alook.so/posts/6Mt1Z2"/>
+        <updated>2021-11-15T09:17:26.258Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt1Z2">약한 관계 vs 강한 관계??</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세상을 바꾸는 건 한 명의 위대한 영웅일까요, 아니면 밀도 있는 커뮤니티일까요?]]></title>
         <id>https://alook.so/posts/KmtPGp</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/54twx5"/>
         <updated>2021-10-27T03:19:03.017Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54twx5">국감장에서 나온 "왜 KBS는 오징어게임 같은 작품을 생산하지 못 하느냐"는 질문에 대해..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기존 신문들을 다 무너뜨리겠다는 도발적인 뉴미디어, 디 애슬레틱 ㄷㄷ]]></title>
-        <id>https://alook.so/posts/njtX12</id>
-        <link href="https://alook.so/posts/njtX12"/>
-        <updated>2021-10-27T03:19:03.019Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtX12">기존 신문들을 다 무너뜨리겠다는 도발적인 뉴미디어, 디 애슬레틱 ㄷㄷ</a>]]></content>
     </entry>
 </feed>
