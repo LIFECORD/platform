@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-16T06:17:49.302Z</updated>
+    <updated>2021-11-16T07:17:20.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[봉사활동을 하기 위해 수화를 배우려고 시도 해 보셨나요?]]></title>
-        <id>https://alook.so/posts/OEtVDo</id>
-        <link href="https://alook.so/posts/OEtVDo"/>
-        <updated>2021-11-16T06:16:20.441Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtVDo">봉사활동을 하기 위해 수화를 배우려고 시도 해 보셨나요?</a>]]></content>
+        <title type="html"><![CDATA[[다이어트] 모닝버터커피]]></title>
+        <id>https://alook.so/posts/4Xt9bb</id>
+        <link href="https://alook.so/posts/4Xt9bb"/>
+        <updated>2021-11-16T07:15:45.929Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt9bb">[다이어트] 모닝버터커피</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[역대 최고 대통령?]]></title>
-        <id>https://alook.so/posts/vKtmVK</id>
-        <link href="https://alook.so/posts/vKtmVK"/>
-        <updated>2021-11-16T06:16:20.442Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtmVK">역대 최고 대통령?</a>]]></content>
+        <title type="html"><![CDATA[요즘 어디에 꽂혔어요? 주식투자에 꽂혔습니다]]></title>
+        <id>https://alook.so/posts/XBtV7l</id>
+        <link href="https://alook.so/posts/XBtV7l"/>
+        <updated>2021-11-16T07:15:45.930Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtV7l">요즘 어디에 꽂혔어요? 주식투자에 꽂혔습니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저는 유령들과 살고 있습니다. 어쩌면 제가 유령인지도 모릅니다.]]></title>
-        <id>https://alook.so/posts/mbtGok</id>
-        <link href="https://alook.so/posts/mbtGok"/>
-        <updated>2021-11-16T06:16:20.443Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtGok">저는 유령들과 살고 있습니다. 어쩌면 제가 유령인지도 모릅니다.</a>]]></content>
+        <title type="html"><![CDATA[새끼 길고양이들 어찌 해야 할까요?]]></title>
+        <id>https://alook.so/posts/w9tRYe</id>
+        <link href="https://alook.so/posts/w9tRYe"/>
+        <updated>2021-11-16T07:15:45.931Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tRYe">새끼 길고양이들 어찌 해야 할까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 직업은 3교대 간호사.]]></title>
-        <id>https://alook.so/posts/q1tRBa</id>
-        <link href="https://alook.so/posts/q1tRBa"/>
-        <updated>2021-11-16T06:16:20.445Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tRBa">내 직업은 3교대 간호사. </a>]]></content>
+        <title type="html"><![CDATA[무조건, 되돌아온다.]]></title>
+        <id>https://alook.so/posts/xlt8Ow</id>
+        <link href="https://alook.so/posts/xlt8Ow"/>
+        <updated>2021-11-16T07:15:45.932Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt8Ow">무조건, 되돌아온다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["다 내 쫓고 쑥대밭"....담배 나무라자 들이 닥친 중학생들..(아..무섭다..ㅠㅠ)]]></title>
+        <id>https://alook.so/posts/LKtGp0</id>
+        <link href="https://alook.so/posts/LKtGp0"/>
+        <updated>2021-11-16T07:15:45.933Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtGp0">"다 내 쫓고 쑥대밭"....담배 나무라자 들이 닥친 중학생들..(아..무섭다..ㅠㅠ)</a>]]></content>
     </entry>
 </feed>
