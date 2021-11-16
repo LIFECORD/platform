@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-16T22:16:18.834Z</updated>
+    <updated>2021-11-16T23:16:37.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[군대를 없애라.]]></title>
+        <id>https://alook.so/posts/zvt47m</id>
+        <link href="https://alook.so/posts/zvt47m"/>
+        <updated>2021-11-16T23:14:52.835Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt47m">군대를 없애라.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경로를 이탈했습니다.]]></title>
+        <id>https://alook.so/posts/2xtEqw</id>
+        <link href="https://alook.so/posts/2xtEqw"/>
+        <updated>2021-11-16T23:14:52.836Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtEqw">경로를 이탈했습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 잘 살고  있는것일까?]]></title>
+        <id>https://alook.so/posts/0ktV5w</id>
+        <link href="https://alook.so/posts/0ktV5w"/>
+        <updated>2021-11-16T23:14:52.838Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktV5w">나는 잘 살고  있는것일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학 졸업장, 그만한 가치가 있을까요?]]></title>
+        <id>https://alook.so/posts/4Xt9PX</id>
+        <link href="https://alook.so/posts/4Xt9PX"/>
+        <updated>2021-11-16T23:14:52.840Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt9PX">대학 졸업장, 그만한 가치가 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술발전이 당신의 일자리를 위협한다?]]></title>
+        <id>https://alook.so/posts/XBtVOb</id>
+        <link href="https://alook.so/posts/XBtVOb"/>
+        <updated>2021-11-16T23:14:52.841Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtVOb">기술발전이 당신의 일자리를 위협한다?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족이 부담스러웠던 적이 있나요?]]></title>
         <id>https://alook.so/posts/xlt8Yd</id>
@@ -18,33 +53,5 @@
         <link href="https://alook.so/posts/RGtj8y"/>
         <updated>2021-11-16T22:14:33.054Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtj8y">국방비, 더 써야 할까요 줄여야 할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팬데믹 속에서 치르는 두번째 수능을 바라보는 나]]></title>
-        <id>https://alook.so/posts/kZtyKV</id>
-        <link href="https://alook.so/posts/kZtyKV"/>
-        <updated>2021-11-16T22:14:33.054Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtyKV">팬데믹 속에서 치르는 두번째 수능을 바라보는 나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIG WORDS]]></title>
-        <id>https://alook.so/posts/6Mt1bV</id>
-        <link href="https://alook.so/posts/6Mt1bV"/>
-        <updated>2021-11-16T19:12:00.032Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt1bV">BIG WORDS</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[된다고 생각한다.]]></title>
-        <id>https://alook.so/posts/8WtW01</id>
-        <link href="https://alook.so/posts/8WtW01"/>
-        <updated>2021-11-16T18:15:03.191Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtW01">된다고 생각한다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흔한 고민이라고 할지라도]]></title>
-        <id>https://alook.so/posts/OEtVk8</id>
-        <link href="https://alook.so/posts/OEtVk8"/>
-        <updated>2021-11-16T18:15:03.191Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtVk8">흔한 고민이라고 할지라도</a>]]></content>
     </entry>
 </feed>
