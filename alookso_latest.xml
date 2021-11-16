@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-16T20:17:44.508Z</updated>
+    <updated>2021-11-16T21:14:48.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -32,19 +32,5 @@
         <link href="https://alook.so/posts/OEtVk8"/>
         <updated>2021-11-16T18:15:03.191Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtVk8">흔한 고민이라고 할지라도</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래도 말이라도 꺼내야]]></title>
-        <id>https://alook.so/posts/92tZpa</id>
-        <link href="https://alook.so/posts/92tZpa"/>
-        <updated>2021-11-16T17:15:25.831Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tZpa">그래도 말이라도 꺼내야</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다양한 의견이 모여야 새로운 대안이 나온다.]]></title>
-        <id>https://alook.so/posts/Kmtbp8</id>
-        <link href="https://alook.so/posts/Kmtbp8"/>
-        <updated>2021-11-16T17:15:25.832Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtbp8">다양한 의견이 모여야 새로운 대안이 나온다.</a>]]></content>
     </entry>
 </feed>
