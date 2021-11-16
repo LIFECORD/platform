@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-16T10:17:32.290Z</updated>
+    <updated>2021-11-16T11:15:01.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 얼룩소에서의 1만원은 그냥 무한 행복이죠~]]></title>
-        <id>https://alook.so/posts/70twP8</id>
-        <link href="https://alook.so/posts/70twP8"/>
-        <updated>2021-11-16T10:15:55.630Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70twP8">답글: 얼룩소에서의 1만원은 그냥 무한 행복이죠~</a>]]></content>
+        <title type="html"><![CDATA[더쓰자]]></title>
+        <id>https://alook.so/posts/q1tRKj</id>
+        <link href="https://alook.so/posts/q1tRKj"/>
+        <updated>2021-11-16T11:13:34.315Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tRKj">더쓰자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글:  살짝 미쳐봐 세상이 아름답게 보여 ...]]></title>
-        <id>https://alook.so/posts/jdtlMb</id>
-        <link href="https://alook.so/posts/jdtlMb"/>
-        <updated>2021-11-16T10:15:55.630Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtlMb">답글:  살짝 미쳐봐 세상이 아름답게 보여 ...</a>]]></content>
+        <title type="html"><![CDATA[주 4일제 관련 의견들이 궁금합니다]]></title>
+        <id>https://alook.so/posts/DjtryY</id>
+        <link href="https://alook.so/posts/DjtryY"/>
+        <updated>2021-11-16T11:13:34.317Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtryY">주 4일제 관련 의견들이 궁금합니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쉽게 번돈은 쉽게 날아간다는거죠..]]></title>
-        <id>https://alook.so/posts/bWt7xp</id>
-        <link href="https://alook.so/posts/bWt7xp"/>
-        <updated>2021-11-16T10:15:55.631Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt7xp">쉽게 번돈은 쉽게 날아간다는거죠..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼은 사랑하면 가능한 일 아닐까요?]]></title>
-        <id>https://alook.so/posts/ZktB4O</id>
-        <link href="https://alook.so/posts/ZktB4O"/>
-        <updated>2021-11-16T10:15:55.632Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktB4O">결혼은 사랑하면 가능한 일 아닐까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 다육식물에 꽂혔어요]]></title>
-        <id>https://alook.so/posts/dztwO7</id>
-        <link href="https://alook.so/posts/dztwO7"/>
-        <updated>2021-11-16T10:15:55.634Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztwO7">저는 다육식물에 꽂혔어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 월급은 왜 스쳐지나갈까요?]]></title>
-        <id>https://alook.so/posts/potyG2</id>
-        <link href="https://alook.so/posts/potyG2"/>
-        <updated>2021-11-16T10:15:55.635Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potyG2">제 월급은 왜 스쳐지나갈까요?</a>]]></content>
+        <title type="html"><![CDATA[오늘 부터 1일입니다.]]></title>
+        <id>https://alook.so/posts/E7td5j</id>
+        <link href="https://alook.so/posts/E7td5j"/>
+        <updated>2021-11-16T11:13:34.318Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7td5j">오늘 부터 1일입니다. </a>]]></content>
     </entry>
 </feed>
