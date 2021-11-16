@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-16T05:14:37.719Z</updated>
+    <updated>2021-11-16T06:17:49.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[청년, 진보정당 당원 그리고 주식]]></title>
-        <id>https://alook.so/posts/70tw9o</id>
-        <link href="https://alook.so/posts/70tw9o"/>
-        <updated>2021-11-16T05:13:09.036Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tw9o">청년, 진보정당 당원 그리고 주식</a>]]></content>
+        <title type="html"><![CDATA[봉사활동을 하기 위해 수화를 배우려고 시도 해 보셨나요?]]></title>
+        <id>https://alook.so/posts/OEtVDo</id>
+        <link href="https://alook.so/posts/OEtVDo"/>
+        <updated>2021-11-16T06:16:20.441Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtVDo">봉사활동을 하기 위해 수화를 배우려고 시도 해 보셨나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 얼터뷰, 저는 이 분이 궁금합니다!]]></title>
-        <id>https://alook.so/posts/YytReK</id>
-        <link href="https://alook.so/posts/YytReK"/>
-        <updated>2021-11-16T05:13:09.037Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytReK">답글: 얼터뷰, 저는 이 분이 궁금합니다!</a>]]></content>
+        <title type="html"><![CDATA[역대 최고 대통령?]]></title>
+        <id>https://alook.so/posts/vKtmVK</id>
+        <link href="https://alook.so/posts/vKtmVK"/>
+        <updated>2021-11-16T06:16:20.442Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtmVK">역대 최고 대통령?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오너 리스크에 대해... (부제: 테슬라 팔아야 하나요)]]></title>
-        <id>https://alook.so/posts/rDtYk4</id>
-        <link href="https://alook.so/posts/rDtYk4"/>
-        <updated>2021-11-16T05:13:09.038Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtYk4">오너 리스크에 대해... (부제: 테슬라 팔아야 하나요) </a>]]></content>
+        <title type="html"><![CDATA[저는 유령들과 살고 있습니다. 어쩌면 제가 유령인지도 모릅니다.]]></title>
+        <id>https://alook.so/posts/mbtGok</id>
+        <link href="https://alook.so/posts/mbtGok"/>
+        <updated>2021-11-16T06:16:20.443Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtGok">저는 유령들과 살고 있습니다. 어쩌면 제가 유령인지도 모릅니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 직업은 3교대 간호사.]]></title>
+        <id>https://alook.so/posts/q1tRBa</id>
+        <link href="https://alook.so/posts/q1tRBa"/>
+        <updated>2021-11-16T06:16:20.445Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tRBa">내 직업은 3교대 간호사. </a>]]></content>
     </entry>
 </feed>
