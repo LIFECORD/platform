@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-16T15:17:50.965Z</updated>
+    <updated>2021-11-16T16:19:52.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[프로필 한 장 (feat. 피천득)]]></title>
-        <id>https://alook.so/posts/G1t359</id>
-        <link href="https://alook.so/posts/G1t359"/>
-        <updated>2021-11-16T15:16:20.270Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t359">프로필 한 장 (feat. 피천득)</a>]]></content>
+        <title type="html"><![CDATA[티안나는 짠생활이 필요해요]]></title>
+        <id>https://alook.so/posts/bWt7Kn</id>
+        <link href="https://alook.so/posts/bWt7Kn"/>
+        <updated>2021-11-16T16:18:15.935Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt7Kn">티안나는 짠생활이 필요해요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 불평등은 "인정"하고 "넘어서야"하는 것일까요?]]></title>
-        <id>https://alook.so/posts/latw2p</id>
-        <link href="https://alook.so/posts/latw2p"/>
-        <updated>2021-11-16T15:16:20.273Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latw2p">답글: 불평등은 "인정"하고 "넘어서야"하는 것일까요?</a>]]></content>
+        <title type="html"><![CDATA[노인빈곤율이 낮아지는 방법은 없을까요]]></title>
+        <id>https://alook.so/posts/a0tb2R</id>
+        <link href="https://alook.so/posts/a0tb2R"/>
+        <updated>2021-11-16T16:18:15.935Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tb2R">노인빈곤율이 낮아지는 방법은 없을까요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술발전. 그 양면성에 대해]]></title>
+        <id>https://alook.so/posts/J5t9Lk</id>
+        <link href="https://alook.so/posts/J5t9Lk"/>
+        <updated>2021-11-16T16:18:15.937Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t9Lk">기술발전. 그 양면성에 대해</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년 초쯤에 나의 직장을 잃게 되는건 아닐까?지금부터 불안하다]]></title>
+        <id>https://alook.so/posts/VntLvZ</id>
+        <link href="https://alook.so/posts/VntLvZ"/>
+        <updated>2021-11-16T16:18:15.940Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntLvZ">내년 초쯤에 나의 직장을 잃게 되는건 아닐까?지금부터 불안하다</a>]]></content>
     </entry>
 </feed>
