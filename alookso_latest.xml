@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-16T08:19:05.793Z</updated>
+    <updated>2021-11-16T09:16:17.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[나의 부캐.....고시원장]]></title>
-        <id>https://alook.so/posts/o7tkek</id>
-        <link href="https://alook.so/posts/o7tkek"/>
-        <updated>2021-11-16T08:17:40.101Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tkek">나의 부캐.....고시원장</a>]]></content>
+        <title type="html"><![CDATA[능력주의가 아닌 대안은? 아니 그 전에 '능력'이란?]]></title>
+        <id>https://alook.so/posts/XBtVql</id>
+        <link href="https://alook.so/posts/XBtVql"/>
+        <updated>2021-11-16T09:14:49.995Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtVql">능력주의가 아닌 대안은? 아니 그 전에 '능력'이란?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직장이 즐겁기는 힘들겠지?]]></title>
-        <id>https://alook.so/posts/70twE8</id>
-        <link href="https://alook.so/posts/70twE8"/>
-        <updated>2021-11-16T08:17:40.102Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70twE8">직장이 즐겁기는 힘들겠지?</a>]]></content>
+        <title type="html"><![CDATA[세상은 둥글게 살아야 해]]></title>
+        <id>https://alook.so/posts/w9tRve</id>
+        <link href="https://alook.so/posts/w9tRve"/>
+        <updated>2021-11-16T09:14:49.996Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tRve">세상은 둥글게 살아야 해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[결국엔 도달해야할 해피니스..]]></title>
-        <id>https://alook.so/posts/jdtl7b</id>
-        <link href="https://alook.so/posts/jdtl7b"/>
-        <updated>2021-11-16T08:17:40.103Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtl7b">결국엔 도달해야할 해피니스..</a>]]></content>
+        <title type="html"><![CDATA[학령인구 감소를 임용 축소의 핑계로 매번 들고 오는게 답답합니다.]]></title>
+        <id>https://alook.so/posts/xlt80w</id>
+        <link href="https://alook.so/posts/xlt80w"/>
+        <updated>2021-11-16T09:14:49.997Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt80w">학령인구 감소를 임용 축소의 핑계로 매번 들고 오는게 답답합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[투자를 시작할 때 필요한 것들.. (1)]]></title>
-        <id>https://alook.so/posts/bWt7ap</id>
-        <link href="https://alook.so/posts/bWt7ap"/>
-        <updated>2021-11-16T08:17:40.104Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt7ap">투자를 시작할 때 필요한 것들.. (1)</a>]]></content>
+        <title type="html"><![CDATA[영업사원 육아아빠 그 다음은?]]></title>
+        <id>https://alook.so/posts/RGtjKW</id>
+        <link href="https://alook.so/posts/RGtjKW"/>
+        <updated>2021-11-16T09:14:49.998Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtjKW">영업사원 육아아빠 그 다음은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 에디터 픽은 노리면 노릴 수록 멀어진다는 느낌입니다]]></title>
-        <id>https://alook.so/posts/a0tbqm</id>
-        <link href="https://alook.so/posts/a0tbqm"/>
-        <updated>2021-11-16T08:17:40.105Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tbqm">답글: 에디터 픽은 노리면 노릴 수록 멀어진다는 느낌입니다</a>]]></content>
+        <title type="html"><![CDATA[갑작스런 부서이동 통보]]></title>
+        <id>https://alook.so/posts/yEt9YG</id>
+        <link href="https://alook.so/posts/yEt9YG"/>
+        <updated>2021-11-16T09:14:49.999Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt9YG">갑작스런 부서이동 통보</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구인난을 미나리(영화)에 빗대보자..]]></title>
+        <id>https://alook.so/posts/LKtGn0</id>
+        <link href="https://alook.so/posts/LKtGn0"/>
+        <updated>2021-11-16T09:14:50.000Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtGn0">구인난을 미나리(영화)에 빗대보자.. </a>]]></content>
     </entry>
 </feed>
