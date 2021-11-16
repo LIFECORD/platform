@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-16T11:15:01.791Z</updated>
+    <updated>2021-11-16T12:24:05.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[더쓰자]]></title>
-        <id>https://alook.so/posts/q1tRKj</id>
-        <link href="https://alook.so/posts/q1tRKj"/>
-        <updated>2021-11-16T11:13:34.315Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tRKj">더쓰자</a>]]></content>
+        <title type="html"><![CDATA[저의 고민.....돈 과 사랑2탄]]></title>
+        <id>https://alook.so/posts/ZktBXP</id>
+        <link href="https://alook.so/posts/ZktBXP"/>
+        <updated>2021-11-16T12:22:39.554Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktBXP">저의 고민.....돈 과 사랑2탄</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주 4일제 관련 의견들이 궁금합니다]]></title>
-        <id>https://alook.so/posts/DjtryY</id>
-        <link href="https://alook.so/posts/DjtryY"/>
-        <updated>2021-11-16T11:13:34.317Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtryY">주 4일제 관련 의견들이 궁금합니다</a>]]></content>
+        <title type="html"><![CDATA[부담이라는 말로는 부족한 것]]></title>
+        <id>https://alook.so/posts/poty0k</id>
+        <link href="https://alook.so/posts/poty0k"/>
+        <updated>2021-11-16T12:22:39.555Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/poty0k">부담이라는 말로는 부족한 것</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 부터 1일입니다.]]></title>
-        <id>https://alook.so/posts/E7td5j</id>
-        <link href="https://alook.so/posts/E7td5j"/>
-        <updated>2021-11-16T11:13:34.318Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7td5j">오늘 부터 1일입니다. </a>]]></content>
+        <title type="html"><![CDATA[라이더 당신은 그저 빛]]></title>
+        <id>https://alook.so/posts/zvt4Bj</id>
+        <link href="https://alook.so/posts/zvt4Bj"/>
+        <updated>2021-11-16T12:22:39.557Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt4Bj">라이더 당신은 그저 빛</a>]]></content>
     </entry>
 </feed>
