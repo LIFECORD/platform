@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-16T04:20:28.017Z</updated>
+    <updated>2021-11-16T05:14:37.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[결혼준비 할 게 참 많네요]]></title>
-        <id>https://alook.so/posts/eVtKL7</id>
-        <link href="https://alook.so/posts/eVtKL7"/>
-        <updated>2021-11-16T04:18:56.277Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtKL7">결혼준비 할 게 참 많네요 </a>]]></content>
+        <title type="html"><![CDATA[청년, 진보정당 당원 그리고 주식]]></title>
+        <id>https://alook.so/posts/70tw9o</id>
+        <link href="https://alook.so/posts/70tw9o"/>
+        <updated>2021-11-16T05:13:09.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tw9o">청년, 진보정당 당원 그리고 주식</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사랑에 빠진 게 죄는 아니잖아]]></title>
-        <id>https://alook.so/posts/PvtZ6a</id>
-        <link href="https://alook.so/posts/PvtZ6a"/>
-        <updated>2021-11-16T04:18:56.278Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtZ6a">사랑에 빠진 게 죄는 아니잖아</a>]]></content>
+        <title type="html"><![CDATA[답글: 얼터뷰, 저는 이 분이 궁금합니다!]]></title>
+        <id>https://alook.so/posts/YytReK</id>
+        <link href="https://alook.so/posts/YytReK"/>
+        <updated>2021-11-16T05:13:09.037Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytReK">답글: 얼터뷰, 저는 이 분이 궁금합니다!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사회초년생 재테크, 부업]]></title>
-        <id>https://alook.so/posts/zvt4OM</id>
-        <link href="https://alook.so/posts/zvt4OM"/>
-        <updated>2021-11-16T04:18:56.281Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt4OM">사회초년생 재테크, 부업</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 아이들에게 대학 졸업장이란...]]></title>
-        <id>https://alook.so/posts/WLtxdz</id>
-        <link href="https://alook.so/posts/WLtxdz"/>
-        <updated>2021-11-16T04:18:56.282Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtxdz">우리 아이들에게 대학 졸업장이란...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["다시 10살 아이로 되돌아간다면?!"]]></title>
-        <id>https://alook.so/posts/0ktVGy</id>
-        <link href="https://alook.so/posts/0ktVGy"/>
-        <updated>2021-11-16T04:18:56.283Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktVGy">"다시 10살 아이로 되돌아간다면?!"</a>]]></content>
+        <title type="html"><![CDATA[오너 리스크에 대해... (부제: 테슬라 팔아야 하나요)]]></title>
+        <id>https://alook.so/posts/rDtYk4</id>
+        <link href="https://alook.so/posts/rDtYk4"/>
+        <updated>2021-11-16T05:13:09.038Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtYk4">오너 리스크에 대해... (부제: 테슬라 팔아야 하나요) </a>]]></content>
     </entry>
 </feed>
