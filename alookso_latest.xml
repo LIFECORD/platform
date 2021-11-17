@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-17T05:14:33.772Z</updated>
+    <updated>2021-11-17T06:20:14.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼터뷰 후기~]]></title>
-        <id>https://alook.so/posts/njtYzR</id>
-        <link href="https://alook.so/posts/njtYzR"/>
-        <updated>2021-11-17T05:13:05.070Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYzR">얼터뷰 후기~</a>]]></content>
+        <title type="html"><![CDATA[[흙수저 탈출기. 5] 주식/암호화폐 투자 성공할 수 있을까?]]></title>
+        <id>https://alook.so/posts/a0t8Yr</id>
+        <link href="https://alook.so/posts/a0t8Yr"/>
+        <updated>2021-11-17T06:18:35.368Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t8Yr">[흙수저 탈출기. 5] 주식/암호화폐 투자 성공할 수 있을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부탁이 있었는데… (feat. ㅂㅈㅁ 에디터님)]]></title>
-        <id>https://alook.so/posts/3wtxb6</id>
-        <link href="https://alook.so/posts/3wtxb6"/>
-        <updated>2021-11-17T05:13:05.070Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtxb6">부탁이 있었는데… (feat. ㅂㅈㅁ 에디터님) </a>]]></content>
+        <title type="html"><![CDATA[꿈을 꾸는 문어🐙]]></title>
+        <id>https://alook.so/posts/zvteDZ</id>
+        <link href="https://alook.so/posts/zvteDZ"/>
+        <updated>2021-11-17T06:18:35.368Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvteDZ">꿈을 꾸는 문어🐙</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[New Mission 1K를 위하여! 🤩]]></title>
-        <id>https://alook.so/posts/8WtzEG</id>
-        <link href="https://alook.so/posts/8WtzEG"/>
-        <updated>2021-11-17T05:13:05.071Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtzEG">New Mission 1K를 위하여! 🤩</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살아남은 자의 슬픔. 그것은 악어의 눈물일까요?]]></title>
-        <id>https://alook.so/posts/vKt50v</id>
-        <link href="https://alook.so/posts/vKt50v"/>
-        <updated>2021-11-17T05:13:05.072Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt50v">살아남은 자의 슬픔. 그것은 악어의 눈물일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼터뷰 다녀오겠습니다:)]]></title>
-        <id>https://alook.so/posts/E7tkpB</id>
-        <link href="https://alook.so/posts/E7tkpB"/>
-        <updated>2021-11-17T05:13:05.072Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkpB"> 얼터뷰 다녀오겠습니다:)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미성년 파산에 대해서 아시나요? (KBS시사직격_211105방송)]]></title>
-        <id>https://alook.so/posts/latGpb</id>
-        <link href="https://alook.so/posts/latGpb"/>
-        <updated>2021-11-17T05:13:05.073Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latGpb">미성년 파산에 대해서 아시나요? (KBS시사직격_211105방송)</a>]]></content>
+        <title type="html"><![CDATA[유달리 기억나는 게임은 무엇인가요?]]></title>
+        <id>https://alook.so/posts/2xtb2p</id>
+        <link href="https://alook.so/posts/2xtb2p"/>
+        <updated>2021-11-17T06:18:35.371Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtb2p">유달리 기억나는 게임은 무엇인가요?</a>]]></content>
     </entry>
 </feed>
