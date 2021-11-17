@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-17T22:17:00.060Z</updated>
+    <updated>2021-11-17T23:16:24.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[킥라니, 자라니 누가 만든 존재인가]]></title>
+        <id>https://alook.so/posts/E7tkw0</id>
+        <link href="https://alook.so/posts/E7tkw0"/>
+        <updated>2021-11-17T23:14:54.403Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkw0">킥라니, 자라니 누가 만든 존재인가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기회를 놓쳐버린 지금]]></title>
+        <id>https://alook.so/posts/latGYX</id>
+        <link href="https://alook.so/posts/latGYX"/>
+        <updated>2021-11-17T23:14:54.404Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latGYX">기회를 놓쳐버린 지금 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이의 외로움]]></title>
+        <id>https://alook.so/posts/92tbnP</id>
+        <link href="https://alook.so/posts/92tbnP"/>
+        <updated>2021-11-17T23:14:54.405Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tbnP">아이의 외로움</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 외모 평가는 이제 그만]]></title>
+        <id>https://alook.so/posts/mbtY8l</id>
+        <link href="https://alook.so/posts/mbtY8l"/>
+        <updated>2021-11-17T23:14:54.406Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY8l">내 외모 평가는 이제 그만</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘 수능칩니다.]]></title>
         <id>https://alook.so/posts/DjtBO2</id>
@@ -18,26 +46,5 @@
         <link href="https://alook.so/posts/1RtZYr"/>
         <updated>2021-11-17T22:15:23.077Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZYr">개인적으로 정리했던 글 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구의 기후 위기는 더 많은 일론 머스크를 필요로 한다?]]></title>
-        <id>https://alook.so/posts/YytPXP</id>
-        <link href="https://alook.so/posts/YytPXP"/>
-        <updated>2021-11-17T22:15:23.079Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytPXP">지구의 기후 위기는 더 많은 일론 머스크를 필요로 한다?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 사회복지사 입니다.]]></title>
-        <id>https://alook.so/posts/rDt9rY</id>
-        <link href="https://alook.so/posts/rDt9rY"/>
-        <updated>2021-11-17T21:12:41.298Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt9rY">저는 사회복지사 입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서른을 한달 앞두고..]]></title>
-        <id>https://alook.so/posts/E7tkwW</id>
-        <link href="https://alook.so/posts/E7tkwW"/>
-        <updated>2021-11-17T20:15:45.579Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkwW">서른을 한달 앞두고..</a>]]></content>
     </entry>
 </feed>
