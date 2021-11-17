@@ -2,28 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-17T12:24:08.753Z</updated>
+    <updated>2021-11-17T13:22:53.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[내 가족들을 인정하자!]]></title>
-        <id>https://alook.so/posts/q1tElq</id>
-        <link href="https://alook.so/posts/q1tElq"/>
-        <updated>2021-11-17T12:22:27.057Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tElq">내 가족들을 인정하자!</a>]]></content>
+        <title type="html"><![CDATA[나는 여전히 예민하다]]></title>
+        <id>https://alook.so/posts/yEtMad</id>
+        <link href="https://alook.so/posts/yEtMad"/>
+        <updated>2021-11-17T13:21:15.605Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtMad">나는 여전히 예민하다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노트북을 수리 맡겼습니다]]></title>
-        <id>https://alook.so/posts/DjtBlv</id>
-        <link href="https://alook.so/posts/DjtBlv"/>
-        <updated>2021-11-17T12:22:27.058Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtBlv">노트북을 수리 맡겼습니다</a>]]></content>
+        <title type="html"><![CDATA[내일 수능을 보게 될 너에게]]></title>
+        <id>https://alook.so/posts/BatGk9</id>
+        <link href="https://alook.so/posts/BatGk9"/>
+        <updated>2021-11-17T13:21:15.606Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatGk9">내일 수능을 보게 될 너에게</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 운이 아닌 정직 해서 고객님들이 찾으시는거예여]]></title>
-        <id>https://alook.so/posts/1RtZM4</id>
-        <link href="https://alook.so/posts/1RtZM4"/>
-        <updated>2021-11-17T12:22:27.061Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZM4">답글: 운이 아닌 정직 해서 고객님들이 찾으시는거예여</a>]]></content>
+        <title type="html"><![CDATA[주식은 참 어렵다.]]></title>
+        <id>https://alook.so/posts/LKtBKe</id>
+        <link href="https://alook.so/posts/LKtBKe"/>
+        <updated>2021-11-17T13:21:15.610Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtBKe">주식은 참 어렵다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고교학점제, 여러줄세우기를 꿈꾸지만..!]]></title>
+        <id>https://alook.so/posts/njtYoV</id>
+        <link href="https://alook.so/posts/njtYoV"/>
+        <updated>2021-11-17T13:21:15.611Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYoV">고교학점제, 여러줄세우기를 꿈꾸지만..!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[촉법소년 폐지를‥ 논의할 때입니다]]></title>
+        <id>https://alook.so/posts/3wtxon</id>
+        <link href="https://alook.so/posts/3wtxon"/>
+        <updated>2021-11-17T13:21:15.612Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtxon">촉법소년 폐지를‥ 논의할 때입니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부담감....?]]></title>
+        <id>https://alook.so/posts/8Wtz1v</id>
+        <link href="https://alook.so/posts/8Wtz1v"/>
+        <updated>2021-11-17T13:21:15.613Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtz1v">부담감....?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이를 키우면서 걱정되는일]]></title>
+        <id>https://alook.so/posts/G1tVy0</id>
+        <link href="https://alook.so/posts/G1tVy0"/>
+        <updated>2021-11-17T13:21:15.614Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tVy0">아이를 키우면서 걱정되는일</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성전자 10만전자가 되는 그날까지]]></title>
+        <id>https://alook.so/posts/OEtPeP</id>
+        <link href="https://alook.so/posts/OEtPeP"/>
+        <updated>2021-11-17T13:21:15.615Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtPeP">삼성전자 10만전자가 되는 그날까지</a>]]></content>
     </entry>
 </feed>
