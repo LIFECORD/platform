@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-17T04:20:34.974Z</updated>
+    <updated>2021-11-17T05:14:33.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[좋은 직장과 돈이 인생의 전부라고 생각하시나요?]]></title>
-        <id>https://alook.so/posts/mbtY4G</id>
-        <link href="https://alook.so/posts/mbtY4G"/>
-        <updated>2021-11-17T04:18:54.500Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY4G">좋은 직장과 돈이 인생의 전부라고 생각하시나요?</a>]]></content>
+        <title type="html"><![CDATA[얼터뷰 후기~]]></title>
+        <id>https://alook.so/posts/njtYzR</id>
+        <link href="https://alook.so/posts/njtYzR"/>
+        <updated>2021-11-17T05:13:05.070Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYzR">얼터뷰 후기~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리나라의 청소년 중 한명입니다.]]></title>
-        <id>https://alook.so/posts/1RtZ2x</id>
-        <link href="https://alook.so/posts/1RtZ2x"/>
-        <updated>2021-11-17T04:18:54.505Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZ2x">우리나라의 청소년 중 한명입니다.</a>]]></content>
+        <title type="html"><![CDATA[부탁이 있었는데… (feat. ㅂㅈㅁ 에디터님)]]></title>
+        <id>https://alook.so/posts/3wtxb6</id>
+        <link href="https://alook.so/posts/3wtxb6"/>
+        <updated>2021-11-17T05:13:05.070Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtxb6">부탁이 있었는데… (feat. ㅂㅈㅁ 에디터님) </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[집값 못 잡는다. 받아들이자.]]></title>
-        <id>https://alook.so/posts/o7tVym</id>
-        <link href="https://alook.so/posts/o7tVym"/>
-        <updated>2021-11-17T04:18:54.510Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tVym">집값 못 잡는다. 받아들이자. </a>]]></content>
+        <title type="html"><![CDATA[New Mission 1K를 위하여! 🤩]]></title>
+        <id>https://alook.so/posts/8WtzEG</id>
+        <link href="https://alook.so/posts/8WtzEG"/>
+        <updated>2021-11-17T05:13:05.071Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtzEG">New Mission 1K를 위하여! 🤩</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[취업고민이 제일 크네요,,,]]></title>
-        <id>https://alook.so/posts/jdtGKd</id>
-        <link href="https://alook.so/posts/jdtGKd"/>
-        <updated>2021-11-17T04:18:54.513Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtGKd">취업고민이 제일 크네요,,,</a>]]></content>
+        <title type="html"><![CDATA[살아남은 자의 슬픔. 그것은 악어의 눈물일까요?]]></title>
+        <id>https://alook.so/posts/vKt50v</id>
+        <link href="https://alook.so/posts/vKt50v"/>
+        <updated>2021-11-17T05:13:05.072Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt50v">살아남은 자의 슬픔. 그것은 악어의 눈물일까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼터뷰 다녀오겠습니다:)]]></title>
+        <id>https://alook.so/posts/E7tkpB</id>
+        <link href="https://alook.so/posts/E7tkpB"/>
+        <updated>2021-11-17T05:13:05.072Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkpB"> 얼터뷰 다녀오겠습니다:)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미성년 파산에 대해서 아시나요? (KBS시사직격_211105방송)]]></title>
+        <id>https://alook.so/posts/latGpb</id>
+        <link href="https://alook.so/posts/latGpb"/>
+        <updated>2021-11-17T05:13:05.073Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latGpb">미성년 파산에 대해서 아시나요? (KBS시사직격_211105방송)</a>]]></content>
     </entry>
 </feed>
