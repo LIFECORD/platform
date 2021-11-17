@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-17T20:17:35.890Z</updated>
+    <updated>2021-11-17T21:14:27.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[서른을 한달하고 13일을 앞두고..]]></title>
+        <title type="html"><![CDATA[저는 사회복지사 입니다.]]></title>
+        <id>https://alook.so/posts/rDt9rY</id>
+        <link href="https://alook.so/posts/rDt9rY"/>
+        <updated>2021-11-17T21:12:41.298Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt9rY">저는 사회복지사 입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서른을 한달 앞두고..]]></title>
         <id>https://alook.so/posts/E7tkwW</id>
         <link href="https://alook.so/posts/E7tkwW"/>
         <updated>2021-11-17T20:15:45.579Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkwW">서른을 한달하고 13일을 앞두고..</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkwW">서른을 한달 앞두고..</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이를간절히 가지고싶어요...]]></title>
