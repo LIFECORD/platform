@@ -2,21 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-17T08:18:37.437Z</updated>
+    <updated>2021-11-17T09:16:48.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[신사임당 두 장 추가에 아픈 걸 잠시 잊었어요.....]]></title>
-        <id>https://alook.so/posts/jdtGeV</id>
-        <link href="https://alook.so/posts/jdtGeV"/>
-        <updated>2021-11-17T08:17:07.711Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtGeV">신사임당 두 장 추가에 아픈 걸 잠시 잊었어요.....</a>]]></content>
+        <title type="html"><![CDATA[답글: 내 꿈은 뭐지?라고...]]></title>
+        <id>https://alook.so/posts/RGt01D</id>
+        <link href="https://alook.so/posts/RGt01D"/>
+        <updated>2021-11-17T09:15:10.180Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt01D">답글: 내 꿈은 뭐지?라고...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어찌됐든, 그게 인생의 전부는 아닐거예요.]]></title>
-        <id>https://alook.so/posts/a0t8jr</id>
-        <link href="https://alook.so/posts/a0t8jr"/>
-        <updated>2021-11-17T08:17:07.712Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t8jr">어찌됐든, 그게 인생의 전부는 아닐거예요.</a>]]></content>
+        <title type="html"><![CDATA[해고를 걱정해본 적이 있나요?]]></title>
+        <id>https://alook.so/posts/BatG5k</id>
+        <link href="https://alook.so/posts/BatG5k"/>
+        <updated>2021-11-17T09:15:10.181Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatG5k">해고를 걱정해본 적이 있나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쳇바퀴 안 다람쥐가 낳은 다람쥐.]]></title>
+        <id>https://alook.so/posts/njtYXX</id>
+        <link href="https://alook.so/posts/njtYXX"/>
+        <updated>2021-11-17T09:15:10.183Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYXX">쳇바퀴 안 다람쥐가 낳은 다람쥐.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감동(感動)]]></title>
+        <id>https://alook.so/posts/8WtzoE</id>
+        <link href="https://alook.so/posts/8WtzoE"/>
+        <updated>2021-11-17T09:15:10.185Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtzoE">감동(感動)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루의 기억]]></title>
+        <id>https://alook.so/posts/G1tVoj</id>
+        <link href="https://alook.so/posts/G1tVoj"/>
+        <updated>2021-11-17T09:15:10.186Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tVoj">하루의 기억</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학을 나온다는 것의 의미]]></title>
+        <id>https://alook.so/posts/OEtPw1</id>
+        <link href="https://alook.so/posts/OEtPw1"/>
+        <updated>2021-11-17T09:15:10.188Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtPw1">대학을 나온다는 것의 의미</a>]]></content>
     </entry>
 </feed>
