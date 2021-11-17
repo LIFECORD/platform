@@ -2,56 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-17T03:16:26.254Z</updated>
+    <updated>2021-11-17T04:20:34.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[꿈은 건들지 않으면 계속 꿈으로 남아있는다]]></title>
-        <id>https://alook.so/posts/XBtVmR</id>
-        <link href="https://alook.so/posts/XBtVmR"/>
-        <updated>2021-11-17T03:14:52.885Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtVmR">꿈은 건들지 않으면 계속 꿈으로 남아있는다</a>]]></content>
+        <title type="html"><![CDATA[좋은 직장과 돈이 인생의 전부라고 생각하시나요?]]></title>
+        <id>https://alook.so/posts/mbtY4G</id>
+        <link href="https://alook.so/posts/mbtY4G"/>
+        <updated>2021-11-17T04:18:54.500Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY4G">좋은 직장과 돈이 인생의 전부라고 생각하시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["행복주택"에 삽니다. 우리 행복할까요?]]></title>
-        <id>https://alook.so/posts/xlt8e6</id>
-        <link href="https://alook.so/posts/xlt8e6"/>
-        <updated>2021-11-17T03:14:52.886Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt8e6">"행복주택"에 삽니다. 우리 행복할까요?</a>]]></content>
+        <title type="html"><![CDATA[우리나라의 청소년 중 한명입니다.]]></title>
+        <id>https://alook.so/posts/1RtZ2x</id>
+        <link href="https://alook.so/posts/1RtZ2x"/>
+        <updated>2021-11-17T04:18:54.505Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZ2x">우리나라의 청소년 중 한명입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미술관은 괜찮지만 갤러리는 절대 데려가면 안되죠.]]></title>
-        <id>https://alook.so/posts/RGtjrY</id>
-        <link href="https://alook.so/posts/RGtjrY"/>
-        <updated>2021-11-17T03:14:52.887Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtjrY">미술관은 괜찮지만 갤러리는 절대 데려가면 안되죠.</a>]]></content>
+        <title type="html"><![CDATA[집값 못 잡는다. 받아들이자.]]></title>
+        <id>https://alook.so/posts/o7tVym</id>
+        <link href="https://alook.so/posts/o7tVym"/>
+        <updated>2021-11-17T04:18:54.510Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tVym">집값 못 잡는다. 받아들이자. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저는 뭘 해야될까요?]]></title>
-        <id>https://alook.so/posts/kZtyZz</id>
-        <link href="https://alook.so/posts/kZtyZz"/>
-        <updated>2021-11-17T03:14:52.888Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtyZz">저는 뭘 해야될까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비트코인 6만 달러선 붕괴]]></title>
-        <id>https://alook.so/posts/LKtGD5</id>
-        <link href="https://alook.so/posts/LKtGD5"/>
-        <updated>2021-11-17T03:14:52.889Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtGD5">비트코인 6만 달러선 붕괴</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 얼룩커픽으로 선정이 되었을때,]]></title>
-        <id>https://alook.so/posts/njt8l3</id>
-        <link href="https://alook.so/posts/njt8l3"/>
-        <updated>2021-11-17T03:14:52.890Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt8l3">첫 얼룩커픽으로 선정이 되었을때,</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 신규 확진자 3000천명 넘어...]]></title>
-        <id>https://alook.so/posts/6Mt14a</id>
-        <link href="https://alook.so/posts/6Mt14a"/>
-        <updated>2021-11-17T03:14:52.891Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt14a">코로나 신규 확진자 3000천명 넘어...</a>]]></content>
+        <title type="html"><![CDATA[취업고민이 제일 크네요,,,]]></title>
+        <id>https://alook.so/posts/jdtGKd</id>
+        <link href="https://alook.so/posts/jdtGKd"/>
+        <updated>2021-11-17T04:18:54.513Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtGKd">취업고민이 제일 크네요,,,</a>]]></content>
     </entry>
 </feed>
