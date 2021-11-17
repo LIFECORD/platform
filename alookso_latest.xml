@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-17T17:20:21.154Z</updated>
+    <updated>2021-11-17T18:16:17.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나이 41세 경단녀. 다시 일할 수 있을까요?]]></title>
+        <id>https://alook.so/posts/1RtZYJ</id>
+        <link href="https://alook.so/posts/1RtZYJ"/>
+        <updated>2021-11-17T18:14:34.482Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZYJ">나이 41세 경단녀. 다시 일할 수 있을까요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불필요한 감정에 대해서]]></title>
         <id>https://alook.so/posts/70tz1b</id>
@@ -25,12 +32,5 @@
         <link href="https://alook.so/posts/bWtl1j"/>
         <updated>2021-11-17T17:18:35.040Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtl1j">답글: 첫 얼룩커픽? 나는 말이죠~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국방비 어차피 늘어요]]></title>
-        <id>https://alook.so/posts/potxJE</id>
-        <link href="https://alook.so/posts/potxJE"/>
-        <updated>2021-11-17T17:18:35.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potxJE">국방비 어차피 늘어요 </a>]]></content>
     </entry>
 </feed>
