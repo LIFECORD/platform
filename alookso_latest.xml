@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-18T06:19:09.541Z</updated>
+    <updated>2021-11-18T07:17:12.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[제로웨이스트를 실천하는 올바른 방법]]></title>
-        <id>https://alook.so/posts/3wtxDm</id>
-        <link href="https://alook.so/posts/3wtxDm"/>
-        <updated>2021-11-18T06:17:38.748Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtxDm">제로웨이스트를 실천하는 올바른 방법</a>]]></content>
+        <title type="html"><![CDATA[무지갯빛 사람들이 온다]]></title>
+        <id>https://alook.so/posts/bWtllJ</id>
+        <link href="https://alook.so/posts/bWtllJ"/>
+        <updated>2021-11-18T07:15:29.356Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtllJ">무지갯빛 사람들이 온다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사회에서 대학 졸업장은 필수는 아니였으나, 기본이었다.]]></title>
-        <id>https://alook.so/posts/G1tV3E</id>
-        <link href="https://alook.so/posts/G1tV3E"/>
-        <updated>2021-11-18T06:17:38.749Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tV3E">사회에서 대학 졸업장은 필수는 아니였으나, 기본이었다.</a>]]></content>
+        <title type="html"><![CDATA[이유는 간단합니다. 결혼이 여성에게 손해니까요.]]></title>
+        <id>https://alook.so/posts/potxxm</id>
+        <link href="https://alook.so/posts/potxxm"/>
+        <updated>2021-11-18T07:15:29.358Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potxxm">이유는 간단합니다. 결혼이 여성에게 손해니까요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 돈주는거 얼릉 끝냈으면...]]></title>
-        <id>https://alook.so/posts/OEtPVy</id>
-        <link href="https://alook.so/posts/OEtPVy"/>
-        <updated>2021-11-18T06:17:38.750Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtPVy">얼룩소 돈주는거 얼릉 끝냈으면...</a>]]></content>
+        <title type="html"><![CDATA[아보카도의 비밀을 아시나요?]]></title>
+        <id>https://alook.so/posts/eVtGGX</id>
+        <link href="https://alook.so/posts/eVtGGX"/>
+        <updated>2021-11-18T07:15:29.359Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtGGX">아보카도의 비밀을 아시나요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[설거지론..제발 그만좀 해ㅠㅠ]]></title>
-        <id>https://alook.so/posts/vKt5mJ</id>
-        <link href="https://alook.so/posts/vKt5mJ"/>
-        <updated>2021-11-18T06:17:38.751Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt5mJ">설거지론..제발 그만좀 해ㅠㅠ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일자리는 늘어나겠지만...그만큼 부작용도 있을 듯...]]></title>
-        <id>https://alook.so/posts/E7tkd1</id>
-        <link href="https://alook.so/posts/E7tkd1"/>
-        <updated>2021-11-18T06:17:38.752Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkd1">일자리는 늘어나겠지만...그만큼 부작용도 있을 듯...</a>]]></content>
+        <title type="html"><![CDATA[결혼에 대해 진지하게 생각하게 되는 시기는 언제일까.]]></title>
+        <id>https://alook.so/posts/Vnt99R</id>
+        <link href="https://alook.so/posts/Vnt99R"/>
+        <updated>2021-11-18T07:15:29.361Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt99R">결혼에 대해 진지하게 생각하게 되는 시기는 언제일까.</a>]]></content>
     </entry>
 </feed>
