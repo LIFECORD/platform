@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-11-18T05:15:20.943Z</updated>
+    <updated>2021-11-18T06:19:09.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[결혼, 그리고 '페미냐 아니냐']]></title>
+        <id>https://alook.so/posts/dzt6w0</id>
+        <link href="https://alook.so/posts/dzt6w0"/>
+        <updated>2021-11-18T06:17:56.228Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt6w0">결혼, 그리고 '페미냐 아니냐'</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설거지론, 그리고 젠더 혁명]]></title>
+        <id>https://alook.so/posts/2xtbEb</id>
+        <link href="https://alook.so/posts/2xtbEb"/>
+        <updated>2021-11-18T06:17:56.229Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtbEb">설거지론, 그리고 젠더 혁명</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월요병 날려버릴 노동요 있을까요? 모아모아 주세요!]]></title>
         <id>https://alook.so/posts/YytRrW</id>
@@ -60,19 +74,5 @@
         <link href="https://alook.so/posts/RGtV3q"/>
         <updated>2021-11-01T05:13:33.901Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtV3q">탄소배출은 바로 지금 당신의 일자리를 위협한다. 미래세대 말고.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["아프면 쉬어라. 그리고 쉬게 해줘라" 위드 코로나 시대에 우리가 지켜야 할 가장 중요한 원칙이다.]]></title>
-        <id>https://alook.so/posts/Batl3o</id>
-        <link href="https://alook.so/posts/Batl3o"/>
-        <updated>2021-10-29T05:13:12.097Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batl3o">"아프면 쉬어라. 그리고 쉬게 해줘라" 위드 코로나 시대에 우리가 지켜야 할 가장 중요한 원칙이다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['위드 코로나'의 고비는 이번 겨울이다. 이유는 우리 예상과 전혀 다르다.]]></title>
-        <id>https://alook.so/posts/WLtG6e</id>
-        <link href="https://alook.so/posts/WLtG6e"/>
-        <updated>2021-10-28T06:17:46.892Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtG6e">'위드 코로나'의 고비는 이번 겨울이다. 이유는 우리 예상과 전혀 다르다.</a>]]></content>
     </entry>
 </feed>

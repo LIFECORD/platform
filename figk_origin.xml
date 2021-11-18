@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://figk.net/text</id>
     <title>FIGK</title>
-    <updated>2021-11-18T05:15:20.949Z</updated>
+    <updated>2021-11-18T06:19:09.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://figk.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사유의 방]]></title>
+        <id>http://museum.go.kr/sayu</id>
+        <link href="http://museum.go.kr/sayu"/>
+        <updated>2021-11-18T06:17:30.178Z</updated>
+        <content type="html"><![CDATA[하박국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국립극단 OTT 사이트 ‘온라인극장']]></title>
+        <id>https://on.ntck.or.kr/Product/OTT</id>
+        <link href="https://on.ntck.or.kr/Product/OTT"/>
+        <updated>2021-11-18T06:17:30.178Z</updated>
+        <content type="html"><![CDATA[이지현]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나카시마 미카 (中島美嘉) ‘눈의 꽃 (雪の華)’ @ The First Take]]></title>
+        <id>https://www.youtube.com/watch?v=fcVHGZVCkDI</id>
+        <link href="https://www.youtube.com/watch?v=fcVHGZVCkDI"/>
+        <updated>2021-11-18T06:17:30.178Z</updated>
+        <content type="html"><![CDATA[고건혁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍콩 M+뮤지엄 개관… 아이웨이웨이 문제작은 빠져, 연합뉴스 (2021)]]></title>
+        <id>https://m.yna.co.kr/amp/view/AKR20211112118700074</id>
+        <link href="https://m.yna.co.kr/amp/view/AKR20211112118700074"/>
+        <updated>2021-11-18T06:17:30.178Z</updated>
+        <content type="html"><![CDATA[이지현]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앙투안 드 생택쥐페리 <에린 왕자> (2021)]]></title>
         <id>https://ridibooks.com/books/4522000001</id>
@@ -223,6 +251,34 @@
         <content type="html"><![CDATA[고건혁]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<이렇게 된 이상 청와대로 간다> 웨이브 오리지널]]></title>
+        <id>https://www.youtube.com/watch?v=T6lv2XPDMi8</id>
+        <link href="https://www.youtube.com/watch?v=T6lv2XPDMi8"/>
+        <updated>2021-11-18T06:17:30.204Z</updated>
+        <content type="html"><![CDATA[복길]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에린 프렌치 <더 로스트 키친> (2021)]]></title>
+        <id>https://www.amazon.com/Finding-Freedom-Cooks-Remaking-Scratch/dp/1250312345</id>
+        <link href="https://www.amazon.com/Finding-Freedom-Cooks-Remaking-Scratch/dp/1250312345"/>
+        <updated>2021-11-18T06:17:30.204Z</updated>
+        <content type="html"><![CDATA[하미나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두 팔 가졌을 때보다 더 많은 사람 안아줄 것, 중앙일보]]></title>
+        <id>https://www.joongang.co.kr/article/25020797</id>
+        <link href="https://www.joongang.co.kr/article/25020797"/>
+        <updated>2021-11-18T06:17:30.205Z</updated>
+        <content type="html"><![CDATA[차우진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE MORNING SHOW Trailer, Apple TV+ (2019)]]></title>
+        <id>https://www.youtube.com/watch?v=ZPYUpfIoM9w</id>
+        <link href="https://www.youtube.com/watch?v=ZPYUpfIoM9w"/>
+        <updated>2021-11-18T06:17:30.213Z</updated>
+        <content type="html"><![CDATA[최진영]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[<제로원데이 2021>]]></title>
         <id>http://zer01neday.com/</id>
         <link href="http://zer01neday.com/"/>
@@ -438,6 +494,34 @@
         <link href="https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"/>
         <updated>2021-11-16T19:11:51.408Z</updated>
         <content type="html"><![CDATA[고건혁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불꽃레터]]></title>
+        <id>https://page.stibee.com/subscriptions/143161</id>
+        <link href="https://page.stibee.com/subscriptions/143161"/>
+        <updated>2021-11-18T06:17:30.252Z</updated>
+        <content type="html"><![CDATA[장경진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“석탄, 퇴출 아닌 감축” COP26 폐막…의장은 사과하고, 기후단체는 장례식, 한겨레]]></title>
+        <id>https://www.hani.co.kr/arti/society/environment/1019183.html</id>
+        <link href="https://www.hani.co.kr/arti/society/environment/1019183.html"/>
+        <updated>2021-11-18T06:17:30.252Z</updated>
+        <content type="html"><![CDATA[최진영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4500만원 폐가 샀던 MBC PD 근황, "시골 빈집 이제 그만 보여주셔도 됩니다 ㅜㅜ"]]></title>
+        <id>https://youtu.be/AjKZBU5lyDU</id>
+        <link href="https://youtu.be/AjKZBU5lyDU"/>
+        <updated>2021-11-18T06:17:30.253Z</updated>
+        <content type="html"><![CDATA[차우진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘쉬운 답'은 없다 - 유럽 코로나19 재확산의 교훈]]></title>
+        <id>https://alook.so/posts/6Mt1Y7?fbclid=IwAR03yuGWLDZUDBzWELC0df5gLtXZF2Dwo3yPMoT7YDY6VIdS1rK7-H1UtQU</id>
+        <link href="https://alook.so/posts/6Mt1Y7?fbclid=IwAR03yuGWLDZUDBzWELC0df5gLtXZF2Dwo3yPMoT7YDY6VIdS1rK7-H1UtQU"/>
+        <updated>2021-11-18T06:17:30.254Z</updated>
+        <content type="html"><![CDATA[최진영]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“마흔에 첫 개인전, 쉰에 테이트모던 전시 ··· ‘아니카 이’ 돌풍”]]></title>
