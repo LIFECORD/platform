@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-18T10:17:29.841Z</updated>
+    <updated>2021-11-18T11:15:13.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[Destiny (운명, 팔자...)]]></title>
-        <id>https://alook.so/posts/YytPG7</id>
-        <link href="https://alook.so/posts/YytPG7"/>
-        <updated>2021-11-18T10:16:02.124Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytPG7">Destiny (운명, 팔자...)</a>]]></content>
+        <title type="html"><![CDATA[정당 선택, 어떻게 하셨나요?]]></title>
+        <id>https://alook.so/posts/E7tkV3</id>
+        <link href="https://alook.so/posts/E7tkV3"/>
+        <updated>2021-11-18T11:13:44.410Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkV3">정당 선택, 어떻게 하셨나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋은 정책과 멋진 기획이네요!]]></title>
-        <id>https://alook.so/posts/rDt97d</id>
-        <link href="https://alook.so/posts/rDt97d"/>
-        <updated>2021-11-18T10:16:02.125Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt97d">좋은 정책과 멋진 기획이네요! </a>]]></content>
+        <title type="html"><![CDATA[얼룩소와 권태기🐄]]></title>
+        <id>https://alook.so/posts/latGZO</id>
+        <link href="https://alook.so/posts/latGZO"/>
+        <updated>2021-11-18T11:13:44.411Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latGZO">얼룩소와 권태기🐄</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지금은 볼 수 있는 멋지고 예쁜 자연을 평생 놓치고 싶지 않다.....]]></title>
-        <id>https://alook.so/posts/jdtGPO</id>
-        <link href="https://alook.so/posts/jdtGPO"/>
-        <updated>2021-11-18T10:16:02.126Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtGPO">지금은 볼 수 있는 멋지고 예쁜 자연을 평생 놓치고 싶지 않다.....</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루에 몇시간이나 주무시나요?]]></title>
-        <id>https://alook.so/posts/bWtlM6</id>
-        <link href="https://alook.so/posts/bWtlM6"/>
-        <updated>2021-11-18T10:16:02.127Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtlM6">하루에 몇시간이나 주무시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3년의 시간을 버텨오신 분들에게]]></title>
-        <id>https://alook.so/posts/a0t8rJ</id>
-        <link href="https://alook.so/posts/a0t8rJ"/>
-        <updated>2021-11-18T10:16:02.127Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t8rJ">3년의 시간을 버텨오신 분들에게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흙으로 직접 화분 만들기]]></title>
-        <id>https://alook.so/posts/dzt6Db</id>
-        <link href="https://alook.so/posts/dzt6Db"/>
-        <updated>2021-11-18T10:16:02.129Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt6Db">흙으로 직접 화분 만들기</a>]]></content>
+        <title type="html"><![CDATA[답글: Love myself!~]]></title>
+        <id>https://alook.so/posts/mbtYp4</id>
+        <link href="https://alook.so/posts/mbtYp4"/>
+        <updated>2021-11-18T11:13:44.412Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtYp4">답글: Love myself!~</a>]]></content>
     </entry>
 </feed>
