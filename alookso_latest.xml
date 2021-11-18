@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-18T17:20:27.467Z</updated>
+    <updated>2021-11-18T18:19:47.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[점점 나아가는 K-pop]]></title>
+        <id>https://alook.so/posts/o7tVwa</id>
+        <link href="https://alook.so/posts/o7tVwa"/>
+        <updated>2021-11-18T18:18:05.986Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tVwa">점점 나아가는 K-pop</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[작은 금액이라도 매월 입금되는 주식 배당금]]></title>
+        <id>https://alook.so/posts/70tzMG</id>
+        <link href="https://alook.so/posts/70tzMG"/>
+        <updated>2021-11-18T18:18:05.988Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tzMG">작은 금액이라도 매월 입금되는 주식 배당금</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[취미생활을 갖고 계신가요?]]></title>
+        <id>https://alook.so/posts/jdtGj5</id>
+        <link href="https://alook.so/posts/jdtGj5"/>
+        <updated>2021-11-18T18:18:05.988Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtGj5">취미생활을 갖고 계신가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[섹스, 어떤 놀이터를 위하여 (n번방 사건, 그 후 1년)]]></title>
+        <id>https://alook.so/posts/bWtlLO</id>
+        <link href="https://alook.so/posts/bWtlLO"/>
+        <updated>2021-11-18T18:18:05.990Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtlLO">섹스, 어떤 놀이터를 위하여 (n번방 사건, 그 후 1년)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외롭다고 결혼하고 아이를 낳지 마세요.]]></title>
         <id>https://alook.so/posts/ZktZ0a</id>
         <link href="https://alook.so/posts/ZktZ0a"/>
         <updated>2021-11-18T17:18:53.286Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktZ0a">외롭다고 결혼하고 아이를 낳지 마세요. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주4일제 생각만 해도 즐겁네요]]></title>
-        <id>https://alook.so/posts/J5t5PR</id>
-        <link href="https://alook.so/posts/J5t5PR"/>
-        <updated>2021-11-18T17:18:53.288Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t5PR">주4일제 생각만 해도 즐겁네요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로젝트 alookso, 앞으로 어떻게 해야 될까요?]]></title>
-        <id>https://alook.so/posts/potxj4</id>
-        <link href="https://alook.so/posts/potxj4"/>
-        <updated>2021-11-18T17:18:53.288Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potxj4">프로젝트 alookso, 앞으로 어떻게 해야 될까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내게도 찾아온 alookso권태기🥺]]></title>
-        <id>https://alook.so/posts/Vnt9zD</id>
-        <link href="https://alook.so/posts/Vnt9zD"/>
-        <updated>2021-11-18T17:18:53.289Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt9zD">내게도 찾아온 alookso권태기🥺</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말이 다가오는데 올해는 어떠셨나요?]]></title>
-        <id>https://alook.so/posts/zvtevB</id>
-        <link href="https://alook.so/posts/zvtevB"/>
-        <updated>2021-11-18T17:18:53.289Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtevB">연말이 다가오는데 올해는 어떠셨나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유투브 검색]]></title>
-        <id>https://alook.so/posts/2xtbOz</id>
-        <link href="https://alook.so/posts/2xtbOz"/>
-        <updated>2021-11-18T17:18:53.291Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtbOz">유투브 검색</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변화와 적응, 협업]]></title>
-        <id>https://alook.so/posts/WLtZ1R</id>
-        <link href="https://alook.so/posts/WLtZ1R"/>
-        <updated>2021-11-18T17:18:53.292Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtZ1R">변화와 적응, 협업</a>]]></content>
     </entry>
 </feed>
