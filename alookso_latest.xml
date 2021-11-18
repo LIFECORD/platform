@@ -2,21 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-18T13:23:48.797Z</updated>
+    <updated>2021-11-18T14:15:15.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[앱테크의 백미는  "지출 통제" 였어요]]></title>
-        <id>https://alook.so/posts/q1tEay</id>
-        <link href="https://alook.so/posts/q1tEay"/>
-        <updated>2021-11-18T13:22:15.683Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tEay">앱테크의 백미는  "지출 통제" 였어요</a>]]></content>
+        <title type="html"><![CDATA[국회의원들도 평가를 받아야하지 않을까요?]]></title>
+        <id>https://alook.so/posts/DjtBKr</id>
+        <link href="https://alook.so/posts/DjtBKr"/>
+        <updated>2021-11-18T14:13:42.937Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtBKr">국회의원들도 평가를 받아야하지 않을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[꿈이 없던 10대때 불행했던 이유.]]></title>
-        <id>https://alook.so/posts/rDt9zd</id>
-        <link href="https://alook.so/posts/rDt9zd"/>
-        <updated>2021-11-18T13:22:15.684Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt9zd">꿈이 없던 10대때 불행했던 이유.</a>]]></content>
+        <title type="html"><![CDATA[그럼에도 불구하고 정시확대를 외치고 있습니다. : 학부모]]></title>
+        <id>https://alook.so/posts/1RtZrX</id>
+        <link href="https://alook.so/posts/1RtZrX"/>
+        <updated>2021-11-18T14:13:42.938Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZrX">그럼에도 불구하고 정시확대를 외치고 있습니다. : 학부모</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 가지고 싶었다. -2]]></title>
+        <id>https://alook.so/posts/o7tVxa</id>
+        <link href="https://alook.so/posts/o7tVxa"/>
+        <updated>2021-11-18T14:13:42.939Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tVxa">나는 가지고 싶었다. -2</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다소 이기적 마인드의 글,]]></title>
+        <id>https://alook.so/posts/70tzlG</id>
+        <link href="https://alook.so/posts/70tzlG"/>
+        <updated>2021-11-18T14:13:42.940Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tzlG">다소 이기적 마인드의 글,</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["헤어지자"는 말에 여친 살해뒤 19층에서 밀어버린 30대..(가해자를 엄벌해야 하는데..)]]></title>
+        <id>https://alook.so/posts/YytPBk</id>
+        <link href="https://alook.so/posts/YytPBk"/>
+        <updated>2021-11-18T14:13:42.941Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytPBk">"헤어지자"는 말에 여친 살해뒤 19층에서 밀어버린 30대..(가해자를 엄벌해야 하는데..)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군인 현대화 시스템]]></title>
+        <id>https://alook.so/posts/rDt9O8</id>
+        <link href="https://alook.so/posts/rDt9O8"/>
+        <updated>2021-11-18T14:13:42.942Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt9O8">군인 현대화 시스템</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내일하고 토요일 꺼 몰아서 돈을 내야하는 상황...]]></title>
+        <id>https://alook.so/posts/latGPO</id>
+        <link href="https://alook.so/posts/latGPO"/>
+        <updated>2021-11-18T14:13:42.944Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latGPO">내일하고 토요일 꺼 몰아서 돈을 내야하는 상황...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['공정'한 입시 같은 건 없다 : 정시 확대 주장 비판]]></title>
+        <id>https://alook.so/posts/KmtxeD</id>
+        <link href="https://alook.so/posts/KmtxeD"/>
+        <updated>2021-11-18T14:13:42.945Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtxeD">'공정'한 입시 같은 건 없다 : 정시 확대 주장 비판</a>]]></content>
     </entry>
 </feed>
