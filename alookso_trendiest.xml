@@ -2,57 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-18T04:20:07.229Z</updated>
+    <updated>2021-11-18T05:15:20.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[경로를 이탈했습니다.]]></title>
-        <id>https://alook.so/posts/2xtEqw</id>
-        <link href="https://alook.so/posts/2xtEqw"/>
-        <updated>2021-11-17T06:18:44.655Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtEqw">경로를 이탈했습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼터뷰 후기~]]></title>
-        <id>https://alook.so/posts/njtYzR</id>
-        <link href="https://alook.so/posts/njtYzR"/>
-        <updated>2021-11-17T09:15:19.498Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYzR">얼터뷰 후기~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터만큼이나 중요한 것?]]></title>
-        <id>https://alook.so/posts/54t8ZZ</id>
-        <link href="https://alook.so/posts/54t8ZZ"/>
-        <updated>2021-11-17T09:15:19.513Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t8ZZ">데이터만큼이나 중요한 것?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성동구청장 정원오가 드리는 질문, “돌봄노동의 가치를 인정하면 무엇이 바뀔까요?”]]></title>
-        <id>https://alook.so/posts/latG5W</id>
-        <link href="https://alook.so/posts/latG5W"/>
-        <updated>2021-11-18T03:15:16.360Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latG5W">성동구청장 정원오가 드리는 질문, “돌봄노동의 가치를 인정하면 무엇이 바뀔까요?”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일 수능 시험을 보게 될 너에게]]></title>
-        <id>https://alook.so/posts/BatGk9</id>
-        <link href="https://alook.so/posts/BatGk9"/>
-        <updated>2021-11-17T20:15:54.988Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatGk9">내일 수능 시험을 보게 될 너에게</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[수능대박 대신, 다른 응원은 어떨까요?]]></title>
         <id>https://alook.so/posts/zvteKw</id>
         <link href="https://alook.so/posts/zvteKw"/>
         <updated>2021-11-18T00:46:25.317Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvteKw">수능대박 대신, 다른 응원은 어떨까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나는 우리 딸이 첫 월경하면 콘돔을 선물 해줄려고."]]></title>
-        <id>https://alook.so/posts/54tXr4</id>
-        <link href="https://alook.so/posts/54tXr4"/>
-        <updated>2021-11-18T04:18:41.737Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tXr4">"나는 우리 딸이 첫 월경하면 콘돔을 선물 해줄려고." </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[갑작스런 부서이동 통보]]></title>
@@ -62,32 +20,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt9YG">갑작스런 부서이동 통보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[alookso x 서울 성동구, 성동프라이즈를 소개합니다!]]></title>
-        <id>https://alook.so/posts/mbtY7X</id>
-        <link href="https://alook.so/posts/mbtY7X"/>
-        <updated>2021-11-17T16:20:19.635Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY7X">alookso x 서울 성동구, 성동프라이즈를 소개합니다!</a>]]></content>
+        <title type="html"><![CDATA[얼룩소 보상을 이용해 처음으로 좋은 일 한 번 해봤습니다.]]></title>
+        <id>https://alook.so/posts/E7tk7B</id>
+        <link href="https://alook.so/posts/E7tk7B"/>
+        <updated>2021-11-18T05:13:44.129Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tk7B">얼룩소 보상을 이용해 처음으로 좋은 일 한 번 해봤습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[첫 얼룩커픽으로 선정이 되었을때,]]></title>
-        <id>https://alook.so/posts/njt8l3</id>
-        <link href="https://alook.so/posts/njt8l3"/>
-        <updated>2021-11-17T10:16:21.402Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt8l3">첫 얼룩커픽으로 선정이 되었을때,</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alookso의 정체성?? 혹은 미래]]></title>
-        <id>https://alook.so/posts/mbtY79</id>
-        <link href="https://alook.so/posts/mbtY79"/>
-        <updated>2021-11-17T12:22:38.448Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY79">alookso의 정체성?? 혹은 미래</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노키즈존이 개념 없는 부모들 때문이라고 보시는 분들께]]></title>
-        <id>https://alook.so/posts/1Rt5jm</id>
-        <link href="https://alook.so/posts/1Rt5jm"/>
-        <updated>2021-11-17T05:13:12.200Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt5jm">노키즈존이 개념 없는 부모들 때문이라고 보시는 분들께</a>]]></content>
+        <title type="html"><![CDATA[데이터만큼이나 중요한 것?]]></title>
+        <id>https://alook.so/posts/54t8ZZ</id>
+        <link href="https://alook.so/posts/54t8ZZ"/>
+        <updated>2021-11-17T09:15:19.513Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t8ZZ">데이터만큼이나 중요한 것?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[당신의 시간은 안녕 하신가요?]]></title>
@@ -97,11 +41,39 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt5Bv">당신의 시간은 안녕 하신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엄마가 40살에 대학을 갔다.]]></title>
-        <id>https://alook.so/posts/dzt6ra</id>
-        <link href="https://alook.so/posts/dzt6ra"/>
-        <updated>2021-11-18T04:18:41.747Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt6ra">엄마가 40살에 대학을 갔다. </a>]]></content>
+        <title type="html"><![CDATA[alookso의 정체성?? 혹은 미래]]></title>
+        <id>https://alook.so/posts/mbtY79</id>
+        <link href="https://alook.so/posts/mbtY79"/>
+        <updated>2021-11-17T12:22:38.448Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY79">alookso의 정체성?? 혹은 미래</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내일 수능 시험을 보게 될 너에게]]></title>
+        <id>https://alook.so/posts/BatGk9</id>
+        <link href="https://alook.so/posts/BatGk9"/>
+        <updated>2021-11-17T20:15:54.988Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatGk9">내일 수능 시험을 보게 될 너에게</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈이 없어 감옥을 택하는 삶]]></title>
+        <id>https://alook.so/posts/kZtnO8</id>
+        <link href="https://alook.so/posts/kZtnO8"/>
+        <updated>2021-11-18T04:18:41.750Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtnO8">돈이 없어 감옥을 택하는 삶 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노키즈존이 개념 없는 부모들 때문이라고 보시는 분들께]]></title>
+        <id>https://alook.so/posts/1Rt5jm</id>
+        <link href="https://alook.so/posts/1Rt5jm"/>
+        <updated>2021-11-17T05:13:12.200Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt5jm">노키즈존이 개념 없는 부모들 때문이라고 보시는 분들께</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼터뷰 후기~]]></title>
+        <id>https://alook.so/posts/njtYzR</id>
+        <link href="https://alook.so/posts/njtYzR"/>
+        <updated>2021-11-17T09:15:19.498Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYzR">얼터뷰 후기~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로필 한 장 (feat. 피천득)]]></title>
@@ -111,10 +83,52 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t359">프로필 한 장 (feat. 피천득)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돈이 없어 감옥을 택하는 삶]]></title>
-        <id>https://alook.so/posts/kZtnO8</id>
-        <link href="https://alook.so/posts/kZtnO8"/>
-        <updated>2021-11-18T04:18:41.750Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtnO8">돈이 없어 감옥을 택하는 삶 </a>]]></content>
+        <title type="html"><![CDATA[돈은 넣어두시길. 내가 글쓰는 이유는 따로 있어요.]]></title>
+        <id>https://alook.so/posts/jdtG90</id>
+        <link href="https://alook.so/posts/jdtG90"/>
+        <updated>2021-11-18T05:13:44.153Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtG90">돈은 넣어두시길. 내가 글쓰는 이유는 따로 있어요. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["나는 우리 딸이 첫 월경하면 콘돔을 선물 해줄려고."]]></title>
+        <id>https://alook.so/posts/54tXr4</id>
+        <link href="https://alook.so/posts/54tXr4"/>
+        <updated>2021-11-18T04:18:41.737Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tXr4">"나는 우리 딸이 첫 월경하면 콘돔을 선물 해줄려고." </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 수능칩니다.]]></title>
+        <id>https://alook.so/posts/DjtBO2</id>
+        <link href="https://alook.so/posts/DjtBO2"/>
+        <updated>2021-11-18T05:13:44.157Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtBO2">오늘 수능칩니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫 얼룩커픽으로 선정이 되었을때,]]></title>
+        <id>https://alook.so/posts/njt8l3</id>
+        <link href="https://alook.so/posts/njt8l3"/>
+        <updated>2021-11-17T10:16:21.402Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt8l3">첫 얼룩커픽으로 선정이 되었을때,</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성동구청장 정원오가 드리는 질문, “돌봄노동의 가치를 인정하면 무엇이 바뀔까요?”]]></title>
+        <id>https://alook.so/posts/latG5W</id>
+        <link href="https://alook.so/posts/latG5W"/>
+        <updated>2021-11-18T03:15:16.360Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latG5W">성동구청장 정원오가 드리는 질문, “돌봄노동의 가치를 인정하면 무엇이 바뀔까요?”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경로를 이탈했습니다.]]></title>
+        <id>https://alook.so/posts/2xtEqw</id>
+        <link href="https://alook.so/posts/2xtEqw"/>
+        <updated>2021-11-17T06:18:44.655Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtEqw">경로를 이탈했습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alookso x 서울 성동구, 성동프라이즈를 소개합니다!]]></title>
+        <id>https://alook.so/posts/mbtY7X</id>
+        <link href="https://alook.so/posts/mbtY7X"/>
+        <updated>2021-11-17T16:20:19.635Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY7X">alookso x 서울 성동구, 성동프라이즈를 소개합니다!</a>]]></content>
     </entry>
 </feed>
