@@ -2,35 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-18T00:47:53.113Z</updated>
+    <updated>2021-11-18T01:58:35.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[국방력의 효과]]></title>
-        <id>https://alook.so/posts/PvtOqG</id>
-        <link href="https://alook.so/posts/PvtOqG"/>
-        <updated>2021-11-18T00:46:16.364Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtOqG">국방력의 효과</a>]]></content>
+        <title type="html"><![CDATA[아이 갖고 싶은가요]]></title>
+        <id>https://alook.so/posts/LKtBwr</id>
+        <link href="https://alook.so/posts/LKtBwr"/>
+        <updated>2021-11-18T01:56:56.811Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtBwr">아이 갖고 싶은가요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기술 발전이 일자리를 늘릴까요 없앨까요?]]></title>
-        <id>https://alook.so/posts/Vnt9ny</id>
-        <link href="https://alook.so/posts/Vnt9ny"/>
-        <updated>2021-11-18T00:46:16.365Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt9ny">기술 발전이 일자리를 늘릴까요 없앨까요?</a>]]></content>
+        <title type="html"><![CDATA[요즘 관심사...주택청약]]></title>
+        <id>https://alook.so/posts/njtYed</id>
+        <link href="https://alook.so/posts/njtYed"/>
+        <updated>2021-11-18T01:56:56.813Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYed">요즘 관심사...주택청약</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사형제도의 필요성]]></title>
-        <id>https://alook.so/posts/WLtZXD</id>
-        <link href="https://alook.so/posts/WLtZXD"/>
-        <updated>2021-11-18T00:46:16.366Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtZXD">사형제도의 필요성</a>]]></content>
+        <title type="html"><![CDATA[k    pop]]></title>
+        <id>https://alook.so/posts/3wtxY9</id>
+        <link href="https://alook.so/posts/3wtxY9"/>
+        <updated>2021-11-18T01:56:56.814Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtxY9">k    pop</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족이 부담스러웠던적이 있나요?]]></title>
-        <id>https://alook.so/posts/M9tq95</id>
-        <link href="https://alook.so/posts/M9tq95"/>
-        <updated>2021-11-18T00:46:16.367Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tq95">가족이 부담스러웠던적이 있나요?</a>]]></content>
+        <title type="html"><![CDATA[박현안님의 의견에 적극 동조하며(feat 우따따)]]></title>
+        <id>https://alook.so/posts/8Wtzny</id>
+        <link href="https://alook.so/posts/8Wtzny"/>
+        <updated>2021-11-18T01:56:56.815Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtzny">박현안님의 의견에 적극 동조하며(feat 우따따) </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 영어는 당연한가요?]]></title>
+        <id>https://alook.so/posts/G1tVXe</id>
+        <link href="https://alook.so/posts/G1tVXe"/>
+        <updated>2021-11-18T01:56:56.816Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tVXe">왜 영어는 당연한가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 집에 갇힌 제이슨_3화 흐린 가을 하늘에 편지를 써]]></title>
+        <id>https://alook.so/posts/vKt5Ep</id>
+        <link href="https://alook.so/posts/vKt5Ep"/>
+        <updated>2021-11-18T01:56:56.817Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt5Ep">내 집에 갇힌 제이슨_3화 흐린 가을 하늘에 편지를 써</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 왜 안되나요? (혐오라는 전염병)]]></title>
+        <id>https://alook.so/posts/E7tkG0</id>
+        <link href="https://alook.so/posts/E7tkG0"/>
+        <updated>2021-11-18T01:56:56.818Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkG0">답글: 왜 안되나요? (혐오라는 전염병)</a>]]></content>
     </entry>
 </feed>
