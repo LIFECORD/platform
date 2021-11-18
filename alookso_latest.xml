@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-18T21:13:57.006Z</updated>
+    <updated>2021-11-18T22:17:59.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국은 선진 국가가 아니라고 생각됩니다.]]></title>
+        <id>https://alook.so/posts/LKtBvq</id>
+        <link href="https://alook.so/posts/LKtBvq"/>
+        <updated>2021-11-18T22:16:22.156Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtBvq">한국은 선진 국가가 아니라고 생각됩니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[범죄가 판을 치는 세상]]></title>
+        <id>https://alook.so/posts/3wtxzR</id>
+        <link href="https://alook.so/posts/3wtxzR"/>
+        <updated>2021-11-18T22:16:22.157Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtxzR">범죄가 판을 치는 세상</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 꿈이 없던 20대 때 불행했던 이유.]]></title>
+        <id>https://alook.so/posts/8Wtzrp</id>
+        <link href="https://alook.so/posts/8Wtzrp"/>
+        <updated>2021-11-18T22:16:22.159Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtzrp">답글: 꿈이 없던 20대 때 불행했던 이유.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[만약 주 4일제라면]]></title>
         <id>https://alook.so/posts/OEtPX2</id>
         <link href="https://alook.so/posts/OEtPX2"/>
         <updated>2021-11-18T21:12:16.244Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtPX2">만약 주 4일제라면</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[철밥통]]></title>
-        <id>https://alook.so/posts/E7tkz8</id>
-        <link href="https://alook.so/posts/E7tkz8"/>
-        <updated>2021-11-18T20:13:21.633Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkz8">철밥통</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["쁘걸 신화"를 돌아보다]]></title>
-        <id>https://alook.so/posts/latGVo</id>
-        <link href="https://alook.so/posts/latGVo"/>
-        <updated>2021-11-18T20:13:21.635Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latGVo">"쁘걸 신화"를 돌아보다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로스트펫 펫로스트 증후군 극복되는가]]></title>
-        <id>https://alook.so/posts/92tbWW</id>
-        <link href="https://alook.so/posts/92tbWW"/>
-        <updated>2021-11-18T20:13:21.637Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tbWW">로스트펫 펫로스트 증후군 극복되는가</a>]]></content>
     </entry>
 </feed>
