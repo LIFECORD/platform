@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-18T19:15:12.413Z</updated>
+    <updated>2021-11-18T20:15:07.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[점점 나아가는 K-pop]]></title>
-        <id>https://alook.so/posts/o7tVwa</id>
-        <link href="https://alook.so/posts/o7tVwa"/>
-        <updated>2021-11-18T18:18:05.986Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tVwa">점점 나아가는 K-pop</a>]]></content>
+        <title type="html"><![CDATA[철밥통]]></title>
+        <id>https://alook.so/posts/E7tkz8</id>
+        <link href="https://alook.so/posts/E7tkz8"/>
+        <updated>2021-11-18T20:13:21.633Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkz8">철밥통</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[작은 금액이라도 매월 입금되는 주식 배당금]]></title>
-        <id>https://alook.so/posts/70tzMG</id>
-        <link href="https://alook.so/posts/70tzMG"/>
-        <updated>2021-11-18T18:18:05.988Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tzMG">작은 금액이라도 매월 입금되는 주식 배당금</a>]]></content>
+        <title type="html"><![CDATA["쁘걸 신화"를 돌아보다]]></title>
+        <id>https://alook.so/posts/latGVo</id>
+        <link href="https://alook.so/posts/latGVo"/>
+        <updated>2021-11-18T20:13:21.635Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latGVo">"쁘걸 신화"를 돌아보다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로스트펫 펫로스트 증후군 극복되는가]]></title>
+        <id>https://alook.so/posts/92tbWW</id>
+        <link href="https://alook.so/posts/92tbWW"/>
+        <updated>2021-11-18T20:13:21.637Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tbWW">로스트펫 펫로스트 증후군 극복되는가</a>]]></content>
     </entry>
 </feed>
