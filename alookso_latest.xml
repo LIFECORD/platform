@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-17T23:16:24.819Z</updated>
+    <updated>2021-11-18T00:47:53.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[킥라니, 자라니 누가 만든 존재인가]]></title>
-        <id>https://alook.so/posts/E7tkw0</id>
-        <link href="https://alook.so/posts/E7tkw0"/>
-        <updated>2021-11-17T23:14:54.403Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkw0">킥라니, 자라니 누가 만든 존재인가</a>]]></content>
+        <title type="html"><![CDATA[국방력의 효과]]></title>
+        <id>https://alook.so/posts/PvtOqG</id>
+        <link href="https://alook.so/posts/PvtOqG"/>
+        <updated>2021-11-18T00:46:16.364Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtOqG">국방력의 효과</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기회를 놓쳐버린 지금]]></title>
-        <id>https://alook.so/posts/latGYX</id>
-        <link href="https://alook.so/posts/latGYX"/>
-        <updated>2021-11-17T23:14:54.404Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latGYX">기회를 놓쳐버린 지금 </a>]]></content>
+        <title type="html"><![CDATA[기술 발전이 일자리를 늘릴까요 없앨까요?]]></title>
+        <id>https://alook.so/posts/Vnt9ny</id>
+        <link href="https://alook.so/posts/Vnt9ny"/>
+        <updated>2021-11-18T00:46:16.365Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt9ny">기술 발전이 일자리를 늘릴까요 없앨까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이의 외로움]]></title>
-        <id>https://alook.so/posts/92tbnP</id>
-        <link href="https://alook.so/posts/92tbnP"/>
-        <updated>2021-11-17T23:14:54.405Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tbnP">아이의 외로움</a>]]></content>
+        <title type="html"><![CDATA[사형제도의 필요성]]></title>
+        <id>https://alook.so/posts/WLtZXD</id>
+        <link href="https://alook.so/posts/WLtZXD"/>
+        <updated>2021-11-18T00:46:16.366Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtZXD">사형제도의 필요성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 외모 평가는 이제 그만]]></title>
-        <id>https://alook.so/posts/mbtY8l</id>
-        <link href="https://alook.so/posts/mbtY8l"/>
-        <updated>2021-11-17T23:14:54.406Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY8l">내 외모 평가는 이제 그만</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 수능칩니다.]]></title>
-        <id>https://alook.so/posts/DjtBO2</id>
-        <link href="https://alook.so/posts/DjtBO2"/>
-        <updated>2021-11-17T22:15:23.075Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtBO2">오늘 수능칩니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인적으로 정리했던 글]]></title>
-        <id>https://alook.so/posts/1RtZYr</id>
-        <link href="https://alook.so/posts/1RtZYr"/>
-        <updated>2021-11-17T22:15:23.077Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZYr">개인적으로 정리했던 글 </a>]]></content>
+        <title type="html"><![CDATA[가족이 부담스러웠던적이 있나요?]]></title>
+        <id>https://alook.so/posts/M9tq95</id>
+        <link href="https://alook.so/posts/M9tq95"/>
+        <updated>2021-11-18T00:46:16.367Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tq95">가족이 부담스러웠던적이 있나요?</a>]]></content>
     </entry>
 </feed>
