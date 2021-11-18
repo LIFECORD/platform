@@ -2,28 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-18T11:15:13.041Z</updated>
+    <updated>2021-11-18T12:26:49.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[정당 선택, 어떻게 하셨나요?]]></title>
-        <id>https://alook.so/posts/E7tkV3</id>
-        <link href="https://alook.so/posts/E7tkV3"/>
-        <updated>2021-11-18T11:13:44.410Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tkV3">정당 선택, 어떻게 하셨나요?</a>]]></content>
+        <title type="html"><![CDATA[마우스가 아닌 키보드에 손을 올리게 만든 얼룩소!]]></title>
+        <id>https://alook.so/posts/RGt0yx</id>
+        <link href="https://alook.so/posts/RGt0yx"/>
+        <updated>2021-11-18T12:25:08.575Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt0yx">마우스가 아닌 키보드에 손을 올리게 만든 얼룩소!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소와 권태기🐄]]></title>
-        <id>https://alook.so/posts/latGZO</id>
-        <link href="https://alook.so/posts/latGZO"/>
-        <updated>2021-11-18T11:13:44.411Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latGZO">얼룩소와 권태기🐄</a>]]></content>
+        <title type="html"><![CDATA[답글: 그림은 거들 뿐? - 논지에 부합하는 근거에 대하여]]></title>
+        <id>https://alook.so/posts/kZtnrG</id>
+        <link href="https://alook.so/posts/kZtnrG"/>
+        <updated>2021-11-18T12:25:08.575Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtnrG">답글: 그림은 거들 뿐? - 논지에 부합하는 근거에 대하여</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: Love myself!~]]></title>
-        <id>https://alook.so/posts/mbtYp4</id>
-        <link href="https://alook.so/posts/mbtYp4"/>
-        <updated>2021-11-18T11:13:44.412Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtYp4">답글: Love myself!~</a>]]></content>
+        <title type="html"><![CDATA[설거지론이 막 떠올랐을때 실시간으로 DC를 눈팅했었는데]]></title>
+        <id>https://alook.so/posts/yEtM3v</id>
+        <link href="https://alook.so/posts/yEtM3v"/>
+        <updated>2021-11-18T12:25:08.575Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtM3v">설거지론이 막 떠올랐을때 실시간으로 DC를 눈팅했었는데</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[속물근성 총량 보존의 법칙]]></title>
+        <id>https://alook.so/posts/BatG77</id>
+        <link href="https://alook.so/posts/BatG77"/>
+        <updated>2021-11-18T12:25:08.577Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatG77">속물근성 총량 보존의 법칙</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 10대가 불행한 이유]]></title>
+        <id>https://alook.so/posts/LKtBzJ</id>
+        <link href="https://alook.so/posts/LKtBzJ"/>
+        <updated>2021-11-18T12:25:08.580Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtBzJ">한국 10대가 불행한 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이시기에 우리아들]]></title>
+        <id>https://alook.so/posts/njtYyY</id>
+        <link href="https://alook.so/posts/njtYyY"/>
+        <updated>2021-11-18T12:25:08.584Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYyY">이시기에 우리아들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티클모아 태산이라는 말이 실감이 난다..]]></title>
+        <id>https://alook.so/posts/6MtWR1</id>
+        <link href="https://alook.so/posts/6MtWR1"/>
+        <updated>2021-11-18T12:25:08.586Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtWR1">티클모아 태산이라는 말이 실감이 난다.. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여성운전자는 호갱?]]></title>
+        <id>https://alook.so/posts/3wtxvy</id>
+        <link href="https://alook.so/posts/3wtxvy"/>
+        <updated>2021-11-18T12:25:08.588Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtxvy">여성운전자는 호갱?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[점점 더 영악해지는 흉악범... 사형 부활해야]]></title>
+        <id>https://alook.so/posts/8Wtzvn</id>
+        <link href="https://alook.so/posts/8Wtzvn"/>
+        <updated>2021-11-18T12:25:08.589Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtzvn">점점 더 영악해지는 흉악범... 사형 부활해야</a>]]></content>
     </entry>
 </feed>
