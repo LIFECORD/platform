@@ -2,65 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-18T20:15:07.234Z</updated>
+    <updated>2021-11-18T21:13:57.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[30대 후반의 그녀는 어떻게 비혼주의자가 되었을까]]></title>
-        <id>https://alook.so/posts/54tXXD</id>
-        <link href="https://alook.so/posts/54tXXD"/>
-        <updated>2021-11-18T10:16:10.397Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tXXD">30대 후반의 그녀는 어떻게 비혼주의자가 되었을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이유는 간단합니다. 결혼이 여성에게 손해니까요.]]></title>
-        <id>https://alook.so/posts/potxxm</id>
-        <link href="https://alook.so/posts/potxxm"/>
-        <updated>2021-11-18T15:16:18.760Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potxxm">이유는 간단합니다. 결혼이 여성에게 손해니까요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alookso의 정체성?? 혹은 미래]]></title>
-        <id>https://alook.so/posts/mbtY79</id>
-        <link href="https://alook.so/posts/mbtY79"/>
-        <updated>2021-11-17T12:22:38.448Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY79">alookso의 정체성?? 혹은 미래</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나는 우리 딸이 첫 월경하면 콘돔을 선물 해줄려고."]]></title>
-        <id>https://alook.so/posts/54tXr4</id>
-        <link href="https://alook.so/posts/54tXr4"/>
-        <updated>2021-11-18T04:18:41.737Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tXr4">"나는 우리 딸이 첫 월경하면 콘돔을 선물 해줄려고." </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키오스크 포비아.. '도와주세요' 버튼 의무화는 어떨까]]></title>
-        <id>https://alook.so/posts/J5t59m</id>
-        <link href="https://alook.so/posts/J5t59m"/>
-        <updated>2021-11-18T14:13:51.853Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t59m">키오스크 포비아.. '도와주세요' 버튼 의무화는 어떨까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소의 미래를 만들어가는 그 한 사람.]]></title>
-        <id>https://alook.so/posts/rDt9bY</id>
-        <link href="https://alook.so/posts/rDt9bY"/>
-        <updated>2021-11-18T18:18:15.809Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt9bY">얼룩소의 미래를 만들어가는 그 한 사람. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 수능칩니다.]]></title>
-        <id>https://alook.so/posts/DjtBO2</id>
-        <link href="https://alook.so/posts/DjtBO2"/>
-        <updated>2021-11-18T05:13:44.157Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtBO2">오늘 수능칩니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼터뷰, 덕분에 자~알 마쳤습니다!]]></title>
-        <id>https://alook.so/posts/WLtZxx</id>
-        <link href="https://alook.so/posts/WLtZxx"/>
-        <updated>2021-11-18T07:15:38.923Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtZxx">얼터뷰, 덕분에 자~알 마쳤습니다!</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[성동구청장 정원오가 드리는 질문, “돌봄노동의 가치를 인정하면 무엇이 바뀔까요?”]]></title>
         <id>https://alook.so/posts/latG5W</id>
@@ -76,11 +20,60 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt001">'그릇'과 '설거지'라는 은유를 사용하는 이상 여성혐오의 혐의에서 벗어날 수 없을 겁니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아보카도의 비밀을 아시나요?]]></title>
-        <id>https://alook.so/posts/eVtGGX</id>
-        <link href="https://alook.so/posts/eVtGGX"/>
-        <updated>2021-11-18T14:13:51.852Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtGGX">아보카도의 비밀을 아시나요? </a>]]></content>
+        <title type="html"><![CDATA[답글: 이 기사가 성교육 강좌에 쓰였음 좋겠네요]]></title>
+        <id>https://alook.so/posts/q1tEE9</id>
+        <link href="https://alook.so/posts/q1tEE9"/>
+        <updated>2021-11-18T11:13:52.427Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tEE9">답글: 이 기사가 성교육 강좌에 쓰였음 좋겠네요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 외모 평가는 이제 그만]]></title>
+        <id>https://alook.so/posts/mbtY8l</id>
+        <link href="https://alook.so/posts/mbtY8l"/>
+        <updated>2021-11-18T06:17:47.465Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY8l">내 외모 평가는 이제 그만</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈은 넣어두시길. 내가 글쓰는 이유는 따로 있어요.]]></title>
+        <id>https://alook.so/posts/jdtG90</id>
+        <link href="https://alook.so/posts/jdtG90"/>
+        <updated>2021-11-18T05:13:44.153Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtG90">돈은 넣어두시길. 내가 글쓰는 이유는 따로 있어요. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30대 후반의 그녀는 어떻게 비혼주의자가 되었을까]]></title>
+        <id>https://alook.so/posts/54tXXD</id>
+        <link href="https://alook.so/posts/54tXXD"/>
+        <updated>2021-11-18T10:16:10.397Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tXXD">30대 후반의 그녀는 어떻게 비혼주의자가 되었을까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 수능칩니다.]]></title>
+        <id>https://alook.so/posts/DjtBO2</id>
+        <link href="https://alook.so/posts/DjtBO2"/>
+        <updated>2021-11-18T05:13:44.157Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtBO2">오늘 수능칩니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소의 미래를 만들어가는 그 한 사람.]]></title>
+        <id>https://alook.so/posts/rDt9bY</id>
+        <link href="https://alook.so/posts/rDt9bY"/>
+        <updated>2021-11-18T18:18:15.809Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt9bY">얼룩소의 미래를 만들어가는 그 한 사람. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼터뷰, 덕분에 자~알 마쳤습니다!]]></title>
+        <id>https://alook.so/posts/WLtZxx</id>
+        <link href="https://alook.so/posts/WLtZxx"/>
+        <updated>2021-11-18T07:15:38.923Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtZxx">얼터뷰, 덕분에 자~알 마쳤습니다!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키오스크 포비아.. '도와주세요' 버튼 의무화는 어떨까]]></title>
+        <id>https://alook.so/posts/J5t59m</id>
+        <link href="https://alook.so/posts/J5t59m"/>
+        <updated>2021-11-18T14:13:51.853Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t59m">키오스크 포비아.. '도와주세요' 버튼 의무화는 어떨까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['론'이 아니라 혐오단어입니다.]]></title>
@@ -90,6 +83,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt27a">'론'이 아니라 혐오단어입니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["나는 우리 딸이 첫 월경하면 콘돔을 선물 해줄려고."]]></title>
+        <id>https://alook.so/posts/54tXr4</id>
+        <link href="https://alook.so/posts/54tXr4"/>
+        <updated>2021-11-18T04:18:41.737Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tXr4">"나는 우리 딸이 첫 월경하면 콘돔을 선물 해줄려고." </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[alookso x 서울 성동구, 성동프라이즈를 소개합니다!]]></title>
         <id>https://alook.so/posts/mbtY7X</id>
         <link href="https://alook.so/posts/mbtY7X"/>
@@ -97,11 +97,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY7X">alookso x 서울 성동구, 성동프라이즈를 소개합니다!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 외모 평가는 이제 그만]]></title>
-        <id>https://alook.so/posts/mbtY8l</id>
-        <link href="https://alook.so/posts/mbtY8l"/>
-        <updated>2021-11-18T06:17:47.465Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY8l">내 외모 평가는 이제 그만</a>]]></content>
+        <title type="html"><![CDATA[alookso의 정체성?? 혹은 미래]]></title>
+        <id>https://alook.so/posts/mbtY79</id>
+        <link href="https://alook.so/posts/mbtY79"/>
+        <updated>2021-11-17T12:22:38.448Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY79">alookso의 정체성?? 혹은 미래</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이유는 간단합니다. 결혼이 여성에게 손해니까요.]]></title>
+        <id>https://alook.so/posts/potxxm</id>
+        <link href="https://alook.so/posts/potxxm"/>
+        <updated>2021-11-18T15:16:18.760Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potxxm">이유는 간단합니다. 결혼이 여성에게 손해니까요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아보카도의 비밀을 아시나요?]]></title>
+        <id>https://alook.so/posts/eVtGGX</id>
+        <link href="https://alook.so/posts/eVtGGX"/>
+        <updated>2021-11-18T14:13:51.852Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtGGX">아보카도의 비밀을 아시나요? </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[결혼에 대해 진지하게 생각하게 되는 시기는 언제일까.]]></title>
@@ -123,19 +137,5 @@
         <link href="https://alook.so/posts/8Wtzky"/>
         <updated>2021-11-18T11:13:52.433Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtzky">성교육은 빠르면 빠를수록!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈은 넣어두시길. 내가 글쓰는 이유는 따로 있어요.]]></title>
-        <id>https://alook.so/posts/jdtG90</id>
-        <link href="https://alook.so/posts/jdtG90"/>
-        <updated>2021-11-18T05:13:44.153Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtG90">돈은 넣어두시길. 내가 글쓰는 이유는 따로 있어요. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 이 기사가 성교육 강좌에 쓰였음 좋겠네요]]></title>
-        <id>https://alook.so/posts/q1tEE9</id>
-        <link href="https://alook.so/posts/q1tEE9"/>
-        <updated>2021-11-18T11:13:52.427Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tEE9">답글: 이 기사가 성교육 강좌에 쓰였음 좋겠네요</a>]]></content>
     </entry>
 </feed>
