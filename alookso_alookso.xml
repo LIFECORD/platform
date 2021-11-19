@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-11-19T06:20:25.402Z</updated>
+    <updated>2021-11-19T07:18:12.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[브리프] 노키즈존은 alookso를 어떻게 달궜나]]></title>
+        <id>https://alook.so/posts/xlt2M7</id>
+        <link href="https://alook.so/posts/xlt2M7"/>
+        <updated>2021-11-19T07:16:55.186Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt2M7">[브리프] 노키즈존은 alookso를 어떻게 달궜나</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[얼터뷰] 콜센터를 나와 연고도 없는 곳에 독립서점을 차렸다]]></title>
         <id>https://alook.so/posts/mbtYl6</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/XBteeJ"/>
         <updated>2021-11-08T05:14:09.141Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBteeJ">계급이 돌아왔다 - 이대남 현상이라는 착시</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 징계 판결, 언론은 어떻게 보도했나]]></title>
-        <id>https://alook.so/posts/o7taZB</id>
-        <link href="https://alook.so/posts/o7taZB"/>
-        <updated>2021-11-05T01:57:59.207Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7taZB">윤석열 징계 판결, 언론은 어떻게 보도했나</a>]]></content>
     </entry>
 </feed>
