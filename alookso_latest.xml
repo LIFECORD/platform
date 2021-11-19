@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-19T10:17:59.116Z</updated>
+    <updated>2021-11-19T11:15:20.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[일방의 주장일 뿐인데 무엇이 드러났나요]]></title>
-        <id>https://alook.so/posts/92tb2Z</id>
-        <link href="https://alook.so/posts/92tb2Z"/>
-        <updated>2021-11-19T10:16:19.925Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tb2Z">일방의 주장일 뿐인데 무엇이 드러났나요</a>]]></content>
+        <title type="html"><![CDATA[아보카도, 너마저 ㅜ]]></title>
+        <id>https://alook.so/posts/2xtbw6</id>
+        <link href="https://alook.so/posts/2xtbw6"/>
+        <updated>2021-11-19T11:13:46.333Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtbw6">아보카도, 너마저 ㅜ</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 감사히, 꼼꼼히 읽었습니다]]></title>
-        <id>https://alook.so/posts/KmtxyP</id>
-        <link href="https://alook.so/posts/KmtxyP"/>
-        <updated>2021-11-19T10:16:19.928Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtxyP">답글: 감사히, 꼼꼼히 읽었습니다</a>]]></content>
+        <title type="html"><![CDATA[각자의 신념]]></title>
+        <id>https://alook.so/posts/w9t7qm</id>
+        <link href="https://alook.so/posts/w9t7qm"/>
+        <updated>2021-11-19T11:13:46.334Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t7qm">각자의 신념</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[특약을 넣으시면 됩니다.]]></title>
-        <id>https://alook.so/posts/mbtYKL</id>
-        <link href="https://alook.so/posts/mbtYKL"/>
-        <updated>2021-11-19T10:16:19.933Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtYKL">특약을 넣으시면 됩니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 페이커 보유국, 세계 게임 시장 속 한국의 위상은?]]></title>
-        <id>https://alook.so/posts/54tXGr</id>
-        <link href="https://alook.so/posts/54tXGr"/>
-        <updated>2021-11-19T10:16:19.933Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tXGr">🧐 페이커 보유국, 세계 게임 시장 속 한국의 위상은?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧐 2022년의 원전, 4년 전 우리의 결정을 돌아보면?]]></title>
-        <id>https://alook.so/posts/1RtZoM</id>
-        <link href="https://alook.so/posts/1RtZoM"/>
-        <updated>2021-11-19T10:16:19.933Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZoM">🧐 2022년의 원전, 4년 전 우리의 결정을 돌아보면?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미성년자 접종은 참 혼란스럽습니다]]></title>
-        <id>https://alook.so/posts/o7tVDl</id>
-        <link href="https://alook.so/posts/o7tVDl"/>
-        <updated>2021-11-19T10:16:19.934Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tVDl">미성년자 접종은 참 혼란스럽습니다</a>]]></content>
+        <title type="html"><![CDATA[미국에서..신고는"0"40분간 성폭행..승객들은 촬영만..(어떻게 이럴수가 있지?)]]></title>
+        <id>https://alook.so/posts/kZtnDo</id>
+        <link href="https://alook.so/posts/kZtnDo"/>
+        <updated>2021-11-19T11:13:46.336Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtnDo">미국에서..신고는"0"40분간 성폭행..승객들은 촬영만..(어떻게 이럴수가 있지?)</a>]]></content>
     </entry>
 </feed>
