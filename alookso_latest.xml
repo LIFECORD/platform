@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-19T01:58:52.442Z</updated>
+    <updated>2021-11-19T02:32:48.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[왜 살기 좋은 나라가 자살율이 높을까요?]]></title>
-        <id>https://alook.so/posts/XBtp4X</id>
-        <link href="https://alook.so/posts/XBtp4X"/>
-        <updated>2021-11-19T01:57:19.257Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtp4X">왜 살기 좋은 나라가 자살율이 높을까요?</a>]]></content>
+        <title type="html"><![CDATA[남의 인생에 참 관심 많은 사람들]]></title>
+        <id>https://alook.so/posts/jdtGmm</id>
+        <link href="https://alook.so/posts/jdtGmm"/>
+        <updated>2021-11-19T02:31:15.306Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtGmm">남의 인생에 참 관심 많은 사람들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국 언론을 어떻게 바꿔야 할까요?]]></title>
-        <id>https://alook.so/posts/RGt0xZ</id>
-        <link href="https://alook.so/posts/RGt0xZ"/>
-        <updated>2021-11-19T01:57:19.258Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt0xZ">한국 언론을 어떻게 바꿔야 할까요?</a>]]></content>
+        <title type="html"><![CDATA[입시 구조의 변화 없는 고교학점제에 반대합니다.]]></title>
+        <id>https://alook.so/posts/ZktZ1p</id>
+        <link href="https://alook.so/posts/ZktZ1p"/>
+        <updated>2021-11-19T02:31:15.307Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktZ1p">입시 구조의 변화 없는 고교학점제에 반대합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 '일상'이 당신에게는 '특권'이 되는 사회]]></title>
-        <id>https://alook.so/posts/BatGMo</id>
-        <link href="https://alook.so/posts/BatGMo"/>
-        <updated>2021-11-19T01:57:19.259Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatGMo">내 '일상'이 당신에게는 '특권'이 되는 사회</a>]]></content>
+        <title type="html"><![CDATA[스웨덴이 비판받을 만했던 이유가 없진 않았지요.]]></title>
+        <id>https://alook.so/posts/dzt61G</id>
+        <link href="https://alook.so/posts/dzt61G"/>
+        <updated>2021-11-19T02:31:15.309Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt61G">스웨덴이 비판받을 만했던 이유가 없진 않았지요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이팅앱서 만난 20대 싫다는데도 쫓아간 40대남성]]></title>
+        <id>https://alook.so/posts/J5t5mp</id>
+        <link href="https://alook.so/posts/J5t5mp"/>
+        <updated>2021-11-19T02:31:15.311Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t5mp">데이팅앱서 만난 20대 싫다는데도 쫓아간 40대남성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집에서 막걸리를 담궜어요.]]></title>
+        <id>https://alook.so/posts/potxMx</id>
+        <link href="https://alook.so/posts/potxMx"/>
+        <updated>2021-11-19T02:31:15.312Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potxMx">집에서 막걸리를 담궜어요.</a>]]></content>
     </entry>
 </feed>
