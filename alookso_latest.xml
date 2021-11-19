@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-19T05:14:53.283Z</updated>
+    <updated>2021-11-19T06:20:25.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[나눔의 선순환이 이루어질 수 있을까요? ^^]]></title>
-        <id>https://alook.so/posts/54tXmj</id>
-        <link href="https://alook.so/posts/54tXmj"/>
-        <updated>2021-11-19T05:13:17.699Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tXmj">나눔의 선순환이 이루어질 수 있을까요? ^^</a>]]></content>
+        <title type="html"><![CDATA[저역시 말이 안되는 이야기 라고 생각합니다.]]></title>
+        <id>https://alook.so/posts/njtYka</id>
+        <link href="https://alook.so/posts/njtYka"/>
+        <updated>2021-11-19T06:18:46.122Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYka">저역시 말이 안되는 이야기 라고 생각합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[육아는 고민의 연속이자  어려움의 소용돌이]]></title>
-        <id>https://alook.so/posts/q1tEx4</id>
-        <link href="https://alook.so/posts/q1tEx4"/>
-        <updated>2021-11-19T05:13:17.700Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tEx4">육아는 고민의 연속이자  어려움의 소용돌이</a>]]></content>
+        <title type="html"><![CDATA[오늘은 좀마니 우울하네요..]]></title>
+        <id>https://alook.so/posts/6MtWEm</id>
+        <link href="https://alook.so/posts/6MtWEm"/>
+        <updated>2021-11-19T06:18:46.124Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtWEm">오늘은 좀마니 우울하네요..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[작은 책방에 관한 이야기를 계속하려고 해.]]></title>
-        <id>https://alook.so/posts/DjtBbW</id>
-        <link href="https://alook.so/posts/DjtBbW"/>
-        <updated>2021-11-19T05:13:17.701Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtBbW">작은 책방에 관한 이야기를 계속하려고 해.</a>]]></content>
+        <title type="html"><![CDATA[생산과 소득으로 본 서울과 지방]]></title>
+        <id>https://alook.so/posts/G1tVYo</id>
+        <link href="https://alook.so/posts/G1tVYo"/>
+        <updated>2021-11-19T06:18:46.126Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tVYo">생산과 소득으로 본 서울과 지방</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20대 박원규의 시흥 정착기 #1.]]></title>
-        <id>https://alook.so/posts/o7tVGD</id>
-        <link href="https://alook.so/posts/o7tVGD"/>
-        <updated>2021-11-19T05:13:17.703Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tVGD">20대 박원규의 시흥 정착기 #1.</a>]]></content>
+        <title type="html"><![CDATA[혁신과 독점...두가지 모두 다 아닐까??]]></title>
+        <id>https://alook.so/posts/OEtP2L</id>
+        <link href="https://alook.so/posts/OEtP2L"/>
+        <updated>2021-11-19T06:18:46.128Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtP2L">혁신과 독점...두가지 모두 다 아닐까??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 결혼 생각 시기는 나이가 아니다.]]></title>
-        <id>https://alook.so/posts/70tzOB</id>
-        <link href="https://alook.so/posts/70tzOB"/>
-        <updated>2021-11-19T05:13:17.705Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tzOB">답글: 결혼 생각 시기는 나이가 아니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 정답이네요~^^]]></title>
-        <id>https://alook.so/posts/rDt933</id>
-        <link href="https://alook.so/posts/rDt933"/>
-        <updated>2021-11-19T05:13:17.706Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt933">답글: 정답이네요~^^</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끝이 없는]]></title>
-        <id>https://alook.so/posts/bWtlYE</id>
-        <link href="https://alook.so/posts/bWtlYE"/>
-        <updated>2021-11-19T05:13:17.708Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtlYE">끝이 없는</a>]]></content>
+        <title type="html"><![CDATA[답글: 감사합니다~^^]]></title>
+        <id>https://alook.so/posts/latGeB</id>
+        <link href="https://alook.so/posts/latGeB"/>
+        <updated>2021-11-19T06:18:46.130Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latGeB">답글: 감사합니다~^^</a>]]></content>
     </entry>
 </feed>
