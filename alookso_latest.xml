@@ -2,56 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-20T10:16:54.938Z</updated>
+    <updated>2021-11-20T11:14:27.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[참 의미없었을 하루였는데 말이죠..]]></title>
-        <id>https://alook.so/posts/ZktZx5</id>
-        <link href="https://alook.so/posts/ZktZx5"/>
-        <updated>2021-11-20T10:15:24.488Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktZx5"> 참 의미없었을 하루였는데 말이죠..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[질문: 우리나라 모바일 광대역 가입자 비율이 세계 1위에서 평균 이하로 추락?]]></title>
-        <id>https://alook.so/posts/dzt6EW</id>
-        <link href="https://alook.so/posts/dzt6EW"/>
-        <updated>2021-11-20T10:15:24.489Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt6EW">질문: 우리나라 모바일 광대역 가입자 비율이 세계 1위에서 평균 이하로 추락?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: "택시 잘 안잡힌다"는 이야기 어제 오늘의 일이 아니죠]]></title>
-        <id>https://alook.so/posts/J5t5kE</id>
-        <link href="https://alook.so/posts/J5t5kE"/>
-        <updated>2021-11-20T10:15:24.490Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t5kE">답글: "택시 잘 안잡힌다"는 이야기 어제 오늘의 일이 아니죠</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일당백]]></title>
-        <id>https://alook.so/posts/potxwd</id>
-        <link href="https://alook.so/posts/potxwd"/>
-        <updated>2021-11-20T10:15:24.491Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potxwd">일당백</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 혁신과 독점 사이..]]></title>
-        <id>https://alook.so/posts/PvtOYm</id>
-        <link href="https://alook.so/posts/PvtOYm"/>
-        <updated>2021-11-20T10:15:24.492Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtOYm">카카오 혁신과 독점 사이..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 남의 이야기를 귀기울여 들어주는 것만큼 위안이 되는 것은 없습니다.]]></title>
-        <id>https://alook.so/posts/Vnt90a</id>
-        <link href="https://alook.so/posts/Vnt90a"/>
-        <updated>2021-11-20T10:15:24.493Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt90a">답글: 남의 이야기를 귀기울여 들어주는 것만큼 위안이 되는 것은 없습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 택시기사 숫 잘 안 잡힌다고 하네요.]]></title>
-        <id>https://alook.so/posts/zvteMb</id>
-        <link href="https://alook.so/posts/zvteMb"/>
-        <updated>2021-11-20T10:15:24.494Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvteMb">답글: 택시기사 숫 잘 안 잡힌다고 하네요.</a>]]></content>
-    </entry>
 </feed>
