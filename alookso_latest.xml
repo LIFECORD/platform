@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-20T06:19:54.183Z</updated>
+    <updated>2021-11-20T07:16:30.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나만의 힐링 장소가 있으신가요?]]></title>
+        <id>https://alook.so/posts/potxOd</id>
+        <link href="https://alook.so/posts/potxOd"/>
+        <updated>2021-11-20T07:15:01.795Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potxOd">나만의 힐링 장소가 있으신가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화목한 가정에서 자라는 아이일까?]]></title>
+        <id>https://alook.so/posts/PvtOLm</id>
+        <link href="https://alook.so/posts/PvtOLm"/>
+        <updated>2021-11-20T07:15:01.795Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtOLm"> 화목한 가정에서 자라는 아이일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군인이 존중받는 간단한 방법]]></title>
+        <id>https://alook.so/posts/Vnt97a</id>
+        <link href="https://alook.so/posts/Vnt97a"/>
+        <updated>2021-11-20T07:15:01.796Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt97a">군인이 존중받는 간단한 방법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회복무요원(공익)의 필요성에 대해서 말하고 싶네요]]></title>
+        <id>https://alook.so/posts/2xtbmO</id>
+        <link href="https://alook.so/posts/2xtbmO"/>
+        <updated>2021-11-20T07:15:01.797Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtbmO">사회복무요원(공익)의 필요성에 대해서 말하고 싶네요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인스타의 90프로가 광고글이다]]></title>
         <id>https://alook.so/posts/WLtZ3W</id>
@@ -18,19 +46,5 @@
         <link href="https://alook.so/posts/4XtW39"/>
         <updated>2021-11-20T06:18:17.606Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtW39">세계 최고의 게임개발 회사 중 하나인 Blizzard가 놀란 나라. 대한민국.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어머나!! 얼룩소가 이메일로 돈 소식을 전해옵니다~]]></title>
-        <id>https://alook.so/posts/kZtnEO</id>
-        <link href="https://alook.so/posts/kZtnEO"/>
-        <updated>2021-11-20T06:18:17.608Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtnEO">어머나!! 얼룩소가 이메일로 돈 소식을 전해옵니다~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김장은 누가해야하는걸까? 남자와 여자]]></title>
-        <id>https://alook.so/posts/yEtMDZ</id>
-        <link href="https://alook.so/posts/yEtMDZ"/>
-        <updated>2021-11-20T06:18:17.611Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtMDZ">김장은 누가해야하는걸까? 남자와 여자</a>]]></content>
     </entry>
 </feed>
