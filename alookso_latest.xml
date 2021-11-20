@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-20T12:23:21.366Z</updated>
+    <updated>2021-11-20T13:21:55.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[가능해지면 좋겠어요]]></title>
-        <id>https://alook.so/posts/xlt2mE</id>
-        <link href="https://alook.so/posts/xlt2mE"/>
-        <updated>2021-11-20T12:21:40.911Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt2mE">가능해지면 좋겠어요</a>]]></content>
+        <title type="html"><![CDATA[대학 졸업장보다 대학 전공이 중요해 질 것 같습니다.]]></title>
+        <id>https://alook.so/posts/jdtGzY</id>
+        <link href="https://alook.so/posts/jdtGzY"/>
+        <updated>2021-11-20T13:20:21.717Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtGzY">대학 졸업장보다 대학 전공이 중요해 질 것 같습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주4일제는 가능합니다]]></title>
-        <id>https://alook.so/posts/RGt0e5</id>
-        <link href="https://alook.so/posts/RGt0e5"/>
-        <updated>2021-11-20T12:21:40.912Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt0e5">주4일제는 가능합니다</a>]]></content>
+        <title type="html"><![CDATA[음.교통사고인데....황당해]]></title>
+        <id>https://alook.so/posts/bWtlWx</id>
+        <link href="https://alook.so/posts/bWtlWx"/>
+        <updated>2021-11-20T13:20:21.724Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtlWx">음.교통사고인데....황당해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[K-POP]]></title>
-        <id>https://alook.so/posts/BatGJM</id>
-        <link href="https://alook.so/posts/BatGJM"/>
-        <updated>2021-11-20T12:21:40.913Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatGJM">K-POP</a>]]></content>
+        <title type="html"><![CDATA[투자를 하고, 불행->행복해졌습니다.]]></title>
+        <id>https://alook.so/posts/ZktZ2y</id>
+        <link href="https://alook.so/posts/ZktZ2y"/>
+        <updated>2021-11-20T13:20:21.725Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktZ2y">투자를 하고, 불행-&gt;행복해졌습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미치도록 분노함_데이트폭력 신변보호자 살해한 남성 검거]]></title>
+        <id>https://alook.so/posts/dzt6yj</id>
+        <link href="https://alook.so/posts/dzt6yj"/>
+        <updated>2021-11-20T13:20:21.726Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt6yj">미치도록 분노함_데이트폭력 신변보호자 살해한 남성 검거</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일기에 무엇을 기록하나요?]]></title>
+        <id>https://alook.so/posts/J5t5DG</id>
+        <link href="https://alook.so/posts/J5t5DG"/>
+        <updated>2021-11-20T13:20:21.727Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t5DG">일기에 무엇을 기록하나요?</a>]]></content>
     </entry>
 </feed>
