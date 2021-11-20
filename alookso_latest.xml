@@ -2,21 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-20T08:18:53.453Z</updated>
+    <updated>2021-11-20T09:17:17.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[할머니를 증오해요]]></title>
-        <id>https://alook.so/posts/54tXPa</id>
-        <link href="https://alook.so/posts/54tXPa"/>
-        <updated>2021-11-20T08:17:06.964Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tXPa">할머니를 증오해요</a>]]></content>
+        <title type="html"><![CDATA[돈에 울먹이는 '을'의 이야기에 희열을 느낀다]]></title>
+        <id>https://alook.so/posts/BatGY5</id>
+        <link href="https://alook.so/posts/BatGY5"/>
+        <updated>2021-11-20T09:15:42.574Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatGY5">돈에 울먹이는 '을'의 이야기에 희열을 느낀다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성우와 배우의 연기력]]></title>
-        <id>https://alook.so/posts/1RtZkW</id>
-        <link href="https://alook.so/posts/1RtZkW"/>
-        <updated>2021-11-20T08:17:06.966Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZkW">성우와 배우의 연기력</a>]]></content>
+        <title type="html"><![CDATA[미국 최대의 농지부자는 빌게이츠입니다.]]></title>
+        <id>https://alook.so/posts/LKtB07</id>
+        <link href="https://alook.so/posts/LKtB07"/>
+        <updated>2021-11-20T09:15:42.576Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtB07">미국 최대의 농지부자는 빌게이츠입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후회없는삶]]></title>
+        <id>https://alook.so/posts/njtYj0</id>
+        <link href="https://alook.so/posts/njtYj0"/>
+        <updated>2021-11-20T09:15:42.577Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYj0">후회없는삶</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년도 환경 분야 증가액 1.3조원 중, 전기차 수소차 예산 증대액만 1.3조원?]]></title>
+        <id>https://alook.so/posts/3wtx81</id>
+        <link href="https://alook.so/posts/3wtx81"/>
+        <updated>2021-11-20T09:15:42.578Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtx81">내년도 환경 분야 증가액 1.3조원 중, 전기차 수소차 예산 증대액만 1.3조원?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여러분에게 <올해의 책>은 무엇인가요?]]></title>
+        <id>https://alook.so/posts/8WtzyZ</id>
+        <link href="https://alook.so/posts/8WtzyZ"/>
+        <updated>2021-11-20T09:15:42.581Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtzyZ">여러분에게 &lt;올해의 책&gt;은 무엇인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘책방주인’의 근황]]></title>
+        <id>https://alook.so/posts/OEtP6x</id>
+        <link href="https://alook.so/posts/OEtP6x"/>
+        <updated>2021-11-20T09:15:42.582Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtP6x">‘책방주인’의 근황</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 아! 왜그러세요~]]></title>
+        <id>https://alook.so/posts/vKt5Ye</id>
+        <link href="https://alook.so/posts/vKt5Ye"/>
+        <updated>2021-11-20T09:15:42.584Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt5Ye">답글: 아! 왜그러세요~</a>]]></content>
     </entry>
 </feed>
