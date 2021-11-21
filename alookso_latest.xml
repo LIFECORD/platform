@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-21T04:19:57.594Z</updated>
+    <updated>2021-11-21T05:15:14.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[Quora에 실린 텍사스 출신의 한국 칭찬]]></title>
-        <id>https://alook.so/posts/yEtM08</id>
-        <link href="https://alook.so/posts/yEtM08"/>
-        <updated>2021-11-21T04:18:28.260Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtM08">Quora에 실린 텍사스 출신의 한국 칭찬</a>]]></content>
+        <title type="html"><![CDATA[시위대 총격 살해가 정당하다는 미국의 끔찍한 판결]]></title>
+        <id>https://alook.so/posts/WLtZbV</id>
+        <link href="https://alook.so/posts/WLtZbV"/>
+        <updated>2021-11-21T05:13:39.999Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtZbV">시위대 총격 살해가 정당하다는 미국의 끔찍한 판결 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[친구라는 이유만으로]]></title>
-        <id>https://alook.so/posts/LKtBL1</id>
-        <link href="https://alook.so/posts/LKtBL1"/>
-        <updated>2021-11-21T04:18:28.260Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtBL1">친구라는 이유만으로</a>]]></content>
+        <title type="html"><![CDATA[기후위기를 막는 주체는 개인, 기업, 정부]]></title>
+        <id>https://alook.so/posts/M9tqeW</id>
+        <link href="https://alook.so/posts/M9tqeW"/>
+        <updated>2021-11-21T05:13:40.000Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tqeW">기후위기를 막는 주체는 개인, 기업, 정부</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영웅 내세운 비열한 ‘혐오 장사’.. 이대로 괜찮을까요?]]></title>
-        <id>https://alook.so/posts/6MtWvX</id>
-        <link href="https://alook.so/posts/6MtWvX"/>
-        <updated>2021-11-21T04:18:28.260Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtWvX">영웅 내세운 비열한 ‘혐오 장사’.. 이대로 괜찮을까요?</a>]]></content>
+        <title type="html"><![CDATA[혐오 장사? 그거 왜 해?]]></title>
+        <id>https://alook.so/posts/4XtWvJ</id>
+        <link href="https://alook.so/posts/4XtWvJ"/>
+        <updated>2021-11-21T05:13:40.002Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtWvJ">혐오 장사? 그거 왜 해?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[펫페어와 위드코로나, 바라보는 마음]]></title>
-        <id>https://alook.so/posts/3wtxKB</id>
-        <link href="https://alook.so/posts/3wtxKB"/>
-        <updated>2021-11-21T04:18:28.260Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtxKB">펫페어와 위드코로나, 바라보는 마음</a>]]></content>
+        <title type="html"><![CDATA[어쩌면 우리는 이미 어떻게 해야 하는지 알고 있을지도 모릅니다.]]></title>
+        <id>https://alook.so/posts/w9t72D</id>
+        <link href="https://alook.so/posts/w9t72D"/>
+        <updated>2021-11-21T05:13:40.004Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t72D">어쩌면 우리는 이미 어떻게 해야 하는지 알고 있을지도 모릅니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지옥, 화살촉이 날뛰는 이곳이 지옥인가....]]></title>
-        <id>https://alook.so/posts/OEtPb5</id>
-        <link href="https://alook.so/posts/OEtPb5"/>
-        <updated>2021-11-21T04:18:28.261Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtPb5">지옥, 화살촉이 날뛰는 이곳이 지옥인가....</a>]]></content>
+        <title type="html"><![CDATA[재밌게 읽었던 책 있으신가요?]]></title>
+        <id>https://alook.so/posts/xlt2jP</id>
+        <link href="https://alook.so/posts/xlt2jP"/>
+        <updated>2021-11-21T05:13:40.005Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt2jP">재밌게 읽었던 책 있으신가요?</a>]]></content>
     </entry>
 </feed>
