@@ -2,63 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-21T15:16:32.728Z</updated>
+    <updated>2021-11-21T16:23:03.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[고등학생은 지쳐간다]]></title>
-        <id>https://alook.so/posts/bWtl92</id>
-        <link href="https://alook.so/posts/bWtl92"/>
-        <updated>2021-11-21T15:14:59.961Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtl92">고등학생은 지쳐간다</a>]]></content>
+        <title type="html"><![CDATA[넷플릭스 ‘지옥’]]></title>
+        <id>https://alook.so/posts/kZtnWr</id>
+        <link href="https://alook.so/posts/kZtnWr"/>
+        <updated>2021-11-21T16:21:35.687Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtnWr">넷플릭스 ‘지옥’</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정말 갖고 키우고 싶은데 . .]]></title>
-        <id>https://alook.so/posts/a0t84n</id>
-        <link href="https://alook.so/posts/a0t84n"/>
-        <updated>2021-11-21T15:14:59.963Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t84n">정말 갖고 키우고 싶은데 . . </a>]]></content>
+        <title type="html"><![CDATA[코로나와 함께 살아가기 위해서는...]]></title>
+        <id>https://alook.so/posts/yEtMYm</id>
+        <link href="https://alook.so/posts/yEtMYm"/>
+        <updated>2021-11-21T16:21:35.687Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtMYm">코로나와 함께 살아가기 위해서는...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하고싶은게 많은데 ... 해도되나...]]></title>
-        <id>https://alook.so/posts/ZktZy8</id>
-        <link href="https://alook.so/posts/ZktZy8"/>
-        <updated>2021-11-21T15:14:59.964Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktZy8">하고싶은게 많은데 ... 해도되나... </a>]]></content>
+        <title type="html"><![CDATA[양극화...]]></title>
+        <id>https://alook.so/posts/njtYqK</id>
+        <link href="https://alook.so/posts/njtYqK"/>
+        <updated>2021-11-21T16:21:35.691Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYqK">양극화...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["갑" 질이란. . .]]></title>
-        <id>https://alook.so/posts/J5t50D</id>
-        <link href="https://alook.so/posts/J5t50D"/>
-        <updated>2021-11-21T15:14:59.965Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t50D">"갑" 질이란. . . </a>]]></content>
+        <title type="html"><![CDATA[살인사건의 성별 희생자 통계]]></title>
+        <id>https://alook.so/posts/6MtW3p</id>
+        <link href="https://alook.so/posts/6MtW3p"/>
+        <updated>2021-11-21T16:21:35.692Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtW3p">살인사건의 성별 희생자 통계</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: [질문6] 나를 지켜주는 공동체가 있습니까?]]></title>
-        <id>https://alook.so/posts/potxPw</id>
-        <link href="https://alook.so/posts/potxPw"/>
-        <updated>2021-11-21T15:14:59.966Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potxPw">답글: [질문6] 나를 지켜주는 공동체가 있습니까? </a>]]></content>
+        <title type="html"><![CDATA[안타깝지만...]]></title>
+        <id>https://alook.so/posts/3wtxwG</id>
+        <link href="https://alook.so/posts/3wtxwG"/>
+        <updated>2021-11-21T16:21:35.694Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtxwG">안타깝지만...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돈없고 백없는... 약자 ..]]></title>
-        <id>https://alook.so/posts/eVtGbq</id>
-        <link href="https://alook.so/posts/eVtGbq"/>
-        <updated>2021-11-21T15:14:59.967Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtGbq">돈없고 백없는... 약자 .. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 부담의 크기]]></title>
-        <id>https://alook.so/posts/PvtODz</id>
-        <link href="https://alook.so/posts/PvtODz"/>
-        <updated>2021-11-21T15:14:59.970Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtODz">나의 부담의 크기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주말의 저녁 식사(친정 식구들 집들이)]]></title>
-        <id>https://alook.so/posts/Vnt9EM</id>
-        <link href="https://alook.so/posts/Vnt9EM"/>
-        <updated>2021-11-21T15:14:59.971Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt9EM">주말의 저녁 식사(친정 식구들 집들이)</a>]]></content>
+        <title type="html"><![CDATA[k's]]></title>
+        <id>https://alook.so/posts/8WtzR6</id>
+        <link href="https://alook.so/posts/8WtzR6"/>
+        <updated>2021-11-21T16:21:35.696Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtzR6">k's</a>]]></content>
     </entry>
 </feed>
