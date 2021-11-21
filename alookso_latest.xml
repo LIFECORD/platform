@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-21T19:13:16.862Z</updated>
+    <updated>2021-11-21T20:16:44.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우즈베키스탄에서 발견했던 한국]]></title>
+        <id>https://alook.so/posts/dzt6ad</id>
+        <link href="https://alook.so/posts/dzt6ad"/>
+        <updated>2021-11-21T20:15:06.229Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt6ad">우즈베키스탄에서 발견했던 한국</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그럴리가요]]></title>
         <id>https://alook.so/posts/potxvw</id>
@@ -46,26 +53,5 @@
         <link href="https://alook.so/posts/2xtbJv"/>
         <updated>2021-11-21T18:16:24.933Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtbJv">꿈, 열정.. 그리고 희생 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[필요한 졸업장]]></title>
-        <id>https://alook.so/posts/WLtZR6</id>
-        <link href="https://alook.so/posts/WLtZR6"/>
-        <updated>2021-11-21T18:16:24.936Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtZR6">필요한 졸업장</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가능할까요?]]></title>
-        <id>https://alook.so/posts/0ktj10</id>
-        <link href="https://alook.so/posts/0ktj10"/>
-        <updated>2021-11-21T18:16:24.938Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktj10">가능할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고민]]></title>
-        <id>https://alook.so/posts/M9tqrK</id>
-        <link href="https://alook.so/posts/M9tqrK"/>
-        <updated>2021-11-21T17:19:13.505Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tqrK">고민</a>]]></content>
     </entry>
 </feed>
