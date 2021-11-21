@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-21T16:23:03.498Z</updated>
+    <updated>2021-11-21T17:20:54.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[고민]]></title>
+        <id>https://alook.so/posts/M9tqrK</id>
+        <link href="https://alook.so/posts/M9tqrK"/>
+        <updated>2021-11-21T17:19:13.505Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tqrK">고민</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Makes Life Meaningful?]]></title>
+        <id>https://alook.so/posts/XBtpq4</id>
+        <link href="https://alook.so/posts/XBtpq4"/>
+        <updated>2021-11-21T17:19:13.506Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtpq4">What Makes Life Meaningful?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술 발전]]></title>
+        <id>https://alook.so/posts/xlt20W</id>
+        <link href="https://alook.so/posts/xlt20W"/>
+        <updated>2021-11-21T17:19:13.508Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt20W">기술 발전</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 ‘지옥’]]></title>
         <id>https://alook.so/posts/kZtnWr</id>
@@ -18,33 +39,5 @@
         <link href="https://alook.so/posts/yEtMYm"/>
         <updated>2021-11-21T16:21:35.687Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtMYm">코로나와 함께 살아가기 위해서는...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양극화...]]></title>
-        <id>https://alook.so/posts/njtYqK</id>
-        <link href="https://alook.so/posts/njtYqK"/>
-        <updated>2021-11-21T16:21:35.691Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYqK">양극화...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살인사건의 성별 희생자 통계]]></title>
-        <id>https://alook.so/posts/6MtW3p</id>
-        <link href="https://alook.so/posts/6MtW3p"/>
-        <updated>2021-11-21T16:21:35.692Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtW3p">살인사건의 성별 희생자 통계</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안타깝지만...]]></title>
-        <id>https://alook.so/posts/3wtxwG</id>
-        <link href="https://alook.so/posts/3wtxwG"/>
-        <updated>2021-11-21T16:21:35.694Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtxwG">안타깝지만...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[k's]]></title>
-        <id>https://alook.so/posts/8WtzR6</id>
-        <link href="https://alook.so/posts/8WtzR6"/>
-        <updated>2021-11-21T16:21:35.696Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtzR6">k's</a>]]></content>
     </entry>
 </feed>
