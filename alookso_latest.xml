@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-21T02:01:41.472Z</updated>
+    <updated>2021-11-21T02:36:49.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10대는 불행하다.]]></title>
+        <id>https://alook.so/posts/w9t75D</id>
+        <link href="https://alook.so/posts/w9t75D"/>
+        <updated>2021-11-21T02:35:18.884Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t75D">10대는 불행하다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부모님 건강의 중요함]]></title>
+        <id>https://alook.so/posts/RGt0po</id>
+        <link href="https://alook.so/posts/RGt0po"/>
+        <updated>2021-11-21T02:35:18.885Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt0po">부모님 건강의 중요함</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이 돌보미라는 직업 처우 개선이 좀 필요하지 않으십니까?]]></title>
         <id>https://alook.so/posts/BatG48</id>
