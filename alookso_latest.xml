@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-21T21:15:10.156Z</updated>
+    <updated>2021-11-21T22:16:17.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[다들 회식 괜찮은가요?]]></title>
+        <id>https://alook.so/posts/1RtZv6</id>
+        <link href="https://alook.so/posts/1RtZv6"/>
+        <updated>2021-11-21T22:14:53.323Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZv6">다들 회식 괜찮은가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스웨덴엔 ‘경단녀’가 없는것을 알고 계시나요?]]></title>
+        <id>https://alook.so/posts/o7tVeP</id>
+        <link href="https://alook.so/posts/o7tVeP"/>
+        <updated>2021-11-21T22:14:53.324Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tVeP">스웨덴엔 ‘경단녀’가 없는것을 알고 계시나요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우즈베키스탄에서 발견했던 한국]]></title>
         <id>https://alook.so/posts/dzt6ad</id>
         <link href="https://alook.so/posts/dzt6ad"/>
         <updated>2021-11-21T20:15:06.229Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt6ad">우즈베키스탄에서 발견했던 한국</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그럴리가요]]></title>
-        <id>https://alook.so/posts/potxvw</id>
-        <link href="https://alook.so/posts/potxvw"/>
-        <updated>2021-11-21T18:16:24.925Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potxvw">그럴리가요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권력화 된 한국언론]]></title>
-        <id>https://alook.so/posts/eVtGWq</id>
-        <link href="https://alook.so/posts/eVtGWq"/>
-        <updated>2021-11-21T18:16:24.927Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtGWq">권력화 된 한국언론</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위드코로나]]></title>
-        <id>https://alook.so/posts/PvtOlz</id>
-        <link href="https://alook.so/posts/PvtOlz"/>
-        <updated>2021-11-21T18:16:24.929Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtOlz">위드코로나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주민등록증]]></title>
-        <id>https://alook.so/posts/Vnt98M</id>
-        <link href="https://alook.so/posts/Vnt98M"/>
-        <updated>2021-11-21T18:16:24.930Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt98M">주민등록증</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K pop이 세계를 제패한 이유]]></title>
-        <id>https://alook.so/posts/zvteEx</id>
-        <link href="https://alook.so/posts/zvteEx"/>
-        <updated>2021-11-21T18:16:24.931Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvteEx">K pop이 세계를 제패한 이유</a>]]></content>
     </entry>
 </feed>
