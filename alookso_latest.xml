@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-22T08:19:55.025Z</updated>
+    <updated>2021-11-22T09:17:42.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[벽 하나를 사이에 둔 온도 차,,,]]></title>
-        <id>https://alook.so/posts/latG2v</id>
-        <link href="https://alook.so/posts/latG2v"/>
-        <updated>2021-11-22T08:18:17.773Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latG2v">벽 하나를 사이에 둔 온도 차,,,</a>]]></content>
+        <title type="html"><![CDATA[요즘 어디에 꽃혔어요?  전 악세사리에 꽃혔답니다.]]></title>
+        <id>https://alook.so/posts/zvte7Y</id>
+        <link href="https://alook.so/posts/zvte7Y"/>
+        <updated>2021-11-22T09:16:18.589Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvte7Y">요즘 어디에 꽃혔어요?  전 악세사리에 꽃혔답니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시시한 이야기 - 도심 속 공장 1편]]></title>
+        <id>https://alook.so/posts/WLtZD7</id>
+        <link href="https://alook.so/posts/WLtZD7"/>
+        <updated>2021-11-22T09:16:18.589Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtZD7">시시한 이야기 - 도심 속 공장 1편</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준석 대표님, '젠더 뉴트럴'한 여성 대상 범죄는 없습니다]]></title>
+        <id>https://alook.so/posts/RGt0ww</id>
+        <link href="https://alook.so/posts/RGt0ww"/>
+        <updated>2021-11-22T09:16:18.590Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt0ww">이준석 대표님, '젠더 뉴트럴'한 여성 대상 범죄는 없습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[떠오르는 가슴 따뜻했던 기억이 있으신가요?]]></title>
+        <id>https://alook.so/posts/kZtnMk</id>
+        <link href="https://alook.so/posts/kZtnMk"/>
+        <updated>2021-11-22T09:16:18.591Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtnMk">떠오르는 가슴 따뜻했던 기억이 있으신가요?</a>]]></content>
     </entry>
 </feed>
