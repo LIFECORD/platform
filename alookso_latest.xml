@@ -2,42 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-22T05:15:40.090Z</updated>
+    <updated>2021-11-22T06:20:03.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[작지만 의미있는 변화]]></title>
-        <id>https://alook.so/posts/DjtBVo</id>
-        <link href="https://alook.so/posts/DjtBVo"/>
-        <updated>2021-11-22T05:13:58.957Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtBVo">작지만 의미있는 변화</a>]]></content>
+        <title type="html"><![CDATA[아픈 사람을 위한 횡단보도도 없다.]]></title>
+        <id>https://alook.so/posts/LKtBYn</id>
+        <link href="https://alook.so/posts/LKtBYn"/>
+        <updated>2021-11-22T06:18:28.776Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtBYn">아픈 사람을 위한 횡단보도도 없다. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 얼룩소를 쉬려고 합니다.  곧 돌아올께요~]]></title>
-        <id>https://alook.so/posts/70tz3D</id>
-        <link href="https://alook.so/posts/70tz3D"/>
-        <updated>2021-11-22T05:13:58.960Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tz3D">오늘 얼룩소를 쉬려고 합니다.  곧 돌아올께요~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시민 단체가 제안하는 '병역 제도 개편안', 어떤가요?]]></title>
-        <id>https://alook.so/posts/rDt9Bp</id>
-        <link href="https://alook.so/posts/rDt9Bp"/>
-        <updated>2021-11-22T05:13:58.961Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt9Bp">시민 단체가 제안하는 '병역 제도 개편안', 어떤가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩커들에게 미뤄봅니다.]]></title>
-        <id>https://alook.so/posts/jdtGRe</id>
-        <link href="https://alook.so/posts/jdtGRe"/>
-        <updated>2021-11-22T05:13:58.962Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtGRe">얼룩커들에게 미뤄봅니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 제가 보는 보상과 선물이 다른 이유]]></title>
-        <id>https://alook.so/posts/bWtljy</id>
-        <link href="https://alook.so/posts/bWtljy"/>
-        <updated>2021-11-22T05:13:58.964Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtljy">답글: 제가 보는 보상과 선물이 다른 이유</a>]]></content>
+        <title type="html"><![CDATA[덕분에 좋은 사람들, 소중한 공간을 선물 받았습니다:)]]></title>
+        <id>https://alook.so/posts/3wtx7q</id>
+        <link href="https://alook.so/posts/3wtx7q"/>
+        <updated>2021-11-22T06:18:28.778Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtx7q">덕분에 좋은 사람들, 소중한 공간을 선물 받았습니다:) </a>]]></content>
     </entry>
 </feed>
