@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-22T02:34:23.574Z</updated>
+    <updated>2021-11-22T03:16:32.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[저는 주말에 얼룩소를 쉬었습니다! 죄송합니다~]]></title>
-        <id>https://alook.so/posts/zvteyE</id>
-        <link href="https://alook.so/posts/zvteyE"/>
-        <updated>2021-11-22T02:32:48.867Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvteyE">저는 주말에 얼룩소를 쉬었습니다! 죄송합니다~</a>]]></content>
+        <title type="html"><![CDATA[화살촉, 여기는 지옥과 다른가요?]]></title>
+        <id>https://alook.so/posts/YytPwD</id>
+        <link href="https://alook.so/posts/YytPwD"/>
+        <updated>2021-11-22T03:15:03.632Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytPwD">화살촉, 여기는 지옥과 다른가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연구자-21세기의 연금술사]]></title>
-        <id>https://alook.so/posts/2xtbzD</id>
-        <link href="https://alook.so/posts/2xtbzD"/>
-        <updated>2021-11-22T02:32:48.868Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtbzD">연구자-21세기의 연금술사</a>]]></content>
+        <title type="html"><![CDATA['가족'이란 이름의 무게]]></title>
+        <id>https://alook.so/posts/rDt94p</id>
+        <link href="https://alook.so/posts/rDt94p"/>
+        <updated>2021-11-22T03:15:03.633Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt94p">'가족'이란 이름의 무게</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노인을 위한 횡단보도는 없다.]]></title>
-        <id>https://alook.so/posts/M9tqWm</id>
-        <link href="https://alook.so/posts/M9tqWm"/>
-        <updated>2021-11-22T02:32:48.869Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tqWm">노인을 위한 횡단보도는 없다. </a>]]></content>
+        <title type="html"><![CDATA[내일 기적이 일어난다면]]></title>
+        <id>https://alook.so/posts/jdtGYe</id>
+        <link href="https://alook.so/posts/jdtGYe"/>
+        <updated>2021-11-22T03:15:03.635Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtGYe">내일 기적이 일어난다면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[청소년에게 주체적으로 살 수 있는 선택권을 주세요!]]></title>
-        <id>https://alook.so/posts/4XtWYv</id>
-        <link href="https://alook.so/posts/4XtWYv"/>
-        <updated>2021-11-22T01:58:01.040Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtWYv">청소년에게 주체적으로 살 수 있는 선택권을 주세요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항상 대화의 끝은 결혼]]></title>
-        <id>https://alook.so/posts/XBtp5v</id>
-        <link href="https://alook.so/posts/XBtp5v"/>
-        <updated>2021-11-22T01:58:01.042Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtp5v">항상 대화의 끝은 결혼 </a>]]></content>
+        <title type="html"><![CDATA[또 정당 이름을 바꾼다고요? 그만합시다 쫌.]]></title>
+        <id>https://alook.so/posts/ZktZ4G</id>
+        <link href="https://alook.so/posts/ZktZ4G"/>
+        <updated>2021-11-22T03:15:03.637Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktZ4G">또 정당 이름을 바꾼다고요? 그만합시다 쫌.</a>]]></content>
     </entry>
 </feed>
