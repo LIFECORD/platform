@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-22T15:18:00.055Z</updated>
+    <updated>2021-11-22T16:25:10.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[회식은 퇴근 전에 했으면]]></title>
-        <id>https://alook.so/posts/zvtedX</id>
-        <link href="https://alook.so/posts/zvtedX"/>
-        <updated>2021-11-22T15:16:16.937Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtedX">회식은 퇴근 전에 했으면</a>]]></content>
+        <title type="html"><![CDATA[나에게 초능력이 생긴다면?]]></title>
+        <id>https://alook.so/posts/1RtZwV</id>
+        <link href="https://alook.so/posts/1RtZwV"/>
+        <updated>2021-11-22T16:23:24.138Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZwV">나에게 초능력이 생긴다면?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엄마라는 직업은? 어떻게 생각 하세요??]]></title>
-        <id>https://alook.so/posts/2xtb1K</id>
-        <link href="https://alook.so/posts/2xtb1K"/>
-        <updated>2021-11-22T15:16:16.939Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtb1K">엄마라는 직업은? 어떻게 생각 하세요??</a>]]></content>
+        <title type="html"><![CDATA[이준석의 진짜 문제는 “무능력”이다.]]></title>
+        <id>https://alook.so/posts/o7tVMO</id>
+        <link href="https://alook.so/posts/o7tVMO"/>
+        <updated>2021-11-22T16:23:24.142Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tVMO">이준석의 진짜 문제는 “무능력”이다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중년이라는 길목에서 흔들리지 않고 더 단단하게 걸어갈 수 있을까요?]]></title>
-        <id>https://alook.so/posts/M9tqVn</id>
-        <link href="https://alook.so/posts/M9tqVn"/>
-        <updated>2021-11-22T15:16:16.940Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tqVn">중년이라는 길목에서 흔들리지 않고 더 단단하게 걸어갈 수 있을까요?</a>]]></content>
+        <title type="html"><![CDATA[여러분은 함께 한 사람에게 감사한 마음을 가지고 계신가요?]]></title>
+        <id>https://alook.so/posts/YytPaO</id>
+        <link href="https://alook.so/posts/YytPaO"/>
+        <updated>2021-11-22T16:23:24.143Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytPaO">여러분은 함께 한 사람에게 감사한 마음을 가지고 계신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[종부세 호들갑]]></title>
-        <id>https://alook.so/posts/XBtpmk</id>
-        <link href="https://alook.so/posts/XBtpmk"/>
-        <updated>2021-11-22T15:16:16.941Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtpmk">종부세 호들갑</a>]]></content>
+        <title type="html"><![CDATA[답글: 노인을 위한 횡단보도는 없다.]]></title>
+        <id>https://alook.so/posts/jdtG1z</id>
+        <link href="https://alook.so/posts/jdtG1z"/>
+        <updated>2021-11-22T16:23:24.145Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtG1z">답글: 노인을 위한 횡단보도는 없다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아들 둘을 낳으면 목메달 이라더라…]]></title>
+        <id>https://alook.so/posts/bWtlVz</id>
+        <link href="https://alook.so/posts/bWtlVz"/>
+        <updated>2021-11-22T16:23:24.147Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtlVz">아들 둘을 낳으면 목메달 이라더라…</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[병원 원무과에 대해서 2]]></title>
+        <id>https://alook.so/posts/ZktZGD</id>
+        <link href="https://alook.so/posts/ZktZGD"/>
+        <updated>2021-11-22T16:23:24.149Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktZGD">병원 원무과에 대해서 2</a>]]></content>
     </entry>
 </feed>
