@@ -2,21 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-22T00:48:15.230Z</updated>
+    <updated>2021-11-22T01:59:51.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[학교, 진로, 대학.. 이 세 가지 만으로 한 아이를 짖누르기엔 충분했다.]]></title>
-        <id>https://alook.so/posts/latGkP</id>
-        <link href="https://alook.so/posts/latGkP"/>
-        <updated>2021-11-22T00:46:36.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latGkP">학교, 진로, 대학.. 이 세 가지 만으로 한 아이를 짖누르기엔 충분했다.</a>]]></content>
+        <title type="html"><![CDATA[청소년에게 주체적으로 살 수 있는 선택권을 주세요!]]></title>
+        <id>https://alook.so/posts/4XtWYv</id>
+        <link href="https://alook.so/posts/4XtWYv"/>
+        <updated>2021-11-22T01:58:01.040Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtWYv">청소년에게 주체적으로 살 수 있는 선택권을 주세요!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쉽지만 쉽지 않은 사람 몸을 움직이게 하는 일]]></title>
-        <id>https://alook.so/posts/q1tEKo</id>
-        <link href="https://alook.so/posts/q1tEKo"/>
-        <updated>2021-11-22T00:46:36.721Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tEKo">쉽지만 쉽지 않은 사람 몸을 움직이게 하는 일</a>]]></content>
+        <title type="html"><![CDATA[항상 대화의 끝은 결혼]]></title>
+        <id>https://alook.so/posts/XBtp5v</id>
+        <link href="https://alook.so/posts/XBtp5v"/>
+        <updated>2021-11-22T01:58:01.042Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtp5v">항상 대화의 끝은 결혼 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화창한 날에만 걸으면 어느 세월에 목적지에 도착할까요]]></title>
+        <id>https://alook.so/posts/kZtnlE</id>
+        <link href="https://alook.so/posts/kZtnlE"/>
+        <updated>2021-11-22T01:58:01.043Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtnlE">화창한 날에만 걸으면 어느 세월에 목적지에 도착할까요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정통 벨칸토 발성]]></title>
+        <id>https://alook.so/posts/yEtM5l</id>
+        <link href="https://alook.so/posts/yEtM5l"/>
+        <updated>2021-11-22T01:58:01.043Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtM5l"> 정통 벨칸토 발성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 생각해 보니 "아팠던" 청춘, 그래도.. 늘 청춘]]></title>
+        <id>https://alook.so/posts/BatGej</id>
+        <link href="https://alook.so/posts/BatGej"/>
+        <updated>2021-11-22T01:58:01.044Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatGej">답글: 생각해 보니 "아팠던" 청춘, 그래도.. 늘 청춘</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불안해서 살겠나]]></title>
+        <id>https://alook.so/posts/njtYZp</id>
+        <link href="https://alook.so/posts/njtYZp"/>
+        <updated>2021-11-22T01:58:01.046Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYZp">불안해서 살겠나</a>]]></content>
     </entry>
 </feed>
