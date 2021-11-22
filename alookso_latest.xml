@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-22T14:16:42.435Z</updated>
+    <updated>2021-11-22T15:18:00.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[국뽕에 취하려다.. 댓글의 어느 한 문장에 멈춰서다]]></title>
-        <id>https://alook.so/posts/njtYlw</id>
-        <link href="https://alook.so/posts/njtYlw"/>
-        <updated>2021-11-22T14:15:18.917Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtYlw">국뽕에 취하려다.. 댓글의 어느 한 문장에 멈춰서다  </a>]]></content>
+        <title type="html"><![CDATA[회식은 퇴근 전에 했으면]]></title>
+        <id>https://alook.so/posts/zvtedX</id>
+        <link href="https://alook.so/posts/zvtedX"/>
+        <updated>2021-11-22T15:16:16.937Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtedX">회식은 퇴근 전에 했으면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이들의 거래놀이]]></title>
-        <id>https://alook.so/posts/6MtW4e</id>
-        <link href="https://alook.so/posts/6MtW4e"/>
-        <updated>2021-11-22T14:15:18.917Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtW4e">아이들의 거래놀이</a>]]></content>
+        <title type="html"><![CDATA[엄마라는 직업은? 어떻게 생각 하세요??]]></title>
+        <id>https://alook.so/posts/2xtb1K</id>
+        <link href="https://alook.so/posts/2xtb1K"/>
+        <updated>2021-11-22T15:16:16.939Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtb1K">엄마라는 직업은? 어떻게 생각 하세요??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[양육자의 노력]]></title>
-        <id>https://alook.so/posts/G1tVjM</id>
-        <link href="https://alook.so/posts/G1tVjM"/>
-        <updated>2021-11-22T14:15:18.917Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tVjM">양육자의 노력</a>]]></content>
+        <title type="html"><![CDATA[중년이라는 길목에서 흔들리지 않고 더 단단하게 걸어갈 수 있을까요?]]></title>
+        <id>https://alook.so/posts/M9tqVn</id>
+        <link href="https://alook.so/posts/M9tqVn"/>
+        <updated>2021-11-22T15:16:16.940Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tqVn">중년이라는 길목에서 흔들리지 않고 더 단단하게 걸어갈 수 있을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 하루는 어떠셨나요?]]></title>
-        <id>https://alook.so/posts/latGB2</id>
-        <link href="https://alook.so/posts/latGB2"/>
-        <updated>2021-11-22T14:15:18.917Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latGB2">오늘 하루는 어떠셨나요?</a>]]></content>
+        <title type="html"><![CDATA[종부세 호들갑]]></title>
+        <id>https://alook.so/posts/XBtpmk</id>
+        <link href="https://alook.so/posts/XBtpmk"/>
+        <updated>2021-11-22T15:16:16.941Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtpmk">종부세 호들갑</a>]]></content>
     </entry>
 </feed>
