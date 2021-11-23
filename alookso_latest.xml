@@ -2,28 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-23T04:21:10.231Z</updated>
+    <updated>2021-11-23T05:16:02.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[Deus Non Vult(신은 원하지 않는다)]]></title>
-        <id>https://alook.so/posts/LKtJ7L</id>
-        <link href="https://alook.so/posts/LKtJ7L"/>
-        <updated>2021-11-23T04:19:45.693Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtJ7L">Deus Non Vult(신은 원하지 않는다)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후위기, 우리가 막을수 있을까요?]]></title>
-        <id>https://alook.so/posts/vKtO1k</id>
-        <link href="https://alook.so/posts/vKtO1k"/>
-        <updated>2021-11-23T04:19:45.694Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtO1k">기후위기, 우리가 막을수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원래 홈트하셨으니 금방 다시 하실 수 있을 것:)]]></title>
-        <id>https://alook.so/posts/Kmtq13</id>
-        <link href="https://alook.so/posts/Kmtq13"/>
-        <updated>2021-11-23T04:19:45.695Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtq13">원래 홈트하셨으니 금방 다시 하실 수 있을 것:)</a>]]></content>
-    </entry>
 </feed>
