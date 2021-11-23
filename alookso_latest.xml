@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-22T23:16:40.219Z</updated>
+    <updated>2021-11-23T00:48:31.427Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[같이 읽고 얘기 나눠보고 싶은 책이 생겼습니다.]]></title>
-        <id>https://alook.so/posts/LKtJbl</id>
-        <link href="https://alook.so/posts/LKtJbl"/>
-        <updated>2021-11-22T23:14:57.976Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtJbl">같이 읽고 얘기 나눠보고 싶은 책이 생겼습니다. </a>]]></content>
+        <title type="html"><![CDATA[직장생활과 인간관계에 대한 생각]]></title>
+        <id>https://alook.so/posts/ZktW9X</id>
+        <link href="https://alook.so/posts/ZktW9X"/>
+        <updated>2021-11-23T00:46:55.766Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktW9X">직장생활과 인간관계에 대한 생각</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만들어진 질병]]></title>
-        <id>https://alook.so/posts/6MtJ09</id>
-        <link href="https://alook.so/posts/6MtJ09"/>
-        <updated>2021-11-22T23:14:57.978Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtJ09">만들어진 질병</a>]]></content>
+        <title type="html"><![CDATA[상금 지급 신청 기한 다음날 메일을 본 사람]]></title>
+        <id>https://alook.so/posts/pot32P</id>
+        <link href="https://alook.so/posts/pot32P"/>
+        <updated>2021-11-23T00:46:55.769Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot32P">상금 지급 신청 기한 다음날 메일을 본 사람</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임신과 출산이 '굴욕'일 수 있다고?]]></title>
-        <id>https://alook.so/posts/3wtrbz</id>
-        <link href="https://alook.so/posts/3wtrbz"/>
-        <updated>2021-11-22T22:15:05.757Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtrbz">임신과 출산이 '굴욕'일 수 있다고?</a>]]></content>
+        <title type="html"><![CDATA[파월의장의    연임결정]]></title>
+        <id>https://alook.so/posts/eVtYxL</id>
+        <link href="https://alook.so/posts/eVtYxL"/>
+        <updated>2021-11-23T00:46:55.770Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtYxL">파월의장의    연임결정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세입자로서 느끼는 나의 서러움]]></title>
-        <id>https://alook.so/posts/8WtOE2</id>
-        <link href="https://alook.so/posts/8WtOE2"/>
-        <updated>2021-11-22T22:15:05.757Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtOE2">세입자로서 느끼는 나의 서러움</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜?]]></title>
-        <id>https://alook.so/posts/OEtElE</id>
-        <link href="https://alook.so/posts/OEtElE"/>
-        <updated>2021-11-22T22:15:05.759Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtElE">왜?</a>]]></content>
+        <title type="html"><![CDATA[전 좀 생각이 다릅니다.]]></title>
+        <id>https://alook.so/posts/PvtWM0</id>
+        <link href="https://alook.so/posts/PvtWM0"/>
+        <updated>2021-11-23T00:46:55.771Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtWM0">전 좀 생각이 다릅니다.</a>]]></content>
     </entry>
 </feed>
