@@ -2,56 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-23T08:19:10.342Z</updated>
+    <updated>2021-11-23T09:18:04.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[새로운 정치 세력이 나와야 할까요?]]></title>
-        <id>https://alook.so/posts/mbtVBm</id>
-        <link href="https://alook.so/posts/mbtVBm"/>
-        <updated>2021-11-23T08:17:36.553Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVBm">새로운 정치 세력이 나와야 할까요?</a>]]></content>
+        <title type="html"><![CDATA[전두환이 죽었다.]]></title>
+        <id>https://alook.so/posts/w9t9bd</id>
+        <link href="https://alook.so/posts/w9t9bd"/>
+        <updated>2021-11-23T09:16:31.596Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t9bd">전두환이 죽었다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: '그 사람'을 어떻게 불러야 할까요?]]></title>
-        <id>https://alook.so/posts/54t94R</id>
-        <link href="https://alook.so/posts/54t94R"/>
-        <updated>2021-11-23T08:17:36.554Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t94R">답글: '그 사람'을 어떻게 불러야 할까요?</a>]]></content>
+        <title type="html"><![CDATA[당신의 아이를 학원에 보내야 하는 이유!]]></title>
+        <id>https://alook.so/posts/xlt7nn</id>
+        <link href="https://alook.so/posts/xlt7nn"/>
+        <updated>2021-11-23T09:16:31.597Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt7nn">당신의 아이를 학원에 보내야 하는 이유!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여러분들의 취미가 무엇인가요?]]></title>
-        <id>https://alook.so/posts/Djt9l5</id>
-        <link href="https://alook.so/posts/Djt9l5"/>
-        <updated>2021-11-23T08:17:36.555Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9l5">여러분들의 취미가 무엇인가요?</a>]]></content>
+        <title type="html"><![CDATA[이준석의 끝간 데 모르는 여성혐오 선동.]]></title>
+        <id>https://alook.so/posts/RGtRMq</id>
+        <link href="https://alook.so/posts/RGtRMq"/>
+        <updated>2021-11-23T09:16:31.598Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtRMq">이준석의 끝간 데 모르는 여성혐오 선동. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[행복도 불행도 나의 선택이다.]]></title>
-        <id>https://alook.so/posts/1Rt8Mb</id>
-        <link href="https://alook.so/posts/1Rt8Mb"/>
-        <updated>2021-11-23T08:17:36.557Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt8Mb">행복도 불행도 나의 선택이다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 힘듦을 맘 편히 드러낼 수조차 없을 때]]></title>
-        <id>https://alook.so/posts/o7tR0j</id>
-        <link href="https://alook.so/posts/o7tR0j"/>
-        <updated>2021-11-23T08:17:36.558Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tR0j">내 힘듦을 맘 편히 드러낼 수조차 없을 때</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시대가 너무 불안정하니까]]></title>
-        <id>https://alook.so/posts/70tJmq</id>
-        <link href="https://alook.so/posts/70tJmq"/>
-        <updated>2021-11-23T08:17:36.559Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tJmq">시대가 너무 불안정하니까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집 값은 안 잡는 것이다.]]></title>
-        <id>https://alook.so/posts/YytGD3</id>
-        <link href="https://alook.so/posts/YytGD3"/>
-        <updated>2021-11-23T08:17:36.560Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytGD3">집 값은 안 잡는 것이다.</a>]]></content>
+        <title type="html"><![CDATA[기념일을 축하하는 방법 찾기.]]></title>
+        <id>https://alook.so/posts/kZtVO3</id>
+        <link href="https://alook.so/posts/kZtVO3"/>
+        <updated>2021-11-23T09:16:31.600Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtVO3">기념일을 축하하는 방법 찾기.</a>]]></content>
     </entry>
 </feed>
