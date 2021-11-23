@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-23T18:18:12.230Z</updated>
+    <updated>2021-11-23T19:12:44.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[몸은 피곤한데 잠이 안 온 적이 있나요?]]></title>
+        <id>https://alook.so/posts/yEtmpr</id>
+        <link href="https://alook.so/posts/yEtmpr"/>
+        <updated>2021-11-23T19:11:01.150Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmpr">몸은 피곤한데 잠이 안 온 적이 있나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젊음이 조금만 더 쉬웠으면 좋겠다]]></title>
+        <id>https://alook.so/posts/BatvDL</id>
+        <link href="https://alook.so/posts/BatvDL"/>
+        <updated>2021-11-23T19:11:01.151Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatvDL">젊음이 조금만 더 쉬웠으면 좋겠다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글의 묘미란?]]></title>
         <id>https://alook.so/posts/3wtrYD</id>
@@ -25,19 +39,5 @@
         <link href="https://alook.so/posts/vKtOEy"/>
         <updated>2021-11-23T18:16:33.933Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtOEy">가상화페</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살기 가장 좋은 나라 대한민국]]></title>
-        <id>https://alook.so/posts/E7tmGY</id>
-        <link href="https://alook.so/posts/E7tmGY"/>
-        <updated>2021-11-23T18:16:33.935Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tmGY">살기 가장 좋은 나라 대한민국</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[냄새 나는 치킨은 다시는 버스에 들고 안탈테다]]></title>
-        <id>https://alook.so/posts/lat8R1</id>
-        <link href="https://alook.so/posts/lat8R1"/>
-        <updated>2021-11-23T18:16:33.936Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8R1">냄새 나는 치킨은 다시는 버스에 들고 안탈테다 </a>]]></content>
     </entry>
 </feed>
