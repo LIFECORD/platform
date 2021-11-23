@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-23T01:59:11.867Z</updated>
+    <updated>2021-11-23T02:30:42.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[10대는 아무 걱정 없을 나이란 말은 뻥이야]]></title>
-        <id>https://alook.so/posts/xlt7ok</id>
-        <link href="https://alook.so/posts/xlt7ok"/>
-        <updated>2021-11-23T01:57:46.125Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt7ok">10대는 아무 걱정 없을 나이란 말은 뻥이야</a>]]></content>
+        <title type="html"><![CDATA[학생 확진자 쏟아지는데", 우려 속 시작된 전면등교]]></title>
+        <id>https://alook.so/posts/2xtZ2G</id>
+        <link href="https://alook.so/posts/2xtZ2G"/>
+        <updated>2021-11-23T02:29:14.208Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtZ2G">학생 확진자 쏟아지는데", 우려 속 시작된 전면등교</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국어국문학과 졸업후 정보처리기사 자격증 공부하는 지인들]]></title>
-        <id>https://alook.so/posts/yEtmEw</id>
-        <link href="https://alook.so/posts/yEtmEw"/>
-        <updated>2021-11-23T01:57:46.126Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmEw">국어국문학과 졸업후 정보처리기사 자격증 공부하는 지인들</a>]]></content>
+        <title type="html"><![CDATA[근본적인 해결책은 방음]]></title>
+        <id>https://alook.so/posts/0ktlMz</id>
+        <link href="https://alook.so/posts/0ktlMz"/>
+        <updated>2021-11-23T02:29:14.209Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktlMz">근본적인 해결책은 방음</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전두환에 대한 공식적 추모나 국가장은 절대 없어야 한다]]></title>
+        <id>https://alook.so/posts/M9t1ER</id>
+        <link href="https://alook.so/posts/M9t1ER"/>
+        <updated>2021-11-23T02:29:14.210Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t1ER">전두환에 대한 공식적 추모나 국가장은 절대 없어야 한다 </a>]]></content>
     </entry>
 </feed>
