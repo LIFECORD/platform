@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-23T19:12:44.931Z</updated>
+    <updated>2021-11-23T20:17:16.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[해고는 은연중에 누구나 다 걱정하는 거 같아요.]]></title>
+        <id>https://alook.so/posts/kZtVam</id>
+        <link href="https://alook.so/posts/kZtVam"/>
+        <updated>2021-11-23T20:15:40.564Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtVam">해고는 은연중에 누구나 다 걱정하는 거 같아요.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[몸은 피곤한데 잠이 안 온 적이 있나요?]]></title>
         <id>https://alook.so/posts/yEtmpr</id>
@@ -32,12 +39,5 @@
         <link href="https://alook.so/posts/8WtOnl"/>
         <updated>2021-11-23T18:16:33.932Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtOnl">대한민국</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가상화페]]></title>
-        <id>https://alook.so/posts/vKtOEy</id>
-        <link href="https://alook.so/posts/vKtOEy"/>
-        <updated>2021-11-23T18:16:33.933Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtOEy">가상화페</a>]]></content>
     </entry>
 </feed>
