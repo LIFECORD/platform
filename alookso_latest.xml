@@ -2,35 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-23T00:48:31.427Z</updated>
+    <updated>2021-11-23T01:59:11.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[직장생활과 인간관계에 대한 생각]]></title>
-        <id>https://alook.so/posts/ZktW9X</id>
-        <link href="https://alook.so/posts/ZktW9X"/>
-        <updated>2021-11-23T00:46:55.766Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktW9X">직장생활과 인간관계에 대한 생각</a>]]></content>
+        <title type="html"><![CDATA[10대는 아무 걱정 없을 나이란 말은 뻥이야]]></title>
+        <id>https://alook.so/posts/xlt7ok</id>
+        <link href="https://alook.so/posts/xlt7ok"/>
+        <updated>2021-11-23T01:57:46.125Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt7ok">10대는 아무 걱정 없을 나이란 말은 뻥이야</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[상금 지급 신청 기한 다음날 메일을 본 사람]]></title>
-        <id>https://alook.so/posts/pot32P</id>
-        <link href="https://alook.so/posts/pot32P"/>
-        <updated>2021-11-23T00:46:55.769Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot32P">상금 지급 신청 기한 다음날 메일을 본 사람</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파월의장의    연임결정]]></title>
-        <id>https://alook.so/posts/eVtYxL</id>
-        <link href="https://alook.so/posts/eVtYxL"/>
-        <updated>2021-11-23T00:46:55.770Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtYxL">파월의장의    연임결정</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 좀 생각이 다릅니다.]]></title>
-        <id>https://alook.so/posts/PvtWM0</id>
-        <link href="https://alook.so/posts/PvtWM0"/>
-        <updated>2021-11-23T00:46:55.771Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtWM0">전 좀 생각이 다릅니다.</a>]]></content>
+        <title type="html"><![CDATA[국어국문학과 졸업후 정보처리기사 자격증 공부하는 지인들]]></title>
+        <id>https://alook.so/posts/yEtmEw</id>
+        <link href="https://alook.so/posts/yEtmEw"/>
+        <updated>2021-11-23T01:57:46.126Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmEw">국어국문학과 졸업후 정보처리기사 자격증 공부하는 지인들</a>]]></content>
     </entry>
 </feed>
