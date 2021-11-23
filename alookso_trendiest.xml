@@ -2,43 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-23T15:18:40.299Z</updated>
+    <updated>2021-11-23T16:23:19.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[‘지옥’과 ‘오징어게임’은 고발장일까]]></title>
-        <id>https://alook.so/posts/dzt6Bl</id>
-        <link href="https://alook.so/posts/dzt6Bl"/>
-        <updated>2021-11-22T02:32:57.539Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt6Bl">‘지옥’과 ‘오징어게임’은 고발장일까</a>]]></content>
+        <title type="html"><![CDATA['그 사람'을 어떻게 불러야 할까요? (외국)]]></title>
+        <id>https://alook.so/posts/vKtORx</id>
+        <link href="https://alook.so/posts/vKtORx"/>
+        <updated>2021-11-23T12:22:46.699Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtORx">'그 사람'을 어떻게 불러야 할까요? (외국)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 업데이트, 이후]]></title>
-        <id>https://alook.so/posts/54tXy2</id>
-        <link href="https://alook.so/posts/54tXy2"/>
-        <updated>2021-11-22T15:16:26.045Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tXy2">얼룩소 업데이트, 이후</a>]]></content>
+        <title type="html"><![CDATA[저녁형 인간에게 엄마의 삶이란]]></title>
+        <id>https://alook.so/posts/J5tpyr</id>
+        <link href="https://alook.so/posts/J5tpyr"/>
+        <updated>2021-11-23T16:21:54.593Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tpyr">저녁형 인간에게 엄마의 삶이란</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이준석 대표님, '젠더 뉴트럴'한 여성 대상 범죄는 없습니다]]></title>
-        <id>https://alook.so/posts/RGt0ww</id>
-        <link href="https://alook.so/posts/RGt0ww"/>
-        <updated>2021-11-22T16:23:33.971Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt0ww">이준석 대표님, '젠더 뉴트럴'한 여성 대상 범죄는 없습니다</a>]]></content>
+        <title type="html"><![CDATA[답글: 평론가와 정치가]]></title>
+        <id>https://alook.so/posts/1Rt8Ea</id>
+        <link href="https://alook.so/posts/1Rt8Ea"/>
+        <updated>2021-11-23T14:14:11.599Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt8Ea">답글: 평론가와 정치가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소에서 직업이야기 하기.]]></title>
-        <id>https://alook.so/posts/bWtlw3</id>
-        <link href="https://alook.so/posts/bWtlw3"/>
-        <updated>2021-11-22T22:15:15.264Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtlw3">얼룩소에서 직업이야기 하기.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10대는 아무 걱정 없을 나이란 말은 뻥이야]]></title>
-        <id>https://alook.so/posts/xlt7ok</id>
-        <link href="https://alook.so/posts/xlt7ok"/>
-        <updated>2021-11-23T11:12:22.916Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt7ok">10대는 아무 걱정 없을 나이란 말은 뻥이야</a>]]></content>
+        <title type="html"><![CDATA[10대의 끝자락에서 남기는 사소한 고민.]]></title>
+        <id>https://alook.so/posts/4XtWM6</id>
+        <link href="https://alook.so/posts/4XtWM6"/>
+        <updated>2021-11-23T03:17:15.709Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtWM6">10대의 끝자락에서 남기는 사소한 고민.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이준석의 진짜 문제는 “무능”이다.]]></title>
@@ -48,13 +41,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tVMO">이준석의 진짜 문제는 “무능”이다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['그 사람'을 어떻게 불러야 할까요? (외국)]]></title>
-        <id>https://alook.so/posts/vKtORx</id>
-        <link href="https://alook.so/posts/vKtORx"/>
-        <updated>2021-11-23T12:22:46.699Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtORx">'그 사람'을 어떻게 불러야 할까요? (외국)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[시시한 이야기 - 도심 속 공장 1편]]></title>
         <id>https://alook.so/posts/WLtZD7</id>
         <link href="https://alook.so/posts/WLtZD7"/>
@@ -62,18 +48,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtZD7">시시한 이야기 - 도심 속 공장 1편</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[변신했습니다]]></title>
-        <id>https://alook.so/posts/potx4Y</id>
-        <link href="https://alook.so/posts/potx4Y"/>
-        <updated>2021-11-23T00:47:05.127Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potx4Y">변신했습니다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[층간소음 해결할 수 있는 방법은?]]></title>
         <id>https://alook.so/posts/rDt9B0</id>
         <link href="https://alook.so/posts/rDt9B0"/>
         <updated>2021-11-23T15:17:14.608Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt9B0">층간소음 해결할 수 있는 방법은?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소에서 직업이야기 하기.]]></title>
+        <id>https://alook.so/posts/bWtlw3</id>
+        <link href="https://alook.so/posts/bWtlw3"/>
+        <updated>2021-11-22T22:15:15.264Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtlw3">얼룩소에서 직업이야기 하기.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나에게 초능력이 생긴다면?]]></title>
@@ -97,11 +83,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tR0x">답글: "쁘걸 신화"를 함께 돌아보다가 생각난 '여자 대통령'과 내수의 역습?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 타이탄의 도구를 경험했던 방법]]></title>
-        <id>https://alook.so/posts/92tq7m</id>
-        <link href="https://alook.so/posts/92tq7m"/>
-        <updated>2021-11-23T15:17:14.614Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tq7m">내가 타이탄의 도구를 경험했던 방법</a>]]></content>
+        <title type="html"><![CDATA[10대는 아무 걱정 없을 나이란 말은 뻥이야]]></title>
+        <id>https://alook.so/posts/xlt7ok</id>
+        <link href="https://alook.so/posts/xlt7ok"/>
+        <updated>2021-11-23T11:12:22.916Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt7ok">10대는 아무 걱정 없을 나이란 말은 뻥이야</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[익명의 글이 주는 힘, 얼룩소는 따뜻한 공간입니다]]></title>
@@ -111,24 +97,38 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7nv">익명의 글이 주는 힘, 얼룩소는 따뜻한 공간입니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10대의 끝자락에서 남기는 사소한 고민.]]></title>
-        <id>https://alook.so/posts/4XtWM6</id>
-        <link href="https://alook.so/posts/4XtWM6"/>
-        <updated>2021-11-23T03:17:15.709Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtWM6">10대의 끝자락에서 남기는 사소한 고민.</a>]]></content>
+        <title type="html"><![CDATA[‘지옥’과 ‘오징어게임’은 고발장일까]]></title>
+        <id>https://alook.so/posts/dzt6Bl</id>
+        <link href="https://alook.so/posts/dzt6Bl"/>
+        <updated>2021-11-22T02:32:57.539Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt6Bl">‘지옥’과 ‘오징어게임’은 고발장일까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 평론가와 정치가]]></title>
-        <id>https://alook.so/posts/1Rt8Ea</id>
-        <link href="https://alook.so/posts/1Rt8Ea"/>
-        <updated>2021-11-23T14:14:11.599Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt8Ea">답글: 평론가와 정치가</a>]]></content>
+        <title type="html"><![CDATA[당신을 나아가게 하는 것은,]]></title>
+        <id>https://alook.so/posts/dztDo5</id>
+        <link href="https://alook.so/posts/dztDo5"/>
+        <updated>2021-11-23T16:21:54.606Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztDo5">당신을 나아가게 하는 것은, </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당연한 아픔.]]></title>
-        <id>https://alook.so/posts/zvte9Y</id>
-        <link href="https://alook.so/posts/zvte9Y"/>
-        <updated>2021-11-22T10:17:46.802Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvte9Y">당연한 아픔.</a>]]></content>
+        <title type="html"><![CDATA[재난의 장기적 영향 - 5.18 민주항쟁과 그 생존자들]]></title>
+        <id>https://alook.so/posts/ZktWYk</id>
+        <link href="https://alook.so/posts/ZktWYk"/>
+        <updated>2021-11-23T16:21:54.607Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktWYk">재난의 장기적 영향 - 5.18 민주항쟁과 그 생존자들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이준석 대표님, '젠더 뉴트럴'한 여성 대상 범죄는 없습니다]]></title>
+        <id>https://alook.so/posts/RGt0ww</id>
+        <link href="https://alook.so/posts/RGt0ww"/>
+        <updated>2021-11-22T16:23:33.971Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt0ww">이준석 대표님, '젠더 뉴트럴'한 여성 대상 범죄는 없습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변신했습니다]]></title>
+        <id>https://alook.so/posts/potx4Y</id>
+        <link href="https://alook.so/posts/potx4Y"/>
+        <updated>2021-11-23T00:47:05.127Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potx4Y">변신했습니다</a>]]></content>
     </entry>
 </feed>

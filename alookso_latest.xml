@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-23T15:18:40.297Z</updated>
+    <updated>2021-11-23T16:23:19.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA['그'가 좀더 오래 살아남길 바랬는데...]]></title>
-        <id>https://alook.so/posts/RGtRVJ</id>
-        <link href="https://alook.so/posts/RGtRVJ"/>
-        <updated>2021-11-23T15:17:04.833Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtRVJ">'그'가 좀더 오래 살아남길 바랬는데...</a>]]></content>
+        <title type="html"><![CDATA[범죄 걱정을 안 하고 살 수 있을까요?  아뇨~!]]></title>
+        <id>https://alook.so/posts/jdtPw7</id>
+        <link href="https://alook.so/posts/jdtPw7"/>
+        <updated>2021-11-23T16:21:46.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtPw7">범죄 걱정을 안 하고 살 수 있을까요?  아뇨~!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아직도 우리의 소원은 통일?]]></title>
-        <id>https://alook.so/posts/kZtV1m</id>
-        <link href="https://alook.so/posts/kZtV1m"/>
-        <updated>2021-11-23T15:17:04.833Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtV1m">아직도 우리의 소원은 통일?</a>]]></content>
+        <title type="html"><![CDATA[대학에가서 뭘 할건데??]]></title>
+        <id>https://alook.so/posts/a0trvp</id>
+        <link href="https://alook.so/posts/a0trvp"/>
+        <updated>2021-11-23T16:21:46.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0trvp">대학에가서 뭘 할건데??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대학졸업장의 가치?]]></title>
-        <id>https://alook.so/posts/yEtmJr</id>
-        <link href="https://alook.so/posts/yEtmJr"/>
-        <updated>2021-11-23T15:17:04.835Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmJr">대학졸업장의 가치?</a>]]></content>
+        <title type="html"><![CDATA[해고 예정통지서를 받았을때 그 기분은 정말 묘한느낌]]></title>
+        <id>https://alook.so/posts/J5tpMn</id>
+        <link href="https://alook.so/posts/J5tpMn"/>
+        <updated>2021-11-23T16:21:46.266Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tpMn">해고 예정통지서를 받았을때 그 기분은 정말 묘한느낌 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중간을 지키며 사는 것]]></title>
-        <id>https://alook.so/posts/LKtJ6z</id>
-        <link href="https://alook.so/posts/LKtJ6z"/>
-        <updated>2021-11-23T15:17:04.836Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtJ6z">중간을 지키며 사는 것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신의 최애곡]]></title>
-        <id>https://alook.so/posts/njtGWG</id>
-        <link href="https://alook.so/posts/njtGWG"/>
-        <updated>2021-11-23T15:17:04.837Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtGWG">당신의 최애곡</a>]]></content>
+        <title type="html"><![CDATA[그냥 나쁜사람이 죽은겁니다.]]></title>
+        <id>https://alook.so/posts/zvtp68</id>
+        <link href="https://alook.so/posts/zvtp68"/>
+        <updated>2021-11-23T16:21:46.267Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtp68">그냥 나쁜사람이 죽은겁니다.</a>]]></content>
     </entry>
 </feed>
