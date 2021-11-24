@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-24T09:16:44.576Z</updated>
+    <updated>2021-11-24T10:18:10.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[특수형태근로자는 도대체 미래가 있는걸까?]]></title>
-        <id>https://alook.so/posts/RGtRRr</id>
-        <link href="https://alook.so/posts/RGtRRr"/>
-        <updated>2021-11-24T09:15:11.575Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtRRr">특수형태근로자는 도대체 미래가 있는걸까?</a>]]></content>
+        <title type="html"><![CDATA[뭘 해야 할지 모르겠어요..]]></title>
+        <id>https://alook.so/posts/YytG1M</id>
+        <link href="https://alook.so/posts/YytG1M"/>
+        <updated>2021-11-24T10:16:30.773Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytG1M">뭘 해야 할지 모르겠어요..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연락두절..]]></title>
-        <id>https://alook.so/posts/kZtVVJ</id>
-        <link href="https://alook.so/posts/kZtVVJ"/>
-        <updated>2021-11-24T09:15:11.576Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtVVJ">연락두절..</a>]]></content>
+        <title type="html"><![CDATA[About 얼룩소]]></title>
+        <id>https://alook.so/posts/rDt7zL</id>
+        <link href="https://alook.so/posts/rDt7zL"/>
+        <updated>2021-11-24T10:16:30.776Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt7zL">About 얼룩소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고민]]></title>
-        <id>https://alook.so/posts/yEtmmy</id>
-        <link href="https://alook.so/posts/yEtmmy"/>
-        <updated>2021-11-24T09:15:11.577Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmmy">고민</a>]]></content>
+        <title type="html"><![CDATA[허세인가요? 오지랖인가요?]]></title>
+        <id>https://alook.so/posts/lat8Zr</id>
+        <link href="https://alook.so/posts/lat8Zr"/>
+        <updated>2021-11-24T10:16:30.777Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8Zr">허세인가요? 오지랖인가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SF장르 팬으로 추천하고 싶은 넷플릭스, <The O.A>]]></title>
-        <id>https://alook.so/posts/BatvvK</id>
-        <link href="https://alook.so/posts/BatvvK"/>
-        <updated>2021-11-24T09:15:11.579Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatvvK">SF장르 팬으로 추천하고 싶은 넷플릭스, &lt;The O.A&gt; </a>]]></content>
+        <title type="html"><![CDATA[나를 닮은 아이]]></title>
+        <id>https://alook.so/posts/92tqyO</id>
+        <link href="https://alook.so/posts/92tqyO"/>
+        <updated>2021-11-24T10:16:30.779Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tqyO">나를 닮은 아이</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추운 겨울인데.. 맘이 따뜻해 지는 글을 봤다..]]></title>
+        <id>https://alook.so/posts/KmtqaR</id>
+        <link href="https://alook.so/posts/KmtqaR"/>
+        <updated>2021-11-24T10:16:30.780Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtqaR">  추운 겨울인데.. 맘이 따뜻해 지는 글을 봤다.. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정론이지만...]]></title>
+        <id>https://alook.so/posts/Djt9xG</id>
+        <link href="https://alook.so/posts/Djt9xG"/>
+        <updated>2021-11-24T10:16:30.782Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9xG">정론이지만...</a>]]></content>
     </entry>
 </feed>
