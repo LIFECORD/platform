@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-24T18:19:31.472Z</updated>
+    <updated>2021-11-24T19:13:59.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제게 얼픽 1만원이란]]></title>
+        <id>https://alook.so/posts/BatvV1</id>
+        <link href="https://alook.so/posts/BatvV1"/>
+        <updated>2021-11-24T19:12:30.775Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatvV1">제게 얼픽 1만원이란</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[26살, 누가 보느냐 에 따라 다르게 느껴질 거 같은 나이]]></title>
         <id>https://alook.so/posts/LKtJek</id>
