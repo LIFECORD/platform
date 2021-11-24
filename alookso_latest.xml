@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-24T11:13:40.857Z</updated>
+    <updated>2021-11-24T12:24:11.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[남자라면 군대를 무조건 가야할까?]]></title>
-        <id>https://alook.so/posts/XBtkdW</id>
-        <link href="https://alook.so/posts/XBtkdW"/>
-        <updated>2021-11-24T11:12:13.850Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtkdW">남자라면 군대를 무조건 가야할까?</a>]]></content>
+        <title type="html"><![CDATA[[질문11] 누가 '청년'일까요?]]></title>
+        <id>https://alook.so/posts/KmtqeJ</id>
+        <link href="https://alook.so/posts/KmtqeJ"/>
+        <updated>2021-11-24T12:22:37.446Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtqeJ">[질문11] 누가 '청년'일까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안된다고 하면 못하는 건가요?]]></title>
-        <id>https://alook.so/posts/w9t988</id>
-        <link href="https://alook.so/posts/w9t988"/>
-        <updated>2021-11-24T11:12:13.851Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t988">안된다고 하면 못하는 건가요?</a>]]></content>
+        <title type="html"><![CDATA[정책이 효과를 보려면 시간이 필요하다 생각합니다.]]></title>
+        <id>https://alook.so/posts/1Rt8rv</id>
+        <link href="https://alook.so/posts/1Rt8rv"/>
+        <updated>2021-11-24T12:22:37.449Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt8rv">정책이 효과를 보려면 시간이 필요하다 생각합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["신고로 숨겨진 글입니다." _ 얼룩소에서 제 글이 신고 당했어요.]]></title>
-        <id>https://alook.so/posts/yEtmv9</id>
-        <link href="https://alook.so/posts/yEtmv9"/>
-        <updated>2021-11-24T11:12:13.852Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmv9">"신고로 숨겨진 글입니다." _ 얼룩소에서 제 글이 신고 당했어요.</a>]]></content>
+        <title type="html"><![CDATA[10대를 다루는법]]></title>
+        <id>https://alook.so/posts/70tJl9</id>
+        <link href="https://alook.so/posts/70tJl9"/>
+        <updated>2021-11-24T12:22:37.450Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tJl9">10대를 다루는법 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뽑는 것이 문제일까요? 업무 관리 방식이 문제일까요?]]></title>
-        <id>https://alook.so/posts/LKtJVw</id>
-        <link href="https://alook.so/posts/LKtJVw"/>
-        <updated>2021-11-24T11:12:13.852Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtJVw">뽑는 것이 문제일까요? 업무 관리 방식이 문제일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괜찮아도 괜찮아요!]]></title>
-        <id>https://alook.so/posts/6MtJq7</id>
-        <link href="https://alook.so/posts/6MtJq7"/>
-        <updated>2021-11-24T11:12:13.853Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtJq7">괜찮아도 괜찮아요!</a>]]></content>
+        <title type="html"><![CDATA[그리고, 남겨진 것들]]></title>
+        <id>https://alook.so/posts/rDt7OL</id>
+        <link href="https://alook.so/posts/rDt7OL"/>
+        <updated>2021-11-24T12:22:37.450Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt7OL">그리고, 남겨진 것들</a>]]></content>
     </entry>
 </feed>
