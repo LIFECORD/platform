@@ -2,63 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-24T16:23:22.556Z</updated>
+    <updated>2021-11-24T17:23:28.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[요즘 어떤 고민이 있으신가요? 다들]]></title>
-        <id>https://alook.so/posts/a0tr0B</id>
-        <link href="https://alook.so/posts/a0tr0B"/>
-        <updated>2021-11-24T16:21:52.092Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tr0B">요즘 어떤 고민이 있으신가요? 다들</a>]]></content>
+        <title type="html"><![CDATA[일상 공포를 알지 못하는, 알아야만 하는]]></title>
+        <id>https://alook.so/posts/Kmtqrb</id>
+        <link href="https://alook.so/posts/Kmtqrb"/>
+        <updated>2021-11-24T17:22:01.722Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtqrb">일상 공포를 알지 못하는, 알아야만 하는</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스웨덴도 사람 사는 곳이었다.]]></title>
-        <id>https://alook.so/posts/dztDln</id>
-        <link href="https://alook.so/posts/dztDln"/>
-        <updated>2021-11-24T16:21:52.093Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztDln">스웨덴도 사람 사는 곳이었다.</a>]]></content>
+        <title type="html"><![CDATA[한국의 10대들은 생각할 시간과 여유가 없다.]]></title>
+        <id>https://alook.so/posts/mbtVzw</id>
+        <link href="https://alook.so/posts/mbtVzw"/>
+        <updated>2021-11-24T17:22:01.722Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVzw">한국의 10대들은 생각할 시간과 여유가 없다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이준석식 '이대남 없는 이대남 정체성 정치']]></title>
-        <id>https://alook.so/posts/J5tpVz</id>
-        <link href="https://alook.so/posts/J5tpVz"/>
-        <updated>2021-11-24T16:21:52.095Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tpVz">이준석식 '이대남 없는 이대남 정체성 정치'</a>]]></content>
+        <title type="html"><![CDATA[우리의 미래인 청소년들 건강한 마인드가 반드시 필요합니다]]></title>
+        <id>https://alook.so/posts/q1t7vY</id>
+        <link href="https://alook.so/posts/q1t7vY"/>
+        <updated>2021-11-24T17:22:01.723Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7vY">우리의 미래인 청소년들 건강한 마인드가 반드시 필요합니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혁신이라고 생각합니다.]]></title>
-        <id>https://alook.so/posts/pot3m0</id>
-        <link href="https://alook.so/posts/pot3m0"/>
-        <updated>2021-11-24T16:21:52.096Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot3m0">혁신이라고 생각합니다.</a>]]></content>
+        <title type="html"><![CDATA[전두환이 죽었다]]></title>
+        <id>https://alook.so/posts/1Rt83O</id>
+        <link href="https://alook.so/posts/1Rt83O"/>
+        <updated>2021-11-24T17:22:01.723Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt83O">전두환이 죽었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가끔은 그리운 추억의 만화]]></title>
-        <id>https://alook.so/posts/eVtYEj</id>
-        <link href="https://alook.so/posts/eVtYEj"/>
-        <updated>2021-11-24T16:21:52.097Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtYEj">가끔은 그리운 추억의 만화</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울이 너무 싫어. 그럼에도 불구하고]]></title>
-        <id>https://alook.so/posts/PvtWpl</id>
-        <link href="https://alook.so/posts/PvtWpl"/>
-        <updated>2021-11-24T16:21:52.098Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtWpl">겨울이 너무 싫어. 그럼에도 불구하고</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특발성 딸에게, 그리고 세상의 딸들에게]]></title>
-        <id>https://alook.so/posts/zvtpqO</id>
-        <link href="https://alook.so/posts/zvtpqO"/>
-        <updated>2021-11-24T15:16:01.813Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtpqO">특발성 딸에게, 그리고 세상의 딸들에게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰이 강해야 하는 이유]]></title>
-        <id>https://alook.so/posts/2xtZ9L</id>
-        <link href="https://alook.so/posts/2xtZ9L"/>
-        <updated>2021-11-24T15:16:01.816Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtZ9L">경찰이 강해야 하는 이유</a>]]></content>
+        <title type="html"><![CDATA[카카오뷰 채널을 무슨 내용으로 할까]]></title>
+        <id>https://alook.so/posts/YytGj6</id>
+        <link href="https://alook.so/posts/YytGj6"/>
+        <updated>2021-11-24T17:22:01.724Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytGj6">카카오뷰 채널을 무슨 내용으로 할까</a>]]></content>
     </entry>
 </feed>
