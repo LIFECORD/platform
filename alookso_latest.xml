@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-24T20:17:47.155Z</updated>
+    <updated>2021-11-24T21:14:24.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[시작하는 것에 필요한 용기]]></title>
+        <id>https://alook.so/posts/4XtyXp</id>
+        <link href="https://alook.so/posts/4XtyXp"/>
+        <updated>2021-11-24T21:12:51.278Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtyXp">시작하는 것에 필요한 용기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노력의 시대는 갔다]]></title>
         <id>https://alook.so/posts/yEtmx4</id>
@@ -39,12 +46,5 @@
         <link href="https://alook.so/posts/6MtJ2E"/>
         <updated>2021-11-24T18:18:00.302Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtJ2E">흙수저의 멘탈 호신술 -1- </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30살 이제곧 만으로도 30]]></title>
-        <id>https://alook.so/posts/G1t01q</id>
-        <link href="https://alook.so/posts/G1t01q"/>
-        <updated>2021-11-24T18:18:00.303Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t01q">30살 이제곧 만으로도 30</a>]]></content>
     </entry>
 </feed>
