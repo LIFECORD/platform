@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8Ogtna</id>
     <title>alookso ─ 윤성원</title>
-    <updated>2021-11-23T23:19:48.199Z</updated>
+    <updated>2021-11-24T00:50:03.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[매일 빠지지 않고 꾸준히 하는 것이 있나요?]]></title>
+        <id>https://alook.so/posts/bWtMm9</id>
+        <link href="https://alook.so/posts/bWtMm9"/>
+        <updated>2021-11-24T00:49:12.686Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtMm9">매일 빠지지 않고 꾸준히 하는 것이 있나요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷플릭스 드라마 '지옥'을 봤습니다.]]></title>
         <id>https://alook.so/posts/jdtPdq</id>
@@ -60,12 +67,5 @@
         <link href="https://alook.so/posts/VntjPE"/>
         <updated>2021-10-27T03:19:03.015Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntjPE">콘텐츠 기업이나 창작자에 대한 전폭적인 지원이 있어야 하는 게 아닐까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과로와 번아웃은, 자기 통제의 실패입니다??]]></title>
-        <id>https://alook.so/posts/eVtrK9</id>
-        <link href="https://alook.so/posts/eVtrK9"/>
-        <updated>2021-10-27T03:19:03.017Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtrK9">과로와 번아웃은, 자기 통제의 실패입니다??</a>]]></content>
     </entry>
 </feed>
