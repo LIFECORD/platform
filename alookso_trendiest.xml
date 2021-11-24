@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-24T05:15:40.874Z</updated>
+    <updated>2021-11-24T06:21:47.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtRMq">이준석의 끝간 데 모르는 여성혐오 선동</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저녁형 인간에게 엄마의 삶이란]]></title>
-        <id>https://alook.so/posts/J5tpyr</id>
-        <link href="https://alook.so/posts/J5tpyr"/>
-        <updated>2021-11-23T16:21:54.593Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tpyr">저녁형 인간에게 엄마의 삶이란</a>]]></content>
+        <title type="html"><![CDATA[10대의 끝자락에서 남기는 사소한 고민.]]></title>
+        <id>https://alook.so/posts/4XtWM6</id>
+        <link href="https://alook.so/posts/4XtWM6"/>
+        <updated>2021-11-23T03:17:15.709Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtWM6">10대의 끝자락에서 남기는 사소한 고민.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전두환이 죽었다.]]></title>
+        <id>https://alook.so/posts/w9t9bd</id>
+        <link href="https://alook.so/posts/w9t9bd"/>
+        <updated>2021-11-24T00:48:37.196Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t9bd">전두환이 죽었다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 평론가와 정치가]]></title>
+        <id>https://alook.so/posts/1Rt8Ea</id>
+        <link href="https://alook.so/posts/1Rt8Ea"/>
+        <updated>2021-11-23T14:14:11.599Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt8Ea">답글: 평론가와 정치가</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새로운 곳으로 이사했습니다.]]></title>
@@ -27,46 +41,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtMOo">새로운 곳으로 이사했습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전두환을 데이터로 알려주세요]]></title>
-        <id>https://alook.so/posts/pot37P</id>
-        <link href="https://alook.so/posts/pot37P"/>
-        <updated>2021-11-23T11:12:22.924Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot37P">전두환을 데이터로 알려주세요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재난의 장기적 영향 - 5.18 민주항쟁과 그 생존자들]]></title>
-        <id>https://alook.so/posts/ZktWYk</id>
-        <link href="https://alook.so/posts/ZktWYk"/>
-        <updated>2021-11-23T16:21:54.607Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktWYk">재난의 장기적 영향 - 5.18 민주항쟁과 그 생존자들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나에게 초능력이 생긴다면?]]></title>
-        <id>https://alook.so/posts/1RtZwV</id>
-        <link href="https://alook.so/posts/1RtZwV"/>
-        <updated>2021-11-23T07:14:47.995Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZwV">나에게 초능력이 생긴다면?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[뉴욕타임즈 '군사 독재자' 전두환 vs 한국 언론 전두환 '씨']]></title>
         <id>https://alook.so/posts/WLtq7w</id>
         <link href="https://alook.so/posts/WLtq7w"/>
         <updated>2021-11-24T00:48:37.202Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtq7w">뉴욕타임즈 '군사 독재자' 전두환 vs 한국 언론 전두환 '씨' </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젊음이 조금만 더 쉬웠으면 좋겠다]]></title>
-        <id>https://alook.so/posts/BatvDL</id>
-        <link href="https://alook.so/posts/BatvDL"/>
-        <updated>2021-11-24T05:14:10.395Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatvDL">젊음이 조금만 더 쉬웠으면 좋겠다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10대의 끝자락에서 남기는 사소한 고민.]]></title>
-        <id>https://alook.so/posts/4XtWM6</id>
-        <link href="https://alook.so/posts/4XtWM6"/>
-        <updated>2021-11-23T03:17:15.709Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtWM6">10대의 끝자락에서 남기는 사소한 고민.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['그 사람'을 어떻게 불러야 할까요? (외국)]]></title>
@@ -76,11 +55,53 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtORx">'그 사람'을 어떻게 불러야 할까요? (외국)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[변신했습니다]]></title>
-        <id>https://alook.so/posts/potx4Y</id>
-        <link href="https://alook.so/posts/potx4Y"/>
-        <updated>2021-11-23T00:47:05.127Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potx4Y">변신했습니다</a>]]></content>
+        <title type="html"><![CDATA[당신을 나아가게 하는 것은,]]></title>
+        <id>https://alook.so/posts/dztDo5</id>
+        <link href="https://alook.so/posts/dztDo5"/>
+        <updated>2021-11-23T16:21:54.606Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztDo5">당신을 나아가게 하는 것은, </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[익명의 글이 주는 힘, 얼룩소는 따뜻한 공간입니다]]></title>
+        <id>https://alook.so/posts/q1t7nv</id>
+        <link href="https://alook.so/posts/q1t7nv"/>
+        <updated>2021-11-23T13:21:13.410Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7nv">익명의 글이 주는 힘, 얼룩소는 따뜻한 공간입니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저녁형 인간에게 엄마의 삶이란]]></title>
+        <id>https://alook.so/posts/J5tpyr</id>
+        <link href="https://alook.so/posts/J5tpyr"/>
+        <updated>2021-11-23T16:21:54.593Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tpyr">저녁형 인간에게 엄마의 삶이란</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전두환을 데이터로 알려주세요]]></title>
+        <id>https://alook.so/posts/pot37P</id>
+        <link href="https://alook.so/posts/pot37P"/>
+        <updated>2021-11-23T11:12:22.924Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot37P">전두환을 데이터로 알려주세요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젊음이 조금만 더 쉬웠으면 좋겠다]]></title>
+        <id>https://alook.so/posts/BatvDL</id>
+        <link href="https://alook.so/posts/BatvDL"/>
+        <updated>2021-11-24T05:14:10.395Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatvDL">젊음이 조금만 더 쉬웠으면 좋겠다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언제나 첫 글은 어렵다.]]></title>
+        <id>https://alook.so/posts/0ktlZx</id>
+        <link href="https://alook.so/posts/0ktlZx"/>
+        <updated>2021-11-24T06:20:16.018Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktlZx">언제나 첫 글은 어렵다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나에게 초능력이 생긴다면?]]></title>
+        <id>https://alook.so/posts/1RtZwV</id>
+        <link href="https://alook.so/posts/1RtZwV"/>
+        <updated>2021-11-23T07:14:47.995Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtZwV">나에게 초능력이 생긴다면?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: "쁘걸 신화"를 함께 돌아보다가 생각난 '여자 대통령'과 내수의 역습?]]></title>
@@ -97,31 +118,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtlw3">얼룩소에서 직업이야기 하기.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신을 나아가게 하는 것은,]]></title>
-        <id>https://alook.so/posts/dztDo5</id>
-        <link href="https://alook.so/posts/dztDo5"/>
-        <updated>2021-11-23T16:21:54.606Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztDo5">당신을 나아가게 하는 것은, </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전두환이 죽었다.]]></title>
-        <id>https://alook.so/posts/w9t9bd</id>
-        <link href="https://alook.so/posts/w9t9bd"/>
-        <updated>2021-11-24T00:48:37.196Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t9bd">전두환이 죽었다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[익명의 글이 주는 힘, 얼룩소는 따뜻한 공간입니다]]></title>
-        <id>https://alook.so/posts/q1t7nv</id>
-        <link href="https://alook.so/posts/q1t7nv"/>
-        <updated>2021-11-23T13:21:13.410Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7nv">익명의 글이 주는 힘, 얼룩소는 따뜻한 공간입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 평론가와 정치가]]></title>
-        <id>https://alook.so/posts/1Rt8Ea</id>
-        <link href="https://alook.so/posts/1Rt8Ea"/>
-        <updated>2021-11-23T14:14:11.599Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt8Ea">답글: 평론가와 정치가</a>]]></content>
+        <title type="html"><![CDATA[재난의 장기적 영향 - 5.18 민주항쟁과 그 생존자들]]></title>
+        <id>https://alook.so/posts/ZktWYk</id>
+        <link href="https://alook.so/posts/ZktWYk"/>
+        <updated>2021-11-23T16:21:54.607Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktWYk">재난의 장기적 영향 - 5.18 민주항쟁과 그 생존자들</a>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-11-24T05:15:40.878Z</updated>
+    <updated>2021-11-24T06:21:47.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[얼터뷰] 매일 쓰는 사람, 매일 질문을 던지는 사람 - 실배 얼룩커]]></title>
+        <id>https://alook.so/posts/zvtp4R</id>
+        <link href="https://alook.so/posts/zvtp4R"/>
+        <updated>2021-11-24T06:20:25.382Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtp4R">[얼터뷰] 매일 쓰는 사람, 매일 질문을 던지는 사람 - 실배 얼룩커</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[브리프] 노키즈존은 alookso를 어떻게 달궜나]]></title>
         <id>https://alook.so/posts/xlt2M7</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/njtKjL"/>
         <updated>2021-11-10T06:17:34.559Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtKjL">누가 페미니스트인가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계급이 돌아왔다 - 이대남 현상이라는 착시]]></title>
-        <id>https://alook.so/posts/XBteeJ</id>
-        <link href="https://alook.so/posts/XBteeJ"/>
-        <updated>2021-11-08T05:14:09.141Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBteeJ">계급이 돌아왔다 - 이대남 현상이라는 착시</a>]]></content>
     </entry>
 </feed>
