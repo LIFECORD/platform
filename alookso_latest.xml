@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-24T22:15:49.658Z</updated>
+    <updated>2021-11-24T23:16:41.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[모성, ‘자연과 문화’ ‘단독성과 윤리’ 사이를 헤매이며]]></title>
+        <id>https://alook.so/posts/pot3M0</id>
+        <link href="https://alook.so/posts/pot3M0"/>
+        <updated>2021-11-24T23:15:05.219Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot3M0">모성, ‘자연과 문화’ ‘단독성과 윤리’ 사이를 헤매이며</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 다른 사례는 어떻게 바라보아야 할까요? (국내)]]></title>
+        <id>https://alook.so/posts/PvtWml</id>
+        <link href="https://alook.so/posts/PvtWml"/>
+        <updated>2021-11-24T23:15:05.220Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtWml">답글: 다른 사례는 어떻게 바라보아야 할까요? (국내)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학 졸업장의 가치...]]></title>
+        <id>https://alook.so/posts/zvtpwO</id>
+        <link href="https://alook.so/posts/zvtpwO"/>
+        <updated>2021-11-24T23:15:05.222Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtpwO">대학 졸업장의 가치...</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시작하는 것에 필요한 용기]]></title>
         <id>https://alook.so/posts/4XtyXp</id>
         <link href="https://alook.so/posts/4XtyXp"/>
         <updated>2021-11-24T21:12:51.278Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtyXp">시작하는 것에 필요한 용기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노력의 시대는 갔다]]></title>
-        <id>https://alook.so/posts/yEtmx4</id>
-        <link href="https://alook.so/posts/yEtmx4"/>
-        <updated>2021-11-24T20:16:13.754Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmx4">노력의 시대는 갔다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제게 얼픽 1만원이란]]></title>
-        <id>https://alook.so/posts/BatvV1</id>
-        <link href="https://alook.so/posts/BatvV1"/>
-        <updated>2021-11-24T19:12:30.775Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatvV1">제게 얼픽 1만원이란</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[26살, 누가 보느냐 에 따라 다르게 느껴질 거 같은 나이]]></title>
-        <id>https://alook.so/posts/LKtJek</id>
-        <link href="https://alook.so/posts/LKtJek"/>
-        <updated>2021-11-24T18:18:00.297Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtJek">26살, 누가 보느냐 에 따라 다르게 느껴질 거 같은 나이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군인이 존중받으려면..??]]></title>
-        <id>https://alook.so/posts/njtGm4</id>
-        <link href="https://alook.so/posts/njtGm4"/>
-        <updated>2021-11-24T18:18:00.299Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtGm4">군인이 존중받으려면..??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흙수저의 멘탈 호신술 -1-]]></title>
-        <id>https://alook.so/posts/6MtJ2E</id>
-        <link href="https://alook.so/posts/6MtJ2E"/>
-        <updated>2021-11-24T18:18:00.302Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtJ2E">흙수저의 멘탈 호신술 -1- </a>]]></content>
     </entry>
 </feed>
