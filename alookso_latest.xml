@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-24T14:17:12.539Z</updated>
+    <updated>2021-11-24T15:17:35.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[기술 발전은 새로운 일자리를 만듭니다.]]></title>
-        <id>https://alook.so/posts/8WtOjJ</id>
-        <link href="https://alook.so/posts/8WtOjJ"/>
-        <updated>2021-11-24T14:15:31.037Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtOjJ">기술 발전은 새로운 일자리를 만듭니다.</a>]]></content>
+        <title type="html"><![CDATA[특발성 딸에게, 그리고 세상의 딸들에게]]></title>
+        <id>https://alook.so/posts/zvtpqO</id>
+        <link href="https://alook.so/posts/zvtpqO"/>
+        <updated>2021-11-24T15:16:01.813Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtpqO">특발성 딸에게, 그리고 세상의 딸들에게</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 이재명 캠프가 이대남 목소리를 무겁게 여겨서 다행이라고 생각합니다.]]></title>
-        <id>https://alook.so/posts/OEtEKX</id>
-        <link href="https://alook.so/posts/OEtEKX"/>
-        <updated>2021-11-24T14:15:31.039Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtEKX">답글: 이재명 캠프가 이대남 목소리를 무겁게 여겨서 다행이라고 생각합니다. </a>]]></content>
+        <title type="html"><![CDATA[경찰이 강해야 하는 이유]]></title>
+        <id>https://alook.so/posts/2xtZ9L</id>
+        <link href="https://alook.so/posts/2xtZ9L"/>
+        <updated>2021-11-24T15:16:01.816Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtZ9L">경찰이 강해야 하는 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커리어 대화로 넓혀가는 가치의 공동체]]></title>
-        <id>https://alook.so/posts/lat8o8</id>
-        <link href="https://alook.so/posts/lat8o8"/>
-        <updated>2021-11-24T14:15:31.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8o8">커리어 대화로 넓혀가는 가치의 공동체</a>]]></content>
+        <title type="html"><![CDATA[내년엔 살림살이 좀 나아질까요?]]></title>
+        <id>https://alook.so/posts/0ktle9</id>
+        <link href="https://alook.so/posts/0ktle9"/>
+        <updated>2021-11-24T15:16:01.817Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktle9">내년엔 살림살이 좀 나아질까요?</a>]]></content>
     </entry>
 </feed>
