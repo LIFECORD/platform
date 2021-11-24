@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-24T13:22:33.439Z</updated>
+    <updated>2021-11-24T14:17:12.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[가족이라도 선이있다]]></title>
-        <id>https://alook.so/posts/jdtPjD</id>
-        <link href="https://alook.so/posts/jdtPjD"/>
-        <updated>2021-11-24T13:21:04.023Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtPjD">가족이라도 선이있다</a>]]></content>
+        <title type="html"><![CDATA[기술 발전은 새로운 일자리를 만듭니다.]]></title>
+        <id>https://alook.so/posts/8WtOjJ</id>
+        <link href="https://alook.so/posts/8WtOjJ"/>
+        <updated>2021-11-24T14:15:31.037Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtOjJ">기술 발전은 새로운 일자리를 만듭니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인생친구가 있으신가요?]]></title>
-        <id>https://alook.so/posts/a0trMk</id>
-        <link href="https://alook.so/posts/a0trMk"/>
-        <updated>2021-11-24T13:21:04.024Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0trMk">인생친구가 있으신가요?</a>]]></content>
+        <title type="html"><![CDATA[답글: 이재명 캠프가 이대남 목소리를 무겁게 여겨서 다행이라고 생각합니다.]]></title>
+        <id>https://alook.so/posts/OEtEKX</id>
+        <link href="https://alook.so/posts/OEtEKX"/>
+        <updated>2021-11-24T14:15:31.039Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtEKX">답글: 이재명 캠프가 이대남 목소리를 무겁게 여겨서 다행이라고 생각합니다. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: '고인을 욕보이지 마라'는 말]]></title>
-        <id>https://alook.so/posts/dztDKE</id>
-        <link href="https://alook.so/posts/dztDKE"/>
-        <updated>2021-11-24T13:21:04.025Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztDKE">답글: '고인을 욕보이지 마라'는 말 </a>]]></content>
+        <title type="html"><![CDATA[커리어 대화로 넓혀가는 가치의 공동체]]></title>
+        <id>https://alook.so/posts/lat8o8</id>
+        <link href="https://alook.so/posts/lat8o8"/>
+        <updated>2021-11-24T14:15:31.041Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8o8">커리어 대화로 넓혀가는 가치의 공동체</a>]]></content>
     </entry>
 </feed>
