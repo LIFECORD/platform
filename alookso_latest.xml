@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-25T04:20:28.870Z</updated>
+    <updated>2021-11-25T05:15:44.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[월급 이외의 부수입과 평생직장이 있으신가요?]]></title>
-        <id>https://alook.so/posts/J5tpEb</id>
-        <link href="https://alook.so/posts/J5tpEb"/>
-        <updated>2021-11-25T04:18:59.579Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tpEb">월급 이외의 부수입과 평생직장이 있으신가요?</a>]]></content>
+        <title type="html"><![CDATA[다른 선택 지우기]]></title>
+        <id>https://alook.so/posts/lat8DL</id>
+        <link href="https://alook.so/posts/lat8DL"/>
+        <updated>2021-11-25T05:14:10.521Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8DL">다른 선택 지우기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고민들 있으신가요?]]></title>
-        <id>https://alook.so/posts/pot3Xo</id>
-        <link href="https://alook.so/posts/pot3Xo"/>
-        <updated>2021-11-25T04:18:59.580Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot3Xo">고민들 있으신가요?</a>]]></content>
+        <title type="html"><![CDATA[중국이 코로나를 퍼뜨리고 4차산업혁명 및 인구감소를 시키는 이유]]></title>
+        <id>https://alook.so/posts/Kmtq3O</id>
+        <link href="https://alook.so/posts/Kmtq3O"/>
+        <updated>2021-11-25T05:14:10.523Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtq3O">중국이 코로나를 퍼뜨리고 4차산업혁명 및 인구감소를 시키는 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[올해 나의 관심사 1- 수험. 시험. 험하게 험해...]]></title>
-        <id>https://alook.so/posts/PvtWXw</id>
-        <link href="https://alook.so/posts/PvtWXw"/>
-        <updated>2021-11-25T04:18:59.581Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtWXw">올해 나의 관심사 1- 수험. 시험. 험하게 험해...</a>]]></content>
+        <title type="html"><![CDATA[부부의 세계 그리고 상처받는 아이들..]]></title>
+        <id>https://alook.so/posts/Djt9mL</id>
+        <link href="https://alook.so/posts/Djt9mL"/>
+        <updated>2021-11-25T05:14:10.525Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9mL">부부의 세계 그리고 상처받는 아이들..</a>]]></content>
     </entry>
 </feed>
