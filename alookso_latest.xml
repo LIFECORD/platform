@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-25T00:48:46.164Z</updated>
+    <updated>2021-11-25T01:59:45.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[유재석 씨가 롱런하는 이유는 목표가 없기 때문일지도 모릅니다]]></title>
-        <id>https://alook.so/posts/lat8e8</id>
-        <link href="https://alook.so/posts/lat8e8"/>
-        <updated>2021-11-25T00:47:16.420Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8e8">유재석 씨가 롱런하는 이유는 목표가 없기 때문일지도 모릅니다</a>]]></content>
+        <title type="html"><![CDATA[답글: 지금은 괜찮아졌어요?^^]]></title>
+        <id>https://alook.so/posts/xlt7xq</id>
+        <link href="https://alook.so/posts/xlt7xq"/>
+        <updated>2021-11-25T01:58:14.895Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt7xq">답글: 지금은 괜찮아졌어요?^^</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기후위기와 귤은 무슨 관계가 있을까요?]]></title>
-        <id>https://alook.so/posts/Kmtqlb</id>
-        <link href="https://alook.so/posts/Kmtqlb"/>
-        <updated>2021-11-25T00:47:16.421Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtqlb">기후위기와 귤은 무슨 관계가 있을까요?</a>]]></content>
+        <title type="html"><![CDATA[학창시절 가장 기억에 남는 선생님 계신가요?]]></title>
+        <id>https://alook.so/posts/yEtmqY</id>
+        <link href="https://alook.so/posts/yEtmqY"/>
+        <updated>2021-11-25T01:58:14.897Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmqY">학창시절 가장 기억에 남는 선생님 계신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신의 직장을 떠나는 사람들 2 : 국부펀드 KIC-국민연금 대체투자 인력 대거 이탈]]></title>
-        <id>https://alook.so/posts/mbtVlw</id>
-        <link href="https://alook.so/posts/mbtVlw"/>
-        <updated>2021-11-25T00:47:16.423Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVlw">신의 직장을 떠나는 사람들 2 : 국부펀드 KIC-국민연금 대체투자 인력 대거 이탈</a>]]></content>
+        <title type="html"><![CDATA[음성통화 vs 메신저 당신의 선택은?]]></title>
+        <id>https://alook.so/posts/Batv9w</id>
+        <link href="https://alook.so/posts/Batv9w"/>
+        <updated>2021-11-25T01:58:14.898Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batv9w">음성통화 vs 메신저 당신의 선택은? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성폭력 사건 해결의 ‘법시장화’에 대한 논문을 읽고]]></title>
-        <id>https://alook.so/posts/54t9mp</id>
-        <link href="https://alook.so/posts/54t9mp"/>
-        <updated>2021-11-25T00:47:16.424Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t9mp">성폭력 사건 해결의 ‘법시장화’에 대한 논문을 읽고</a>]]></content>
+        <title type="html"><![CDATA[주식 투자하는 개미]]></title>
+        <id>https://alook.so/posts/6MtJKo</id>
+        <link href="https://alook.so/posts/6MtJKo"/>
+        <updated>2021-11-25T01:58:14.899Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtJKo">주식 투자하는 개미</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30대의 걱정]]></title>
+        <id>https://alook.so/posts/3wtrpK</id>
+        <link href="https://alook.so/posts/3wtrpK"/>
+        <updated>2021-11-25T01:58:14.899Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtrpK">30대의 걱정</a>]]></content>
     </entry>
 </feed>
