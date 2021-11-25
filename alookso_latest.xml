@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-25T10:18:08.009Z</updated>
+    <updated>2021-11-25T11:14:14.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[여론조사 지지율 믿어도 되는 건가요? 왜 그렇게 자주하는 걸까요?]]></title>
-        <id>https://alook.so/posts/kZtVoP</id>
-        <link href="https://alook.so/posts/kZtVoP"/>
-        <updated>2021-11-25T10:16:24.838Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtVoP">여론조사 지지율 믿어도 되는 건가요? 왜 그렇게 자주하는 걸까요?</a>]]></content>
+        <title type="html"><![CDATA[이재명의 이야기 vs 윤석열의 이야기]]></title>
+        <id>https://alook.so/posts/zvtpx2</id>
+        <link href="https://alook.so/posts/zvtpx2"/>
+        <updated>2021-11-25T11:12:48.417Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtpx2">이재명의 이야기 vs 윤석열의 이야기 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 삼성전자 주식을 사셨나요?]]></title>
-        <id>https://alook.so/posts/yEtm4q</id>
-        <link href="https://alook.so/posts/yEtm4q"/>
-        <updated>2021-11-25T10:16:24.839Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtm4q">왜 삼성전자 주식을 사셨나요?</a>]]></content>
+        <title type="html"><![CDATA[요즘 어디에 꽂혔어요?]]></title>
+        <id>https://alook.so/posts/M9t1JB</id>
+        <link href="https://alook.so/posts/M9t1JB"/>
+        <updated>2021-11-25T11:12:48.419Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t1JB">요즘 어디에 꽂혔어요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[읽고 쓰다보니 하고싶은 게 생각나요]]></title>
-        <id>https://alook.so/posts/LKtJ8W</id>
-        <link href="https://alook.so/posts/LKtJ8W"/>
-        <updated>2021-11-25T10:16:24.844Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtJ8W">읽고 쓰다보니 하고싶은 게 생각나요</a>]]></content>
+        <title type="html"><![CDATA[오늘은 무슨 영상을 보셨나요?]]></title>
+        <id>https://alook.so/posts/4Xty7K</id>
+        <link href="https://alook.so/posts/4Xty7K"/>
+        <updated>2021-11-25T11:12:48.420Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xty7K">오늘은 무슨 영상을 보셨나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 만화는 정말~^^]]></title>
-        <id>https://alook.so/posts/3wtrPv</id>
-        <link href="https://alook.so/posts/3wtrPv"/>
-        <updated>2021-11-25T10:16:24.845Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtrPv">답글: 만화는 정말~^^</a>]]></content>
+        <title type="html"><![CDATA[나이의 무게... 나잇값]]></title>
+        <id>https://alook.so/posts/w9t9PX</id>
+        <link href="https://alook.so/posts/w9t9PX"/>
+        <updated>2021-11-25T11:12:48.421Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t9PX">나이의 무게... 나잇값</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국방비, 더 써야 할까요 줄여야 할까요?]]></title>
-        <id>https://alook.so/posts/G1t0OV</id>
-        <link href="https://alook.so/posts/G1t0OV"/>
-        <updated>2021-11-25T10:16:24.846Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t0OV">국방비, 더 써야 할까요 줄여야 할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서관 사서 에피소드 1]]></title>
-        <id>https://alook.so/posts/OEtE9V</id>
-        <link href="https://alook.so/posts/OEtE9V"/>
-        <updated>2021-11-25T10:16:24.851Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtE9V">도서관 사서 에피소드 1</a>]]></content>
+        <title type="html"><![CDATA[사명감을 가지고 일하는 공무원은 얼마나 될까요?]]></title>
+        <id>https://alook.so/posts/RGtRGz</id>
+        <link href="https://alook.so/posts/RGtRGz"/>
+        <updated>2021-11-25T11:12:48.422Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtRGz">사명감을 가지고 일하는 공무원은 얼마나 될까요?</a>]]></content>
     </entry>
 </feed>

@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-11-25T10:18:08.024Z</updated>
+    <updated>2021-11-25T11:14:14.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[[얼터뷰] 매일 쓰는 사람, 매일 질문을 던지는 사람 - 실배 얼룩커]]></title>
-        <id>https://alook.so/posts/zvtp4R</id>
-        <link href="https://alook.so/posts/zvtp4R"/>
-        <updated>2021-11-24T06:20:25.382Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtp4R">[얼터뷰] 매일 쓰는 사람, 매일 질문을 던지는 사람 - 실배 얼룩커</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기본소득 게임(3): 받고 싶은 돈과 낼 수 있는 돈의 간극]]></title>
-        <id>https://alook.so/posts/6MtJ6d</id>
-        <link href="https://alook.so/posts/6MtJ6d"/>
-        <updated>2021-11-25T01:58:32.189Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtJ6d">기본소득 게임(3): 받고 싶은 돈과 낼 수 있는 돈의 간극</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기본소득 게임(2): 187조원을 찾아서]]></title>
-        <id>https://alook.so/posts/G1t0ov</id>
-        <link href="https://alook.so/posts/G1t0ov"/>
-        <updated>2021-11-25T01:58:32.190Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t0ov">기본소득 게임(2): 187조원을 찾아서</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기본소득 게임(1): 내게 이익일까 손해일까]]></title>
-        <id>https://alook.so/posts/E7tm9D</id>
-        <link href="https://alook.so/posts/E7tm9D"/>
-        <updated>2021-11-25T01:58:32.191Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tm9D">기본소득 게임(1): 내게 이익일까 손해일까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[브리프] 노키즈존은 alookso를 어떻게 달궜나]]></title>
-        <id>https://alook.so/posts/xlt2M7</id>
-        <link href="https://alook.so/posts/xlt2M7"/>
-        <updated>2021-11-19T07:16:55.186Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt2M7">[브리프] 노키즈존은 alookso를 어떻게 달궜나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[얼터뷰] 콜센터를 나와 연고도 없는 곳에 독립서점을 차렸다]]></title>
-        <id>https://alook.so/posts/mbtYl6</id>
-        <link href="https://alook.so/posts/mbtYl6"/>
-        <updated>2021-11-19T06:19:04.703Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtYl6">[얼터뷰] 콜센터를 나와 연고도 없는 곳에 독립서점을 차렸다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[얼터뷰] "푸념으로 쓴 '외국인 토픽' 글... 답글이라도 매일 쓰겠다"]]></title>
-        <id>https://alook.so/posts/M9tqwb</id>
-        <link href="https://alook.so/posts/M9tqwb"/>
-        <updated>2021-11-19T06:19:04.704Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tqwb">[얼터뷰] "푸념으로 쓴 '외국인 토픽' 글... 답글이라도 매일 쓰겠다"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼, 그리고 '페미냐 아니냐']]></title>
-        <id>https://alook.so/posts/dzt6w0</id>
-        <link href="https://alook.so/posts/dzt6w0"/>
-        <updated>2021-11-18T06:17:56.228Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt6w0">결혼, 그리고 '페미냐 아니냐'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설거지론, 그리고 젠더 혁명]]></title>
-        <id>https://alook.so/posts/2xtbEb</id>
-        <link href="https://alook.so/posts/2xtbEb"/>
-        <updated>2021-11-18T06:17:56.229Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtbEb">설거지론, 그리고 젠더 혁명</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월요병 날려버릴 노동요 있을까요? 모아모아 주세요!]]></title>
-        <id>https://alook.so/posts/YytRrW</id>
-        <link href="https://alook.so/posts/YytRrW"/>
-        <updated>2021-11-15T01:57:02.094Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytRrW">월요병 날려버릴 노동요 있을까요? 모아모아 주세요!</a>]]></content>
-    </entry>
 </feed>

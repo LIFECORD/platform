@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/8Ogtna</id>
     <title>alookso ─ 윤성원</title>
-    <updated>2021-11-25T10:18:08.008Z</updated>
+    <updated>2021-11-25T11:14:14.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[유재석 씨가 롱런하는 이유는 꿈이 없기 때문일지도 모릅니다]]></title>
-        <id>https://alook.so/posts/lat8e8</id>
-        <link href="https://alook.so/posts/lat8e8"/>
-        <updated>2021-11-25T00:47:58.649Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8e8">유재석 씨가 롱런하는 이유는 꿈이 없기 때문일지도 모릅니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매일 빠지지 않고 꾸준히 하는 것이 있나요?]]></title>
-        <id>https://alook.so/posts/bWtMm9</id>
-        <link href="https://alook.so/posts/bWtMm9"/>
-        <updated>2021-11-24T00:49:12.686Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtMm9">매일 빠지지 않고 꾸준히 하는 것이 있나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 드라마 '지옥'을 봤습니다.]]></title>
-        <id>https://alook.so/posts/jdtPdq</id>
-        <link href="https://alook.so/posts/jdtPdq"/>
-        <updated>2021-11-23T03:17:45.410Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtPdq">넷플릭스 드라마 '지옥'을 봤습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alookso의 정체성?? 혹은 미래]]></title>
-        <id>https://alook.so/posts/mbtY79</id>
-        <link href="https://alook.so/posts/mbtY79"/>
-        <updated>2021-11-17T09:15:54.974Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtY79">alookso의 정체성?? 혹은 미래</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약한 관계 vs 강한 관계??]]></title>
-        <id>https://alook.so/posts/6Mt1Z2</id>
-        <link href="https://alook.so/posts/6Mt1Z2"/>
-        <updated>2021-11-15T09:17:26.258Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt1Z2">약한 관계 vs 강한 관계??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상을 바꾸는 건 한 명의 위대한 영웅일까요, 아니면 밀도 있는 커뮤니티일까요?]]></title>
-        <id>https://alook.so/posts/KmtPGp</id>
-        <link href="https://alook.so/posts/KmtPGp"/>
-        <updated>2021-11-08T01:57:40.736Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtPGp">세상을 바꾸는 건 한 명의 위대한 영웅일까요, 아니면 밀도 있는 커뮤니티일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어쩌면 alookso에게 필요한 책]]></title>
-        <id>https://alook.so/posts/yEtJ3j</id>
-        <link href="https://alook.so/posts/yEtJ3j"/>
-        <updated>2021-10-31T06:18:47.172Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtJ3j">어쩌면 alookso에게 필요한 책</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북의 메타버스, 기대하시나요?]]></title>
-        <id>https://alook.so/posts/q1t3ZK</id>
-        <link href="https://alook.so/posts/q1t3ZK"/>
-        <updated>2021-10-29T05:13:38.477Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t3ZK">페이스북의 메타버스, 기대하시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just Do it vs Think First, 당신의 선택은?]]></title>
-        <id>https://alook.so/posts/vKtyRd</id>
-        <link href="https://alook.so/posts/vKtyRd"/>
-        <updated>2021-10-27T03:19:03.011Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtyRd">Just Do it vs Think First, 당신의 선택은?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[콘텐츠 기업이나 창작자에 대한 전폭적인 지원이 있어야 하는 게 아닐까요?]]></title>
-        <id>https://alook.so/posts/VntjPE</id>
-        <link href="https://alook.so/posts/VntjPE"/>
-        <updated>2021-10-27T03:19:03.015Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntjPE">콘텐츠 기업이나 창작자에 대한 전폭적인 지원이 있어야 하는 게 아닐까요?</a>]]></content>
-    </entry>
 </feed>
