@@ -2,36 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-25T22:16:57.601Z</updated>
+    <updated>2021-11-25T23:16:11.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[답글: 당장의 손해보다는 미래의 이익이 더 많다 생각해요]]></title>
-        <id>https://alook.so/posts/jdtPZr</id>
-        <link href="https://alook.so/posts/jdtPZr"/>
-        <updated>2021-11-25T14:14:06.632Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtPZr">답글: 당장의 손해보다는 미래의 이익이 더 많다 생각해요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이러다가 다 못가]]></title>
-        <id>https://alook.so/posts/XBtkwV</id>
-        <link href="https://alook.so/posts/XBtkwV"/>
-        <updated>2021-11-25T13:21:42.472Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtkwV">이러다가 다 못가</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[<소리의 뼈>, 기형도 :  사회의 소리를 더 잘 듣기 위해.]]></title>
         <id>https://alook.so/posts/Djt9m0</id>
         <link href="https://alook.so/posts/Djt9m0"/>
         <updated>2021-11-25T13:21:42.485Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9m0">&lt;소리의 뼈&gt;, 기형도 :  사회의 소리를 더 잘 듣기 위해. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스웨덴도 사람 사는 곳이었다.]]></title>
-        <id>https://alook.so/posts/dztDln</id>
-        <link href="https://alook.so/posts/dztDln"/>
-        <updated>2021-11-25T08:18:50.480Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztDln">스웨덴도 사람 사는 곳이었다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1577-0199(정신건강상담전화) 1393(자살예방상담전화)]]></title>
@@ -41,25 +20,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9op">1577-0199(정신건강상담전화) 1393(자살예방상담전화)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 좋은 '짝'이 될 수 있을까]]></title>
-        <id>https://alook.so/posts/WLtqeB</id>
-        <link href="https://alook.so/posts/WLtqeB"/>
-        <updated>2021-11-25T05:14:19.543Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtqeB">나는 좋은 '짝'이 될 수 있을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멍]]></title>
-        <id>https://alook.so/posts/0ktlRD</id>
-        <link href="https://alook.so/posts/0ktlRD"/>
-        <updated>2021-11-25T16:21:52.835Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktlRD">멍</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기본소득 분석을 조금 더 풍부하게 볼 간단한 몇마디.]]></title>
-        <id>https://alook.so/posts/XBtkEO</id>
-        <link href="https://alook.so/posts/XBtkEO"/>
-        <updated>2021-11-25T10:16:34.805Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtkEO">기본소득 분석을 조금 더 풍부하게 볼 간단한 몇마디.</a>]]></content>
+        <title type="html"><![CDATA[도서관 사서 에피소드 1]]></title>
+        <id>https://alook.so/posts/OEtE9V</id>
+        <link href="https://alook.so/posts/OEtE9V"/>
+        <updated>2021-11-25T15:16:43.095Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtE9V">도서관 사서 에피소드 1</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거부 의사까지 밝혔는데 왜 무죄일까? 비동의강간죄의 필요성]]></title>
@@ -69,32 +34,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtWWZ">거부 의사까지 밝혔는데 왜 무죄일까? 비동의강간죄의 필요성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일상 공포를 알지 못하는, 알아야만 하는]]></title>
-        <id>https://alook.so/posts/Kmtqrb</id>
-        <link href="https://alook.so/posts/Kmtqrb"/>
-        <updated>2021-11-25T07:17:14.940Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtqrb">일상 공포를 알지 못하는, 알아야만 하는</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인생친구가 있으신가요?]]></title>
-        <id>https://alook.so/posts/a0trMk</id>
-        <link href="https://alook.so/posts/a0trMk"/>
-        <updated>2021-11-24T17:22:09.801Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0trMk">인생친구가 있으신가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서관 사서 에피소드 1]]></title>
-        <id>https://alook.so/posts/OEtE9V</id>
-        <link href="https://alook.so/posts/OEtE9V"/>
-        <updated>2021-11-25T15:16:43.095Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtE9V">도서관 사서 에피소드 1</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에디터픽의 영향력]]></title>
-        <id>https://alook.so/posts/a0tr5k</id>
-        <link href="https://alook.so/posts/a0tr5k"/>
-        <updated>2021-11-25T02:33:15.516Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tr5k">에디터픽의 영향력</a>]]></content>
+        <title type="html"><![CDATA[이러다가 다 못가]]></title>
+        <id>https://alook.so/posts/XBtkwV</id>
+        <link href="https://alook.so/posts/XBtkwV"/>
+        <updated>2021-11-25T13:21:42.472Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtkwV">이러다가 다 못가</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 기본소득 (웹) 계산기도 있습니다.]]></title>
@@ -104,10 +48,66 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtqYO">답글: 기본소득 (웹) 계산기도 있습니다. </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[기본소득 분석을 조금 더 풍부하게 볼 간단한 몇마디.]]></title>
+        <id>https://alook.so/posts/XBtkEO</id>
+        <link href="https://alook.so/posts/XBtkEO"/>
+        <updated>2021-11-25T10:16:34.805Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtkEO">기본소득 분석을 조금 더 풍부하게 볼 간단한 몇마디.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 좋은 '짝'이 될 수 있을까]]></title>
+        <id>https://alook.so/posts/WLtqeB</id>
+        <link href="https://alook.so/posts/WLtqeB"/>
+        <updated>2021-11-25T05:14:19.543Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtqeB">나는 좋은 '짝'이 될 수 있을까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일상 공포를 알지 못하는, 알아야만 하는]]></title>
+        <id>https://alook.so/posts/Kmtqrb</id>
+        <link href="https://alook.so/posts/Kmtqrb"/>
+        <updated>2021-11-25T07:17:14.940Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtqrb">일상 공포를 알지 못하는, 알아야만 하는</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멍]]></title>
+        <id>https://alook.so/posts/0ktlRD</id>
+        <link href="https://alook.so/posts/0ktlRD"/>
+        <updated>2021-11-25T16:21:52.835Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktlRD">멍</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스웨덴도 사람 사는 곳이었다.]]></title>
+        <id>https://alook.so/posts/dztDln</id>
+        <link href="https://alook.so/posts/dztDln"/>
+        <updated>2021-11-25T08:18:50.480Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztDln">스웨덴도 사람 사는 곳이었다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인생친구가 있으신가요?]]></title>
+        <id>https://alook.so/posts/a0trMk</id>
+        <link href="https://alook.so/posts/a0trMk"/>
+        <updated>2021-11-24T17:22:09.801Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0trMk">인생친구가 있으신가요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[어제 얼룩소에 새 글을 작성하지 않았습니다.]]></title>
         <id>https://alook.so/posts/6MtJEo</id>
         <link href="https://alook.so/posts/6MtJEo"/>
         <updated>2021-11-25T11:12:56.963Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtJEo">어제 얼룩소에 새 글을 작성하지 않았습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 당장의 손해보다는 미래의 이익이 더 많다 생각해요]]></title>
+        <id>https://alook.so/posts/jdtPZr</id>
+        <link href="https://alook.so/posts/jdtPZr"/>
+        <updated>2021-11-25T14:14:06.632Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtPZr">답글: 당장의 손해보다는 미래의 이익이 더 많다 생각해요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에디터픽의 영향력]]></title>
+        <id>https://alook.so/posts/a0tr5k</id>
+        <link href="https://alook.so/posts/a0tr5k"/>
+        <updated>2021-11-25T02:33:15.516Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tr5k">에디터픽의 영향력</a>]]></content>
     </entry>
 </feed>
