@@ -2,63 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-25T09:18:14.503Z</updated>
+    <updated>2021-11-25T10:18:08.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[장례지도사 어떻게 생각하나요?]]></title>
-        <id>https://alook.so/posts/E7tm0Z</id>
-        <link href="https://alook.so/posts/E7tm0Z"/>
-        <updated>2021-11-25T09:16:33.773Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tm0Z">장례지도사 어떻게 생각하나요?</a>]]></content>
+        <title type="html"><![CDATA[여론조사 지지율 믿어도 되는 건가요? 왜 그렇게 자주하는 걸까요?]]></title>
+        <id>https://alook.so/posts/kZtVoP</id>
+        <link href="https://alook.so/posts/kZtVoP"/>
+        <updated>2021-11-25T10:16:24.838Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtVoP">여론조사 지지율 믿어도 되는 건가요? 왜 그렇게 자주하는 걸까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공무원을 왜 할까?]]></title>
-        <id>https://alook.so/posts/lat8d6</id>
-        <link href="https://alook.so/posts/lat8d6"/>
-        <updated>2021-11-25T09:16:33.775Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8d6">공무원을 왜 할까?</a>]]></content>
+        <title type="html"><![CDATA[왜 삼성전자 주식을 사셨나요?]]></title>
+        <id>https://alook.so/posts/yEtm4q</id>
+        <link href="https://alook.so/posts/yEtm4q"/>
+        <updated>2021-11-25T10:16:24.839Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtm4q">왜 삼성전자 주식을 사셨나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장기적인 방향이라고 보고 한걸음부터]]></title>
-        <id>https://alook.so/posts/92tqBl</id>
-        <link href="https://alook.so/posts/92tqBl"/>
-        <updated>2021-11-25T09:16:33.780Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tqBl">장기적인 방향이라고 보고 한걸음부터</a>]]></content>
+        <title type="html"><![CDATA[읽고 쓰다보니 하고싶은 게 생각나요]]></title>
+        <id>https://alook.so/posts/LKtJ8W</id>
+        <link href="https://alook.so/posts/LKtJ8W"/>
+        <updated>2021-11-25T10:16:24.844Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtJ8W">읽고 쓰다보니 하고싶은 게 생각나요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[너는 나에게 무슨 가면을 쓰고 있을지]]></title>
-        <id>https://alook.so/posts/Kmtq09</id>
-        <link href="https://alook.so/posts/Kmtq09"/>
-        <updated>2021-11-25T09:16:33.783Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtq09">너는 나에게 무슨 가면을 쓰고 있을지</a>]]></content>
+        <title type="html"><![CDATA[답글: 만화는 정말~^^]]></title>
+        <id>https://alook.so/posts/3wtrPv</id>
+        <link href="https://alook.so/posts/3wtrPv"/>
+        <updated>2021-11-25T10:16:24.845Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtrPv">답글: 만화는 정말~^^</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[피구왕통키,포켓몬을 거쳐 뽀로로..]]></title>
-        <id>https://alook.so/posts/mbtVeo</id>
-        <link href="https://alook.so/posts/mbtVeo"/>
-        <updated>2021-11-25T09:16:33.785Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVeo">피구왕통키,포켓몬을 거쳐 뽀로로..</a>]]></content>
+        <title type="html"><![CDATA[국방비, 더 써야 할까요 줄여야 할까요?]]></title>
+        <id>https://alook.so/posts/G1t0OV</id>
+        <link href="https://alook.so/posts/G1t0OV"/>
+        <updated>2021-11-25T10:16:24.846Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t0OV">국방비, 더 써야 할까요 줄여야 할까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위드아웃 코로나가 아닙니다.]]></title>
-        <id>https://alook.so/posts/54t9Jn</id>
-        <link href="https://alook.so/posts/54t9Jn"/>
-        <updated>2021-11-25T09:16:33.788Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t9Jn">위드아웃 코로나가 아닙니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이 낳는것도 사치인 흙수저 생활]]></title>
-        <id>https://alook.so/posts/q1t7Mm</id>
-        <link href="https://alook.so/posts/q1t7Mm"/>
-        <updated>2021-11-25T09:16:33.790Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7Mm">아이 낳는것도 사치인 흙수저 생활</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나  .. 이번에도 무사히 넘어가길 빌어봅니다]]></title>
-        <id>https://alook.so/posts/o7tRov</id>
-        <link href="https://alook.so/posts/o7tRov"/>
-        <updated>2021-11-25T09:16:33.793Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tRov">코로나  .. 이번에도 무사히 넘어가길 빌어봅니다 </a>]]></content>
+        <title type="html"><![CDATA[도서관 사서 에피소드 1]]></title>
+        <id>https://alook.so/posts/OEtE9V</id>
+        <link href="https://alook.so/posts/OEtE9V"/>
+        <updated>2021-11-25T10:16:24.851Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtE9V">도서관 사서 에피소드 1</a>]]></content>
     </entry>
 </feed>
