@@ -2,42 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-25T07:18:45.025Z</updated>
+    <updated>2021-11-25T08:20:09.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[우리 아빠 엄마가 걱정되요 (feat. 디지털문맹)]]></title>
-        <id>https://alook.so/posts/mbtVKo</id>
-        <link href="https://alook.so/posts/mbtVKo"/>
-        <updated>2021-11-25T07:17:05.266Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVKo">우리 아빠 엄마가 걱정되요 (feat. 디지털문맹)</a>]]></content>
+        <title type="html"><![CDATA[지긋지긋한 집구석에서 독립할수 있긴 할까요?]]></title>
+        <id>https://alook.so/posts/pot3YX</id>
+        <link href="https://alook.so/posts/pot3YX"/>
+        <updated>2021-11-25T08:18:42.365Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot3YX">지긋지긋한 집구석에서 독립할수 있긴 할까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이젠 떨쳐버리자]]></title>
-        <id>https://alook.so/posts/Djt9D0</id>
-        <link href="https://alook.so/posts/Djt9D0"/>
-        <updated>2021-11-25T07:17:05.267Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9D0">이젠 떨쳐버리자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 언제 당할줄알고 걱정 안 할 수 있나요?]]></title>
-        <id>https://alook.so/posts/YytGxz</id>
-        <link href="https://alook.so/posts/YytGxz"/>
-        <updated>2021-11-25T07:17:05.269Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytGxz">누가 언제 당할줄알고 걱정 안 할 수 있나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교육시스템]]></title>
-        <id>https://alook.so/posts/rDt7Dy</id>
-        <link href="https://alook.so/posts/rDt7Dy"/>
-        <updated>2021-11-25T07:17:05.271Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt7Dy">교육시스템</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밥은 제시간에 !]]></title>
-        <id>https://alook.so/posts/jdtPLa</id>
-        <link href="https://alook.so/posts/jdtPLa"/>
-        <updated>2021-11-25T07:17:05.272Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtPLa">밥은 제시간에 !</a>]]></content>
+        <title type="html"><![CDATA[성범죄는 여성 피해자가 많은 범죄입니다.]]></title>
+        <id>https://alook.so/posts/PvtWbv</id>
+        <link href="https://alook.so/posts/PvtWbv"/>
+        <updated>2021-11-25T08:18:42.366Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtWbv">성범죄는 여성 피해자가 많은 범죄입니다.</a>]]></content>
     </entry>
 </feed>
