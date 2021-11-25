@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-25T06:19:09.090Z</updated>
+    <updated>2021-11-25T07:18:45.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[이러다가 다 못가]]></title>
-        <id>https://alook.so/posts/XBtkwV</id>
-        <link href="https://alook.so/posts/XBtkwV"/>
-        <updated>2021-11-25T06:17:41.034Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtkwV">이러다가 다 못가</a>]]></content>
+        <title type="html"><![CDATA[우리 아빠 엄마가 걱정되요 (feat. 디지털문맹)]]></title>
+        <id>https://alook.so/posts/mbtVKo</id>
+        <link href="https://alook.so/posts/mbtVKo"/>
+        <updated>2021-11-25T07:17:05.266Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVKo">우리 아빠 엄마가 걱정되요 (feat. 디지털문맹)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이렇게 시간이 가는 것]]></title>
-        <id>https://alook.so/posts/w9t9qG</id>
-        <link href="https://alook.so/posts/w9t9qG"/>
-        <updated>2021-11-25T06:17:41.035Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t9qG">이렇게 시간이 가는 것</a>]]></content>
+        <title type="html"><![CDATA[이젠 떨쳐버리자]]></title>
+        <id>https://alook.so/posts/Djt9D0</id>
+        <link href="https://alook.so/posts/Djt9D0"/>
+        <updated>2021-11-25T07:17:05.267Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9D0">이젠 떨쳐버리자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[둘째는 사랑이라던데..]]></title>
-        <id>https://alook.so/posts/xlt7lZ</id>
-        <link href="https://alook.so/posts/xlt7lZ"/>
-        <updated>2021-11-25T06:17:41.036Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt7lZ">둘째는 사랑이라던데..</a>]]></content>
+        <title type="html"><![CDATA[누가 언제 당할줄알고 걱정 안 할 수 있나요?]]></title>
+        <id>https://alook.so/posts/YytGxz</id>
+        <link href="https://alook.so/posts/YytGxz"/>
+        <updated>2021-11-25T07:17:05.269Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytGxz">누가 언제 당할줄알고 걱정 안 할 수 있나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가깝고도 먼 존재, 가족]]></title>
-        <id>https://alook.so/posts/Batvxq</id>
-        <link href="https://alook.so/posts/Batvxq"/>
-        <updated>2021-11-25T06:17:41.038Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batvxq">가깝고도 먼 존재, 가족</a>]]></content>
+        <title type="html"><![CDATA[교육시스템]]></title>
+        <id>https://alook.so/posts/rDt7Dy</id>
+        <link href="https://alook.so/posts/rDt7Dy"/>
+        <updated>2021-11-25T07:17:05.271Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt7Dy">교육시스템</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[복잡한 문제를 단순한 해법으로 풀 수 없습니다.]]></title>
-        <id>https://alook.so/posts/njtG31</id>
-        <link href="https://alook.so/posts/njtG31"/>
-        <updated>2021-11-25T06:17:41.040Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtG31">복잡한 문제를 단순한 해법으로 풀 수 없습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집에서 바라본 풍경에 꽂혔어요]]></title>
-        <id>https://alook.so/posts/6MtJBY</id>
-        <link href="https://alook.so/posts/6MtJBY"/>
-        <updated>2021-11-25T06:17:41.040Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtJBY">집에서 바라본 풍경에 꽂혔어요</a>]]></content>
+        <title type="html"><![CDATA[밥은 제시간에 !]]></title>
+        <id>https://alook.so/posts/jdtPLa</id>
+        <link href="https://alook.so/posts/jdtPLa"/>
+        <updated>2021-11-25T07:17:05.272Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtPLa">밥은 제시간에 !</a>]]></content>
     </entry>
 </feed>
