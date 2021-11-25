@@ -2,63 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-25T03:16:54.392Z</updated>
+    <updated>2021-11-25T04:20:28.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼룩소에서 직업이야기 하기2]]></title>
-        <id>https://alook.so/posts/BatvWw</id>
-        <link href="https://alook.so/posts/BatvWw"/>
-        <updated>2021-11-25T03:15:28.832Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatvWw">얼룩소에서 직업이야기 하기2</a>]]></content>
+        <title type="html"><![CDATA[월급 이외의 부수입과 평생직장이 있으신가요?]]></title>
+        <id>https://alook.so/posts/J5tpEb</id>
+        <link href="https://alook.so/posts/J5tpEb"/>
+        <updated>2021-11-25T04:18:59.579Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tpEb">월급 이외의 부수입과 평생직장이 있으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 인생 친구가 있으신가요?]]></title>
-        <id>https://alook.so/posts/LKtJO2</id>
-        <link href="https://alook.so/posts/LKtJO2"/>
-        <updated>2021-11-25T03:15:28.833Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtJO2">답글: 인생 친구가 있으신가요?</a>]]></content>
+        <title type="html"><![CDATA[고민들 있으신가요?]]></title>
+        <id>https://alook.so/posts/pot3Xo</id>
+        <link href="https://alook.so/posts/pot3Xo"/>
+        <updated>2021-11-25T04:18:59.580Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot3Xo">고민들 있으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다가오는 연말, 어떤 의미를 선물해줄까?]]></title>
-        <id>https://alook.so/posts/njtGk6</id>
-        <link href="https://alook.so/posts/njtGk6"/>
-        <updated>2021-11-25T03:15:28.834Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtGk6">다가오는 연말, 어떤 의미를 선물해줄까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어제 얼룩소에 새 글을 작성하지 않았습니다.]]></title>
-        <id>https://alook.so/posts/6MtJEo</id>
-        <link href="https://alook.so/posts/6MtJEo"/>
-        <updated>2021-11-25T03:15:28.835Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtJEo">어제 얼룩소에 새 글을 작성하지 않았습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또다른 내 어머니, 아버지를 섬기는 것]]></title>
-        <id>https://alook.so/posts/8WtO8b</id>
-        <link href="https://alook.so/posts/8WtO8b"/>
-        <updated>2021-11-25T03:15:28.836Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtO8b">또다른 내 어머니, 아버지를 섬기는 것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생각만으로 사물을 움직일 수 있는 BCI 기술, 어떻게 생각하시나요?]]></title>
-        <id>https://alook.so/posts/G1t0YP</id>
-        <link href="https://alook.so/posts/G1t0YP"/>
-        <updated>2021-11-25T03:15:28.837Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t0YP">생각만으로 사물을 움직일 수 있는 BCI 기술, 어떻게 생각하시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[병아리를 다 키워 본 적 있으신가요? (Feat. 닭고기 만찬)]]></title>
-        <id>https://alook.so/posts/vKtOzw</id>
-        <link href="https://alook.so/posts/vKtOzw"/>
-        <updated>2021-11-25T03:15:28.838Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtOzw">병아리를 다 키워 본 적 있으신가요? (Feat. 닭고기 만찬)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해고를 걱정해본 적은 없지만 나중엔 어떻게 될까요?]]></title>
-        <id>https://alook.so/posts/E7tmjr</id>
-        <link href="https://alook.so/posts/E7tmjr"/>
-        <updated>2021-11-25T03:15:28.839Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tmjr">해고를 걱정해본 적은 없지만 나중엔 어떻게 될까요?</a>]]></content>
+        <title type="html"><![CDATA[올해 나의 관심사 1- 수험. 시험. 험하게 험해...]]></title>
+        <id>https://alook.so/posts/PvtWXw</id>
+        <link href="https://alook.so/posts/PvtWXw"/>
+        <updated>2021-11-25T04:18:59.581Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtWXw">올해 나의 관심사 1- 수험. 시험. 험하게 험해...</a>]]></content>
     </entry>
 </feed>
