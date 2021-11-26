@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-26T13:22:17.678Z</updated>
+    <updated>2021-11-26T14:15:26.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[다 다름.]]></title>
-        <id>https://alook.so/posts/Djt9dk</id>
-        <link href="https://alook.so/posts/Djt9dk"/>
-        <updated>2021-11-26T13:20:50.225Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9dk">다 다름.</a>]]></content>
+        <title type="html"><![CDATA[서울 땅 18평을 무료로 받을 수 있다면 믿을 것인가...]]></title>
+        <id>https://alook.so/posts/92tqEx</id>
+        <link href="https://alook.so/posts/92tqEx"/>
+        <updated>2021-11-26T14:13:55.698Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tqEx">서울 땅 18평을 무료로 받을 수 있다면 믿을 것인가...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뿡뿡이 세대!]]></title>
-        <id>https://alook.so/posts/o7tRd1</id>
-        <link href="https://alook.so/posts/o7tRd1"/>
-        <updated>2021-11-26T13:20:50.226Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tRd1">뿡뿡이 세대!</a>]]></content>
+        <title type="html"><![CDATA[나는 매주 본가에간다]]></title>
+        <id>https://alook.so/posts/Kmtqdm</id>
+        <link href="https://alook.so/posts/Kmtqdm"/>
+        <updated>2021-11-26T14:13:55.699Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtqdm">나는 매주 본가에간다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토닥토닥]]></title>
-        <id>https://alook.so/posts/rDt7kw</id>
-        <link href="https://alook.so/posts/rDt7kw"/>
-        <updated>2021-11-26T13:20:50.228Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt7kw"> 토닥토닥</a>]]></content>
+        <title type="html"><![CDATA[군대 이렇게 줄여도 될까요??]]></title>
+        <id>https://alook.so/posts/q1t7qL</id>
+        <link href="https://alook.so/posts/q1t7qL"/>
+        <updated>2021-11-26T14:13:55.701Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7qL">군대 이렇게 줄여도 될까요??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가끔은, 나홀로 집에!]]></title>
-        <id>https://alook.so/posts/jdtPW3</id>
-        <link href="https://alook.so/posts/jdtPW3"/>
-        <updated>2021-11-26T13:20:50.231Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtPW3">가끔은, 나홀로 집에!</a>]]></content>
+        <title type="html"><![CDATA[수다쟁이 남편과 과묵한 아내 부부싸움방법]]></title>
+        <id>https://alook.so/posts/Djt9dZ</id>
+        <link href="https://alook.so/posts/Djt9dZ"/>
+        <updated>2021-11-26T14:13:55.702Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9dZ">수다쟁이 남편과 과묵한 아내 부부싸움방법</a>]]></content>
     </entry>
 </feed>
