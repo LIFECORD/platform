@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-26T12:25:09.672Z</updated>
+    <updated>2021-11-26T13:22:17.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[무주택자의 설움]]></title>
-        <id>https://alook.so/posts/eVtY9l</id>
-        <link href="https://alook.so/posts/eVtY9l"/>
-        <updated>2021-11-26T12:23:44.863Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtY9l">무주택자의 설움</a>]]></content>
+        <title type="html"><![CDATA[다 다름.]]></title>
+        <id>https://alook.so/posts/Djt9dk</id>
+        <link href="https://alook.so/posts/Djt9dk"/>
+        <updated>2021-11-26T13:20:50.225Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9dk">다 다름.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기분전환으로 집에서 셀프네일 하기]]></title>
-        <id>https://alook.so/posts/zvtpzy</id>
-        <link href="https://alook.so/posts/zvtpzy"/>
-        <updated>2021-11-26T12:23:44.863Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtpzy">기분전환으로 집에서 셀프네일 하기</a>]]></content>
+        <title type="html"><![CDATA[뿡뿡이 세대!]]></title>
+        <id>https://alook.so/posts/o7tRd1</id>
+        <link href="https://alook.so/posts/o7tRd1"/>
+        <updated>2021-11-26T13:20:50.226Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tRd1">뿡뿡이 세대!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어린이청소년의 등교할 권리는 중요합니다]]></title>
-        <id>https://alook.so/posts/2xtZLJ</id>
-        <link href="https://alook.so/posts/2xtZLJ"/>
-        <updated>2021-11-26T12:23:44.864Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtZLJ">어린이청소년의 등교할 권리는 중요합니다 </a>]]></content>
+        <title type="html"><![CDATA[토닥토닥]]></title>
+        <id>https://alook.so/posts/rDt7kw</id>
+        <link href="https://alook.so/posts/rDt7kw"/>
+        <updated>2021-11-26T13:20:50.228Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt7kw"> 토닥토닥</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직종마다 다를거 같아여]]></title>
-        <id>https://alook.so/posts/WLtq0P</id>
-        <link href="https://alook.so/posts/WLtq0P"/>
-        <updated>2021-11-26T12:23:44.865Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtq0P">직종마다 다를거 같아여</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 인생을 살것인가]]></title>
-        <id>https://alook.so/posts/0ktlYG</id>
-        <link href="https://alook.so/posts/0ktlYG"/>
-        <updated>2021-11-26T12:23:44.867Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktlYG">어떻게 인생을 살것인가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['고민'이 하나라도 있으면 봐주세요..]]></title>
-        <id>https://alook.so/posts/4Xty02</id>
-        <link href="https://alook.so/posts/4Xty02"/>
-        <updated>2021-11-26T12:23:44.870Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xty02">'고민'이 하나라도 있으면 봐주세요..</a>]]></content>
+        <title type="html"><![CDATA[가끔은, 나홀로 집에!]]></title>
+        <id>https://alook.so/posts/jdtPW3</id>
+        <link href="https://alook.so/posts/jdtPW3"/>
+        <updated>2021-11-26T13:20:50.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtPW3">가끔은, 나홀로 집에!</a>]]></content>
     </entry>
 </feed>
