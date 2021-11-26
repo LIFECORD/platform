@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-25T23:16:11.838Z</updated>
+    <updated>2021-11-26T00:47:12.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[탄소세 걷어볼까?(feat. 이재명 후보)]]></title>
-        <id>https://alook.so/posts/lat8va</id>
-        <link href="https://alook.so/posts/lat8va"/>
-        <updated>2021-11-25T23:14:44.281Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8va">탄소세 걷어볼까?(feat. 이재명 후보)</a>]]></content>
+        <title type="html"><![CDATA[답글: 여성살인에서 여성이 지워질 수 있나요]]></title>
+        <id>https://alook.so/posts/XBtkrG</id>
+        <link href="https://alook.so/posts/XBtkrG"/>
+        <updated>2021-11-26T00:45:38.083Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtkrG">답글: 여성살인에서 여성이 지워질 수 있나요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아기를 갖고 싶은가요?]]></title>
-        <id>https://alook.so/posts/92tqxD</id>
-        <link href="https://alook.so/posts/92tqxD"/>
-        <updated>2021-11-25T23:14:44.282Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tqxD">아기를 갖고 싶은가요?</a>]]></content>
+        <title type="html"><![CDATA[글쓰기를 시작한 나만의 계기]]></title>
+        <id>https://alook.so/posts/RGtRea</id>
+        <link href="https://alook.so/posts/RGtRea"/>
+        <updated>2021-11-26T00:45:38.084Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtRea">글쓰기를 시작한 나만의 계기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재난지원금]]></title>
-        <id>https://alook.so/posts/KmtqjE</id>
-        <link href="https://alook.so/posts/KmtqjE"/>
-        <updated>2021-11-25T23:14:44.283Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtqjE">재난지원금</a>]]></content>
+        <title type="html"><![CDATA[오늘은 더 아빠가 보고싶다.]]></title>
+        <id>https://alook.so/posts/yEtm7n</id>
+        <link href="https://alook.so/posts/yEtm7n"/>
+        <updated>2021-11-26T00:45:38.086Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtm7n">오늘은 더 아빠가 보고싶다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[분리수거 진짜 분리 & 수거가 되고 있나?]]></title>
-        <id>https://alook.so/posts/o7tRjq</id>
-        <link href="https://alook.so/posts/o7tRjq"/>
-        <updated>2021-11-25T22:15:33.322Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tRjq">분리수거 진짜 분리 &amp; 수거가 되고 있나?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음주운전, 단순한 실수인가요? 명백한 살인 행위인가요?]]></title>
-        <id>https://alook.so/posts/70tJ0x</id>
-        <link href="https://alook.so/posts/70tJ0x"/>
-        <updated>2021-11-25T22:15:33.325Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tJ0x">음주운전, 단순한 실수인가요? 명백한 살인 행위인가요?</a>]]></content>
+        <title type="html"><![CDATA[기후위기 대응, 대선주자들의 입장 차이]]></title>
+        <id>https://alook.so/posts/BatvYy</id>
+        <link href="https://alook.so/posts/BatvYy"/>
+        <updated>2021-11-26T00:45:38.087Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatvYy">기후위기 대응, 대선주자들의 입장 차이</a>]]></content>
     </entry>
 </feed>
