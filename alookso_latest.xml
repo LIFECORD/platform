@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-26T11:14:08.362Z</updated>
+    <updated>2021-11-26T12:25:09.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[기술 발전에 따른 기술자들의 일자리]]></title>
-        <id>https://alook.so/posts/RGtRme</id>
-        <link href="https://alook.so/posts/RGtRme"/>
-        <updated>2021-11-26T11:12:48.118Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtRme">기술 발전에 따른 기술자들의 일자리</a>]]></content>
+        <title type="html"><![CDATA[무주택자의 설움]]></title>
+        <id>https://alook.so/posts/eVtY9l</id>
+        <link href="https://alook.so/posts/eVtY9l"/>
+        <updated>2021-11-26T12:23:44.863Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtY9l">무주택자의 설움</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[K-pop]]></title>
-        <id>https://alook.so/posts/kZtV9x</id>
-        <link href="https://alook.so/posts/kZtV9x"/>
-        <updated>2021-11-26T11:12:48.120Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtV9x">K-pop</a>]]></content>
+        <title type="html"><![CDATA[기분전환으로 집에서 셀프네일 하기]]></title>
+        <id>https://alook.so/posts/zvtpzy</id>
+        <link href="https://alook.so/posts/zvtpzy"/>
+        <updated>2021-11-26T12:23:44.863Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtpzy">기분전환으로 집에서 셀프네일 하기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기후위기은...]]></title>
-        <id>https://alook.so/posts/yEtm2D</id>
-        <link href="https://alook.so/posts/yEtm2D"/>
-        <updated>2021-11-26T11:12:48.121Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtm2D">기후위기은...</a>]]></content>
+        <title type="html"><![CDATA[어린이청소년의 등교할 권리는 중요합니다]]></title>
+        <id>https://alook.so/posts/2xtZLJ</id>
+        <link href="https://alook.so/posts/2xtZLJ"/>
+        <updated>2021-11-26T12:23:44.864Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtZLJ">어린이청소년의 등교할 권리는 중요합니다 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대한민국의 OLED]]></title>
-        <id>https://alook.so/posts/njtG67</id>
-        <link href="https://alook.so/posts/njtG67"/>
-        <updated>2021-11-26T11:12:48.123Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtG67">대한민국의 OLED</a>]]></content>
+        <title type="html"><![CDATA[직종마다 다를거 같아여]]></title>
+        <id>https://alook.so/posts/WLtq0P</id>
+        <link href="https://alook.so/posts/WLtq0P"/>
+        <updated>2021-11-26T12:23:44.865Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtq0P">직종마다 다를거 같아여</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떻게 인생을 살것인가]]></title>
+        <id>https://alook.so/posts/0ktlYG</id>
+        <link href="https://alook.so/posts/0ktlYG"/>
+        <updated>2021-11-26T12:23:44.867Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktlYG">어떻게 인생을 살것인가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['고민'이 하나라도 있으면 봐주세요..]]></title>
+        <id>https://alook.so/posts/4Xty02</id>
+        <link href="https://alook.so/posts/4Xty02"/>
+        <updated>2021-11-26T12:23:44.870Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xty02">'고민'이 하나라도 있으면 봐주세요..</a>]]></content>
     </entry>
 </feed>
