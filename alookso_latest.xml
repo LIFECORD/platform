@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-26T08:19:03.580Z</updated>
+    <updated>2021-11-26T09:16:27.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[🧐 수능의 역사]]></title>
-        <id>https://alook.so/posts/mbtVmV</id>
-        <link href="https://alook.so/posts/mbtVmV"/>
-        <updated>2021-11-26T08:17:35.638Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVmV">🧐 수능의 역사</a>]]></content>
+        <title type="html"><![CDATA[가끔은...]]></title>
+        <id>https://alook.so/posts/xlt7wr</id>
+        <link href="https://alook.so/posts/xlt7wr"/>
+        <updated>2021-11-26T09:15:05.411Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt7wr">가끔은...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[때론 질문 그 자체가 답일수도 있습니다]]></title>
-        <id>https://alook.so/posts/q1t7eR</id>
-        <link href="https://alook.so/posts/q1t7eR"/>
-        <updated>2021-11-26T08:17:35.638Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7eR">때론 질문 그 자체가 답일수도 있습니다</a>]]></content>
+        <title type="html"><![CDATA[평온]]></title>
+        <id>https://alook.so/posts/kZtV4x</id>
+        <link href="https://alook.so/posts/kZtV4x"/>
+        <updated>2021-11-26T09:15:05.412Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtV4x">평온</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 백신 왜 맞아요??]]></title>
-        <id>https://alook.so/posts/Djt90k</id>
-        <link href="https://alook.so/posts/Djt90k"/>
-        <updated>2021-11-26T08:17:35.638Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt90k">코로나 백신 왜 맞아요??</a>]]></content>
+        <title type="html"><![CDATA[혹시 실손보험 들고 계신가요?]]></title>
+        <id>https://alook.so/posts/yEtmXD</id>
+        <link href="https://alook.so/posts/yEtmXD"/>
+        <updated>2021-11-26T09:15:05.414Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmXD">혹시 실손보험 들고 계신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김장철이 다가왔네요.]]></title>
-        <id>https://alook.so/posts/70tJy1</id>
-        <link href="https://alook.so/posts/70tJy1"/>
-        <updated>2021-11-26T08:17:35.640Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tJy1">김장철이 다가왔네요.</a>]]></content>
+        <title type="html"><![CDATA[부자가 되고 싶은 당신에게.. (1)]]></title>
+        <id>https://alook.so/posts/LKtJR4</id>
+        <link href="https://alook.so/posts/LKtJR4"/>
+        <updated>2021-11-26T09:15:05.415Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtJR4">부자가 되고 싶은 당신에게.. (1)</a>]]></content>
     </entry>
 </feed>
