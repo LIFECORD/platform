@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-26T18:18:14.598Z</updated>
+    <updated>2021-11-26T19:13:32.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[와플 먹다 받은 카톡 메세지]]></title>
+        <id>https://alook.so/posts/Kmtqvm</id>
+        <link href="https://alook.so/posts/Kmtqvm"/>
+        <updated>2021-11-26T19:12:09.975Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtqvm">와플 먹다 받은 카톡 메세지</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구독 숫자 제한은 새로 생겼네요.]]></title>
         <id>https://alook.so/posts/54t9L5</id>
