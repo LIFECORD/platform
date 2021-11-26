@@ -2,49 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-26T01:57:36.576Z</updated>
+    <updated>2021-11-26T02:30:58.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[그만 열심히 하고싶어요.]]></title>
-        <id>https://alook.so/posts/G1t0ZK</id>
-        <link href="https://alook.so/posts/G1t0ZK"/>
-        <updated>2021-11-26T01:56:04.468Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t0ZK">그만 열심히 하고싶어요.</a>]]></content>
+        <title type="html"><![CDATA[좋은 부모의 기준]]></title>
+        <id>https://alook.so/posts/w9t94y</id>
+        <link href="https://alook.so/posts/w9t94y"/>
+        <updated>2021-11-26T02:29:34.836Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t94y">좋은 부모의 기준</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘도 지치셨나요? 보물을 찾아봐요.]]></title>
-        <id>https://alook.so/posts/OEtErq</id>
-        <link href="https://alook.so/posts/OEtErq"/>
-        <updated>2021-11-26T01:56:04.469Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtErq">오늘도 지치셨나요? 보물을 찾아봐요. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈퍼변이 또 등장ㅜ]]></title>
-        <id>https://alook.so/posts/E7tmPo</id>
-        <link href="https://alook.so/posts/E7tmPo"/>
-        <updated>2021-11-26T01:56:04.470Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tmPo">슈퍼변이 또 등장ㅜ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영양사는 왜 이렇게 살아야 할까요?]]></title>
-        <id>https://alook.so/posts/92tq8D</id>
-        <link href="https://alook.so/posts/92tq8D"/>
-        <updated>2021-11-26T01:56:04.472Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tq8D">영양사는 왜 이렇게 살아야 할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제가 겪은 일이 보편적이지 않다고요?]]></title>
-        <id>https://alook.so/posts/KmtqRE</id>
-        <link href="https://alook.so/posts/KmtqRE"/>
-        <updated>2021-11-26T01:56:04.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtqRE">제가 겪은 일이 보편적이지 않다고요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장 생활에 만족하신가요?]]></title>
-        <id>https://alook.so/posts/54t9Ov</id>
-        <link href="https://alook.so/posts/54t9Ov"/>
-        <updated>2021-11-26T01:56:04.474Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t9Ov">직장 생활에 만족하신가요?</a>]]></content>
+        <title type="html"><![CDATA[화장실 벽에 난 구멍이 모든 것을 말해줍니다.]]></title>
+        <id>https://alook.so/posts/LKtJ13</id>
+        <link href="https://alook.so/posts/LKtJ13"/>
+        <updated>2021-11-26T02:29:34.837Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtJ13">화장실 벽에 난 구멍이 모든 것을 말해줍니다. </a>]]></content>
     </entry>
 </feed>
