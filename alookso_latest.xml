@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-27T18:17:52.848Z</updated>
+    <updated>2021-11-27T19:13:00.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나는 어쩌다 경단녀가 되었나....(1)]]></title>
+        <id>https://alook.so/posts/zvtp0D</id>
+        <link href="https://alook.so/posts/zvtp0D"/>
+        <updated>2021-11-27T19:11:34.001Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtp0D">나는 어쩌다 경단녀가 되었나....(1)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자신이 잘 썼다고 생각한 글을 분석해 보는 건 어떠세요?]]></title>
         <id>https://alook.so/posts/2xtZ05</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/RGtR8K"/>
         <updated>2021-11-27T17:19:25.533Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtR8K">우리몸은 가장 아름다운 악기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 부스타 맞아야 할까?]]></title>
-        <id>https://alook.so/posts/kZtVKp</id>
-        <link href="https://alook.so/posts/kZtVKp"/>
-        <updated>2021-11-27T17:19:25.534Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtVKp">코로나 부스타 맞아야 할까?</a>]]></content>
     </entry>
 </feed>
