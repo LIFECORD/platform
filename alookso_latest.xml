@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-27T15:17:11.878Z</updated>
+    <updated>2021-11-27T16:23:08.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[수 많은 국뽕 중에도 최고는?]]></title>
-        <id>https://alook.so/posts/KmtqJ7</id>
-        <link href="https://alook.so/posts/KmtqJ7"/>
-        <updated>2021-11-27T15:15:43.509Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtqJ7">수 많은 국뽕 중에도 최고는?</a>]]></content>
+        <title type="html"><![CDATA[점점 심각해져 가는 기후 위기 막을수 있을까요?]]></title>
+        <id>https://alook.so/posts/G1t07d</id>
+        <link href="https://alook.so/posts/G1t07d"/>
+        <updated>2021-11-27T16:21:45.888Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t07d">점점 심각해져 가는 기후 위기 막을수 있을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미래에는 채식이 대세라고 생각합니다.]]></title>
-        <id>https://alook.so/posts/mbtVr8</id>
-        <link href="https://alook.so/posts/mbtVr8"/>
-        <updated>2021-11-27T15:15:43.510Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVr8">미래에는 채식이 대세라고 생각합니다.</a>]]></content>
+        <title type="html"><![CDATA["싸우지마 이러다간 다 죽어!"]]></title>
+        <id>https://alook.so/posts/OEtEk6</id>
+        <link href="https://alook.so/posts/OEtEk6"/>
+        <updated>2021-11-27T16:21:45.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtEk6">"싸우지마 이러다간 다 죽어!"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김장 김치가 짜요]]></title>
-        <id>https://alook.so/posts/q1t7wr</id>
-        <link href="https://alook.so/posts/q1t7wr"/>
-        <updated>2021-11-27T15:15:43.511Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7wr">김장 김치가 짜요</a>]]></content>
+        <title type="html"><![CDATA[군대]]></title>
+        <id>https://alook.so/posts/lat8n4</id>
+        <link href="https://alook.so/posts/lat8n4"/>
+        <updated>2021-11-27T16:21:45.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8n4">군대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공무원을 하고 싶은 이유]]></title>
-        <id>https://alook.so/posts/o7tRBr</id>
-        <link href="https://alook.so/posts/o7tRBr"/>
-        <updated>2021-11-27T15:15:43.513Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tRBr">공무원을 하고 싶은 이유</a>]]></content>
+        <title type="html"><![CDATA[투자를 한 뒤에...]]></title>
+        <id>https://alook.so/posts/KmtqJy</id>
+        <link href="https://alook.so/posts/KmtqJy"/>
+        <updated>2021-11-27T16:21:45.892Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtqJy">투자를 한 뒤에...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후 변화, 막을 순 없겠지만 아주 천천히]]></title>
+        <id>https://alook.so/posts/mbtVrM</id>
+        <link href="https://alook.so/posts/mbtVrM"/>
+        <updated>2021-11-27T16:21:45.894Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVrM">기후 변화, 막을 순 없겠지만 아주 천천히 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국이 선진국 이냐구요?]]></title>
+        <id>https://alook.so/posts/54t9yV</id>
+        <link href="https://alook.so/posts/54t9yV"/>
+        <updated>2021-11-27T16:21:45.895Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t9yV">한국이 선진국 이냐구요?</a>]]></content>
     </entry>
 </feed>
