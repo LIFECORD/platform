@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-27T11:13:34.252Z</updated>
+    <updated>2021-11-27T12:23:02.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[중학생들과 폐지줍는 할머니가 만나면?]]></title>
-        <id>https://alook.so/posts/PvtWy6</id>
-        <link href="https://alook.so/posts/PvtWy6"/>
-        <updated>2021-11-27T11:12:11.413Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtWy6">중학생들과 폐지줍는 할머니가 만나면?</a>]]></content>
+        <title type="html"><![CDATA[2번의 직장생활, 2번 해고를 당했습니다.]]></title>
+        <id>https://alook.so/posts/mbtVJ8</id>
+        <link href="https://alook.so/posts/mbtVJ8"/>
+        <updated>2021-11-27T12:21:40.222Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVJ8">2번의 직장생활, 2번 해고를 당했습니다. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[100만큼의 재능으로 만들어진 100만큼의 업적은 어떤 의미일까요]]></title>
-        <id>https://alook.so/posts/2xtZko</id>
-        <link href="https://alook.so/posts/2xtZko"/>
-        <updated>2021-11-27T11:12:11.415Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtZko">100만큼의 재능으로 만들어진 100만큼의 업적은 어떤 의미일까요</a>]]></content>
+        <title type="html"><![CDATA[코로나19로 시작된 사장님과나의 밀당]]></title>
+        <id>https://alook.so/posts/q1t7Pr</id>
+        <link href="https://alook.so/posts/q1t7Pr"/>
+        <updated>2021-11-27T12:21:40.223Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7Pr">코로나19로 시작된 사장님과나의 밀당</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[72세 아버지의 자유시간]]></title>
-        <id>https://alook.so/posts/0ktl27</id>
-        <link href="https://alook.so/posts/0ktl27"/>
-        <updated>2021-11-27T11:12:11.416Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktl27">72세 아버지의 자유시간</a>]]></content>
+        <title type="html"><![CDATA[갑자기...예전에 내가 생각났다]]></title>
+        <id>https://alook.so/posts/Djt9nl</id>
+        <link href="https://alook.so/posts/Djt9nl"/>
+        <updated>2021-11-27T12:21:40.225Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9nl">갑자기...예전에 내가 생각났다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리의 이웃은 이런 분들이구나~]]></title>
-        <id>https://alook.so/posts/4XtyGj</id>
-        <link href="https://alook.so/posts/4XtyGj"/>
-        <updated>2021-11-27T11:12:11.417Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtyGj">우리의 이웃은 이런 분들이구나~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 고민 없이 살아가는 사람있습니까?]]></title>
-        <id>https://alook.so/posts/w9t9W1</id>
-        <link href="https://alook.so/posts/w9t9W1"/>
-        <updated>2021-11-27T10:15:33.816Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t9W1">지금 고민 없이 살아가는 사람있습니까?</a>]]></content>
+        <title type="html"><![CDATA[천천히 드러나는 블라인드의 순기능]]></title>
+        <id>https://alook.so/posts/1Rt80R</id>
+        <link href="https://alook.so/posts/1Rt80R"/>
+        <updated>2021-11-27T12:21:40.226Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt80R">천천히 드러나는 블라인드의 순기능</a>]]></content>
     </entry>
 </feed>
