@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-27T14:14:59.920Z</updated>
+    <updated>2021-11-27T15:17:11.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[장애를 가진 아들 데리고 시댁에]]></title>
-        <id>https://alook.so/posts/eVtYlb</id>
-        <link href="https://alook.so/posts/eVtYlb"/>
-        <updated>2021-11-27T14:13:35.038Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtYlb">장애를 가진 아들 데리고 시댁에</a>]]></content>
+        <title type="html"><![CDATA[수 많은 국뽕 중에도 최고는?]]></title>
+        <id>https://alook.so/posts/KmtqJ7</id>
+        <link href="https://alook.so/posts/KmtqJ7"/>
+        <updated>2021-11-27T15:15:43.509Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtqJ7">수 많은 국뽕 중에도 최고는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[너무 늦은 이별일까?]]></title>
-        <id>https://alook.so/posts/Vnt6vX</id>
-        <link href="https://alook.so/posts/Vnt6vX"/>
-        <updated>2021-11-27T14:13:35.039Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt6vX">너무 늦은 이별일까?</a>]]></content>
+        <title type="html"><![CDATA[미래에는 채식이 대세라고 생각합니다.]]></title>
+        <id>https://alook.so/posts/mbtVr8</id>
+        <link href="https://alook.so/posts/mbtVr8"/>
+        <updated>2021-11-27T15:15:43.510Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVr8">미래에는 채식이 대세라고 생각합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 진짜 객원 에디터신 듯..^^]]></title>
-        <id>https://alook.so/posts/zvtp9n</id>
-        <link href="https://alook.so/posts/zvtp9n"/>
-        <updated>2021-11-27T14:13:35.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtp9n">답글: 진짜 객원 에디터신 듯..^^</a>]]></content>
+        <title type="html"><![CDATA[김장 김치가 짜요]]></title>
+        <id>https://alook.so/posts/q1t7wr</id>
+        <link href="https://alook.so/posts/q1t7wr"/>
+        <updated>2021-11-27T15:15:43.511Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7wr">김장 김치가 짜요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["사는게 다 그런거지.." 라는 말]]></title>
-        <id>https://alook.so/posts/2xtZro</id>
-        <link href="https://alook.so/posts/2xtZro"/>
-        <updated>2021-11-27T14:13:35.042Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtZro">"사는게 다 그런거지.." 라는 말</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족들이 때론, 그래]]></title>
-        <id>https://alook.so/posts/WLtq82</id>
-        <link href="https://alook.so/posts/WLtq82"/>
-        <updated>2021-11-27T14:13:35.043Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtq82">가족들이 때론, 그래</a>]]></content>
+        <title type="html"><![CDATA[공무원을 하고 싶은 이유]]></title>
+        <id>https://alook.so/posts/o7tRBr</id>
+        <link href="https://alook.so/posts/o7tRBr"/>
+        <updated>2021-11-27T15:15:43.513Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tRBr">공무원을 하고 싶은 이유</a>]]></content>
     </entry>
 </feed>
