@@ -2,36 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-27T04:20:28.747Z</updated>
+    <updated>2021-11-27T05:14:12.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[월 실수령 450 직장 그만둡니다.]]></title>
+        <id>https://alook.so/posts/2xtZGP</id>
+        <link href="https://alook.so/posts/2xtZGP"/>
+        <updated>2021-11-26T11:12:55.944Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtZGP">월 실수령 450 직장 그만둡니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소에서 받은 돈으로 팀에 커피를 쐈어요!]]></title>
         <id>https://alook.so/posts/0ktlqG</id>
         <link href="https://alook.so/posts/0ktlqG"/>
         <updated>2021-11-26T13:20:59.542Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktlqG">얼룩소에서 받은 돈으로 팀에 커피를 쐈어요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 아빠 엄마가 걱정돼요 (디지털 문맹에 대해서)]]></title>
-        <id>https://alook.so/posts/mbtVKo</id>
-        <link href="https://alook.so/posts/mbtVKo"/>
-        <updated>2021-11-26T01:56:13.896Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVKo">우리 아빠 엄마가 걱정돼요 (디지털 문맹에 대해서)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자유롭게 저 하늘을]]></title>
-        <id>https://alook.so/posts/Vnt6or</id>
-        <link href="https://alook.so/posts/Vnt6or"/>
-        <updated>2021-11-26T20:15:46.564Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt6or">자유롭게 저 하늘을</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동물을 좋아하면서 동물원에 가는 건 모순적이다.]]></title>
-        <id>https://alook.so/posts/Vnt6d6</id>
-        <link href="https://alook.so/posts/Vnt6d6"/>
-        <updated>2021-11-26T08:17:45.103Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt6d6">동물을 좋아하면서 동물원에 가는 건 모순적이다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구독을 1000명까지만 할 수 있는거 아셨나요?]]></title>
@@ -41,46 +27,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tJ7P">구독을 1000명까지만 할 수 있는거 아셨나요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 주제에 뭘 재수한다고 유난 떨었을까.]]></title>
-        <id>https://alook.so/posts/8WtO4V</id>
-        <link href="https://alook.so/posts/8WtO4V"/>
-        <updated>2021-11-27T03:16:11.886Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtO4V">내 주제에 뭘 재수한다고 유난 떨었을까.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 얼룩소를 구경하다보면 마음이 무거워져요]]></title>
-        <id>https://alook.so/posts/YytGJn</id>
-        <link href="https://alook.so/posts/YytGJn"/>
-        <updated>2021-11-26T04:19:13.830Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytGJn">요즘 얼룩소를 구경하다보면 마음이 무거워져요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메모 : 기본소득에 대해 오래 궁금했던 이야기]]></title>
-        <id>https://alook.so/posts/yEtm83</id>
-        <link href="https://alook.so/posts/yEtm83"/>
-        <updated>2021-11-26T14:14:04.448Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtm83">메모 : 기본소득에 대해 오래 궁금했던 이야기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음주운전, 단순한 실수인가요? 명백한 살인 행위인가요?]]></title>
-        <id>https://alook.so/posts/70tJ0x</id>
-        <link href="https://alook.so/posts/70tJ0x"/>
-        <updated>2021-11-26T08:17:45.100Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tJ0x">음주운전, 단순한 실수인가요? 명백한 살인 행위인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곁에 있기에 가능한.]]></title>
-        <id>https://alook.so/posts/w9t9jX</id>
-        <link href="https://alook.so/posts/w9t9jX"/>
-        <updated>2021-11-26T08:17:45.089Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t9jX">곁에 있기에 가능한.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제가 겪은 일이 보편적이지 않다고요?]]></title>
-        <id>https://alook.so/posts/KmtqRE</id>
-        <link href="https://alook.so/posts/KmtqRE"/>
-        <updated>2021-11-26T05:13:44.937Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtqRE">제가 겪은 일이 보편적이지 않다고요?</a>]]></content>
+        <title type="html"><![CDATA[alookso 마이너 업데이트 이모저모]]></title>
+        <id>https://alook.so/posts/q1t7BL</id>
+        <link href="https://alook.so/posts/q1t7BL"/>
+        <updated>2021-11-27T05:12:58.726Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7BL">alookso 마이너 업데이트 이모저모</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글쓰기를 시작한 나만의 계기]]></title>
@@ -90,10 +41,66 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtRea">글쓰기를 시작한 나만의 계기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[월 실수령 450 직장 그만둡니다.]]></title>
-        <id>https://alook.so/posts/2xtZGP</id>
-        <link href="https://alook.so/posts/2xtZGP"/>
-        <updated>2021-11-26T11:12:55.944Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtZGP">월 실수령 450 직장 그만둡니다.</a>]]></content>
+        <title type="html"><![CDATA[음주운전, 단순한 실수인가요? 명백한 살인 행위인가요?]]></title>
+        <id>https://alook.so/posts/70tJ0x</id>
+        <link href="https://alook.so/posts/70tJ0x"/>
+        <updated>2021-11-26T08:17:45.100Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tJ0x">음주운전, 단순한 실수인가요? 명백한 살인 행위인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 주제에 뭘 재수한다고 유난 떨었을까.]]></title>
+        <id>https://alook.so/posts/8WtO4V</id>
+        <link href="https://alook.so/posts/8WtO4V"/>
+        <updated>2021-11-27T03:16:11.886Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtO4V">내 주제에 뭘 재수한다고 유난 떨었을까.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[곁에 있기에 가능한.]]></title>
+        <id>https://alook.so/posts/w9t9jX</id>
+        <link href="https://alook.so/posts/w9t9jX"/>
+        <updated>2021-11-26T08:17:45.089Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t9jX">곁에 있기에 가능한.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 얼룩소를 구경하다보면 마음이 무거워져요]]></title>
+        <id>https://alook.so/posts/YytGJn</id>
+        <link href="https://alook.so/posts/YytGJn"/>
+        <updated>2021-11-26T04:19:13.830Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytGJn">요즘 얼룩소를 구경하다보면 마음이 무거워져요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제가 겪은 일이 보편적이지 않다고요?]]></title>
+        <id>https://alook.so/posts/KmtqRE</id>
+        <link href="https://alook.so/posts/KmtqRE"/>
+        <updated>2021-11-26T05:13:44.937Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtqRE">제가 겪은 일이 보편적이지 않다고요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메모 : 기본소득에 대해 오래 궁금했던 이야기]]></title>
+        <id>https://alook.so/posts/yEtm83</id>
+        <link href="https://alook.so/posts/yEtm83"/>
+        <updated>2021-11-26T14:14:04.448Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtm83">메모 : 기본소득에 대해 오래 궁금했던 이야기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물을 좋아하면서 동물원에 가는 건 모순적이다.]]></title>
+        <id>https://alook.so/posts/Vnt6d6</id>
+        <link href="https://alook.so/posts/Vnt6d6"/>
+        <updated>2021-11-26T08:17:45.103Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt6d6">동물을 좋아하면서 동물원에 가는 건 모순적이다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자유롭게 저 하늘을]]></title>
+        <id>https://alook.so/posts/Vnt6or</id>
+        <link href="https://alook.so/posts/Vnt6or"/>
+        <updated>2021-11-26T20:15:46.564Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt6or">자유롭게 저 하늘을</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 아빠 엄마가 걱정돼요 (디지털 문맹에 대해서)]]></title>
+        <id>https://alook.so/posts/mbtVKo</id>
+        <link href="https://alook.so/posts/mbtVKo"/>
+        <updated>2021-11-26T01:56:13.896Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtVKo">우리 아빠 엄마가 걱정돼요 (디지털 문맹에 대해서)</a>]]></content>
     </entry>
 </feed>
