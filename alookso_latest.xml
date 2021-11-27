@@ -2,42 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-26T23:16:15.559Z</updated>
+    <updated>2021-11-27T00:46:01.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[지금의 이익과 손해는 중요하지 않습니다.]]></title>
-        <id>https://alook.so/posts/OEtEDb</id>
-        <link href="https://alook.so/posts/OEtEDb"/>
-        <updated>2021-11-26T22:15:41.152Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtEDb">지금의 이익과 손해는 중요하지 않습니다.</a>]]></content>
+        <title type="html"><![CDATA[절실함의 힘]]></title>
+        <id>https://alook.so/posts/4XtyJe</id>
+        <link href="https://alook.so/posts/4XtyJe"/>
+        <updated>2021-11-27T00:44:36.894Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtyJe">절실함의 힘</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인간의 무한한 능력 & 기술의 발전 기계로봇의 능력]]></title>
-        <id>https://alook.so/posts/92tqGx</id>
-        <link href="https://alook.so/posts/92tqGx"/>
-        <updated>2021-11-26T21:13:49.957Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tqGx">인간의 무한한 능력 &amp; 기술의 발전 기계로봇의 능력</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와플 먹다 받은 카톡 메세지]]></title>
-        <id>https://alook.so/posts/Kmtqvm</id>
-        <link href="https://alook.so/posts/Kmtqvm"/>
-        <updated>2021-11-26T19:12:09.975Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtqvm">와플 먹다 받은 카톡 메세지</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구독 숫자 제한은 새로 생겼네요.]]></title>
-        <id>https://alook.so/posts/54t9L5</id>
-        <link href="https://alook.so/posts/54t9L5"/>
-        <updated>2021-11-26T18:16:41.450Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t9L5">구독 숫자 제한은 새로 생겼네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alookso 마이너 업데이트 이모저모]]></title>
-        <id>https://alook.so/posts/q1t7BL</id>
-        <link href="https://alook.so/posts/q1t7BL"/>
-        <updated>2021-11-26T18:16:41.451Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7BL">alookso 마이너 업데이트 이모저모</a>]]></content>
+        <title type="html"><![CDATA[결코 실수가 아닙니다.]]></title>
+        <id>https://alook.so/posts/w9t9YJ</id>
+        <link href="https://alook.so/posts/w9t9YJ"/>
+        <updated>2021-11-27T00:44:36.895Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t9YJ">결코 실수가 아닙니다.</a>]]></content>
     </entry>
 </feed>
