@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-27T06:18:30.506Z</updated>
+    <updated>2021-11-27T07:16:30.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[우리사회의 사회적약자는 누구일까요?]]></title>
-        <id>https://alook.so/posts/RGtRnj</id>
-        <link href="https://alook.so/posts/RGtRnj"/>
-        <updated>2021-11-27T06:17:05.350Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtRnj">우리사회의 사회적약자는 누구일까요?</a>]]></content>
+        <title type="html"><![CDATA[쓰고 읽고의 반복]]></title>
+        <id>https://alook.so/posts/a0trLG</id>
+        <link href="https://alook.so/posts/a0trLG"/>
+        <updated>2021-11-27T07:15:08.067Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0trLG">쓰고 읽고의 반복</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['주 4일제'에 대한 나의 생각]]></title>
-        <id>https://alook.so/posts/8WtOxa</id>
-        <link href="https://alook.so/posts/8WtOxa"/>
-        <updated>2021-11-27T06:17:05.351Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtOxa">'주 4일제'에 대한 나의 생각</a>]]></content>
+        <title type="html"><![CDATA[좋은 글을 쓰는 방법, 도와주세요!!]]></title>
+        <id>https://alook.so/posts/ZktWXw</id>
+        <link href="https://alook.so/posts/ZktWXw"/>
+        <updated>2021-11-27T07:15:08.068Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktWXw">좋은 글을 쓰는 방법, 도와주세요!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하고 계신 재테크 소개 해주세요~!]]></title>
-        <id>https://alook.so/posts/G1t0Ek</id>
-        <link href="https://alook.so/posts/G1t0Ek"/>
-        <updated>2021-11-27T06:17:05.353Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t0Ek">하고 계신 재테크 소개 해주세요~!</a>]]></content>
+        <title type="html"><![CDATA[미래의 새시대]]></title>
+        <id>https://alook.so/posts/J5tp61</id>
+        <link href="https://alook.so/posts/J5tp61"/>
+        <updated>2021-11-27T07:15:08.069Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tp61">미래의 새시대</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 다들 공무원을 하려 할까요?]]></title>
+        <id>https://alook.so/posts/pot30l</id>
+        <link href="https://alook.so/posts/pot30l"/>
+        <updated>2021-11-27T07:15:08.071Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot30l">왜 다들 공무원을 하려 할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 아이의 식탁]]></title>
+        <id>https://alook.so/posts/eVtY2o</id>
+        <link href="https://alook.so/posts/eVtY2o"/>
+        <updated>2021-11-27T07:15:08.072Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtY2o">내 아이의 식탁</a>]]></content>
     </entry>
 </feed>
