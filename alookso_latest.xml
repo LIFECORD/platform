@@ -2,42 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-27T03:17:24.320Z</updated>
+    <updated>2021-11-27T04:20:28.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[화형을 집행해야 한다고 생각해요]]></title>
-        <id>https://alook.so/posts/mbtV90</id>
-        <link href="https://alook.so/posts/mbtV90"/>
-        <updated>2021-11-27T03:16:03.606Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtV90">화형을 집행해야 한다고 생각해요</a>]]></content>
+        <title type="html"><![CDATA[alookso 경비대장]]></title>
+        <id>https://alook.so/posts/M9t1W2</id>
+        <link href="https://alook.so/posts/M9t1W2"/>
+        <updated>2021-11-27T04:18:52.724Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t1W2">alookso 경비대장</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사촌이랑 같이 살라면 안 살거잖아요]]></title>
-        <id>https://alook.so/posts/Djt9PJ</id>
-        <link href="https://alook.so/posts/Djt9PJ"/>
-        <updated>2021-11-27T03:16:03.608Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9PJ">사촌이랑 같이 살라면 안 살거잖아요</a>]]></content>
+        <title type="html"><![CDATA[당연한 것들의 재구성]]></title>
+        <id>https://alook.so/posts/XBtk5D</id>
+        <link href="https://alook.so/posts/XBtk5D"/>
+        <updated>2021-11-27T04:18:52.725Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtk5D">당연한 것들의 재구성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[행복했으면 좋겠습니다.]]></title>
-        <id>https://alook.so/posts/o7tRep</id>
-        <link href="https://alook.so/posts/o7tRep"/>
-        <updated>2021-11-27T03:16:03.610Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tRep">행복했으면 좋겠습니다.</a>]]></content>
+        <title type="html"><![CDATA[지극히 보편적이어서. 여성이기에 감내해야만 하는 일상이 되버린.]]></title>
+        <id>https://alook.so/posts/w9t9l9</id>
+        <link href="https://alook.so/posts/w9t9l9"/>
+        <updated>2021-11-27T04:18:52.726Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t9l9">지극히 보편적이어서. 여성이기에 감내해야만 하는 일상이 되버린.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인터넷 패러디물, 올바르게 사용하고 있나요?]]></title>
-        <id>https://alook.so/posts/70tJEy</id>
-        <link href="https://alook.so/posts/70tJEy"/>
-        <updated>2021-11-27T03:16:03.611Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tJEy">인터넷 패러디물, 올바르게 사용하고 있나요?</a>]]></content>
+        <title type="html"><![CDATA[Q1. 당신은 왜 책을 사나요?]]></title>
+        <id>https://alook.so/posts/xlt7G2</id>
+        <link href="https://alook.so/posts/xlt7G2"/>
+        <updated>2021-11-27T04:18:52.728Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt7G2">Q1. 당신은 왜 책을 사나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이 나름이예요]]></title>
-        <id>https://alook.so/posts/rDt7dW</id>
-        <link href="https://alook.so/posts/rDt7dW"/>
-        <updated>2021-11-27T03:16:03.613Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt7dW">아이 나름이예요</a>]]></content>
+        <title type="html"><![CDATA[답글: 구독을 1000명까지만 할 수 있는 거 아셨나요?]]></title>
+        <id>https://alook.so/posts/RGtR7j</id>
+        <link href="https://alook.so/posts/RGtR7j"/>
+        <updated>2021-11-27T04:18:52.731Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtR7j">답글: 구독을 1000명까지만 할 수 있는 거 아셨나요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["집값 떨어질텐데..." 만류해도 웃돈 5억 주고 산 아파트 지금ㄴ]]></title>
+        <id>https://alook.so/posts/kZtVl5</id>
+        <link href="https://alook.so/posts/kZtVl5"/>
+        <updated>2021-11-27T04:18:52.731Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtVl5">"집값 떨어질텐데..." 만류해도 웃돈 5억 주고 산 아파트 지금ㄴ</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안전한 공론장이 될 수 있기를...]]></title>
+        <id>https://alook.so/posts/yEtm5p</id>
+        <link href="https://alook.so/posts/yEtm5p"/>
+        <updated>2021-11-27T04:18:52.733Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtm5p">안전한 공론장이 될 수 있기를... </a>]]></content>
     </entry>
 </feed>
