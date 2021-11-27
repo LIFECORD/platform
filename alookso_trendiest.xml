@@ -2,92 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-27T17:20:49.239Z</updated>
+    <updated>2021-11-27T18:17:52.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[내 주제에 뭘 재수한다고 유난 떨었을까.]]></title>
-        <id>https://alook.so/posts/8WtO4V</id>
-        <link href="https://alook.so/posts/8WtO4V"/>
-        <updated>2021-11-27T03:16:11.886Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtO4V">내 주제에 뭘 재수한다고 유난 떨었을까.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['당신의 경험은 보편적인 건 아니다'라는 폭력적인 말]]></title>
-        <id>https://alook.so/posts/E7tmyk</id>
-        <link href="https://alook.so/posts/E7tmyk"/>
-        <updated>2021-11-27T15:15:51.803Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tmyk">'당신의 경험은 보편적인 건 아니다'라는 폭력적인 말</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 기본소득 게임, 15년 동안 지켜본 결과]]></title>
-        <id>https://alook.so/posts/Vnt68l</id>
-        <link href="https://alook.so/posts/Vnt68l"/>
-        <updated>2021-11-27T17:19:34.773Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt68l">답글: 기본소득 게임, 15년 동안 지켜본 결과</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 위로를 해 드릴수 없지만..]]></title>
-        <id>https://alook.so/posts/pot3vy</id>
-        <link href="https://alook.so/posts/pot3vy"/>
-        <updated>2021-11-27T09:15:59.486Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot3vy">답글: 위로를 해 드릴수 없지만..</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[월 실수령 450 직장 그만둡니다.]]></title>
         <id>https://alook.so/posts/2xtZGP</id>
         <link href="https://alook.so/posts/2xtZGP"/>
         <updated>2021-11-26T11:12:55.944Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtZGP">월 실수령 450 직장 그만둡니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 치명적 코로나 변이, ‘오미크론’은 왜 만들어졌는가]]></title>
-        <id>https://alook.so/posts/yEtmjp</id>
-        <link href="https://alook.so/posts/yEtmjp"/>
-        <updated>2021-11-27T12:21:48.527Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmjp">답글: 치명적 코로나 변이, ‘오미크론’은 왜 만들어졌는가  </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중학생들과 폐지 줍는 할머니가 만나면?]]></title>
-        <id>https://alook.so/posts/bWtMaL</id>
-        <link href="https://alook.so/posts/bWtMaL"/>
-        <updated>2021-11-27T11:12:19.452Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtMaL">중학생들과 폐지 줍는 할머니가 만나면? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omicron 변이 상황 정리]]></title>
-        <id>https://alook.so/posts/pot3Gl</id>
-        <link href="https://alook.so/posts/pot3Gl"/>
-        <updated>2021-11-27T08:18:07.664Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot3Gl">Omicron 변이 상황 정리</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 글을 쓰는 방법, 도와주세요!!]]></title>
-        <id>https://alook.so/posts/ZktWXw</id>
-        <link href="https://alook.so/posts/ZktWXw"/>
-        <updated>2021-11-27T14:13:43.526Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktWXw">좋은 글을 쓰는 방법, 도와주세요!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 아이의 식탁]]></title>
-        <id>https://alook.so/posts/eVtY2o</id>
-        <link href="https://alook.so/posts/eVtY2o"/>
-        <updated>2021-11-27T12:21:48.529Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtY2o">내 아이의 식탁</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓰고 읽고의 반복]]></title>
-        <id>https://alook.so/posts/a0trLG</id>
-        <link href="https://alook.so/posts/a0trLG"/>
-        <updated>2021-11-27T13:20:22.246Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0trLG">쓰고 읽고의 반복</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alookso 마이너 업데이트 이모저모]]></title>
-        <id>https://alook.so/posts/q1t7BL</id>
-        <link href="https://alook.so/posts/q1t7BL"/>
-        <updated>2021-11-27T05:12:58.726Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7BL">alookso 마이너 업데이트 이모저모</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TSMC 주식, 보유해도 될까요?]]></title>
@@ -97,11 +20,39 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tpz7">TSMC 주식, 보유해도 될까요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우려되는 코로나 변이, ‘오미크론’은 왜 만들어졌을까]]></title>
+        <id>https://alook.so/posts/eVtYjo</id>
+        <link href="https://alook.so/posts/eVtYjo"/>
+        <updated>2021-11-27T10:15:41.945Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtYjo">우려되는 코로나 변이, ‘오미크론’은 왜 만들어졌을까  </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋은 글을 쓰는 방법, 도와주세요!!]]></title>
+        <id>https://alook.so/posts/ZktWXw</id>
+        <link href="https://alook.so/posts/ZktWXw"/>
+        <updated>2021-11-27T14:13:43.526Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktWXw">좋은 글을 쓰는 방법, 도와주세요!!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[사회주의와 사교육]]></title>
         <id>https://alook.so/posts/pot3Py</id>
         <link href="https://alook.so/posts/pot3Py"/>
         <updated>2021-11-27T16:21:53.988Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot3Py"> 사회주의와 사교육</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omicron 변이 상황 정리]]></title>
+        <id>https://alook.so/posts/pot3Gl</id>
+        <link href="https://alook.so/posts/pot3Gl"/>
+        <updated>2021-11-27T08:18:07.664Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot3Gl">Omicron 변이 상황 정리</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 치명적 코로나 변이, ‘오미크론’은 왜 만들어졌는가]]></title>
+        <id>https://alook.so/posts/yEtmjp</id>
+        <link href="https://alook.so/posts/yEtmjp"/>
+        <updated>2021-11-27T12:21:48.527Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmjp">답글: 치명적 코로나 변이, ‘오미크론’은 왜 만들어졌는가  </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[선별진료소 대기중에 궁금하고 화가 납니다]]></title>
@@ -111,10 +62,59 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtpyk">선별진료소 대기중에 궁금하고 화가 납니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우려되는 코로나 변이, ‘오미크론’은 왜 만들어졌을까]]></title>
-        <id>https://alook.so/posts/eVtYjo</id>
-        <link href="https://alook.so/posts/eVtYjo"/>
-        <updated>2021-11-27T10:15:41.945Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtYjo">우려되는 코로나 변이, ‘오미크론’은 왜 만들어졌을까  </a>]]></content>
+        <title type="html"><![CDATA[alookso 마이너 업데이트 이모저모]]></title>
+        <id>https://alook.so/posts/q1t7BL</id>
+        <link href="https://alook.so/posts/q1t7BL"/>
+        <updated>2021-11-27T05:12:58.726Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7BL">alookso 마이너 업데이트 이모저모</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 기본소득 게임, 15년 동안 지켜본 결과]]></title>
+        <id>https://alook.so/posts/Vnt68l</id>
+        <link href="https://alook.so/posts/Vnt68l"/>
+        <updated>2021-11-27T17:19:34.773Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt68l">답글: 기본소득 게임, 15년 동안 지켜본 결과</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 주제에 뭘 재수한다고 유난 떨었을까.]]></title>
+        <id>https://alook.so/posts/8WtO4V</id>
+        <link href="https://alook.so/posts/8WtO4V"/>
+        <updated>2021-11-27T03:16:11.886Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtO4V">내 주제에 뭘 재수한다고 유난 떨었을까.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쓰고 읽고의 반복]]></title>
+        <id>https://alook.so/posts/a0trLG</id>
+        <link href="https://alook.so/posts/a0trLG"/>
+        <updated>2021-11-27T13:20:22.246Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0trLG">쓰고 읽고의 반복</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['당신의 경험은 보편적인 건 아니다'라는 폭력적인 말]]></title>
+        <id>https://alook.so/posts/E7tmyk</id>
+        <link href="https://alook.so/posts/E7tmyk"/>
+        <updated>2021-11-27T15:15:51.803Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tmyk">'당신의 경험은 보편적인 건 아니다'라는 폭력적인 말</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 아이의 식탁]]></title>
+        <id>https://alook.so/posts/eVtY2o</id>
+        <link href="https://alook.so/posts/eVtY2o"/>
+        <updated>2021-11-27T12:21:48.529Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtY2o">내 아이의 식탁</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 위로를 해 드릴수 없지만..]]></title>
+        <id>https://alook.so/posts/pot3vy</id>
+        <link href="https://alook.so/posts/pot3vy"/>
+        <updated>2021-11-27T09:15:59.486Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot3vy">답글: 위로를 해 드릴수 없지만..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중학생들과 폐지 줍는 할머니가 만나면?]]></title>
+        <id>https://alook.so/posts/bWtMaL</id>
+        <link href="https://alook.so/posts/bWtMaL"/>
+        <updated>2021-11-27T11:12:19.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtMaL">중학생들과 폐지 줍는 할머니가 만나면? </a>]]></content>
     </entry>
 </feed>
