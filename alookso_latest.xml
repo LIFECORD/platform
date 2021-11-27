@@ -2,21 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-27T02:32:36.284Z</updated>
+    <updated>2021-11-27T03:17:24.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[당신의 건강을 얼마나 확신하십니까]]></title>
-        <id>https://alook.so/posts/q1t7ZL</id>
-        <link href="https://alook.so/posts/q1t7ZL"/>
-        <updated>2021-11-27T02:31:12.649Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7ZL">당신의 건강을 얼마나 확신하십니까</a>]]></content>
+        <title type="html"><![CDATA[화형을 집행해야 한다고 생각해요]]></title>
+        <id>https://alook.so/posts/mbtV90</id>
+        <link href="https://alook.so/posts/mbtV90"/>
+        <updated>2021-11-27T03:16:03.606Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtV90">화형을 집행해야 한다고 생각해요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자주 국방을 위해]]></title>
-        <id>https://alook.so/posts/o7tReZ</id>
-        <link href="https://alook.so/posts/o7tReZ"/>
-        <updated>2021-11-27T02:31:12.650Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tReZ">자주 국방을 위해</a>]]></content>
+        <title type="html"><![CDATA[사촌이랑 같이 살라면 안 살거잖아요]]></title>
+        <id>https://alook.so/posts/Djt9PJ</id>
+        <link href="https://alook.so/posts/Djt9PJ"/>
+        <updated>2021-11-27T03:16:03.608Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt9PJ">사촌이랑 같이 살라면 안 살거잖아요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[행복했으면 좋겠습니다.]]></title>
+        <id>https://alook.so/posts/o7tRep</id>
+        <link href="https://alook.so/posts/o7tRep"/>
+        <updated>2021-11-27T03:16:03.610Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tRep">행복했으면 좋겠습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인터넷 패러디물, 올바르게 사용하고 있나요?]]></title>
+        <id>https://alook.so/posts/70tJEy</id>
+        <link href="https://alook.so/posts/70tJEy"/>
+        <updated>2021-11-27T03:16:03.611Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tJEy">인터넷 패러디물, 올바르게 사용하고 있나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이 나름이예요]]></title>
+        <id>https://alook.so/posts/rDt7dW</id>
+        <link href="https://alook.so/posts/rDt7dW"/>
+        <updated>2021-11-27T03:16:03.613Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt7dW">아이 나름이예요</a>]]></content>
     </entry>
 </feed>
