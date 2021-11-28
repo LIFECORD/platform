@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-28T00:49:28.171Z</updated>
+    <updated>2021-11-28T01:55:55.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[보이스피싱 당하셨나요?]]></title>
-        <id>https://alook.so/posts/a0trBK</id>
-        <link href="https://alook.so/posts/a0trBK"/>
-        <updated>2021-11-28T00:47:59.342Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0trBK">보이스피싱 당하셨나요?</a>]]></content>
+        <title type="html"><![CDATA[코로나, 안전불감증 어떻게 없애야할까]]></title>
+        <id>https://alook.so/posts/WLtqwk</id>
+        <link href="https://alook.so/posts/WLtqwk"/>
+        <updated>2021-11-28T01:54:29.965Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtqwk">코로나, 안전불감증 어떻게 없애야할까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[난 해고당했다...]]></title>
-        <id>https://alook.so/posts/ZktWR7</id>
-        <link href="https://alook.so/posts/ZktWR7"/>
-        <updated>2021-11-28T00:47:59.343Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktWR7">난 해고당했다...</a>]]></content>
+        <title type="html"><![CDATA[인생 망하지 않는 방법]]></title>
+        <id>https://alook.so/posts/xlt7RG</id>
+        <link href="https://alook.so/posts/xlt7RG"/>
+        <updated>2021-11-28T01:54:29.965Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt7RG">인생 망하지 않는 방법</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 손해라는 단어가 기본소득제에 어울리나요?]]></title>
-        <id>https://alook.so/posts/dztD3v</id>
-        <link href="https://alook.so/posts/dztD3v"/>
-        <updated>2021-11-28T00:47:59.345Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztD3v">답글: 손해라는 단어가 기본소득제에 어울리나요?</a>]]></content>
+        <title type="html"><![CDATA[국어교육의 목표 중 하나, 글쓰기 능력 향상]]></title>
+        <id>https://alook.so/posts/RGtRZK</id>
+        <link href="https://alook.so/posts/RGtRZK"/>
+        <updated>2021-11-28T01:54:29.966Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtRZK">국어교육의 목표 중 하나, 글쓰기 능력 향상</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주말인데 오늘 뭐 먹을지 정하셨나요?]]></title>
+        <id>https://alook.so/posts/kZtVJp</id>
+        <link href="https://alook.so/posts/kZtVJp"/>
+        <updated>2021-11-28T01:54:29.968Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtVJp">주말인데 오늘 뭐 먹을지 정하셨나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군인이아닌 인식을 바꿔야한다.]]></title>
+        <id>https://alook.so/posts/yEtmPz</id>
+        <link href="https://alook.so/posts/yEtmPz"/>
+        <updated>2021-11-28T01:54:29.969Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmPz">군인이아닌 인식을 바꿔야한다.</a>]]></content>
     </entry>
 </feed>
