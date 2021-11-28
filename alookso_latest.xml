@@ -2,21 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-28T08:18:32.257Z</updated>
+    <updated>2021-11-28T09:16:12.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[여    야    대선후보  누구에게도     이나라를   맡기고 싶지않다]]></title>
-        <id>https://alook.so/posts/54tq31</id>
-        <link href="https://alook.so/posts/54tq31"/>
-        <updated>2021-11-28T08:16:59.920Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tq31">여    야    대선후보  누구에게도     이나라를   맡기고 싶지않다</a>]]></content>
+        <title type="html"><![CDATA[얼룩소에서 자신의 생각을 당당히 말한다는 것]]></title>
+        <id>https://alook.so/posts/8WtvaW</id>
+        <link href="https://alook.so/posts/8WtvaW"/>
+        <updated>2021-11-28T09:14:41.260Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtvaW">얼룩소에서 자신의 생각을 당당히 말한다는 것</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[분쇄기 같은 주식]]></title>
-        <id>https://alook.so/posts/q1taGJ</id>
-        <link href="https://alook.so/posts/q1taGJ"/>
-        <updated>2021-11-28T08:16:59.922Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1taGJ">분쇄기 같은 주식</a>]]></content>
+        <title type="html"><![CDATA[맨발로 걷기, 어떻게 생각하시나요?]]></title>
+        <id>https://alook.so/posts/OEtjwY</id>
+        <link href="https://alook.so/posts/OEtjwY"/>
+        <updated>2021-11-28T09:14:41.262Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtjwY">맨발로 걷기, 어떻게 생각하시나요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무슨 노래 좋아하세요?]]></title>
+        <id>https://alook.so/posts/vKtj1a</id>
+        <link href="https://alook.so/posts/vKtj1a"/>
+        <updated>2021-11-28T09:14:41.262Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtj1a">무슨 노래 좋아하세요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 로블록스 주식을 산 이유]]></title>
+        <id>https://alook.so/posts/E7tV94</id>
+        <link href="https://alook.so/posts/E7tV94"/>
+        <updated>2021-11-28T09:14:41.263Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tV94">내가 로블록스 주식을 산 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원금보장+투자=사기]]></title>
+        <id>https://alook.so/posts/Kmta1B</id>
+        <link href="https://alook.so/posts/Kmta1B"/>
+        <updated>2021-11-28T09:14:41.264Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmta1B">원금보장+투자=사기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동물학대속에 살아가는 동물들]]></title>
+        <id>https://alook.so/posts/54tqk3</id>
+        <link href="https://alook.so/posts/54tqk3"/>
+        <updated>2021-11-28T09:14:41.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tqk3">동물학대속에 살아가는 동물들</a>]]></content>
     </entry>
 </feed>
