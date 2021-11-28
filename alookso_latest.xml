@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-28T18:18:03.307Z</updated>
+    <updated>2021-11-28T19:13:18.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국은 코로나 대처를 잘하고 있나?]]></title>
+        <id>https://alook.so/posts/xlt5nw</id>
+        <link href="https://alook.so/posts/xlt5nw"/>
+        <updated>2021-11-28T19:11:55.124Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt5nw">한국은 코로나 대처를 잘하고 있나?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울을 방황하는 이방인]]></title>
+        <id>https://alook.so/posts/kZtrOb</id>
+        <link href="https://alook.so/posts/kZtrOb"/>
+        <updated>2021-11-28T19:11:55.125Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtrOb">서울을 방황하는 이방인</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저는 21살이지만 대학생이 아닙니다.]]></title>
         <id>https://alook.so/posts/LKtzK0</id>
@@ -39,33 +53,5 @@
         <link href="https://alook.so/posts/8Wtv1q"/>
         <updated>2021-11-28T17:19:32.032Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtv1q">이성커플에 대한 나의 생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친구, 나의 우정이라는 로망]]></title>
-        <id>https://alook.so/posts/G1tWy8</id>
-        <link href="https://alook.so/posts/G1tWy8"/>
-        <updated>2021-11-28T17:19:32.033Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tWy8">친구, 나의 우정이라는 로망</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이의 잘못은 모두 엄마때문인가요?]]></title>
-        <id>https://alook.so/posts/OEtjeo</id>
-        <link href="https://alook.so/posts/OEtjeo"/>
-        <updated>2021-11-28T17:19:32.037Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtjeo">아이의 잘못은 모두 엄마때문인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 10대가 불행하다 ?]]></title>
-        <id>https://alook.so/posts/vKtjWK</id>
-        <link href="https://alook.so/posts/vKtjWK"/>
-        <updated>2021-11-28T17:19:32.040Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtjWK">한국의 10대가 불행하다 ?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 많이 읽고 쓰는 것으로 좋은 글을 쓸 수 있다는 오해]]></title>
-        <id>https://alook.so/posts/E7tVYj</id>
-        <link href="https://alook.so/posts/E7tVYj"/>
-        <updated>2021-11-28T17:19:32.042Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVYj">답글: 많이 읽고 쓰는 것으로 좋은 글을 쓸 수 있다는 오해</a>]]></content>
     </entry>
 </feed>
