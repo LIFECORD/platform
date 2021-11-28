@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-28T01:55:55.520Z</updated>
+    <updated>2021-11-28T02:31:59.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[코로나, 안전불감증 어떻게 없애야할까]]></title>
-        <id>https://alook.so/posts/WLtqwk</id>
-        <link href="https://alook.so/posts/WLtqwk"/>
-        <updated>2021-11-28T01:54:29.965Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtqwk">코로나, 안전불감증 어떻게 없애야할까</a>]]></content>
+        <title type="html"><![CDATA[다시 한번 이상을 꿈꾸어 봅시다.]]></title>
+        <id>https://alook.so/posts/1Rt8wz</id>
+        <link href="https://alook.so/posts/1Rt8wz"/>
+        <updated>2021-11-28T02:30:40.552Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt8wz">다시 한번 이상을 꿈꾸어 봅시다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인생 망하지 않는 방법]]></title>
-        <id>https://alook.so/posts/xlt7RG</id>
-        <link href="https://alook.so/posts/xlt7RG"/>
-        <updated>2021-11-28T01:54:29.965Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt7RG">인생 망하지 않는 방법</a>]]></content>
+        <title type="html"><![CDATA[애 낳으면 바보일까?]]></title>
+        <id>https://alook.so/posts/rDt7a7</id>
+        <link href="https://alook.so/posts/rDt7a7"/>
+        <updated>2021-11-28T02:30:40.553Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt7a7">애 낳으면 바보일까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국어교육의 목표 중 하나, 글쓰기 능력 향상]]></title>
-        <id>https://alook.so/posts/RGtRZK</id>
-        <link href="https://alook.so/posts/RGtRZK"/>
-        <updated>2021-11-28T01:54:29.966Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtRZK">국어교육의 목표 중 하나, 글쓰기 능력 향상</a>]]></content>
+        <title type="html"><![CDATA[차별금지법에 대한 더 나은 논쟁을 위한 권리]]></title>
+        <id>https://alook.so/posts/jdtP1G</id>
+        <link href="https://alook.so/posts/jdtP1G"/>
+        <updated>2021-11-28T02:30:40.554Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtP1G">차별금지법에 대한 더 나은 논쟁을 위한 권리 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주말인데 오늘 뭐 먹을지 정하셨나요?]]></title>
-        <id>https://alook.so/posts/kZtVJp</id>
-        <link href="https://alook.so/posts/kZtVJp"/>
-        <updated>2021-11-28T01:54:29.968Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtVJp">주말인데 오늘 뭐 먹을지 정하셨나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군인이아닌 인식을 바꿔야한다.]]></title>
-        <id>https://alook.so/posts/yEtmPz</id>
-        <link href="https://alook.so/posts/yEtmPz"/>
-        <updated>2021-11-28T01:54:29.969Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmPz">군인이아닌 인식을 바꿔야한다.</a>]]></content>
+        <title type="html"><![CDATA[변화]]></title>
+        <id>https://alook.so/posts/bWtMV7</id>
+        <link href="https://alook.so/posts/bWtMV7"/>
+        <updated>2021-11-28T02:30:40.556Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtMV7">변화</a>]]></content>
     </entry>
 </feed>
