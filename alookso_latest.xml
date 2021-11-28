@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-28T16:22:30.483Z</updated>
+    <updated>2021-11-28T17:21:07.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[트라우마는 치료되지 않는다.]]></title>
+        <id>https://alook.so/posts/3wtvoW</id>
+        <link href="https://alook.so/posts/3wtvoW"/>
+        <updated>2021-11-28T17:19:32.032Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtvoW">트라우마는 치료되지 않는다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이성커플에 대한 나의 생각]]></title>
+        <id>https://alook.so/posts/8Wtv1q</id>
+        <link href="https://alook.so/posts/8Wtv1q"/>
+        <updated>2021-11-28T17:19:32.032Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtv1q">이성커플에 대한 나의 생각</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[친구, 나의 우정이라는 로망]]></title>
+        <id>https://alook.so/posts/G1tWy8</id>
+        <link href="https://alook.so/posts/G1tWy8"/>
+        <updated>2021-11-28T17:19:32.033Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tWy8">친구, 나의 우정이라는 로망</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이의 잘못은 모두 엄마때문인가요?]]></title>
+        <id>https://alook.so/posts/OEtjeo</id>
+        <link href="https://alook.so/posts/OEtjeo"/>
+        <updated>2021-11-28T17:19:32.037Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtjeo">아이의 잘못은 모두 엄마때문인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국의 10대가 불행하다 ?]]></title>
+        <id>https://alook.so/posts/vKtjWK</id>
+        <link href="https://alook.so/posts/vKtjWK"/>
+        <updated>2021-11-28T17:19:32.040Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtjWK">한국의 10대가 불행하다 ?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 많이 읽고 쓰는 것으로 좋은 글을 쓸 수 있다는 오해]]></title>
+        <id>https://alook.so/posts/E7tVYj</id>
+        <link href="https://alook.so/posts/E7tVYj"/>
+        <updated>2021-11-28T17:19:32.042Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVYj">답글: 많이 읽고 쓰는 것으로 좋은 글을 쓸 수 있다는 오해</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경매입문자를 위한 실전경매. 성공할 수 밖에 없는 저자의 노하우는?]]></title>
         <id>https://alook.so/posts/KmtaXW</id>
@@ -18,54 +60,5 @@
         <link href="https://alook.so/posts/mbtpPk"/>
         <updated>2021-11-28T16:20:57.346Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtpPk">주 4일제 연착륙을 위한 조건</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 좋아하는 계절은 무엇인가요?]]></title>
-        <id>https://alook.so/posts/54tqzM</id>
-        <link href="https://alook.so/posts/54tqzM"/>
-        <updated>2021-11-28T16:20:57.347Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tqzM">가장 좋아하는 계절은 무엇인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오징어 게임, 과연 '사회 문제 반영'해서 유행한 것일까요?]]></title>
-        <id>https://alook.so/posts/q1tara</id>
-        <link href="https://alook.so/posts/q1tara"/>
-        <updated>2021-11-28T16:20:57.349Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tara">오징어 게임, 과연 '사회 문제 반영'해서 유행한 것일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완전히 막을수는없지만 조금씩 보완해나가자]]></title>
-        <id>https://alook.so/posts/Djtxq9</id>
-        <link href="https://alook.so/posts/Djtxq9"/>
-        <updated>2021-11-28T16:20:57.351Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtxq9"> 완전히 막을수는없지만 조금씩 보완해나가자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 모두가 사회적 약자였고 약자가 될 것 입니다.]]></title>
-        <id>https://alook.so/posts/1RtnOZ</id>
-        <link href="https://alook.so/posts/1RtnOZ"/>
-        <updated>2021-11-28T16:20:57.353Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtnOZ">우리 모두가 사회적 약자였고 약자가 될 것 입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 학원강사다]]></title>
-        <id>https://alook.so/posts/o7t5mk</id>
-        <link href="https://alook.so/posts/o7t5mk"/>
-        <updated>2021-11-28T16:20:57.355Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5mk">나는 학원강사다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[×]]></title>
-        <id>https://alook.so/posts/70tLD8</id>
-        <link href="https://alook.so/posts/70tLD8"/>
-        <updated>2021-11-28T16:20:57.357Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tLD8">×</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앞으로 들어갈 돈이 너무 많아 부모님께 죄송해요]]></title>
-        <id>https://alook.so/posts/Yyt19Z</id>
-        <link href="https://alook.so/posts/Yyt19Z"/>
-        <updated>2021-11-28T16:20:57.359Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt19Z">앞으로 들어갈 돈이 너무 많아 부모님께 죄송해요</a>]]></content>
     </entry>
 </feed>
