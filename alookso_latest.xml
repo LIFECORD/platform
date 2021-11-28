@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-27T23:22:53.836Z</updated>
+    <updated>2021-11-28T00:49:28.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA["님아, 그 파워포인트를 열지 마오!"]]></title>
-        <id>https://alook.so/posts/eVtYzr</id>
-        <link href="https://alook.so/posts/eVtYzr"/>
-        <updated>2021-11-27T23:21:17.430Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtYzr">"님아, 그 파워포인트를 열지 마오!"</a>]]></content>
+        <title type="html"><![CDATA[보이스피싱 당하셨나요?]]></title>
+        <id>https://alook.so/posts/a0trBK</id>
+        <link href="https://alook.so/posts/a0trBK"/>
+        <updated>2021-11-28T00:47:59.342Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0trBK">보이스피싱 당하셨나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“고민”있을때 꼭 보세요]]></title>
-        <id>https://alook.so/posts/Vnt6mW</id>
-        <link href="https://alook.so/posts/Vnt6mW"/>
-        <updated>2021-11-27T23:21:17.433Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt6mW">“고민”있을때 꼭 보세요</a>]]></content>
+        <title type="html"><![CDATA[난 해고당했다...]]></title>
+        <id>https://alook.so/posts/ZktWR7</id>
+        <link href="https://alook.so/posts/ZktWR7"/>
+        <updated>2021-11-28T00:47:59.343Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktWR7">난 해고당했다...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 어쩌다 경단녀가 되었나....(1)]]></title>
-        <id>https://alook.so/posts/zvtp0D</id>
-        <link href="https://alook.so/posts/zvtp0D"/>
-        <updated>2021-11-27T19:11:34.001Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtp0D">나는 어쩌다 경단녀가 되었나....(1)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신이 잘 썼다고 생각한 글을 분석해 보는 건 어떠세요?]]></title>
-        <id>https://alook.so/posts/2xtZ05</id>
-        <link href="https://alook.so/posts/2xtZ05"/>
-        <updated>2021-11-27T18:16:23.667Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtZ05">자신이 잘 썼다고 생각한 글을 분석해 보는 건 어떠세요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갓 10대를 지난 20대의 글]]></title>
-        <id>https://alook.so/posts/WLtqDk</id>
-        <link href="https://alook.so/posts/WLtqDk"/>
-        <updated>2021-11-27T18:16:23.670Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtqDk">갓 10대를 지난 20대의 글</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여자운동선수의 삶이란]]></title>
-        <id>https://alook.so/posts/M9t1YY</id>
-        <link href="https://alook.so/posts/M9t1YY"/>
-        <updated>2021-11-27T18:16:23.675Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t1YY">여자운동선수의 삶이란</a>]]></content>
+        <title type="html"><![CDATA[답글: 손해라는 단어가 기본소득제에 어울리나요?]]></title>
+        <id>https://alook.so/posts/dztD3v</id>
+        <link href="https://alook.so/posts/dztD3v"/>
+        <updated>2021-11-28T00:47:59.345Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztD3v">답글: 손해라는 단어가 기본소득제에 어울리나요?</a>]]></content>
     </entry>
 </feed>
