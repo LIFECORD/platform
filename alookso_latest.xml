@@ -2,56 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-28T14:15:01.217Z</updated>
+    <updated>2021-11-28T15:18:06.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA["월드 스타"]]></title>
-        <id>https://alook.so/posts/xlt5Jw</id>
-        <link href="https://alook.so/posts/xlt5Jw"/>
-        <updated>2021-11-28T14:13:36.765Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt5Jw">"월드 스타"</a>]]></content>
+        <title type="html"><![CDATA[무제...]]></title>
+        <id>https://alook.so/posts/jdtr9b</id>
+        <link href="https://alook.so/posts/jdtr9b"/>
+        <updated>2021-11-28T15:16:39.071Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtr9b">무제...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['주 4일제'는 가능할까요?]]></title>
-        <id>https://alook.so/posts/RGtyqW</id>
-        <link href="https://alook.so/posts/RGtyqW"/>
-        <updated>2021-11-28T14:13:36.767Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtyqW">'주 4일제'는 가능할까요?</a>]]></content>
+        <title type="html"><![CDATA[명분이 없다 아닙니까, 명분이.]]></title>
+        <id>https://alook.so/posts/bWtXpp</id>
+        <link href="https://alook.so/posts/bWtXpp"/>
+        <updated>2021-11-28T15:16:39.077Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtXpp">명분이 없다 아닙니까, 명분이.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[K-pop 전 세계에서 인기있는 이유!!!]]></title>
-        <id>https://alook.so/posts/kZtrLb</id>
-        <link href="https://alook.so/posts/kZtrLb"/>
-        <updated>2021-11-28T14:13:36.768Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtrLb">K-pop 전 세계에서 인기있는 이유!!!</a>]]></content>
+        <title type="html"><![CDATA[얼룩소 에디터님을 만나고 왔습니다!]]></title>
+        <id>https://alook.so/posts/ZktJmO</id>
+        <link href="https://alook.so/posts/ZktJmO"/>
+        <updated>2021-11-28T15:16:39.081Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktJmO">얼룩소 에디터님을 만나고 왔습니다!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나도 아직 나를 모른다.]]></title>
-        <id>https://alook.so/posts/Bat7qJ</id>
-        <link href="https://alook.so/posts/Bat7qJ"/>
-        <updated>2021-11-28T14:13:36.769Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat7qJ">나도 아직 나를 모른다.</a>]]></content>
+        <title type="html"><![CDATA[돈내고 국회의원 할 사람이 있을까요?]]></title>
+        <id>https://alook.so/posts/dztGr7</id>
+        <link href="https://alook.so/posts/dztGr7"/>
+        <updated>2021-11-28T15:16:39.082Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztGr7">돈내고 국회의원 할 사람이 있을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저는 방사선사로서 제 직업추천합니다]]></title>
-        <id>https://alook.so/posts/LKtza0</id>
-        <link href="https://alook.so/posts/LKtza0"/>
-        <updated>2021-11-28T14:13:36.770Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtza0">저는 방사선사로서 제 직업추천합니다</a>]]></content>
+        <title type="html"><![CDATA[딱 남들 따라간 대가 만큼의 가치]]></title>
+        <id>https://alook.so/posts/J5tjrO</id>
+        <link href="https://alook.so/posts/J5tjrO"/>
+        <updated>2021-11-28T15:16:39.083Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tjrO">딱 남들 따라간 대가 만큼의 가치</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[흘러가는 시간이 점점 무서워요]]></title>
-        <id>https://alook.so/posts/njtywD</id>
-        <link href="https://alook.so/posts/njtywD"/>
-        <updated>2021-11-28T14:13:36.772Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtywD">흘러가는 시간이 점점 무서워요</a>]]></content>
+        <title type="html"><![CDATA[AI가 간호를 대체한다면?]]></title>
+        <id>https://alook.so/posts/potkK2</id>
+        <link href="https://alook.so/posts/potkK2"/>
+        <updated>2021-11-28T15:16:39.084Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potkK2">AI가 간호를 대체한다면?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남들과 비교하지 않으며 사는 법]]></title>
-        <id>https://alook.so/posts/6MtROn</id>
-        <link href="https://alook.so/posts/6MtROn"/>
-        <updated>2021-11-28T14:13:36.773Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtROn">남들과 비교하지 않으며 사는 법 </a>]]></content>
+        <title type="html"><![CDATA[쳇바퀴 같은 삶]]></title>
+        <id>https://alook.so/posts/eVtyrv</id>
+        <link href="https://alook.so/posts/eVtyrv"/>
+        <updated>2021-11-28T15:16:39.087Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtyrv">쳇바퀴 같은 삶</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혁신의 방법론을 고대하며]]></title>
+        <id>https://alook.so/posts/Pvt7en</id>
+        <link href="https://alook.so/posts/Pvt7en"/>
+        <updated>2021-11-28T15:16:39.088Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt7en">혁신의 방법론을 고대하며</a>]]></content>
     </entry>
 </feed>
