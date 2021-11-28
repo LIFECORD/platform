@@ -2,50 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-28T20:17:06.839Z</updated>
+    <updated>2021-11-28T21:14:01.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 치명적 코로나 변이, ‘오미크론’은 왜 만들어졌는가]]></title>
-        <id>https://alook.so/posts/yEtmjp</id>
-        <link href="https://alook.so/posts/yEtmjp"/>
-        <updated>2021-11-27T12:21:48.527Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmjp">답글: 치명적 코로나 변이, ‘오미크론’은 왜 만들어졌는가  </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 실험 10주 중 8주가 끝나간다.]]></title>
-        <id>https://alook.so/posts/6MtJbD</id>
-        <link href="https://alook.so/posts/6MtJbD"/>
-        <updated>2021-11-28T02:30:48.815Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtJbD">얼룩소 실험 10주 중 8주가 끝나간다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다른사람도 그래요]]></title>
-        <id>https://alook.so/posts/54tqW1</id>
-        <link href="https://alook.so/posts/54tqW1"/>
-        <updated>2021-11-28T12:22:51.197Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tqW1">다른사람도 그래요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보물지도]]></title>
-        <id>https://alook.so/posts/lat8B4</id>
-        <link href="https://alook.so/posts/lat8B4"/>
-        <updated>2021-11-28T14:13:45.552Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8B4">보물지도</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alookso 마이너 업데이트 이모저모]]></title>
-        <id>https://alook.so/posts/q1t7BL</id>
-        <link href="https://alook.so/posts/q1t7BL"/>
-        <updated>2021-11-27T05:12:58.726Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7BL">alookso 마이너 업데이트 이모저모</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행복했으면 좋겠습니다.]]></title>
-        <id>https://alook.so/posts/o7tRep</id>
-        <link href="https://alook.so/posts/o7tRep"/>
-        <updated>2021-11-28T13:20:33.231Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tRep">행복했으면 좋겠습니다.</a>]]></content>
+        <title type="html"><![CDATA[여러분의 삶에는 "성취감"이 있나요?]]></title>
+        <id>https://alook.so/posts/ZktJ9L</id>
+        <link href="https://alook.so/posts/ZktJ9L"/>
+        <updated>2021-11-28T12:22:51.196Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktJ9L">여러분의 삶에는 "성취감"이 있나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국어교육의 목표 중 하나, 글쓰기 능력 향상]]></title>
@@ -55,18 +20,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtRZK">국어교육의 목표 중 하나, 글쓰기 능력 향상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서로 다름을 인정하고 존중해야 해요.]]></title>
-        <id>https://alook.so/posts/OEtEk6</id>
-        <link href="https://alook.so/posts/OEtEk6"/>
-        <updated>2021-11-28T10:16:03.267Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtEk6">서로 다름을 인정하고 존중해야 해요.</a>]]></content>
+        <title type="html"><![CDATA[신호등만 깜빡하는 것이 아니네요.]]></title>
+        <id>https://alook.so/posts/q1t7Xx</id>
+        <link href="https://alook.so/posts/q1t7Xx"/>
+        <updated>2021-11-28T08:17:09.074Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7Xx">신호등만 깜빡하는 것이 아니네요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['당신의 경험은 보편적인 건 아니다'라는 폭력적인 말]]></title>
-        <id>https://alook.so/posts/E7tmyk</id>
-        <link href="https://alook.so/posts/E7tmyk"/>
-        <updated>2021-11-27T15:15:51.803Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tmyk">'당신의 경험은 보편적인 건 아니다'라는 폭력적인 말</a>]]></content>
+        <title type="html"><![CDATA[다른사람도 그래요]]></title>
+        <id>https://alook.so/posts/54tqW1</id>
+        <link href="https://alook.so/posts/54tqW1"/>
+        <updated>2021-11-28T12:22:51.197Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tqW1">다른사람도 그래요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나의 첫 알바, 첫 사회생활]]></title>
@@ -76,11 +41,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtr2J">나의 첫 알바, 첫 사회생활</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여러분의 삶에는 "성취감"이 있나요?]]></title>
-        <id>https://alook.so/posts/ZktJ9L</id>
-        <link href="https://alook.so/posts/ZktJ9L"/>
-        <updated>2021-11-28T12:22:51.196Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktJ9L">여러분의 삶에는 "성취감"이 있나요?</a>]]></content>
+        <title type="html"><![CDATA[보물지도]]></title>
+        <id>https://alook.so/posts/lat8B4</id>
+        <link href="https://alook.so/posts/lat8B4"/>
+        <updated>2021-11-28T14:13:45.552Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat8B4">보물지도</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[72세 아버지의 자유시간]]></title>
@@ -90,18 +55,53 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktl27">72세 아버지의 자유시간</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신호등만 깜빡하는 것이 아니네요.]]></title>
-        <id>https://alook.so/posts/q1t7Xx</id>
-        <link href="https://alook.so/posts/q1t7Xx"/>
-        <updated>2021-11-28T08:17:09.074Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7Xx">신호등만 깜빡하는 것이 아니네요.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Q1. 당신은 왜 책을 사나요?]]></title>
         <id>https://alook.so/posts/xlt7G2</id>
         <link href="https://alook.so/posts/xlt7G2"/>
         <updated>2021-11-28T02:30:48.819Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt7G2">Q1. 당신은 왜 책을 사나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서로 다름을 인정하고 존중해야 해요.]]></title>
+        <id>https://alook.so/posts/OEtEk6</id>
+        <link href="https://alook.so/posts/OEtEk6"/>
+        <updated>2021-11-28T10:16:03.267Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtEk6">서로 다름을 인정하고 존중해야 해요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 치명적 코로나 변이, ‘오미크론’은 왜 만들어졌는가]]></title>
+        <id>https://alook.so/posts/yEtmjp</id>
+        <link href="https://alook.so/posts/yEtmjp"/>
+        <updated>2021-11-27T12:21:48.527Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtmjp">답글: 치명적 코로나 변이, ‘오미크론’은 왜 만들어졌는가  </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['당신의 경험은 보편적인 건 아니다'라는 폭력적인 말]]></title>
+        <id>https://alook.so/posts/E7tmyk</id>
+        <link href="https://alook.so/posts/E7tmyk"/>
+        <updated>2021-11-27T15:15:51.803Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tmyk">'당신의 경험은 보편적인 건 아니다'라는 폭력적인 말</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alookso 마이너 업데이트 이모저모]]></title>
+        <id>https://alook.so/posts/q1t7BL</id>
+        <link href="https://alook.so/posts/q1t7BL"/>
+        <updated>2021-11-27T05:12:58.726Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t7BL">alookso 마이너 업데이트 이모저모</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 실험 10주 중 8주가 끝나간다.]]></title>
+        <id>https://alook.so/posts/6MtJbD</id>
+        <link href="https://alook.so/posts/6MtJbD"/>
+        <updated>2021-11-28T02:30:48.815Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtJbD">얼룩소 실험 10주 중 8주가 끝나간다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[행복했으면 좋겠습니다.]]></title>
+        <id>https://alook.so/posts/o7tRep</id>
+        <link href="https://alook.so/posts/o7tRep"/>
+        <updated>2021-11-28T13:20:33.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tRep">행복했으면 좋겠습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Omicron 변이 상황 정리]]></title>
