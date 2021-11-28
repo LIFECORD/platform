@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-28T03:16:34.287Z</updated>
+    <updated>2021-11-28T04:19:54.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[해 본 것과 못 해본 것 그러나 해 볼 것]]></title>
-        <id>https://alook.so/posts/E7tmxv</id>
-        <link href="https://alook.so/posts/E7tmxv"/>
-        <updated>2021-11-28T03:15:01.192Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tmxv">해 본 것과 못 해본 것 그러나 해 볼 것</a>]]></content>
+        <title type="html"><![CDATA[상류층이 되기를 원하시나요?]]></title>
+        <id>https://alook.so/posts/njtyzz</id>
+        <link href="https://alook.so/posts/njtyzz"/>
+        <updated>2021-11-28T04:18:21.157Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtyzz">상류층이 되기를 원하시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[친환경은 비싸고 불편할 수 밖에 없는 것일까요?]]></title>
-        <id>https://alook.so/posts/lat804</id>
-        <link href="https://alook.so/posts/lat804"/>
-        <updated>2021-11-28T03:15:01.193Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat804">친환경은 비싸고 불편할 수 밖에 없는 것일까요?</a>]]></content>
+        <title type="html"><![CDATA[내 인생에 볕이 들날이 있을까.]]></title>
+        <id>https://alook.so/posts/OEtEnW</id>
+        <link href="https://alook.so/posts/OEtEnW"/>
+        <updated>2021-11-28T04:18:21.158Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtEnW">내 인생에 볕이 들날이 있을까.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[* 브걸즈를 넘어 대중문화를 짚은 ~]]></title>
-        <id>https://alook.so/posts/Kmtq4y</id>
-        <link href="https://alook.so/posts/Kmtq4y"/>
-        <updated>2021-11-28T03:15:01.195Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtq4y">* 브걸즈를 넘어 대중문화를 짚은 ~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩커, 라는 낯설지만 친하고 싶은 이름에게]]></title>
-        <id>https://alook.so/posts/mbtV2M</id>
-        <link href="https://alook.so/posts/mbtV2M"/>
-        <updated>2021-11-28T03:15:01.196Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtV2M">얼룩커, 라는 낯설지만 친하고 싶은 이름에게</a>]]></content>
+        <title type="html"><![CDATA[<경력 단절에서 경력 보유로>]]></title>
+        <id>https://alook.so/posts/Kmtq4d</id>
+        <link href="https://alook.so/posts/Kmtq4d"/>
+        <updated>2021-11-28T04:18:21.159Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtq4d">&lt;경력 단절에서 경력 보유로&gt;</a>]]></content>
     </entry>
 </feed>
