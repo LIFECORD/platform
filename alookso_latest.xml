@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-28T21:14:01.053Z</updated>
+    <updated>2021-11-28T22:16:29.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -25,26 +25,5 @@
         <link href="https://alook.so/posts/VntRj2"/>
         <updated>2021-11-28T20:15:40.336Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntRj2">은둔형 외톨이 청년들에게 기회를 …</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론]]></title>
-        <id>https://alook.so/posts/2xt3yk</id>
-        <link href="https://alook.so/posts/2xt3yk"/>
-        <updated>2021-11-28T20:15:40.338Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt3yk">오미크론</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저의 직업은 추천합니다!]]></title>
-        <id>https://alook.so/posts/0ktDdX</id>
-        <link href="https://alook.so/posts/0ktDdX"/>
-        <updated>2021-11-28T20:15:40.338Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktDdX">저의 직업은 추천합니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은 성별끼리 결혼에 관련된 의견]]></title>
-        <id>https://alook.so/posts/XBtDGl</id>
-        <link href="https://alook.so/posts/XBtDGl"/>
-        <updated>2021-11-28T20:15:40.338Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtDGl">같은 성별끼리 결혼에 관련된 의견</a>]]></content>
     </entry>
 </feed>
