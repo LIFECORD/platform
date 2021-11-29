@@ -2,42 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-29T07:16:48.115Z</updated>
+    <updated>2021-11-29T08:19:35.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[인도서 또 집단성폭행..16살 소녀, 경찰포함 수백명에 당해..[이럴수가 있나요?]]]></title>
-        <id>https://alook.so/posts/Pvt7xV</id>
-        <link href="https://alook.so/posts/Pvt7xV"/>
-        <updated>2021-11-29T07:15:24.640Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt7xV">인도서 또 집단성폭행..16살 소녀, 경찰포함 수백명에 당해..[이럴수가 있나요?]</a>]]></content>
+        <title type="html"><![CDATA[올해 나의 관심사 3 - 나이 먹음]]></title>
+        <id>https://alook.so/posts/6MtR1V</id>
+        <link href="https://alook.so/posts/6MtR1V"/>
+        <updated>2021-11-29T08:18:05.043Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtR1V">올해 나의 관심사 3 - 나이 먹음</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소에서 직업이야기 하기 3]]></title>
-        <id>https://alook.so/posts/zvtljm</id>
-        <link href="https://alook.so/posts/zvtljm"/>
-        <updated>2021-11-29T07:15:24.641Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtljm">얼룩소에서 직업이야기 하기 3</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선이요? 파시즘이 덜한 쪽을 뽑을 겁니다]]></title>
-        <id>https://alook.so/posts/2xt37w</id>
-        <link href="https://alook.so/posts/2xt37w"/>
-        <updated>2021-11-29T07:15:24.642Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt37w">대선이요? 파시즘이 덜한 쪽을 뽑을 겁니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[놀 자유를 잃어버린 아이들]]></title>
-        <id>https://alook.so/posts/0ktDLw</id>
-        <link href="https://alook.so/posts/0ktDLw"/>
-        <updated>2021-11-29T07:15:24.643Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktDLw">놀 자유를 잃어버린 아이들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소, 만원, 그리고 나의 용돈 생활]]></title>
-        <id>https://alook.so/posts/4Xt6lX</id>
-        <link href="https://alook.so/posts/4Xt6lX"/>
-        <updated>2021-11-29T07:15:24.644Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt6lX">얼룩소, 만원, 그리고 나의 용돈 생활</a>]]></content>
+        <title type="html"><![CDATA[저의 답례품]]></title>
+        <id>https://alook.so/posts/E7tVd7</id>
+        <link href="https://alook.so/posts/E7tVd7"/>
+        <updated>2021-11-29T08:18:05.044Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVd7">저의 답례품</a>]]></content>
     </entry>
 </feed>
