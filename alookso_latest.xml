@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-29T10:18:24.840Z</updated>
+    <updated>2021-11-29T11:14:32.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[자존감이 결핍된 인간]]></title>
-        <id>https://alook.so/posts/92tyZa</id>
-        <link href="https://alook.so/posts/92tyZa"/>
-        <updated>2021-11-29T10:17:05.994Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tyZa">자존감이 결핍된 인간</a>]]></content>
+        <title type="html"><![CDATA[꺄악~~저도 드디어 1K 됐어요~폴짝~폴짝]]></title>
+        <id>https://alook.so/posts/RGty0Y</id>
+        <link href="https://alook.so/posts/RGty0Y"/>
+        <updated>2021-11-29T11:13:02.797Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGty0Y">꺄악~~저도 드디어 1K 됐어요~폴짝~폴짝</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저도 글 꾸준히 쓰고 싶었어요]]></title>
-        <id>https://alook.so/posts/54tq8Z</id>
-        <link href="https://alook.so/posts/54tq8Z"/>
-        <updated>2021-11-29T10:17:05.995Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tq8Z">저도 글 꾸준히 쓰고 싶었어요</a>]]></content>
+        <title type="html"><![CDATA[이제야사게되네요.]]></title>
+        <id>https://alook.so/posts/kZtrnz</id>
+        <link href="https://alook.so/posts/kZtrnz"/>
+        <updated>2021-11-29T11:13:02.802Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtrnz">이제야사게되네요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이런 시도는 어떨까?]]></title>
-        <id>https://alook.so/posts/q1taRV</id>
-        <link href="https://alook.so/posts/q1taRV"/>
-        <updated>2021-11-29T10:17:05.996Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1taRV">이런 시도는 어떨까?</a>]]></content>
+        <title type="html"><![CDATA[세입자에게 세금이 전가된다]]></title>
+        <id>https://alook.so/posts/yEt3M6</id>
+        <link href="https://alook.so/posts/yEt3M6"/>
+        <updated>2021-11-29T11:13:02.802Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt3M6">세입자에게 세금이 전가된다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여행을 떠나요~]]></title>
-        <id>https://alook.so/posts/1Rtn5m</id>
-        <link href="https://alook.so/posts/1Rtn5m"/>
-        <updated>2021-11-29T10:17:05.997Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtn5m">여행을 떠나요~</a>]]></content>
+        <title type="html"><![CDATA[통일]]></title>
+        <id>https://alook.so/posts/Bat7GR</id>
+        <link href="https://alook.so/posts/Bat7GR"/>
+        <updated>2021-11-29T11:13:02.802Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat7GR">통일</a>]]></content>
     </entry>
 </feed>
