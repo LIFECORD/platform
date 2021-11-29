@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-29T02:32:52.901Z</updated>
+    <updated>2021-11-29T03:16:55.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[범죄걱정 그나마 해외보단 상황이 좋은것 같아요~]]></title>
-        <id>https://alook.so/posts/1RtnY1</id>
-        <link href="https://alook.so/posts/1RtnY1"/>
-        <updated>2021-11-29T02:31:30.511Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtnY1">범죄걱정 그나마 해외보단 상황이 좋은것 같아요~</a>]]></content>
+        <title type="html"><![CDATA[답글: 글쓰기 능력 향상 - 영어, 수학도 잘사기 위한 기본 조건]]></title>
+        <id>https://alook.so/posts/njtyWx</id>
+        <link href="https://alook.so/posts/njtyWx"/>
+        <updated>2021-11-29T03:15:29.510Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtyWx">답글: 글쓰기 능력 향상 - 영어, 수학도 잘사기 위한 기본 조건</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[음주 운전 어떻게 하면 줄어들 수 있을까요?]]></title>
-        <id>https://alook.so/posts/Yyt1Xx</id>
-        <link href="https://alook.so/posts/Yyt1Xx"/>
-        <updated>2021-11-29T02:31:30.512Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt1Xx">음주 운전 어떻게 하면 줄어들 수 있을까요?</a>]]></content>
+        <title type="html"><![CDATA[Omicron 이름에 관한 아주 기초적인 이야기 하나.]]></title>
+        <id>https://alook.so/posts/3wtvGV</id>
+        <link href="https://alook.so/posts/3wtvGV"/>
+        <updated>2021-11-29T03:15:29.511Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtvGV">Omicron 이름에 관한 아주 기초적인 이야기 하나.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강아지가 이렇게 배추를 좋아하다니?!]]></title>
-        <id>https://alook.so/posts/rDtzrx</id>
-        <link href="https://alook.so/posts/rDtzrx"/>
-        <updated>2021-11-29T02:31:30.513Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzrx">강아지가 이렇게 배추를 좋아하다니?!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘주 6일제’에서 ‘주 5일제’로, 이젠 ‘주 4일제’ 도입]]></title>
-        <id>https://alook.so/posts/a0tzvD</id>
-        <link href="https://alook.so/posts/a0tzvD"/>
-        <updated>2021-11-29T02:31:30.514Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tzvD">‘주 6일제’에서 ‘주 5일제’로, 이젠 ‘주 4일제’ 도입</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카톡이 저를 해고 했습니다.]]></title>
-        <id>https://alook.so/posts/dztGvK</id>
-        <link href="https://alook.so/posts/dztGvK"/>
-        <updated>2021-11-29T02:31:30.515Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztGvK">카톡이 저를 해고 했습니다.</a>]]></content>
+        <title type="html"><![CDATA[정신병 환자로 이 세상에서 살아남기]]></title>
+        <id>https://alook.so/posts/G1tWn2</id>
+        <link href="https://alook.so/posts/G1tWn2"/>
+        <updated>2021-11-29T03:15:29.513Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tWn2">정신병 환자로 이 세상에서 살아남기</a>]]></content>
     </entry>
 </feed>
