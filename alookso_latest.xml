@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-29T14:15:26.846Z</updated>
+    <updated>2021-11-29T15:17:27.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[실명과 익명]]></title>
-        <id>https://alook.so/posts/DjtxxO</id>
-        <link href="https://alook.so/posts/DjtxxO"/>
-        <updated>2021-11-29T14:14:06.716Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtxxO">실명과 익명</a>]]></content>
+        <title type="html"><![CDATA[언니도 이렇게 수없이 쓸쓸한 세월을 견뎌낸거지?]]></title>
+        <id>https://alook.so/posts/Bat77d</id>
+        <link href="https://alook.so/posts/Bat77d"/>
+        <updated>2021-11-29T15:15:56.783Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat77d">언니도 이렇게 수없이 쓸쓸한 세월을 견뎌낸거지?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[레깅스를 입은 사람을 보면 불편하시나요?]]></title>
-        <id>https://alook.so/posts/1Rtnnx</id>
-        <link href="https://alook.so/posts/1Rtnnx"/>
-        <updated>2021-11-29T14:14:06.717Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtnnx">레깅스를 입은 사람을 보면 불편하시나요?</a>]]></content>
+        <title type="html"><![CDATA[가장 가까운 남들]]></title>
+        <id>https://alook.so/posts/LKtzzp</id>
+        <link href="https://alook.so/posts/LKtzzp"/>
+        <updated>2021-11-29T15:15:56.784Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtzzp">가장 가까운 남들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고객님의 찐 경험담에 놀랐어여!]]></title>
-        <id>https://alook.so/posts/70tLLm</id>
-        <link href="https://alook.so/posts/70tLLm"/>
-        <updated>2021-11-29T14:14:06.717Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tLLm">고객님의 찐 경험담에 놀랐어여!</a>]]></content>
+        <title type="html"><![CDATA[소통의 교착상태를 돌파하는 용기]]></title>
+        <id>https://alook.so/posts/6MtRRG</id>
+        <link href="https://alook.so/posts/6MtRRG"/>
+        <updated>2021-11-29T15:15:56.785Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtRRG">소통의 교착상태를 돌파하는 용기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가까운 미래에는 음식에 대한 걱정이 조금은 줄지 않을까요?]]></title>
-        <id>https://alook.so/posts/rDtzzR</id>
-        <link href="https://alook.so/posts/rDtzzR"/>
-        <updated>2021-11-29T14:14:06.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzzR">가까운 미래에는 음식에 대한 걱정이 조금은 줄지 않을까요?</a>]]></content>
+        <title type="html"><![CDATA[사진의 의미, 가치]]></title>
+        <id>https://alook.so/posts/8WtvvG</id>
+        <link href="https://alook.so/posts/8WtvvG"/>
+        <updated>2021-11-29T15:15:56.786Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtvvG">사진의 의미, 가치</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국의 특색을 이질적이지않게 담아내다]]></title>
+        <id>https://alook.so/posts/G1tWW4</id>
+        <link href="https://alook.so/posts/G1tWW4"/>
+        <updated>2021-11-29T15:15:56.788Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tWW4">한국의 특색을 이질적이지않게 담아내다 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글와 일반글을 구분해서 정렬해 주시면 어떨까요.]]></title>
+        <id>https://alook.so/posts/E7tVVB</id>
+        <link href="https://alook.so/posts/E7tVVB"/>
+        <updated>2021-11-29T15:15:56.789Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVVB">답글와 일반글을 구분해서 정렬해 주시면 어떨까요.</a>]]></content>
     </entry>
 </feed>
