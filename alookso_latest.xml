@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-29T03:16:55.616Z</updated>
+    <updated>2021-11-29T04:20:50.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 글쓰기 능력 향상 - 영어, 수학도 잘사기 위한 기본 조건]]></title>
-        <id>https://alook.so/posts/njtyWx</id>
-        <link href="https://alook.so/posts/njtyWx"/>
-        <updated>2021-11-29T03:15:29.510Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtyWx">답글: 글쓰기 능력 향상 - 영어, 수학도 잘사기 위한 기본 조건</a>]]></content>
+        <title type="html"><![CDATA[컬러링북에 꽂혔어요]]></title>
+        <id>https://alook.so/posts/Yyt1Zx</id>
+        <link href="https://alook.so/posts/Yyt1Zx"/>
+        <updated>2021-11-29T04:19:20.058Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt1Zx">컬러링북에 꽂혔어요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Omicron 이름에 관한 아주 기초적인 이야기 하나.]]></title>
-        <id>https://alook.so/posts/3wtvGV</id>
-        <link href="https://alook.so/posts/3wtvGV"/>
-        <updated>2021-11-29T03:15:29.511Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtvGV">Omicron 이름에 관한 아주 기초적인 이야기 하나.</a>]]></content>
+        <title type="html"><![CDATA[외모 강박증 있으세요?]]></title>
+        <id>https://alook.so/posts/bWtXmY</id>
+        <link href="https://alook.so/posts/bWtXmY"/>
+        <updated>2021-11-29T04:19:20.059Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtXmY">외모 강박증 있으세요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정신병 환자로 이 세상에서 살아남기]]></title>
-        <id>https://alook.so/posts/G1tWn2</id>
-        <link href="https://alook.so/posts/G1tWn2"/>
-        <updated>2021-11-29T03:15:29.513Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tWn2">정신병 환자로 이 세상에서 살아남기</a>]]></content>
+        <title type="html"><![CDATA[사주, 타로 믿습니까?]]></title>
+        <id>https://alook.so/posts/dztG4K</id>
+        <link href="https://alook.so/posts/dztG4K"/>
+        <updated>2021-11-29T04:19:20.060Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztG4K">사주, 타로 믿습니까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[흙수저 탈출기. 10] 암호화폐 투자해도 괜찮을까요?]]></title>
+        <id>https://alook.so/posts/potknk</id>
+        <link href="https://alook.so/posts/potknk"/>
+        <updated>2021-11-29T04:19:20.061Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potknk">[흙수저 탈출기. 10] 암호화폐 투자해도 괜찮을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가짜 배고픔]]></title>
+        <id>https://alook.so/posts/eVtyDY</id>
+        <link href="https://alook.so/posts/eVtyDY"/>
+        <updated>2021-11-29T04:19:20.062Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtyDY">가짜 배고픔</a>]]></content>
     </entry>
 </feed>
