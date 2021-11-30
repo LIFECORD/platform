@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-30T19:13:08.341Z</updated>
+    <updated>2021-11-30T20:17:10.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -25,19 +25,5 @@
         <link href="https://alook.so/posts/54tqeD"/>
         <updated>2021-11-30T19:11:41.158Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tqeD">한국의 시스템은 선진국</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사장이 건물주에게 당하는 갑질,]]></title>
-        <id>https://alook.so/posts/q1taL9</id>
-        <link href="https://alook.so/posts/q1taL9"/>
-        <updated>2021-11-30T19:11:41.159Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1taL9">사장이 건물주에게 당하는 갑질,</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조명은 괜찮아요]]></title>
-        <id>https://alook.so/posts/DjtxWX</id>
-        <link href="https://alook.so/posts/DjtxWX"/>
-        <updated>2021-11-30T19:11:41.160Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtxWX">조명은 괜찮아요</a>]]></content>
     </entry>
 </feed>
