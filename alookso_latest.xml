@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-30T10:15:56.564Z</updated>
+    <updated>2021-11-30T11:12:20.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[바람이 세차게 부는 오후]]></title>
-        <id>https://alook.so/posts/njty4d</id>
-        <link href="https://alook.so/posts/njty4d"/>
-        <updated>2021-11-30T10:14:32.995Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njty4d">바람이 세차게 부는 오후</a>]]></content>
+        <title type="html"><![CDATA[얼룩소야 고마워🐄]]></title>
+        <id>https://alook.so/posts/dztGWr</id>
+        <link href="https://alook.so/posts/dztGWr"/>
+        <updated>2021-11-30T11:10:58.298Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztGWr">얼룩소야 고마워🐄</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이래서 믿고 맞을수있을까?]]></title>
-        <id>https://alook.so/posts/G1tWDe</id>
-        <link href="https://alook.so/posts/G1tWDe"/>
-        <updated>2021-11-30T10:14:32.995Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tWDe">이래서 믿고 맞을수있을까?</a>]]></content>
+        <title type="html"><![CDATA[무가치함]]></title>
+        <id>https://alook.so/posts/J5tjZy</id>
+        <link href="https://alook.so/posts/J5tjZy"/>
+        <updated>2021-11-30T11:10:58.298Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tjZy">무가치함</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 1K 클럽 멤버 되신 겁니까?^^]]></title>
-        <id>https://alook.so/posts/E7tVO0</id>
-        <link href="https://alook.so/posts/E7tVO0"/>
-        <updated>2021-11-30T10:14:32.995Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVO0">얼룩소 1K 클럽 멤버 되신 겁니까?^^</a>]]></content>
+        <title type="html"><![CDATA[주 4일제의 장점과 단점, 여러분들의 생각은?]]></title>
+        <id>https://alook.so/posts/potkRL</id>
+        <link href="https://alook.so/posts/potkRL"/>
+        <updated>2021-11-30T11:10:58.299Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potkRL">주 4일제의 장점과 단점, 여러분들의 생각은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[까라면 까세요]]></title>
-        <id>https://alook.so/posts/92tyPP</id>
-        <link href="https://alook.so/posts/92tyPP"/>
-        <updated>2021-11-30T10:14:32.997Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tyPP">까라면 까세요</a>]]></content>
+        <title type="html"><![CDATA[몇 가지 노력으로 막는 기후위기]]></title>
+        <id>https://alook.so/posts/eVtynV</id>
+        <link href="https://alook.so/posts/eVtynV"/>
+        <updated>2021-11-30T11:10:58.300Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtynV">몇 가지 노력으로 막는 기후위기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모병제 변경]]></title>
+        <id>https://alook.so/posts/VntRpy</id>
+        <link href="https://alook.so/posts/VntRpy"/>
+        <updated>2021-11-30T11:10:58.301Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntRpy">모병제 변경</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보험료 내는 게 부담이 될 때가 있나요?]]></title>
+        <id>https://alook.so/posts/0ktD0a</id>
+        <link href="https://alook.so/posts/0ktD0a"/>
+        <updated>2021-11-30T11:10:58.302Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktD0a">보험료 내는 게 부담이 될 때가 있나요?</a>]]></content>
     </entry>
 </feed>
