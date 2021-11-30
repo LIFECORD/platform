@@ -2,14 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-30T05:12:59.936Z</updated>
+    <updated>2021-11-30T06:16:00.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[(2)진영을 떠나 팩트를 추구한다는 말에 대하여> 팩트 대신 이해를 제공하라]]></title>
-        <id>https://alook.so/posts/E7tV8y</id>
-        <link href="https://alook.so/posts/E7tV8y"/>
-        <updated>2021-11-30T05:11:40.804Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tV8y">(2)진영을 떠나 팩트를 추구한다는 말에 대하여&gt; 팩트 대신 이해를 제공하라</a>]]></content>
+        <title type="html"><![CDATA[계속 성장하고 계신가요?]]></title>
+        <id>https://alook.so/posts/kZtr08</id>
+        <link href="https://alook.so/posts/kZtr08"/>
+        <updated>2021-11-30T06:14:38.610Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtr08">계속 성장하고 계신가요?    </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저 해결했습니다]]></title>
+        <id>https://alook.so/posts/yEt3qd</id>
+        <link href="https://alook.so/posts/yEt3qd"/>
+        <updated>2021-11-30T06:14:38.611Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt3qd">저 해결했습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래의 먹거리는 무엇으로 진화할까요?]]></title>
+        <id>https://alook.so/posts/njtyvV</id>
+        <link href="https://alook.so/posts/njtyvV"/>
+        <updated>2021-11-30T06:14:38.612Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtyvV">미래의 먹거리는 무엇으로 진화할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 겪은 사기 사건.]]></title>
+        <id>https://alook.so/posts/6MtRK5</id>
+        <link href="https://alook.so/posts/6MtRK5"/>
+        <updated>2021-11-30T06:14:38.613Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtRK5">내가 겪은 사기 사건.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후위기, 우리가 막을 수 있을까요?]]></title>
+        <id>https://alook.so/posts/OEtjzP</id>
+        <link href="https://alook.so/posts/OEtjzP"/>
+        <updated>2021-11-30T06:14:38.614Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtjzP">기후위기, 우리가 막을 수 있을까요?</a>]]></content>
     </entry>
 </feed>
