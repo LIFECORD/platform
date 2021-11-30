@@ -2,35 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-30T08:16:50.463Z</updated>
+    <updated>2021-11-30T09:14:29.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[늘린다]]></title>
-        <id>https://alook.so/posts/0ktDwb</id>
-        <link href="https://alook.so/posts/0ktDwb"/>
-        <updated>2021-11-30T08:15:10.949Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktDwb">늘린다</a>]]></content>
+        <title type="html"><![CDATA[JUST DO IT]]></title>
+        <id>https://alook.so/posts/Kmta32</id>
+        <link href="https://alook.so/posts/Kmta32"/>
+        <updated>2021-11-30T09:13:02.063Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmta32">JUST DO IT</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여러분의 스트레스 해소법은 무엇인가요??]]></title>
-        <id>https://alook.so/posts/4Xt6d5</id>
-        <link href="https://alook.so/posts/4Xt6d5"/>
-        <updated>2021-11-30T08:15:10.968Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt6d5">여러분의 스트레스 해소법은 무엇인가요??</a>]]></content>
+        <title type="html"><![CDATA[인생의 외로움은 어디서 달래야 할까요]]></title>
+        <id>https://alook.so/posts/mbtpMP</id>
+        <link href="https://alook.so/posts/mbtpMP"/>
+        <updated>2021-11-30T09:13:02.064Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtpMP">인생의 외로움은 어디서 달래야 할까요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[맨박스 관점의 접근]]></title>
-        <id>https://alook.so/posts/xlt5M3</id>
-        <link href="https://alook.so/posts/xlt5M3"/>
-        <updated>2021-11-30T08:15:10.968Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt5M3">맨박스 관점의 접근</a>]]></content>
+        <title type="html"><![CDATA[열심히 대충 사는 어른]]></title>
+        <id>https://alook.so/posts/54tqb4</id>
+        <link href="https://alook.so/posts/54tqb4"/>
+        <updated>2021-11-30T09:13:02.066Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tqb4">열심히 대충 사는 어른</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 전 좀 봤습니다.ㅋ]]></title>
-        <id>https://alook.so/posts/kZtrP8</id>
-        <link href="https://alook.so/posts/kZtrP8"/>
-        <updated>2021-11-30T08:15:11.067Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtrP8">답글: 전 좀 봤습니다.ㅋ</a>]]></content>
+        <title type="html"><![CDATA[왜  저는 이제 얼룩소를 알았을까요??]]></title>
+        <id>https://alook.so/posts/o7t5Zy</id>
+        <link href="https://alook.so/posts/o7t5Zy"/>
+        <updated>2021-11-30T09:13:02.067Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5Zy">왜  저는 이제 얼룩소를 알았을까요??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[69년 만의 귀환]]></title>
+        <id>https://alook.so/posts/70tL6b</id>
+        <link href="https://alook.so/posts/70tL6b"/>
+        <updated>2021-11-30T09:13:02.068Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tL6b">69년 만의 귀환</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퇴사하고싶다 퇴사하고싶다 퇴사하고싶ㄷㅏ]]></title>
+        <id>https://alook.so/posts/Yyt1y2</id>
+        <link href="https://alook.so/posts/Yyt1y2"/>
+        <updated>2021-11-30T09:13:02.070Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt1y2">퇴사하고싶다 퇴사하고싶다 퇴사하고싶ㄷㅏ</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오해하지 않습니다]]></title>
+        <id>https://alook.so/posts/rDtznE</id>
+        <link href="https://alook.so/posts/rDtznE"/>
+        <updated>2021-11-30T09:13:02.071Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtznE">오해하지 않습니다</a>]]></content>
     </entry>
 </feed>
