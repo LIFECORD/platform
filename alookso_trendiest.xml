@@ -2,85 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-11-30T17:22:42.577Z</updated>
+    <updated>2021-11-30T18:18:52.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA["사랑이란 불편한 삶의 가장 세련된 형태다"]]></title>
-        <id>https://alook.so/posts/Bat7vR</id>
-        <link href="https://alook.so/posts/Bat7vR"/>
-        <updated>2021-11-30T02:18:08.343Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat7vR">"사랑이란 불편한 삶의 가장 세련된 형태다"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페미니즘은 남성을 위한 운동?!]]></title>
-        <id>https://alook.so/posts/jdtrlk</id>
-        <link href="https://alook.so/posts/jdtrlk"/>
-        <updated>2021-11-30T03:13:05.338Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtrlk">페미니즘은 남성을 위한 운동?!</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[다음에 보자]]></title>
         <id>https://alook.so/posts/LKtzVp</id>
         <link href="https://alook.so/posts/LKtzVp"/>
         <updated>2021-11-30T10:14:41.609Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtzVp">다음에 보자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오해하지 않습니다]]></title>
-        <id>https://alook.so/posts/rDtznE</id>
-        <link href="https://alook.so/posts/rDtznE"/>
-        <updated>2021-11-30T17:21:21.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtznE">오해하지 않습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음이 비포장도로처럼 울퉁불퉁해.]]></title>
-        <id>https://alook.so/posts/w9ta8Z</id>
-        <link href="https://alook.so/posts/w9ta8Z"/>
-        <updated>2021-11-30T11:11:06.420Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9ta8Z">마음이 비포장도로처럼 울퉁불퉁해.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼자라는 생각이 든다면]]></title>
-        <id>https://alook.so/posts/o7t5xG</id>
-        <link href="https://alook.so/posts/o7t5xG"/>
-        <updated>2021-11-30T13:14:18.116Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5xG">혼자라는 생각이 든다면</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아픔이란 스승.]]></title>
-        <id>https://alook.so/posts/XBtDDy</id>
-        <link href="https://alook.so/posts/XBtDDy"/>
-        <updated>2021-11-30T04:15:49.353Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtDDy">아픔이란 스승.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2)진영을 떠나 팩트를 추구한다는 말에 대하여> 팩트 대신 이해를 제공하라]]></title>
-        <id>https://alook.so/posts/E7tV8y</id>
-        <link href="https://alook.so/posts/E7tV8y"/>
-        <updated>2021-11-30T11:11:06.406Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tV8y">(2)진영을 떠나 팩트를 추구한다는 말에 대하여&gt; 팩트 대신 이해를 제공하라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진정한 사랑은 독립적이고 동등한 개인들 사이에서만 가능하다. (가족에 관하여)]]></title>
-        <id>https://alook.so/posts/jdtrVV</id>
-        <link href="https://alook.so/posts/jdtrVV"/>
-        <updated>2021-11-30T08:15:21.862Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtrVV">진정한 사랑은 독립적이고 동등한 개인들 사이에서만 가능하다. (가족에 관하여)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애한테 미안하다는 생각 안 들어요?]]></title>
-        <id>https://alook.so/posts/zvtlpP</id>
-        <link href="https://alook.so/posts/zvtlpP"/>
-        <updated>2021-11-30T03:13:05.337Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtlpP">애한테 미안하다는 생각 안 들어요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음 +마음=자신감]]></title>
-        <id>https://alook.so/posts/kZtr7w</id>
-        <link href="https://alook.so/posts/kZtr7w"/>
-        <updated>2021-11-30T13:14:18.116Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtr7w">마음 +마음=자신감</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백신 3차 접종, 정말 백신 외의 대안은 없는 걸까요?]]></title>
@@ -90,11 +20,32 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtaen">백신 3차 접종, 정말 백신 외의 대안은 없는 걸까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이름만으로 판단하지 말자구요]]></title>
-        <id>https://alook.so/posts/LKtzGM</id>
-        <link href="https://alook.so/posts/LKtzGM"/>
-        <updated>2021-11-29T23:15:26.453Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtzGM">이름만으로 판단하지 말자구요</a>]]></content>
+        <title type="html"><![CDATA[제주를 선물합니다.]]></title>
+        <id>https://alook.so/posts/latZYE</id>
+        <link href="https://alook.so/posts/latZYE"/>
+        <updated>2021-11-29T06:18:23.049Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latZYE">제주를 선물합니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아픔이란 스승.]]></title>
+        <id>https://alook.so/posts/XBtDDy</id>
+        <link href="https://alook.so/posts/XBtDDy"/>
+        <updated>2021-11-30T04:15:49.353Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtDDy">아픔이란 스승.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직도 잠만 자는 당신에게.]]></title>
+        <id>https://alook.so/posts/RGtyEO</id>
+        <link href="https://alook.so/posts/RGtyEO"/>
+        <updated>2021-11-30T07:13:47.988Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtyEO">아직도 잠만 자는 당신에게.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["사랑이란 불편한 삶의 가장 세련된 형태다"]]></title>
+        <id>https://alook.so/posts/Bat7vR</id>
+        <link href="https://alook.so/posts/Bat7vR"/>
+        <updated>2021-11-30T02:18:08.343Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat7vR">"사랑이란 불편한 삶의 가장 세련된 형태다"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꺄악~~저도 드디어 1K 됐어요~폴짝~폴짝]]></title>
@@ -111,25 +62,46 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtvMn">배달 하다가 길에 앉아계신 할머니와 손자(아이)에게 치킨을 사드렸습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사주팔자를 보신적 있으세요? 얼마나 믿으세요?]]></title>
-        <id>https://alook.so/posts/w9ta3P</id>
-        <link href="https://alook.so/posts/w9ta3P"/>
-        <updated>2021-11-30T15:15:38.568Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9ta3P">사주팔자를 보신적 있으세요? 얼마나 믿으세요?</a>]]></content>
+        <title type="html"><![CDATA[페미니즘은 남성을 위한 운동?!]]></title>
+        <id>https://alook.so/posts/jdtrlk</id>
+        <link href="https://alook.so/posts/jdtrlk"/>
+        <updated>2021-11-30T03:13:05.338Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtrlk">페미니즘은 남성을 위한 운동?!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제주를 선물합니다.]]></title>
-        <id>https://alook.so/posts/latZYE</id>
-        <link href="https://alook.so/posts/latZYE"/>
-        <updated>2021-11-29T06:18:23.049Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latZYE">제주를 선물합니다. </a>]]></content>
+        <title type="html"><![CDATA[마음 +마음=자신감]]></title>
+        <id>https://alook.so/posts/kZtr7w</id>
+        <link href="https://alook.so/posts/kZtr7w"/>
+        <updated>2021-11-30T13:14:18.116Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtr7w">마음 +마음=자신감</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아직도 잠만 자는 당신에게.]]></title>
-        <id>https://alook.so/posts/RGtyEO</id>
-        <link href="https://alook.so/posts/RGtyEO"/>
-        <updated>2021-11-30T07:13:47.988Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtyEO">아직도 잠만 자는 당신에게.</a>]]></content>
+        <title type="html"><![CDATA[이름만으로 판단하지 말자구요]]></title>
+        <id>https://alook.so/posts/LKtzGM</id>
+        <link href="https://alook.so/posts/LKtzGM"/>
+        <updated>2021-11-29T23:15:26.453Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtzGM">이름만으로 판단하지 말자구요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마음이 비포장도로처럼 울퉁불퉁해.]]></title>
+        <id>https://alook.so/posts/w9ta8Z</id>
+        <link href="https://alook.so/posts/w9ta8Z"/>
+        <updated>2021-11-30T11:11:06.420Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9ta8Z">마음이 비포장도로처럼 울퉁불퉁해.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혼자라는 생각이 든다면]]></title>
+        <id>https://alook.so/posts/o7t5xG</id>
+        <link href="https://alook.so/posts/o7t5xG"/>
+        <updated>2021-11-30T13:14:18.116Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5xG">혼자라는 생각이 든다면</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애한테 미안하다는 생각 안 들어요?]]></title>
+        <id>https://alook.so/posts/zvtlpP</id>
+        <link href="https://alook.so/posts/zvtlpP"/>
+        <updated>2021-11-30T03:13:05.337Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtlpP">애한테 미안하다는 생각 안 들어요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스물여덟,스트릿댄서는 세아이의 엄마가 되었다]]></title>
@@ -139,10 +111,38 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtyVX">스물여덟,스트릿댄서는 세아이의 엄마가 되었다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오해하지 않습니다]]></title>
+        <id>https://alook.so/posts/rDtznE</id>
+        <link href="https://alook.so/posts/rDtznE"/>
+        <updated>2021-11-30T17:21:21.473Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtznE">오해하지 않습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(2)진영을 떠나 팩트를 추구한다는 말에 대하여> 팩트 대신 이해를 제공하라]]></title>
+        <id>https://alook.so/posts/E7tV8y</id>
+        <link href="https://alook.so/posts/E7tV8y"/>
+        <updated>2021-11-30T11:11:06.406Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tV8y">(2)진영을 떠나 팩트를 추구한다는 말에 대하여&gt; 팩트 대신 이해를 제공하라</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[나의 제주 정착기 1]]></title>
         <id>https://alook.so/posts/Pvt7vR</id>
         <link href="https://alook.so/posts/Pvt7vR"/>
         <updated>2021-11-30T12:19:23.324Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt7vR">나의 제주 정착기 1</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사주팔자를 보신적 있으세요? 얼마나 믿으세요?]]></title>
+        <id>https://alook.so/posts/w9ta3P</id>
+        <link href="https://alook.so/posts/w9ta3P"/>
+        <updated>2021-11-30T15:15:38.568Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9ta3P">사주팔자를 보신적 있으세요? 얼마나 믿으세요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진정한 사랑은 독립적이고 동등한 개인들 사이에서만 가능하다. (가족에 관하여)]]></title>
+        <id>https://alook.so/posts/jdtrVV</id>
+        <link href="https://alook.so/posts/jdtrVV"/>
+        <updated>2021-11-30T08:15:21.862Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtrVV">진정한 사랑은 독립적이고 동등한 개인들 사이에서만 가능하다. (가족에 관하여)</a>]]></content>
     </entry>
 </feed>
