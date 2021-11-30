@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-30T20:17:10.295Z</updated>
+    <updated>2021-11-30T21:15:36.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오미크론을 이기자. 얼룩커 모든분들 매일 아침 좋아하는 음악 한곡씩 꼭 들으세요.]]></title>
+        <id>https://alook.so/posts/3wtvPm</id>
+        <link href="https://alook.so/posts/3wtvPm"/>
+        <updated>2021-11-30T21:14:10.199Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtvPm">오미크론을 이기자. 얼룩커 모든분들 매일 아침 좋아하는 음악 한곡씩 꼭 들으세요.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그럴때도 있는거죠]]></title>
         <id>https://alook.so/posts/E7tVD1</id>
@@ -18,12 +25,5 @@
         <link href="https://alook.so/posts/latZ4j"/>
         <updated>2021-11-30T19:11:41.157Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latZ4j">코로나 10세 미만 첫 사망, 매우 안타까운 소식입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 시스템은 선진국]]></title>
-        <id>https://alook.so/posts/54tqeD</id>
-        <link href="https://alook.so/posts/54tqeD"/>
-        <updated>2021-11-30T19:11:41.158Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tqeD">한국의 시스템은 선진국</a>]]></content>
     </entry>
 </feed>
