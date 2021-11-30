@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-30T13:15:31.039Z</updated>
+    <updated>2021-11-30T14:15:46.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[2021.11.30 - 말 한마디의 중요성 (?)]]></title>
-        <id>https://alook.so/posts/RGtybd</id>
-        <link href="https://alook.so/posts/RGtybd"/>
-        <updated>2021-11-30T13:14:09.977Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtybd">2021.11.30 - 말 한마디의 중요성 (?)</a>]]></content>
+        <title type="html"><![CDATA[인사철 풍경]]></title>
+        <id>https://alook.so/posts/latZdX</id>
+        <link href="https://alook.so/posts/latZdX"/>
+        <updated>2021-11-30T14:14:12.236Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latZdX">인사철 풍경</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[상냥함은 정말 필요한 것일까요?]]></title>
-        <id>https://alook.so/posts/kZtrD9</id>
-        <link href="https://alook.so/posts/kZtrD9"/>
-        <updated>2021-11-30T13:14:09.978Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtrD9">상냥함은 정말 필요한 것일까요?</a>]]></content>
+        <title type="html"><![CDATA[코로나 시대 요즘 어디에 꽂혔습니까?]]></title>
+        <id>https://alook.so/posts/q1taMW</id>
+        <link href="https://alook.so/posts/q1taMW"/>
+        <updated>2021-11-30T14:14:12.238Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1taMW">코로나 시대 요즘 어디에 꽂혔습니까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 진영을 떠나 팩트를 추구한다는 말을 저도 믿지 않습니다. 언론 뿐만 아니라 어디든.]]></title>
-        <id>https://alook.so/posts/LKtzkr</id>
-        <link href="https://alook.so/posts/LKtzkr"/>
-        <updated>2021-11-30T13:14:09.979Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtzkr">답글: 진영을 떠나 팩트를 추구한다는 말을 저도 믿지 않습니다. 언론 뿐만 아니라 어디든.</a>]]></content>
+        <title type="html"><![CDATA[봉사는 여러가지 형태로 표현되는 거 아닌가요?]]></title>
+        <id>https://alook.so/posts/1Rtndr</id>
+        <link href="https://alook.so/posts/1Rtndr"/>
+        <updated>2021-11-30T14:14:12.238Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtndr">봉사는 여러가지 형태로 표현되는 거 아닌가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남들은 싫어하지만 나는 좋아하는 일]]></title>
-        <id>https://alook.so/posts/6MtRBP</id>
-        <link href="https://alook.so/posts/6MtRBP"/>
-        <updated>2021-11-30T12:19:15.621Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtRBP">남들은 싫어하지만 나는 좋아하는 일</a>]]></content>
+        <title type="html"><![CDATA[기후변화와 코로나19, 놀랍도록 닮은 두가지]]></title>
+        <id>https://alook.so/posts/o7t5o5</id>
+        <link href="https://alook.so/posts/o7t5o5"/>
+        <updated>2021-11-30T14:14:12.240Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5o5">기후변화와 코로나19, 놀랍도록 닮은 두가지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스타트업 근무자, 주4일제 가능할까요?]]></title>
-        <id>https://alook.so/posts/3wtv49</id>
-        <link href="https://alook.so/posts/3wtv49"/>
-        <updated>2021-11-30T12:19:15.621Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtv49">스타트업 근무자, 주4일제 가능할까요?</a>]]></content>
+        <title type="html"><![CDATA[오미크론 벌써 의심자 4명...]]></title>
+        <id>https://alook.so/posts/70tLdJ</id>
+        <link href="https://alook.so/posts/70tLdJ"/>
+        <updated>2021-11-30T14:14:12.241Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tLdJ">오미크론 벌써 의심자 4명...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상호공존에 노력을 기울이자!-!]]></title>
+        <id>https://alook.so/posts/Yyt1rP</id>
+        <link href="https://alook.so/posts/Yyt1rP"/>
+        <updated>2021-11-30T14:14:12.242Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt1rP">상호공존에 노력을 기울이자!-!</a>]]></content>
     </entry>
 </feed>
