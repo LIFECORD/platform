@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-11-30T01:50:45.154Z</updated>
+    <updated>2021-11-30T02:19:21.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[기술의 발전은 일자리를 줄이지만 고급인력은 늘리게 될것이다.]]></title>
+        <id>https://alook.so/posts/4Xt64y</id>
+        <link href="https://alook.so/posts/4Xt64y"/>
+        <updated>2021-11-30T02:17:59.246Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt64y">기술의 발전은 일자리를 줄이지만 고급인력은 늘리게 될것이다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수요는 많은데 구매력은 토막나는 중]]></title>
+        <id>https://alook.so/posts/w9taER</id>
+        <link href="https://alook.so/posts/w9taER"/>
+        <updated>2021-11-30T02:17:59.249Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9taER">수요는 많은데 구매력은 토막나는 중</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월급 빼고 다 올랐네요..]]></title>
+        <id>https://alook.so/posts/RGtyxD</id>
+        <link href="https://alook.so/posts/RGtyxD"/>
+        <updated>2021-11-30T02:17:59.250Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtyxD">월급 빼고 다 올랐네요..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스물여덟,스트릿댄서는 세아이의 엄마가 되었다]]></title>
         <id>https://alook.so/posts/njtyVX</id>
         <link href="https://alook.so/posts/njtyVX"/>
         <updated>2021-11-30T01:49:18.905Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtyVX">스물여덟,스트릿댄서는 세아이의 엄마가 되었다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울은 경기도 전체가 서울진입대기수요입니다]]></title>
-        <id>https://alook.so/posts/3wtvOE</id>
-        <link href="https://alook.so/posts/3wtvOE"/>
-        <updated>2021-11-30T01:49:18.907Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtvOE">서울은 경기도 전체가 서울진입대기수요입니다</a>]]></content>
     </entry>
 </feed>
