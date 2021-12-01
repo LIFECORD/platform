@@ -2,28 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-01T09:17:07.165Z</updated>
+    <updated>2021-12-01T10:17:31.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[또 한 명의 희생양]]></title>
-        <id>https://alook.so/posts/o7t5Ya</id>
-        <link href="https://alook.so/posts/o7t5Ya"/>
-        <updated>2021-12-01T09:15:40.617Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5Ya">또 한 명의 희생양</a>]]></content>
+        <title type="html"><![CDATA[투자]]></title>
+        <id>https://alook.so/posts/vKtjLM</id>
+        <link href="https://alook.so/posts/vKtjLM"/>
+        <updated>2021-12-01T10:16:06.276Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtjLM">투자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[K-POP은 어떻게 태국 군부 독재와 충돌하는가]]></title>
-        <id>https://alook.so/posts/rDtzP8</id>
-        <link href="https://alook.so/posts/rDtzP8"/>
-        <updated>2021-12-01T09:15:40.619Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzP8">K-POP은 어떻게 태국 군부 독재와 충돌하는가</a>]]></content>
+        <title type="html"><![CDATA[10대는 왜 불행할까요?]]></title>
+        <id>https://alook.so/posts/latZMM</id>
+        <link href="https://alook.so/posts/latZMM"/>
+        <updated>2021-12-01T10:16:06.279Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latZMM">10대는 왜 불행할까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글쓰기 공포증? 이 글 하나면 해결됩니다.]]></title>
-        <id>https://alook.so/posts/bWtXvO</id>
-        <link href="https://alook.so/posts/bWtXvO"/>
-        <updated>2021-12-01T09:15:40.620Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtXvO">글쓰기 공포증? 이 글 하나면 해결됩니다.</a>]]></content>
+        <title type="html"><![CDATA[사람들은 혼란을 싫어한다]]></title>
+        <id>https://alook.so/posts/92tyO8</id>
+        <link href="https://alook.so/posts/92tyO8"/>
+        <updated>2021-12-01T10:16:06.281Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tyO8">사람들은 혼란을 싫어한다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[먹고 사는 이야기가 바로 예술]]></title>
+        <id>https://alook.so/posts/Kmtawj</id>
+        <link href="https://alook.so/posts/Kmtawj"/>
+        <updated>2021-12-01T10:16:06.282Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtawj">먹고 사는 이야기가 바로 예술</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글]]></title>
+        <id>https://alook.so/posts/mbtpv6</id>
+        <link href="https://alook.so/posts/mbtpv6"/>
+        <updated>2021-12-01T10:16:06.283Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtpv6">답글</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿈과 현실]]></title>
+        <id>https://alook.so/posts/q1ta94</id>
+        <link href="https://alook.so/posts/q1ta94"/>
+        <updated>2021-12-01T10:16:06.285Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1ta94">꿈과 현실</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[친구되는게 쉬운줄 알았어🐄]]></title>
+        <id>https://alook.so/posts/Djtx5W</id>
+        <link href="https://alook.so/posts/Djtx5W"/>
+        <updated>2021-12-01T10:16:06.287Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtx5W">친구되는게 쉬운줄 알았어🐄</a>]]></content>
     </entry>
 </feed>
