@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-01T21:14:21.609Z</updated>
+    <updated>2021-12-01T22:18:00.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[모든 곡이 0원인 ‘무가치한 앨범’ (FIGK)]]></title>
@@ -1645,6 +1645,13 @@
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[댓글테러도 당해보고 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/G1tWLo</id>
+        <link href="https://alook.so/posts/G1tWLo"/>
+        <updated>2021-12-01T22:16:36.974Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tWLo">댓글테러도 당해보고</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[군대에 간 적 없는 모르는 사람 왈 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/vKtjl0</id>
         <link href="https://alook.so/posts/vKtjl0"/>
@@ -1657,48 +1664,6 @@
         <link href="https://alook.so/posts/E7tVLx"/>
         <updated>2021-12-01T20:16:01.818Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVLx">국회의원의 수에 대한 생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대학 졸업장은 가치가 있다. 하지만 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/mbtpmd</id>
-        <link href="https://alook.so/posts/mbtpmd"/>
-        <updated>2021-12-01T20:16:01.819Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtpmd">대학 졸업장은 가치가 있다. 하지만</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사실 나를 넘어서야 이곳을 떠나고,  나를 이겨내야 그곳에 이른다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Djtx0P</id>
-        <link href="https://alook.so/posts/Djtx0P"/>
-        <updated>2021-12-01T19:12:48.637Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtx0P">사실 나를 넘어서야 이곳을 떠나고,  나를 이겨내야 그곳에 이른다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행복, 덤덤  불행, 요란 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/w9tajb</id>
-        <link href="https://alook.so/posts/w9tajb"/>
-        <updated>2021-12-01T13:22:49.326Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tajb">행복, 덤덤  불행, 요란</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시니어 고객 맞춤형 ATM (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/a0tzWO</id>
-        <link href="https://alook.so/posts/a0tzWO"/>
-        <updated>2021-12-01T20:16:10.917Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tzWO">시니어 고객 맞춤형 ATM</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 제주 정착기 1 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Pvt7vR</id>
-        <link href="https://alook.so/posts/Pvt7vR"/>
-        <updated>2021-11-30T12:19:23.324Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt7vR">나의 제주 정착기 1</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 제주 정착기 2 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/ZktJDK</id>
-        <link href="https://alook.so/posts/ZktJDK"/>
-        <updated>2021-12-01T09:15:49.531Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktJDK">나의 제주 정착기 2</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헤어지기 쉬운 남자가 좋다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -1715,6 +1680,20 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtnk0">여러분은 어떤 궁궐을 좋아하시나요?(경복궁, 창덕궁, 창경궁, 덕수궁, 경희궁)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[사주팔자를 보신적 있으세요? 얼마나 믿으세요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/w9ta3P</id>
+        <link href="https://alook.so/posts/w9ta3P"/>
+        <updated>2021-11-30T15:15:38.568Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9ta3P">사주팔자를 보신적 있으세요? 얼마나 믿으세요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시니어 고객 맞춤형 ATM (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/a0tzWO</id>
+        <link href="https://alook.so/posts/a0tzWO"/>
+        <updated>2021-12-01T20:16:10.917Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tzWO">시니어 고객 맞춤형 ATM</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[배달 하다가 길에 앉아계신 할머니와 손자(아이)에게 치킨을 사드렸습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/3wtvMn</id>
         <link href="https://alook.so/posts/3wtvMn"/>
@@ -1729,27 +1708,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtyVX">스물여덟,스트릿댄서는 세아이의 엄마가 되었다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 잘되실 것 같아요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/92tyxW</id>
-        <link href="https://alook.so/posts/92tyxW"/>
-        <updated>2021-12-01T17:22:33.411Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tyxW">더 잘되실 것 같아요. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사주팔자를 보신적 있으세요? 얼마나 믿으세요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/w9ta3P</id>
-        <link href="https://alook.so/posts/w9ta3P"/>
-        <updated>2021-11-30T15:15:38.568Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9ta3P">사주팔자를 보신적 있으세요? 얼마나 믿으세요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와~얼룩소 좋아요 100 달성했어요! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/G1tWPL</id>
-        <link href="https://alook.so/posts/G1tWPL"/>
-        <updated>2021-12-01T18:17:48.245Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tWPL">와~얼룩소 좋아요 100 달성했어요!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나이40에   재테크시작 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/1RtnGJ</id>
         <link href="https://alook.so/posts/1RtnGJ"/>
@@ -1757,10 +1715,45 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtnGJ">나이40에   재테크시작</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[더 잘되실 것 같아요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/92tyxW</id>
+        <link href="https://alook.so/posts/92tyxW"/>
+        <updated>2021-12-01T17:22:33.411Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tyxW">더 잘되실 것 같아요. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 제주 정착기 1 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Pvt7vR</id>
+        <link href="https://alook.so/posts/Pvt7vR"/>
+        <updated>2021-11-30T12:19:23.324Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt7vR">나의 제주 정착기 1</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이야기를 나눠요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/Pvt7VJ</id>
         <link href="https://alook.so/posts/Pvt7VJ"/>
         <updated>2021-12-01T07:15:04.291Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt7VJ">이야기를 나눠요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 제주 정착기 2 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/ZktJDK</id>
+        <link href="https://alook.so/posts/ZktJDK"/>
+        <updated>2021-12-01T09:15:49.531Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktJDK">나의 제주 정착기 2</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[행복, 덤덤  불행, 요란 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/w9tajb</id>
+        <link href="https://alook.so/posts/w9tajb"/>
+        <updated>2021-12-01T13:22:49.326Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tajb">행복, 덤덤  불행, 요란</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와~얼룩소 좋아요 100 달성했어요! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/G1tWPL</id>
+        <link href="https://alook.so/posts/G1tWPL"/>
+        <updated>2021-12-01T18:17:48.245Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tWPL">와~얼룩소 좋아요 100 달성했어요!</a>]]></content>
     </entry>
 </feed>

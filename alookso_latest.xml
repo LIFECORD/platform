@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-01T21:14:21.585Z</updated>
+    <updated>2021-12-01T22:18:00.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[댓글테러도 당해보고]]></title>
+        <id>https://alook.so/posts/G1tWLo</id>
+        <link href="https://alook.so/posts/G1tWLo"/>
+        <updated>2021-12-01T22:16:36.974Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tWLo">댓글테러도 당해보고</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[군대에 간 적 없는 모르는 사람 왈]]></title>
         <id>https://alook.so/posts/vKtjl0</id>
@@ -18,19 +25,5 @@
         <link href="https://alook.so/posts/E7tVLx"/>
         <updated>2021-12-01T20:16:01.818Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVLx">국회의원의 수에 대한 생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대학 졸업장은 가치가 있다. 하지만]]></title>
-        <id>https://alook.so/posts/mbtpmd</id>
-        <link href="https://alook.so/posts/mbtpmd"/>
-        <updated>2021-12-01T20:16:01.819Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtpmd">대학 졸업장은 가치가 있다. 하지만</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사실 나를 넘어서야 이곳을 떠나고,  나를 이겨내야 그곳에 이른다]]></title>
-        <id>https://alook.so/posts/Djtx0P</id>
-        <link href="https://alook.so/posts/Djtx0P"/>
-        <updated>2021-12-01T19:12:48.637Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtx0P">사실 나를 넘어서야 이곳을 떠나고,  나를 이겨내야 그곳에 이른다</a>]]></content>
     </entry>
 </feed>
