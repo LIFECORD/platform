@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-01T15:17:58.842Z</updated>
+    <updated>2021-12-01T16:24:33.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[플래너와 함께하는 2022년 준비하기]]></title>
-        <id>https://alook.so/posts/kZtr4y</id>
-        <link href="https://alook.so/posts/kZtr4y"/>
-        <updated>2021-12-01T15:16:31.066Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtr4y">플래너와 함께하는 2022년 준비하기</a>]]></content>
+        <title type="html"><![CDATA[데이터'를' 이야기하기(4)-정보 불평등 시대의 "데이터 저널리즘"]]></title>
+        <id>https://alook.so/posts/4Xt62x</id>
+        <link href="https://alook.so/posts/4Xt62x"/>
+        <updated>2021-12-01T16:23:07.328Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt62x">데이터'를' 이야기하기(4)-정보 불평등 시대의 "데이터 저널리즘"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국의 10대가 불행한 이유]]></title>
-        <id>https://alook.so/posts/6MtRom</id>
-        <link href="https://alook.so/posts/6MtRom"/>
-        <updated>2021-12-01T15:16:31.068Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtRom">한국의 10대가 불행한 이유</a>]]></content>
+        <title type="html"><![CDATA[돈 벌 생각이 없는 사람들의 핑계]]></title>
+        <id>https://alook.so/posts/XBtDxd</id>
+        <link href="https://alook.so/posts/XBtDxd"/>
+        <updated>2021-12-01T16:23:07.329Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtDxd">돈 벌 생각이 없는 사람들의 핑계</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제조업 현장에서 보는 능력주의란]]></title>
-        <id>https://alook.so/posts/OEtj0L</id>
-        <link href="https://alook.so/posts/OEtj0L"/>
-        <updated>2021-12-01T15:16:31.069Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtj0L">제조업 현장에서 보는 능력주의란</a>]]></content>
+        <title type="html"><![CDATA[미리하는 걱정 문제일까요?]]></title>
+        <id>https://alook.so/posts/w9taLa</id>
+        <link href="https://alook.so/posts/w9taLa"/>
+        <updated>2021-12-01T16:23:07.330Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9taLa">미리하는 걱정 문제일까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7년 반 동안 자영업 중입니다.]]></title>
+        <id>https://alook.so/posts/xlt5w7</id>
+        <link href="https://alook.so/posts/xlt5w7"/>
+        <updated>2021-12-01T16:23:07.331Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt5w7">7년 반 동안 자영업 중입니다.</a>]]></content>
     </entry>
 </feed>
