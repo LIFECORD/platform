@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-01T14:15:44.505Z</updated>
+    <updated>2021-12-01T15:17:58.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[바다]]></title>
-        <id>https://alook.so/posts/1Rtn9d</id>
-        <link href="https://alook.so/posts/1Rtn9d"/>
-        <updated>2021-12-01T14:14:20.928Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtn9d">바다</a>]]></content>
+        <title type="html"><![CDATA[플래너와 함께하는 2022년 준비하기]]></title>
+        <id>https://alook.so/posts/kZtr4y</id>
+        <link href="https://alook.so/posts/kZtr4y"/>
+        <updated>2021-12-01T15:16:31.066Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtr4y">플래너와 함께하는 2022년 준비하기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 당첨이요?]]></title>
-        <id>https://alook.so/posts/o7t5JD</id>
-        <link href="https://alook.so/posts/o7t5JD"/>
-        <updated>2021-12-01T14:14:20.928Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5JD">답글: 당첨이요? </a>]]></content>
+        <title type="html"><![CDATA[한국의 10대가 불행한 이유]]></title>
+        <id>https://alook.so/posts/6MtRom</id>
+        <link href="https://alook.so/posts/6MtRom"/>
+        <updated>2021-12-01T15:16:31.068Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtRom">한국의 10대가 불행한 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[같은 성별끼리 결혼해도 될까요?]]></title>
-        <id>https://alook.so/posts/70tL7B</id>
-        <link href="https://alook.so/posts/70tL7B"/>
-        <updated>2021-12-01T14:14:20.929Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tL7B">같은 성별끼리 결혼해도 될까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언어의 장벽]]></title>
-        <id>https://alook.so/posts/Yyt1py</id>
-        <link href="https://alook.so/posts/Yyt1py"/>
-        <updated>2021-12-01T14:14:20.930Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt1py">언어의 장벽</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼해도 되나요?]]></title>
-        <id>https://alook.so/posts/rDtzq3</id>
-        <link href="https://alook.so/posts/rDtzq3"/>
-        <updated>2021-12-01T14:14:20.931Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzq3">결혼해도 되나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환경,재능,절실함이 이룬 성과]]></title>
-        <id>https://alook.so/posts/bWtXnE</id>
-        <link href="https://alook.so/posts/bWtXnE"/>
-        <updated>2021-12-01T14:14:20.934Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtXnE">환경,재능,절실함이 이룬 성과</a>]]></content>
+        <title type="html"><![CDATA[제조업 현장에서 보는 능력주의란]]></title>
+        <id>https://alook.so/posts/OEtj0L</id>
+        <link href="https://alook.so/posts/OEtj0L"/>
+        <updated>2021-12-01T15:16:31.069Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtj0L">제조업 현장에서 보는 능력주의란</a>]]></content>
     </entry>
 </feed>
