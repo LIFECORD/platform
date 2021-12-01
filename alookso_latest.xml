@@ -2,63 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-01T08:19:23.709Z</updated>
+    <updated>2021-12-01T09:17:07.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[다시 할 수 있을까요??]]></title>
-        <id>https://alook.so/posts/4Xt6n0</id>
-        <link href="https://alook.so/posts/4Xt6n0"/>
-        <updated>2021-12-01T08:17:59.579Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt6n0">다시 할 수 있을까요??</a>]]></content>
+        <title type="html"><![CDATA[또 한 명의 희생양]]></title>
+        <id>https://alook.so/posts/o7t5Ya</id>
+        <link href="https://alook.so/posts/o7t5Ya"/>
+        <updated>2021-12-01T09:15:40.617Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5Ya">또 한 명의 희생양</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국은 선진국인가요?]]></title>
-        <id>https://alook.so/posts/XBtDrx</id>
-        <link href="https://alook.so/posts/XBtDrx"/>
-        <updated>2021-12-01T08:17:59.580Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtDrx">한국은 선진국인가요?</a>]]></content>
+        <title type="html"><![CDATA[K-POP은 어떻게 태국 군부 독재와 충돌하는가]]></title>
+        <id>https://alook.so/posts/rDtzP8</id>
+        <link href="https://alook.so/posts/rDtzP8"/>
+        <updated>2021-12-01T09:15:40.619Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzP8">K-POP은 어떻게 태국 군부 독재와 충돌하는가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[질문14] 청소년은 꼭 학교에 일찍 등교해야 하나요?]]></title>
-        <id>https://alook.so/posts/xlt5m4</id>
-        <link href="https://alook.so/posts/xlt5m4"/>
-        <updated>2021-12-01T08:17:59.581Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt5m4">[질문14] 청소년은 꼭 학교에 일찍 등교해야 하나요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코딱지만한 나라가 성공한 이유]]></title>
-        <id>https://alook.so/posts/RGtyeX</id>
-        <link href="https://alook.so/posts/RGtyeX"/>
-        <updated>2021-12-01T08:17:59.583Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtyeX">코딱지만한 나라가 성공한 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여러분들의 11월은 어떠셨나요 ?]]></title>
-        <id>https://alook.so/posts/kZtr22</id>
-        <link href="https://alook.so/posts/kZtr22"/>
-        <updated>2021-12-01T08:17:59.584Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtr22">여러분들의 11월은 어떠셨나요 ?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말에 꼭 생각나는 인생드라마, 인생영화]]></title>
-        <id>https://alook.so/posts/yEt37e</id>
-        <link href="https://alook.so/posts/yEt37e"/>
-        <updated>2021-12-01T08:17:59.586Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt37e">연말에 꼭 생각나는 인생드라마, 인생영화</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[할머니는 백신 맞고 응급실에 가셨지만]]></title>
-        <id>https://alook.so/posts/Bat7Jz</id>
-        <link href="https://alook.so/posts/Bat7Jz"/>
-        <updated>2021-12-01T08:17:59.587Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat7Jz">할머니는 백신 맞고 응급실에 가셨지만</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국방비, 더 써야 할까요 줄여야 할까요?]]></title>
-        <id>https://alook.so/posts/LKtz1q</id>
-        <link href="https://alook.so/posts/LKtz1q"/>
-        <updated>2021-12-01T08:17:59.588Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtz1q">국방비, 더 써야 할까요 줄여야 할까요?</a>]]></content>
+        <title type="html"><![CDATA[글쓰기 공포증? 이 글 하나면 해결됩니다.]]></title>
+        <id>https://alook.so/posts/bWtXvO</id>
+        <link href="https://alook.so/posts/bWtXvO"/>
+        <updated>2021-12-01T09:15:40.620Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtXvO">글쓰기 공포증? 이 글 하나면 해결됩니다.</a>]]></content>
     </entry>
 </feed>
