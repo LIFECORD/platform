@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-02T15:15:20.551Z</updated>
+    <updated>2021-12-02T16:27:42.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://alook.so/posts/3wtvVj"/>
         <updated>2021-12-02T13:21:30.107Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtvVj">2021.12.02</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라에서 엘사는 공주님이 아니에요.  LH 사는 아이....]]></title>
+        <id>https://alook.so/posts/rDtzez</id>
+        <link href="https://alook.so/posts/rDtzez"/>
+        <updated>2021-12-02T16:26:20.273Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzez">우리나라에서 엘사는 공주님이 아니에요.  LH 사는 아이....</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삶의 의미가 물질이 아닐 필요도 없다.]]></title>
@@ -67,13 +74,6 @@
         <link href="https://alook.so/posts/o7t5el"/>
         <updated>2021-12-02T09:15:00.663Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5el">성동구, 경력보유 인력 POOL 활용 해 '관내기업-개인’ 간 성공적인 돌봄노동 가치 재확인! (2022.12.02)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나 자신과의 약속]]></title>
-        <id>https://alook.so/posts/70tLrk</id>
-        <link href="https://alook.so/posts/70tLrk"/>
-        <updated>2021-12-02T13:21:30.118Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tLrk">나 자신과의 약속</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노키즈존 이어 노중년존 캠핑장? 40대 이상 커플 예약 불가]]></title>
