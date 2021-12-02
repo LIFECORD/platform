@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-02T11:14:54.332Z</updated>
+    <updated>2021-12-02T12:24:15.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzVq">답글: 추가 접종의 효과가 나타나려면 얼마나 시간이 걸릴까요</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[높임말과 맞춤법 공부 절대적으로 필요하다]]></title>
+        <id>https://alook.so/posts/latZ7m</id>
+        <link href="https://alook.so/posts/latZ7m"/>
+        <updated>2021-12-02T09:15:00.662Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latZ7m">높임말과 맞춤법 공부 절대적으로 필요하다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[헤어지기 쉬운 남자가 좋다]]></title>
         <id>https://alook.so/posts/LKtz5D</id>
         <link href="https://alook.so/posts/LKtz5D"/>
@@ -46,13 +53,6 @@
         <link href="https://alook.so/posts/rDtzP8"/>
         <updated>2021-12-02T11:13:29.054Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzP8">K-POP은 어떻게 태국 군부 독재와 충돌하는가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[높임말과 맞춤법 공부 절대적으로 필요하다]]></title>
-        <id>https://alook.so/posts/latZ7m</id>
-        <link href="https://alook.so/posts/latZ7m"/>
-        <updated>2021-12-02T09:15:00.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latZ7m">높임말과 맞춤법 공부 절대적으로 필요하다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[카우레터_B컷] 한국인은 물질주의자?!]]></title>
@@ -69,18 +69,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtXP6">호남은 어떻게 '전라디언'이 되었는가 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나의 제주 정착기 2]]></title>
-        <id>https://alook.so/posts/ZktJDK</id>
-        <link href="https://alook.so/posts/ZktJDK"/>
-        <updated>2021-12-02T11:13:29.068Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktJDK">나의 제주 정착기 2</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[방역 강화 vs 방역 완화, 제로섬 게임이 아닙니다.]]></title>
         <id>https://alook.so/posts/rDtzLq</id>
         <link href="https://alook.so/posts/rDtzLq"/>
         <updated>2021-12-02T08:18:47.076Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzLq">방역 강화 vs 방역 완화, 제로섬 게임이 아닙니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 제주 정착기 2]]></title>
+        <id>https://alook.so/posts/ZktJDK</id>
+        <link href="https://alook.so/posts/ZktJDK"/>
+        <updated>2021-12-02T11:13:29.068Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktJDK">나의 제주 정착기 2</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저는 오늘 퇴사를 결심했습니다.]]></title>
@@ -118,6 +118,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt7VJ">이야기를 나눠요</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[제조업 현장에서 보는 능력주의란]]></title>
+        <id>https://alook.so/posts/OEtj0L</id>
+        <link href="https://alook.so/posts/OEtj0L"/>
+        <updated>2021-12-02T12:22:58.150Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtj0L">제조업 현장에서 보는 능력주의란</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한국 미디어시장 탐구생활(2): 진영을 떠나 팩트를 추구한다는 말에 대하여]]></title>
         <id>https://alook.so/posts/yEt3xk</id>
         <link href="https://alook.so/posts/yEt3xk"/>
@@ -125,17 +132,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt3xk">한국 미디어시장 탐구생활(2): 진영을 떠나 팩트를 추구한다는 말에 대하여</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스물여덟,스트릿댄서는 세아이의 엄마가 되었다]]></title>
-        <id>https://alook.so/posts/njtyVX</id>
-        <link href="https://alook.so/posts/njtyVX"/>
-        <updated>2021-12-02T11:13:29.083Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtyVX">스물여덟,스트릿댄서는 세아이의 엄마가 되었다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[육아휴직 사용 권장을 통한 ‘성동구-관내기업-개인' 간 돌봄과정 참여로 돌봄노동에 대한 인식개선이 필요합니다.]]></title>
         <id>https://alook.so/posts/o7t5el</id>
         <link href="https://alook.so/posts/o7t5el"/>
         <updated>2021-12-02T09:15:00.663Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5el">육아휴직 사용 권장을 통한 ‘성동구-관내기업-개인' 간 돌봄과정 참여로 돌봄노동에 대한 인식개선이 필요합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스물여덟,스트릿댄서는 세아이의 엄마가 되었다]]></title>
+        <id>https://alook.so/posts/njtyVX</id>
+        <link href="https://alook.so/posts/njtyVX"/>
+        <updated>2021-12-02T11:13:29.083Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtyVX">스물여덟,스트릿댄서는 세아이의 엄마가 되었다</a>]]></content>
     </entry>
 </feed>
