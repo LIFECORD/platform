@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-02T17:22:44.866Z</updated>
+    <updated>2021-12-02T18:19:30.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[알아봐줘서 고마워.]]></title>
+        <id>https://alook.so/posts/KmtaJk</id>
+        <link href="https://alook.so/posts/KmtaJk"/>
+        <updated>2021-12-02T18:17:58.733Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtaJk">알아봐줘서 고마워.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이에게 미안하고 속상한 날 (4살 아들)]]></title>
         <id>https://alook.so/posts/q1tawG</id>
@@ -25,19 +32,5 @@
         <link href="https://alook.so/posts/Yyt1dd"/>
         <updated>2021-12-02T17:21:13.015Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt1dd">갖고싶다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충분치않다]]></title>
-        <id>https://alook.so/posts/rDtzKB</id>
-        <link href="https://alook.so/posts/rDtzKB"/>
-        <updated>2021-12-02T17:21:13.017Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzKB">충분치않다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정말 내가 바보같이 산 건 아니죠???]]></title>
-        <id>https://alook.so/posts/E7tVyJ</id>
-        <link href="https://alook.so/posts/E7tVyJ"/>
-        <updated>2021-12-02T17:21:13.018Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVyJ">정말 내가 바보같이 산 건 아니죠???</a>]]></content>
     </entry>
 </feed>
