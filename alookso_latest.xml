@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-02T00:49:12.013Z</updated>
+    <updated>2021-12-02T02:00:07.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 추가 접종의 효과가 나타나려면 얼마나 시간이 걸릴까요]]></title>
-        <id>https://alook.so/posts/rDtzVq</id>
-        <link href="https://alook.so/posts/rDtzVq"/>
-        <updated>2021-12-02T00:47:40.548Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzVq">답글: 추가 접종의 효과가 나타나려면 얼마나 시간이 걸릴까요</a>]]></content>
+        <title type="html"><![CDATA[어른으로서, 아이들에게 부끄럽지 않으신가요?]]></title>
+        <id>https://alook.so/posts/vKtj4j</id>
+        <link href="https://alook.so/posts/vKtj4j"/>
+        <updated>2021-12-02T01:58:43.896Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtj4j">어른으로서, 아이들에게 부끄럽지 않으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[순간의 선택, 그것이 문제다.]]></title>
-        <id>https://alook.so/posts/eVty9w</id>
-        <link href="https://alook.so/posts/eVty9w"/>
-        <updated>2021-12-02T00:47:40.551Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVty9w">순간의 선택, 그것이 문제다.</a>]]></content>
+        <title type="html"><![CDATA[올해 나의 관심사 4 - 먼 미래]]></title>
+        <id>https://alook.so/posts/92tyEZ</id>
+        <link href="https://alook.so/posts/92tyEZ"/>
+        <updated>2021-12-02T01:58:43.897Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tyEZ">올해 나의 관심사 4 - 먼 미래</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2개월만에 50권의 책을 읽은 사람의 추천도서 Best3]]></title>
+        <id>https://alook.so/posts/mbtpxL</id>
+        <link href="https://alook.so/posts/mbtpxL"/>
+        <updated>2021-12-02T01:58:43.897Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtpxL">2개월만에 50권의 책을 읽은 사람의 추천도서 Best3</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군가산점제 얘기, 멈춰!]]></title>
+        <id>https://alook.so/posts/54tqnr</id>
+        <link href="https://alook.so/posts/54tqnr"/>
+        <updated>2021-12-02T01:58:43.898Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tqnr">군가산점제 얘기, 멈춰!</a>]]></content>
     </entry>
 </feed>
