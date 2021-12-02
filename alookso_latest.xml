@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-02T16:27:42.156Z</updated>
+    <updated>2021-12-02T17:22:44.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[어정쩡한 N잡러]]></title>
-        <id>https://alook.so/posts/54tqZa</id>
-        <link href="https://alook.so/posts/54tqZa"/>
-        <updated>2021-12-02T16:26:11.034Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tqZa">어정쩡한 N잡러</a>]]></content>
+        <title type="html"><![CDATA[아이에게 미안하고 속상한 날 (4살 아들)]]></title>
+        <id>https://alook.so/posts/q1tawG</id>
+        <link href="https://alook.so/posts/q1tawG"/>
+        <updated>2021-12-02T17:21:13.012Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tawG">아이에게 미안하고 속상한 날 (4살 아들)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돌봄 스타트업, 황혼육아 전문화, 남편 육아휴직 보완책]]></title>
-        <id>https://alook.so/posts/DjtxnR</id>
-        <link href="https://alook.so/posts/DjtxnR"/>
-        <updated>2021-12-02T16:26:11.036Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtxnR">돌봄 스타트업, 황혼육아 전문화, 남편 육아휴직 보완책 </a>]]></content>
+        <title type="html"><![CDATA[흙수저의 멘탈 호신술 -2-]]></title>
+        <id>https://alook.so/posts/o7t5Kz</id>
+        <link href="https://alook.so/posts/o7t5Kz"/>
+        <updated>2021-12-02T17:21:13.014Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5Kz">흙수저의 멘탈 호신술 -2-</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군 가산점이 뭐라고]]></title>
-        <id>https://alook.so/posts/o7t5KY</id>
-        <link href="https://alook.so/posts/o7t5KY"/>
-        <updated>2021-12-02T16:26:11.037Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5KY">군 가산점이 뭐라고</a>]]></content>
+        <title type="html"><![CDATA[갖고싶다]]></title>
+        <id>https://alook.so/posts/Yyt1dd</id>
+        <link href="https://alook.so/posts/Yyt1dd"/>
+        <updated>2021-12-02T17:21:13.015Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt1dd">갖고싶다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[습관화된 과도한 존댓말]]></title>
-        <id>https://alook.so/posts/Yyt1dJ</id>
-        <link href="https://alook.so/posts/Yyt1dJ"/>
-        <updated>2021-12-02T16:26:11.038Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt1dJ">습관화된 과도한 존댓말</a>]]></content>
+        <title type="html"><![CDATA[충분치않다]]></title>
+        <id>https://alook.so/posts/rDtzKB</id>
+        <link href="https://alook.so/posts/rDtzKB"/>
+        <updated>2021-12-02T17:21:13.017Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzKB">충분치않다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 나이 37살 다꾸를 시작하다]]></title>
-        <id>https://alook.so/posts/rDtzK1</id>
-        <link href="https://alook.so/posts/rDtzK1"/>
-        <updated>2021-12-02T16:26:11.039Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzK1">내 나이 37살 다꾸를 시작하다</a>]]></content>
+        <title type="html"><![CDATA[정말 내가 바보같이 산 건 아니죠???]]></title>
+        <id>https://alook.so/posts/E7tVyJ</id>
+        <link href="https://alook.so/posts/E7tVyJ"/>
+        <updated>2021-12-02T17:21:13.018Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVyJ">정말 내가 바보같이 산 건 아니죠???</a>]]></content>
     </entry>
 </feed>
