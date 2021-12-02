@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-02T13:22:48.939Z</updated>
+    <updated>2021-12-02T14:15:24.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,11 +13,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktDXv">걱정인형이 여러분의 걱정을 다가져가길~^^</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나의 제주 정착기 3]]></title>
+        <id>https://alook.so/posts/xlt5Gp</id>
+        <link href="https://alook.so/posts/xlt5Gp"/>
+        <updated>2021-12-02T14:14:09.634Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt5Gp">나의 제주 정착기 3</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021.12.02]]></title>
         <id>https://alook.so/posts/3wtvVj</id>
         <link href="https://alook.so/posts/3wtvVj"/>
         <updated>2021-12-02T13:21:30.107Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtvVj">2021.12.02</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삶의 의미가 물질이 아닐 필요도 없다.]]></title>
+        <id>https://alook.so/posts/bWtXxl</id>
+        <link href="https://alook.so/posts/bWtXxl"/>
+        <updated>2021-12-02T14:14:09.636Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtXxl">삶의 의미가 물질이 아닐 필요도 없다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[카우레터_B컷] 한국인은 물질주의자?!]]></title>
@@ -81,40 +95,5 @@
         <link href="https://alook.so/posts/rDtzVq"/>
         <updated>2021-12-02T09:15:00.665Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzVq">답글: 추가 접종의 효과가 나타나려면 얼마나 시간이 걸릴까요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순간의 선택, 그것이 문제다.]]></title>
-        <id>https://alook.so/posts/eVty9w</id>
-        <link href="https://alook.so/posts/eVty9w"/>
-        <updated>2021-12-02T04:19:14.482Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVty9w">순간의 선택, 그것이 문제다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방역 강화 vs 방역 완화, 제로섬 게임이 아닙니다.]]></title>
-        <id>https://alook.so/posts/rDtzLq</id>
-        <link href="https://alook.so/posts/rDtzLq"/>
-        <updated>2021-12-02T08:18:47.076Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzLq">방역 강화 vs 방역 완화, 제로섬 게임이 아닙니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터'를' 이야기하기(4)-정보 불평등 시대의 "데이터 저널리즘"]]></title>
-        <id>https://alook.so/posts/4Xt62x</id>
-        <link href="https://alook.so/posts/4Xt62x"/>
-        <updated>2021-12-02T13:21:30.123Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt62x">데이터'를' 이야기하기(4)-정보 불평등 시대의 "데이터 저널리즘"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7년 반 동안 자영업 중입니다.]]></title>
-        <id>https://alook.so/posts/xlt5w7</id>
-        <link href="https://alook.so/posts/xlt5w7"/>
-        <updated>2021-12-02T13:21:30.124Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt5w7">7년 반 동안 자영업 중입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제조업 현장에서 보는 능력주의란]]></title>
-        <id>https://alook.so/posts/OEtj0L</id>
-        <link href="https://alook.so/posts/OEtj0L"/>
-        <updated>2021-12-02T12:22:58.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtj0L">제조업 현장에서 보는 능력주의란</a>]]></content>
     </entry>
 </feed>
