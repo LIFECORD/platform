@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-02T14:15:24.949Z</updated>
+    <updated>2021-12-02T15:15:20.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[과연 3~40년 뒤에 나는 국민연금을 받을 수 있을까?]]></title>
-        <id>https://alook.so/posts/6MtRw0</id>
-        <link href="https://alook.so/posts/6MtRw0"/>
-        <updated>2021-12-02T14:14:01.091Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtRw0">과연 3~40년 뒤에 나는 국민연금을 받을 수 있을까?</a>]]></content>
+        <title type="html"><![CDATA[자유란 뭐라고 생각 하시나요?]]></title>
+        <id>https://alook.so/posts/a0tz2W</id>
+        <link href="https://alook.so/posts/a0tz2W"/>
+        <updated>2021-12-02T15:13:48.249Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tz2W">자유란 뭐라고 생각 하시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[살아간다는 것.]]></title>
-        <id>https://alook.so/posts/3wtv71</id>
-        <link href="https://alook.so/posts/3wtv71"/>
-        <updated>2021-12-02T14:14:01.092Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtv71">살아간다는 것.</a>]]></content>
+        <title type="html"><![CDATA[항상 경청]]></title>
+        <id>https://alook.so/posts/ZktJv5</id>
+        <link href="https://alook.so/posts/ZktJv5"/>
+        <updated>2021-12-02T15:13:48.250Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktJv5">항상 경청</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새로운 시작을 주저하는 이들에게.]]></title>
-        <id>https://alook.so/posts/8WtvBZ</id>
-        <link href="https://alook.so/posts/8WtvBZ"/>
-        <updated>2021-12-02T14:14:01.093Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtvBZ">새로운 시작을 주저하는 이들에게. </a>]]></content>
+        <title type="html"><![CDATA[제주 정착기 씨-리즈를 읽고]]></title>
+        <id>https://alook.so/posts/dztGnW</id>
+        <link href="https://alook.so/posts/dztGnW"/>
+        <updated>2021-12-02T15:13:48.252Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztGnW">제주 정착기 씨-리즈를 읽고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아기아빠의 걱정..]]></title>
-        <id>https://alook.so/posts/G1tWJ7</id>
-        <link href="https://alook.so/posts/G1tWJ7"/>
-        <updated>2021-12-02T14:14:01.094Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tWJ7">아기아빠의 걱정..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의리라고 생각했던 것들이 사실은 남에게 아무것도 아니었던 것이죠.]]></title>
-        <id>https://alook.so/posts/92ty6X</id>
-        <link href="https://alook.so/posts/92ty6X"/>
-        <updated>2021-12-02T14:14:01.095Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92ty6X">의리라고 생각했던 것들이 사실은 남에게 아무것도 아니었던 것이죠.</a>]]></content>
+        <title type="html"><![CDATA[아이의 말을 믿어주자]]></title>
+        <id>https://alook.so/posts/J5tjLE</id>
+        <link href="https://alook.so/posts/J5tjLE"/>
+        <updated>2021-12-02T15:13:48.254Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tjLE">아이의 말을 믿어주자</a>]]></content>
     </entry>
 </feed>
