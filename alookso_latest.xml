@@ -2,28 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-03T11:14:38.450Z</updated>
+    <updated>2021-12-03T12:24:29.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[진정성이 아닐까..]]></title>
-        <id>https://alook.so/posts/jdtVeZ</id>
-        <link href="https://alook.so/posts/jdtVeZ"/>
-        <updated>2021-12-03T11:13:02.540Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtVeZ">진정성이 아닐까..</a>]]></content>
+        <title type="html"><![CDATA[같은 성별끼리 결혼해도 될까요?]]></title>
+        <id>https://alook.so/posts/latP5K</id>
+        <link href="https://alook.so/posts/latP5K"/>
+        <updated>2021-12-03T12:23:03.041Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latP5K">같은 성별끼리 결혼해도 될까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[특혜는 아니다. 그냥 빽이다]]></title>
-        <id>https://alook.so/posts/bWt3Bk</id>
-        <link href="https://alook.so/posts/bWt3Bk"/>
-        <updated>2021-12-03T11:13:02.542Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt3Bk">특혜는 아니다. 그냥 빽이다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인의 선택을 존중해야 할듯...]]></title>
-        <id>https://alook.so/posts/Zktp61</id>
-        <link href="https://alook.so/posts/Zktp61"/>
-        <updated>2021-12-03T11:13:02.544Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktp61">개인의 선택을 존중해야 할듯...</a>]]></content>
+        <title type="html"><![CDATA[유튜버의 죽음을 보고 느낀점]]></title>
+        <id>https://alook.so/posts/mbtb7v</id>
+        <link href="https://alook.so/posts/mbtb7v"/>
+        <updated>2021-12-03T12:23:03.043Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtb7v">유튜버의 죽음을 보고 느낀점</a>]]></content>
     </entry>
 </feed>
