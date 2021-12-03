@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-03T20:17:25.484Z</updated>
+    <updated>2021-12-03T21:14:07.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[투자는 도박인가]]></title>
+        <id>https://alook.so/posts/WLt1J6</id>
+        <link href="https://alook.so/posts/WLt1J6"/>
+        <updated>2021-12-03T21:12:41.724Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt1J6">투자는 도박인가</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무언가 국뽕은 아니지만 한국사람들은 창의적인 사고가 내장되어 있다고 생각합니다 그리고 무엇보다도 흥이 많아요]]></title>
         <id>https://alook.so/posts/4Xt1Or</id>
@@ -18,12 +25,5 @@
         <link href="https://alook.so/posts/xltdJW"/>
         <updated>2021-12-03T20:15:58.661Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltdJW">내 글이 남들에게 공감을 사지 못하는 걸까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여러분의 가치관은 무엇인가요?]]></title>
-        <id>https://alook.so/posts/LKtVaG</id>
-        <link href="https://alook.so/posts/LKtVaG"/>
-        <updated>2021-12-03T19:12:38.005Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtVaG">여러분의 가치관은 무엇인가요?</a>]]></content>
     </entry>
 </feed>
