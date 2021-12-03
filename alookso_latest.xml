@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-03T18:18:43.774Z</updated>
+    <updated>2021-12-03T19:14:13.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[여러분의 가치관은 무엇인가요?]]></title>
+        <id>https://alook.so/posts/LKtVaG</id>
+        <link href="https://alook.so/posts/LKtVaG"/>
+        <updated>2021-12-03T19:12:38.005Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtVaG">여러분의 가치관은 무엇인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신의 가치관은 무엇인가요?]]></title>
+        <id>https://alook.so/posts/njtbwK</id>
+        <link href="https://alook.so/posts/njtbwK"/>
+        <updated>2021-12-03T19:12:38.006Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtbwK">당신의 가치관은 무엇인가요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10대들의 이야기]]></title>
         <id>https://alook.so/posts/OEt3OO</id>
         <link href="https://alook.so/posts/OEt3OO"/>
         <updated>2021-12-03T18:17:13.327Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt3OO">10대들의 이야기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행복, 돈 꼭  한 가지를 택해야 한다면?]]></title>
-        <id>https://alook.so/posts/vKt9R6</id>
-        <link href="https://alook.so/posts/vKt9R6"/>
-        <updated>2021-12-03T18:17:13.329Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt9R6">행복, 돈 꼭  한 가지를 택해야 한다면?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한사람의 용기로 세상이 바뀔수있다면.....]]></title>
-        <id>https://alook.so/posts/E7t239</id>
-        <link href="https://alook.so/posts/E7t239"/>
-        <updated>2021-12-03T18:17:13.335Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t239">한사람의 용기로 세상이 바뀔수있다면.....</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래에는 채식 VS 고기?]]></title>
-        <id>https://alook.so/posts/latP1q</id>
-        <link href="https://alook.so/posts/latP1q"/>
-        <updated>2021-12-03T18:17:13.335Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latP1q">미래에는 채식 VS 고기?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["나는 국어를 가르친다"는 틀린 문장입니다]]></title>
-        <id>https://alook.so/posts/54tMwy</id>
-        <link href="https://alook.so/posts/54tMwy"/>
-        <updated>2021-12-03T17:21:29.427Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tMwy">"나는 국어를 가르친다"는 틀린 문장입니다</a>]]></content>
     </entry>
 </feed>
