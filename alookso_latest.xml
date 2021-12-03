@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-03T09:16:44.855Z</updated>
+    <updated>2021-12-03T10:17:45.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[안녕 나의 애착인형.]]></title>
-        <id>https://alook.so/posts/kZt7q6</id>
-        <link href="https://alook.so/posts/kZt7q6"/>
-        <updated>2021-12-03T09:15:14.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt7q6">안녕 나의 애착인형.</a>]]></content>
+        <title type="html"><![CDATA[NFT 세상의 시작인가요]]></title>
+        <id>https://alook.so/posts/PvtJrW</id>
+        <link href="https://alook.so/posts/PvtJrW"/>
+        <updated>2021-12-03T10:16:02.786Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtJrW">NFT 세상의 시작인가요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[당신이 절대로 목표를 세우면 안되는 이유]]></title>
-        <id>https://alook.so/posts/6MtqY8</id>
-        <link href="https://alook.so/posts/6MtqY8"/>
-        <updated>2021-12-03T09:15:14.383Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtqY8">당신이 절대로 목표를 세우면 안되는 이유</a>]]></content>
+        <title type="html"><![CDATA[돈 돈 돈은 무엇일까요?]]></title>
+        <id>https://alook.so/posts/zvtvJ4</id>
+        <link href="https://alook.so/posts/zvtvJ4"/>
+        <updated>2021-12-03T10:16:02.787Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtvJ4">돈 돈 돈은 무엇일까요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프리랜서도 산재보험은 필요합니다]]></title>
-        <id>https://alook.so/posts/G1takB</id>
-        <link href="https://alook.so/posts/G1takB"/>
-        <updated>2021-12-03T09:15:14.384Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1takB">프리랜서도 산재보험은 필요합니다</a>]]></content>
+        <title type="html"><![CDATA[우리아이가 행복하길..]]></title>
+        <id>https://alook.so/posts/WLt1na</id>
+        <link href="https://alook.so/posts/WLt1na"/>
+        <updated>2021-12-03T10:16:02.789Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt1na">우리아이가 행복하길..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주말에 약간] 태국 팝스타의 노래 한 번 들어보세요]]></title>
+        <id>https://alook.so/posts/4Xt1wm</id>
+        <link href="https://alook.so/posts/4Xt1wm"/>
+        <updated>2021-12-03T10:16:02.791Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt1wm">[주말에 약간] 태국 팝스타의 노래 한 번 들어보세요</a>]]></content>
     </entry>
 </feed>
