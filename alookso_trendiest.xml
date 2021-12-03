@@ -2,43 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-03T07:16:18.187Z</updated>
+    <updated>2021-12-03T08:19:02.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[답글: [얼터뷰] 연키, 또는 너 참 대단하다는 말이 싫은 사람]]></title>
-        <id>https://alook.so/posts/1Rtr28</id>
-        <link href="https://alook.so/posts/1Rtr28"/>
-        <updated>2021-12-03T07:15:03.923Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtr28">답글: [얼터뷰] 연키, 또는 너 참 대단하다는 말이 싫은 사람</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[얼터뷰 보너스] 연키의 못 다한 이야기]]></title>
-        <id>https://alook.so/posts/a0t5ea</id>
-        <link href="https://alook.so/posts/a0t5ea"/>
-        <updated>2021-12-03T07:15:03.924Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t5ea">[얼터뷰 보너스] 연키의 못 다한 이야기</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[얼터뷰] 연키, 또는 '너 참 대단하다'는 말이 싫은 사람]]></title>
         <id>https://alook.so/posts/70tLa4</id>
         <link href="https://alook.so/posts/70tLa4"/>
         <updated>2021-12-03T06:17:55.185Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tLa4">[얼터뷰] 연키, 또는 '너 참 대단하다'는 말이 싫은 사람</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 제주 정착기 _ 못다한 이야기]]></title>
-        <id>https://alook.so/posts/E7tVEw</id>
-        <link href="https://alook.so/posts/E7tVEw"/>
-        <updated>2021-12-03T07:15:03.934Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVEw">나의 제주 정착기 _ 못다한 이야기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공유경제, 과연 좋기만 한 변화일까?]]></title>
-        <id>https://alook.so/posts/a0tzoq</id>
-        <link href="https://alook.so/posts/a0tzoq"/>
-        <updated>2021-12-03T01:57:48.265Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tzoq">공유경제, 과연 좋기만 한 변화일까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[방역, 거짓말, 그리고 종교: 오미크론 확산 위기]]></title>
@@ -48,11 +20,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktJly">방역, 거짓말, 그리고 종교: 오미크론 확산 위기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘지옥 사자들’의 다음 ‘시연’ 대상이 된 조동연 씨]]></title>
-        <id>https://alook.so/posts/potkDV</id>
-        <link href="https://alook.so/posts/potkDV"/>
-        <updated>2021-12-03T01:57:48.265Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potkDV">‘지옥 사자들’의 다음 ‘시연’ 대상이 된 조동연 씨  </a>]]></content>
+        <title type="html"><![CDATA[[얼터뷰 보너스] 연키의 못 다한 이야기]]></title>
+        <id>https://alook.so/posts/a0t5ea</id>
+        <link href="https://alook.so/posts/a0t5ea"/>
+        <updated>2021-12-03T07:15:03.924Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t5ea">[얼터뷰 보너스] 연키의 못 다한 이야기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3차접종(추가접종)이 필요할까요? 해야할까요?]]></title>
@@ -62,39 +34,67 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVRw">3차접종(추가접종)이 필요할까요? 해야할까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알아봐줘서 고마워.]]></title>
-        <id>https://alook.so/posts/KmtaJk</id>
-        <link href="https://alook.so/posts/KmtaJk"/>
-        <updated>2021-12-03T07:15:03.940Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtaJk">알아봐줘서 고마워.</a>]]></content>
+        <title type="html"><![CDATA[높임말과 맞춤법 공부 절대적으로 필요하다]]></title>
+        <id>https://alook.so/posts/latZ7m</id>
+        <link href="https://alook.so/posts/latZ7m"/>
+        <updated>2021-12-03T08:17:42.090Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latZ7m">높임말과 맞춤법 공부 절대적으로 필요하다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제주 정착기 씨-리즈를 읽고]]></title>
-        <id>https://alook.so/posts/dztGnW</id>
-        <link href="https://alook.so/posts/dztGnW"/>
-        <updated>2021-12-03T07:15:03.941Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztGnW">제주 정착기 씨-리즈를 읽고</a>]]></content>
+        <title type="html"><![CDATA[걱정인형이 여러분의 걱정을 다가져가길~^^]]></title>
+        <id>https://alook.so/posts/0ktDXv</id>
+        <link href="https://alook.so/posts/0ktDXv"/>
+        <updated>2021-12-02T13:21:30.104Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktDXv">걱정인형이 여러분의 걱정을 다가져가길~^^</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새로운 시작을 주저하는 이들에게.]]></title>
-        <id>https://alook.so/posts/8WtvBZ</id>
-        <link href="https://alook.so/posts/8WtvBZ"/>
-        <updated>2021-12-03T07:15:03.942Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtvBZ">새로운 시작을 주저하는 이들에게. </a>]]></content>
+        <title type="html"><![CDATA[공유경제, 과연 좋기만 한 변화일까?]]></title>
+        <id>https://alook.so/posts/a0tzoq</id>
+        <link href="https://alook.so/posts/a0tzoq"/>
+        <updated>2021-12-03T01:57:48.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tzoq">공유경제, 과연 좋기만 한 변화일까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[배제는 집단을 가리지 않습니다.]]></title>
-        <id>https://alook.so/posts/yEt3BZ</id>
-        <link href="https://alook.so/posts/yEt3BZ"/>
-        <updated>2021-12-03T07:15:03.943Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt3BZ">배제는 집단을 가리지 않습니다.</a>]]></content>
+        <title type="html"><![CDATA[답글: [얼터뷰] 연키, 또는 너 참 대단하다는 말이 싫은 사람]]></title>
+        <id>https://alook.so/posts/1Rtr28</id>
+        <link href="https://alook.so/posts/1Rtr28"/>
+        <updated>2021-12-03T07:15:03.923Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtr28">답글: [얼터뷰] 연키, 또는 너 참 대단하다는 말이 싫은 사람</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[악플엔 장사없다.]]></title>
-        <id>https://alook.so/posts/Bat7o5</id>
-        <link href="https://alook.so/posts/Bat7o5"/>
-        <updated>2021-12-03T07:15:03.944Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat7o5">악플엔 장사없다.</a>]]></content>
+        <title type="html"><![CDATA[나의 제주 정착기 3]]></title>
+        <id>https://alook.so/posts/xlt5Gp</id>
+        <link href="https://alook.so/posts/xlt5Gp"/>
+        <updated>2021-12-03T08:17:42.096Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt5Gp">나의 제주 정착기 3</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[순간의 선택, 그것이 문제다.]]></title>
+        <id>https://alook.so/posts/eVty9w</id>
+        <link href="https://alook.so/posts/eVty9w"/>
+        <updated>2021-12-03T08:17:42.097Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVty9w">순간의 선택, 그것이 문제다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘지옥 사자들’의 다음 ‘시연’ 대상이 된 조동연 씨]]></title>
+        <id>https://alook.so/posts/potkDV</id>
+        <link href="https://alook.so/posts/potkDV"/>
+        <updated>2021-12-03T01:57:48.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potkDV">‘지옥 사자들’의 다음 ‘시연’ 대상이 된 조동연 씨  </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리나라에서 엘사는 공주님이 아니에요.  LH 사는 아이....]]></title>
+        <id>https://alook.so/posts/rDtzez</id>
+        <link href="https://alook.so/posts/rDtzez"/>
+        <updated>2021-12-03T08:17:42.101Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzez">우리나라에서 엘사는 공주님이 아니에요.  LH 사는 아이....</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 추가 접종의 효과가 나타나려면 얼마나 시간이 걸릴까요]]></title>
+        <id>https://alook.so/posts/rDtzVq</id>
+        <link href="https://alook.so/posts/rDtzVq"/>
+        <updated>2021-12-03T08:17:42.101Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzVq">답글: 추가 접종의 효과가 나타나려면 얼마나 시간이 걸릴까요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오미크론 변이와 확진자 비난, 다시 연대를 생각할 때]]></title>
@@ -104,17 +104,38 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latZ6m">오미크론 변이와 확진자 비난, 다시 연대를 생각할 때</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 아내보다 돈이 더 소중했던 것일까]]></title>
-        <id>https://alook.so/posts/J5tj6M</id>
-        <link href="https://alook.so/posts/J5tj6M"/>
-        <updated>2021-12-03T07:15:03.946Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tj6M">나는 아내보다 돈이 더 소중했던 것일까 </a>]]></content>
+        <title type="html"><![CDATA[[얼터뷰] '성장'이란 단어를 인간화 한다면]]></title>
+        <id>https://alook.so/posts/ZktJwK</id>
+        <link href="https://alook.so/posts/ZktJwK"/>
+        <updated>2021-12-03T08:17:42.103Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktJwK">[얼터뷰] '성장'이란 단어를 인간화 한다면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[걱정인형이 여러분의 걱정을 다가져가길~^^]]></title>
-        <id>https://alook.so/posts/0ktDXv</id>
-        <link href="https://alook.so/posts/0ktDXv"/>
-        <updated>2021-12-02T13:21:30.104Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktDXv">걱정인형이 여러분의 걱정을 다가져가길~^^</a>]]></content>
+        <title type="html"><![CDATA[2개월만에 50권의 책을 읽은 사람의 추천도서 Best3]]></title>
+        <id>https://alook.so/posts/mbtpxL</id>
+        <link href="https://alook.so/posts/mbtpxL"/>
+        <updated>2021-12-03T08:17:42.105Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtpxL">2개월만에 50권의 책을 읽은 사람의 추천도서 Best3</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-POP은 어떻게 태국 군부 독재와 충돌하는가]]></title>
+        <id>https://alook.so/posts/rDtzP8</id>
+        <link href="https://alook.so/posts/rDtzP8"/>
+        <updated>2021-12-03T08:17:42.106Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzP8">K-POP은 어떻게 태국 군부 독재와 충돌하는가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방역 강화 vs 방역 완화, 제로섬 게임이 아닙니다.]]></title>
+        <id>https://alook.so/posts/rDtzLq</id>
+        <link href="https://alook.so/posts/rDtzLq"/>
+        <updated>2021-12-03T08:17:42.107Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzLq">방역 강화 vs 방역 완화, 제로섬 게임이 아닙니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헤어지기 쉬운 남자가 좋다]]></title>
+        <id>https://alook.so/posts/LKtz5D</id>
+        <link href="https://alook.so/posts/LKtz5D"/>
+        <updated>2021-12-03T08:17:42.108Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtz5D">헤어지기 쉬운 남자가 좋다</a>]]></content>
     </entry>
 </feed>
