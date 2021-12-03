@@ -2,63 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-03T03:16:31.196Z</updated>
+    <updated>2021-12-03T04:20:27.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[통일이 가져다 줄 세가지]]></title>
-        <id>https://alook.so/posts/1Rtnw8</id>
-        <link href="https://alook.so/posts/1Rtnw8"/>
-        <updated>2021-12-03T03:15:06.699Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtnw8">통일이 가져다 줄 세가지 </a>]]></content>
+        <title type="html"><![CDATA[성실과 열정]]></title>
+        <id>https://alook.so/posts/zvtld7</id>
+        <link href="https://alook.so/posts/zvtld7"/>
+        <updated>2021-12-03T04:19:00.053Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtld7">성실과 열정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[드라마 해피니스는 계층 갈등의 현실을 보여줍니다.]]></title>
-        <id>https://alook.so/posts/o7t5MV</id>
-        <link href="https://alook.so/posts/o7t5MV"/>
-        <updated>2021-12-03T03:15:06.700Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5MV">드라마 해피니스는 계층 갈등의 현실을 보여줍니다.</a>]]></content>
+        <title type="html"><![CDATA[아픔을 느끼지 않기 위해 단하루도 쉬지 못했다.]]></title>
+        <id>https://alook.so/posts/2xt31r</id>
+        <link href="https://alook.so/posts/2xt31r"/>
+        <updated>2021-12-03T04:19:00.054Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt31r">아픔을 느끼지 않기 위해 단하루도 쉬지 못했다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[조동연 교수 끌어내리기 유감]]></title>
-        <id>https://alook.so/posts/70tLbw</id>
-        <link href="https://alook.so/posts/70tLbw"/>
-        <updated>2021-12-03T03:15:06.702Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tLbw">조동연 교수 끌어내리기 유감</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이가 학우들과 좋은 추억과 관계로 자라나길 바라는 마음]]></title>
-        <id>https://alook.so/posts/rDtzab</id>
-        <link href="https://alook.so/posts/rDtzab"/>
-        <updated>2021-12-03T03:15:06.703Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzab">아이가 학우들과 좋은 추억과 관계로 자라나길 바라는 마음</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소비자의 날을 맞아 소비에 대한 생각은?]]></title>
-        <id>https://alook.so/posts/E7tVxw</id>
-        <link href="https://alook.so/posts/E7tVxw"/>
-        <updated>2021-12-03T03:15:06.704Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVxw">소비자의 날을 맞아 소비에 대한 생각은?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 픽 감사합니다!!]]></title>
-        <id>https://alook.so/posts/92tyaJ</id>
-        <link href="https://alook.so/posts/92tyaJ"/>
-        <updated>2021-12-03T03:15:06.705Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tyaJ">얼룩소 픽 감사합니다!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내삶이 일주일밖에 남지않았다면]]></title>
-        <id>https://alook.so/posts/Kmta4k</id>
-        <link href="https://alook.so/posts/Kmta4k"/>
-        <updated>2021-12-03T03:15:06.706Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmta4k">내삶이 일주일밖에 남지않았다면</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제테크,앱테크,온라인폐지줍기]]></title>
-        <id>https://alook.so/posts/mbtp2E</id>
-        <link href="https://alook.so/posts/mbtp2E"/>
-        <updated>2021-12-03T03:15:06.708Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtp2E">제테크,앱테크,온라인폐지줍기</a>]]></content>
+        <title type="html"><![CDATA[언니와 누나라는건....]]></title>
+        <id>https://alook.so/posts/w9taJD</id>
+        <link href="https://alook.so/posts/w9taJD"/>
+        <updated>2021-12-03T04:19:00.056Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9taJD">언니와 누나라는건....</a>]]></content>
     </entry>
 </feed>
