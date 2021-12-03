@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-03T06:19:09.481Z</updated>
+    <updated>2021-12-03T07:16:18.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[어느 회사든 인사팀은 모두 이럴까요?]]></title>
-        <id>https://alook.so/posts/LKtVb1</id>
-        <link href="https://alook.so/posts/LKtVb1"/>
-        <updated>2021-12-03T06:17:46.965Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtVb1">어느 회사든 인사팀은 모두 이럴까요?</a>]]></content>
+        <title type="html"><![CDATA[이젠 당근으로 범인을 잡는다.]]></title>
+        <id>https://alook.so/posts/potj77</id>
+        <link href="https://alook.so/posts/potj77"/>
+        <updated>2021-12-03T07:14:55.627Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potj77">이젠 당근으로 범인을 잡는다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이용마.]]></title>
-        <id>https://alook.so/posts/njtbzj</id>
-        <link href="https://alook.so/posts/njtbzj"/>
-        <updated>2021-12-03T06:17:46.966Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtbzj">이용마.</a>]]></content>
+        <title type="html"><![CDATA[클수마쓰 노래요~^^]]></title>
+        <id>https://alook.so/posts/zvtvG7</id>
+        <link href="https://alook.so/posts/zvtvG7"/>
+        <updated>2021-12-03T07:14:55.629Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtvG7">클수마쓰 노래요~^^</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[D-3, 기말고사]]></title>
-        <id>https://alook.so/posts/G1taMO</id>
-        <link href="https://alook.so/posts/G1taMO"/>
-        <updated>2021-12-03T06:17:46.967Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1taMO">D-3, 기말고사</a>]]></content>
+        <title type="html"><![CDATA[vaccine??아..한숨이 절로 나오네요. 누굴위한 정책인가요?]]></title>
+        <id>https://alook.so/posts/2xtO5r</id>
+        <link href="https://alook.so/posts/2xtO5r"/>
+        <updated>2021-12-03T07:14:55.630Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtO5r">vaccine??아..한숨이 절로 나오네요. 누굴위한 정책인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잔악한 사건]]></title>
+        <id>https://alook.so/posts/4Xt18J</id>
+        <link href="https://alook.so/posts/4Xt18J"/>
+        <updated>2021-12-03T07:14:55.631Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt18J">잔악한 사건</a>]]></content>
     </entry>
 </feed>
