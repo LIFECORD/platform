@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-03T00:47:57.300Z</updated>
+    <updated>2021-12-03T01:59:10.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[공유경제, 과연 좋기만 한 변화일까?]]></title>
+        <id>https://alook.so/posts/a0tzoq</id>
+        <link href="https://alook.so/posts/a0tzoq"/>
+        <updated>2021-12-03T01:57:48.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tzoq">공유경제, 과연 좋기만 한 변화일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘지옥 사자들’의 다음 ‘시연’ 대상이 된 조동연 씨]]></title>
+        <id>https://alook.so/posts/potkDV</id>
+        <link href="https://alook.so/posts/potkDV"/>
+        <updated>2021-12-03T01:57:48.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potkDV">‘지옥 사자들’의 다음 ‘시연’ 대상이 된 조동연 씨  </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3차접종(추가접종)이 필요할까요? 해야할까요?]]></title>
+        <id>https://alook.so/posts/E7tVRw</id>
+        <link href="https://alook.so/posts/E7tVRw"/>
+        <updated>2021-12-03T01:57:48.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVRw">3차접종(추가접종)이 필요할까요? 해야할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 시작을 주저하는 이들에게.]]></title>
+        <id>https://alook.so/posts/8WtvBZ</id>
+        <link href="https://alook.so/posts/8WtvBZ"/>
+        <updated>2021-12-03T01:57:48.267Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtvBZ">새로운 시작을 주저하는 이들에게. </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오미크론 변이와 확진자 비난, 다시 연대를 생각할 때]]></title>
         <id>https://alook.so/posts/latZ6m</id>
@@ -88,26 +116,5 @@
         <link href="https://alook.so/posts/mbtp9L"/>
         <updated>2021-12-03T00:46:41.587Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtp9L">여러분의 취미는 무엇인가요? 제 취미는요...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일일 신규 확진자수 5,266명]]></title>
-        <id>https://alook.so/posts/q1taZ3</id>
-        <link href="https://alook.so/posts/q1taZ3"/>
-        <updated>2021-12-02T22:17:01.178Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1taZ3">일일 신규 확진자수 5,266명</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성동구, 경력보유 인력 POOL 활용 해 '관내기업-개인’ 간 성공적인 돌봄노동 가치 재확인! (2022.12.02)]]></title>
-        <id>https://alook.so/posts/o7t5el</id>
-        <link href="https://alook.so/posts/o7t5el"/>
-        <updated>2021-12-03T00:46:41.588Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t5el">성동구, 경력보유 인력 POOL 활용 해 '관내기업-개인’ 간 성공적인 돌봄노동 가치 재확인! (2022.12.02)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나 자신과의 약속]]></title>
-        <id>https://alook.so/posts/70tLrk</id>
-        <link href="https://alook.so/posts/70tLrk"/>
-        <updated>2021-12-03T00:46:41.589Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tLrk">나 자신과의 약속</a>]]></content>
     </entry>
 </feed>

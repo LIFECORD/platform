@@ -2,14 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-03T00:47:57.298Z</updated>
+    <updated>2021-12-03T01:59:10.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[경우에 따라서 해야한다고 생각합니다.]]></title>
-        <id>https://alook.so/posts/70tL44</id>
-        <link href="https://alook.so/posts/70tL44"/>
-        <updated>2021-12-03T00:46:33.542Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tL44">경우에 따라서 해야한다고 생각합니다.</a>]]></content>
-    </entry>
 </feed>
