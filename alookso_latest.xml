@@ -2,56 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-03T08:19:02.595Z</updated>
+    <updated>2021-12-03T09:16:44.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[혼밥은 봐준다??]]></title>
-        <id>https://alook.so/posts/E7t27O</id>
-        <link href="https://alook.so/posts/E7t27O"/>
-        <updated>2021-12-03T08:17:33.607Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t27O">혼밥은 봐준다??</a>]]></content>
+        <title type="html"><![CDATA[안녕 나의 애착인형.]]></title>
+        <id>https://alook.so/posts/kZt7q6</id>
+        <link href="https://alook.so/posts/kZt7q6"/>
+        <updated>2021-12-03T09:15:14.381Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt7q6">안녕 나의 애착인형.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[버스 기사님, 굳이 화를 내셔야했을까요?]]></title>
-        <id>https://alook.so/posts/92t4eo</id>
-        <link href="https://alook.so/posts/92t4eo"/>
-        <updated>2021-12-03T08:17:33.608Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t4eo">버스 기사님, 굳이 화를 내셔야했을까요?</a>]]></content>
+        <title type="html"><![CDATA[당신이 절대로 목표를 세우면 안되는 이유]]></title>
+        <id>https://alook.so/posts/6MtqY8</id>
+        <link href="https://alook.so/posts/6MtqY8"/>
+        <updated>2021-12-03T09:15:14.383Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtqY8">당신이 절대로 목표를 세우면 안되는 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정치 성향을 진보/보수 일도양단으로 나누지 말았으면]]></title>
-        <id>https://alook.so/posts/KmteDr</id>
-        <link href="https://alook.so/posts/KmteDr"/>
-        <updated>2021-12-03T08:17:33.609Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmteDr">정치 성향을 진보/보수 일도양단으로 나누지 말았으면</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론이 다시 힘겹게 만들것 같아 보이네요..]]></title>
-        <id>https://alook.so/posts/mbtbqj</id>
-        <link href="https://alook.so/posts/mbtbqj"/>
-        <updated>2021-12-03T08:17:33.610Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtbqj">오미크론이 다시 힘겹게 만들것 같아 보이네요..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글쓰는 재미]]></title>
-        <id>https://alook.so/posts/54tM3d</id>
-        <link href="https://alook.so/posts/54tM3d"/>
-        <updated>2021-12-03T08:17:33.612Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tM3d">글쓰는 재미</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['확진자 비난'의 사회적 손익계산: 피해보는 국민과 배 불리는 언론사]]></title>
-        <id>https://alook.so/posts/DjtK3x</id>
-        <link href="https://alook.so/posts/DjtK3x"/>
-        <updated>2021-12-03T08:17:33.613Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtK3x">'확진자 비난'의 사회적 손익계산: 피해보는 국민과 배 불리는 언론사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사교육. 필수 일까?]]></title>
-        <id>https://alook.so/posts/o7txnV</id>
-        <link href="https://alook.so/posts/o7txnV"/>
-        <updated>2021-12-03T08:17:33.614Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7txnV">사교육. 필수 일까?</a>]]></content>
+        <title type="html"><![CDATA[프리랜서도 산재보험은 필요합니다]]></title>
+        <id>https://alook.so/posts/G1takB</id>
+        <link href="https://alook.so/posts/G1takB"/>
+        <updated>2021-12-03T09:15:14.384Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1takB">프리랜서도 산재보험은 필요합니다</a>]]></content>
     </entry>
 </feed>
