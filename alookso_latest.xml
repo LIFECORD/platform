@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-04T12:24:42.248Z</updated>
+    <updated>2021-12-04T13:24:00.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[무기력한 나에게 힘주기]]></title>
-        <id>https://alook.so/posts/rDtOl0</id>
-        <link href="https://alook.so/posts/rDtOl0"/>
-        <updated>2021-12-04T12:23:14.835Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtOl0">무기력한 나에게 힘주기</a>]]></content>
+        <title type="html"><![CDATA[왜 남녀 임금격차가 날까요?]]></title>
+        <id>https://alook.so/posts/njtbKL</id>
+        <link href="https://alook.so/posts/njtbKL"/>
+        <updated>2021-12-04T13:22:30.692Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtbKL">왜 남녀 임금격차가 날까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박정희 대통령]]></title>
-        <id>https://alook.so/posts/bWt3o3</id>
-        <link href="https://alook.so/posts/bWt3o3"/>
-        <updated>2021-12-04T12:23:14.836Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt3o3">박정희 대통령</a>]]></content>
+        <title type="html"><![CDATA["새 백신 나오기전에  모두 '오미크론'감염될것"]]></title>
+        <id>https://alook.so/posts/3wtnyq</id>
+        <link href="https://alook.so/posts/3wtnyq"/>
+        <updated>2021-12-04T13:22:30.694Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtnyq">"새 백신 나오기전에  모두 '오미크론'감염될것"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[범죄걱정 안하고 살수있을까]]></title>
-        <id>https://alook.so/posts/a0t5Kz</id>
-        <link href="https://alook.so/posts/a0t5Kz"/>
-        <updated>2021-12-04T12:23:14.838Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t5Kz">범죄걱정 안하고 살수있을까</a>]]></content>
+        <title type="html"><![CDATA[50글자로 무엇을 쓸 수 있을까?]]></title>
+        <id>https://alook.so/posts/G1tapr</id>
+        <link href="https://alook.so/posts/G1tapr"/>
+        <updated>2021-12-04T13:22:30.699Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tapr">50글자로 무엇을 쓸 수 있을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군인 여러분 힘내세요!!]]></title>
-        <id>https://alook.so/posts/ZktpnW</id>
-        <link href="https://alook.so/posts/ZktpnW"/>
-        <updated>2021-12-04T12:23:14.840Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktpnW">군인 여러분 힘내세요!!</a>]]></content>
+        <title type="html"><![CDATA[충분히 행복하실 것 같습니다 !]]></title>
+        <id>https://alook.so/posts/vKt9bL</id>
+        <link href="https://alook.so/posts/vKt9bL"/>
+        <updated>2021-12-04T13:22:30.700Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt9bL">충분히 행복하실 것 같습니다 !</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[같은 성별끼리 결혼은 안되요]]></title>
-        <id>https://alook.so/posts/dztzm6</id>
-        <link href="https://alook.so/posts/dztzm6"/>
-        <updated>2021-12-04T12:23:14.842Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztzm6">같은 성별끼리 결혼은 안되요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung, Hyundai]]></title>
-        <id>https://alook.so/posts/J5tPJ9</id>
-        <link href="https://alook.so/posts/J5tPJ9"/>
-        <updated>2021-12-04T12:23:14.843Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tPJ9">Samsung, Hyundai</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나와 함께 사는 지혜로운 방법 세가지]]></title>
-        <id>https://alook.so/posts/eVt4pD</id>
-        <link href="https://alook.so/posts/eVt4pD"/>
-        <updated>2021-12-04T12:23:14.845Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt4pD">코로나와 함께 사는 지혜로운 방법 세가지</a>]]></content>
+        <title type="html"><![CDATA[이미 얼루커픽을 받은 게시글은]]></title>
+        <id>https://alook.so/posts/92t490</id>
+        <link href="https://alook.so/posts/92t490"/>
+        <updated>2021-12-04T13:22:30.702Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t490">이미 얼루커픽을 받은 게시글은</a>]]></content>
     </entry>
 </feed>

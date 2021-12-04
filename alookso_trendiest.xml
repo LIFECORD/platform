@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-04T12:24:42.247Z</updated>
+    <updated>2021-12-04T13:24:00.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alook.so/posts/rDtObp"/>
         <updated>2021-12-04T12:23:24.397Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtObp">[끌올] 다시 빛나길 바라는 나의 글들 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼소UP기능 같이 써보아요.[끌올]]]></title>
+        <id>https://alook.so/posts/kZt71E</id>
+        <link href="https://alook.so/posts/kZt71E"/>
+        <updated>2021-12-04T13:22:38.795Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt71E">얼소UP기능 같이 써보아요.[끌올]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[끝은 새로운 시작입니다.]]></title>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/dztzrd"/>
         <updated>2021-12-04T11:12:23.279Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztzrd">"나는 국어를 가르친다"는 틀린 문장입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 좋은 인연이 되어..]]></title>
-        <id>https://alook.so/posts/PvtJwz</id>
-        <link href="https://alook.so/posts/PvtJwz"/>
-        <updated>2021-12-04T09:14:49.707Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtJwz">답글: 좋은 인연이 되어..</a>]]></content>
     </entry>
 </feed>
