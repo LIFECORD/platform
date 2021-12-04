@@ -2,42 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-04T06:18:40.069Z</updated>
+    <updated>2021-12-04T07:16:19.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[진보이면서 보수일 순 없는 걸까?]]></title>
-        <id>https://alook.so/posts/0kt4pY</id>
-        <link href="https://alook.so/posts/0kt4pY"/>
-        <updated>2021-12-04T06:17:14.946Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt4pY">진보이면서 보수일 순 없는 걸까?</a>]]></content>
+        <title type="html"><![CDATA[끝은 새로운 시작입니다.]]></title>
+        <id>https://alook.so/posts/vKt9aq</id>
+        <link href="https://alook.so/posts/vKt9aq"/>
+        <updated>2021-12-04T07:14:39.386Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt9aq">끝은 새로운 시작입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[29살 아직 백수인 제가 부끄러워요]]></title>
-        <id>https://alook.so/posts/M9tn3m</id>
-        <link href="https://alook.so/posts/M9tn3m"/>
-        <updated>2021-12-04T06:17:14.956Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tn3m">29살 아직 백수인 제가 부끄러워요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ㅎㅎㅎ 뭐라고 쓸까~]]></title>
-        <id>https://alook.so/posts/XBtdMv</id>
-        <link href="https://alook.so/posts/XBtdMv"/>
-        <updated>2021-12-04T06:17:14.957Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtdMv">ㅎㅎㅎ 뭐라고 쓸까~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매일매일 얼룩소에 글쓰기]]></title>
-        <id>https://alook.so/posts/w9t8d4</id>
-        <link href="https://alook.so/posts/w9t8d4"/>
-        <updated>2021-12-04T06:17:14.957Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t8d4">매일매일 얼룩소에 글쓰기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이야기와 후기]]></title>
-        <id>https://alook.so/posts/kZt7vE</id>
-        <link href="https://alook.so/posts/kZt7vE"/>
-        <updated>2021-12-04T06:17:14.958Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt7vE">이야기와 후기</a>]]></content>
+        <title type="html"><![CDATA[모든 어른이 시간저축은행 영업사원이 되었다(책 "모모")]]></title>
+        <id>https://alook.so/posts/92t4ny</id>
+        <link href="https://alook.so/posts/92t4ny"/>
+        <updated>2021-12-04T07:14:39.387Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t4ny">모든 어른이 시간저축은행 영업사원이 되었다(책 "모모")</a>]]></content>
     </entry>
 </feed>
