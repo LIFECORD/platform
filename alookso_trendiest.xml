@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-04T11:13:49.179Z</updated>
+    <updated>2021-12-04T12:24:42.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[끌올] 다시 빛나길 바라는 나의 글들]]></title>
+        <id>https://alook.so/posts/rDtObp</id>
+        <link href="https://alook.so/posts/rDtObp"/>
+        <updated>2021-12-04T12:23:24.397Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtObp">[끌올] 다시 빛나길 바라는 나의 글들 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끝은 새로운 시작입니다.]]></title>
         <id>https://alook.so/posts/vKt9aq</id>
@@ -53,19 +60,5 @@
         <link href="https://alook.so/posts/PvtJwz"/>
         <updated>2021-12-04T09:14:49.707Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtJwz">답글: 좋은 인연이 되어..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단체 끌올 한 번 해볼까요?]]></title>
-        <id>https://alook.so/posts/M9tn0K</id>
-        <link href="https://alook.so/posts/M9tn0K"/>
-        <updated>2021-12-04T07:14:49.425Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tn0K">단체 끌올 한 번 해볼까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 얼룩소 프로잭트 종료 그 후.]]></title>
-        <id>https://alook.so/posts/LKtVKG</id>
-        <link href="https://alook.so/posts/LKtVKG"/>
-        <updated>2021-12-04T07:14:49.435Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtVKG">답글: 얼룩소 프로잭트 종료 그 후.</a>]]></content>
     </entry>
 </feed>
