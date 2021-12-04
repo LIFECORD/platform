@@ -2,28 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-04T03:16:54.864Z</updated>
+    <updated>2021-12-04T04:20:41.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[신규확진 다시 5천명대로]]></title>
-        <id>https://alook.so/posts/bWt3p2</id>
-        <link href="https://alook.so/posts/bWt3p2"/>
-        <updated>2021-12-04T03:15:22.715Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt3p2">신규확진 다시 5천명대로 </a>]]></content>
+        <title type="html"><![CDATA[세계최고의 자리에 선 사람들의 마인드 2. 세계최고 지휘자 카라얀]]></title>
+        <id>https://alook.so/posts/rDtO5p</id>
+        <link href="https://alook.so/posts/rDtO5p"/>
+        <updated>2021-12-04T04:19:12.430Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtO5p">세계최고의 자리에 선 사람들의 마인드 2. 세계최고 지휘자 카라얀</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["나는 국어를 가르친다"는 틀린 문장입니다]]></title>
-        <id>https://alook.so/posts/dztzrd</id>
-        <link href="https://alook.so/posts/dztzrd"/>
-        <updated>2021-12-04T03:15:22.717Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztzrd">"나는 국어를 가르친다"는 틀린 문장입니다</a>]]></content>
+        <title type="html"><![CDATA["두개 다" 선택하고 추가옵션도 넣겠습니다]]></title>
+        <id>https://alook.so/posts/E7t249</id>
+        <link href="https://alook.so/posts/E7t249"/>
+        <updated>2021-12-04T04:19:12.432Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t249">"두개 다" 선택하고 추가옵션도 넣겠습니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 좋은 인연이 되어..]]></title>
-        <id>https://alook.so/posts/PvtJwz</id>
-        <link href="https://alook.so/posts/PvtJwz"/>
-        <updated>2021-12-04T03:15:22.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtJwz">답글: 좋은 인연이 되어..</a>]]></content>
+        <title type="html"><![CDATA[세계최고의 자리에 선 사람들의 마인드]]></title>
+        <id>https://alook.so/posts/92t4K1</id>
+        <link href="https://alook.so/posts/92t4K1"/>
+        <updated>2021-12-04T04:19:12.433Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t4K1">세계최고의 자리에 선 사람들의 마인드 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해장 음식]]></title>
+        <id>https://alook.so/posts/KmteX4</id>
+        <link href="https://alook.so/posts/KmteX4"/>
+        <updated>2021-12-04T04:19:12.435Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmteX4">해장 음식</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시민의 지킴이 경찰은 왜 견찰이 되었나]]></title>
+        <id>https://alook.so/posts/mbtbP5</id>
+        <link href="https://alook.so/posts/mbtbP5"/>
+        <updated>2021-12-04T04:19:12.437Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtbP5">시민의 지킴이 경찰은 왜 견찰이 되었나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 그래도 남는 작은 "소득"]]></title>
+        <id>https://alook.so/posts/54tMzy</id>
+        <link href="https://alook.so/posts/54tMzy"/>
+        <updated>2021-12-04T04:19:12.438Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tMzy">답글: 그래도 남는 작은 "소득"</a>]]></content>
     </entry>
 </feed>
