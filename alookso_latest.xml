@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-04T13:24:00.244Z</updated>
+    <updated>2021-12-04T14:14:47.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[왜 남녀 임금격차가 날까요?]]></title>
-        <id>https://alook.so/posts/njtbKL</id>
-        <link href="https://alook.so/posts/njtbKL"/>
-        <updated>2021-12-04T13:22:30.692Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtbKL">왜 남녀 임금격차가 날까요?</a>]]></content>
+        <title type="html"><![CDATA[어떤 책이 가장 기억에 남을까?]]></title>
+        <id>https://alook.so/posts/WLt1x7</id>
+        <link href="https://alook.so/posts/WLt1x7"/>
+        <updated>2021-12-04T14:13:24.031Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt1x7">어떤 책이 가장 기억에 남을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["새 백신 나오기전에  모두 '오미크론'감염될것"]]></title>
-        <id>https://alook.so/posts/3wtnyq</id>
-        <link href="https://alook.so/posts/3wtnyq"/>
-        <updated>2021-12-04T13:22:30.694Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtnyq">"새 백신 나오기전에  모두 '오미크론'감염될것"</a>]]></content>
+        <title type="html"><![CDATA[인권이란 무엇인가]]></title>
+        <id>https://alook.so/posts/M9tnlE</id>
+        <link href="https://alook.so/posts/M9tnlE"/>
+        <updated>2021-12-04T14:13:24.031Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tnlE">인권이란 무엇인가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50글자로 무엇을 쓸 수 있을까?]]></title>
-        <id>https://alook.so/posts/G1tapr</id>
-        <link href="https://alook.so/posts/G1tapr"/>
-        <updated>2021-12-04T13:22:30.699Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tapr">50글자로 무엇을 쓸 수 있을까?</a>]]></content>
+        <title type="html"><![CDATA[새로운 기술로 인한 일자리 창출]]></title>
+        <id>https://alook.so/posts/4Xt198</id>
+        <link href="https://alook.so/posts/4Xt198"/>
+        <updated>2021-12-04T14:13:24.031Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt198">새로운 기술로 인한 일자리 창출</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[충분히 행복하실 것 같습니다 !]]></title>
-        <id>https://alook.so/posts/vKt9bL</id>
-        <link href="https://alook.so/posts/vKt9bL"/>
-        <updated>2021-12-04T13:22:30.700Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt9bL">충분히 행복하실 것 같습니다 !</a>]]></content>
+        <title type="html"><![CDATA[십 년 후를 생각한다면 삼성전자]]></title>
+        <id>https://alook.so/posts/XBtdem</id>
+        <link href="https://alook.so/posts/XBtdem"/>
+        <updated>2021-12-04T14:13:24.032Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtdem">십 년 후를 생각한다면 삼성전자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이미 얼루커픽을 받은 게시글은]]></title>
-        <id>https://alook.so/posts/92t490</id>
-        <link href="https://alook.so/posts/92t490"/>
-        <updated>2021-12-04T13:22:30.702Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t490">이미 얼루커픽을 받은 게시글은</a>]]></content>
+        <title type="html"><![CDATA[밤에 안자고 쓰는 일기.]]></title>
+        <id>https://alook.so/posts/RGtEPw</id>
+        <link href="https://alook.so/posts/RGtEPw"/>
+        <updated>2021-12-04T14:13:24.033Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtEPw">밤에 안자고 쓰는 일기.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최애가 최애를 만나다]]></title>
+        <id>https://alook.so/posts/kZt75k</id>
+        <link href="https://alook.so/posts/kZt75k"/>
+        <updated>2021-12-04T14:13:24.034Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt75k">최애가 최애를 만나다</a>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-04T13:24:00.245Z</updated>
+    <updated>2021-12-04T14:14:47.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://alook.so/posts/vKt9aq"/>
         <updated>2021-12-04T11:12:23.237Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt9aq">끝은 새로운 시작입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[학원에서 일하는게 무서웠다-1]]></title>
+        <id>https://alook.so/posts/rDtOrp</id>
+        <link href="https://alook.so/posts/rDtOrp"/>
+        <updated>2021-12-04T14:13:32.423Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtOrp">학원에서 일하는게 무서웠다-1</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이야기와 후기]]></title>
