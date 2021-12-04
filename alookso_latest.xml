@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-04T20:17:06.068Z</updated>
+    <updated>2021-12-04T21:14:58.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[끌올] "작년 삼성전자 주식 샀으면서 투자 늦게 공부한 이유"]]></title>
+        <id>https://alook.so/posts/54tM82</id>
+        <link href="https://alook.so/posts/54tM82"/>
+        <updated>2021-12-04T21:13:24.490Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tM82">[끌올] "작년 삼성전자 주식 샀으면서 투자 늦게 공부한 이유"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[끌올] "작년 삼성전자 주식 샀으면서 투자 늦게 공부한 이유"]]></title>
+        <id>https://alook.so/posts/q1tbRB</id>
+        <link href="https://alook.so/posts/q1tbRB"/>
+        <updated>2021-12-04T21:13:24.492Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tbRB">[끌올] "작년 삼성전자 주식 샀으면서 투자 늦게 공부한 이유"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alookso에서 역주행은 가능한가?- 여러분이 직접 발굴해주세요!]]></title>
+        <id>https://alook.so/posts/DjtKrd</id>
+        <link href="https://alook.so/posts/DjtKrd"/>
+        <updated>2021-12-04T21:13:24.492Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtKrd"> alookso에서 역주행은 가능한가?- 여러분이 직접 발굴해주세요!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 프로젝트 종료일]]></title>
         <id>https://alook.so/posts/1Rtr5V</id>
