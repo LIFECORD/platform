@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-04T01:58:58.990Z</updated>
+    <updated>2021-12-04T02:34:47.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktJly">방역, 거짓말, 그리고 종교: 오미크론 확산 위기</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[얼룩소 프로잭트 종료 그 후.]]></title>
+        <id>https://alook.so/posts/yEtv1R</id>
+        <link href="https://alook.so/posts/yEtv1R"/>
+        <updated>2021-12-03T15:15:52.773Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtv1R">얼룩소 프로잭트 종료 그 후.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[공유경제, 과연 좋기만 한 변화일까?]]></title>
         <id>https://alook.so/posts/a0tzoq</id>
         <link href="https://alook.so/posts/a0tzoq"/>
@@ -53,13 +60,6 @@
         <link href="https://alook.so/posts/E7tVRw"/>
         <updated>2021-12-03T22:14:35.810Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVRw">3차접종(추가접종)이 필요할까요? 해야할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 프로잭트 종료 그 후.]]></title>
-        <id>https://alook.so/posts/yEtv1R</id>
-        <link href="https://alook.so/posts/yEtv1R"/>
-        <updated>2021-12-03T15:15:52.773Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtv1R">얼룩소 프로잭트 종료 그 후.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 판을 맴도는 일용직 노동자의 하루]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktDXv">걱정인형이 여러분의 걱정을 다가져가길~^^</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[주말에 약간] 태국 팝스타의 노래 한 번 들어보세요]]></title>
-        <id>https://alook.so/posts/4Xt1wm</id>
-        <link href="https://alook.so/posts/4Xt1wm"/>
-        <updated>2021-12-03T15:15:52.773Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt1wm">[주말에 약간] 태국 팝스타의 노래 한 번 들어보세요</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나의 제주 정착기 _ 못다한 이야기]]></title>
         <id>https://alook.so/posts/E7tVEw</id>
         <link href="https://alook.so/posts/E7tVEw"/>
         <updated>2021-12-03T22:14:35.816Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tVEw">나의 제주 정착기 _ 못다한 이야기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주말에 약간] 태국 팝스타의 노래 한 번 들어보세요]]></title>
+        <id>https://alook.so/posts/4Xt1wm</id>
+        <link href="https://alook.so/posts/4Xt1wm"/>
+        <updated>2021-12-03T15:15:52.773Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt1wm">[주말에 약간] 태국 팝스타의 노래 한 번 들어보세요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리나라에서 엘사는 공주님이 아니에요.  LH 사는 아이....]]></title>
@@ -109,6 +109,13 @@
         <link href="https://alook.so/posts/latZ6m"/>
         <updated>2021-12-03T22:14:35.817Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latZ6m">오미크론 변이와 확진자 비난, 다시 연대를 생각할 때</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소의 고수들]]></title>
+        <id>https://alook.so/posts/dztzYd</id>
+        <link href="https://alook.so/posts/dztzYd"/>
+        <updated>2021-12-04T02:33:28.440Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztzYd">얼룩소의 고수들</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2개월만에 50권의 책을 읽은 사람의 추천도서 Best3]]></title>
@@ -130,12 +137,5 @@
         <link href="https://alook.so/posts/rDtzVq"/>
         <updated>2021-12-03T22:14:35.822Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtzVq">답글: 추가 접종의 효과가 나타나려면 얼마나 시간이 걸릴까요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[순간의 선택, 그것이 문제다.]]></title>
-        <id>https://alook.so/posts/eVty9w</id>
-        <link href="https://alook.so/posts/eVty9w"/>
-        <updated>2021-12-03T22:14:35.823Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVty9w">순간의 선택, 그것이 문제다.</a>]]></content>
     </entry>
 </feed>
