@@ -2,49 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-04T00:48:03.072Z</updated>
+    <updated>2021-12-04T01:58:58.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[한국이 10대를 불행하게 만들었다]]></title>
-        <id>https://alook.so/posts/rDtOwk</id>
-        <link href="https://alook.so/posts/rDtOwk"/>
-        <updated>2021-12-04T00:46:39.447Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtOwk">한국이 10대를 불행하게 만들었다</a>]]></content>
+        <title type="html"><![CDATA[지금 시국으로 인해 유명해진 신천지..어찌 생각하세요?]]></title>
+        <id>https://alook.so/posts/latPlq</id>
+        <link href="https://alook.so/posts/latPlq"/>
+        <updated>2021-12-04T01:57:28.768Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latPlq">지금 시국으로 인해 유명해진 신천지..어찌 생각하세요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소가 주는 행복과 불행]]></title>
-        <id>https://alook.so/posts/bWt3d2</id>
-        <link href="https://alook.so/posts/bWt3d2"/>
-        <updated>2021-12-04T00:46:39.448Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt3d2">얼룩소가 주는 행복과 불행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주말은 어떻게 보내세요?]]></title>
-        <id>https://alook.so/posts/a0t5mn</id>
-        <link href="https://alook.so/posts/a0t5mn"/>
-        <updated>2021-12-04T00:46:39.449Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t5mn">주말은 어떻게 보내세요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소의 고수들]]></title>
-        <id>https://alook.so/posts/dztzYd</id>
-        <link href="https://alook.so/posts/dztzYd"/>
-        <updated>2021-12-04T00:46:39.451Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztzYd">얼룩소의 고수들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대체 김종인의 마력은?]]></title>
-        <id>https://alook.so/posts/J5tPyD</id>
-        <link href="https://alook.so/posts/J5tPyD"/>
-        <updated>2021-12-04T00:46:39.452Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tPyD">대체 김종인의 마력은? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[익명의 이중성]]></title>
-        <id>https://alook.so/posts/PvtJez</id>
-        <link href="https://alook.so/posts/PvtJez"/>
-        <updated>2021-12-03T23:14:41.599Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtJez">익명의 이중성</a>]]></content>
+        <title type="html"><![CDATA[당신의 대피소는 어디인가요?]]></title>
+        <id>https://alook.so/posts/Kmtek4</id>
+        <link href="https://alook.so/posts/Kmtek4"/>
+        <updated>2021-12-04T01:57:28.770Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtek4">당신의 대피소는 어디인가요?</a>]]></content>
     </entry>
 </feed>
