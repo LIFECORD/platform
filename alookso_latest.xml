@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-05T18:18:07.958Z</updated>
+    <updated>2021-12-05T19:13:16.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[동성과의 결혼해도 된다고 생각하시나요?]]></title>
+        <id>https://alook.so/posts/yEtvb2</id>
+        <link href="https://alook.so/posts/yEtvb2"/>
+        <updated>2021-12-05T19:11:49.444Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtvb2">동성과의 결혼해도 된다고 생각하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너무 빠른 아이들]]></title>
+        <id>https://alook.so/posts/BatLMO</id>
+        <link href="https://alook.so/posts/BatLMO"/>
+        <updated>2021-12-05T19:11:49.445Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatLMO">너무 빠른 아이들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노동의 의미.]]></title>
+        <id>https://alook.so/posts/LKtVWL</id>
+        <link href="https://alook.so/posts/LKtVWL"/>
+        <updated>2021-12-05T19:11:49.446Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtVWL">노동의 의미.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공무원을 하는 이유]]></title>
         <id>https://alook.so/posts/3wtnOZ</id>
