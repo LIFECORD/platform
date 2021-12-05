@@ -2,63 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-04T23:16:37.373Z</updated>
+    <updated>2021-12-05T00:52:36.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[여러분때문에 저 울었습니다.]]></title>
-        <id>https://alook.so/posts/vKt9m2</id>
-        <link href="https://alook.so/posts/vKt9m2"/>
-        <updated>2021-12-04T23:15:07.329Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt9m2">여러분때문에 저 울었습니다.</a>]]></content>
+        <title type="html"><![CDATA[북한과 통일 해야할까??]]></title>
+        <id>https://alook.so/posts/yEtvMJ</id>
+        <link href="https://alook.so/posts/yEtvMJ"/>
+        <updated>2021-12-05T00:51:08.342Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtvMJ">북한과 통일 해야할까??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방역패스 없으면 16개 업종 입장 불가(feat. 잘 계시죠?)]]></title>
-        <id>https://alook.so/posts/E7t2dR</id>
-        <link href="https://alook.so/posts/E7t2dR"/>
-        <updated>2021-12-04T23:15:07.329Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t2dR">방역패스 없으면 16개 업종 입장 불가(feat. 잘 계시죠?)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오락 가락    선거용 부동산세법에    화가남니다]]></title>
-        <id>https://alook.so/posts/Kmteb6</id>
-        <link href="https://alook.so/posts/Kmteb6"/>
-        <updated>2021-12-04T23:15:07.330Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmteb6">오락 가락    선거용 부동산세법에    화가남니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계최고의 자리에 선 사람들의 마인드 공통점.]]></title>
-        <id>https://alook.so/posts/mbtbGD</id>
-        <link href="https://alook.so/posts/mbtbGD"/>
-        <updated>2021-12-04T22:15:17.486Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtbGD">세계최고의 자리에 선 사람들의 마인드 공통점.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[끌올] "작년 삼성전자 주식 샀으면서 투자 늦게 공부한 이유"]]></title>
-        <id>https://alook.so/posts/54tM82</id>
-        <link href="https://alook.so/posts/54tM82"/>
-        <updated>2021-12-04T21:13:24.490Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tM82">[끌올] "작년 삼성전자 주식 샀으면서 투자 늦게 공부한 이유"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[끌올] "작년 삼성전자 주식 샀으면서 투자 늦게 공부한 이유"]]></title>
-        <id>https://alook.so/posts/q1tbRB</id>
-        <link href="https://alook.so/posts/q1tbRB"/>
-        <updated>2021-12-04T21:13:24.492Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tbRB">[끌올] "작년 삼성전자 주식 샀으면서 투자 늦게 공부한 이유"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alookso에서 역주행은 가능한가?- 여러분이 직접 발굴해주세요!]]></title>
-        <id>https://alook.so/posts/DjtKrd</id>
-        <link href="https://alook.so/posts/DjtKrd"/>
-        <updated>2021-12-04T21:13:24.492Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtKrd"> alookso에서 역주행은 가능한가?- 여러분이 직접 발굴해주세요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 프로젝트 종료일]]></title>
-        <id>https://alook.so/posts/1Rtr5V</id>
-        <link href="https://alook.so/posts/1Rtr5V"/>
-        <updated>2021-12-04T19:12:06.359Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtr5V">얼룩소 프로젝트 종료일</a>]]></content>
+        <title type="html"><![CDATA[청개구리같은 나의 마음]]></title>
+        <id>https://alook.so/posts/8Wt2zw</id>
+        <link href="https://alook.so/posts/8Wt2zw"/>
+        <updated>2021-12-05T00:51:08.344Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt2zw">청개구리같은 나의 마음</a>]]></content>
     </entry>
 </feed>
