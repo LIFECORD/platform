@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-05T20:17:15.953Z</updated>
+    <updated>2021-12-05T21:14:16.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[평등은 항상 선인가]]></title>
+        <id>https://alook.so/posts/XBtdb9</id>
+        <link href="https://alook.so/posts/XBtdb9"/>
+        <updated>2021-12-05T21:12:37.951Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtdb9">평등은 항상 선인가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자꾸만 전화하고 카톡하는 여사친..]]></title>
+        <id>https://alook.so/posts/RGtExl</id>
+        <link href="https://alook.so/posts/RGtExl"/>
+        <updated>2021-12-05T21:12:37.951Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtExl">자꾸만 전화하고 카톡하는 여사친..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금 이 또한 지나가리라]]></title>
         <id>https://alook.so/posts/kZt7mY</id>
@@ -39,26 +53,5 @@
         <link href="https://alook.so/posts/3wtnOZ"/>
         <updated>2021-12-05T17:20:29.134Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtnOZ">공무원을 하는 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불안]]></title>
-        <id>https://alook.so/posts/vKt9qk</id>
-        <link href="https://alook.so/posts/vKt9qk"/>
-        <updated>2021-12-05T17:20:29.143Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt9qk">불안</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모든인간이 가지고 있는 능력! 순간이동 능력 보다 뛰어난 능력!]]></title>
-        <id>https://alook.so/posts/latPod</id>
-        <link href="https://alook.so/posts/latPod"/>
-        <updated>2021-12-05T17:20:29.143Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latPod">모든인간이 가지고 있는 능력! 순간이동 능력 보다 뛰어난 능력!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회사가 어려워졌어요]]></title>
-        <id>https://alook.so/posts/92t4k2</id>
-        <link href="https://alook.so/posts/92t4k2"/>
-        <updated>2021-12-05T17:20:29.145Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t4k2">회사가 어려워졌어요</a>]]></content>
     </entry>
 </feed>
