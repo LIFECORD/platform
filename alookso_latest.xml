@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-05T11:13:49.295Z</updated>
+    <updated>2021-12-05T12:23:47.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[더 안정적인 노후를 위해]]></title>
-        <id>https://alook.so/posts/WLt11K</id>
-        <link href="https://alook.so/posts/WLt11K"/>
-        <updated>2021-12-05T11:12:15.754Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt11K">더 안정적인 노후를 위해</a>]]></content>
+        <title type="html"><![CDATA[아이를 키우면서 가장 걱정되는 일은?]]></title>
+        <id>https://alook.so/posts/1RtraE</id>
+        <link href="https://alook.so/posts/1RtraE"/>
+        <updated>2021-12-05T12:22:07.989Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtraE">아이를 키우면서 가장 걱정되는 일은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[의인 10명의 가치]]></title>
-        <id>https://alook.so/posts/0kt44z</id>
-        <link href="https://alook.so/posts/0kt44z"/>
-        <updated>2021-12-05T11:12:15.755Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt44z">의인 10명의 가치</a>]]></content>
+        <title type="html"><![CDATA[올해 수능봤어요]]></title>
+        <id>https://alook.so/posts/o7txwn</id>
+        <link href="https://alook.so/posts/o7txwn"/>
+        <updated>2021-12-05T12:22:07.991Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7txwn">올해 수능봤어요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[매일 사람들은 생각만 합니다.]]></title>
-        <id>https://alook.so/posts/M9tnnR</id>
-        <link href="https://alook.so/posts/M9tnnR"/>
-        <updated>2021-12-05T11:12:15.757Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tnnR">매일 사람들은 생각만 합니다.</a>]]></content>
+        <title type="html"><![CDATA[우리가 일요일 밤이 미워지는 이유.]]></title>
+        <id>https://alook.so/posts/rDtOOZ</id>
+        <link href="https://alook.so/posts/rDtOOZ"/>
+        <updated>2021-12-05T12:22:07.992Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtOOZ">우리가 일요일 밤이 미워지는 이유.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이별]]></title>
-        <id>https://alook.so/posts/kZt77D</id>
-        <link href="https://alook.so/posts/kZt77D"/>
-        <updated>2021-12-05T10:15:36.141Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt77D">이별</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에서의 시간, 그 의미]]></title>
-        <id>https://alook.so/posts/yEtvvw</id>
-        <link href="https://alook.so/posts/yEtvvw"/>
-        <updated>2021-12-05T10:15:36.142Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtvvw">얼룩소에서의 시간, 그 의미</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래의나]]></title>
-        <id>https://alook.so/posts/BatLLW</id>
-        <link href="https://alook.so/posts/BatLLW"/>
-        <updated>2021-12-05T10:15:36.143Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatLLW">미래의나</a>]]></content>
+        <title type="html"><![CDATA[가족과 사업을 하면서 느낀점]]></title>
+        <id>https://alook.so/posts/ZktppX</id>
+        <link href="https://alook.so/posts/ZktppX"/>
+        <updated>2021-12-05T12:22:07.993Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktppX">가족과 사업을 하면서 느낀점</a>]]></content>
     </entry>
 </feed>
