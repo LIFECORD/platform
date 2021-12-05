@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-05T05:15:49.197Z</updated>
+    <updated>2021-12-05T06:18:46.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[애쓰지 말자]]></title>
-        <id>https://alook.so/posts/Kmteq6</id>
-        <link href="https://alook.so/posts/Kmteq6"/>
-        <updated>2021-12-05T05:14:15.390Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmteq6">애쓰지 말자</a>]]></content>
+        <title type="html"><![CDATA[좋아요 수 100개 달성!]]></title>
+        <id>https://alook.so/posts/3wtnvz</id>
+        <link href="https://alook.so/posts/3wtnvz"/>
+        <updated>2021-12-05T06:17:14.750Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtnvz">좋아요 수 100개 달성!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[같은 성별끼리 결혼에 대한 제 생각 입니다]]></title>
-        <id>https://alook.so/posts/mbtbVD</id>
-        <link href="https://alook.so/posts/mbtbVD"/>
-        <updated>2021-12-05T05:14:15.391Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtbVD">같은 성별끼리 결혼에 대한 제 생각 입니다</a>]]></content>
+        <title type="html"><![CDATA[돈이냐  or  아이들이냐?]]></title>
+        <id>https://alook.so/posts/OEt3jE</id>
+        <link href="https://alook.so/posts/OEt3jE"/>
+        <updated>2021-12-05T06:17:14.753Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt3jE">돈이냐  or  아이들이냐?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민연금 체납자 였던 내가...]]></title>
-        <id>https://alook.so/posts/1Rtr8V</id>
-        <link href="https://alook.so/posts/1Rtr8V"/>
-        <updated>2021-12-05T05:14:15.393Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtr8V">국민연금 체납자 였던 내가...</a>]]></content>
+        <title type="html"><![CDATA[여러분들은 얼룩소에서 왜 만원을 주신다고 생각을 하시나요?]]></title>
+        <id>https://alook.so/posts/vKt9j5</id>
+        <link href="https://alook.so/posts/vKt9j5"/>
+        <updated>2021-12-05T06:17:14.754Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt9j5">여러분들은 얼룩소에서 왜 만원을 주신다고 생각을 하시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사회복지의 그늘, 이제는 빛을 비춰야할 때]]></title>
-        <id>https://alook.so/posts/o7txRO</id>
-        <link href="https://alook.so/posts/o7txRO"/>
-        <updated>2021-12-05T05:14:15.394Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7txRO">사회복지의 그늘, 이제는 빛을 비춰야할 때</a>]]></content>
+        <title type="html"><![CDATA[크리스마스에는 지독한 상처를 준 사람들을 위해 기도할 수 있을까요?]]></title>
+        <id>https://alook.so/posts/mbtbpO</id>
+        <link href="https://alook.so/posts/mbtbpO"/>
+        <updated>2021-12-05T06:17:14.756Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtbpO">크리스마스에는 지독한 상처를 준 사람들을 위해 기도할 수 있을까요? </a>]]></content>
     </entry>
 </feed>
