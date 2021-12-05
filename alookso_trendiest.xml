@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-05T16:22:40.302Z</updated>
+    <updated>2021-12-05T17:22:12.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[합격할사람은 운이 나빠도 합격한다.]]></title>
+        <id>https://alook.so/posts/YytBbG</id>
+        <link href="https://alook.so/posts/YytBbG"/>
+        <updated>2021-12-05T17:20:39.088Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytBbG">합격할사람은 운이 나빠도 합격한다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소에서의 시간, 그 의미]]></title>
         <id>https://alook.so/posts/yEtvvw</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/bWt3Mz"/>
         <updated>2021-12-05T15:15:15.935Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt3Mz">얼룩소의 용돈으로 애플을 사보았다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저도 이런 사람을 좋아합니다.]]></title>
-        <id>https://alook.so/posts/J5tPpK</id>
-        <link href="https://alook.so/posts/J5tPpK"/>
-        <updated>2021-12-05T08:17:07.854Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tPpK">저도 이런 사람을 좋아합니다.</a>]]></content>
     </entry>
 </feed>
