@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-05T07:16:06.986Z</updated>
+    <updated>2021-12-05T08:18:23.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[저도 이런 사람을 좋아합니다.]]></title>
+        <id>https://alook.so/posts/J5tPpK</id>
+        <link href="https://alook.so/posts/J5tPpK"/>
+        <updated>2021-12-05T08:17:07.854Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tPpK">저도 이런 사람을 좋아합니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리거북이의 최애  간식  피자]]></title>
         <id>https://alook.so/posts/XBtdkk</id>
@@ -25,6 +32,13 @@
         <link href="https://alook.so/posts/o7txVO"/>
         <updated>2021-12-05T07:14:48.153Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7txVO">나의 타로카드 이야기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이런 일이 나한테 일어날 리 없지]]></title>
+        <id>https://alook.so/posts/70tlz7</id>
+        <link href="https://alook.so/posts/70tlz7"/>
+        <updated>2021-12-05T08:17:07.863Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tlz7">이런 일이 나한테 일어날 리 없지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여러분때문에 저 울었습니다.]]></title>
@@ -74,12 +88,5 @@
         <link href="https://alook.so/posts/2xtOeD"/>
         <updated>2021-12-05T07:14:48.167Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtOeD">부업에 빠져 사는 요즘</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼소UP기능 같이 써보아요.[끌올]]]></title>
-        <id>https://alook.so/posts/kZt71E</id>
-        <link href="https://alook.so/posts/kZt71E"/>
-        <updated>2021-12-05T03:15:17.064Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt71E">얼소UP기능 같이 써보아요.[끌올]</a>]]></content>
     </entry>
 </feed>

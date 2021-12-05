@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-05T07:16:06.981Z</updated>
+    <updated>2021-12-05T08:18:23.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[돈 버는 건 참 쉽지 않습니다.]]></title>
+        <id>https://alook.so/posts/J5tPjx</id>
+        <link href="https://alook.so/posts/J5tPjx"/>
+        <updated>2021-12-05T08:16:59.477Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tPjx">돈 버는 건 참 쉽지 않습니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흥미롭고 안전한 평론가의 삶]]></title>
+        <id>https://alook.so/posts/PvtJ70</id>
+        <link href="https://alook.so/posts/PvtJ70"/>
+        <updated>2021-12-05T08:16:59.478Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtJ70">흥미롭고 안전한 평론가의 삶</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주 4일제 불가능하다]]></title>
         <id>https://alook.so/posts/M9tnpR</id>
         <link href="https://alook.so/posts/M9tnpR"/>
         <updated>2021-12-05T07:14:38.862Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tnpR">주 4일제 불가능하다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 언론을 바꾸는 것보다..]]></title>
-        <id>https://alook.so/posts/XBtdD6</id>
-        <link href="https://alook.so/posts/XBtdD6"/>
-        <updated>2021-12-05T07:14:38.864Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtdD6">한국 언론을 바꾸는 것보다..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인생 컨닝페이퍼]]></title>
-        <id>https://alook.so/posts/w9t8aj</id>
-        <link href="https://alook.so/posts/w9t8aj"/>
-        <updated>2021-12-05T07:14:38.869Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t8aj">인생 컨닝페이퍼</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정말 안전한 공론장인가?]]></title>
-        <id>https://alook.so/posts/kZt7rD</id>
-        <link href="https://alook.so/posts/kZt7rD"/>
-        <updated>2021-12-05T07:14:38.869Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt7rD">정말 안전한 공론장인가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회의원 숫자에 관한 저의 생각입니다.]]></title>
-        <id>https://alook.so/posts/LKtVzl</id>
-        <link href="https://alook.so/posts/LKtVzl"/>
-        <updated>2021-12-05T07:14:38.869Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtVzl">국회의원 숫자에 관한 저의 생각입니다.</a>]]></content>
     </entry>
 </feed>
