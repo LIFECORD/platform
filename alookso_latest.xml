@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-06T20:17:47.645Z</updated>
+    <updated>2021-12-06T21:15:14.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[마음까지 들을수 있는 귀]]></title>
+        <id>https://alook.so/posts/J5tP1v</id>
+        <link href="https://alook.so/posts/J5tP1v"/>
+        <updated>2021-12-06T21:13:54.142Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tP1v">마음까지 들을수 있는 귀</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내직업 추천하나요? 비추하나요?]]></title>
         <id>https://alook.so/posts/eVt4wz</id>
@@ -32,19 +39,5 @@
         <link href="https://alook.so/posts/M9tnJo"/>
         <updated>2021-12-06T19:12:55.187Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tnJo">내직업, 추천합니다 My jop nailist</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침보다 새벽에 글이 잘 써지시는 분?]]></title>
-        <id>https://alook.so/posts/4Xt17R</id>
-        <link href="https://alook.so/posts/4Xt17R"/>
-        <updated>2021-12-06T19:12:55.188Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt17R">아침보다 새벽에 글이 잘 써지시는 분?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국인의 갑질은 한풀이다]]></title>
-        <id>https://alook.so/posts/XBtda0</id>
-        <link href="https://alook.so/posts/XBtda0"/>
-        <updated>2021-12-06T19:12:55.190Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtda0">한국인의 갑질은 한풀이다</a>]]></content>
     </entry>
 </feed>
