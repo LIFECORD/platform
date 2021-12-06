@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-06T00:50:47.631Z</updated>
+    <updated>2021-12-06T02:02:45.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 사실-가치 이분법을 넘어 사회과학에서의 객관성을 향하여]]></title>
-        <id>https://alook.so/posts/E7t28D</id>
-        <link href="https://alook.so/posts/E7t28D"/>
-        <updated>2021-12-06T00:49:18.627Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t28D">답글: 사실-가치 이분법을 넘어 사회과학에서의 객관성을 향하여</a>]]></content>
+        <title type="html"><![CDATA[기동전사 건담(1979)을 TV판으로 봐야하는 이유]]></title>
+        <id>https://alook.so/posts/kZt703</id>
+        <link href="https://alook.so/posts/kZt703"/>
+        <updated>2021-12-06T02:01:05.112Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt703">기동전사 건담(1979)을 TV판으로 봐야하는 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성장과 내실........]]></title>
-        <id>https://alook.so/posts/latPxd</id>
-        <link href="https://alook.so/posts/latPxd"/>
-        <updated>2021-12-06T00:49:18.627Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latPxd">성장과 내실........</a>]]></content>
+        <title type="html"><![CDATA[얼룩소의 진정한 활성화 방안,이건 어떤가요?]]></title>
+        <id>https://alook.so/posts/yEtvq1</id>
+        <link href="https://alook.so/posts/yEtvq1"/>
+        <updated>2021-12-06T02:01:05.113Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtvq1">얼룩소의 진정한 활성화 방안,이건 어떤가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경기도 세무서장님의 말씀 "오빠라고 불러봐라”]]></title>
-        <id>https://alook.so/posts/mbtbzZ</id>
-        <link href="https://alook.so/posts/mbtbzZ"/>
-        <updated>2021-12-06T00:49:18.632Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtbzZ">경기도 세무서장님의 말씀 "오빠라고 불러봐라” </a>]]></content>
+        <title type="html"><![CDATA[동성결혼 아직 때가 아니다.]]></title>
+        <id>https://alook.so/posts/BatL9a</id>
+        <link href="https://alook.so/posts/BatL9a"/>
+        <updated>2021-12-06T02:01:05.114Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatL9a">동성결혼 아직 때가 아니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[손가락들이 저지르는 만행?]]></title>
-        <id>https://alook.so/posts/54tMlm</id>
-        <link href="https://alook.so/posts/54tMlm"/>
-        <updated>2021-12-06T00:49:18.632Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tMlm">손가락들이 저지르는 만행?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슬플 땐 책을 읽어요]]></title>
-        <id>https://alook.so/posts/1Rtr3a</id>
-        <link href="https://alook.so/posts/1Rtr3a"/>
-        <updated>2021-12-06T00:49:18.632Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtr3a">슬플 땐 책을 읽어요</a>]]></content>
+        <title type="html"><![CDATA[알아선 안 되고 알려져서도 안 되는 - 오미크론 확진자 개인정보 공개에 대한 단상]]></title>
+        <id>https://alook.so/posts/njtbml</id>
+        <link href="https://alook.so/posts/njtbml"/>
+        <updated>2021-12-06T02:01:05.116Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtbml">알아선 안 되고 알려져서도 안 되는 - 오미크론 확진자 개인정보 공개에 대한 단상</a>]]></content>
     </entry>
 </feed>
