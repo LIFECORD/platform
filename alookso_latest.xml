@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-06T14:15:17.130Z</updated>
+    <updated>2021-12-06T15:17:49.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[기후위기를 막을 수 있는 아주 사소한 행동]]></title>
-        <id>https://alook.so/posts/M9tnOo</id>
-        <link href="https://alook.so/posts/M9tnOo"/>
-        <updated>2021-12-06T14:13:49.081Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tnOo">기후위기를 막을 수 있는 아주 사소한 행동</a>]]></content>
+        <title type="html"><![CDATA[동성결혼, 사회의 긍정적인 결과를 만든다.]]></title>
+        <id>https://alook.so/posts/YytBnX</id>
+        <link href="https://alook.so/posts/YytBnX"/>
+        <updated>2021-12-06T15:16:17.001Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytBnX">동성결혼, 사회의 긍정적인 결과를 만든다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고단한 회사 생활 - 실력과 정치사이]]></title>
-        <id>https://alook.so/posts/w9t8XL</id>
-        <link href="https://alook.so/posts/w9t8XL"/>
-        <updated>2021-12-06T14:13:49.082Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t8XL">고단한 회사 생활 - 실력과 정치사이</a>]]></content>
+        <title type="html"><![CDATA[신뢰가 깨졌을때 다시믿어도 될까요?]]></title>
+        <id>https://alook.so/posts/a0t5W9</id>
+        <link href="https://alook.so/posts/a0t5W9"/>
+        <updated>2021-12-06T15:16:17.002Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t5W9">신뢰가 깨졌을때 다시믿어도 될까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저도 감사합니다.]]></title>
-        <id>https://alook.so/posts/kZt7Xd</id>
-        <link href="https://alook.so/posts/kZt7Xd"/>
-        <updated>2021-12-06T14:13:49.085Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt7Xd">저도 감사합니다.</a>]]></content>
+        <title type="html"><![CDATA[이제 만원에는 흥미가 떨어져버렸습니다.(퇴사를 결심했습니다 비하인드)]]></title>
+        <id>https://alook.so/posts/J5tPKv</id>
+        <link href="https://alook.so/posts/J5tPKv"/>
+        <updated>2021-12-06T15:16:17.004Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tPKv">이제 만원에는 흥미가 떨어져버렸습니다.(퇴사를 결심했습니다 비하인드)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족이 부담스러웠을 때]]></title>
-        <id>https://alook.so/posts/BatL1Y</id>
-        <link href="https://alook.so/posts/BatL1Y"/>
-        <updated>2021-12-06T14:13:49.085Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatL1Y">가족이 부담스러웠을 때</a>]]></content>
+        <title type="html"><![CDATA[30대, 새로운 직업을 가지려 한다는 게]]></title>
+        <id>https://alook.so/posts/eVt4oz</id>
+        <link href="https://alook.so/posts/eVt4oz"/>
+        <updated>2021-12-06T15:16:17.005Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt4oz">30대, 새로운 직업을 가지려 한다는 게 </a>]]></content>
     </entry>
 </feed>
