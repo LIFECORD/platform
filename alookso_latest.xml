@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-06T16:20:21.553Z</updated>
+    <updated>2021-12-06T17:14:02.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[여러분 아이의 장점은 무엇인가요?]]></title>
-        <id>https://alook.so/posts/E7t2Db</id>
-        <link href="https://alook.so/posts/E7t2Db"/>
-        <updated>2021-12-06T16:18:59.009Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t2Db">여러분 아이의 장점은 무엇인가요?</a>]]></content>
+        <title type="html"><![CDATA[암을 이기는 확실한 방법.]]></title>
+        <id>https://alook.so/posts/yEtv47</id>
+        <link href="https://alook.so/posts/yEtv47"/>
+        <updated>2021-12-06T17:12:39.538Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtv47">암을 이기는 확실한 방법.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대한민국의 저출산 문제 고찰]]></title>
-        <id>https://alook.so/posts/KmteOM</id>
-        <link href="https://alook.so/posts/KmteOM"/>
-        <updated>2021-12-06T16:18:59.009Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmteOM">대한민국의 저출산 문제 고찰</a>]]></content>
+        <title type="html"><![CDATA[사랑하는 사람에게 꽂혀 헤어나올 수가 없네요]]></title>
+        <id>https://alook.so/posts/BatLRY</id>
+        <link href="https://alook.so/posts/BatLRY"/>
+        <updated>2021-12-06T17:12:39.539Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatLRY">사랑하는 사람에게 꽂혀 헤어나올 수가 없네요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["엄마 같은 여자가 좋다"는 남자들에게]]></title>
-        <id>https://alook.so/posts/mbtbXb</id>
-        <link href="https://alook.so/posts/mbtbXb"/>
-        <updated>2021-12-06T16:18:59.010Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtbXb">"엄마 같은 여자가 좋다"는 남자들에게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리집 김장김치엔 무엇이 들었을까?]]></title>
-        <id>https://alook.so/posts/54tMeq</id>
-        <link href="https://alook.so/posts/54tMeq"/>
-        <updated>2021-12-06T16:18:59.011Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tMeq">우리집 김장김치엔 무엇이 들었을까? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해도된다]]></title>
-        <id>https://alook.so/posts/q1tbL7</id>
-        <link href="https://alook.so/posts/q1tbL7"/>
-        <updated>2021-12-06T16:18:59.013Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tbL7">해도된다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떼창 문화... 한국 거였어?]]></title>
-        <id>https://alook.so/posts/DjtKWB</id>
-        <link href="https://alook.so/posts/DjtKWB"/>
-        <updated>2021-12-06T16:18:59.014Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtKWB">떼창 문화... 한국 거였어?</a>]]></content>
+        <title type="html"><![CDATA[모두가 잠든 이른 새벽, 산책을 좋아하는 저는 이상한걸까요?]]></title>
+        <id>https://alook.so/posts/G1taOG</id>
+        <link href="https://alook.so/posts/G1taOG"/>
+        <updated>2021-12-06T17:12:39.541Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1taOG">모두가 잠든 이른 새벽, 산책을 좋아하는 저는 이상한걸까요?</a>]]></content>
     </entry>
 </feed>
