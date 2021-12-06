@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-05T23:16:23.801Z</updated>
+    <updated>2021-12-06T00:50:47.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[근원을 알아야죠...]]></title>
-        <id>https://alook.so/posts/potjMb</id>
-        <link href="https://alook.so/posts/potjMb"/>
-        <updated>2021-12-05T23:14:51.849Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potjMb">근원을 알아야죠...</a>]]></content>
+        <title type="html"><![CDATA[답글: 사실-가치 이분법을 넘어 사회과학에서의 객관성을 향하여]]></title>
+        <id>https://alook.so/posts/E7t28D</id>
+        <link href="https://alook.so/posts/E7t28D"/>
+        <updated>2021-12-06T00:49:18.627Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t28D">답글: 사실-가치 이분법을 넘어 사회과학에서의 객관성을 향하여</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도와주세요....20대, 대학생을 준비하려면?]]></title>
-        <id>https://alook.so/posts/eVt4mR</id>
-        <link href="https://alook.so/posts/eVt4mR"/>
-        <updated>2021-12-05T23:14:51.855Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt4mR">도와주세요....20대, 대학생을 준비하려면?</a>]]></content>
+        <title type="html"><![CDATA[성장과 내실........]]></title>
+        <id>https://alook.so/posts/latPxd</id>
+        <link href="https://alook.so/posts/latPxd"/>
+        <updated>2021-12-06T00:49:18.627Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latPxd">성장과 내실........</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성폭력을 당한 일이 불명예인가요?]]></title>
-        <id>https://alook.so/posts/PvtJmr</id>
-        <link href="https://alook.so/posts/PvtJmr"/>
-        <updated>2021-12-05T23:14:51.857Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtJmr">성폭력을 당한 일이 불명예인가요?</a>]]></content>
+        <title type="html"><![CDATA[경기도 세무서장님의 말씀 "오빠라고 불러봐라”]]></title>
+        <id>https://alook.so/posts/mbtbzZ</id>
+        <link href="https://alook.so/posts/mbtbzZ"/>
+        <updated>2021-12-06T00:49:18.632Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtbzZ">경기도 세무서장님의 말씀 "오빠라고 불러봐라” </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소가 주는 고민]]></title>
-        <id>https://alook.so/posts/Vntz4w</id>
-        <link href="https://alook.so/posts/Vntz4w"/>
-        <updated>2021-12-05T23:14:51.857Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntz4w">얼룩소가 주는 고민</a>]]></content>
+        <title type="html"><![CDATA[손가락들이 저지르는 만행?]]></title>
+        <id>https://alook.so/posts/54tMlm</id>
+        <link href="https://alook.so/posts/54tMlm"/>
+        <updated>2021-12-06T00:49:18.632Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tMlm">손가락들이 저지르는 만행?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[독한사람이 되고싶어요]]></title>
-        <id>https://alook.so/posts/zvtvwG</id>
-        <link href="https://alook.so/posts/zvtvwG"/>
-        <updated>2021-12-05T23:14:51.858Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtvwG">독한사람이 되고싶어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너무 마음이 아픕니다...]]></title>
-        <id>https://alook.so/posts/M9tnXZ</id>
-        <link href="https://alook.so/posts/M9tnXZ"/>
-        <updated>2021-12-05T22:13:55.840Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tnXZ">너무 마음이 아픕니다...</a>]]></content>
+        <title type="html"><![CDATA[슬플 땐 책을 읽어요]]></title>
+        <id>https://alook.so/posts/1Rtr3a</id>
+        <link href="https://alook.so/posts/1Rtr3a"/>
+        <updated>2021-12-06T00:49:18.632Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtr3a">슬플 땐 책을 읽어요</a>]]></content>
     </entry>
 </feed>
