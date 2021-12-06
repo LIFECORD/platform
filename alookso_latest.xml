@@ -2,42 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-06T03:16:56.624Z</updated>
+    <updated>2021-12-06T04:20:39.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[평등은 근대민주주의사회의 기본전제입니다.]]></title>
-        <id>https://alook.so/posts/Zktpek</id>
-        <link href="https://alook.so/posts/Zktpek"/>
-        <updated>2021-12-06T03:15:24.098Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktpek">평등은 근대민주주의사회의 기본전제입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자녀를 낳는다는 것]]></title>
-        <id>https://alook.so/posts/J5tP44</id>
-        <link href="https://alook.so/posts/J5tP44"/>
-        <updated>2021-12-06T03:15:24.100Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tP44">자녀를 낳는다는 것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고령화 운전 전 오늘 다시생각합니다..]]></title>
-        <id>https://alook.so/posts/potj5M</id>
-        <link href="https://alook.so/posts/potj5M"/>
-        <updated>2021-12-06T03:15:24.107Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potj5M">고령화 운전 전 오늘 다시생각합니다..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마에게 죄송해요]]></title>
-        <id>https://alook.so/posts/Vntzbz</id>
-        <link href="https://alook.so/posts/Vntzbz"/>
-        <updated>2021-12-06T03:15:24.108Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntzbz">엄마에게 죄송해요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자존감과 자존심은 반비례한다]]></title>
-        <id>https://alook.so/posts/2xtOVZ</id>
-        <link href="https://alook.so/posts/2xtOVZ"/>
-        <updated>2021-12-06T03:15:24.109Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtOVZ">자존감과 자존심은 반비례한다</a>]]></content>
+        <title type="html"><![CDATA[졸업을 했는데 백수입니다만...]]></title>
+        <id>https://alook.so/posts/92t4oE</id>
+        <link href="https://alook.so/posts/92t4oE"/>
+        <updated>2021-12-06T04:19:03.904Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t4oE">졸업을 했는데 백수입니다만...</a>]]></content>
     </entry>
 </feed>
