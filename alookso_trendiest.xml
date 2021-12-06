@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-06T15:17:49.865Z</updated>
+    <updated>2021-12-06T16:20:21.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt9m2">여러분때문에 저 울었습니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[암환자, 어떻게 살아야 할까요?]]></title>
+        <id>https://alook.so/posts/XBtd1K</id>
+        <link href="https://alook.so/posts/XBtd1K"/>
+        <updated>2021-12-06T14:13:57.641Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtd1K">암환자, 어떻게 살아야 할까요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[알아선 안 되고 알려져서도 안 되는 - 오미크론 확진자 개인정보 공개에 대한 단상]]></title>
         <id>https://alook.so/posts/njtbml</id>
         <link href="https://alook.so/posts/njtbml"/>
@@ -67,13 +74,6 @@
         <link href="https://alook.so/posts/a0t5z3"/>
         <updated>2021-12-06T14:13:57.635Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t5z3">행동하지 않아 50만원을 날렸습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암환자, 어떻게 살아야 할까요?]]></title>
-        <id>https://alook.so/posts/XBtd1K</id>
-        <link href="https://alook.so/posts/XBtd1K"/>
-        <updated>2021-12-06T14:13:57.641Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtd1K">암환자, 어떻게 살아야 할까요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오은영 박사가 욕먹는게 당연한 이유]]></title>
@@ -116,5 +116,12 @@
         <link href="https://alook.so/posts/PvtJmr"/>
         <updated>2021-12-06T14:13:57.640Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtJmr">성폭력을 당한 일이 불명예인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소가 주는 고민]]></title>
+        <id>https://alook.so/posts/Vntz4w</id>
+        <link href="https://alook.so/posts/Vntz4w"/>
+        <updated>2021-12-06T16:19:07.278Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntz4w">얼룩소가 주는 고민</a>]]></content>
     </entry>
 </feed>
