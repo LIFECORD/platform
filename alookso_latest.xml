@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-06T07:17:10.724Z</updated>
+    <updated>2021-12-06T08:19:54.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[지라시와 음모론, 진실은 몇 퍼센트 일까?]]></title>
-        <id>https://alook.so/posts/DjtKLp</id>
-        <link href="https://alook.so/posts/DjtKLp"/>
-        <updated>2021-12-06T07:15:38.039Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtKLp">지라시와 음모론, 진실은 몇 퍼센트 일까?</a>]]></content>
+        <title type="html"><![CDATA[답글: 저도 부업에 빠져 사는 요즘...]]></title>
+        <id>https://alook.so/posts/zvtvW8</id>
+        <link href="https://alook.so/posts/zvtvW8"/>
+        <updated>2021-12-06T08:18:21.650Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtvW8">답글: 저도 부업에 빠져 사는 요즘...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중요한 건 맞춤법이 아니야.]]></title>
-        <id>https://alook.so/posts/70tl63</id>
-        <link href="https://alook.so/posts/70tl63"/>
-        <updated>2021-12-06T07:15:38.040Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tl63">중요한 건 맞춤법이 아니야. </a>]]></content>
+        <title type="html"><![CDATA[손가락들이 저지르는 만행?]]></title>
+        <id>https://alook.so/posts/WLt1pr</id>
+        <link href="https://alook.so/posts/WLt1pr"/>
+        <updated>2021-12-06T08:18:21.652Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt1pr">손가락들이 저지르는 만행?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다 좋네요, 다 좋아서 문제]]></title>
-        <id>https://alook.so/posts/latP39</id>
-        <link href="https://alook.so/posts/latP39"/>
-        <updated>2021-12-06T07:15:38.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latP39">다 좋네요, 다 좋아서 문제</a>]]></content>
+        <title type="html"><![CDATA[저도 50자로 저에게 하고싶은말^^]]></title>
+        <id>https://alook.so/posts/0kt40x</id>
+        <link href="https://alook.so/posts/0kt40x"/>
+        <updated>2021-12-06T08:18:21.656Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt40x">저도 50자로 저에게 하고싶은말^^</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 여러분때문에 저 울었습니다.]]></title>
+        <id>https://alook.so/posts/4Xt1qL</id>
+        <link href="https://alook.so/posts/4Xt1qL"/>
+        <updated>2021-12-06T08:18:21.656Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt1qL">답글: 여러분때문에 저 울었습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래가치와 성장가치에 투자하다.]]></title>
+        <id>https://alook.so/posts/XBtdPP</id>
+        <link href="https://alook.so/posts/XBtdPP"/>
+        <updated>2021-12-06T08:18:21.657Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtdPP">미래가치와 성장가치에 투자하다.</a>]]></content>
     </entry>
 </feed>
