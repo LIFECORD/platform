@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-07T22:16:46.928Z</updated>
+    <updated>2021-12-07T23:16:59.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA["한국, 서유럽만큼 부유하지만 불평등은 훨씬 심각"]]></title>
+        <id>https://alook.so/posts/6Mtqvo</id>
+        <link href="https://alook.so/posts/6Mtqvo"/>
+        <updated>2021-12-07T23:15:25.883Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtqvo">"한국, 서유럽만큼 부유하지만 불평등은 훨씬 심각"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[확진자 7000 명 돌파(feat. 오미크론 : 서울은 처음이야!)]]></title>
+        <id>https://alook.so/posts/8Wt2Gb</id>
+        <link href="https://alook.so/posts/8Wt2Gb"/>
+        <updated>2021-12-07T23:15:25.886Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt2Gb">확진자 7000 명 돌파(feat. 오미크론 : 서울은 처음이야!)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디자이너라는 직업]]></title>
+        <id>https://alook.so/posts/OEt3br</id>
+        <link href="https://alook.so/posts/OEt3br"/>
+        <updated>2021-12-07T23:15:25.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt3br">디자이너라는 직업</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글을 쓸 때는 쓰기만 하라]]></title>
+        <id>https://alook.so/posts/vKt9Mw</id>
+        <link href="https://alook.so/posts/vKt9Mw"/>
+        <updated>2021-12-07T23:15:25.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt9Mw">글을 쓸 때는 쓰기만 하라</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부모님생각]]></title>
         <id>https://alook.so/posts/E7t2qr</id>
         <link href="https://alook.so/posts/E7t2qr"/>
         <updated>2021-12-07T22:15:06.628Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t2qr"> 부모님생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관계의 무계]]></title>
-        <id>https://alook.so/posts/54tMRG</id>
-        <link href="https://alook.so/posts/54tMRG"/>
-        <updated>2021-12-07T21:13:38.110Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tMRG">관계의 무계</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 패스는 '공동체 보호'를 위한 필수 불가결한가]]></title>
-        <id>https://alook.so/posts/q1tbJ2</id>
-        <link href="https://alook.so/posts/q1tbJ2"/>
-        <updated>2021-12-07T21:13:38.110Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tbJ2">백신 패스는 '공동체 보호'를 위한 필수 불가결한가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사형을 집행해야합니다.]]></title>
-        <id>https://alook.so/posts/DjtKRL</id>
-        <link href="https://alook.so/posts/DjtKRL"/>
-        <updated>2021-12-07T21:13:38.110Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtKRL">사형을 집행해야합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛]]></title>
-        <id>https://alook.so/posts/1Rtr9e</id>
-        <link href="https://alook.so/posts/1Rtr9e"/>
-        <updated>2021-12-07T21:13:38.111Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtr9e">빛</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이를 행복하게 해줄수있을까?]]></title>
-        <id>https://alook.so/posts/o7txJ7</id>
-        <link href="https://alook.so/posts/o7txJ7"/>
-        <updated>2021-12-07T21:13:38.111Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7txJ7">아이를 행복하게 해줄수있을까?</a>]]></content>
     </entry>
 </feed>
