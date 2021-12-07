@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-07T17:25:31.504Z</updated>
+    <updated>2021-12-07T18:19:39.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -32,26 +32,5 @@
         <link href="https://alook.so/posts/J5tP3z"/>
         <updated>2021-12-07T17:24:06.669Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tP3z">꾸준함을 이기는 것은 없다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작심삼일]]></title>
-        <id>https://alook.so/posts/eVt47j</id>
-        <link href="https://alook.so/posts/eVt47j"/>
-        <updated>2021-12-07T17:24:06.671Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt47j">작심삼일</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이, 잘 키우고 싶다]]></title>
-        <id>https://alook.so/posts/zvtvoO</id>
-        <link href="https://alook.so/posts/zvtvoO"/>
-        <updated>2021-12-07T17:24:06.673Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtvoO">아이, 잘 키우고 싶다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스웨덴의 경우]]></title>
-        <id>https://alook.so/posts/2xtOGL</id>
-        <link href="https://alook.so/posts/2xtOGL"/>
-        <updated>2021-12-07T17:24:06.674Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtOGL">스웨덴의 경우</a>]]></content>
     </entry>
 </feed>
