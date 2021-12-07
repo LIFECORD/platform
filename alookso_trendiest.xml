@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-07T13:26:54.294Z</updated>
+    <updated>2021-12-07T14:16:15.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -62,6 +62,20 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtb3G">오은영 박사가 욕먹는게 당연한 이유</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아내가 코로나 밀접 접촉자라고 연락을 받았습니다]]></title>
+        <id>https://alook.so/posts/o7tx39</id>
+        <link href="https://alook.so/posts/o7tx39"/>
+        <updated>2021-12-07T12:24:54.253Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tx39">아내가 코로나 밀접 접촉자라고 연락을 받았습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불평등한 장면(Unequal Scene)]]></title>
+        <id>https://alook.so/posts/E7t2Bp</id>
+        <link href="https://alook.so/posts/E7t2Bp"/>
+        <updated>2021-12-07T10:17:42.329Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t2Bp">불평등한 장면(Unequal Scene)</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[답글 : 어느 아파트 리모델링 조합원으로서 겪었던 일]]></title>
         <id>https://alook.so/posts/LKtV0w</id>
         <link href="https://alook.so/posts/LKtV0w"/>
@@ -76,25 +90,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtr3a">슬플 땐 책을 읽어요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불평등한 장면(Unequal Scene)]]></title>
-        <id>https://alook.so/posts/E7t2Bp</id>
-        <link href="https://alook.so/posts/E7t2Bp"/>
-        <updated>2021-12-07T10:17:42.329Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t2Bp">불평등한 장면(Unequal Scene)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이런 일이 나한테 일어날 리 없지]]></title>
         <id>https://alook.so/posts/70tlz7</id>
         <link href="https://alook.so/posts/70tlz7"/>
         <updated>2021-12-07T12:24:54.251Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tlz7">이런 일이 나한테 일어날 리 없지</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에서의 시간, 그 의미]]></title>
-        <id>https://alook.so/posts/yEtvvw</id>
-        <link href="https://alook.so/posts/yEtvvw"/>
-        <updated>2021-12-07T12:24:54.252Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtvvw">얼룩소에서의 시간, 그 의미</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새로운 루틴]]></title>
@@ -104,11 +104,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latPd1">새로운 루틴</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아내가 코로나 밀접 접촉자라고 연락을 받았습니다]]></title>
-        <id>https://alook.so/posts/o7tx39</id>
-        <link href="https://alook.so/posts/o7tx39"/>
-        <updated>2021-12-07T12:24:54.253Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tx39">아내가 코로나 밀접 접촉자라고 연락을 받았습니다</a>]]></content>
+        <title type="html"><![CDATA[얼룩소에서의 시간, 그 의미]]></title>
+        <id>https://alook.so/posts/yEtvvw</id>
+        <link href="https://alook.so/posts/yEtvvw"/>
+        <updated>2021-12-07T12:24:54.252Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtvvw">얼룩소에서의 시간, 그 의미</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나보다 안좋은 상황의 사람을 보며 안도감을 느끼나요?]]></title>
@@ -123,19 +123,5 @@
         <link href="https://alook.so/posts/8Wt254"/>
         <updated>2021-12-07T08:19:31.457Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt254">고소득 분리에 관한 생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알아선 안 되고 알려져서도 안 되는 - 오미크론 확진자 개인정보 공개에 대한 단상]]></title>
-        <id>https://alook.so/posts/njtbml</id>
-        <link href="https://alook.so/posts/njtbml"/>
-        <updated>2021-12-07T12:24:54.255Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtbml">알아선 안 되고 알려져서도 안 되는 - 오미크론 확진자 개인정보 공개에 대한 단상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학원에서 일하는게 무서웠다 -2]]></title>
-        <id>https://alook.so/posts/mbtbyb</id>
-        <link href="https://alook.so/posts/mbtbyb"/>
-        <updated>2021-12-07T13:25:34.844Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtbyb">학원에서 일하는게 무서웠다 -2</a>]]></content>
     </entry>
 </feed>
