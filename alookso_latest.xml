@@ -2,21 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-07T09:17:16.277Z</updated>
+    <updated>2021-12-07T10:18:58.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 탈락은 실패가 아닙니다.]]></title>
-        <id>https://alook.so/posts/w9t8M8</id>
-        <link href="https://alook.so/posts/w9t8M8"/>
-        <updated>2021-12-07T09:15:50.256Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t8M8">답글: 탈락은 실패가 아닙니다.</a>]]></content>
+        <title type="html"><![CDATA[정치인의 옳고 그름을 말하기 전에 ...]]></title>
+        <id>https://alook.so/posts/J5tPDd</id>
+        <link href="https://alook.so/posts/J5tPDd"/>
+        <updated>2021-12-07T10:17:33.615Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tPDd">정치인의 옳고 그름을 말하기 전에 ...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중고딩 딸둘을둔 압하로서...]]></title>
-        <id>https://alook.so/posts/6MtqP7</id>
-        <link href="https://alook.so/posts/6MtqP7"/>
-        <updated>2021-12-07T09:15:50.257Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtqP7">중고딩 딸둘을둔 압하로서...</a>]]></content>
+        <title type="html"><![CDATA[오징어 (말리기)게임]]></title>
+        <id>https://alook.so/posts/potj18</id>
+        <link href="https://alook.so/posts/potj18"/>
+        <updated>2021-12-07T10:17:33.623Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potj18">오징어 (말리기)게임</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래에는 채식이 대세가 될까라는 주제에 저의 생각]]></title>
+        <id>https://alook.so/posts/eVt4Pa</id>
+        <link href="https://alook.so/posts/eVt4Pa"/>
+        <updated>2021-12-07T10:17:33.623Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt4Pa">미래에는 채식이 대세가 될까라는 주제에 저의 생각</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컴퓨터로 시간 쪼개기 ...]]></title>
+        <id>https://alook.so/posts/VntzdP</id>
+        <link href="https://alook.so/posts/VntzdP"/>
+        <updated>2021-12-07T10:17:33.623Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntzdP">컴퓨터로 시간 쪼개기 ...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 맞습니다. 중요한건 맞춤법이 아닙니다]]></title>
+        <id>https://alook.so/posts/zvtvr3</id>
+        <link href="https://alook.so/posts/zvtvr3"/>
+        <updated>2021-12-07T10:17:33.623Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtvr3">답글: 맞습니다. 중요한건 맞춤법이 아닙니다</a>]]></content>
     </entry>
 </feed>
