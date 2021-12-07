@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-07T21:15:10.653Z</updated>
+    <updated>2021-12-07T22:16:46.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[부모님생각]]></title>
+        <id>https://alook.so/posts/E7t2qr</id>
+        <link href="https://alook.so/posts/E7t2qr"/>
+        <updated>2021-12-07T22:15:06.628Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t2qr"> 부모님생각</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[관계의 무계]]></title>
         <id>https://alook.so/posts/54tMRG</id>
@@ -39,19 +46,5 @@
         <link href="https://alook.so/posts/o7txJ7"/>
         <updated>2021-12-07T21:13:38.111Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7txJ7">아이를 행복하게 해줄수있을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[k-pop이 세계를 제패한 이유는 너무 간단합니다.]]></title>
-        <id>https://alook.so/posts/YytBpb</id>
-        <link href="https://alook.so/posts/YytBpb"/>
-        <updated>2021-12-07T20:16:40.737Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytBpb">k-pop이 세계를 제패한 이유는 너무 간단합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가치가 있을까요??]]></title>
-        <id>https://alook.so/posts/rDtOqO</id>
-        <link href="https://alook.so/posts/rDtOqO"/>
-        <updated>2021-12-07T20:16:40.738Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtOqO">가치가 있을까요??</a>]]></content>
     </entry>
 </feed>
