@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-08T14:15:36.555Z</updated>
+    <updated>2021-12-08T15:17:18.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[무지에 대하여 ...]]></title>
-        <id>https://alook.so/posts/xltdpL</id>
-        <link href="https://alook.so/posts/xltdpL"/>
-        <updated>2021-12-08T14:14:14.169Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltdpL">무지에 대하여 ...</a>]]></content>
+        <title type="html"><![CDATA[국회의원 숫자를 줄여야 할가요? 늘려야 할까요? 여러분들의 생각은요?]]></title>
+        <id>https://alook.so/posts/rDtOBl</id>
+        <link href="https://alook.so/posts/rDtOBl"/>
+        <updated>2021-12-08T15:15:55.214Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtOBl">국회의원 숫자를 줄여야 할가요? 늘려야 할까요? 여러분들의 생각은요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대학 졸업장이 중요한 이유, - 더 넓은 선택의 폭과 기회가 있다.]]></title>
-        <id>https://alook.so/posts/BatLP4</id>
-        <link href="https://alook.so/posts/BatLP4"/>
-        <updated>2021-12-08T14:14:14.170Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatLP4">대학 졸업장이 중요한 이유, - 더 넓은 선택의 폭과 기회가 있다.</a>]]></content>
+        <title type="html"><![CDATA[난생처음 요가... 지금껏 막 살았더군요]]></title>
+        <id>https://alook.so/posts/Zktpdm</id>
+        <link href="https://alook.so/posts/Zktpdm"/>
+        <updated>2021-12-08T15:15:55.215Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktpdm">난생처음 요가... 지금껏 막 살았더군요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저는 유재석님팬입니다]]></title>
-        <id>https://alook.so/posts/LKtVdj</id>
-        <link href="https://alook.so/posts/LKtVdj"/>
-        <updated>2021-12-08T14:14:14.171Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtVdj"> 저는 유재석님팬입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이돌 세계의 스토킹, 사생 - 스토킹 처벌법]]></title>
-        <id>https://alook.so/posts/6MtqkZ</id>
-        <link href="https://alook.so/posts/6MtqkZ"/>
-        <updated>2021-12-08T14:14:14.173Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtqkZ">아이돌 세계의 스토킹, 사생 - 스토킹 처벌법</a>]]></content>
+        <title type="html"><![CDATA[얼룩소 디자인 업데이트 이모저모]]></title>
+        <id>https://alook.so/posts/dztzpY</id>
+        <link href="https://alook.so/posts/dztzpY"/>
+        <updated>2021-12-08T15:15:55.216Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztzpY">얼룩소 디자인 업데이트 이모저모</a>]]></content>
     </entry>
 </feed>
