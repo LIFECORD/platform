@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-07T23:16:59.787Z</updated>
+    <updated>2021-12-08T00:51:02.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA["한국, 서유럽만큼 부유하지만 불평등은 훨씬 심각"]]></title>
-        <id>https://alook.so/posts/6Mtqvo</id>
-        <link href="https://alook.so/posts/6Mtqvo"/>
-        <updated>2021-12-07T23:15:25.883Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtqvo">"한국, 서유럽만큼 부유하지만 불평등은 훨씬 심각"</a>]]></content>
+        <title type="html"><![CDATA[코로나 신규확진자 7175명..]]></title>
+        <id>https://alook.so/posts/eVt48k</id>
+        <link href="https://alook.so/posts/eVt48k"/>
+        <updated>2021-12-08T00:49:34.153Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt48k">코로나 신규확진자 7175명..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[확진자 7000 명 돌파(feat. 오미크론 : 서울은 처음이야!)]]></title>
-        <id>https://alook.so/posts/8Wt2Gb</id>
-        <link href="https://alook.so/posts/8Wt2Gb"/>
-        <updated>2021-12-07T23:15:25.886Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt2Gb">확진자 7000 명 돌파(feat. 오미크론 : 서울은 처음이야!)</a>]]></content>
+        <title type="html"><![CDATA[하나를 보면 열을 안다]]></title>
+        <id>https://alook.so/posts/VntzKe</id>
+        <link href="https://alook.so/posts/VntzKe"/>
+        <updated>2021-12-08T00:49:34.156Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntzKe">하나를 보면 열을 안다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[디자이너라는 직업]]></title>
-        <id>https://alook.so/posts/OEt3br</id>
-        <link href="https://alook.so/posts/OEt3br"/>
-        <updated>2021-12-07T23:15:25.891Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt3br">디자이너라는 직업</a>]]></content>
+        <title type="html"><![CDATA[화장실 갈때 마음, 나올때 마음 다르다]]></title>
+        <id>https://alook.so/posts/2xtO6x</id>
+        <link href="https://alook.so/posts/2xtO6x"/>
+        <updated>2021-12-08T00:49:34.157Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtO6x">화장실 갈때 마음, 나올때 마음 다르다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글을 쓸 때는 쓰기만 하라]]></title>
-        <id>https://alook.so/posts/vKt9Mw</id>
-        <link href="https://alook.so/posts/vKt9Mw"/>
-        <updated>2021-12-07T23:15:25.891Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt9Mw">글을 쓸 때는 쓰기만 하라</a>]]></content>
+        <title type="html"><![CDATA[답글: 저도 슬럼프?]]></title>
+        <id>https://alook.so/posts/WLt195</id>
+        <link href="https://alook.so/posts/WLt195"/>
+        <updated>2021-12-08T00:49:34.159Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt195">답글: 저도 슬럼프?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부모님생각]]></title>
-        <id>https://alook.so/posts/E7t2qr</id>
-        <link href="https://alook.so/posts/E7t2qr"/>
-        <updated>2021-12-07T22:15:06.628Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t2qr"> 부모님생각</a>]]></content>
+        <title type="html"><![CDATA[얼룩소가 끝나도 계속 글을 쓰실건가요?]]></title>
+        <id>https://alook.so/posts/M9tneV</id>
+        <link href="https://alook.so/posts/M9tneV"/>
+        <updated>2021-12-08T00:49:34.160Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tneV">얼룩소가 끝나도 계속 글을 쓰실건가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모든 사람들이 살을 빼기 위해 운동을 하는 것은 아니다]]></title>
+        <id>https://alook.so/posts/4Xt1vM</id>
+        <link href="https://alook.so/posts/4Xt1vM"/>
+        <updated>2021-12-08T00:49:34.161Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt1vM">모든 사람들이 살을 빼기 위해 운동을 하는 것은 아니다</a>]]></content>
     </entry>
 </feed>
