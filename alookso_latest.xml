@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-08T03:17:01.838Z</updated>
+    <updated>2021-12-08T04:20:40.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[부자의 제 1 원칙]]></title>
-        <id>https://alook.so/posts/mbtbRe</id>
-        <link href="https://alook.so/posts/mbtbRe"/>
-        <updated>2021-12-08T03:15:21.893Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtbRe">부자의 제 1 원칙</a>]]></content>
+        <title type="html"><![CDATA[SNS는 자신의 생각에 따라 달라진다. [이제는 받아드려야 하는 것 같다]]]></title>
+        <id>https://alook.so/posts/BatL3q</id>
+        <link href="https://alook.so/posts/BatL3q"/>
+        <updated>2021-12-08T04:19:15.066Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatL3q">SNS는 자신의 생각에 따라 달라진다. [이제는 받아드려야 하는 것 같다]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국의10대는 왜 불행할까요?]]></title>
-        <id>https://alook.so/posts/1RtrVe</id>
-        <link href="https://alook.so/posts/1RtrVe"/>
-        <updated>2021-12-08T03:15:21.894Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtrVe">한국의10대는 왜 불행할까요?</a>]]></content>
+        <title type="html"><![CDATA[변하지 않는것은 아름답습니다.]]></title>
+        <id>https://alook.so/posts/LKtV2y</id>
+        <link href="https://alook.so/posts/LKtV2y"/>
+        <updated>2021-12-08T04:19:15.067Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtV2y">변하지 않는것은 아름답습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[베이비부머 세대의 노후]]></title>
-        <id>https://alook.so/posts/70tljY</id>
-        <link href="https://alook.so/posts/70tljY"/>
-        <updated>2021-12-08T03:15:21.896Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tljY">베이비부머 세대의 노후</a>]]></content>
+        <title type="html"><![CDATA[변하지않는것은 아름답다.]]></title>
+        <id>https://alook.so/posts/OEt3dk</id>
+        <link href="https://alook.so/posts/OEt3dk"/>
+        <updated>2021-12-08T04:19:15.068Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt3dk">변하지않는것은 아름답다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여우가 오늘은 유치원에 눈치 보네..]]></title>
+        <id>https://alook.so/posts/E7t2MZ</id>
+        <link href="https://alook.so/posts/E7t2MZ"/>
+        <updated>2021-12-08T04:19:15.070Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t2MZ">여우가 오늘은 유치원에 눈치 보네..</a>]]></content>
     </entry>
 </feed>
