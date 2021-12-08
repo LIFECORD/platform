@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-08T09:16:59.550Z</updated>
+    <updated>2021-12-08T10:17:41.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[드디어  PC 복구 완료]]></title>
-        <id>https://alook.so/posts/yEtvYq</id>
-        <link href="https://alook.so/posts/yEtvYq"/>
-        <updated>2021-12-08T09:15:27.550Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtvYq">드디어  PC 복구 완료</a>]]></content>
+        <title type="html"><![CDATA['잠재적 가해자'로 사는건.]]></title>
+        <id>https://alook.so/posts/70tlEa</id>
+        <link href="https://alook.so/posts/70tlEa"/>
+        <updated>2021-12-08T10:16:18.431Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tlEa">'잠재적 가해자'로 사는건.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[틀]]></title>
-        <id>https://alook.so/posts/LKtVnW</id>
-        <link href="https://alook.so/posts/LKtVnW"/>
-        <updated>2021-12-08T09:15:27.552Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtVnW">틀</a>]]></content>
+        <title type="html"><![CDATA[잘 쉬는 법을 전수해주세요:)]]></title>
+        <id>https://alook.so/posts/YytB4o</id>
+        <link href="https://alook.so/posts/YytB4o"/>
+        <updated>2021-12-08T10:16:18.432Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytB4o">잘 쉬는 법을 전수해주세요:)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소가 이번주가 끝이였나요?]]></title>
+        <id>https://alook.so/posts/J5tPxq</id>
+        <link href="https://alook.so/posts/J5tPxq"/>
+        <updated>2021-12-08T10:16:18.434Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tPxq">얼룩소가 이번주가 끝이였나요?</a>]]></content>
     </entry>
 </feed>
