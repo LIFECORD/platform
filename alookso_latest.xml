@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-08T06:19:53.677Z</updated>
+    <updated>2021-12-08T07:16:22.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[2002...현재...]]></title>
-        <id>https://alook.so/posts/yEtvoa</id>
-        <link href="https://alook.so/posts/yEtvoa"/>
-        <updated>2021-12-08T06:18:15.759Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtvoa">2002...현재...</a>]]></content>
+        <title type="html"><![CDATA[안된다는 말이 의미가 없는 이유]]></title>
+        <id>https://alook.so/posts/dztzMZ</id>
+        <link href="https://alook.so/posts/dztzMZ"/>
+        <updated>2021-12-08T07:14:55.011Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztzMZ">안된다는 말이 의미가 없는 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이상한 나라의 대출 규제책]]></title>
-        <id>https://alook.so/posts/LKtVpy</id>
-        <link href="https://alook.so/posts/LKtVpy"/>
-        <updated>2021-12-08T06:18:15.761Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtVpy">이상한 나라의 대출 규제책</a>]]></content>
+        <title type="html"><![CDATA[답글: 거래는 약속이고 신뢰가 있어야 됩니다.]]></title>
+        <id>https://alook.so/posts/J5tP0Z</id>
+        <link href="https://alook.so/posts/J5tP0Z"/>
+        <updated>2021-12-08T07:14:55.014Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tP0Z">답글: 거래는 약속이고 신뢰가 있어야 됩니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3년전보다 3배뛴 집값]]></title>
-        <id>https://alook.so/posts/6MtqzY</id>
-        <link href="https://alook.so/posts/6MtqzY"/>
-        <updated>2021-12-08T06:18:15.762Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtqzY">3년전보다 3배뛴 집값</a>]]></content>
+        <title type="html"><![CDATA[답글: 동의합니다. 위생 사고도 음식 갖고 장난치는 것에서 온다고 생각합니다.]]></title>
+        <id>https://alook.so/posts/eVt4bd</id>
+        <link href="https://alook.so/posts/eVt4bd"/>
+        <updated>2021-12-08T07:14:55.014Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt4bd">답글: 동의합니다. 위생 사고도 음식 갖고 장난치는 것에서 온다고 생각합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한과 신바람? 애절함, 강인함, 늠름함, 청아함]]></title>
-        <id>https://alook.so/posts/3wtn0b</id>
-        <link href="https://alook.so/posts/3wtn0b"/>
-        <updated>2021-12-08T06:18:15.763Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtn0b">한과 신바람? 애절함, 강인함, 늠름함, 청아함</a>]]></content>
+        <title type="html"><![CDATA[날 닮은 예쁜아이?]]></title>
+        <id>https://alook.so/posts/zvtvPq</id>
+        <link href="https://alook.so/posts/zvtvPq"/>
+        <updated>2021-12-08T07:14:55.015Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtvPq">날 닮은 예쁜아이?</a>]]></content>
     </entry>
 </feed>
