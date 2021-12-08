@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/trendiest</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-08T07:16:22.574Z</updated>
+    <updated>2021-12-08T08:19:30.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t2Bp">불평등한 장면(Unequal Scene)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나쁜 얼룩커]]></title>
+        <id>https://alook.so/posts/XBtdJW</id>
+        <link href="https://alook.so/posts/XBtdJW"/>
+        <updated>2021-12-08T06:18:26.101Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtdJW">나쁜 얼룩커 </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["엄마 같은 여자가 좋다"는 남자들에게]]></title>
         <id>https://alook.so/posts/mbtbXb</id>
         <link href="https://alook.so/posts/mbtbXb"/>
@@ -90,25 +97,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt1vM">모든 사람들이 살을 빼기 위해 운동을 하는 것은 아니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나쁜 얼룩커]]></title>
-        <id>https://alook.so/posts/XBtdJW</id>
-        <link href="https://alook.so/posts/XBtdJW"/>
-        <updated>2021-12-08T06:18:26.101Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtdJW">나쁜 얼룩커 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암환자, 어떻게 살아야 할까요?]]></title>
-        <id>https://alook.so/posts/XBtd1K</id>
-        <link href="https://alook.so/posts/XBtd1K"/>
-        <updated>2021-12-08T06:18:26.106Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtd1K">암환자, 어떻게 살아야 할까요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[어떻게 사람이 변하니?]]></title>
         <id>https://alook.so/posts/2xtO6x</id>
         <link href="https://alook.so/posts/2xtO6x"/>
         <updated>2021-12-08T06:18:26.114Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtO6x">어떻게 사람이 변하니?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가세연이 앞장서고 온 사회가 거든 집단적 괴롭힘]]></title>
+        <id>https://alook.so/posts/njtbE6</id>
+        <link href="https://alook.so/posts/njtbE6"/>
+        <updated>2021-12-08T05:14:25.528Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtbE6">가세연이 앞장서고 온 사회가 거든 집단적 괴롭힘 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공감 : 나쁜 얼룩커]]></title>
@@ -118,11 +118,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1ta4q">공감 : 나쁜 얼룩커 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가세연이 앞장서고 온 사회가 거든 집단적 괴롭힘]]></title>
-        <id>https://alook.so/posts/njtbE6</id>
-        <link href="https://alook.so/posts/njtbE6"/>
-        <updated>2021-12-08T05:14:25.528Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtbE6">가세연이 앞장서고 온 사회가 거든 집단적 괴롭힘 </a>]]></content>
+        <title type="html"><![CDATA[암환자, 어떻게 살아야 할까요?]]></title>
+        <id>https://alook.so/posts/XBtd1K</id>
+        <link href="https://alook.so/posts/XBtd1K"/>
+        <updated>2021-12-08T06:18:26.106Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtd1K">암환자, 어떻게 살아야 할까요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오은영 박사가 욕먹는게 당연한 이유]]></title>
@@ -137,12 +137,5 @@
         <link href="https://alook.so/posts/70tl63"/>
         <updated>2021-12-08T06:18:26.111Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tl63">중요한 건 맞춤법이 아니야. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나보다 안좋은 상황의 사람을 보며 안도감을 느끼나요?]]></title>
-        <id>https://alook.so/posts/njtbp2</id>
-        <link href="https://alook.so/posts/njtbp2"/>
-        <updated>2021-12-08T06:18:26.113Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtbp2">나보다 안좋은 상황의 사람을 보며 안도감을 느끼나요?</a>]]></content>
     </entry>
 </feed>

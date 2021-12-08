@@ -2,35 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-08T07:16:22.562Z</updated>
+    <updated>2021-12-08T08:19:30.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[안된다는 말이 의미가 없는 이유]]></title>
-        <id>https://alook.so/posts/dztzMZ</id>
-        <link href="https://alook.so/posts/dztzMZ"/>
-        <updated>2021-12-08T07:14:55.011Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztzMZ">안된다는 말이 의미가 없는 이유</a>]]></content>
+        <title type="html"><![CDATA[예비 대학생의 고민]]></title>
+        <id>https://alook.so/posts/54tM2w</id>
+        <link href="https://alook.so/posts/54tM2w"/>
+        <updated>2021-12-08T08:17:53.522Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tM2w">예비 대학생의 고민</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 거래는 약속이고 신뢰가 있어야 됩니다.]]></title>
-        <id>https://alook.so/posts/J5tP0Z</id>
-        <link href="https://alook.so/posts/J5tP0Z"/>
-        <updated>2021-12-08T07:14:55.014Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tP0Z">답글: 거래는 약속이고 신뢰가 있어야 됩니다.</a>]]></content>
+        <title type="html"><![CDATA[너는 너답게 커 가자 ^^]]></title>
+        <id>https://alook.so/posts/q1tbZn</id>
+        <link href="https://alook.so/posts/q1tbZn"/>
+        <updated>2021-12-08T08:17:53.524Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tbZn">너는 너답게 커 가자 ^^ </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 동의합니다. 위생 사고도 음식 갖고 장난치는 것에서 온다고 생각합니다.]]></title>
-        <id>https://alook.so/posts/eVt4bd</id>
-        <link href="https://alook.so/posts/eVt4bd"/>
-        <updated>2021-12-08T07:14:55.014Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt4bd">답글: 동의합니다. 위생 사고도 음식 갖고 장난치는 것에서 온다고 생각합니다.</a>]]></content>
+        <title type="html"><![CDATA[과정과 결과, 무엇이 중한가]]></title>
+        <id>https://alook.so/posts/DjtKP3</id>
+        <link href="https://alook.so/posts/DjtKP3"/>
+        <updated>2021-12-08T08:17:53.525Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtKP3">과정과 결과, 무엇이 중한가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[날 닮은 예쁜아이?]]></title>
-        <id>https://alook.so/posts/zvtvPq</id>
-        <link href="https://alook.so/posts/zvtvPq"/>
-        <updated>2021-12-08T07:14:55.015Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtvPq">날 닮은 예쁜아이?</a>]]></content>
+        <title type="html"><![CDATA[답글: 얼룩소 프로젝트 연장 공약!]]></title>
+        <id>https://alook.so/posts/o7tx9M</id>
+        <link href="https://alook.so/posts/o7tx9M"/>
+        <updated>2021-12-08T08:17:53.527Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tx9M">답글: 얼룩소 프로젝트 연장 공약!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 무사히 지나갑니다.]]></title>
+        <id>https://alook.so/posts/rDtO2K</id>
+        <link href="https://alook.so/posts/rDtO2K"/>
+        <updated>2021-12-08T08:17:53.529Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtO2K">답글: 무사히 지나갑니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10대 수난시대-찐따극뽁 1편]]></title>
+        <id>https://alook.so/posts/E7t21Z</id>
+        <link href="https://alook.so/posts/E7t21Z"/>
+        <updated>2021-12-08T08:17:53.531Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t21Z">10대 수난시대-찐따극뽁 1편</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청소년 백신 접종 강행?]]></title>
+        <id>https://alook.so/posts/latP96</id>
+        <link href="https://alook.so/posts/latP96"/>
+        <updated>2021-12-08T08:17:53.532Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latP96">청소년 백신 접종 강행?</a>]]></content>
     </entry>
 </feed>
