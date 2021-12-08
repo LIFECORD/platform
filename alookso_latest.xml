@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-08T10:17:41.774Z</updated>
+    <updated>2021-12-08T11:14:16.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA['잠재적 가해자'로 사는건.]]></title>
-        <id>https://alook.so/posts/70tlEa</id>
-        <link href="https://alook.so/posts/70tlEa"/>
-        <updated>2021-12-08T10:16:18.431Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tlEa">'잠재적 가해자'로 사는건.</a>]]></content>
+        <title type="html"><![CDATA[쓸모로 판단하지 말자, 장자처럼]]></title>
+        <id>https://alook.so/posts/njtbZ5</id>
+        <link href="https://alook.so/posts/njtbZ5"/>
+        <updated>2021-12-08T11:12:51.263Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtbZ5">쓸모로 판단하지 말자, 장자처럼</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잘 쉬는 법을 전수해주세요:)]]></title>
-        <id>https://alook.so/posts/YytB4o</id>
-        <link href="https://alook.so/posts/YytB4o"/>
-        <updated>2021-12-08T10:16:18.432Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytB4o">잘 쉬는 법을 전수해주세요:)</a>]]></content>
+        <title type="html"><![CDATA[생각보다 갑은 우리 가까이에 있다]]></title>
+        <id>https://alook.so/posts/3wtnVv</id>
+        <link href="https://alook.so/posts/3wtnVv"/>
+        <updated>2021-12-08T11:12:51.264Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtnVv">생각보다 갑은 우리 가까이에 있다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소가 이번주가 끝이였나요?]]></title>
-        <id>https://alook.so/posts/J5tPxq</id>
-        <link href="https://alook.so/posts/J5tPxq"/>
-        <updated>2021-12-08T10:16:18.434Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tPxq">얼룩소가 이번주가 끝이였나요?</a>]]></content>
+        <title type="html"><![CDATA[Marshmallo  절제의 미학]]></title>
+        <id>https://alook.so/posts/8Wt2PO</id>
+        <link href="https://alook.so/posts/8Wt2PO"/>
+        <updated>2021-12-08T11:12:51.266Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt2PO">Marshmallo  절제의 미학</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 과정은 결과의 총합, 결과는 또 다른 과정아닐까요?]]></title>
+        <id>https://alook.so/posts/G1taKV</id>
+        <link href="https://alook.so/posts/G1taKV"/>
+        <updated>2021-12-08T11:12:51.267Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1taKV">답글: 과정은 결과의 총합, 결과는 또 다른 과정아닐까요?</a>]]></content>
     </entry>
 </feed>
