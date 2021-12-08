@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-08T13:24:46.246Z</updated>
+    <updated>2021-12-08T14:15:36.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[나와 틀림이 아닌 다름을 인정하는것]]></title>
-        <id>https://alook.so/posts/E7t2Jl</id>
-        <link href="https://alook.so/posts/E7t2Jl"/>
-        <updated>2021-12-08T13:23:21.810Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t2Jl">나와 틀림이 아닌 다름을 인정하는것</a>]]></content>
+        <title type="html"><![CDATA[무지에 대하여 ...]]></title>
+        <id>https://alook.so/posts/xltdpL</id>
+        <link href="https://alook.so/posts/xltdpL"/>
+        <updated>2021-12-08T14:14:14.169Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltdpL">무지에 대하여 ...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[축하드립니다!]]></title>
-        <id>https://alook.so/posts/Kmte6l</id>
-        <link href="https://alook.so/posts/Kmte6l"/>
-        <updated>2021-12-08T13:23:21.810Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmte6l">축하드립니다!</a>]]></content>
+        <title type="html"><![CDATA[대학 졸업장이 중요한 이유, - 더 넓은 선택의 폭과 기회가 있다.]]></title>
+        <id>https://alook.so/posts/BatLP4</id>
+        <link href="https://alook.so/posts/BatLP4"/>
+        <updated>2021-12-08T14:14:14.170Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatLP4">대학 졸업장이 중요한 이유, - 더 넓은 선택의 폭과 기회가 있다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 열심히]]></title>
-        <id>https://alook.so/posts/54tMYE</id>
-        <link href="https://alook.so/posts/54tMYE"/>
-        <updated>2021-12-08T13:23:21.812Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tMYE">더 열심히</a>]]></content>
+        <title type="html"><![CDATA[저는 유재석님팬입니다]]></title>
+        <id>https://alook.so/posts/LKtVdj</id>
+        <link href="https://alook.so/posts/LKtVdj"/>
+        <updated>2021-12-08T14:14:14.171Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtVdj"> 저는 유재석님팬입니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[긴 시간동안 고생많으셨습니다.]]></title>
-        <id>https://alook.so/posts/q1tbO1</id>
-        <link href="https://alook.so/posts/q1tbO1"/>
-        <updated>2021-12-08T13:23:21.814Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tbO1">긴 시간동안 고생많으셨습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정희원님의 글을 인용합니다.]]></title>
-        <id>https://alook.so/posts/DjtKjK</id>
-        <link href="https://alook.so/posts/DjtKjK"/>
-        <updated>2021-12-08T13:23:21.819Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtKjK">김정희원님의 글을 인용합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진보]]></title>
-        <id>https://alook.so/posts/1Rtr6n</id>
-        <link href="https://alook.so/posts/1Rtr6n"/>
-        <updated>2021-12-08T13:23:21.821Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtr6n">진보</a>]]></content>
+        <title type="html"><![CDATA[아이돌 세계의 스토킹, 사생 - 스토킹 처벌법]]></title>
+        <id>https://alook.so/posts/6MtqkZ</id>
+        <link href="https://alook.so/posts/6MtqkZ"/>
+        <updated>2021-12-08T14:14:14.173Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtqkZ">아이돌 세계의 스토킹, 사생 - 스토킹 처벌법</a>]]></content>
     </entry>
 </feed>
