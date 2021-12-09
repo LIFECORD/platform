@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-09T14:15:36.246Z</updated>
+    <updated>2021-12-09T15:17:31.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[선택]]></title>
-        <id>https://alook.so/posts/54tdkX</id>
-        <link href="https://alook.so/posts/54tdkX"/>
-        <updated>2021-12-09T14:14:11.985Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdkX">선택</a>]]></content>
+        <title type="html"><![CDATA[흥의 민족👏]]></title>
+        <id>https://alook.so/posts/XBtWBL</id>
+        <link href="https://alook.so/posts/XBtWBL"/>
+        <updated>2021-12-09T15:16:00.304Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWBL">흥의 민족👏</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[역대 최고 대통령은 누구일까요?]]></title>
-        <id>https://alook.so/posts/q1t1nR</id>
-        <link href="https://alook.so/posts/q1t1nR"/>
-        <updated>2021-12-09T14:14:11.987Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1nR">역대 최고 대통령은 누구일까요?</a>]]></content>
+        <title type="html"><![CDATA[50자로 도대체 뭘 할 수 있겠어?]]></title>
+        <id>https://alook.so/posts/xltWyr</id>
+        <link href="https://alook.so/posts/xltWyr"/>
+        <updated>2021-12-09T15:16:00.305Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWyr">50자로 도대체 뭘 할 수 있겠어?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[데이터'를' 이야기하다- (6) 디지털 "대전환"이 아닌 "대변환"이 필요해]]></title>
-        <id>https://alook.so/posts/Djt2ak</id>
-        <link href="https://alook.so/posts/Djt2ak"/>
-        <updated>2021-12-09T14:14:11.988Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2ak">데이터'를' 이야기하다- (6) 디지털 "대전환"이 아닌 "대변환"이 필요해</a>]]></content>
+        <title type="html"><![CDATA[딩크족에 대하여 어떻게 생각하시나요?]]></title>
+        <id>https://alook.so/posts/yEtr1D</id>
+        <link href="https://alook.so/posts/yEtr1D"/>
+        <updated>2021-12-09T15:16:00.308Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtr1D">딩크족에 대하여 어떻게 생각하시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국의 10대는 불행할까]]></title>
-        <id>https://alook.so/posts/1RtaEB</id>
-        <link href="https://alook.so/posts/1RtaEB"/>
-        <updated>2021-12-09T14:14:11.989Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaEB">한국의 10대는 불행할까</a>]]></content>
+        <title type="html"><![CDATA[기대와 달리]]></title>
+        <id>https://alook.so/posts/BatZB2</id>
+        <link href="https://alook.so/posts/BatZB2"/>
+        <updated>2021-12-09T15:16:00.310Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZB2">기대와 달리</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사회시간이 기억에 남는다.]]></title>
-        <id>https://alook.so/posts/o7twr1</id>
-        <link href="https://alook.so/posts/o7twr1"/>
-        <updated>2021-12-09T14:14:11.990Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twr1">사회시간이 기억에 남는다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말해봐요]]></title>
-        <id>https://alook.so/posts/Yytb69</id>
-        <link href="https://alook.so/posts/Yytb69"/>
-        <updated>2021-12-09T14:14:11.991Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytb69">말해봐요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[길 잃은 사람들을 위한 식당, <더 로스트 키친>]]></title>
-        <id>https://alook.so/posts/rDtjRw</id>
-        <link href="https://alook.so/posts/rDtjRw"/>
-        <updated>2021-12-09T14:14:11.992Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjRw">길 잃은 사람들을 위한 식당, &lt;더 로스트 키친&gt;</a>]]></content>
+        <title type="html"><![CDATA[한해를 어떻게 회고하시나요?]]></title>
+        <id>https://alook.so/posts/LKtv74</id>
+        <link href="https://alook.so/posts/LKtv74"/>
+        <updated>2021-12-09T15:16:00.316Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtv74">한해를 어떻게 회고하시나요?</a>]]></content>
     </entry>
 </feed>
