@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-08T23:17:37.632Z</updated>
+    <updated>2021-12-09T00:49:18.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[대화가 필요해]]></title>
-        <id>https://alook.so/posts/XBtdnq</id>
-        <link href="https://alook.so/posts/XBtdnq"/>
-        <updated>2021-12-08T23:16:07.788Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtdnq">대화가 필요해</a>]]></content>
+        <title type="html"><![CDATA[노재승씨를 응원합니다.]]></title>
+        <id>https://alook.so/posts/a0t52E</id>
+        <link href="https://alook.so/posts/a0t52E"/>
+        <updated>2021-12-09T00:47:48.561Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t52E">노재승씨를 응원합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부스터샷 접종을 높이려면 어떻게 해야 할까?]]></title>
-        <id>https://alook.so/posts/xltdqL</id>
-        <link href="https://alook.so/posts/xltdqL"/>
-        <updated>2021-12-08T23:16:07.788Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltdqL">부스터샷 접종을 높이려면 어떻게 해야 할까?</a>]]></content>
+        <title type="html"><![CDATA[Liberation을 꿈꾸며]]></title>
+        <id>https://alook.so/posts/dztznY</id>
+        <link href="https://alook.so/posts/dztznY"/>
+        <updated>2021-12-09T00:47:48.563Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztznY">Liberation을 꿈꾸며</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공부를 시작할까요?]]></title>
-        <id>https://alook.so/posts/RGtEOm</id>
-        <link href="https://alook.so/posts/RGtEOm"/>
-        <updated>2021-12-08T22:14:49.147Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtEOm">공부를 시작할까요?</a>]]></content>
+        <title type="html"><![CDATA[답글: 나쁜 얼룩커가 생긴다면?]]></title>
+        <id>https://alook.so/posts/J5tPLW</id>
+        <link href="https://alook.so/posts/J5tPLW"/>
+        <updated>2021-12-09T00:47:48.568Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tPLW">답글: 나쁜 얼룩커가 생긴다면?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김구 선생이 국밥 늦게 나왔다고 사람을 죽였다고요?]]></title>
-        <id>https://alook.so/posts/yEtvB0</id>
-        <link href="https://alook.so/posts/yEtvB0"/>
-        <updated>2021-12-08T21:13:01.509Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtvB0">김구 선생이 국밥 늦게 나왔다고 사람을 죽였다고요?</a>]]></content>
+        <title type="html"><![CDATA[건강을 위한 습관 바꾸기, 결심하고 계신가요?]]></title>
+        <id>https://alook.so/posts/eVt4lM</id>
+        <link href="https://alook.so/posts/eVt4lM"/>
+        <updated>2021-12-09T00:47:48.568Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt4lM">건강을 위한 습관 바꾸기, 결심하고 계신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여성이 젖소로 변신하는 우유광고]]></title>
-        <id>https://alook.so/posts/3wtn78</id>
-        <link href="https://alook.so/posts/3wtn78"/>
-        <updated>2021-12-08T19:12:49.011Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtn78">여성이 젖소로 변신하는 우유광고</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정치권에 바랍니다.]]></title>
-        <id>https://alook.so/posts/8Wt2B5</id>
-        <link href="https://alook.so/posts/8Wt2B5"/>
-        <updated>2021-12-08T19:12:49.012Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt2B5">정치권에 바랍니다.</a>]]></content>
+        <title type="html"><![CDATA[오늘은 좀 일찍 일어났습니다.]]></title>
+        <id>https://alook.so/posts/PvtJ3M</id>
+        <link href="https://alook.so/posts/PvtJ3M"/>
+        <updated>2021-12-09T00:47:48.568Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtJ3M">오늘은 좀 일찍 일어났습니다.</a>]]></content>
     </entry>
 </feed>
