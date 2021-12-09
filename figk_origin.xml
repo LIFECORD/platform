@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://figk.net/text</id>
     <title>FIGK</title>
-    <updated>2021-12-09T07:16:14.958Z</updated>
+    <updated>2021-12-09T08:19:48.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://figk.net/favicon.ico</icon>
     <entry>
@@ -34,326 +34,11 @@
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">신기헌<div class="styles_TooltipContent__8cY79">공간, 아트, 디자인, 마케팅, IT 등 영역에서 크리에이티브와 테크놀로지가 하나로 융합되는 다양한 실험을 이어왔다. 현재는 메타버스와 관련한 전략, 기획, 제작 프로젝트에 참여 중이다.</div></button>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 ‘쿨 키드'들은 다시 ‘유선 이어폰’을 쓰는가]]></title>
-        <id>https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407?mod=e2fb&amp;fbclid=IwAR1l8mzjKweCqanWLz9-R7a88szGWMvZKHNiuWu51HKSCtU-5VXW93EeGxw</id>
-        <link href="https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407?mod=e2fb&amp;fbclid=IwAR1l8mzjKweCqanWLz9-R7a88szGWMvZKHNiuWu51HKSCtU-5VXW93EeGxw"/>
-        <updated>2021-12-04T12:23:06.958Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도훈<div class="styles_TooltipContent__8cY79">작가, 칼럼니스트, 영화평론가 </div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시리즈 <만달로리안>, 디즈니+]]></title>
-        <id>https://www.youtube.com/watch?v=2YDKxcdIXBs</id>
-        <link href="https://www.youtube.com/watch?v=2YDKxcdIXBs"/>
-        <updated>2021-12-04T12:23:06.959Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">인디펜던트 레이블 붕가붕가레코드의 대표로 여러 아티스트의 음반과 공연을 만들어왔어요. 그리고 지금은 OTT 서비스 왓챠에서 음악 콘텐츠와 사업을 만들고 있습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍상수 <당신 얼굴 앞에서> (2021)]]></title>
-        <id>https://movie.naver.com/movie/bi/mi/basic.naver?code=206608</id>
-        <link href="https://movie.naver.com/movie/bi/mi/basic.naver?code=206608"/>
-        <updated>2021-12-04T12:23:06.960Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">벨로주 대표, 공연 기획자, 선곡가</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딩고뮤직, [띵곡가들. EP1]]]></title>
-        <id>https://www.youtube.com/watch?v=gBRAtybMwYw</id>
-        <link href="https://www.youtube.com/watch?v=gBRAtybMwYw"/>
-        <updated>2021-12-04T12:23:06.961Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이서영<div class="styles_TooltipContent__8cY79">SF와 판타지를 쓰는 소설가. 『악어의 맛』, 『낮은 곳으로 임하소서』, 『유미의 연인』 등을 집필했다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미디어 스타트업, 얼룩소(alookso)]]></title>
-        <id>https://alook.so/</id>
-        <link href="https://alook.so/"/>
-        <updated>2021-12-04T12:23:06.962Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">벨로주 대표, 공연 기획자, 선곡가</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 팝아트의 전설, 케니 샤프]]></title>
-        <id>https://beta.heypop.kr/n/18250/</id>
-        <link href="https://beta.heypop.kr/n/18250/"/>
-        <updated>2021-12-04T12:23:06.965Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제시된 해결방안. 적극적으로 파헤쳐보기]]></title>
-        <id>http://news.kmib.co.kr/article/view.asp?arcid=0016487177&amp;code=61171811&amp;cp=nv</id>
-        <link href="http://news.kmib.co.kr/article/view.asp?arcid=0016487177&amp;code=61171811&amp;cp=nv"/>
-        <updated>2021-12-04T12:23:06.966Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">직업적으로는 기획자이자 마케터, 개인적으로는 좋아하는 것이 많은 사람. 『생각소스』 저자</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니플러스에서 반드시 보아야 할 다큐멘터리]]></title>
-        <id>https://www.disneyplus.com/en-gb/movies/free-solo/3ibzvuU6iPlE</id>
-        <link href="https://www.disneyplus.com/en-gb/movies/free-solo/3ibzvuU6iPlE"/>
-        <updated>2021-12-04T12:23:06.967Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도훈<div class="styles_TooltipContent__8cY79">작가, 칼럼니스트, 영화평론가 </div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불꽃레터]]></title>
-        <id>https://page.stibee.com/subscriptions/143161</id>
-        <link href="https://page.stibee.com/subscriptions/143161"/>
-        <updated>2021-12-04T12:23:06.967Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">장경진<div class="styles_TooltipContent__8cY79">공연칼럼니스트. 공연예술과 관련한 콘텐츠를 만든다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“석탄, 퇴출 아닌 감축” COP26 폐막…의장은 사과하고, 기후단체는 장례식, 한겨레]]></title>
-        <id>https://www.hani.co.kr/arti/society/environment/1019183.html</id>
-        <link href="https://www.hani.co.kr/arti/society/environment/1019183.html"/>
-        <updated>2021-12-04T12:23:06.968Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">과학 커뮤니케이터, 과학과 사람들 대표</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4500만원 폐가 샀던 MBC PD 근황, "시골 빈집 이제 그만 보여주셔도 됩니다 ㅜㅜ"]]></title>
-        <id>https://youtu.be/AjKZBU5lyDU</id>
-        <link href="https://youtu.be/AjKZBU5lyDU"/>
-        <updated>2021-12-04T12:23:06.969Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">보고 듣고 읽고 씁</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘쉬운 답'은 없다 - 유럽 코로나19 재확산의 교훈]]></title>
-        <id>https://alook.so/posts/6Mt1Y7?fbclid=IwAR03yuGWLDZUDBzWELC0df5gLtXZF2Dwo3yPMoT7YDY6VIdS1rK7-H1UtQU</id>
-        <link href="https://alook.so/posts/6Mt1Y7?fbclid=IwAR03yuGWLDZUDBzWELC0df5gLtXZF2Dwo3yPMoT7YDY6VIdS1rK7-H1UtQU"/>
-        <updated>2021-12-04T12:23:06.970Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“마흔에 첫 개인전, 쉰에 테이트모던 전시 ··· ‘아니카 이’ 돌풍”]]></title>
-        <id>https://www.joongang.co.kr/article/25018288</id>
-        <link href="https://www.joongang.co.kr/article/25018288"/>
-        <updated>2021-12-04T12:23:06.973Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브 사업설명회 ‘바운드리스’  이후 시작된 소속사 불매 운동]]></title>
-        <id>https://www.bbc.com/korean/news-59173484</id>
-        <link href="https://www.bbc.com/korean/news-59173484"/>
-        <updated>2021-12-04T12:23:06.974Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도헌<div class="styles_TooltipContent__8cY79">대중음악평론가로 활동하고 있습니다. 뉴스레터 제너레이트(ZENERATE)를 운영합니다. I Believe in a Thing Called Love.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CEO의 나르시시즘이 조직문화에 끼치는 영향]]></title>
-        <id>https://blog.naver.com/PostView.naver?blogId=businessinsight&amp;logNo=222559163313</id>
-        <link href="https://blog.naver.com/PostView.naver?blogId=businessinsight&amp;logNo=222559163313"/>
-        <updated>2021-12-04T12:23:06.975Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">직업적으로는 기획자이자 마케터, 개인적으로는 좋아하는 것이 많은 사람. 『생각소스』 저자</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘각그랜저’의 변신은 무죄]]></title>
-        <id>https://www.youtube.com/watch?v=zVaGqnEY6Ho</id>
-        <link href="https://www.youtube.com/watch?v=zVaGqnEY6Ho"/>
-        <updated>2021-12-04T12:23:06.976Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도훈<div class="styles_TooltipContent__8cY79">작가, 칼럼니스트, 영화평론가 </div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가나다(GANADA) Choreography by AIKI & HOOK]]></title>
-        <id>https://www.youtube.com/watch?v=rjl__Vlo4ao</id>
-        <link href="https://www.youtube.com/watch?v=rjl__Vlo4ao"/>
-        <updated>2021-12-04T12:23:06.977Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">보고 듣고 읽고 씁</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<가상세계지만 스타가 되고싶어> TVING 오리지널]]></title>
-        <id>https://www.youtube.com/watch?v=QWkLoI-tIMw</id>
-        <link href="https://www.youtube.com/watch?v=QWkLoI-tIMw"/>
-        <updated>2021-12-04T12:23:06.977Z</updated>
+        <title type="html"><![CDATA[신정원의 영화들]]></title>
+        <id>http://www.cine21.com/news/view/?mag_id=96223</id>
+        <link href="http://www.cine21.com/news/view/?mag_id=96223"/>
+        <updated>2021-12-09T08:18:10.324Z</updated>
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">복길<div class="styles_TooltipContent__8cY79">텔레비전과 케이팝을 좋아합니다!</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Robot Eats Trash #TeamSeas]]></title>
-        <id>https://www.youtube.com/watch?v=pXDx6DjNLDU</id>
-        <link href="https://www.youtube.com/watch?v=pXDx6DjNLDU"/>
-        <updated>2021-12-04T12:23:06.978Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울패션위크 비건타이거 런웨이 (2021)]]></title>
-        <id>https://www.youtube.com/watch?v=IBsiJfchJKI</id>
-        <link href="https://www.youtube.com/watch?v=IBsiJfchJKI"/>
-        <updated>2021-12-04T12:23:06.979Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">'널 위한 문화예술'의 COO이자 문화기획자</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<“왜 이제야?” “눈물 난다”... 메르켈 연설에 놀란 독일> 오마이뉴스]]></title>
-        <id>http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002780728&amp;SRS_CD=0000012215</id>
-        <link href="http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002780728&amp;SRS_CD=0000012215"/>
-        <updated>2021-12-04T12:23:06.980Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<[문소영의 문화가 암시하는 사회] ‘이건희 컬렉션’에 대한 세 가지 오해> 중앙일보]]></title>
-        <id>https://www.joongang.co.kr/article/25013284</id>
-        <link href="https://www.joongang.co.kr/article/25013284"/>
-        <updated>2021-12-04T12:23:06.981Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CL의 과거와 현재, 미래를 담은 첫 정규작 ‘ALPHA’]]></title>
-        <id>https://www.youtube.com/watch?v=mKeJk3gaEbo</id>
-        <link href="https://www.youtube.com/watch?v=mKeJk3gaEbo"/>
-        <updated>2021-12-04T12:23:06.982Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도헌<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<How TikTok Serves Up Sex and Drug Videos to Minors> WSJ]]></title>
-        <id>https://www.wsj.com/articles/tiktok-algorithm-sex-drugs-minors-11631052944</id>
-        <link href="https://www.wsj.com/articles/tiktok-algorithm-sex-drugs-minors-11631052944"/>
-        <updated>2021-12-04T12:23:06.982Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도헌<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<시라노>  영화 트레일러]]></title>
-        <id>https://www.youtube.com/watch?v=TZlXQQbpzvE</id>
-        <link href="https://www.youtube.com/watch?v=TZlXQQbpzvE"/>
-        <updated>2021-12-04T12:23:06.983Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[음악 페스티벌의 잇따른 취소에도 여전한 사회적 거리두기 개정안]]></title>
-        <id>https://www.mintpaper.co.kr/2021/10/gmf2021-end/</id>
-        <link href="https://www.mintpaper.co.kr/2021/10/gmf2021-end/"/>
-        <updated>2021-12-04T12:23:06.983Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<페이스북 내부고발자 프랜시스 하우건의 의회 청문회 모두 발언> 뉴스페퍼민트]]></title>
-        <id>https://newspeppermint.com/2021/10/06/fanceshaugen/</id>
-        <link href="https://newspeppermint.com/2021/10/06/fanceshaugen/"/>
-        <updated>2021-12-04T12:23:06.984Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김세인 감독 <같은 속옷을 입는 두 여자> (2021)]]></title>
-        <id>http://m.cine21.com/news/view/?mag_id=98764</id>
-        <link href="http://m.cine21.com/news/view/?mag_id=98764"/>
-        <updated>2021-12-04T12:23:06.985Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하미나<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷플릭스 공식 트위터 계정에 올라온 페이스북 저격 트윗]]></title>
-        <id>https://twitter.com/netflix/status/1445061159158042625</id>
-        <link href="https://twitter.com/netflix/status/1445061159158042625"/>
-        <updated>2021-12-04T12:23:06.986Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">신기헌<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[130만 유튜버 꽈뚜룹. 그리고 인간 장지수의 인터뷰]]></title>
-        <id>https://www.youtube.com/watch?v=edyKEdFn-rk</id>
-        <link href="https://www.youtube.com/watch?v=edyKEdFn-rk"/>
-        <updated>2021-12-04T12:23:06.986Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이동진의 '만점' 외국 영화 월드컵]]></title>
-        <id>https://www.youtube.com/watch?v=061lqWAASls</id>
-        <link href="https://www.youtube.com/watch?v=061lqWAASls"/>
-        <updated>2021-12-04T12:23:06.987Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드니 빌뇌브의 신작 <듄> 메인 예고편 공개]]></title>
-        <id>https://youtu.be/-5Dc8EMVYBo</id>
-        <link href="https://youtu.be/-5Dc8EMVYBo"/>
-        <updated>2021-12-04T12:23:06.988Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도훈<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<오징어 게임> 넷플릭스]]></title>
-        <id>https://www.youtube.com/watch?v=oqxAJKy0ii4</id>
-        <link href="https://www.youtube.com/watch?v=oqxAJKy0ii4"/>
-        <updated>2021-12-04T12:23:06.988Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜버 구르님의 ‘이달의 휠체어’]]></title>
-        <id>https://youtu.be/WejtPTVr4Qk</id>
-        <link href="https://youtu.be/WejtPTVr4Qk"/>
-        <updated>2021-12-04T12:23:06.989Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">장경진<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최예림 - Lose Yourself <풍류대장 1회> jtbc]]></title>
-        <id>https://youtu.be/2sOk1l7gxfk</id>
-        <link href="https://youtu.be/2sOk1l7gxfk"/>
-        <updated>2021-12-04T12:23:06.990Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[J.E.B LIVE @ NAVER NOW. 슬픔의 케이팝 파티 SKPP EP.20 페스티벌 요일바]]></title>
-        <id>https://soundcloud.com/jebofficial/jeb-live-naver-now-skpp-ep20</id>
-        <link href="https://soundcloud.com/jebofficial/jeb-live-naver-now-skpp-ep20"/>
-        <updated>2021-12-04T12:23:06.991Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하박국<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리들리 스콧의 신작 <라스트 듀얼 : 최후의 결투>]]></title>
-        <id>https://youtu.be/bO1cG93mpNM</id>
-        <link href="https://youtu.be/bO1cG93mpNM"/>
-        <updated>2021-12-04T12:23:06.992Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도훈<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이길보라 감독과 '코다' 션 헤이더 감독이 주고받은 편지]]></title>
-        <id>http://www.cine21.com/news/view/?mag_id=98584</id>
-        <link href="http://www.cine21.com/news/view/?mag_id=98584"/>
-        <updated>2021-12-04T12:23:06.992Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<고귀한 유물같나요? 당신이 바다에 버린 해양쓰레기입니다> 서울경제]]></title>
-        <id>https://www.sedaily.com/NewsVIew/22RG570RYO</id>
-        <link href="https://www.sedaily.com/NewsVIew/22RG570RYO"/>
-        <updated>2021-12-04T12:23:06.993Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유엔 총회에서 공연된 ‘퍼미션 투 댄스’ 공식 비디오]]></title>
-        <id>https://youtu.be/9SmQOZWNyWE</id>
-        <link href="https://youtu.be/9SmQOZWNyWE"/>
-        <updated>2021-12-04T12:23:06.994Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">신기헌<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<패들보더와 호기심 많은 고래의 아름다운 조우> BBC News]]></title>
-        <id>https://www.youtube.com/watch?v=exCEA1UF2FI</id>
-        <link href="https://www.youtube.com/watch?v=exCEA1UF2FI"/>
-        <updated>2021-12-04T12:23:06.995Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 멧 갈라 <In America: A Lexicon of Fashion>]]></title>
-        <id>https://11010design.tistory.com/406</id>
-        <link href="https://11010design.tistory.com/406"/>
-        <updated>2021-12-04T12:23:06.995Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[christojeanneclaude 인스타그램 최근 포스팅]]></title>
-        <id>https://www.instagram.com/p/CUAi_X6Kpow/</id>
-        <link href="https://www.instagram.com/p/CUAi_X6Kpow/"/>
-        <updated>2021-12-04T12:23:06.996Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별을 쫓는 그림자들 - 문준용 (2021/11/20-11/29 파주 Studio KKI)]]></title>
-        <id>https://www.youtube.com/watch?v=b4aZX23C2Ow</id>
-        <link href="https://www.youtube.com/watch?v=b4aZX23C2Ow"/>
-        <updated>2021-12-09T06:17:25.379Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">벨로주 대표, 공연 기획자, 선곡가</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ArtReview Power 100 링크, 2021년]]></title>
-        <id>https://artreview.com/power-100/</id>
-        <link href="https://artreview.com/power-100/"/>
-        <updated>2021-12-09T07:14:41.513Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">'널 위한 문화예술'의 COO이자 문화기획자</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빙그레 바나나맛우유 X 최고심]]></title>
-        <id>https://www.youtube.com/watch?v=KlgDq95YkSE</id>
-        <link href="https://www.youtube.com/watch?v=KlgDq95YkSE"/>
-        <updated>2021-12-09T07:14:41.513Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">직업적으로는 기획자이자 마케터, 개인적으로는 좋아하는 것이 많은 사람. 『생각소스』 저자</div></button>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘스우파’ CP "파이널 음원 수익, 댄서들과 나눌 것…국내 최초", 2021년]]></title>
@@ -657,25 +342,39 @@
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<스트릿 걸스 파이터> Mnet]]></title>
-        <id>https://www.youtube.com/watch?v=dYB3e6xFcEg</id>
-        <link href="https://www.youtube.com/watch?v=dYB3e6xFcEg"/>
-        <updated>2021-12-09T06:17:25.432Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">복길<div class="styles_TooltipContent__8cY79">텔레비전과 케이팝을 좋아합니다!</div></button>]]></content>
+        <title type="html"><![CDATA[별을 쫓는 그림자들 - 문준용 (2021/11/20-11/29 파주 Studio KKI)]]></title>
+        <id>https://www.youtube.com/watch?v=b4aZX23C2Ow</id>
+        <link href="https://www.youtube.com/watch?v=b4aZX23C2Ow"/>
+        <updated>2021-12-09T06:17:25.379Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">벨로주 대표, 공연 기획자, 선곡가</div></button>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파워 오브 도그 | 공식 예고편 | 넷플릭스]]></title>
-        <id>https://www.youtube.com/watch?v=9C5Dy7uOfFE</id>
-        <link href="https://www.youtube.com/watch?v=9C5Dy7uOfFE"/>
-        <updated>2021-12-09T07:14:41.574Z</updated>
+        <title type="html"><![CDATA[ArtReview Power 100 링크, 2021년]]></title>
+        <id>https://artreview.com/power-100/</id>
+        <link href="https://artreview.com/power-100/"/>
+        <updated>2021-12-09T07:14:41.513Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">'널 위한 문화예술'의 COO이자 문화기획자</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빙그레 바나나맛우유 X 최고심]]></title>
+        <id>https://www.youtube.com/watch?v=KlgDq95YkSE</id>
+        <link href="https://www.youtube.com/watch?v=KlgDq95YkSE"/>
+        <updated>2021-12-09T07:14:41.513Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">직업적으로는 기획자이자 마케터, 개인적으로는 좋아하는 것이 많은 사람. 『생각소스』 저자</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쇼미더럭키짱! 박태준 / 김성모]]></title>
+        <id>https://comic.naver.com/webtoon/list?titleId=783054&amp;weekday=tue</id>
+        <link href="https://comic.naver.com/webtoon/list?titleId=783054&amp;weekday=tue"/>
+        <updated>2021-12-09T08:18:10.362Z</updated>
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하박국<div class="styles_TooltipContent__8cY79">🤖기술인간  🔊음악사람 🤮영기획YOUNG,GIFTED&amp;WACK 대표 </div></button>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다양한 이야기로 가득한, LCDC SEOUL 오픈]]></title>
-        <id>http://www.lcdc-seoul.com/</id>
-        <link href="http://www.lcdc-seoul.com/"/>
-        <updated>2021-12-09T07:14:41.574Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">직업적으로는 기획자이자 마케터, 개인적으로는 좋아하는 것이 많은 사람. 『생각소스』 저자</div></button>]]></content>
+        <title type="html"><![CDATA[[김지수의 인터스텔라] “흥분하라, 디자인씽킹하라” 피터 슈라이어의 혁신 노트 (2021)]]></title>
+        <id>https://biz.chosun.com/notice/interstellar/2021/12/04/3O7SVDJMOBGELBESB3LKWQHD4U/?utm_source=naver&amp;utm_medium=original&amp;utm_campaign=biz</id>
+        <link href="https://biz.chosun.com/notice/interstellar/2021/12/04/3O7SVDJMOBGELBESB3LKWQHD4U/?utm_source=naver&amp;utm_medium=original&amp;utm_campaign=biz"/>
+        <updated>2021-12-09T08:18:10.364Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">'널 위한 문화예술'의 COO이자 문화기획자</div></button>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[양다솔 <가난해지지 않는 마음> (2021)]]></title>
@@ -977,5 +676,341 @@
         <link href="https://www.rollingstone.com/music/music-lists/best-songs-of-all-time-1224767/"/>
         <updated>2021-12-04T12:23:06.958Z</updated>
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<스트릿 걸스 파이터> Mnet]]></title>
+        <id>https://www.youtube.com/watch?v=dYB3e6xFcEg</id>
+        <link href="https://www.youtube.com/watch?v=dYB3e6xFcEg"/>
+        <updated>2021-12-09T06:17:25.432Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">복길<div class="styles_TooltipContent__8cY79">텔레비전과 케이팝을 좋아합니다!</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파워 오브 도그 | 공식 예고편 | 넷플릭스]]></title>
+        <id>https://www.youtube.com/watch?v=9C5Dy7uOfFE</id>
+        <link href="https://www.youtube.com/watch?v=9C5Dy7uOfFE"/>
+        <updated>2021-12-09T07:14:41.574Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하박국<div class="styles_TooltipContent__8cY79">🤖기술인간  🔊음악사람 🤮영기획YOUNG,GIFTED&amp;WACK 대표 </div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다양한 이야기로 가득한, LCDC SEOUL 오픈]]></title>
+        <id>http://www.lcdc-seoul.com/</id>
+        <link href="http://www.lcdc-seoul.com/"/>
+        <updated>2021-12-09T07:14:41.574Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">직업적으로는 기획자이자 마케터, 개인적으로는 좋아하는 것이 많은 사람. 『생각소스』 저자</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티빙 오리지널 유료가입 기여 1위 드라마, ‘술꾼도시여자들‘의 매력]]></title>
+        <id>https://m.khan.co.kr/culture/culture-general/article/202112021633001</id>
+        <link href="https://m.khan.co.kr/culture/culture-general/article/202112021633001"/>
+        <updated>2021-12-09T08:18:10.446Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도헌<div class="styles_TooltipContent__8cY79">대중음악평론가로 활동하고 있습니다. 뉴스레터 제너레이트(ZENERATE)를 운영합니다. I Believe in a Thing Called Love.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명확하게 꼬집은 ‘재정적인 관점’에서의 스타트업의 문제]]></title>
+        <id>https://twitter.com/ShaanVP/status/1364621974618705925?s=20</id>
+        <link href="https://twitter.com/ShaanVP/status/1364621974618705925?s=20"/>
+        <updated>2021-12-09T08:18:10.447Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">직업적으로는 기획자이자 마케터, 개인적으로는 좋아하는 것이 많은 사람. 『생각소스』 저자</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 ‘쿨 키드'들은 다시 ‘유선 이어폰’을 쓰는가]]></title>
+        <id>https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407?mod=e2fb&amp;fbclid=IwAR1l8mzjKweCqanWLz9-R7a88szGWMvZKHNiuWu51HKSCtU-5VXW93EeGxw</id>
+        <link href="https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407?mod=e2fb&amp;fbclid=IwAR1l8mzjKweCqanWLz9-R7a88szGWMvZKHNiuWu51HKSCtU-5VXW93EeGxw"/>
+        <updated>2021-12-04T12:23:06.958Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도훈<div class="styles_TooltipContent__8cY79">작가, 칼럼니스트, 영화평론가 </div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시리즈 <만달로리안>, 디즈니+]]></title>
+        <id>https://www.youtube.com/watch?v=2YDKxcdIXBs</id>
+        <link href="https://www.youtube.com/watch?v=2YDKxcdIXBs"/>
+        <updated>2021-12-04T12:23:06.959Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">인디펜던트 레이블 붕가붕가레코드의 대표로 여러 아티스트의 음반과 공연을 만들어왔어요. 그리고 지금은 OTT 서비스 왓챠에서 음악 콘텐츠와 사업을 만들고 있습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홍상수 <당신 얼굴 앞에서> (2021)]]></title>
+        <id>https://movie.naver.com/movie/bi/mi/basic.naver?code=206608</id>
+        <link href="https://movie.naver.com/movie/bi/mi/basic.naver?code=206608"/>
+        <updated>2021-12-04T12:23:06.960Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">벨로주 대표, 공연 기획자, 선곡가</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딩고뮤직, [띵곡가들. EP1]]]></title>
+        <id>https://www.youtube.com/watch?v=gBRAtybMwYw</id>
+        <link href="https://www.youtube.com/watch?v=gBRAtybMwYw"/>
+        <updated>2021-12-04T12:23:06.961Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이서영<div class="styles_TooltipContent__8cY79">SF와 판타지를 쓰는 소설가. 『악어의 맛』, 『낮은 곳으로 임하소서』, 『유미의 연인』 등을 집필했다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미디어 스타트업, 얼룩소(alookso)]]></title>
+        <id>https://alook.so/</id>
+        <link href="https://alook.so/"/>
+        <updated>2021-12-04T12:23:06.962Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">벨로주 대표, 공연 기획자, 선곡가</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 팝아트의 전설, 케니 샤프]]></title>
+        <id>https://beta.heypop.kr/n/18250/</id>
+        <link href="https://beta.heypop.kr/n/18250/"/>
+        <updated>2021-12-04T12:23:06.965Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제시된 해결방안. 적극적으로 파헤쳐보기]]></title>
+        <id>http://news.kmib.co.kr/article/view.asp?arcid=0016487177&amp;code=61171811&amp;cp=nv</id>
+        <link href="http://news.kmib.co.kr/article/view.asp?arcid=0016487177&amp;code=61171811&amp;cp=nv"/>
+        <updated>2021-12-04T12:23:06.966Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">직업적으로는 기획자이자 마케터, 개인적으로는 좋아하는 것이 많은 사람. 『생각소스』 저자</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디즈니플러스에서 반드시 보아야 할 다큐멘터리]]></title>
+        <id>https://www.disneyplus.com/en-gb/movies/free-solo/3ibzvuU6iPlE</id>
+        <link href="https://www.disneyplus.com/en-gb/movies/free-solo/3ibzvuU6iPlE"/>
+        <updated>2021-12-04T12:23:06.967Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도훈<div class="styles_TooltipContent__8cY79">작가, 칼럼니스트, 영화평론가 </div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불꽃레터]]></title>
+        <id>https://page.stibee.com/subscriptions/143161</id>
+        <link href="https://page.stibee.com/subscriptions/143161"/>
+        <updated>2021-12-04T12:23:06.967Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">장경진<div class="styles_TooltipContent__8cY79">공연칼럼니스트. 공연예술과 관련한 콘텐츠를 만든다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“석탄, 퇴출 아닌 감축” COP26 폐막…의장은 사과하고, 기후단체는 장례식, 한겨레]]></title>
+        <id>https://www.hani.co.kr/arti/society/environment/1019183.html</id>
+        <link href="https://www.hani.co.kr/arti/society/environment/1019183.html"/>
+        <updated>2021-12-04T12:23:06.968Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">과학 커뮤니케이터, 과학과 사람들 대표</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4500만원 폐가 샀던 MBC PD 근황, "시골 빈집 이제 그만 보여주셔도 됩니다 ㅜㅜ"]]></title>
+        <id>https://youtu.be/AjKZBU5lyDU</id>
+        <link href="https://youtu.be/AjKZBU5lyDU"/>
+        <updated>2021-12-04T12:23:06.969Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">보고 듣고 읽고 씁</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘쉬운 답'은 없다 - 유럽 코로나19 재확산의 교훈]]></title>
+        <id>https://alook.so/posts/6Mt1Y7?fbclid=IwAR03yuGWLDZUDBzWELC0df5gLtXZF2Dwo3yPMoT7YDY6VIdS1rK7-H1UtQU</id>
+        <link href="https://alook.so/posts/6Mt1Y7?fbclid=IwAR03yuGWLDZUDBzWELC0df5gLtXZF2Dwo3yPMoT7YDY6VIdS1rK7-H1UtQU"/>
+        <updated>2021-12-04T12:23:06.970Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“마흔에 첫 개인전, 쉰에 테이트모던 전시 ··· ‘아니카 이’ 돌풍”]]></title>
+        <id>https://www.joongang.co.kr/article/25018288</id>
+        <link href="https://www.joongang.co.kr/article/25018288"/>
+        <updated>2021-12-04T12:23:06.973Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이브 사업설명회 ‘바운드리스’  이후 시작된 소속사 불매 운동]]></title>
+        <id>https://www.bbc.com/korean/news-59173484</id>
+        <link href="https://www.bbc.com/korean/news-59173484"/>
+        <updated>2021-12-04T12:23:06.974Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도헌<div class="styles_TooltipContent__8cY79">대중음악평론가로 활동하고 있습니다. 뉴스레터 제너레이트(ZENERATE)를 운영합니다. I Believe in a Thing Called Love.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CEO의 나르시시즘이 조직문화에 끼치는 영향]]></title>
+        <id>https://blog.naver.com/PostView.naver?blogId=businessinsight&amp;logNo=222559163313</id>
+        <link href="https://blog.naver.com/PostView.naver?blogId=businessinsight&amp;logNo=222559163313"/>
+        <updated>2021-12-04T12:23:06.975Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">직업적으로는 기획자이자 마케터, 개인적으로는 좋아하는 것이 많은 사람. 『생각소스』 저자</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘각그랜저’의 변신은 무죄]]></title>
+        <id>https://www.youtube.com/watch?v=zVaGqnEY6Ho</id>
+        <link href="https://www.youtube.com/watch?v=zVaGqnEY6Ho"/>
+        <updated>2021-12-04T12:23:06.976Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도훈<div class="styles_TooltipContent__8cY79">작가, 칼럼니스트, 영화평론가 </div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가나다(GANADA) Choreography by AIKI & HOOK]]></title>
+        <id>https://www.youtube.com/watch?v=rjl__Vlo4ao</id>
+        <link href="https://www.youtube.com/watch?v=rjl__Vlo4ao"/>
+        <updated>2021-12-04T12:23:06.977Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">보고 듣고 읽고 씁</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<가상세계지만 스타가 되고싶어> TVING 오리지널]]></title>
+        <id>https://www.youtube.com/watch?v=QWkLoI-tIMw</id>
+        <link href="https://www.youtube.com/watch?v=QWkLoI-tIMw"/>
+        <updated>2021-12-04T12:23:06.977Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">복길<div class="styles_TooltipContent__8cY79">텔레비전과 케이팝을 좋아합니다!</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Robot Eats Trash #TeamSeas]]></title>
+        <id>https://www.youtube.com/watch?v=pXDx6DjNLDU</id>
+        <link href="https://www.youtube.com/watch?v=pXDx6DjNLDU"/>
+        <updated>2021-12-04T12:23:06.978Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울패션위크 비건타이거 런웨이 (2021)]]></title>
+        <id>https://www.youtube.com/watch?v=IBsiJfchJKI</id>
+        <link href="https://www.youtube.com/watch?v=IBsiJfchJKI"/>
+        <updated>2021-12-04T12:23:06.979Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">'널 위한 문화예술'의 COO이자 문화기획자</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<“왜 이제야?” “눈물 난다”... 메르켈 연설에 놀란 독일> 오마이뉴스]]></title>
+        <id>http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002780728&amp;SRS_CD=0000012215</id>
+        <link href="http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002780728&amp;SRS_CD=0000012215"/>
+        <updated>2021-12-04T12:23:06.980Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<[문소영의 문화가 암시하는 사회] ‘이건희 컬렉션’에 대한 세 가지 오해> 중앙일보]]></title>
+        <id>https://www.joongang.co.kr/article/25013284</id>
+        <link href="https://www.joongang.co.kr/article/25013284"/>
+        <updated>2021-12-04T12:23:06.981Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CL의 과거와 현재, 미래를 담은 첫 정규작 ‘ALPHA’]]></title>
+        <id>https://www.youtube.com/watch?v=mKeJk3gaEbo</id>
+        <link href="https://www.youtube.com/watch?v=mKeJk3gaEbo"/>
+        <updated>2021-12-04T12:23:06.982Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도헌<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<How TikTok Serves Up Sex and Drug Videos to Minors> WSJ]]></title>
+        <id>https://www.wsj.com/articles/tiktok-algorithm-sex-drugs-minors-11631052944</id>
+        <link href="https://www.wsj.com/articles/tiktok-algorithm-sex-drugs-minors-11631052944"/>
+        <updated>2021-12-04T12:23:06.982Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도헌<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<시라노>  영화 트레일러]]></title>
+        <id>https://www.youtube.com/watch?v=TZlXQQbpzvE</id>
+        <link href="https://www.youtube.com/watch?v=TZlXQQbpzvE"/>
+        <updated>2021-12-04T12:23:06.983Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음악 페스티벌의 잇따른 취소에도 여전한 사회적 거리두기 개정안]]></title>
+        <id>https://www.mintpaper.co.kr/2021/10/gmf2021-end/</id>
+        <link href="https://www.mintpaper.co.kr/2021/10/gmf2021-end/"/>
+        <updated>2021-12-04T12:23:06.983Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<페이스북 내부고발자 프랜시스 하우건의 의회 청문회 모두 발언> 뉴스페퍼민트]]></title>
+        <id>https://newspeppermint.com/2021/10/06/fanceshaugen/</id>
+        <link href="https://newspeppermint.com/2021/10/06/fanceshaugen/"/>
+        <updated>2021-12-04T12:23:06.984Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김세인 감독 <같은 속옷을 입는 두 여자> (2021)]]></title>
+        <id>http://m.cine21.com/news/view/?mag_id=98764</id>
+        <link href="http://m.cine21.com/news/view/?mag_id=98764"/>
+        <updated>2021-12-04T12:23:06.985Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하미나<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 공식 트위터 계정에 올라온 페이스북 저격 트윗]]></title>
+        <id>https://twitter.com/netflix/status/1445061159158042625</id>
+        <link href="https://twitter.com/netflix/status/1445061159158042625"/>
+        <updated>2021-12-04T12:23:06.986Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">신기헌<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[130만 유튜버 꽈뚜룹. 그리고 인간 장지수의 인터뷰]]></title>
+        <id>https://www.youtube.com/watch?v=edyKEdFn-rk</id>
+        <link href="https://www.youtube.com/watch?v=edyKEdFn-rk"/>
+        <updated>2021-12-04T12:23:06.986Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이동진의 '만점' 외국 영화 월드컵]]></title>
+        <id>https://www.youtube.com/watch?v=061lqWAASls</id>
+        <link href="https://www.youtube.com/watch?v=061lqWAASls"/>
+        <updated>2021-12-04T12:23:06.987Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드니 빌뇌브의 신작 <듄> 메인 예고편 공개]]></title>
+        <id>https://youtu.be/-5Dc8EMVYBo</id>
+        <link href="https://youtu.be/-5Dc8EMVYBo"/>
+        <updated>2021-12-04T12:23:06.988Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도훈<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<오징어 게임> 넷플릭스]]></title>
+        <id>https://www.youtube.com/watch?v=oqxAJKy0ii4</id>
+        <link href="https://www.youtube.com/watch?v=oqxAJKy0ii4"/>
+        <updated>2021-12-04T12:23:06.988Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유튜버 구르님의 ‘이달의 휠체어’]]></title>
+        <id>https://youtu.be/WejtPTVr4Qk</id>
+        <link href="https://youtu.be/WejtPTVr4Qk"/>
+        <updated>2021-12-04T12:23:06.989Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">장경진<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최예림 - Lose Yourself <풍류대장 1회> jtbc]]></title>
+        <id>https://youtu.be/2sOk1l7gxfk</id>
+        <link href="https://youtu.be/2sOk1l7gxfk"/>
+        <updated>2021-12-04T12:23:06.990Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J.E.B LIVE @ NAVER NOW. 슬픔의 케이팝 파티 SKPP EP.20 페스티벌 요일바]]></title>
+        <id>https://soundcloud.com/jebofficial/jeb-live-naver-now-skpp-ep20</id>
+        <link href="https://soundcloud.com/jebofficial/jeb-live-naver-now-skpp-ep20"/>
+        <updated>2021-12-04T12:23:06.991Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하박국<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리들리 스콧의 신작 <라스트 듀얼 : 최후의 결투>]]></title>
+        <id>https://youtu.be/bO1cG93mpNM</id>
+        <link href="https://youtu.be/bO1cG93mpNM"/>
+        <updated>2021-12-04T12:23:06.992Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도훈<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이길보라 감독과 '코다' 션 헤이더 감독이 주고받은 편지]]></title>
+        <id>http://www.cine21.com/news/view/?mag_id=98584</id>
+        <link href="http://www.cine21.com/news/view/?mag_id=98584"/>
+        <updated>2021-12-04T12:23:06.992Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<고귀한 유물같나요? 당신이 바다에 버린 해양쓰레기입니다> 서울경제]]></title>
+        <id>https://www.sedaily.com/NewsVIew/22RG570RYO</id>
+        <link href="https://www.sedaily.com/NewsVIew/22RG570RYO"/>
+        <updated>2021-12-04T12:23:06.993Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유엔 총회에서 공연된 ‘퍼미션 투 댄스’ 공식 비디오]]></title>
+        <id>https://youtu.be/9SmQOZWNyWE</id>
+        <link href="https://youtu.be/9SmQOZWNyWE"/>
+        <updated>2021-12-04T12:23:06.994Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">신기헌<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<패들보더와 호기심 많은 고래의 아름다운 조우> BBC News]]></title>
+        <id>https://www.youtube.com/watch?v=exCEA1UF2FI</id>
+        <link href="https://www.youtube.com/watch?v=exCEA1UF2FI"/>
+        <updated>2021-12-04T12:23:06.995Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 멧 갈라 <In America: A Lexicon of Fashion>]]></title>
+        <id>https://11010design.tistory.com/406</id>
+        <link href="https://11010design.tistory.com/406"/>
+        <updated>2021-12-04T12:23:06.995Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[christojeanneclaude 인스타그램 최근 포스팅]]></title>
+        <id>https://www.instagram.com/p/CUAi_X6Kpow/</id>
+        <link href="https://www.instagram.com/p/CUAi_X6Kpow/"/>
+        <updated>2021-12-04T12:23:06.996Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">작가 소개가 없습니다.</div></button>]]></content>
     </entry>
 </feed>
