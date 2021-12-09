@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-09T18:19:19.835Z</updated>
+    <updated>2021-12-09T19:14:06.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[세계최고의  테너 파바로티의 스승들.싸움꾼…….]]></title>
+        <id>https://alook.so/posts/pot9WD</id>
+        <link href="https://alook.so/posts/pot9WD"/>
+        <updated>2021-12-09T19:12:40.012Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9WD">세계최고의  테너 파바로티의 스승들.싸움꾼…….</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[짜장면, 짬뽕 그리고 볶음밥]]></title>
         <id>https://alook.so/posts/zvtbJy</id>
@@ -25,12 +32,5 @@
         <link href="https://alook.so/posts/0ktrnG"/>
         <updated>2021-12-09T16:22:04.636Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrnG">음주운전 사망사고 살인죄로 처벌해야 하지 않을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흥의 민족👏]]></title>
-        <id>https://alook.so/posts/XBtWBL</id>
-        <link href="https://alook.so/posts/XBtWBL"/>
-        <updated>2021-12-09T15:16:00.304Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWBL">흥의 민족👏</a>]]></content>
     </entry>
 </feed>
