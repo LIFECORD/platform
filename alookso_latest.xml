@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-09T11:14:00.460Z</updated>
+    <updated>2021-12-09T12:25:12.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[직업으로 성악가 어떠세요?]]></title>
-        <id>https://alook.so/posts/rDtjJ2</id>
-        <link href="https://alook.so/posts/rDtjJ2"/>
-        <updated>2021-12-09T11:12:32.385Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjJ2">직업으로 성악가 어떠세요?</a>]]></content>
+        <title type="html"><![CDATA[선택의 폭]]></title>
+        <id>https://alook.so/posts/Djt23k</id>
+        <link href="https://alook.so/posts/Djt23k"/>
+        <updated>2021-12-09T12:23:44.558Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt23k">선택의 폭</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파이어족 계산법은 정녕 맞는가?]]></title>
-        <id>https://alook.so/posts/J5tYvl</id>
-        <link href="https://alook.so/posts/J5tYvl"/>
-        <updated>2021-12-09T11:12:32.386Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tYvl">파이어족 계산법은 정녕 맞는가?</a>]]></content>
+        <title type="html"><![CDATA[퇴사가 하고 싶습니다만(feat.23년차)]]></title>
+        <id>https://alook.so/posts/Yytb09</id>
+        <link href="https://alook.so/posts/Yytb09"/>
+        <updated>2021-12-09T12:23:44.559Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytb09">퇴사가 하고 싶습니다만(feat.23년차)</a>]]></content>
     </entry>
 </feed>
