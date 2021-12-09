@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-09T16:23:29.064Z</updated>
+    <updated>2021-12-09T17:24:39.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[짜장면, 짬뽕 그리고 볶음밥]]></title>
+        <id>https://alook.so/posts/zvtbJy</id>
+        <link href="https://alook.so/posts/zvtbJy"/>
+        <updated>2021-12-09T17:23:07.088Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtbJy">짜장면, 짬뽕 그리고 볶음밥</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메타버스 어떻게 생각하시나요?]]></title>
         <id>https://alook.so/posts/WLtenP</id>
@@ -25,12 +32,5 @@
         <link href="https://alook.so/posts/XBtWBL"/>
         <updated>2021-12-09T15:16:00.304Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWBL">흥의 민족👏</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[50자로 도대체 뭘 할 수 있겠어?]]></title>
-        <id>https://alook.so/posts/xltWyr</id>
-        <link href="https://alook.so/posts/xltWyr"/>
-        <updated>2021-12-09T15:16:00.305Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWyr">50자로 도대체 뭘 할 수 있겠어?</a>]]></content>
     </entry>
 </feed>
