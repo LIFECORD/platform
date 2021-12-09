@@ -2,28 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-09T06:19:01.985Z</updated>
+    <updated>2021-12-09T07:16:14.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[두 달 전 계획된 2년만의 만남..고민됩니다.]]></title>
-        <id>https://alook.so/posts/rDtOZ2</id>
-        <link href="https://alook.so/posts/rDtOZ2"/>
-        <updated>2021-12-09T06:17:33.639Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtOZ2">두 달 전 계획된 2년만의 만남..고민됩니다.</a>]]></content>
+        <title type="html"><![CDATA[재활용 분리수거, 작은 손길이 모이면 큰 힘이 됩니다.]]></title>
+        <id>https://alook.so/posts/XBtdm1</id>
+        <link href="https://alook.so/posts/XBtdm1"/>
+        <updated>2021-12-09T07:14:49.446Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtdm1">재활용 분리수거, 작은 손길이 모이면 큰 힘이 됩니다. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[거인의 어깨에서 거인의 시야를 빌리자]]></title>
-        <id>https://alook.so/posts/latPBa</id>
-        <link href="https://alook.so/posts/latPBa"/>
-        <updated>2021-12-09T06:17:33.639Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latPBa">거인의 어깨에서 거인의 시야를 빌리자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 확진자 7000명대 돌파...]]></title>
-        <id>https://alook.so/posts/92t4MD</id>
-        <link href="https://alook.so/posts/92t4MD"/>
-        <updated>2021-12-09T06:17:33.640Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t4MD">코로나19 확진자 7000명대 돌파...</a>]]></content>
+        <title type="html"><![CDATA[처음 해보는 부업!!!! 데이터라벨링~ 도전!!]]></title>
+        <id>https://alook.so/posts/yEtvR3</id>
+        <link href="https://alook.so/posts/yEtvR3"/>
+        <updated>2021-12-09T07:14:49.447Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtvR3">처음 해보는 부업!!!! 데이터라벨링~ 도전!!</a>]]></content>
     </entry>
 </feed>

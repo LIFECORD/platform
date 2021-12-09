@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://figk.net/text</id>
     <title>FIGK</title>
-    <updated>2021-12-09T06:19:01.994Z</updated>
+    <updated>2021-12-09T07:16:14.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://figk.net/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://tickets.interpark.com/goods/21012165"/>
         <updated>2021-12-09T06:17:25.331Z</updated>
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">'널 위한 문화예술'의 COO이자 문화기획자</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<쇼미더머니10 >을 한 소절로 우승했다? 악동뮤지션 이찬혁의 도발]]></title>
+        <id>https://www.youtube.com/watch?v=n30-nDqriys</id>
+        <link href="https://www.youtube.com/watch?v=n30-nDqriys"/>
+        <updated>2021-12-09T07:14:41.468Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도헌<div class="styles_TooltipContent__8cY79">대중음악평론가로 활동하고 있습니다. 뉴스레터 제너레이트(ZENERATE)를 운영합니다. I Believe in a Thing Called Love.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<아디다스 오리지널스> 트위터 계정의 영상]]></title>
+        <id>https://twitter.com/adidasoriginals/status/1466443459951271939</id>
+        <link href="https://twitter.com/adidasoriginals/status/1466443459951271939"/>
+        <updated>2021-12-09T07:14:41.469Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">신기헌<div class="styles_TooltipContent__8cY79">공간, 아트, 디자인, 마케팅, IT 등 영역에서 크리에이티브와 테크놀로지가 하나로 융합되는 다양한 실험을 이어왔다. 현재는 메타버스와 관련한 전략, 기획, 제작 프로젝트에 참여 중이다.</div></button>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 ‘쿨 키드'들은 다시 ‘유선 이어폰’을 쓰는가]]></title>
@@ -328,6 +342,20 @@
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">벨로주 대표, 공연 기획자, 선곡가</div></button>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ArtReview Power 100 링크, 2021년]]></title>
+        <id>https://artreview.com/power-100/</id>
+        <link href="https://artreview.com/power-100/"/>
+        <updated>2021-12-09T07:14:41.513Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">'널 위한 문화예술'의 COO이자 문화기획자</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빙그레 바나나맛우유 X 최고심]]></title>
+        <id>https://www.youtube.com/watch?v=KlgDq95YkSE</id>
+        <link href="https://www.youtube.com/watch?v=KlgDq95YkSE"/>
+        <updated>2021-12-09T07:14:41.513Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">직업적으로는 기획자이자 마케터, 개인적으로는 좋아하는 것이 많은 사람. 『생각소스』 저자</div></button>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘스우파’ CP "파이널 음원 수익, 댄서들과 나눌 것…국내 최초", 2021년]]></title>
         <id>https://www.inews24.com/view/1416761</id>
         <link href="https://www.inews24.com/view/1416761"/>
@@ -634,6 +662,20 @@
         <link href="https://www.youtube.com/watch?v=dYB3e6xFcEg"/>
         <updated>2021-12-09T06:17:25.432Z</updated>
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">복길<div class="styles_TooltipContent__8cY79">텔레비전과 케이팝을 좋아합니다!</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파워 오브 도그 | 공식 예고편 | 넷플릭스]]></title>
+        <id>https://www.youtube.com/watch?v=9C5Dy7uOfFE</id>
+        <link href="https://www.youtube.com/watch?v=9C5Dy7uOfFE"/>
+        <updated>2021-12-09T07:14:41.574Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하박국<div class="styles_TooltipContent__8cY79">🤖기술인간  🔊음악사람 🤮영기획YOUNG,GIFTED&amp;WACK 대표 </div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다양한 이야기로 가득한, LCDC SEOUL 오픈]]></title>
+        <id>http://www.lcdc-seoul.com/</id>
+        <link href="http://www.lcdc-seoul.com/"/>
+        <updated>2021-12-09T07:14:41.574Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">직업적으로는 기획자이자 마케터, 개인적으로는 좋아하는 것이 많은 사람. 『생각소스』 저자</div></button>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[양다솔 <가난해지지 않는 마음> (2021)]]></title>
