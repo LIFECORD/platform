@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-09T03:16:35.484Z</updated>
+    <updated>2021-12-09T04:20:22.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[전 요즘 타트체리에 꽂혔어요 ㅎㅎ]]></title>
-        <id>https://alook.so/posts/J5tPeV</id>
-        <link href="https://alook.so/posts/J5tPeV"/>
-        <updated>2021-12-09T03:15:06.949Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tPeV">전 요즘 타트체리에 꽂혔어요 ㅎㅎ</a>]]></content>
+        <title type="html"><![CDATA[새로 시작될 얼룩소을 위한 본격적인 시동으로 이해해도 될까요?^^]]></title>
+        <id>https://alook.so/posts/E7t2Ro</id>
+        <link href="https://alook.so/posts/E7t2Ro"/>
+        <updated>2021-12-09T04:18:53.863Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t2Ro">새로 시작될 얼룩소을 위한 본격적인 시동으로 이해해도 될까요?^^ </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오미크론 전파력 무엇]]></title>
-        <id>https://alook.so/posts/eVt414</id>
-        <link href="https://alook.so/posts/eVt414"/>
-        <updated>2021-12-09T03:15:06.950Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt414">오미크론 전파력 무엇</a>]]></content>
+        <title type="html"><![CDATA[Luciano pavarotti (세계최고의  테너 성악가 )의 집중력.]]></title>
+        <id>https://alook.so/posts/92t4zD</id>
+        <link href="https://alook.so/posts/92t4zD"/>
+        <updated>2021-12-09T04:18:53.864Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t4zD">Luciano pavarotti (세계최고의  테너 성악가 )의 집중력.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소는 활력소다.]]></title>
-        <id>https://alook.so/posts/PvtJd7</id>
-        <link href="https://alook.so/posts/PvtJd7"/>
-        <updated>2021-12-09T03:15:06.951Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtJd7">얼룩소는 활력소다.</a>]]></content>
+        <title type="html"><![CDATA[답글: 얼룩커 탈을 쓴운영진이시죠?? ㅋㅋ]]></title>
+        <id>https://alook.so/posts/KmteJE</id>
+        <link href="https://alook.so/posts/KmteJE"/>
+        <updated>2021-12-09T04:18:53.865Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmteJE">답글: 얼룩커 탈을 쓴운영진이시죠?? ㅋㅋ</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최근에 언제 가장 행복하셨어요?]]></title>
+        <id>https://alook.so/posts/54tMyv</id>
+        <link href="https://alook.so/posts/54tMyv"/>
+        <updated>2021-12-09T04:18:53.867Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tMyv">최근에 언제 가장 행복하셨어요?</a>]]></content>
     </entry>
 </feed>
