@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-09T22:16:07.269Z</updated>
+    <updated>2021-12-09T23:16:13.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA['내 집 마련'이 평생의 꿈일 수 밖에 없는 이유]]></title>
+        <id>https://alook.so/posts/q1t1pR</id>
+        <link href="https://alook.so/posts/q1t1pR"/>
+        <updated>2021-12-09T23:14:46.503Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1pR">'내 집 마련'이 평생의 꿈일 수 밖에 없는 이유</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부스터샷을 맞습니다.]]></title>
         <id>https://alook.so/posts/1RtaRB</id>
@@ -25,12 +32,5 @@
         <link href="https://alook.so/posts/rDtjpw"/>
         <updated>2021-12-09T20:15:47.870Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjpw">범죄를 줄일수는있습니다 다만 걱정은 완벽하게 안없어지겠네요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼후 아이 갖는거 몇살 적정기 라고 생각 하시나요?]]></title>
-        <id>https://alook.so/posts/jdtj33</id>
-        <link href="https://alook.so/posts/jdtj33"/>
-        <updated>2021-12-09T20:15:47.871Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtj33">결혼후 아이 갖는거 몇살 적정기 라고 생각 하시나요?</a>]]></content>
     </entry>
 </feed>
