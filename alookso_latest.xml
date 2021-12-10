@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-10T06:19:17.159Z</updated>
+    <updated>2021-12-10T07:16:02.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[요즘 N잡러가 되기위해 하나하나 배우고 깨닫고 있어요]]></title>
-        <id>https://alook.so/posts/KmtMXV</id>
-        <link href="https://alook.so/posts/KmtMXV"/>
-        <updated>2021-12-10T06:17:53.768Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMXV">요즘 N잡러가 되기위해 하나하나 배우고 깨닫고 있어요</a>]]></content>
+        <title type="html"><![CDATA[답글: ‘사랑’은 책임감]]></title>
+        <id>https://alook.so/posts/dztKoJ</id>
+        <link href="https://alook.so/posts/dztKoJ"/>
+        <updated>2021-12-10T07:14:40.815Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKoJ">답글: ‘사랑’은 책임감</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[피드백이 감정적으로 받아들여져요]]></title>
-        <id>https://alook.so/posts/54tdz0</id>
-        <link href="https://alook.so/posts/54tdz0"/>
-        <updated>2021-12-10T06:17:53.769Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdz0">피드백이 감정적으로 받아들여져요</a>]]></content>
+        <title type="html"><![CDATA[그러라고 하고 싶어요~]]></title>
+        <id>https://alook.so/posts/J5tYa1</id>
+        <link href="https://alook.so/posts/J5tYa1"/>
+        <updated>2021-12-10T07:14:40.816Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tYa1">그러라고 하고 싶어요~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요즘 어디에 꽃혔어요?]]></title>
-        <id>https://alook.so/posts/Djt2qJ</id>
-        <link href="https://alook.so/posts/Djt2qJ"/>
-        <updated>2021-12-10T06:17:53.771Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2qJ">요즘 어디에 꽃혔어요?</a>]]></content>
+        <title type="html"><![CDATA[딸 둘, 아들 하나. 아이셋 엄마입니다.]]></title>
+        <id>https://alook.so/posts/2xtBRV</id>
+        <link href="https://alook.so/posts/2xtBRV"/>
+        <updated>2021-12-10T07:14:40.817Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBRV">딸 둘, 아들 하나. 아이셋 엄마입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[k-pop은 세계에 유일하다.]]></title>
-        <id>https://alook.so/posts/1RtaOP</id>
-        <link href="https://alook.so/posts/1RtaOP"/>
-        <updated>2021-12-10T06:17:53.772Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaOP">k-pop은 세계에 유일하다. </a>]]></content>
+        <title type="html"><![CDATA[흉악범에게도 인권은 있는가]]></title>
+        <id>https://alook.so/posts/0ktrpe</id>
+        <link href="https://alook.so/posts/0ktrpe"/>
+        <updated>2021-12-10T07:14:40.818Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrpe">흉악범에게도 인권은 있는가</a>]]></content>
     </entry>
 </feed>
