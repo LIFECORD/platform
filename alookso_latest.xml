@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-10T01:58:17.975Z</updated>
+    <updated>2021-12-10T02:32:28.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[남성은 잠재적 가해자가 아닙니다.]]></title>
-        <id>https://alook.so/posts/M9t284</id>
-        <link href="https://alook.so/posts/M9t284"/>
-        <updated>2021-12-10T01:56:54.773Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t284">남성은 잠재적 가해자가 아닙니다.</a>]]></content>
+        <title type="html"><![CDATA[코로나 백신 3차 접종을 해야하나요...?]]></title>
+        <id>https://alook.so/posts/jdtj5E</id>
+        <link href="https://alook.so/posts/jdtj5E"/>
+        <updated>2021-12-10T02:31:08.427Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtj5E">코로나 백신 3차 접종을 해야하나요...?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백신 부작용에 관하여 궁굼합니다]]></title>
-        <id>https://alook.so/posts/XBtW3Z</id>
-        <link href="https://alook.so/posts/XBtW3Z"/>
-        <updated>2021-12-10T01:56:54.774Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtW3Z">백신 부작용에 관하여 궁굼합니다</a>]]></content>
+        <title type="html"><![CDATA[매일 얼룩커 '안되신분' 여기 있습니다 ..]]></title>
+        <id>https://alook.so/posts/a0tMm5</id>
+        <link href="https://alook.so/posts/a0tMm5"/>
+        <updated>2021-12-10T02:31:08.428Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMm5">매일 얼룩커 '안되신분' 여기 있습니다 .. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다이어트]]></title>
-        <id>https://alook.so/posts/w9t6nJ</id>
-        <link href="https://alook.so/posts/w9t6nJ"/>
-        <updated>2021-12-10T01:56:54.775Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6nJ">다이어트 </a>]]></content>
+        <title type="html"><![CDATA['남자는 잠재적 가해자'에 대해 조심스럽게 의견 제시합니다.]]></title>
+        <id>https://alook.so/posts/dztKYD</id>
+        <link href="https://alook.so/posts/dztKYD"/>
+        <updated>2021-12-10T02:31:08.429Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKYD">'남자는 잠재적 가해자'에 대해 조심스럽게 의견 제시합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앗, 60자 !... 오늘 듣고싶은 노래가사로 적어봤습니당]]></title>
+        <id>https://alook.so/posts/Pvt5eq</id>
+        <link href="https://alook.so/posts/Pvt5eq"/>
+        <updated>2021-12-10T02:31:08.429Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5eq">앗, 60자 !... 오늘 듣고싶은 노래가사로 적어봤습니당</a>]]></content>
     </entry>
 </feed>
