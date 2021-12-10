@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-10T04:20:18.485Z</updated>
+    <updated>2021-12-10T05:15:25.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[이거... 아십니까? (Feat. 귀차니즘의 도래)]]></title>
-        <id>https://alook.so/posts/0ktrd6</id>
-        <link href="https://alook.so/posts/0ktrd6"/>
-        <updated>2021-12-10T04:18:53.151Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrd6">이거... 아십니까? (Feat. 귀차니즘의 도래)</a>]]></content>
+        <title type="html"><![CDATA[다양한 형태를 존중해야 한다고 생각합니다.]]></title>
+        <id>https://alook.so/posts/54tdz5</id>
+        <link href="https://alook.so/posts/54tdz5"/>
+        <updated>2021-12-10T05:14:04.162Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdz5">다양한 형태를 존중해야 한다고 생각합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: ‘사랑한다'라고 쓰고 '아낀다'라고 읽어요]]></title>
-        <id>https://alook.so/posts/M9t204</id>
-        <link href="https://alook.so/posts/M9t204"/>
-        <updated>2021-12-10T04:18:53.152Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t204">답글: ‘사랑한다'라고 쓰고 '아낀다'라고 읽어요</a>]]></content>
+        <title type="html"><![CDATA[20년동안 지낸 가족에게 부담을 느끼다...]]></title>
+        <id>https://alook.so/posts/q1t1rL</id>
+        <link href="https://alook.so/posts/q1t1rL"/>
+        <updated>2021-12-10T05:14:04.163Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1rL">20년동안 지낸 가족에게 부담을 느끼다...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인생을 바꾸고 싶다면 이것부터 바꾸세요.]]></title>
-        <id>https://alook.so/posts/4Xtxme</id>
-        <link href="https://alook.so/posts/4Xtxme"/>
-        <updated>2021-12-10T04:18:53.153Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtxme">인생을 바꾸고 싶다면 이것부터 바꾸세요.</a>]]></content>
+        <title type="html"><![CDATA[건강한 사랑은 삶을 빛나게한다.]]></title>
+        <id>https://alook.so/posts/1RtaOo</id>
+        <link href="https://alook.so/posts/1RtaOo"/>
+        <updated>2021-12-10T05:14:04.164Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaOo">건강한 사랑은 삶을 빛나게한다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[죽음의 문턱이란? 암이라는 존재는..?]]></title>
-        <id>https://alook.so/posts/XBtWGZ</id>
-        <link href="https://alook.so/posts/XBtWGZ"/>
-        <updated>2021-12-10T04:18:53.154Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWGZ">죽음의 문턱이란? 암이라는 존재는..?</a>]]></content>
+        <title type="html"><![CDATA[악업은 쌓이고 쌓이건만]]></title>
+        <id>https://alook.so/posts/Yytb9W</id>
+        <link href="https://alook.so/posts/Yytb9W"/>
+        <updated>2021-12-10T05:14:04.165Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytb9W">악업은 쌓이고 쌓이건만</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정서 이전 전기]]></title>
-        <id>https://alook.so/posts/w9t6yJ</id>
-        <link href="https://alook.so/posts/w9t6yJ"/>
-        <updated>2021-12-10T04:18:53.155Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6yJ">정서 이전 전기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 딩크족 입니다.]]></title>
-        <id>https://alook.so/posts/xltWJR</id>
-        <link href="https://alook.so/posts/xltWJR"/>
-        <updated>2021-12-10T04:18:53.156Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWJR">저는 딩크족 입니다.</a>]]></content>
+        <title type="html"><![CDATA[답글: 50자로 할 수 있는 건 생각보다 많습니다.]]></title>
+        <id>https://alook.so/posts/a0tMa5</id>
+        <link href="https://alook.so/posts/a0tMa5"/>
+        <updated>2021-12-10T05:14:04.166Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMa5">답글: 50자로 할 수 있는 건 생각보다 많습니다.</a>]]></content>
     </entry>
 </feed>
