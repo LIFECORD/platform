@@ -2,28 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-10T15:17:26.051Z</updated>
+    <updated>2021-12-10T16:23:43.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[[팩트체크] 우리 사회에 널리 퍼져있는 유해 화학물]]></title>
-        <id>https://alook.so/posts/pot9Bv</id>
-        <link href="https://alook.so/posts/pot9Bv"/>
-        <updated>2021-12-10T15:16:00.694Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9Bv">[팩트체크] 우리 사회에 널리 퍼져있는 유해 화학물</a>]]></content>
+        <title type="html"><![CDATA[얼룩소 덕분에 책 기부를 무사히 마쳤습니다🎄]]></title>
+        <id>https://alook.so/posts/Djt2rl</id>
+        <link href="https://alook.so/posts/Djt2rl"/>
+        <updated>2021-12-10T16:22:14.311Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2rl">얼룩소 덕분에 책 기부를 무사히 마쳤습니다🎄</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[예능은 왜 리얼을 추구하는가?]]></title>
-        <id>https://alook.so/posts/Pvt5x6</id>
-        <link href="https://alook.so/posts/Pvt5x6"/>
-        <updated>2021-12-10T15:16:00.695Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5x6">예능은 왜 리얼을 추구하는가?</a>]]></content>
+        <title type="html"><![CDATA[함부로 묻히지 않는 사회]]></title>
+        <id>https://alook.so/posts/1Rta5R</id>
+        <link href="https://alook.so/posts/1Rta5R"/>
+        <updated>2021-12-10T16:22:14.313Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rta5R">함부로 묻히지 않는 사회 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수능처럼 부모준비평가도 있어야]]></title>
-        <id>https://alook.so/posts/zvtbjn</id>
-        <link href="https://alook.so/posts/zvtbjn"/>
-        <updated>2021-12-10T15:16:00.697Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtbjn">수능처럼 부모준비평가도 있어야</a>]]></content>
+        <title type="html"><![CDATA[원래 쓰레기는 쓰레기장에 제일 많습니다.]]></title>
+        <id>https://alook.so/posts/70tMwe</id>
+        <link href="https://alook.so/posts/70tMwe"/>
+        <updated>2021-12-10T16:22:14.314Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMwe">원래 쓰레기는 쓰레기장에 제일 많습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탄소 배출 그거 정말 줄여야 하는 건가?]]></title>
+        <id>https://alook.so/posts/jdtjX8</id>
+        <link href="https://alook.so/posts/jdtjX8"/>
+        <updated>2021-12-10T16:22:14.315Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjX8">탄소 배출 그거 정말 줄여야 하는 건가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불편해도 괜찮아]]></title>
+        <id>https://alook.so/posts/a0tMK2</id>
+        <link href="https://alook.so/posts/a0tMK2"/>
+        <updated>2021-12-10T16:22:14.317Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMK2">불편해도 괜찮아 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내선 항공 여객량 역대 최대... 뭔가 이상하지 않나요?]]></title>
+        <id>https://alook.so/posts/Zkt0nd</id>
+        <link href="https://alook.so/posts/Zkt0nd"/>
+        <updated>2021-12-10T16:22:14.318Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0nd">국내선 항공 여객량 역대 최대... 뭔가 이상하지 않나요?</a>]]></content>
     </entry>
 </feed>
