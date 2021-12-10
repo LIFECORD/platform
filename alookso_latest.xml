@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-10T21:14:23.344Z</updated>
+    <updated>2021-12-10T22:15:41.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국의 10대가 불행한가에 대한 저의 생각입니다.]]></title>
+        <id>https://alook.so/posts/E7tzdv</id>
+        <link href="https://alook.so/posts/E7tzdv"/>
+        <updated>2021-12-10T22:14:19.460Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tzdv">한국의 10대가 불행한가에 대한 저의 생각입니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카운트다운... 여러분의 노후는 안녕하십니까?]]></title>
         <id>https://alook.so/posts/KmtMby</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/o7twkw"/>
         <updated>2021-12-10T19:12:08.802Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twkw">네가 한 말의 진짜 의미를 한 번 생각해주면 좋겠어. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안산 다세대 주택 가스폭팔 추정사고]]></title>
-        <id>https://alook.so/posts/70tMwl</id>
-        <link href="https://alook.so/posts/70tMwl"/>
-        <updated>2021-12-10T19:12:08.803Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMwl">안산 다세대 주택 가스폭팔 추정사고 </a>]]></content>
     </entry>
 </feed>
