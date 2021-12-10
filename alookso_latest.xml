@@ -2,28 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-10T09:16:37.153Z</updated>
+    <updated>2021-12-10T10:17:57.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[우리 사회의 진짜 기득권은 당연히 자본가입니다.]]></title>
-        <id>https://alook.so/posts/XBtWKD</id>
-        <link href="https://alook.so/posts/XBtWKD"/>
-        <updated>2021-12-10T09:15:06.258Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWKD">우리 사회의 진짜 기득권은 당연히 자본가입니다.</a>]]></content>
+        <title type="html"><![CDATA[한국은 '중'진국]]></title>
+        <id>https://alook.so/posts/J5tYM1</id>
+        <link href="https://alook.so/posts/J5tYM1"/>
+        <updated>2021-12-10T10:16:28.490Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tYM1">한국은 '중'진국</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50자로 할 수 있는 것 - 공감, 소통]]></title>
-        <id>https://alook.so/posts/RGtBVj</id>
-        <link href="https://alook.so/posts/RGtBVj"/>
-        <updated>2021-12-10T09:15:06.259Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBVj"> 50자로 할 수 있는 것 - 공감, 소통</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가볍게 글쓰기를 시작해보려고 합니다.]]></title>
-        <id>https://alook.so/posts/kZtG15</id>
-        <link href="https://alook.so/posts/kZtG15"/>
-        <updated>2021-12-10T09:15:06.260Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtG15">가볍게 글쓰기를 시작해보려고 합니다.</a>]]></content>
+        <title type="html"><![CDATA[내 집은 어디있을까요??]]></title>
+        <id>https://alook.so/posts/Pvt5o1</id>
+        <link href="https://alook.so/posts/Pvt5o1"/>
+        <updated>2021-12-10T10:16:28.492Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5o1">내 집은 어디있을까요??</a>]]></content>
     </entry>
 </feed>
