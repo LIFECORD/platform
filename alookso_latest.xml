@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-10T17:23:00.186Z</updated>
+    <updated>2021-12-10T18:18:39.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[의료 인프라 격차로 인한 고민]]></title>
+        <id>https://alook.so/posts/E7tzdk</id>
+        <link href="https://alook.so/posts/E7tzdk"/>
+        <updated>2021-12-10T18:17:11.229Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tzdk">의료 인프라 격차로 인한 고민</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부스터샷 맞고 왔습니다.]]></title>
+        <id>https://alook.so/posts/latVww</id>
+        <link href="https://alook.so/posts/latVww"/>
+        <updated>2021-12-10T18:17:11.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVww">부스터샷 맞고 왔습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고민있는 당신을 위해]]></title>
+        <id>https://alook.so/posts/92tWZ9</id>
+        <link href="https://alook.so/posts/92tWZ9"/>
+        <updated>2021-12-10T18:17:11.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWZ9">고민있는 당신을 위해</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소의 다음 기본소득 시리즈를 기대하며]]></title>
         <id>https://alook.so/posts/KmtMb7</id>
@@ -39,12 +60,5 @@
         <link href="https://alook.so/posts/1Rta5R"/>
         <updated>2021-12-10T16:22:14.313Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rta5R">함부로 묻히지 않는 사회 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원래 쓰레기는 쓰레기장에 제일 많습니다.]]></title>
-        <id>https://alook.so/posts/70tMwe</id>
-        <link href="https://alook.so/posts/70tMwe"/>
-        <updated>2021-12-10T16:22:14.314Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMwe">원래 쓰레기는 쓰레기장에 제일 많습니다.</a>]]></content>
     </entry>
 </feed>
