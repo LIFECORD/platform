@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-10T05:15:25.312Z</updated>
+    <updated>2021-12-10T06:19:17.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[다양한 형태를 존중해야 한다고 생각합니다.]]></title>
-        <id>https://alook.so/posts/54tdz5</id>
-        <link href="https://alook.so/posts/54tdz5"/>
-        <updated>2021-12-10T05:14:04.162Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdz5">다양한 형태를 존중해야 한다고 생각합니다.</a>]]></content>
+        <title type="html"><![CDATA[요즘 N잡러가 되기위해 하나하나 배우고 깨닫고 있어요]]></title>
+        <id>https://alook.so/posts/KmtMXV</id>
+        <link href="https://alook.so/posts/KmtMXV"/>
+        <updated>2021-12-10T06:17:53.768Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMXV">요즘 N잡러가 되기위해 하나하나 배우고 깨닫고 있어요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20년동안 지낸 가족에게 부담을 느끼다...]]></title>
-        <id>https://alook.so/posts/q1t1rL</id>
-        <link href="https://alook.so/posts/q1t1rL"/>
-        <updated>2021-12-10T05:14:04.163Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1rL">20년동안 지낸 가족에게 부담을 느끼다...</a>]]></content>
+        <title type="html"><![CDATA[피드백이 감정적으로 받아들여져요]]></title>
+        <id>https://alook.so/posts/54tdz0</id>
+        <link href="https://alook.so/posts/54tdz0"/>
+        <updated>2021-12-10T06:17:53.769Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdz0">피드백이 감정적으로 받아들여져요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[건강한 사랑은 삶을 빛나게한다.]]></title>
-        <id>https://alook.so/posts/1RtaOo</id>
-        <link href="https://alook.so/posts/1RtaOo"/>
-        <updated>2021-12-10T05:14:04.164Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaOo">건강한 사랑은 삶을 빛나게한다.</a>]]></content>
+        <title type="html"><![CDATA[요즘 어디에 꽃혔어요?]]></title>
+        <id>https://alook.so/posts/Djt2qJ</id>
+        <link href="https://alook.so/posts/Djt2qJ"/>
+        <updated>2021-12-10T06:17:53.771Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2qJ">요즘 어디에 꽃혔어요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[악업은 쌓이고 쌓이건만]]></title>
-        <id>https://alook.so/posts/Yytb9W</id>
-        <link href="https://alook.so/posts/Yytb9W"/>
-        <updated>2021-12-10T05:14:04.165Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytb9W">악업은 쌓이고 쌓이건만</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 50자로 할 수 있는 건 생각보다 많습니다.]]></title>
-        <id>https://alook.so/posts/a0tMa5</id>
-        <link href="https://alook.so/posts/a0tMa5"/>
-        <updated>2021-12-10T05:14:04.166Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMa5">답글: 50자로 할 수 있는 건 생각보다 많습니다.</a>]]></content>
+        <title type="html"><![CDATA[k-pop은 세계에 유일하다.]]></title>
+        <id>https://alook.so/posts/1RtaOP</id>
+        <link href="https://alook.so/posts/1RtaOP"/>
+        <updated>2021-12-10T06:17:53.772Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaOP">k-pop은 세계에 유일하다. </a>]]></content>
     </entry>
 </feed>
