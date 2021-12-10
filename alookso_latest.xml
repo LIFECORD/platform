@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-10T14:15:42.347Z</updated>
+    <updated>2021-12-10T15:17:26.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[마지막이 아니기를]]></title>
-        <id>https://alook.so/posts/92tW99</id>
-        <link href="https://alook.so/posts/92tW99"/>
-        <updated>2021-12-10T14:14:19.729Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tW99">마지막이 아니기를</a>]]></content>
+        <title type="html"><![CDATA[[팩트체크] 우리 사회에 널리 퍼져있는 유해 화학물]]></title>
+        <id>https://alook.so/posts/pot9Bv</id>
+        <link href="https://alook.so/posts/pot9Bv"/>
+        <updated>2021-12-10T15:16:00.694Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9Bv">[팩트체크] 우리 사회에 널리 퍼져있는 유해 화학물</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[큰 물줄기의 흐름을 거슬러 갈 수 있는가?]]></title>
-        <id>https://alook.so/posts/Djt2kl</id>
-        <link href="https://alook.so/posts/Djt2kl"/>
-        <updated>2021-12-10T14:14:19.730Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2kl">큰 물줄기의 흐름을 거슬러 갈 수 있는가?</a>]]></content>
+        <title type="html"><![CDATA[예능은 왜 리얼을 추구하는가?]]></title>
+        <id>https://alook.so/posts/Pvt5x6</id>
+        <link href="https://alook.so/posts/Pvt5x6"/>
+        <updated>2021-12-10T15:16:00.695Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5x6">예능은 왜 리얼을 추구하는가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나 돌아보기 - (2) 왜 얼룩소에서? / 세대론]]></title>
-        <id>https://alook.so/posts/1RtaXR</id>
-        <link href="https://alook.so/posts/1RtaXR"/>
-        <updated>2021-12-10T14:14:19.731Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaXR">나 돌아보기 - (2) 왜 얼룩소에서? / 세대론</a>]]></content>
+        <title type="html"><![CDATA[수능처럼 부모준비평가도 있어야]]></title>
+        <id>https://alook.so/posts/zvtbjn</id>
+        <link href="https://alook.so/posts/zvtbjn"/>
+        <updated>2021-12-10T15:16:00.697Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtbjn">수능처럼 부모준비평가도 있어야</a>]]></content>
     </entry>
 </feed>
