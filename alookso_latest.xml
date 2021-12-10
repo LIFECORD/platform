@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-10T19:13:36.050Z</updated>
+    <updated>2021-12-10T20:17:07.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[도르마무 도르마무]]></title>
+        <id>https://alook.so/posts/q1t1Rx</id>
+        <link href="https://alook.so/posts/q1t1Rx"/>
+        <updated>2021-12-10T20:15:40.026Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1Rx">도르마무 도르마무</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT에 대해서]]></title>
+        <id>https://alook.so/posts/Djt2rz</id>
+        <link href="https://alook.so/posts/Djt2rz"/>
+        <updated>2021-12-10T20:15:40.027Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2rz">NFT에 대해서</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10대의 불행]]></title>
+        <id>https://alook.so/posts/1Rta5z</id>
+        <link href="https://alook.so/posts/1Rta5z"/>
+        <updated>2021-12-10T20:15:40.027Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rta5z">10대의 불행</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네가 한 말의 진짜 의미를 한 번 생각해주면 좋겠어.]]></title>
         <id>https://alook.so/posts/o7twkw</id>
@@ -39,19 +60,5 @@
         <link href="https://alook.so/posts/92tWZ9"/>
         <updated>2021-12-10T18:17:11.231Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWZ9">고민있는 당신을 위해</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소의 다음 기본소득 시리즈를 기대하며]]></title>
-        <id>https://alook.so/posts/KmtMb7</id>
-        <link href="https://alook.so/posts/KmtMb7"/>
-        <updated>2021-12-10T17:21:36.286Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMb7">얼룩소의 다음 기본소득 시리즈를 기대하며 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019.12.12 아빠에게]]></title>
-        <id>https://alook.so/posts/54td8B</id>
-        <link href="https://alook.so/posts/54td8B"/>
-        <updated>2021-12-10T17:21:36.287Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td8B">2019.12.12 아빠에게</a>]]></content>
     </entry>
 </feed>
