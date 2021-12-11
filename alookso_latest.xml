@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-11T22:15:44.048Z</updated>
+    <updated>2021-12-11T23:16:13.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 너무 고마워 . 잊지 않을께 ^^]]></title>
+        <id>https://alook.so/posts/M9t2XJ</id>
+        <link href="https://alook.so/posts/M9t2XJ"/>
+        <updated>2021-12-11T23:14:41.471Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2XJ">얼룩소 너무 고마워 . 잊지 않을께 ^^</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[질문17] (조동연 사태를 통해 본) 정치인은 어디까지 검증 받아야 할까요?]]></title>
+        <id>https://alook.so/posts/4Xtx4D</id>
+        <link href="https://alook.so/posts/4Xtx4D"/>
+        <updated>2021-12-11T23:14:41.473Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtx4D">[질문17] (조동연 사태를 통해 본) 정치인은 어디까지 검증 받아야 할까요? </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감정 쓰레기 통]]></title>
         <id>https://alook.so/posts/w9t6Ew</id>
@@ -32,12 +46,5 @@
         <link href="https://alook.so/posts/yEtrbb"/>
         <updated>2021-12-11T21:12:58.419Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtrbb">미래가 밝지만은 못한 청년들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 10대는 '남들 다 하는 것'이 아니다]]></title>
-        <id>https://alook.so/posts/3wtzOx</id>
-        <link href="https://alook.so/posts/3wtzOx"/>
-        <updated>2021-12-11T19:11:53.286Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtzOx">한국의 10대는 '남들 다 하는 것'이 아니다</a>]]></content>
     </entry>
 </feed>
