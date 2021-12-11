@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-11T07:16:22.441Z</updated>
+    <updated>2021-12-11T08:18:12.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[집값을 너무 잡지 않았으면]]></title>
-        <id>https://alook.so/posts/0ktrDj</id>
-        <link href="https://alook.so/posts/0ktrDj"/>
-        <updated>2021-12-11T07:14:53.673Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrDj">집값을 너무 잡지 않았으면</a>]]></content>
+        <title type="html"><![CDATA[‘지능’의 문제라는 말을 안전한 공론장에서 써도 될까요?]]></title>
+        <id>https://alook.so/posts/70tML0</id>
+        <link href="https://alook.so/posts/70tML0"/>
+        <updated>2021-12-11T08:16:49.270Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tML0">‘지능’의 문제라는 말을 안전한 공론장에서 써도 될까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[질문을 집요하게 던져야 할 시간]]></title>
-        <id>https://alook.so/posts/XBtWDY</id>
-        <link href="https://alook.so/posts/XBtWDY"/>
-        <updated>2021-12-11T07:14:53.675Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWDY">질문을 집요하게 던져야 할 시간</a>]]></content>
+        <title type="html"><![CDATA[왜 당신 손을 안 잡아주냐고 묻는 어머니]]></title>
+        <id>https://alook.so/posts/Yytb1Y</id>
+        <link href="https://alook.so/posts/Yytb1Y"/>
+        <updated>2021-12-11T08:16:49.271Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytb1Y">왜 당신 손을 안 잡아주냐고 묻는 어머니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문제를 직면하는 용기.]]></title>
-        <id>https://alook.so/posts/w9t6ax</id>
-        <link href="https://alook.so/posts/w9t6ax"/>
-        <updated>2021-12-11T07:14:53.677Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6ax">문제를 직면하는 용기.</a>]]></content>
+        <title type="html"><![CDATA[제 조카는 금귀걸이 찾아서 주었어요~]]></title>
+        <id>https://alook.so/posts/Zkt0JL</id>
+        <link href="https://alook.so/posts/Zkt0JL"/>
+        <updated>2021-12-11T08:16:49.272Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0JL">제 조카는 금귀걸이 찾아서 주었어요~</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 살아있음을 느끼는 순간.]]></title>
+        <id>https://alook.so/posts/dztKG8</id>
+        <link href="https://alook.so/posts/dztKG8"/>
+        <updated>2021-12-11T08:16:49.274Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKG8">답글: 살아있음을 느끼는 순간.</a>]]></content>
     </entry>
 </feed>
