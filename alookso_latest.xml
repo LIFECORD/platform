@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-11T20:16:28.049Z</updated>
+    <updated>2021-12-11T21:14:30.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Merry Christmas!            Happy new year!     D-1]]></title>
+        <id>https://alook.so/posts/kZtGme</id>
+        <link href="https://alook.so/posts/kZtGme"/>
+        <updated>2021-12-11T21:12:58.417Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGme">Merry Christmas!            Happy new year!     D-1</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미래가 밝지만은 못한 청년들]]></title>
+        <id>https://alook.so/posts/yEtrbb</id>
+        <link href="https://alook.so/posts/yEtrbb"/>
+        <updated>2021-12-11T21:12:58.419Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtrbb">미래가 밝지만은 못한 청년들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국의 10대는 '남들 다 하는 것'이 아니다]]></title>
         <id>https://alook.so/posts/3wtzOx</id>
@@ -25,12 +39,5 @@
         <link href="https://alook.so/posts/OEtXKY"/>
         <updated>2021-12-11T18:16:55.684Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXKY">라떼의 대학 졸업장, 한잔의 추억이다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 멀었다고생각이든다~~]]></title>
-        <id>https://alook.so/posts/vKtrqa</id>
-        <link href="https://alook.so/posts/vKtrqa"/>
-        <updated>2021-12-11T18:16:55.686Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrqa">아직도 멀었다고생각이든다~~</a>]]></content>
     </entry>
 </feed>
