@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-11T16:22:04.741Z</updated>
+    <updated>2021-12-11T17:21:18.460Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[또 만나요]]></title>
+        <id>https://alook.so/posts/54tdE3</id>
+        <link href="https://alook.so/posts/54tdE3"/>
+        <updated>2021-12-11T17:19:58.040Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdE3">또 만나요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 12월 12일]]></title>
+        <id>https://alook.so/posts/q1t1W8</id>
+        <link href="https://alook.so/posts/q1t1W8"/>
+        <updated>2021-12-11T17:19:58.042Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1W8">2021년 12월 12일</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미래에는 제 브랜드를 런칭해서 사장님이 될거에요!!!]]></title>
         <id>https://alook.so/posts/o7twwB</id>
@@ -18,47 +32,5 @@
         <link href="https://alook.so/posts/70tMMo"/>
         <updated>2021-12-11T16:20:36.391Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMMo">남자이지만 '오빠' 라고 부르고싶습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스파 MAMA 신인상]]></title>
-        <id>https://alook.so/posts/YytbbK</id>
-        <link href="https://alook.so/posts/YytbbK"/>
-        <updated>2021-12-11T16:20:36.392Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytbbK">에스파 MAMA 신인상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽃밭처럼 융합된 세상을 향해]]></title>
-        <id>https://alook.so/posts/rDtjj4</id>
-        <link href="https://alook.so/posts/rDtjj4"/>
-        <updated>2021-12-11T16:20:36.393Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjj4">꽃밭처럼 융합된 세상을 향해</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 방주를 만드나요?]]></title>
-        <id>https://alook.so/posts/jdtjjM</id>
-        <link href="https://alook.so/posts/jdtjjM"/>
-        <updated>2021-12-11T16:20:36.394Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjjM">누가 방주를 만드나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[익명의 공론장이 우리에게 남긴 선물]]></title>
-        <id>https://alook.so/posts/bWtLLa</id>
-        <link href="https://alook.so/posts/bWtLLa"/>
-        <updated>2021-12-11T16:20:36.395Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLLa">익명의 공론장이 우리에게 남긴 선물</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈으로 건강을 살 수 있나요?]]></title>
-        <id>https://alook.so/posts/a0tMM4</id>
-        <link href="https://alook.so/posts/a0tMM4"/>
-        <updated>2021-12-11T16:20:36.396Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMM4">돈으로 건강을 살 수 있나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄와 계층의 관계]]></title>
-        <id>https://alook.so/posts/Zkt00r</id>
-        <link href="https://alook.so/posts/Zkt00r"/>
-        <updated>2021-12-11T16:20:36.397Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt00r">범죄와 계층의 관계</a>]]></content>
     </entry>
 </feed>
