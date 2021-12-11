@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-11T18:18:21.979Z</updated>
+    <updated>2021-12-11T19:13:13.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국의 10대는 '남들 다 하는 것'이 아니다]]></title>
+        <id>https://alook.so/posts/3wtzOx</id>
+        <link href="https://alook.so/posts/3wtzOx"/>
+        <updated>2021-12-11T19:11:53.286Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtzOx">한국의 10대는 '남들 다 하는 것'이 아니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[투자 행복.불행?]]></title>
         <id>https://alook.so/posts/G1tlqp</id>
@@ -25,12 +32,5 @@
         <link href="https://alook.so/posts/vKtrqa"/>
         <updated>2021-12-11T18:16:55.686Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrqa">아직도 멀었다고생각이든다~~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 만나요]]></title>
-        <id>https://alook.so/posts/54tdE3</id>
-        <link href="https://alook.so/posts/54tdE3"/>
-        <updated>2021-12-11T17:19:58.040Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdE3">또 만나요</a>]]></content>
     </entry>
 </feed>
