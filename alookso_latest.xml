@@ -2,21 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-11T09:16:03.676Z</updated>
+    <updated>2021-12-11T10:16:39.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[진짜, 가짜. 멋준오빠님의 글은 진짜..!]]></title>
-        <id>https://alook.so/posts/3wtzv2</id>
-        <link href="https://alook.so/posts/3wtzv2"/>
-        <updated>2021-12-11T09:14:42.562Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtzv2">진짜, 가짜. 멋준오빠님의 글은 진짜..!</a>]]></content>
+        <title type="html"><![CDATA[2030년 미래예측 …]]></title>
+        <id>https://alook.so/posts/M9t2nl</id>
+        <link href="https://alook.so/posts/M9t2nl"/>
+        <updated>2021-12-11T10:15:09.197Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2nl">2030년 미래예측 …</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[통화목록에 찍힌 부모님의 부재중 전화]]></title>
-        <id>https://alook.so/posts/vKtrjd</id>
-        <link href="https://alook.so/posts/vKtrjd"/>
-        <updated>2021-12-11T09:14:42.563Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrjd">통화목록에 찍힌 부모님의 부재중 전화</a>]]></content>
+        <title type="html"><![CDATA[백신 앞에서 우리는 모두 평등한가??]]></title>
+        <id>https://alook.so/posts/w9t68x</id>
+        <link href="https://alook.so/posts/w9t68x"/>
+        <updated>2021-12-11T10:15:09.199Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t68x">백신 앞에서 우리는 모두 평등한가??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해고를 걱정해본 적이 있나요?]]></title>
+        <id>https://alook.so/posts/xltWdz</id>
+        <link href="https://alook.so/posts/xltWdz"/>
+        <updated>2021-12-11T10:15:09.200Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWdz">해고를 걱정해본 적이 있나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추억의 싸이월드, 일상의 카카오 다음 변화는?]]></title>
+        <id>https://alook.so/posts/kZtG7L</id>
+        <link href="https://alook.so/posts/kZtG7L"/>
+        <updated>2021-12-11T10:15:09.202Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtG7L">추억의 싸이월드, 일상의 카카오 다음 변화는?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씁쓸함.]]></title>
+        <id>https://alook.so/posts/yEtrvV</id>
+        <link href="https://alook.so/posts/yEtrvV"/>
+        <updated>2021-12-11T10:15:09.203Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtrvV">씁쓸함.</a>]]></content>
     </entry>
 </feed>
