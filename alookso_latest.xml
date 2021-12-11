@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-11T06:18:34.096Z</updated>
+    <updated>2021-12-11T07:16:22.441Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[[흙수저 탈출기. 12] 주식 투자할 때 종목을 어떻게 골라야 할까요?]]></title>
-        <id>https://alook.so/posts/KmtMqy</id>
-        <link href="https://alook.so/posts/KmtMqy"/>
-        <updated>2021-12-11T06:17:08.036Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMqy">[흙수저 탈출기. 12] 주식 투자할 때 종목을 어떻게 골라야 할까요?</a>]]></content>
+        <title type="html"><![CDATA[집값을 너무 잡지 않았으면]]></title>
+        <id>https://alook.so/posts/0ktrDj</id>
+        <link href="https://alook.so/posts/0ktrDj"/>
+        <updated>2021-12-11T07:14:53.673Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrDj">집값을 너무 잡지 않았으면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로또에 당첨이 되었고, 돈을 쓸 만큼 다 썼습니다. 그럼 이제 뭐 하실래요?]]></title>
-        <id>https://alook.so/posts/mbtkVM</id>
-        <link href="https://alook.so/posts/mbtkVM"/>
-        <updated>2021-12-11T06:17:08.038Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtkVM">로또에 당첨이 되었고, 돈을 쓸 만큼 다 썼습니다. 그럼 이제 뭐 하실래요?</a>]]></content>
+        <title type="html"><![CDATA[질문을 집요하게 던져야 할 시간]]></title>
+        <id>https://alook.so/posts/XBtWDY</id>
+        <link href="https://alook.so/posts/XBtWDY"/>
+        <updated>2021-12-11T07:14:53.675Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWDY">질문을 집요하게 던져야 할 시간</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[시 일기]_ 여름 옷]]></title>
-        <id>https://alook.so/posts/54td9V</id>
-        <link href="https://alook.so/posts/54td9V"/>
-        <updated>2021-12-11T06:17:08.039Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td9V">[시 일기]_ 여름 옷</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신의 의무에 고맙지 않습니다.]]></title>
-        <id>https://alook.so/posts/Djt29z</id>
-        <link href="https://alook.so/posts/Djt29z"/>
-        <updated>2021-12-11T06:17:08.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt29z">당신의 의무에 고맙지 않습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앉으나 서나 그대 생각]]></title>
-        <id>https://alook.so/posts/YytbG1</id>
-        <link href="https://alook.so/posts/YytbG1"/>
-        <updated>2021-12-11T06:17:08.044Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytbG1">앉으나 서나 그대 생각</a>]]></content>
+        <title type="html"><![CDATA[문제를 직면하는 용기.]]></title>
+        <id>https://alook.so/posts/w9t6ax</id>
+        <link href="https://alook.so/posts/w9t6ax"/>
+        <updated>2021-12-11T07:14:53.677Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6ax">문제를 직면하는 용기.</a>]]></content>
     </entry>
 </feed>
