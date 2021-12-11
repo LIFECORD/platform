@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-11T03:16:54.012Z</updated>
+    <updated>2021-12-11T04:20:00.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼룩소 우리는 무엇을 얻었나요?]]></title>
-        <id>https://alook.so/posts/92tWbB</id>
-        <link href="https://alook.so/posts/92tWbB"/>
-        <updated>2021-12-11T03:15:26.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWbB">얼룩소 우리는 무엇을 얻었나요?</a>]]></content>
+        <title type="html"><![CDATA[저는 늘 낙선자를찍더군요]]></title>
+        <id>https://alook.so/posts/WLteZk</id>
+        <link href="https://alook.so/posts/WLteZk"/>
+        <updated>2021-12-11T04:18:39.240Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLteZk">저는 늘 낙선자를찍더군요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 올해 마지막 출근을 합니다.]]></title>
-        <id>https://alook.so/posts/Djt2Bz</id>
-        <link href="https://alook.so/posts/Djt2Bz"/>
-        <updated>2021-12-11T03:15:26.151Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2Bz">오늘 올해 마지막 출근을 합니다.</a>]]></content>
+        <title type="html"><![CDATA[음식점 위생은 "지능"의 문제이다]]></title>
+        <id>https://alook.so/posts/0ktrjW</id>
+        <link href="https://alook.so/posts/0ktrjW"/>
+        <updated>2021-12-11T04:18:39.241Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrjW">음식점 위생은 "지능"의 문제이다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘은 얼룩소 프로젝트의 마지막(?!) 날입니다.]]></title>
-        <id>https://alook.so/posts/1RtaZz</id>
-        <link href="https://alook.so/posts/1RtaZz"/>
-        <updated>2021-12-11T03:15:26.154Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaZz">오늘은 얼룩소 프로젝트의 마지막(?!) 날입니다.</a>]]></content>
+        <title type="html"><![CDATA[답글: 저도 주말에 들을 노래 한곡 추천드리고 가요!]]></title>
+        <id>https://alook.so/posts/M9t2qY</id>
+        <link href="https://alook.so/posts/M9t2qY"/>
+        <updated>2021-12-11T04:18:39.242Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2qY">답글: 저도 주말에 들을 노래 한곡 추천드리고 가요!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 10주의 끝이 아닌 새로운 시작]]></title>
-        <id>https://alook.so/posts/70tMzl</id>
-        <link href="https://alook.so/posts/70tMzl"/>
-        <updated>2021-12-11T03:15:26.155Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMzl">답글: 10주의 끝이 아닌 새로운 시작</a>]]></content>
+        <title type="html"><![CDATA[한 달간 얼룩소의 긱워커로 살아본 소감, 얼룩소는 살아남을까?]]></title>
+        <id>https://alook.so/posts/4XtxWa</id>
+        <link href="https://alook.so/posts/4XtxWa"/>
+        <updated>2021-12-11T04:18:39.243Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtxWa">한 달간 얼룩소의 긱워커로 살아본 소감, 얼룩소는 살아남을까?      </a>]]></content>
     </entry>
 </feed>
