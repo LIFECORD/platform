@@ -2,56 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-11T02:00:06.059Z</updated>
+    <updated>2021-12-11T02:36:50.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[(사족) 보건 의료 예산이 늘었다고요? 정말?]]></title>
-        <id>https://alook.so/posts/4Xtx9a</id>
-        <link href="https://alook.so/posts/4Xtx9a"/>
-        <updated>2021-12-11T01:58:36.126Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtx9a">(사족) 보건 의료 예산이 늘었다고요? 정말?</a>]]></content>
+        <title type="html"><![CDATA[우유와 고기는 너무 맛있지만]]></title>
+        <id>https://alook.so/posts/a0tM8K</id>
+        <link href="https://alook.so/posts/a0tM8K"/>
+        <updated>2021-12-11T02:35:30.435Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tM8K">우유와 고기는 너무 맛있지만</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[망가져가는 화훼시장이 싫습니다...그래도...]]></title>
-        <id>https://alook.so/posts/xltW8G</id>
-        <link href="https://alook.so/posts/xltW8G"/>
-        <updated>2021-12-11T01:58:36.135Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltW8G">망가져가는 화훼시장이 싫습니다...그래도...</a>]]></content>
+        <title type="html"><![CDATA[여러분들은 어떠한 주제로 대화를 나누시나요?]]></title>
+        <id>https://alook.so/posts/J5tY5a</id>
+        <link href="https://alook.so/posts/J5tY5a"/>
+        <updated>2021-12-11T02:35:30.436Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tY5a">여러분들은 어떠한 주제로 대화를 나누시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알코올중독자로 살아간다는것!]]></title>
-        <id>https://alook.so/posts/RGtBjK</id>
-        <link href="https://alook.so/posts/RGtBjK"/>
-        <updated>2021-12-11T01:58:36.138Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBjK">알코올중독자로 살아간다는것!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시집살이, 개집살이]]></title>
-        <id>https://alook.so/posts/kZtGyp</id>
-        <link href="https://alook.so/posts/kZtGyp"/>
-        <updated>2021-12-11T01:58:36.138Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGyp">시집살이, 개집살이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 그렇다고 생각합니다.]]></title>
-        <id>https://alook.so/posts/yEtr9z</id>
-        <link href="https://alook.so/posts/yEtr9z"/>
-        <updated>2021-12-11T01:58:36.139Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtr9z">저는 그렇다고 생각합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아버지의 술주정...]]></title>
-        <id>https://alook.so/posts/BatZEn</id>
-        <link href="https://alook.so/posts/BatZEn"/>
-        <updated>2021-12-11T01:58:36.142Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZEn">아버지의 술주정...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안정]]></title>
-        <id>https://alook.so/posts/LKtvGR</id>
-        <link href="https://alook.so/posts/LKtvGR"/>
-        <updated>2021-12-11T01:58:36.143Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvGR">안정</a>]]></content>
+        <title type="html"><![CDATA[답글: 너무 감사했습니다.^^]]></title>
+        <id>https://alook.so/posts/Pvt5OB</id>
+        <link href="https://alook.so/posts/Pvt5OB"/>
+        <updated>2021-12-11T02:35:30.437Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5OB">답글: 너무 감사했습니다.^^</a>]]></content>
     </entry>
 </feed>
