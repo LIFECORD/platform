@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-11T23:16:13.138Z</updated>
+    <updated>2021-12-12T00:52:24.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼룩소 너무 고마워 . 잊지 않을께 ^^]]></title>
-        <id>https://alook.so/posts/M9t2XJ</id>
-        <link href="https://alook.so/posts/M9t2XJ"/>
-        <updated>2021-12-11T23:14:41.471Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2XJ">얼룩소 너무 고마워 . 잊지 않을께 ^^</a>]]></content>
+        <title type="html"><![CDATA[얼룩소 프로젝트를 마무리하며]]></title>
+        <id>https://alook.so/posts/bWtLEa</id>
+        <link href="https://alook.so/posts/bWtLEa"/>
+        <updated>2021-12-12T00:50:49.905Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLEa">얼룩소 프로젝트를 마무리하며</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[질문17] (조동연 사태를 통해 본) 정치인은 어디까지 검증 받아야 할까요?]]></title>
-        <id>https://alook.so/posts/4Xtx4D</id>
-        <link href="https://alook.so/posts/4Xtx4D"/>
-        <updated>2021-12-11T23:14:41.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtx4D">[질문17] (조동연 사태를 통해 본) 정치인은 어디까지 검증 받아야 할까요? </a>]]></content>
+        <title type="html"><![CDATA[마음가짐]]></title>
+        <id>https://alook.so/posts/a0tM04</id>
+        <link href="https://alook.so/posts/a0tM04"/>
+        <updated>2021-12-12T00:50:49.906Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tM04">마음가짐</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[감정 쓰레기 통]]></title>
-        <id>https://alook.so/posts/w9t6Ew</id>
-        <link href="https://alook.so/posts/w9t6Ew"/>
-        <updated>2021-12-11T22:14:14.638Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6Ew">감정 쓰레기 통 </a>]]></content>
+        <title type="html"><![CDATA[여기가 저의 대나무 숲이였습니다]]></title>
+        <id>https://alook.so/posts/Zkt0Pr</id>
+        <link href="https://alook.so/posts/Zkt0Pr"/>
+        <updated>2021-12-12T00:50:49.907Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0Pr">여기가 저의 대나무 숲이였습니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021년 한해 어떠셨나요?]]></title>
-        <id>https://alook.so/posts/xltW1M</id>
-        <link href="https://alook.so/posts/xltW1M"/>
-        <updated>2021-12-11T22:14:14.639Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltW1M">2021년 한해 어떠셨나요? </a>]]></content>
+        <title type="html"><![CDATA[저는 계속 글을 쓰겠습니다]]></title>
+        <id>https://alook.so/posts/dztKlB</id>
+        <link href="https://alook.so/posts/dztKlB"/>
+        <updated>2021-12-12T00:50:49.908Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKlB">저는 계속 글을 쓰겠습니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Merry Christmas!            Happy new year!     D-1]]></title>
-        <id>https://alook.so/posts/kZtGme</id>
-        <link href="https://alook.so/posts/kZtGme"/>
-        <updated>2021-12-11T21:12:58.417Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGme">Merry Christmas!            Happy new year!     D-1</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래가 밝지만은 못한 청년들]]></title>
-        <id>https://alook.so/posts/yEtrbb</id>
-        <link href="https://alook.so/posts/yEtrbb"/>
-        <updated>2021-12-11T21:12:58.419Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtrbb">미래가 밝지만은 못한 청년들</a>]]></content>
+        <title type="html"><![CDATA[우리가 헤어진 진짜 이유]]></title>
+        <id>https://alook.so/posts/pot9mZ</id>
+        <link href="https://alook.so/posts/pot9mZ"/>
+        <updated>2021-12-12T00:50:49.909Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9mZ">우리가 헤어진 진짜 이유</a>]]></content>
     </entry>
 </feed>
