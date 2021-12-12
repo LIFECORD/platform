@@ -2,42 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-12T00:52:24.250Z</updated>
+    <updated>2021-12-12T02:04:22.941Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼룩소 프로젝트를 마무리하며]]></title>
-        <id>https://alook.so/posts/bWtLEa</id>
-        <link href="https://alook.so/posts/bWtLEa"/>
-        <updated>2021-12-12T00:50:49.905Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLEa">얼룩소 프로젝트를 마무리하며</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음가짐]]></title>
-        <id>https://alook.so/posts/a0tM04</id>
-        <link href="https://alook.so/posts/a0tM04"/>
-        <updated>2021-12-12T00:50:49.906Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tM04">마음가짐</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여기가 저의 대나무 숲이였습니다]]></title>
-        <id>https://alook.so/posts/Zkt0Pr</id>
-        <link href="https://alook.so/posts/Zkt0Pr"/>
-        <updated>2021-12-12T00:50:49.907Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0Pr">여기가 저의 대나무 숲이였습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 계속 글을 쓰겠습니다]]></title>
-        <id>https://alook.so/posts/dztKlB</id>
-        <link href="https://alook.so/posts/dztKlB"/>
-        <updated>2021-12-12T00:50:49.908Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKlB">저는 계속 글을 쓰겠습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리가 헤어진 진짜 이유]]></title>
-        <id>https://alook.so/posts/pot9mZ</id>
-        <link href="https://alook.so/posts/pot9mZ"/>
-        <updated>2021-12-12T00:50:49.909Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9mZ">우리가 헤어진 진짜 이유</a>]]></content>
+        <title type="html"><![CDATA[스테파노의 꿈- 듬성듬성 편한 사람]]></title>
+        <id>https://alook.so/posts/KmtMrW</id>
+        <link href="https://alook.so/posts/KmtMrW"/>
+        <updated>2021-12-12T02:02:52.106Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMrW">스테파노의 꿈- 듬성듬성 편한 사람</a>]]></content>
     </entry>
 </feed>
