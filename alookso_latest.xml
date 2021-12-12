@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-12T14:14:43.335Z</updated>
+    <updated>2021-12-12T15:16:21.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[미래에는 육식과 채식이 잘 어우러줘야한다]]></title>
-        <id>https://alook.so/posts/vKtrD1</id>
-        <link href="https://alook.so/posts/vKtrD1"/>
-        <updated>2021-12-12T14:13:19.107Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrD1">미래에는 육식과 채식이 잘 어우러줘야한다</a>]]></content>
+        <title type="html"><![CDATA[연말 같아요]]></title>
+        <id>https://alook.so/posts/0ktrRw</id>
+        <link href="https://alook.so/posts/0ktrRw"/>
+        <updated>2021-12-12T15:14:55.381Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrRw">연말 같아요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[팬심으로!!]]></title>
-        <id>https://alook.so/posts/latVdp</id>
-        <link href="https://alook.so/posts/latVdp"/>
-        <updated>2021-12-12T14:13:19.108Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVdp">팬심으로!!</a>]]></content>
+        <title type="html"><![CDATA[다들 2021년 수고많으셨습니다!]]></title>
+        <id>https://alook.so/posts/XBtWzb</id>
+        <link href="https://alook.so/posts/XBtWzb"/>
+        <updated>2021-12-12T15:14:55.381Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWzb">다들 2021년 수고많으셨습니다!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나와 함께 살려면]]></title>
-        <id>https://alook.so/posts/92tW2a</id>
-        <link href="https://alook.so/posts/92tW2a"/>
-        <updated>2021-12-12T14:13:19.109Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tW2a">코로나와 함께 살려면</a>]]></content>
+        <title type="html"><![CDATA[한국은 선진국일까요?]]></title>
+        <id>https://alook.so/posts/w9t6X6</id>
+        <link href="https://alook.so/posts/w9t6X6"/>
+        <updated>2021-12-12T15:14:55.383Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6X6">한국은 선진국일까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[감사]합니다.]]></title>
-        <id>https://alook.so/posts/q1t1kV</id>
-        <link href="https://alook.so/posts/q1t1kV"/>
-        <updated>2021-12-12T14:13:19.111Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1kV">[감사]합니다.</a>]]></content>
+        <title type="html"><![CDATA[프로젝트 얼룩소 끝과 시작]]></title>
+        <id>https://alook.so/posts/xltW3d</id>
+        <link href="https://alook.so/posts/xltW3d"/>
+        <updated>2021-12-12T15:14:55.384Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltW3d">프로젝트 얼룩소 끝과 시작</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10대가 말합니다]]></title>
+        <id>https://alook.so/posts/kZtGXV</id>
+        <link href="https://alook.so/posts/kZtGXV"/>
+        <updated>2021-12-12T15:14:55.385Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGXV">10대가 말합니다</a>]]></content>
     </entry>
 </feed>
