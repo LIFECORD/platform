@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-12T16:22:41.142Z</updated>
+    <updated>2021-12-12T17:21:17.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이런 태도 괜찮을까요]]></title>
+        <id>https://alook.so/posts/pot9YO</id>
+        <link href="https://alook.so/posts/pot9YO"/>
+        <updated>2021-12-12T17:19:50.700Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9YO">이런 태도 괜찮을까요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['웨폰 정', 정병기 이사를 아십니까]]></title>
         <id>https://alook.so/posts/VntkPZ</id>
@@ -32,12 +39,5 @@
         <link href="https://alook.so/posts/XBtWzb"/>
         <updated>2021-12-12T15:14:55.381Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWzb">다들 2021년 수고많으셨습니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국은 선진국일까요?]]></title>
-        <id>https://alook.so/posts/w9t6X6</id>
-        <link href="https://alook.so/posts/w9t6X6"/>
-        <updated>2021-12-12T15:14:55.383Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6X6">한국은 선진국일까요?</a>]]></content>
     </entry>
 </feed>
