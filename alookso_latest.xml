@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-12T09:15:49.283Z</updated>
+    <updated>2021-12-12T10:17:19.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글 : 진심으로 축하드립니다.]]></title>
-        <id>https://alook.so/posts/a0tMOD</id>
-        <link href="https://alook.so/posts/a0tMOD"/>
-        <updated>2021-12-12T09:14:30.544Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMOD">답글 : 진심으로 축하드립니다.</a>]]></content>
+        <title type="html"><![CDATA[아직 어른이 되지 못한 채 어른이 되어버린]]></title>
+        <id>https://alook.so/posts/3wtz5V</id>
+        <link href="https://alook.so/posts/3wtz5V"/>
+        <updated>2021-12-12T10:15:52.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtz5V">아직 어른이 되지 못한 채 어른이 되어버린</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저를 구독해주셔서 더 감사합니다]]></title>
-        <id>https://alook.so/posts/pot9Xk</id>
-        <link href="https://alook.so/posts/pot9Xk"/>
-        <updated>2021-12-12T09:14:30.545Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9Xk">저를 구독해주셔서 더 감사합니다</a>]]></content>
+        <title type="html"><![CDATA[나 돌아보기  - (3) 공론장에서 말하기]]></title>
+        <id>https://alook.so/posts/G1tlD2</id>
+        <link href="https://alook.so/posts/G1tlD2"/>
+        <updated>2021-12-12T10:15:52.878Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlD2">나 돌아보기  - (3) 공론장에서 말하기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도둑 잡을 사람도 한통속이라니]]></title>
-        <id>https://alook.so/posts/Pvt5XO</id>
-        <link href="https://alook.so/posts/Pvt5XO"/>
-        <updated>2021-12-12T09:14:30.547Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5XO">도둑 잡을 사람도 한통속이라니</a>]]></content>
+        <title type="html"><![CDATA[그림책 공부]]></title>
+        <id>https://alook.so/posts/KmtM3w</id>
+        <link href="https://alook.so/posts/KmtM3w"/>
+        <updated>2021-12-12T10:15:52.879Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtM3w">그림책 공부</a>]]></content>
     </entry>
 </feed>
