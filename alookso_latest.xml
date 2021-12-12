@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-12T11:13:35.900Z</updated>
+    <updated>2021-12-12T12:23:39.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오늘하루 행복하네요]]></title>
-        <id>https://alook.so/posts/zvtb3j</id>
-        <link href="https://alook.so/posts/zvtb3j"/>
-        <updated>2021-12-12T11:12:10.305Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtb3j">오늘하루 행복하네요</a>]]></content>
+        <title type="html"><![CDATA[싸움 말리는 고교생 살해한 남성이 웃으며 한말"지혈하면 살아"]]></title>
+        <id>https://alook.so/posts/rDtjDx</id>
+        <link href="https://alook.so/posts/rDtjDx"/>
+        <updated>2021-12-12T12:22:17.220Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjDx">싸움 말리는 고교생 살해한 남성이 웃으며 한말"지혈하면 살아"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[풀지 못하신 직업이야기 보따리, 고대하고 있을께요:)]]></title>
-        <id>https://alook.so/posts/2xtBwa</id>
-        <link href="https://alook.so/posts/2xtBwa"/>
-        <updated>2021-12-12T11:12:10.306Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBwa">풀지 못하신 직업이야기 보따리, 고대하고 있을께요:) </a>]]></content>
+        <title type="html"><![CDATA[코로나 백신]]></title>
+        <id>https://alook.so/posts/jdtjLx</id>
+        <link href="https://alook.so/posts/jdtjLx"/>
+        <updated>2021-12-12T12:22:17.221Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjLx">코로나 백신</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한층 더 성숙해질 얼룩커, 한뼘 더 자랄 얼룩소]]></title>
-        <id>https://alook.so/posts/0ktrEp</id>
-        <link href="https://alook.so/posts/0ktrEp"/>
-        <updated>2021-12-12T11:12:10.308Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrEp">한층 더 성숙해질 얼룩커, 한뼘 더 자랄 얼룩소</a>]]></content>
+        <title type="html"><![CDATA[코로나 19 방역정책]]></title>
+        <id>https://alook.so/posts/a0tMlD</id>
+        <link href="https://alook.so/posts/a0tMlD"/>
+        <updated>2021-12-12T12:22:17.222Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMlD">코로나 19 방역정책</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[같은 성별끼리 결혼해도 될까요?]]></title>
+        <id>https://alook.so/posts/Zkt0LP</id>
+        <link href="https://alook.so/posts/Zkt0LP"/>
+        <updated>2021-12-12T12:22:17.223Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0LP">같은 성별끼리 결혼해도 될까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그 옛날 그 감정의 흔적]]></title>
+        <id>https://alook.so/posts/pot9Rk</id>
+        <link href="https://alook.so/posts/pot9Rk"/>
+        <updated>2021-12-12T12:22:17.224Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9Rk">그 옛날 그 감정의 흔적</a>]]></content>
     </entry>
 </feed>
