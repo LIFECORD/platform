@@ -2,14 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-12T02:04:22.941Z</updated>
+    <updated>2021-12-12T03:16:24.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[스테파노의 꿈- 듬성듬성 편한 사람]]></title>
-        <id>https://alook.so/posts/KmtMrW</id>
-        <link href="https://alook.so/posts/KmtMrW"/>
-        <updated>2021-12-12T02:02:52.106Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMrW">스테파노의 꿈- 듬성듬성 편한 사람</a>]]></content>
+        <title type="html"><![CDATA[성평등과 차별에 대해 경험해 온 것들]]></title>
+        <id>https://alook.so/posts/XBtW4l</id>
+        <link href="https://alook.so/posts/XBtW4l"/>
+        <updated>2021-12-12T03:14:52.907Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtW4l">성평등과 차별에 대해 경험해 온 것들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 죽은 뒤 남겨진 사람들에게 하고 싶은 말]]></title>
+        <id>https://alook.so/posts/xltWaw</id>
+        <link href="https://alook.so/posts/xltWaw"/>
+        <updated>2021-12-12T03:14:52.909Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWaw">내가 죽은 뒤 남겨진 사람들에게 하고 싶은 말</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 당신들이 무슨 말을 하고 있는지 모르겠다]]></title>
+        <id>https://alook.so/posts/njt5mD</id>
+        <link href="https://alook.so/posts/njt5mD"/>
+        <updated>2021-12-12T03:14:52.911Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5mD">나는 당신들이 무슨 말을 하고 있는지 모르겠다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내게 실패를 맛보여 주었던 그 경험]]></title>
+        <id>https://alook.so/posts/6Mt52n</id>
+        <link href="https://alook.so/posts/6Mt52n"/>
+        <updated>2021-12-12T03:14:52.913Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt52n">내게 실패를 맛보여 주었던 그 경험</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 오히려 건강이 돈을 아낀다고 생각합니다.]]></title>
+        <id>https://alook.so/posts/3wtz3W</id>
+        <link href="https://alook.so/posts/3wtz3W"/>
+        <updated>2021-12-12T03:14:52.915Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtz3W">답글: 오히려 건강이 돈을 아낀다고 생각합니다.</a>]]></content>
     </entry>
 </feed>
