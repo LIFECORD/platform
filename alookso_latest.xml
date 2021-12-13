@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-13T15:17:33.964Z</updated>
+    <updated>2021-12-13T16:23:09.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나의 미래직업]]></title>
+        <id>https://alook.so/posts/M9t2Be</id>
+        <link href="https://alook.so/posts/M9t2Be"/>
+        <updated>2021-12-13T16:21:48.240Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2Be">나의 미래직업</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나시대 델타변이 그리고 오미크론 그리고...]]></title>
+        <id>https://alook.so/posts/4Xtx5Z</id>
+        <link href="https://alook.so/posts/4Xtx5Z"/>
+        <updated>2021-12-13T16:21:48.241Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtx5Z">코로나시대 델타변이 그리고 오미크론 그리고...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[언젠가는 통일이 되겠지요~]]></title>
+        <id>https://alook.so/posts/XBtW6R</id>
+        <link href="https://alook.so/posts/XBtW6R"/>
+        <updated>2021-12-13T16:21:48.242Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtW6R">언젠가는 통일이 되겠지요~</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무비 무브 #9] 언포기버블 (Unforgivable, 2021); 죄 없는 자, 누가 돌을 먼저 던지겠는가?]]></title>
         <id>https://alook.so/posts/w9t61M</id>
@@ -39,19 +60,5 @@
         <link href="https://alook.so/posts/LKtvq5"/>
         <updated>2021-12-13T14:13:53.162Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvq5">꿈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20세기 청소년을 살아온 내가 21세기 청소년을 보내는 아이들에게...]]></title>
-        <id>https://alook.so/posts/6Mt5na</id>
-        <link href="https://alook.so/posts/6Mt5na"/>
-        <updated>2021-12-13T14:13:53.162Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt5na">20세기 청소년을 살아온 내가 21세기 청소년을 보내는 아이들에게...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘부터 코로나 방역패스 의무화! 어떠셨나요?]]></title>
-        <id>https://alook.so/posts/3wtzBM</id>
-        <link href="https://alook.so/posts/3wtzBM"/>
-        <updated>2021-12-13T14:13:53.163Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtzBM">오늘부터 코로나 방역패스 의무화! 어떠셨나요?</a>]]></content>
     </entry>
 </feed>
