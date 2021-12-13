@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-13T06:18:57.032Z</updated>
+    <updated>2021-12-13T07:16:28.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[조용하네요~]]></title>
-        <id>https://alook.so/posts/o7tw2m</id>
-        <link href="https://alook.so/posts/o7tw2m"/>
-        <updated>2021-12-13T06:17:29.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tw2m">조용하네요~</a>]]></content>
+        <title type="html"><![CDATA[답글: 제주도 겨울바다는 진짜 예술입니다.]]></title>
+        <id>https://alook.so/posts/vKtrkr</id>
+        <link href="https://alook.so/posts/vKtrkr"/>
+        <updated>2021-12-13T07:14:58.902Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrkr">답글: 제주도 겨울바다는 진짜 예술입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대체육이 미래 입니다.]]></title>
-        <id>https://alook.so/posts/70tMxm</id>
-        <link href="https://alook.so/posts/70tMxm"/>
-        <updated>2021-12-13T06:17:29.151Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMxm">대체육이 미래 입니다.</a>]]></content>
+        <title type="html"><![CDATA[같은 성별이 왜 ?????]]></title>
+        <id>https://alook.so/posts/E7tzv2</id>
+        <link href="https://alook.so/posts/E7tzv2"/>
+        <updated>2021-12-13T07:14:58.903Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tzv2">같은 성별이 왜 ?????</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플랫폼 종사자 220만 명 시대]]></title>
-        <id>https://alook.so/posts/YytbV5</id>
-        <link href="https://alook.so/posts/YytbV5"/>
-        <updated>2021-12-13T06:17:29.152Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytbV5">플랫폼 종사자 220만 명 시대</a>]]></content>
+        <title type="html"><![CDATA[10대는 정서적인 서포터를 받지 못하고 있습니다.]]></title>
+        <id>https://alook.so/posts/KmtMnx</id>
+        <link href="https://alook.so/posts/KmtMnx"/>
+        <updated>2021-12-13T07:14:58.904Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMnx">10대는 정서적인 서포터를 받지 못하고 있습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국방의 곧 경제와 직결된다.]]></title>
-        <id>https://alook.so/posts/E7tzv7</id>
-        <link href="https://alook.so/posts/E7tzv7"/>
-        <updated>2021-12-13T06:17:29.153Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tzv7">국방의 곧 경제와 직결된다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿈]]></title>
-        <id>https://alook.so/posts/92tWVa</id>
-        <link href="https://alook.so/posts/92tWVa"/>
-        <updated>2021-12-13T05:14:08.200Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWVa">꿈</a>]]></content>
+        <title type="html"><![CDATA[‘캄보디아 여성노동자의 노동과 삶’ 그리고 윤미향]]></title>
+        <id>https://alook.so/posts/54td5K</id>
+        <link href="https://alook.so/posts/54td5K"/>
+        <updated>2021-12-13T07:14:58.905Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td5K">‘캄보디아 여성노동자의 노동과 삶’ 그리고 윤미향  </a>]]></content>
     </entry>
 </feed>
