@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-13T20:17:16.033Z</updated>
+    <updated>2021-12-13T21:15:17.044Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[당신은 당신에대해 알마나 알고 있나요?]]></title>
+        <title type="html"><![CDATA[당신은 당신에대해 얼마나 알고 있나요?]]></title>
         <id>https://alook.so/posts/J5tYBL</id>
         <link href="https://alook.so/posts/J5tYBL"/>
         <updated>2021-12-13T20:15:53.056Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tYBL">당신은 당신에대해 알마나 알고 있나요?</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tYBL">당신은 당신에대해 얼마나 알고 있나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[해고를 걱정하지 않는 방법 ^^]]></title>
@@ -60,12 +60,5 @@
         <link href="https://alook.so/posts/WLtez0"/>
         <updated>2021-12-13T17:21:41.523Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtez0">답글: 동포에 대한 식민주의적인 태도</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 미래직업]]></title>
-        <id>https://alook.so/posts/M9t2Be</id>
-        <link href="https://alook.so/posts/M9t2Be"/>
-        <updated>2021-12-13T16:21:48.240Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2Be">나의 미래직업</a>]]></content>
     </entry>
 </feed>
