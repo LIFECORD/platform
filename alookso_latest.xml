@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-13T16:23:09.523Z</updated>
+    <updated>2021-12-13T17:23:02.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 동포에 대한 식민주의적인 태도]]></title>
+        <id>https://alook.so/posts/WLtez0</id>
+        <link href="https://alook.so/posts/WLtez0"/>
+        <updated>2021-12-13T17:21:41.523Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtez0">답글: 동포에 대한 식민주의적인 태도</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나의 미래직업]]></title>
         <id>https://alook.so/posts/M9t2Be</id>
@@ -46,19 +53,5 @@
         <link href="https://alook.so/posts/RGtB9Y"/>
         <updated>2021-12-13T15:16:04.723Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtB9Y">얼룩소야~ 보고싶어도 꾹 참고 있을께. 1월에는 꼭 다시 만나자. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ㅣ0 ㄷㅐ]]></title>
-        <id>https://alook.so/posts/BatZ2R</id>
-        <link href="https://alook.so/posts/BatZ2R"/>
-        <updated>2021-12-13T14:13:53.160Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZ2R">ㅣ0 ㄷㅐ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿈]]></title>
-        <id>https://alook.so/posts/LKtvq5</id>
-        <link href="https://alook.so/posts/LKtvq5"/>
-        <updated>2021-12-13T14:13:53.162Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvq5">꿈</a>]]></content>
     </entry>
 </feed>
