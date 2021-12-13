@@ -2,35 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-13T04:20:54.265Z</updated>
+    <updated>2021-12-13T05:15:33.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[가치관의 차이 - 틀림과 다름편]]></title>
-        <id>https://alook.so/posts/Yytbne</id>
-        <link href="https://alook.so/posts/Yytbne"/>
-        <updated>2021-12-13T04:19:19.290Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytbne">가치관의 차이 - 틀림과 다름편</a>]]></content>
+        <title type="html"><![CDATA[꿈]]></title>
+        <id>https://alook.so/posts/92tWVa</id>
+        <link href="https://alook.so/posts/92tWVa"/>
+        <updated>2021-12-13T05:14:08.200Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWVa">꿈</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사랑받기를 포기한 아이]]></title>
-        <id>https://alook.so/posts/Zkt0q3</id>
-        <link href="https://alook.so/posts/Zkt0q3"/>
-        <updated>2021-12-13T04:19:19.294Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0q3">사랑받기를 포기한 아이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감정을 마비시킨 댓가]]></title>
-        <id>https://alook.so/posts/dztKVy</id>
-        <link href="https://alook.so/posts/dztKVy"/>
-        <updated>2021-12-13T04:19:19.296Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKVy">감정을 마비시킨 댓가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인생에 탈출구가 보이지 않을때 제일 먼저 할 일. (1탄)]]></title>
-        <id>https://alook.so/posts/J5tYKk</id>
-        <link href="https://alook.so/posts/J5tYKk"/>
-        <updated>2021-12-13T04:19:19.297Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tYKk">인생에 탈출구가 보이지 않을때 제일 먼저 할 일. (1탄)</a>]]></content>
+        <title type="html"><![CDATA[대학을 안가고 곧 취업하는 19살입니다.]]></title>
+        <id>https://alook.so/posts/1RtaKm</id>
+        <link href="https://alook.so/posts/1RtaKm"/>
+        <updated>2021-12-13T05:14:08.203Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaKm">대학을 안가고 곧 취업하는 19살입니다.</a>]]></content>
     </entry>
 </feed>
