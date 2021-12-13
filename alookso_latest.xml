@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-13T10:17:56.042Z</updated>
+    <updated>2021-12-13T11:14:14.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[K-pop]]></title>
+        <id>https://alook.so/posts/J5tY1L</id>
+        <link href="https://alook.so/posts/J5tY1L"/>
+        <updated>2021-12-13T11:12:42.759Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tY1L">K-pop</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-pop 어마무시한 파급력!!!]]></title>
+        <id>https://alook.so/posts/eVtXa2</id>
+        <link href="https://alook.so/posts/eVtXa2"/>
+        <updated>2021-12-13T11:12:42.760Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXa2">K-pop 어마무시한 파급력!!!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 다른 시작]]></title>
+        <id>https://alook.so/posts/Pvt5VP</id>
+        <link href="https://alook.so/posts/Pvt5VP"/>
+        <updated>2021-12-13T11:12:42.761Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5VP">또 다른 시작</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군인이 존중 받으려면 변해야 하는 것들]]></title>
+        <id>https://alook.so/posts/VntkM8</id>
+        <link href="https://alook.so/posts/VntkM8"/>
+        <updated>2021-12-13T11:12:42.762Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntkM8">군인이 존중 받으려면 변해야 하는 것들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나도 휴가 가고싶은데~~]]></title>
+        <id>https://alook.so/posts/zvtbLP</id>
+        <link href="https://alook.so/posts/zvtbLP"/>
+        <updated>2021-12-13T11:12:42.763Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtbLP">나도 휴가 가고싶은데~~ </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국방비를 써야 한다 or 줄여야 한다]]></title>
+        <id>https://alook.so/posts/2xtBjW</id>
+        <link href="https://alook.so/posts/2xtBjW"/>
+        <updated>2021-12-13T11:12:42.764Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBjW">국방비를 써야 한다 or 줄여야 한다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 입덕 시기는 버터플라이였는데요..]]></title>
         <id>https://alook.so/posts/WLter0</id>
@@ -25,26 +67,5 @@
         <link href="https://alook.so/posts/M9t2je"/>
         <updated>2021-12-13T10:16:22.665Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2je">I will be back</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삶을 돌아보는 것이 허락되지 않는 삶]]></title>
-        <id>https://alook.so/posts/XBtW8R</id>
-        <link href="https://alook.so/posts/XBtW8R"/>
-        <updated>2021-12-13T09:15:52.279Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtW8R">삶을 돌아보는 것이 허락되지 않는 삶</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A/S하겠습니다.]]></title>
-        <id>https://alook.so/posts/xltWb6</id>
-        <link href="https://alook.so/posts/xltWb6"/>
-        <updated>2021-12-13T09:15:52.280Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWb6">A/S하겠습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[흙수저 탈출기. 13] 2022년 한 해 저축 목표를 3천만 원으로 잡았습니다.]]></title>
-        <id>https://alook.so/posts/yEtr66</id>
-        <link href="https://alook.so/posts/yEtr66"/>
-        <updated>2021-12-13T08:17:52.830Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtr66">[흙수저 탈출기. 13] 2022년 한 해 저축 목표를 3천만 원으로 잡았습니다.</a>]]></content>
     </entry>
 </feed>
