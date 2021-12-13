@@ -2,63 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-13T13:23:44.432Z</updated>
+    <updated>2021-12-13T14:15:21.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[한국 페미니즘(여가부)의 잠재적 범죄자(가해자)론이 갖는 진짜 문제점 - 우리는 이미 오래전부터 잠재적 범죄자론을 당연시해왔다.]]></title>
+        <title type="html"><![CDATA[ㅣ0 ㄷㅐ]]></title>
+        <id>https://alook.so/posts/BatZ2R</id>
+        <link href="https://alook.so/posts/BatZ2R"/>
+        <updated>2021-12-13T14:13:53.160Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZ2R">ㅣ0 ㄷㅐ</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿈]]></title>
+        <id>https://alook.so/posts/LKtvq5</id>
+        <link href="https://alook.so/posts/LKtvq5"/>
+        <updated>2021-12-13T14:13:53.162Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvq5">꿈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20세기 청소년을 살아온 내가 21세기 청소년을 보내는 아이들에게...]]></title>
+        <id>https://alook.so/posts/6Mt5na</id>
+        <link href="https://alook.so/posts/6Mt5na"/>
+        <updated>2021-12-13T14:13:53.162Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt5na">20세기 청소년을 살아온 내가 21세기 청소년을 보내는 아이들에게...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘부터 코로나 방역패스 의무화! 어떠셨나요?]]></title>
+        <id>https://alook.so/posts/3wtzBM</id>
+        <link href="https://alook.so/posts/3wtzBM"/>
+        <updated>2021-12-13T14:13:53.163Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtzBM">오늘부터 코로나 방역패스 의무화! 어떠셨나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠더 갈등의 원인이 PC맞나요?]]></title>
+        <id>https://alook.so/posts/OEtXRK</id>
+        <link href="https://alook.so/posts/OEtXRK"/>
+        <updated>2021-12-13T14:13:53.165Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXRK">젠더 갈등의 원인이 PC맞나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['한남'과 미국흑인남성]]></title>
         <id>https://alook.so/posts/E7tzn2</id>
         <link href="https://alook.so/posts/E7tzn2"/>
         <updated>2021-12-13T13:22:17.069Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tzn2">한국 페미니즘(여가부)의 잠재적 범죄자(가해자)론이 갖는 진짜 문제점 - 우리는 이미 오래전부터 잠재적 범죄자론을 당연시해왔다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막 인사.]]></title>
-        <id>https://alook.so/posts/latVLZ</id>
-        <link href="https://alook.so/posts/latVLZ"/>
-        <updated>2021-12-13T13:22:17.070Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVLZ">마지막 인사.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄빠가 저에게 전화해서 서로를 욕할때요]]></title>
-        <id>https://alook.so/posts/KmtMox</id>
-        <link href="https://alook.so/posts/KmtMox"/>
-        <updated>2021-12-13T13:22:17.071Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMox">엄빠가 저에게 전화해서 서로를 욕할때요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고래싸움에 새우등 터진다]]></title>
-        <id>https://alook.so/posts/mbtk3G</id>
-        <link href="https://alook.so/posts/mbtk3G"/>
-        <updated>2021-12-13T13:22:17.072Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtk3G">고래싸움에 새우등 터진다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 정말 21세기에 살고있는 걸까요]]></title>
-        <id>https://alook.so/posts/54tdjK</id>
-        <link href="https://alook.so/posts/54tdjK"/>
-        <updated>2021-12-13T13:22:17.073Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdjK">우리는 정말 21세기에 살고있는 걸까요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라우스 슈밥의 제 4차산업혁명 the next]]></title>
-        <id>https://alook.so/posts/q1t1d0</id>
-        <link href="https://alook.so/posts/q1t1d0"/>
-        <updated>2021-12-13T13:22:17.075Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1d0">클라우스 슈밥의 제 4차산업혁명 the next</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말에 휴가라니 부럽습니다.]]></title>
-        <id>https://alook.so/posts/Djt2YO</id>
-        <link href="https://alook.so/posts/Djt2YO"/>
-        <updated>2021-12-13T13:22:17.076Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2YO">연말에 휴가라니 부럽습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 방역패스]]></title>
-        <id>https://alook.so/posts/1Rtaqx</id>
-        <link href="https://alook.so/posts/1Rtaqx"/>
-        <updated>2021-12-13T13:22:17.077Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtaqx">코로나 방역패스</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tzn2">'한남'과 미국흑인남성</a>]]></content>
     </entry>
 </feed>
