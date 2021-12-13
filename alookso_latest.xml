@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-13T03:16:41.106Z</updated>
+    <updated>2021-12-13T04:20:54.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[가족이지만 미안한마음]]></title>
-        <id>https://alook.so/posts/Pvt5EV</id>
-        <link href="https://alook.so/posts/Pvt5EV"/>
-        <updated>2021-12-13T03:15:20.359Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5EV">가족이지만 미안한마음</a>]]></content>
+        <title type="html"><![CDATA[가치관의 차이 - 틀림과 다름편]]></title>
+        <id>https://alook.so/posts/Yytbne</id>
+        <link href="https://alook.so/posts/Yytbne"/>
+        <updated>2021-12-13T04:19:19.290Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytbne">가치관의 차이 - 틀림과 다름편</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나와 함께 살아가려면 무엇부터 준비할까요?]]></title>
-        <id>https://alook.so/posts/VntkZZ</id>
-        <link href="https://alook.so/posts/VntkZZ"/>
-        <updated>2021-12-13T02:39:29.057Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntkZZ">코로나와 함께 살아가려면 무엇부터 준비할까요?</a>]]></content>
+        <title type="html"><![CDATA[사랑받기를 포기한 아이]]></title>
+        <id>https://alook.so/posts/Zkt0q3</id>
+        <link href="https://alook.so/posts/Zkt0q3"/>
+        <updated>2021-12-13T04:19:19.294Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0q3">사랑받기를 포기한 아이</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 취뽀가 인생의 목표는 아니다!]]></title>
-        <id>https://alook.so/posts/M9t2JM</id>
-        <link href="https://alook.so/posts/M9t2JM"/>
-        <updated>2021-12-13T02:39:29.057Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2JM">답글: 취뽀가 인생의 목표는 아니다!</a>]]></content>
+        <title type="html"><![CDATA[감정을 마비시킨 댓가]]></title>
+        <id>https://alook.so/posts/dztKVy</id>
+        <link href="https://alook.so/posts/dztKVy"/>
+        <updated>2021-12-13T04:19:19.296Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKVy">감정을 마비시킨 댓가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인생에 탈출구가 보이지 않을때 제일 먼저 할 일. (1탄)]]></title>
+        <id>https://alook.so/posts/J5tYKk</id>
+        <link href="https://alook.so/posts/J5tYKk"/>
+        <updated>2021-12-13T04:19:19.297Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tYKk">인생에 탈출구가 보이지 않을때 제일 먼저 할 일. (1탄)</a>]]></content>
     </entry>
 </feed>
