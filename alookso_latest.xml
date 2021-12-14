@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-14T03:16:24.854Z</updated>
+    <updated>2021-12-14T04:20:15.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[수능공부 전문 유튜버 사태와 관련하여...(주관적 의견)]]></title>
+        <id>https://alook.so/posts/KmtMmn</id>
+        <link href="https://alook.so/posts/KmtMmn"/>
+        <updated>2021-12-14T04:18:50.921Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMmn">수능공부 전문 유튜버 사태와 관련하여...(주관적 의견)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이 분이야 말로 역대 최고 대통령 입니다.]]></title>
+        <id>https://alook.so/posts/54tdPJ</id>
+        <link href="https://alook.so/posts/54tdPJ"/>
+        <updated>2021-12-14T04:18:50.921Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdPJ">이 분이야 말로 역대 최고 대통령 입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주 4일제의 함정]]></title>
+        <id>https://alook.so/posts/o7tw4G</id>
+        <link href="https://alook.so/posts/o7tw4G"/>
+        <updated>2021-12-14T04:18:50.926Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tw4G">주 4일제의 함정</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오랜만에 글을 쓰려 하니...]]></title>
         <id>https://alook.so/posts/rDtj1j</id>
         <link href="https://alook.so/posts/rDtj1j"/>
         <updated>2021-12-14T03:14:58.909Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtj1j">오랜만에 글을 쓰려 하니...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위드 코로나??]]></title>
-        <id>https://alook.so/posts/92tW0q</id>
-        <link href="https://alook.so/posts/92tW0q"/>
-        <updated>2021-12-14T03:14:58.910Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tW0q">위드 코로나??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칼각 군무, 섹스를 지칭하지 않는 가사]]></title>
-        <id>https://alook.so/posts/Djt2wO</id>
-        <link href="https://alook.so/posts/Djt2wO"/>
-        <updated>2021-12-14T02:03:27.114Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2wO">칼각 군무, 섹스를 지칭하지 않는 가사</a>]]></content>
     </entry>
 </feed>
