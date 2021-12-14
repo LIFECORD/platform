@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-14T06:19:41.672Z</updated>
+    <updated>2021-12-14T07:16:23.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[노력과 계층]]></title>
-        <id>https://alook.so/posts/OEtX64</id>
-        <link href="https://alook.so/posts/OEtX64"/>
-        <updated>2021-12-14T06:18:10.777Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtX64">노력과 계층</a>]]></content>
+        <title type="html"><![CDATA[나이는 못속이는 걸까요? 왜이리 바보같은지 ㅜㅜㅜ]]></title>
+        <id>https://alook.so/posts/xltWDK</id>
+        <link href="https://alook.so/posts/xltWDK"/>
+        <updated>2021-12-14T07:15:00.558Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWDK">나이는 못속이는 걸까요? 왜이리 바보같은지 ㅜㅜㅜ</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선진국 경험 후기]]></title>
-        <id>https://alook.so/posts/vKtrYv</id>
-        <link href="https://alook.so/posts/vKtrYv"/>
-        <updated>2021-12-14T06:18:10.778Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrYv">선진국 경험 후기</a>]]></content>
+        <title type="html"><![CDATA[공무원을 하려는 건 안정감이 필요해서 아닐까요?]]></title>
+        <id>https://alook.so/posts/njt5DR</id>
+        <link href="https://alook.so/posts/njt5DR"/>
+        <updated>2021-12-14T07:15:00.559Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5DR">공무원을 하려는 건 안정감이 필요해서 아닐까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카톡 친구 숨김, 차단하기 전에 보면 좋은 글]]></title>
-        <id>https://alook.so/posts/E7tzrB</id>
-        <link href="https://alook.so/posts/E7tzrB"/>
-        <updated>2021-12-14T05:14:03.881Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tzrB">카톡 친구 숨김, 차단하기 전에 보면 좋은 글</a>]]></content>
+        <title type="html"><![CDATA[가족이 때론 엄청난 짐처럼 느껴져요.]]></title>
+        <id>https://alook.so/posts/6Mt5XG</id>
+        <link href="https://alook.so/posts/6Mt5XG"/>
+        <updated>2021-12-14T07:15:00.560Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt5XG">가족이 때론 엄청난 짐처럼 느껴져요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수능공부 전문 유튜버 사태와 관련하여...(주관적 의견)]]></title>
-        <id>https://alook.so/posts/KmtMmn</id>
-        <link href="https://alook.so/posts/KmtMmn"/>
-        <updated>2021-12-14T04:18:50.921Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMmn">수능공부 전문 유튜버 사태와 관련하여...(주관적 의견)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 분이야 말로 역대 최고 대통령 입니다.]]></title>
-        <id>https://alook.so/posts/54tdPJ</id>
-        <link href="https://alook.so/posts/54tdPJ"/>
-        <updated>2021-12-14T04:18:50.921Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdPJ">이 분이야 말로 역대 최고 대통령 입니다.</a>]]></content>
+        <title type="html"><![CDATA[항상 긍정적인 나에게 온....]]></title>
+        <id>https://alook.so/posts/3wtz86</id>
+        <link href="https://alook.so/posts/3wtz86"/>
+        <updated>2021-12-14T07:15:00.562Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtz86">항상 긍정적인 나에게 온....</a>]]></content>
     </entry>
 </feed>
