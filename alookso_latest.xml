@@ -2,28 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-14T16:24:05.465Z</updated>
+    <updated>2021-12-14T17:22:28.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[저도 경매에 관심이 꽤 있었는데요]]></title>
-        <id>https://alook.so/posts/YytbzL</id>
-        <link href="https://alook.so/posts/YytbzL"/>
-        <updated>2021-12-14T15:15:23.868Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytbzL">저도 경매에 관심이 꽤 있었는데요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10주의 프로젝트가 지난 뒤의 감상]]></title>
-        <id>https://alook.so/posts/rDtjoj</id>
-        <link href="https://alook.so/posts/rDtjoj"/>
-        <updated>2021-12-14T15:15:23.869Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjoj">10주의 프로젝트가 지난 뒤의 감상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흉악범은 사형을 집행해야 합니다]]></title>
-        <id>https://alook.so/posts/jdtjzV</id>
-        <link href="https://alook.so/posts/jdtjzV"/>
-        <updated>2021-12-14T15:15:23.869Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjzV">흉악범은 사형을 집행해야 합니다</a>]]></content>
+        <title type="html"><![CDATA[누군가 제주의 명소를 묻거든, 눈을 들어 [종달리 1호 카페]를 보게 하라.]]></title>
+        <id>https://alook.so/posts/KmtMRn</id>
+        <link href="https://alook.so/posts/KmtMRn"/>
+        <updated>2021-12-14T17:20:54.415Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMRn">누군가 제주의 명소를 묻거든, 눈을 들어 [종달리 1호 카페]를 보게 하라.</a>]]></content>
     </entry>
 </feed>
