@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-14T15:16:53.989Z</updated>
+    <updated>2021-12-14T16:24:05.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -25,19 +25,5 @@
         <link href="https://alook.so/posts/jdtjzV"/>
         <updated>2021-12-14T15:15:23.869Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjzV">흉악범은 사형을 집행해야 합니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우당탕탕 제주 여행기1]]></title>
-        <id>https://alook.so/posts/bWtLWX</id>
-        <link href="https://alook.so/posts/bWtLWX"/>
-        <updated>2021-12-14T15:15:23.870Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLWX">우당탕탕 제주 여행기1</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 직업 온라인 MD를 추천합니다.]]></title>
-        <id>https://alook.so/posts/a0tMyr</id>
-        <link href="https://alook.so/posts/a0tMyr"/>
-        <updated>2021-12-14T14:13:33.844Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMyr">내 직업 온라인 MD를 추천합니다.</a>]]></content>
     </entry>
 </feed>
