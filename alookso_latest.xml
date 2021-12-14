@@ -2,70 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-14T11:14:19.759Z</updated>
+    <updated>2021-12-14T12:24:25.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[흉악범은 사형을 집행해야 할까요?]]></title>
+        <id>https://alook.so/posts/BatZYd</id>
+        <link href="https://alook.so/posts/BatZYd"/>
+        <updated>2021-12-14T12:23:00.772Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZYd">흉악범은 사형을 집행해야 할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군인이 존중받으려면 군대를 어떻게 바꿔야 할까요?]]></title>
+        <id>https://alook.so/posts/njt5jR</id>
+        <link href="https://alook.so/posts/njt5jR"/>
+        <updated>2021-12-14T12:23:00.772Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5jR">군인이 존중받으려면 군대를 어떻게 바꿔야 할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[같은 성별끼리 결혼해도 될까요?]]></title>
+        <id>https://alook.so/posts/3wtz96</id>
+        <link href="https://alook.so/posts/3wtz96"/>
+        <updated>2021-12-14T12:23:00.773Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtz96">같은 성별끼리 결혼해도 될까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4차 산업혁명으로 많은 일자리는 대체되게 될 것입니다.]]></title>
+        <id>https://alook.so/posts/8WtrYG</id>
+        <link href="https://alook.so/posts/8WtrYG"/>
+        <updated>2021-12-14T12:23:00.776Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrYG">4차 산업혁명으로 많은 일자리는 대체되게 될 것입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 직업, 추천하나요 비추하나요?]]></title>
+        <id>https://alook.so/posts/G1tld4</id>
+        <link href="https://alook.so/posts/G1tld4"/>
+        <updated>2021-12-14T12:23:00.777Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tld4">내 직업, 추천하나요 비추하나요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘 하루 어떠셨나요?]]></title>
         <id>https://alook.so/posts/vKtrwv</id>
         <link href="https://alook.so/posts/vKtrwv"/>
         <updated>2021-12-14T11:12:55.880Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrwv">오늘 하루 어떠셨나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일자리는 줄어들고 일할사람도 줄어들고]]></title>
-        <id>https://alook.so/posts/latVvb</id>
-        <link href="https://alook.so/posts/latVvb"/>
-        <updated>2021-12-14T11:12:55.881Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVvb">일자리는 줄어들고 일할사람도 줄어들고</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공교육만 시켜도 충분한가요?]]></title>
-        <id>https://alook.so/posts/92tWxd</id>
-        <link href="https://alook.so/posts/92tWxd"/>
-        <updated>2021-12-14T11:12:55.883Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWxd">공교육만 시켜도 충분한가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무엇에 중독되어 사시나요?]]></title>
-        <id>https://alook.so/posts/KmtMjn</id>
-        <link href="https://alook.so/posts/KmtMjn"/>
-        <updated>2021-12-14T11:12:55.884Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMjn">무엇에 중독되어 사시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나라에서 잘하면 됩니다.]]></title>
-        <id>https://alook.so/posts/mbtkWX</id>
-        <link href="https://alook.so/posts/mbtkWX"/>
-        <updated>2021-12-14T11:12:55.885Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtkWX">나라에서 잘하면 됩니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세, 반전세 살아봤는데]]></title>
-        <id>https://alook.so/posts/54tdxJ</id>
-        <link href="https://alook.so/posts/54tdxJ"/>
-        <updated>2021-12-14T11:12:55.886Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdxJ">전세, 반전세 살아봤는데</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가치는 보통이라고 봅니다.]]></title>
-        <id>https://alook.so/posts/q1t1zk</id>
-        <link href="https://alook.so/posts/q1t1zk"/>
-        <updated>2021-12-14T10:16:42.181Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1zk">가치는 보통이라고 봅니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네 다시 부활해야 합니다!]]></title>
-        <id>https://alook.so/posts/Djt28m</id>
-        <link href="https://alook.so/posts/Djt28m"/>
-        <updated>2021-12-14T10:16:42.182Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt28m">네 다시 부활해야 합니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수량의 한정성.]]></title>
-        <id>https://alook.so/posts/1RtapG</id>
-        <link href="https://alook.so/posts/1RtapG"/>
-        <updated>2021-12-14T10:16:42.183Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtapG">수량의 한정성.</a>]]></content>
     </entry>
 </feed>
