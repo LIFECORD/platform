@@ -2,35 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-14T07:16:23.477Z</updated>
+    <updated>2021-12-14T08:20:30.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[나이는 못속이는 걸까요? 왜이리 바보같은지 ㅜㅜㅜ]]></title>
-        <id>https://alook.so/posts/xltWDK</id>
-        <link href="https://alook.so/posts/xltWDK"/>
-        <updated>2021-12-14T07:15:00.558Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWDK">나이는 못속이는 걸까요? 왜이리 바보같은지 ㅜㅜㅜ</a>]]></content>
+        <title type="html"><![CDATA[노래]]></title>
+        <id>https://alook.so/posts/zvtbMZ</id>
+        <link href="https://alook.so/posts/zvtbMZ"/>
+        <updated>2021-12-14T08:19:11.445Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtbMZ">노래</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공무원을 하려는 건 안정감이 필요해서 아닐까요?]]></title>
-        <id>https://alook.so/posts/njt5DR</id>
-        <link href="https://alook.so/posts/njt5DR"/>
-        <updated>2021-12-14T07:15:00.559Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5DR">공무원을 하려는 건 안정감이 필요해서 아닐까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족이 때론 엄청난 짐처럼 느껴져요.]]></title>
-        <id>https://alook.so/posts/6Mt5XG</id>
-        <link href="https://alook.so/posts/6Mt5XG"/>
-        <updated>2021-12-14T07:15:00.560Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt5XG">가족이 때론 엄청난 짐처럼 느껴져요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항상 긍정적인 나에게 온....]]></title>
-        <id>https://alook.so/posts/3wtz86</id>
-        <link href="https://alook.so/posts/3wtz86"/>
-        <updated>2021-12-14T07:15:00.562Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtz86">항상 긍정적인 나에게 온....</a>]]></content>
+        <title type="html"><![CDATA[적게 일하고 적게 받는다. 과연 좋기만 할까?]]></title>
+        <id>https://alook.so/posts/WLteLn</id>
+        <link href="https://alook.so/posts/WLteLn"/>
+        <updated>2021-12-14T08:19:11.446Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLteLn">적게 일하고 적게 받는다. 과연 좋기만 할까?</a>]]></content>
     </entry>
 </feed>
