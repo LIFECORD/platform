@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-14T08:20:30.863Z</updated>
+    <updated>2021-12-14T09:16:44.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[군인이 존중받으려면 군대를 어떻게 바꿔야 할까요?]]></title>
+        <id>https://alook.so/posts/a0tMGr</id>
+        <link href="https://alook.so/posts/a0tMGr"/>
+        <updated>2021-12-14T09:15:12.998Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMGr">군인이 존중받으려면 군대를 어떻게 바꿔야 할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《대한민국》이라는 이름의 RPG를 생각하다]]></title>
+        <id>https://alook.so/posts/Zkt0xZ</id>
+        <link href="https://alook.so/posts/Zkt0xZ"/>
+        <updated>2021-12-14T09:15:13.000Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0xZ">《대한민국》이라는 이름의 RPG를 생각하다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경험해보고 싶어요~!]]></title>
+        <id>https://alook.so/posts/eVtXJe</id>
+        <link href="https://alook.so/posts/eVtXJe"/>
+        <updated>2021-12-14T09:15:13.002Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXJe">경험해보고 싶어요~!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노래]]></title>
         <id>https://alook.so/posts/zvtbMZ</id>
         <link href="https://alook.so/posts/zvtbMZ"/>
         <updated>2021-12-14T08:19:11.445Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtbMZ">노래</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적게 일하고 적게 받는다. 과연 좋기만 할까?]]></title>
-        <id>https://alook.so/posts/WLteLn</id>
-        <link href="https://alook.so/posts/WLteLn"/>
-        <updated>2021-12-14T08:19:11.446Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLteLn">적게 일하고 적게 받는다. 과연 좋기만 할까?</a>]]></content>
     </entry>
 </feed>
