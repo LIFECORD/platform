@@ -2,49 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-14T12:24:25.637Z</updated>
+    <updated>2021-12-14T13:22:44.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[흉악범은 사형을 집행해야 할까요?]]></title>
-        <id>https://alook.so/posts/BatZYd</id>
-        <link href="https://alook.so/posts/BatZYd"/>
-        <updated>2021-12-14T12:23:00.772Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZYd">흉악범은 사형을 집행해야 할까요?</a>]]></content>
+        <title type="html"><![CDATA[답글: "안전장치"의 딜레마]]></title>
+        <id>https://alook.so/posts/zvtbrZ</id>
+        <link href="https://alook.so/posts/zvtbrZ"/>
+        <updated>2021-12-14T13:21:24.099Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtbrZ">답글: "안전장치"의 딜레마</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군인이 존중받으려면 군대를 어떻게 바꿔야 할까요?]]></title>
-        <id>https://alook.so/posts/njt5jR</id>
-        <link href="https://alook.so/posts/njt5jR"/>
-        <updated>2021-12-14T12:23:00.772Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5jR">군인이 존중받으려면 군대를 어떻게 바꿔야 할까요?</a>]]></content>
+        <title type="html"><![CDATA[사랑고백.]]></title>
+        <id>https://alook.so/posts/2xtBdp</id>
+        <link href="https://alook.so/posts/2xtBdp"/>
+        <updated>2021-12-14T13:21:24.100Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBdp">사랑고백.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[같은 성별끼리 결혼해도 될까요?]]></title>
-        <id>https://alook.so/posts/3wtz96</id>
-        <link href="https://alook.so/posts/3wtz96"/>
-        <updated>2021-12-14T12:23:00.773Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtz96">같은 성별끼리 결혼해도 될까요?</a>]]></content>
+        <title type="html"><![CDATA[오늘 제주도에서 지진...]]></title>
+        <id>https://alook.so/posts/WLteon</id>
+        <link href="https://alook.so/posts/WLteon"/>
+        <updated>2021-12-14T13:21:24.101Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLteon">오늘 제주도에서 지진...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4차 산업혁명으로 많은 일자리는 대체되게 될 것입니다.]]></title>
-        <id>https://alook.so/posts/8WtrYG</id>
-        <link href="https://alook.so/posts/8WtrYG"/>
-        <updated>2021-12-14T12:23:00.776Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrYG">4차 산업혁명으로 많은 일자리는 대체되게 될 것입니다.</a>]]></content>
+        <title type="html"><![CDATA[삼성전자주식]]></title>
+        <id>https://alook.so/posts/M9t2zx</id>
+        <link href="https://alook.so/posts/M9t2zx"/>
+        <updated>2021-12-14T13:21:24.102Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2zx">삼성전자주식</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 직업, 추천하나요 비추하나요?]]></title>
-        <id>https://alook.so/posts/G1tld4</id>
-        <link href="https://alook.so/posts/G1tld4"/>
-        <updated>2021-12-14T12:23:00.777Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tld4">내 직업, 추천하나요 비추하나요?</a>]]></content>
+        <title type="html"><![CDATA[유재석 코로나 확정]]></title>
+        <id>https://alook.so/posts/4XtxjE</id>
+        <link href="https://alook.so/posts/4XtxjE"/>
+        <updated>2021-12-14T13:21:24.103Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtxjE">유재석 코로나 확정 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 하루 어떠셨나요?]]></title>
-        <id>https://alook.so/posts/vKtrwv</id>
-        <link href="https://alook.so/posts/vKtrwv"/>
-        <updated>2021-12-14T11:12:55.880Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrwv">오늘 하루 어떠셨나요?</a>]]></content>
+        <title type="html"><![CDATA[아직은 배려하는 마음이 조오오금 부족한 듯 합니다.]]></title>
+        <id>https://alook.so/posts/XBtWJy</id>
+        <link href="https://alook.so/posts/XBtWJy"/>
+        <updated>2021-12-14T13:21:24.104Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWJy">아직은 배려하는 마음이 조오오금 부족한 듯 합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 10대가 말해주는 불행한 이유]]></title>
+        <id>https://alook.so/posts/w9t6VZ</id>
+        <link href="https://alook.so/posts/w9t6VZ"/>
+        <updated>2021-12-14T13:21:24.105Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6VZ">한국 10대가 말해주는 불행한 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위로받는  곳이군요^^]]></title>
+        <id>https://alook.so/posts/RGtB6O</id>
+        <link href="https://alook.so/posts/RGtB6O"/>
+        <updated>2021-12-14T13:21:24.106Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtB6O">위로받는  곳이군요^^</a>]]></content>
     </entry>
 </feed>
