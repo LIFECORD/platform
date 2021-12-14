@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-14T05:15:36.039Z</updated>
+    <updated>2021-12-14T06:19:41.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[노력과 계층]]></title>
+        <id>https://alook.so/posts/OEtX64</id>
+        <link href="https://alook.so/posts/OEtX64"/>
+        <updated>2021-12-14T06:18:10.777Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtX64">노력과 계층</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선진국 경험 후기]]></title>
+        <id>https://alook.so/posts/vKtrYv</id>
+        <link href="https://alook.so/posts/vKtrYv"/>
+        <updated>2021-12-14T06:18:10.778Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrYv">선진국 경험 후기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카톡 친구 숨김, 차단하기 전에 보면 좋은 글]]></title>
         <id>https://alook.so/posts/E7tzrB</id>
@@ -25,12 +39,5 @@
         <link href="https://alook.so/posts/54tdPJ"/>
         <updated>2021-12-14T04:18:50.921Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdPJ">이 분이야 말로 역대 최고 대통령 입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주 4일제의 함정]]></title>
-        <id>https://alook.so/posts/o7tw4G</id>
-        <link href="https://alook.so/posts/o7tw4G"/>
-        <updated>2021-12-14T04:18:50.926Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tw4G">주 4일제의 함정</a>]]></content>
     </entry>
 </feed>
