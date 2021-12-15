@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://newspeppermint.com/</id>
+    <title>뉴스페퍼민트</title>
+    <updated>2021-12-15T22:43:46.114Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[책] 기하급수적인 기술 발전과 급변하는 세상을 다루는 두 권의 책]]></title>
+        <id>https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/</id>
+        <link href="https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/"/>
+        <updated>2021-12-15T22:41:59.324Z</updated>
+        <content type="html"><![CDATA[2021년 11월 30일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유럽 법원 “구글에 물린 반독점 벌금 옳았다”]]></title>
+        <id>https://newspeppermint.com/2021/11/13/eucompetitiongoogle/</id>
+        <link href="https://newspeppermint.com/2021/11/13/eucompetitiongoogle/"/>
+        <updated>2021-12-15T22:41:59.326Z</updated>
+        <content type="html"><![CDATA[2021년 11월 14일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[반도체 부족 사태가 불러온 자동차 기업과 테크 기업 간 협업]]></title>
+        <id>https://newspeppermint.com/2021/11/04/semiconductorcartech/</id>
+        <link href="https://newspeppermint.com/2021/11/04/semiconductorcartech/"/>
+        <updated>2021-12-15T22:41:59.327Z</updated>
+        <content type="html"><![CDATA[2021년 11월 5일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[닉 클레그 “페이스북 혼자서는 문제를 풀 수 없습니다”]]></title>
+        <id>https://newspeppermint.com/2021/11/01/wsjclegg/</id>
+        <link href="https://newspeppermint.com/2021/11/01/wsjclegg/"/>
+        <updated>2021-12-15T22:41:59.328Z</updated>
+        <content type="html"><![CDATA[2021년 11월 2일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이미 클로부샤르 “이제는 도무지 못 미더워진 빅테크”]]></title>
+        <id>https://newspeppermint.com/2021/11/01/wsjklobuchar/</id>
+        <link href="https://newspeppermint.com/2021/11/01/wsjklobuchar/"/>
+        <updated>2021-12-15T22:41:59.328Z</updated>
+        <content type="html"><![CDATA[2021년 11월 2일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리가 친구가 될 수 없는 이유(2/2)]]></title>
+        <id>https://newspeppermint.com/2021/10/28/m-friends2/</id>
+        <link href="https://newspeppermint.com/2021/10/28/m-friends2/"/>
+        <updated>2021-12-15T22:41:59.329Z</updated>
+        <content type="html"><![CDATA[2021년 10월 29일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리가 친구가 될 수 없는 이유(1/2)]]></title>
+        <id>https://newspeppermint.com/2021/10/28/m-friends1/</id>
+        <link href="https://newspeppermint.com/2021/10/28/m-friends1/"/>
+        <updated>2021-12-15T22:41:59.330Z</updated>
+        <content type="html"><![CDATA[2021년 10월 29일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 죽고 싶었을 때, 아버지가 내게 해준 말 한마디]]></title>
+        <id>https://newspeppermint.com/2021/10/21/suicidalthoughts/</id>
+        <link href="https://newspeppermint.com/2021/10/21/suicidalthoughts/"/>
+        <updated>2021-12-15T22:41:59.331Z</updated>
+        <content type="html"><![CDATA[2021년 10월 22일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[육아를 사회와 정부가 책임지는 나라 VS 개인과 시장에 맡기는 나라]]></title>
+        <id>https://newspeppermint.com/2021/10/13/uschildcare/</id>
+        <link href="https://newspeppermint.com/2021/10/13/uschildcare/"/>
+        <updated>2021-12-15T22:41:59.332Z</updated>
+        <content type="html"><![CDATA[2021년 10월 14일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후 변화가 글로벌 금융 위기를 불러올 것인가?]]></title>
+        <id>https://newspeppermint.com/2021/10/12/climatechangefinancialcrisis/</id>
+        <link href="https://newspeppermint.com/2021/10/12/climatechangefinancialcrisis/"/>
+        <updated>2021-12-15T22:41:59.333Z</updated>
+        <content type="html"><![CDATA[2021년 10월 13일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북 내부고발자 프랜시스 하우건의 의회 청문회 모두 발언]]></title>
+        <id>https://newspeppermint.com/2021/10/06/fanceshaugen/</id>
+        <link href="https://newspeppermint.com/2021/10/06/fanceshaugen/"/>
+        <updated>2021-12-15T22:41:59.334Z</updated>
+        <content type="html"><![CDATA[2021년 10월 7일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게임 하나 안 만들고도 게임 산업의 절대 강자가 된 애플]]></title>
+        <id>https://newspeppermint.com/2021/10/05/appstoregameantitrust/</id>
+        <link href="https://newspeppermint.com/2021/10/05/appstoregameantitrust/"/>
+        <updated>2021-12-15T22:41:59.335Z</updated>
+        <content type="html"><![CDATA[2021년 10월 6일]]></content>
+    </entry>
+</feed>
