@@ -2,49 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-15T03:16:37.582Z</updated>
+    <updated>2021-12-15T04:20:29.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[윤석열을 지지하는 좌파라는 모순에 대해서]]></title>
-        <id>https://alook.so/posts/w9t64R</id>
-        <link href="https://alook.so/posts/w9t64R"/>
-        <updated>2021-12-15T03:15:13.419Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t64R">윤석열을 지지하는 좌파라는 모순에 대해서  </a>]]></content>
+        <title type="html"><![CDATA[제가 생각하는  스트레스는 불안에서 오는 것이라고 생각이 됩니다]]></title>
+        <id>https://alook.so/posts/eVtX6Z</id>
+        <link href="https://alook.so/posts/eVtX6Z"/>
+        <updated>2021-12-15T04:19:03.865Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtX6Z">제가 생각하는  스트레스는 불안에서 오는 것이라고 생각이 됩니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[길]]></title>
-        <id>https://alook.so/posts/xltWrB</id>
-        <link href="https://alook.so/posts/xltWrB"/>
-        <updated>2021-12-15T02:39:08.301Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWrB">길</a>]]></content>
+        <title type="html"><![CDATA[역대최고  대통령은 누구일까요?]]></title>
+        <id>https://alook.so/posts/Pvt5aK</id>
+        <link href="https://alook.so/posts/Pvt5aK"/>
+        <updated>2021-12-15T04:19:03.873Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5aK">역대최고  대통령은 누구일까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 여행시작이 좋군요!!!]]></title>
-        <id>https://alook.so/posts/kZtGd1</id>
-        <link href="https://alook.so/posts/kZtGd1"/>
-        <updated>2021-12-15T02:00:07.507Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGd1">답글: 여행시작이 좋군요!!!</a>]]></content>
+        <title type="html"><![CDATA[새로운 시작이 사실은 두려워요]]></title>
+        <id>https://alook.so/posts/Vntk1b</id>
+        <link href="https://alook.so/posts/Vntk1b"/>
+        <updated>2021-12-15T04:19:03.874Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntk1b">새로운 시작이 사실은 두려워요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 밀접접촉]]></title>
-        <id>https://alook.so/posts/BatZ8k</id>
-        <link href="https://alook.so/posts/BatZ8k"/>
-        <updated>2021-12-15T02:00:07.510Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZ8k">코로나 밀접접촉</a>]]></content>
+        <title type="html"><![CDATA[현 10대의 시선으로 본 한국]]></title>
+        <id>https://alook.so/posts/zvtb2w</id>
+        <link href="https://alook.so/posts/zvtb2w"/>
+        <updated>2021-12-15T04:19:03.875Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtb2w">현 10대의 시선으로 본 한국</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 인생의 중요한 결정이 이루어지는 시간]]></title>
-        <id>https://alook.so/posts/LKtvja</id>
-        <link href="https://alook.so/posts/LKtvja"/>
-        <updated>2021-12-15T02:00:07.512Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvja">[늦은 아침 생각] 인생의 중요한 결정이 이루어지는 시간</a>]]></content>
+        <title type="html"><![CDATA[노무현]]></title>
+        <id>https://alook.so/posts/2xtBY9</id>
+        <link href="https://alook.so/posts/2xtBY9"/>
+        <updated>2021-12-15T04:19:03.876Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBY9">노무현</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지진에 정말 안전할까요?]]></title>
-        <id>https://alook.so/posts/6Mt5d6</id>
-        <link href="https://alook.so/posts/6Mt5d6"/>
-        <updated>2021-12-15T02:00:07.514Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt5d6">지진에 정말 안전할까요?</a>]]></content>
+        <title type="html"><![CDATA[왜 계속 배가 아플까요]]></title>
+        <id>https://alook.so/posts/WLteKe</id>
+        <link href="https://alook.so/posts/WLteKe"/>
+        <updated>2021-12-15T04:19:03.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLteKe">왜 계속 배가 아플까요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양심적인 한국]]></title>
+        <id>https://alook.so/posts/M9t2vp</id>
+        <link href="https://alook.so/posts/M9t2vp"/>
+        <updated>2021-12-15T04:19:03.879Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2vp">양심적인 한국</a>]]></content>
     </entry>
 </feed>
