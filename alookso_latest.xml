@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-15T15:16:55.329Z</updated>
+    <updated>2021-12-15T16:23:19.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[대학 발표]]></title>
+        <id>https://alook.so/posts/70tMZb</id>
+        <link href="https://alook.so/posts/70tMZb"/>
+        <updated>2021-12-15T16:21:47.814Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMZb">대학 발표</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무비 무브 #10] 백 엔의 사랑 (2014, 100 Yen Love); 낯설지 않은 서른 두 살의 성장통]]></title>
+        <id>https://alook.so/posts/YytbO2</id>
+        <link href="https://alook.so/posts/YytbO2"/>
+        <updated>2021-12-15T16:21:47.815Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytbO2">[무비 무브 #10] 백 엔의 사랑 (2014, 100 Yen Love); 낯설지 않은 서른 두 살의 성장통</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 안다는 착각으로 인해서]]></title>
+        <id>https://alook.so/posts/rDtjWE</id>
+        <link href="https://alook.so/posts/rDtjWE"/>
+        <updated>2021-12-15T16:21:47.816Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjWE">잘 안다는 착각으로 인해서</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나..]]></title>
         <id>https://alook.so/posts/q1t15q</id>
         <link href="https://alook.so/posts/q1t15q"/>
         <updated>2021-12-15T14:14:08.365Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t15q">코로나..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전남친..ㅜㅜ한번 들어주세요]]></title>
-        <id>https://alook.so/posts/Djt2Mv</id>
-        <link href="https://alook.so/posts/Djt2Mv"/>
-        <updated>2021-12-15T14:14:08.366Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2Mv">전남친..ㅜㅜ한번 들어주세요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아니요..그럴수는 없을 것 같애요..]]></title>
-        <id>https://alook.so/posts/1RtaW4</id>
-        <link href="https://alook.so/posts/1RtaW4"/>
-        <updated>2021-12-15T14:14:08.367Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaW4">아니요..그럴수는 없을 것 같애요..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과제 폭풍이 몰려옵니다.]]></title>
-        <id>https://alook.so/posts/70tMZZ</id>
-        <link href="https://alook.so/posts/70tMZZ"/>
-        <updated>2021-12-15T14:14:08.367Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMZZ">과제 폭풍이 몰려옵니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그러게요 저도 궁금하네요]]></title>
-        <id>https://alook.so/posts/YytbOq</id>
-        <link href="https://alook.so/posts/YytbOq"/>
-        <updated>2021-12-15T14:14:08.368Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytbOq">그러게요 저도 궁금하네요</a>]]></content>
     </entry>
 </feed>
