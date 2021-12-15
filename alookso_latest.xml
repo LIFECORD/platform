@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-14T23:16:35.643Z</updated>
+    <updated>2021-12-15T00:49:37.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우리나라 최고 직업]]></title>
+        <id>https://alook.so/posts/OEtXr1</id>
+        <link href="https://alook.so/posts/OEtXr1"/>
+        <updated>2021-12-15T00:48:09.332Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXr1">우리나라 최고 직업</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지휘자= 귀 기울여듣기.]]></title>
+        <id>https://alook.so/posts/latVJW</id>
+        <link href="https://alook.so/posts/latVJW"/>
+        <updated>2021-12-15T00:48:09.333Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVJW">지휘자= 귀 기울여듣기.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행복보단 각성을 준 주식 투자!!]]></title>
         <id>https://alook.so/posts/92tW8w</id>
