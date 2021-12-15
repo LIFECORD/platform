@@ -50,7 +50,7 @@ onFail = "stale"
 
 [alookso_trendiest]
 title = "alookso ─ 둘러보기 ─ 뜨는 글"
-url = "https://alook.so/discover/trendiest"
+url = "https://alook.so/discover"
 entrySelector = "//div[@class='flex-auto mt-2 space-y-2']/h5[@class='font-medium text-break']"
 titleSelector = "//a"
 linkSelector = "//a"
