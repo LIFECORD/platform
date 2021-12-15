@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2021-12-15T22:58:11.005Z</updated>
+    <updated>2021-12-15T23:04:42.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팬데믹이 테크 산업을 어떻게 바꾸고 있는가?]]></title>
+        <id>https://newspeppermint.com/2021/12/15/%ed%8c%ac%eb%8d%b0%eb%af%b9%ec%9d%b4-%ed%85%8c%ed%81%ac-%ec%82%b0%ec%97%85%ec%9d%84-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%b0%94%ea%be%b8%ea%b3%a0-%ec%9e%88%eb%8a%94%ea%b0%80/</id>
+        <link href="https://newspeppermint.com/2021/12/15/%ed%8c%ac%eb%8d%b0%eb%af%b9%ec%9d%b4-%ed%85%8c%ed%81%ac-%ec%82%b0%ec%97%85%ec%9d%84-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%b0%94%ea%be%b8%ea%b3%a0-%ec%9e%88%eb%8a%94%ea%b0%80/"/>
+        <updated>2021-12-15T23:02:37.759Z</updated>
+        <content type="html"><![CDATA[2021년 12월 16일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[책] 기하급수적인 기술 발전과 급변하는 세상을 다루는 두 권의 책]]></title>
         <id>https://newspeppermint.com/2021/11/29/two-new-books-explore-the-impact-of-accelerating-technology/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2021/10/06/fanceshaugen/"/>
         <updated>2021-12-15T22:41:59.334Z</updated>
         <content type="html"><![CDATA[2021년 10월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임 하나 안 만들고도 게임 산업의 절대 강자가 된 애플]]></title>
-        <id>https://newspeppermint.com/2021/10/05/appstoregameantitrust/</id>
-        <link href="https://newspeppermint.com/2021/10/05/appstoregameantitrust/"/>
-        <updated>2021-12-15T22:41:59.335Z</updated>
-        <content type="html"><![CDATA[2021년 10월 6일]]></content>
     </entry>
 </feed>
