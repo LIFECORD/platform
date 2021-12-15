@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-15T06:18:39.717Z</updated>
+    <updated>2021-12-15T07:16:49.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[점점 그 가치는 하락하고 있다고 생각되요.....]]></title>
+        <id>https://alook.so/posts/OEtX41</id>
+        <link href="https://alook.so/posts/OEtX41"/>
+        <updated>2021-12-15T07:15:22.048Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtX41">점점 그 가치는 하락하고 있다고 생각되요.....</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겉멋]]></title>
+        <id>https://alook.so/posts/vKtrLZ</id>
+        <link href="https://alook.so/posts/vKtrLZ"/>
+        <updated>2021-12-15T07:15:22.049Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrLZ">겉멋</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년이면 마흔, 내 집은 어디에.]]></title>
+        <id>https://alook.so/posts/latVMW</id>
+        <link href="https://alook.so/posts/latVMW"/>
+        <updated>2021-12-15T07:15:22.049Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVMW">내년이면 마흔, 내 집은 어디에.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빛바랜 추억]]></title>
         <id>https://alook.so/posts/92tWOw</id>
@@ -46,19 +67,5 @@
         <link href="https://alook.so/posts/Djt25v"/>
         <updated>2021-12-15T06:17:11.431Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt25v">나는 어떤 사람일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소로 삼행시를 하라고?]]></title>
-        <id>https://alook.so/posts/1RtaD4</id>
-        <link href="https://alook.so/posts/1RtaD4"/>
-        <updated>2021-12-15T06:17:11.432Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaD4">얼룩소로 삼행시를 하라고? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈에 띈 한개의 뉴스..자영업자에게 코로나란..]]></title>
-        <id>https://alook.so/posts/Yytbqq</id>
-        <link href="https://alook.so/posts/Yytbqq"/>
-        <updated>2021-12-15T05:14:23.325Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytbqq">눈에 띈 한개의 뉴스..자영업자에게 코로나란..</a>]]></content>
     </entry>
 </feed>
