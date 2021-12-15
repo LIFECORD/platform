@@ -2,56 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-15T04:20:29.230Z</updated>
+    <updated>2021-12-15T05:15:52.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[제가 생각하는  스트레스는 불안에서 오는 것이라고 생각이 됩니다]]></title>
-        <id>https://alook.so/posts/eVtX6Z</id>
-        <link href="https://alook.so/posts/eVtX6Z"/>
-        <updated>2021-12-15T04:19:03.865Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtX6Z">제가 생각하는  스트레스는 불안에서 오는 것이라고 생각이 됩니다</a>]]></content>
+        <title type="html"><![CDATA[눈에 띈 한개의 뉴스..자영업자에게 코로나란..]]></title>
+        <id>https://alook.so/posts/Yytbqq</id>
+        <link href="https://alook.so/posts/Yytbqq"/>
+        <updated>2021-12-15T05:14:23.325Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytbqq">눈에 띈 한개의 뉴스..자영업자에게 코로나란..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[역대최고  대통령은 누구일까요?]]></title>
-        <id>https://alook.so/posts/Pvt5aK</id>
-        <link href="https://alook.so/posts/Pvt5aK"/>
-        <updated>2021-12-15T04:19:03.873Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5aK">역대최고  대통령은 누구일까요?</a>]]></content>
+        <title type="html"><![CDATA[케바케 입니다.]]></title>
+        <id>https://alook.so/posts/jdtjov</id>
+        <link href="https://alook.so/posts/jdtjov"/>
+        <updated>2021-12-15T05:14:23.327Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjov">케바케 입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새로운 시작이 사실은 두려워요]]></title>
-        <id>https://alook.so/posts/Vntk1b</id>
-        <link href="https://alook.so/posts/Vntk1b"/>
-        <updated>2021-12-15T04:19:03.874Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntk1b">새로운 시작이 사실은 두려워요</a>]]></content>
+        <title type="html"><![CDATA[저도 데이터라벨링 공부하고 있어요]]></title>
+        <id>https://alook.so/posts/bWtLvr</id>
+        <link href="https://alook.so/posts/bWtLvr"/>
+        <updated>2021-12-15T05:14:23.328Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLvr">저도 데이터라벨링 공부하고 있어요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현 10대의 시선으로 본 한국]]></title>
-        <id>https://alook.so/posts/zvtb2w</id>
-        <link href="https://alook.so/posts/zvtb2w"/>
-        <updated>2021-12-15T04:19:03.875Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtb2w">현 10대의 시선으로 본 한국</a>]]></content>
+        <title type="html"><![CDATA[소비사회로]]></title>
+        <id>https://alook.so/posts/Zkt03E</id>
+        <link href="https://alook.so/posts/Zkt03E"/>
+        <updated>2021-12-15T05:14:23.330Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt03E">소비사회로 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노무현]]></title>
-        <id>https://alook.so/posts/2xtBY9</id>
-        <link href="https://alook.so/posts/2xtBY9"/>
-        <updated>2021-12-15T04:19:03.876Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBY9">노무현</a>]]></content>
+        <title type="html"><![CDATA[얼룩소로 삼행시]]></title>
+        <id>https://alook.so/posts/dztKdV</id>
+        <link href="https://alook.so/posts/dztKdV"/>
+        <updated>2021-12-15T05:14:23.331Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKdV">얼룩소로 삼행시 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 계속 배가 아플까요]]></title>
-        <id>https://alook.so/posts/WLteKe</id>
-        <link href="https://alook.so/posts/WLteKe"/>
-        <updated>2021-12-15T04:19:03.877Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLteKe">왜 계속 배가 아플까요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양심적인 한국]]></title>
-        <id>https://alook.so/posts/M9t2vp</id>
-        <link href="https://alook.so/posts/M9t2vp"/>
-        <updated>2021-12-15T04:19:03.879Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2vp">양심적인 한국</a>]]></content>
+        <title type="html"><![CDATA[[시 일기]_ 벤치]]></title>
+        <id>https://alook.so/posts/J5tYlo</id>
+        <link href="https://alook.so/posts/J5tYlo"/>
+        <updated>2021-12-15T05:14:23.333Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tYlo">[시 일기]_ 벤치</a>]]></content>
     </entry>
 </feed>
