@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-15T14:15:29.798Z</updated>
+    <updated>2021-12-15T15:16:55.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -39,19 +39,5 @@
         <link href="https://alook.so/posts/YytbOq"/>
         <updated>2021-12-15T14:14:08.368Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytbOq">그러게요 저도 궁금하네요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년에 첫째가 유치원을 가네요]]></title>
-        <id>https://alook.so/posts/rDtjWo</id>
-        <link href="https://alook.so/posts/rDtjWo"/>
-        <updated>2021-12-15T13:21:47.945Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjWo">내년에 첫째가 유치원을 가네요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지방도 만간이야]]></title>
-        <id>https://alook.so/posts/jdtjBv</id>
-        <link href="https://alook.so/posts/jdtjBv"/>
-        <updated>2021-12-15T13:21:47.948Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjBv">지방도 만간이야</a>]]></content>
     </entry>
 </feed>
