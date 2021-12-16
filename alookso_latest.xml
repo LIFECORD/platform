@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-16T13:24:14.984Z</updated>
+    <updated>2021-12-16T14:16:52.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[군대, 가보셨나요?]]></title>
+        <id>https://alook.so/posts/jdtjk0</id>
+        <link href="https://alook.so/posts/jdtjk0"/>
+        <updated>2021-12-16T14:15:17.574Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjk0">군대, 가보셨나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밴쿠버올림픽. 김연아]]></title>
+        <id>https://alook.so/posts/bWtL2j</id>
+        <link href="https://alook.so/posts/bWtL2j"/>
+        <updated>2021-12-16T14:15:17.577Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtL2j">밴쿠버올림픽. 김연아</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나에게 지지 않는 습관]]></title>
         <id>https://alook.so/posts/Zkt0K4</id>
@@ -18,12 +32,5 @@
         <link href="https://alook.so/posts/dztKqa"/>
         <updated>2021-12-16T13:22:48.033Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKqa">뿌듯</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원하는 결과는 나오셨나요? 만약 아니시라면?]]></title>
-        <id>https://alook.so/posts/WLte9o</id>
-        <link href="https://alook.so/posts/WLte9o"/>
-        <updated>2021-12-16T12:23:52.170Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLte9o">원하는 결과는 나오셨나요? 만약 아니시라면?</a>]]></content>
     </entry>
 </feed>
