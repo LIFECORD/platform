@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-15T23:17:18.227Z</updated>
+    <updated>2021-12-16T00:49:57.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[1등급이 아니어도 괜찮다고 해주세요]]></title>
-        <id>https://alook.so/posts/G1tlPj</id>
-        <link href="https://alook.so/posts/G1tlPj"/>
-        <updated>2021-12-15T22:54:49.778Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlPj">1등급이 아니어도 괜찮다고 해주세요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열을 지지하는 좌파라는 모순에 대해서]]></title>
-        <id>https://alook.so/posts/w9t64R</id>
-        <link href="https://alook.so/posts/w9t64R"/>
-        <updated>2021-12-15T22:54:49.778Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t64R">윤석열을 지지하는 좌파라는 모순에 대해서  </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답을 먼저 정해 놓고, 조언을 구하면 안 됩니다.]]></title>
-        <id>https://alook.so/posts/LKtvra</id>
-        <link href="https://alook.so/posts/LKtvra"/>
-        <updated>2021-12-15T22:54:49.779Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvra">답을 먼저 정해 놓고, 조언을 구하면 안 됩니다.</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[과제 폭풍이 몰려옵니다.]]></title>
         <id>https://alook.so/posts/70tMZZ</id>
@@ -34,25 +13,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMZZ">과제 폭풍이 몰려옵니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우당탕탕 제주 여행기1]]></title>
-        <id>https://alook.so/posts/bWtLWX</id>
-        <link href="https://alook.so/posts/bWtLWX"/>
-        <updated>2021-12-15T23:15:47.658Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLWX">우당탕탕 제주 여행기1</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑고백.]]></title>
-        <id>https://alook.so/posts/2xtBdp</id>
-        <link href="https://alook.so/posts/2xtBdp"/>
-        <updated>2021-12-15T23:15:47.660Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBdp">사랑고백.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미투 운동이 필요한 이유]]></title>
-        <id>https://alook.so/posts/Pvt59K</id>
-        <link href="https://alook.so/posts/Pvt59K"/>
-        <updated>2021-12-15T22:54:49.784Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt59K">미투 운동이 필요한 이유</a>]]></content>
+        <title type="html"><![CDATA[내년에 첫째가 유치원을 가네요]]></title>
+        <id>https://alook.so/posts/rDtjWo</id>
+        <link href="https://alook.so/posts/rDtjWo"/>
+        <updated>2021-12-15T22:54:49.789Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjWo">내년에 첫째가 유치원을 가네요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비흡연자가 보는 10대들의 흡연.]]></title>
@@ -62,24 +27,45 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt08E">비흡연자가 보는 10대들의 흡연.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: "안전장치"의 딜레마]]></title>
-        <id>https://alook.so/posts/zvtbrZ</id>
-        <link href="https://alook.so/posts/zvtbrZ"/>
-        <updated>2021-12-15T23:15:47.664Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtbrZ">답글: "안전장치"의 딜레마</a>]]></content>
+        <title type="html"><![CDATA[결국 또 선택적 자가격리의 시작입니다.]]></title>
+        <id>https://alook.so/posts/J5tY3o</id>
+        <link href="https://alook.so/posts/J5tY3o"/>
+        <updated>2021-12-16T00:48:37.297Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tY3o">결국 또 선택적 자가격리의 시작입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사실 내가 경험한 alookso는 이렇습니다.]]></title>
-        <id>https://alook.so/posts/Pvt5zP</id>
-        <link href="https://alook.so/posts/Pvt5zP"/>
-        <updated>2021-12-15T23:15:47.664Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5zP">사실 내가 경험한 alookso는 이렇습니다.</a>]]></content>
+        <title type="html"><![CDATA[미투 운동이 필요한 이유]]></title>
+        <id>https://alook.so/posts/Pvt59K</id>
+        <link href="https://alook.so/posts/Pvt59K"/>
+        <updated>2021-12-15T22:54:49.784Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt59K">미투 운동이 필요한 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내년에 첫째가 유치원을 가네요]]></title>
-        <id>https://alook.so/posts/rDtjWo</id>
-        <link href="https://alook.so/posts/rDtjWo"/>
-        <updated>2021-12-15T22:54:49.789Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjWo">내년에 첫째가 유치원을 가네요</a>]]></content>
+        <title type="html"><![CDATA[답을 먼저 정해 놓고, 조언을 구하면 안 됩니다.]]></title>
+        <id>https://alook.so/posts/LKtvra</id>
+        <link href="https://alook.so/posts/LKtvra"/>
+        <updated>2021-12-15T22:54:49.779Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvra">답을 먼저 정해 놓고, 조언을 구하면 안 됩니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1등급이 아니어도 괜찮다고 해주세요]]></title>
+        <id>https://alook.so/posts/G1tlPj</id>
+        <link href="https://alook.so/posts/G1tlPj"/>
+        <updated>2021-12-15T22:54:49.778Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlPj">1등급이 아니어도 괜찮다고 해주세요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저도 데이터라벨링 공부하고 있어요]]></title>
+        <id>https://alook.so/posts/bWtLvr</id>
+        <link href="https://alook.so/posts/bWtLvr"/>
+        <updated>2021-12-16T00:48:37.298Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLvr">저도 데이터라벨링 공부하고 있어요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소로 삼행시]]></title>
+        <id>https://alook.so/posts/dztKdV</id>
+        <link href="https://alook.so/posts/dztKdV"/>
+        <updated>2021-12-16T00:48:37.304Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKdV">얼룩소로 삼행시 </a>]]></content>
     </entry>
 </feed>
