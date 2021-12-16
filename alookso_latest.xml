@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-16T02:39:24.644Z</updated>
+    <updated>2021-12-16T03:17:35.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -46,19 +46,5 @@
         <link href="https://alook.so/posts/vKtrMm"/>
         <updated>2021-12-16T02:37:50.972Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrMm">당연히 필요한 사람들에게 가야 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 혼자가 아니에요.]]></title>
-        <id>https://alook.so/posts/E7tzqW</id>
-        <link href="https://alook.so/posts/E7tzqW"/>
-        <updated>2021-12-16T00:48:29.897Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tzqW">답글: 혼자가 아니에요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N번방 방지법에 대한 우려 섞인 생각]]></title>
-        <id>https://alook.so/posts/latVER</id>
-        <link href="https://alook.so/posts/latVER"/>
-        <updated>2021-12-16T00:48:29.899Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVER">N번방 방지법에 대한 우려 섞인 생각</a>]]></content>
     </entry>
 </feed>
