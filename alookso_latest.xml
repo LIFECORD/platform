@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-16T16:25:02.729Z</updated>
+    <updated>2021-12-16T17:22:46.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아무것도 모르는 난 페인트칠부터…]]></title>
+        <id>https://alook.so/posts/54tda4</id>
+        <link href="https://alook.so/posts/54tda4"/>
+        <updated>2021-12-16T17:21:21.935Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tda4">아무것도 모르는 난 페인트칠부터…</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10. 중학교 입학을 앞두고]]></title>
+        <id>https://alook.so/posts/q1t1mp</id>
+        <link href="https://alook.so/posts/q1t1mp"/>
+        <updated>2021-12-16T17:21:21.935Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1mp">10. 중학교 입학을 앞두고</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올라간다는 것의 진정한 의미. 불평등에 있는 딜레마]]></title>
         <id>https://alook.so/posts/Djt2va</id>
@@ -39,26 +53,5 @@
         <link href="https://alook.so/posts/jdtjk0"/>
         <updated>2021-12-16T14:15:17.574Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjk0">군대, 가보셨나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밴쿠버올림픽. 김연아]]></title>
-        <id>https://alook.so/posts/bWtL2j</id>
-        <link href="https://alook.so/posts/bWtL2j"/>
-        <updated>2021-12-16T14:15:17.577Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtL2j">밴쿠버올림픽. 김연아</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나에게 지지 않는 습관]]></title>
-        <id>https://alook.so/posts/Zkt0K4</id>
-        <link href="https://alook.so/posts/Zkt0K4"/>
-        <updated>2021-12-16T13:22:48.032Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0K4">코로나에게 지지 않는 습관</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뿌듯]]></title>
-        <id>https://alook.so/posts/dztKqa</id>
-        <link href="https://alook.so/posts/dztKqa"/>
-        <updated>2021-12-16T13:22:48.033Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKqa">뿌듯</a>]]></content>
     </entry>
 </feed>
