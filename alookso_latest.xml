@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-16T08:19:57.941Z</updated>
+    <updated>2021-12-16T09:17:23.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Book-ing: 독서중] 역사의 역사 (유시민)]]></title>
+        <id>https://alook.so/posts/8WtrKv</id>
+        <link href="https://alook.so/posts/8WtrKv"/>
+        <updated>2021-12-16T09:15:56.421Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrKv">[Book-ing: 독서중] 역사의 역사 (유시민)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위드 코로나 중단.. 과연 어떨까?]]></title>
+        <id>https://alook.so/posts/G1tlz0</id>
+        <link href="https://alook.so/posts/G1tlz0"/>
+        <updated>2021-12-16T09:15:56.422Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlz0">위드 코로나 중단.. 과연 어떨까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시 일기]_ 검색]]></title>
+        <id>https://alook.so/posts/OEtX0P</id>
+        <link href="https://alook.so/posts/OEtX0P"/>
+        <updated>2021-12-16T09:15:56.423Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtX0P">[시 일기]_ 검색</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MBTI에 왜 열광하는 걸까?]]></title>
+        <id>https://alook.so/posts/latVKR</id>
+        <link href="https://alook.so/posts/latVKR"/>
+        <updated>2021-12-16T09:15:56.424Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVKR">MBTI에 왜 열광하는 걸까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 오프라인 만남!]]></title>
+        <id>https://alook.so/posts/KmtMZ2</id>
+        <link href="https://alook.so/posts/KmtMZ2"/>
+        <updated>2021-12-16T09:15:56.425Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMZ2">얼룩소 오프라인 만남!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혼자서도 잘 사는법을....]]></title>
         <id>https://alook.so/posts/mbtkmP</id>
@@ -18,40 +53,5 @@
         <link href="https://alook.so/posts/54td14"/>
         <updated>2021-12-16T08:18:26.100Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td14">답글: 너무 걱정 말아요. 그리고 두 가지 부탁</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10대에게도 하고 싶은 걸 할 수 있는 자유를 주세요.]]></title>
-        <id>https://alook.so/posts/q1t1ep</id>
-        <link href="https://alook.so/posts/q1t1ep"/>
-        <updated>2021-12-16T08:18:26.101Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1ep">10대에게도 하고 싶은 걸 할 수 있는 자유를 주세요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해명이냐?]]></title>
-        <id>https://alook.so/posts/1Rta4J</id>
-        <link href="https://alook.so/posts/1Rta4J"/>
-        <updated>2021-12-16T08:18:26.103Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rta4J">해명이냐?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족이니까 뭐...]]></title>
-        <id>https://alook.so/posts/o7twOy</id>
-        <link href="https://alook.so/posts/o7twOy"/>
-        <updated>2021-12-16T07:15:31.596Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twOy">가족이니까 뭐...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 오늘 읽은 뉴스]]></title>
-        <id>https://alook.so/posts/70tM7b</id>
-        <link href="https://alook.so/posts/70tM7b"/>
-        <updated>2021-12-16T07:15:31.597Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tM7b">내가 오늘 읽은 뉴스</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집행해야 한다.]]></title>
-        <id>https://alook.so/posts/rDtjqE</id>
-        <link href="https://alook.so/posts/rDtjqE"/>
-        <updated>2021-12-16T07:15:31.599Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjqE">집행해야 한다.</a>]]></content>
     </entry>
 </feed>
