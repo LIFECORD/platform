@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-16T04:20:44.131Z</updated>
+    <updated>2021-12-16T05:16:09.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 1등급이 아닌 사람은 살 가치가 없나요?]]></title>
-        <id>https://alook.so/posts/XBtWL8</id>
-        <link href="https://alook.so/posts/XBtWL8"/>
-        <updated>2021-12-16T04:19:14.612Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWL8">답글: 1등급이 아닌 사람은 살 가치가 없나요?</a>]]></content>
+        <title type="html"><![CDATA[프리랜서 디자이너 입니다.]]></title>
+        <id>https://alook.so/posts/dztKba</id>
+        <link href="https://alook.so/posts/dztKba"/>
+        <updated>2021-12-16T05:14:37.553Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKba">프리랜서 디자이너 입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소에게 받은돈으로 뜻깊게 사용할수 있어서 감사합니다.]]></title>
+        <id>https://alook.so/posts/pot9ZE</id>
+        <link href="https://alook.so/posts/pot9ZE"/>
+        <updated>2021-12-16T05:14:37.556Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9ZE">얼룩소에게 받은돈으로 뜻깊게 사용할수 있어서 감사합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벨 훅스를 추모하며 – 페미니즘 혁명과 사랑]]></title>
+        <id>https://alook.so/posts/VntkBB</id>
+        <link href="https://alook.so/posts/VntkBB"/>
+        <updated>2021-12-16T05:14:37.558Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntkBB">벨 훅스를 추모하며 – 페미니즘 혁명과 사랑</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 1등급이 아니여도 충분히 가치가 있습니다.]]></title>
+        <id>https://alook.so/posts/zvtb5o</id>
+        <link href="https://alook.so/posts/zvtb5o"/>
+        <updated>2021-12-16T05:14:37.559Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtb5o">답글: 1등급이 아니여도 충분히 가치가 있습니다.</a>]]></content>
     </entry>
 </feed>

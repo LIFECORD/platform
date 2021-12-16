@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-16T04:20:44.131Z</updated>
+    <updated>2021-12-16T05:16:09.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -81,12 +81,5 @@
         <link href="https://alook.so/posts/Pvt59K"/>
         <updated>2021-12-15T22:54:49.784Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt59K">미투 운동이 필요한 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답을 먼저 정해 놓고, 조언을 구하면 안 됩니다.]]></title>
-        <id>https://alook.so/posts/LKtvra</id>
-        <link href="https://alook.so/posts/LKtvra"/>
-        <updated>2021-12-15T22:54:49.779Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvra">답을 먼저 정해 놓고, 조언을 구하면 안 됩니다.</a>]]></content>
     </entry>
 </feed>
