@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-16T03:17:35.584Z</updated>
+    <updated>2021-12-16T04:20:44.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[늦은 아침 생각] 삶은 멋진 선물이다]]></title>
+        <id>https://alook.so/posts/OEtXbP</id>
+        <link href="https://alook.so/posts/OEtXbP"/>
+        <updated>2021-12-16T04:19:23.120Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXbP">[늦은 아침 생각] 삶은 멋진 선물이다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 혼자가 아니에요.]]></title>
         <id>https://alook.so/posts/E7tzqW</id>
@@ -81,12 +88,5 @@
         <link href="https://alook.so/posts/LKtvra"/>
         <updated>2021-12-15T22:54:49.779Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvra">답을 먼저 정해 놓고, 조언을 구하면 안 됩니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1등급이 아니어도 괜찮다고 해주세요]]></title>
-        <id>https://alook.so/posts/G1tlPj</id>
-        <link href="https://alook.so/posts/G1tlPj"/>
-        <updated>2021-12-15T22:54:49.778Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlPj">1등급이 아니어도 괜찮다고 해주세요</a>]]></content>
     </entry>
 </feed>

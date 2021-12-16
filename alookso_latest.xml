@@ -2,49 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-16T03:17:35.583Z</updated>
+    <updated>2021-12-16T04:20:44.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[주 4일제 가능할까?]]></title>
-        <id>https://alook.so/posts/yEtr0d</id>
-        <link href="https://alook.so/posts/yEtr0d"/>
-        <updated>2021-12-16T02:37:50.966Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtr0d">주 4일제 가능할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[믿을 수 있는 기업이라서]]></title>
-        <id>https://alook.so/posts/BatZr9</id>
-        <link href="https://alook.so/posts/BatZr9"/>
-        <updated>2021-12-16T02:37:50.967Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZr9">믿을 수 있는 기업이라서</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 부업에 꽂혔어요]]></title>
-        <id>https://alook.so/posts/6Mt5v5</id>
-        <link href="https://alook.so/posts/6Mt5v5"/>
-        <updated>2021-12-16T02:37:50.968Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt5v5">요즘 부업에 꽂혔어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 시모주 아키코의 저서 [가족이라는 병]]]></title>
-        <id>https://alook.so/posts/3wtzKn</id>
-        <link href="https://alook.so/posts/3wtzKn"/>
-        <updated>2021-12-16T02:37:50.970Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtzKn">답글: 시모주 아키코의 저서 [가족이라는 병]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 삶은 멋진 선물이다]]></title>
-        <id>https://alook.so/posts/OEtXbP</id>
-        <link href="https://alook.so/posts/OEtXbP"/>
-        <updated>2021-12-16T02:37:50.971Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXbP">[늦은 아침 생각] 삶은 멋진 선물이다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당연히 필요한 사람들에게 가야 합니다.]]></title>
-        <id>https://alook.so/posts/vKtrMm</id>
-        <link href="https://alook.so/posts/vKtrMm"/>
-        <updated>2021-12-16T02:37:50.972Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrMm">당연히 필요한 사람들에게 가야 합니다.</a>]]></content>
+        <title type="html"><![CDATA[답글: 1등급이 아닌 사람은 살 가치가 없나요?]]></title>
+        <id>https://alook.so/posts/XBtWL8</id>
+        <link href="https://alook.so/posts/XBtWL8"/>
+        <updated>2021-12-16T04:19:14.612Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWL8">답글: 1등급이 아닌 사람은 살 가치가 없나요?</a>]]></content>
     </entry>
 </feed>
