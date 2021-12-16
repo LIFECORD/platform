@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-16T15:18:36.389Z</updated>
+    <updated>2021-12-16T16:25:02.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 오프라인 만남!]]></title>
+        <id>https://alook.so/posts/KmtMZ2</id>
+        <link href="https://alook.so/posts/KmtMZ2"/>
+        <updated>2021-12-16T09:16:04.137Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMZ2">얼룩소 오프라인 만남!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벨 훅스를 추모하며 – 페미니즘 혁명과 사랑]]></title>
+        <id>https://alook.so/posts/VntkBB</id>
+        <link href="https://alook.so/posts/VntkBB"/>
+        <updated>2021-12-16T16:23:44.162Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntkBB">벨 훅스를 추모하며 – 페미니즘 혁명과 사랑</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성동프라이즈를 반겨 주시고, 공감해 주신 모든 분들께 진심으로 감사드립니다]]></title>
+        <id>https://alook.so/posts/a0tMnL</id>
+        <link href="https://alook.so/posts/a0tMnL"/>
+        <updated>2021-12-16T06:18:03.843Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMnL">성동프라이즈를 반겨 주시고, 공감해 주신 모든 분들께 진심으로 감사드립니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우당탕탕 제주 여행기2~완결편!!]]></title>
         <id>https://alook.so/posts/BatZO9</id>
@@ -20,11 +41,32 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5EV">올 겨울 우리 가족이 꽂힌 간식을 소개합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Book-ing: 독서중] 역사의 역사 (유시민)]]></title>
-        <id>https://alook.so/posts/8WtrKv</id>
-        <link href="https://alook.so/posts/8WtrKv"/>
-        <updated>2021-12-16T12:23:59.406Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrKv">[Book-ing: 독서중] 역사의 역사 (유시민)</a>]]></content>
+        <title type="html"><![CDATA[곧 학교에 갈 너에게]]></title>
+        <id>https://alook.so/posts/q1t1Jp</id>
+        <link href="https://alook.so/posts/q1t1Jp"/>
+        <updated>2021-12-16T16:23:44.170Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1Jp">곧 학교에 갈 너에게</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 프로젝트가 끝나고 난후..]]></title>
+        <id>https://alook.so/posts/92tWvn</id>
+        <link href="https://alook.so/posts/92tWvn"/>
+        <updated>2021-12-16T16:23:44.171Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWvn">얼룩소 프로젝트가 끝나고 난후..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1등급이 아니어도 괜찮다고 해주세요]]></title>
+        <id>https://alook.so/posts/G1tlPj</id>
+        <link href="https://alook.so/posts/G1tlPj"/>
+        <updated>2021-12-16T16:23:44.172Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlPj">1등급이 아니어도 괜찮다고 해주세요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무비 무브 #10] 백 엔의 사랑 (2014, 100 Yen Love); 낯설지 않은 서른 두 살의 성장통]]></title>
+        <id>https://alook.so/posts/YytbO2</id>
+        <link href="https://alook.so/posts/YytbO2"/>
+        <updated>2021-12-16T16:23:44.173Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytbO2">[무비 무브 #10] 백 엔의 사랑 (2014, 100 Yen Love); 낯설지 않은 서른 두 살의 성장통</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위드 코로나 중단.. 과연 어떨까?]]></title>
@@ -34,6 +76,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlz0">위드 코로나 중단.. 과연 어떨까?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[Book-ing: 독서중] 역사의 역사 (유시민)]]></title>
+        <id>https://alook.so/posts/8WtrKv</id>
+        <link href="https://alook.so/posts/8WtrKv"/>
+        <updated>2021-12-16T12:23:59.406Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrKv">[Book-ing: 독서중] 역사의 역사 (유시민)</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MBTI에 왜 열광하는 걸까?]]></title>
         <id>https://alook.so/posts/latVKR</id>
         <link href="https://alook.so/posts/latVKR"/>
@@ -41,45 +90,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVKR">MBTI에 왜 열광하는 걸까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 오프라인 만남!]]></title>
-        <id>https://alook.so/posts/KmtMZ2</id>
-        <link href="https://alook.so/posts/KmtMZ2"/>
-        <updated>2021-12-16T09:16:04.137Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMZ2">얼룩소 오프라인 만남!</a>]]></content>
+        <title type="html"><![CDATA[미투 운동이 필요한 이유]]></title>
+        <id>https://alook.so/posts/Pvt59K</id>
+        <link href="https://alook.so/posts/Pvt59K"/>
+        <updated>2021-12-16T16:23:44.182Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt59K">미투 운동이 필요한 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 너무 걱정 말아요. 그리고 두 가지 부탁]]></title>
-        <id>https://alook.so/posts/54td14</id>
-        <link href="https://alook.so/posts/54td14"/>
-        <updated>2021-12-16T13:22:56.142Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td14">답글: 너무 걱정 말아요. 그리고 두 가지 부탁</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10대에게도 하고 싶은 걸 할 수 있는 자유를 주세요.]]></title>
-        <id>https://alook.so/posts/q1t1ep</id>
-        <link href="https://alook.so/posts/q1t1ep"/>
-        <updated>2021-12-16T10:16:43.286Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1ep">10대에게도 하고 싶은 걸 할 수 있는 자유를 주세요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 오늘 읽은 뉴스]]></title>
-        <id>https://alook.so/posts/70tM7b</id>
-        <link href="https://alook.so/posts/70tM7b"/>
-        <updated>2021-12-16T12:23:59.409Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tM7b">내가 오늘 읽은 뉴스</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공부는 기본입니다.]]></title>
-        <id>https://alook.so/posts/bWtLnj</id>
-        <link href="https://alook.so/posts/bWtLnj"/>
-        <updated>2021-12-16T12:23:59.410Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLnj">공부는 기본입니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성동프라이즈를 반겨 주시고, 공감해 주신 모든 분들께 진심으로 감사드립니다]]></title>
-        <id>https://alook.so/posts/a0tMnL</id>
-        <link href="https://alook.so/posts/a0tMnL"/>
-        <updated>2021-12-16T06:18:03.843Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMnL">성동프라이즈를 반겨 주시고, 공감해 주신 모든 분들께 진심으로 감사드립니다</a>]]></content>
+        <title type="html"><![CDATA[얼룩소에게 받은돈으로 뜻깊게 사용할수 있어서 감사합니다.]]></title>
+        <id>https://alook.so/posts/pot9ZE</id>
+        <link href="https://alook.so/posts/pot9ZE"/>
+        <updated>2021-12-16T16:23:44.183Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9ZE">얼룩소에게 받은돈으로 뜻깊게 사용할수 있어서 감사합니다.</a>]]></content>
     </entry>
 </feed>
