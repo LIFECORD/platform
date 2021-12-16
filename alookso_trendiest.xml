@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-16T12:25:15.836Z</updated>
+    <updated>2021-12-16T13:24:15.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMZ2">얼룩소 오프라인 만남!</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[답글: 너무 걱정 말아요. 그리고 두 가지 부탁]]></title>
+        <id>https://alook.so/posts/54td14</id>
+        <link href="https://alook.so/posts/54td14"/>
+        <updated>2021-12-16T13:22:56.142Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td14">답글: 너무 걱정 말아요. 그리고 두 가지 부탁</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10대에게도 하고 싶은 걸 할 수 있는 자유를 주세요.]]></title>
         <id>https://alook.so/posts/q1t1ep</id>
         <link href="https://alook.so/posts/q1t1ep"/>
@@ -81,26 +88,5 @@
         <link href="https://alook.so/posts/dztKba"/>
         <updated>2021-12-16T12:23:59.411Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKba">프리랜서 디자이너 입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에게 받은돈으로 뜻깊게 사용할수 있어서 감사합니다.]]></title>
-        <id>https://alook.so/posts/pot9ZE</id>
-        <link href="https://alook.so/posts/pot9ZE"/>
-        <updated>2021-12-16T12:23:59.412Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9ZE">얼룩소에게 받은돈으로 뜻깊게 사용할수 있어서 감사합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벨 훅스를 추모하며 – 페미니즘 혁명과 사랑]]></title>
-        <id>https://alook.so/posts/VntkBB</id>
-        <link href="https://alook.so/posts/VntkBB"/>
-        <updated>2021-12-16T09:16:04.139Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntkBB">벨 훅스를 추모하며 – 페미니즘 혁명과 사랑</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 1등급이 아니여도 충분히 가치가 있습니다.]]></title>
-        <id>https://alook.so/posts/zvtb5o</id>
-        <link href="https://alook.so/posts/zvtb5o"/>
-        <updated>2021-12-16T12:23:59.413Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtb5o">답글: 1등급이 아니여도 충분히 가치가 있습니다.</a>]]></content>
     </entry>
 </feed>
