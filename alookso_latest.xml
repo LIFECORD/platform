@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-17T12:25:02.375Z</updated>
+    <updated>2021-12-17T13:21:34.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10대]]></title>
+        <id>https://alook.so/posts/Djt2d2</id>
+        <link href="https://alook.so/posts/Djt2d2"/>
+        <updated>2021-12-17T13:20:10.609Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2d2">10대</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[좋은 글 잘 읽었습니다.]]></title>
         <id>https://alook.so/posts/rDtjkY</id>
@@ -32,12 +39,5 @@
         <link href="https://alook.so/posts/a0tMpv"/>
         <updated>2021-12-17T11:11:34.474Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMpv">부담</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한때 공무원을 꿈꾸던 나]]></title>
-        <id>https://alook.so/posts/dztKjr</id>
-        <link href="https://alook.so/posts/dztKjr"/>
-        <updated>2021-12-17T11:11:34.479Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKjr">한때 공무원을 꿈꾸던 나</a>]]></content>
     </entry>
 </feed>
