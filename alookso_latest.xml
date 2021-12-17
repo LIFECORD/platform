@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-17T11:13:02.631Z</updated>
+    <updated>2021-12-17T12:25:02.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[좋은 글 잘 읽었습니다.]]></title>
+        <id>https://alook.so/posts/rDtjkY</id>
+        <link href="https://alook.so/posts/rDtjkY"/>
+        <updated>2021-12-17T12:23:37.506Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjkY">좋은 글 잘 읽었습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[범죄 걱정을 안 하고 살 수 있을까요?]]></title>
+        <id>https://alook.so/posts/jdtjWX</id>
+        <link href="https://alook.so/posts/jdtjWX"/>
+        <updated>2021-12-17T12:23:37.507Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjWX">범죄 걱정을 안 하고 살 수 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페리클레스 같은 지도자?]]></title>
+        <id>https://alook.so/posts/bWtL6m</id>
+        <link href="https://alook.so/posts/bWtL6m"/>
+        <updated>2021-12-17T12:23:37.508Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtL6m">페리클레스 같은 지도자?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부담]]></title>
         <id>https://alook.so/posts/a0tMpv</id>
@@ -18,33 +39,5 @@
         <link href="https://alook.so/posts/dztKjr"/>
         <updated>2021-12-17T11:11:34.479Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKjr">한때 공무원을 꿈꾸던 나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은 성별끼리 결혼 해도 된다]]></title>
-        <id>https://alook.so/posts/J5tYqy</id>
-        <link href="https://alook.so/posts/J5tYqy"/>
-        <updated>2021-12-17T11:11:34.481Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tYqy">같은 성별끼리 결혼 해도 된다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10대 청소년들의 불행..]]></title>
-        <id>https://alook.so/posts/eVtXLV</id>
-        <link href="https://alook.so/posts/eVtXLV"/>
-        <updated>2021-12-17T09:16:25.884Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXLV">10대 청소년들의 불행..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알고리즘 추천 뉴스 왜 문제일까?]]></title>
-        <id>https://alook.so/posts/Vntk3y</id>
-        <link href="https://alook.so/posts/Vntk3y"/>
-        <updated>2021-12-17T09:16:25.885Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntk3y">알고리즘 추천 뉴스 왜 문제일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메일함에 얼룩소 뉴스 레터가 없으니 허전하네요. ^^;;]]></title>
-        <id>https://alook.so/posts/2xtBL0</id>
-        <link href="https://alook.so/posts/2xtBL0"/>
-        <updated>2021-12-17T09:16:25.886Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBL0">메일함에 얼룩소 뉴스 레터가 없으니 허전하네요. ^^;;</a>]]></content>
     </entry>
 </feed>
