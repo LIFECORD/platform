@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-17T13:21:34.795Z</updated>
+    <updated>2021-12-17T14:15:31.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10대]]></title>
+        <id>https://alook.so/posts/Djt2d2</id>
+        <link href="https://alook.so/posts/Djt2d2"/>
+        <updated>2021-12-17T14:14:15.716Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2d2">10대</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페리클레스 같은 지도자?]]></title>
+        <id>https://alook.so/posts/bWtL6m</id>
+        <link href="https://alook.so/posts/bWtL6m"/>
+        <updated>2021-12-17T14:14:15.721Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtL6m">페리클레스 같은 지도자?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10대 청소년들의 불행..]]></title>
         <id>https://alook.so/posts/eVtXLV</id>
@@ -81,12 +95,5 @@
         <link href="https://alook.so/posts/8WtrVy"/>
         <updated>2021-12-17T13:20:17.925Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrVy">백신 3차</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신패스는 차별일까? 아닐까?]]></title>
-        <id>https://alook.so/posts/vKtrlp</id>
-        <link href="https://alook.so/posts/vKtrlp"/>
-        <updated>2021-12-17T06:18:28.485Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrlp">백신패스는 차별일까? 아닐까?</a>]]></content>
     </entry>
 </feed>

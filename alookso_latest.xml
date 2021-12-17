@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-17T13:21:34.777Z</updated>
+    <updated>2021-12-17T14:15:31.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[동성애자에 되해서]]></title>
+        <id>https://alook.so/posts/KmtMdY</id>
+        <link href="https://alook.so/posts/KmtMdY"/>
+        <updated>2021-12-17T14:14:07.578Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMdY">동성애자에 되해서</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소불고기 황금 레시피]]></title>
+        <id>https://alook.so/posts/54tdnl</id>
+        <link href="https://alook.so/posts/54tdnl"/>
+        <updated>2021-12-17T14:14:07.579Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdnl">소불고기 황금 레시피</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10대]]></title>
         <id>https://alook.so/posts/Djt2d2</id>
@@ -18,26 +32,5 @@
         <link href="https://alook.so/posts/rDtjkY"/>
         <updated>2021-12-17T12:23:37.506Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjkY">좋은 글 잘 읽었습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄 걱정을 안 하고 살 수 있을까요?]]></title>
-        <id>https://alook.so/posts/jdtjWX</id>
-        <link href="https://alook.so/posts/jdtjWX"/>
-        <updated>2021-12-17T12:23:37.507Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjWX">범죄 걱정을 안 하고 살 수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페리클레스 같은 지도자?]]></title>
-        <id>https://alook.so/posts/bWtL6m</id>
-        <link href="https://alook.so/posts/bWtL6m"/>
-        <updated>2021-12-17T12:23:37.508Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtL6m">페리클레스 같은 지도자?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부담]]></title>
-        <id>https://alook.so/posts/a0tMpv</id>
-        <link href="https://alook.so/posts/a0tMpv"/>
-        <updated>2021-12-17T11:11:34.474Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMpv">부담</a>]]></content>
     </entry>
 </feed>
