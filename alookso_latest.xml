@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-17T21:14:58.098Z</updated>
+    <updated>2021-12-17T22:16:05.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코인에 꽂혔어요]]></title>
+        <id>https://alook.so/posts/RGtBdd</id>
+        <link href="https://alook.so/posts/RGtBdd"/>
+        <updated>2021-12-17T22:14:39.541Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBdd">코인에 꽂혔어요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오 해킹당한썰]]></title>
+        <id>https://alook.so/posts/kZtGY9</id>
+        <link href="https://alook.so/posts/kZtGY9"/>
+        <updated>2021-12-17T22:14:39.542Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGY9">카카오 해킹당한썰</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[육아휴직으로 쪼달리네요ㅎㅎ]]></title>
+        <id>https://alook.so/posts/yEtrzX</id>
+        <link href="https://alook.so/posts/yEtrzX"/>
+        <updated>2021-12-17T22:14:39.543Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtrzX">육아휴직으로 쪼달리네요ㅎㅎ</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부업에 꽂혔어요]]></title>
         <id>https://alook.so/posts/BatZ3r</id>
@@ -46,19 +67,5 @@
         <link href="https://alook.so/posts/G1tlme"/>
         <updated>2021-12-17T15:15:40.958Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlme">상실감이 온다. 더 무서운 건 배고픔인가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좁쌀만 한 세상]]></title>
-        <id>https://alook.so/posts/OEtXv7</id>
-        <link href="https://alook.so/posts/OEtXv7"/>
-        <updated>2021-12-17T15:15:40.959Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXv7">좁쌀만 한 세상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퇴사 후 나의 삶]]></title>
-        <id>https://alook.so/posts/E7tzo0</id>
-        <link href="https://alook.so/posts/E7tzo0"/>
-        <updated>2021-12-17T15:15:40.960Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tzo0">퇴사 후 나의 삶</a>]]></content>
     </entry>
 </feed>
