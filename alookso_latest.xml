@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-17T08:19:55.799Z</updated>
+    <updated>2021-12-17T09:17:56.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[불평등을 해소 안하려면 ᆢ]]></title>
-        <id>https://alook.so/posts/w9t6ev</id>
-        <link href="https://alook.so/posts/w9t6ev"/>
-        <updated>2021-12-17T08:18:28.453Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6ev">불평등을 해소 안하려면 ᆢ</a>]]></content>
+        <title type="html"><![CDATA[10대 청소년들의 불행..]]></title>
+        <id>https://alook.so/posts/eVtXLV</id>
+        <link href="https://alook.so/posts/eVtXLV"/>
+        <updated>2021-12-17T09:16:25.884Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXLV">10대 청소년들의 불행..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[상상하게 하라]]></title>
-        <id>https://alook.so/posts/xltWPO</id>
-        <link href="https://alook.so/posts/xltWPO"/>
-        <updated>2021-12-17T08:18:28.454Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWPO">상상하게 하라</a>]]></content>
+        <title type="html"><![CDATA[알고리즘 추천 뉴스 왜 문제일까?]]></title>
+        <id>https://alook.so/posts/Vntk3y</id>
+        <link href="https://alook.so/posts/Vntk3y"/>
+        <updated>2021-12-17T09:16:25.885Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntk3y">알고리즘 추천 뉴스 왜 문제일까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초딩 입학을 앞두고.]]></title>
-        <id>https://alook.so/posts/RGtBmd</id>
-        <link href="https://alook.so/posts/RGtBmd"/>
-        <updated>2021-12-17T08:18:28.455Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBmd">초딩 입학을 앞두고.</a>]]></content>
+        <title type="html"><![CDATA[메일함에 얼룩소 뉴스 레터가 없으니 허전하네요. ^^;;]]></title>
+        <id>https://alook.so/posts/2xtBL0</id>
+        <link href="https://alook.so/posts/2xtBL0"/>
+        <updated>2021-12-17T09:16:25.886Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBL0">메일함에 얼룩소 뉴스 레터가 없으니 허전하네요. ^^;;</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이를 낳은 순간부터 걱정이 시작됐다]]></title>
-        <id>https://alook.so/posts/BatZnr</id>
-        <link href="https://alook.so/posts/BatZnr"/>
-        <updated>2021-12-17T06:18:21.272Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZnr">아이를 낳은 순간부터 걱정이 시작됐다</a>]]></content>
+        <title type="html"><![CDATA[강추위.]]></title>
+        <id>https://alook.so/posts/0ktrYa</id>
+        <link href="https://alook.so/posts/0ktrYa"/>
+        <updated>2021-12-17T09:16:25.888Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrYa">강추위.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[철밥통 공무원 매일퇴사를 꿈꾼다]]></title>
-        <id>https://alook.so/posts/LKtvXr</id>
-        <link href="https://alook.so/posts/LKtvXr"/>
-        <updated>2021-12-17T06:18:21.273Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvXr">철밥통 공무원 매일퇴사를 꿈꾼다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이트 글만봐도 설레이네요]]></title>
-        <id>https://alook.so/posts/njt56d</id>
-        <link href="https://alook.so/posts/njt56d"/>
-        <updated>2021-12-17T06:18:21.274Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt56d">데이트 글만봐도 설레이네요 </a>]]></content>
+        <title type="html"><![CDATA[성동구청장님, 감사드립니다.]]></title>
+        <id>https://alook.so/posts/4Xtx0B</id>
+        <link href="https://alook.so/posts/4Xtx0B"/>
+        <updated>2021-12-17T09:16:25.889Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtx0B">성동구청장님, 감사드립니다.</a>]]></content>
     </entry>
 </feed>

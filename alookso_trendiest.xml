@@ -2,29 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-17T08:19:55.784Z</updated>
+    <updated>2021-12-17T09:17:56.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[데이트 글만봐도 설레이네요]]></title>
-        <id>https://alook.so/posts/njt56d</id>
-        <link href="https://alook.so/posts/njt56d"/>
-        <updated>2021-12-17T08:18:36.029Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt56d">데이트 글만봐도 설레이네요 </a>]]></content>
+        <title type="html"><![CDATA[오프라인 만남_진짜 후기]]></title>
+        <id>https://alook.so/posts/KmtML2</id>
+        <link href="https://alook.so/posts/KmtML2"/>
+        <updated>2021-12-16T23:15:18.468Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtML2">오프라인 만남_진짜 후기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[시 일기]_ 애니메이션]]></title>
-        <id>https://alook.so/posts/3wtzq9</id>
-        <link href="https://alook.so/posts/3wtzq9"/>
-        <updated>2021-12-17T08:18:36.029Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtzq9">[시 일기]_ 애니메이션</a>]]></content>
+        <title type="html"><![CDATA[얼룩소 오프라인 만남!]]></title>
+        <id>https://alook.so/posts/KmtMZ2</id>
+        <link href="https://alook.so/posts/KmtMZ2"/>
+        <updated>2021-12-17T09:16:34.175Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMZ2">얼룩소 오프라인 만남!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백신 3차]]></title>
-        <id>https://alook.so/posts/8WtrVy</id>
-        <link href="https://alook.so/posts/8WtrVy"/>
-        <updated>2021-12-17T06:18:28.490Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrVy">백신 3차</a>]]></content>
+        <title type="html"><![CDATA[우당탕탕 제주 여행기2~완결편!!]]></title>
+        <id>https://alook.so/posts/BatZO9</id>
+        <link href="https://alook.so/posts/BatZO9"/>
+        <updated>2021-12-17T09:16:34.175Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZO9">우당탕탕 제주 여행기2~완결편!!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백신패스는 차별일까? 아닐까?]]></title>
@@ -34,10 +34,31 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrlp">백신패스는 차별일까? 아닐까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오프라인 만남_진짜 후기]]></title>
-        <id>https://alook.so/posts/KmtML2</id>
-        <link href="https://alook.so/posts/KmtML2"/>
-        <updated>2021-12-16T23:15:18.468Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtML2">오프라인 만남_진짜 후기</a>]]></content>
+        <title type="html"><![CDATA[성동프라이즈를 반겨 주시고, 공감해 주신 모든 분들께 진심으로 감사드립니다]]></title>
+        <id>https://alook.so/posts/a0tMnL</id>
+        <link href="https://alook.so/posts/a0tMnL"/>
+        <updated>2021-12-17T09:16:34.175Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMnL">성동프라이즈를 반겨 주시고, 공감해 주신 모든 분들께 진심으로 감사드립니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벨 훅스를 추모하며 – 페미니즘 혁명과 사랑]]></title>
+        <id>https://alook.so/posts/VntkBB</id>
+        <link href="https://alook.so/posts/VntkBB"/>
+        <updated>2021-12-17T09:16:34.176Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntkBB">벨 훅스를 추모하며 – 페미니즘 혁명과 사랑</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올 겨울 우리 가족이 꽂힌 간식을 소개합니다.]]></title>
+        <id>https://alook.so/posts/njt5EV</id>
+        <link href="https://alook.so/posts/njt5EV"/>
+        <updated>2021-12-17T09:16:34.176Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5EV">올 겨울 우리 가족이 꽂힌 간식을 소개합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10. 중학교 입학을 앞두고]]></title>
+        <id>https://alook.so/posts/q1t1mp</id>
+        <link href="https://alook.so/posts/q1t1mp"/>
+        <updated>2021-12-17T09:16:34.177Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1mp">10. 중학교 입학을 앞두고</a>]]></content>
     </entry>
 </feed>
