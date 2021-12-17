@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-17T03:16:54.202Z</updated>
+    <updated>2021-12-17T04:20:59.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -48,18 +48,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5EV">올 겨울 우리 가족이 꽂힌 간식을 소개합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Book-ing: 독서중] 역사의 역사 (유시민)]]></title>
-        <id>https://alook.so/posts/8WtrKv</id>
-        <link href="https://alook.so/posts/8WtrKv"/>
-        <updated>2021-12-17T02:05:25.148Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrKv">[Book-ing: 독서중] 역사의 역사 (유시민)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[곧 학교에 갈 너에게]]></title>
         <id>https://alook.so/posts/q1t1Jp</id>
         <link href="https://alook.so/posts/q1t1Jp"/>
         <updated>2021-12-17T02:05:25.150Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1Jp">곧 학교에 갈 너에게</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Book-ing: 독서중] 역사의 역사 (유시민)]]></title>
+        <id>https://alook.so/posts/8WtrKv</id>
+        <link href="https://alook.so/posts/8WtrKv"/>
+        <updated>2021-12-17T02:05:25.148Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrKv">[Book-ing: 독서중] 역사의 역사 (유시민)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아무것도 모르는 난 페인트칠부터…]]></title>

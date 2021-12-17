@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-17T03:16:54.198Z</updated>
+    <updated>2021-12-17T04:20:59.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[백신패스는 차별일까? 아닐까?]]></title>
+        <id>https://alook.so/posts/vKtrlp</id>
+        <link href="https://alook.so/posts/vKtrlp"/>
+        <updated>2021-12-17T04:19:34.486Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrlp">백신패스는 차별일까? 아닐까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설거지론 이후의 동향: 우리는 여자를 경멸한다]]></title>
+        <id>https://alook.so/posts/latVaX</id>
+        <link href="https://alook.so/posts/latVaX"/>
+        <updated>2021-12-17T04:19:34.486Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVaX">설거지론 이후의 동향: 우리는 여자를 경멸한다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[의욕 상실]]></title>
         <id>https://alook.so/posts/Djt2v2</id>
         <link href="https://alook.so/posts/Djt2v2"/>
         <updated>2021-12-17T02:05:16.137Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2v2">의욕 상실</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 현실은 아직도 제자리에]]></title>
-        <id>https://alook.so/posts/o7twp5</id>
-        <link href="https://alook.so/posts/o7twp5"/>
-        <updated>2021-12-17T00:52:51.177Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twp5">답글: 현실은 아직도 제자리에</a>]]></content>
     </entry>
 </feed>
