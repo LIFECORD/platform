@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-18T03:18:44.616Z</updated>
+    <updated>2021-12-18T06:20:41.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[요즘 군대] 휴대폰과 함께하는 군인의 주말]]></title>
+        <id>https://alook.so/posts/J5tY0y</id>
+        <link href="https://alook.so/posts/J5tY0y"/>
+        <updated>2021-12-18T06:19:10.119Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tY0y">[요즘 군대] 휴대폰과 함께하는 군인의 주말</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끼리끼리 만나 결혼한다..??]]></title>
         <id>https://alook.so/posts/pot9PL</id>
         <link href="https://alook.so/posts/pot9PL"/>
         <updated>2021-12-18T03:17:10.568Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9PL">끼리끼리 만나 결혼한다..??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 군대가 시간이 가지 않는 이유, 시간을 빠르게 보내는 꿀팁!]]></title>
+        <id>https://alook.so/posts/eVtXbV</id>
+        <link href="https://alook.so/posts/eVtXbV"/>
+        <updated>2021-12-18T06:19:10.120Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXbV">답글: 군대가 시간이 가지 않는 이유, 시간을 빠르게 보내는 꿀팁!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어느 여인의 리플리증후군]]></title>
@@ -39,26 +53,5 @@
         <link href="https://alook.so/posts/2xtBW0"/>
         <updated>2021-12-18T03:17:10.572Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBW0">윤석열은 친문 지지층을 포용하라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다이어트전 알아야 하는 것들]]></title>
-        <id>https://alook.so/posts/WLtedD</id>
-        <link href="https://alook.so/posts/WLtedD"/>
-        <updated>2021-12-18T03:17:10.574Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtedD">다이어트전 알아야 하는 것들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여러분 내 직업, 어때요?]]></title>
-        <id>https://alook.so/posts/0ktrGa</id>
-        <link href="https://alook.so/posts/0ktrGa"/>
-        <updated>2021-12-18T03:17:10.575Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrGa">여러분 내 직업, 어때요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[기부의 시간 #2] 좀처럼 오르지 않는 "기부의 온도"]]></title>
-        <id>https://alook.so/posts/M9t2D5</id>
-        <link href="https://alook.so/posts/M9t2D5"/>
-        <updated>2021-12-18T02:05:18.817Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2D5">[기부의 시간 #2] 좀처럼 오르지 않는 "기부의 온도"</a>]]></content>
     </entry>
 </feed>
