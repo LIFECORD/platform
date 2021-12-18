@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-18T13:22:32.944Z</updated>
+    <updated>2021-12-18T14:16:00.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjOX">좋은 글, 그리고 재미있는 글에 대한 생각.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[기부의 시간 #2] 좀처럼 오르지 않는 "기부의 온도"]]></title>
-        <id>https://alook.so/posts/M9t2D5</id>
-        <link href="https://alook.so/posts/M9t2D5"/>
-        <updated>2021-12-18T06:19:18.632Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2D5">[기부의 시간 #2] 좀처럼 오르지 않는 "기부의 온도"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[병사 휴대폰 지급이 불러일으킨 나비효과]]></title>
         <id>https://alook.so/posts/latV9X</id>
         <link href="https://alook.so/posts/latV9X"/>
         <updated>2021-12-18T10:16:06.898Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latV9X">병사 휴대폰 지급이 불러일으킨 나비효과</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[기부의 시간 #2] 좀처럼 오르지 않는 "기부의 온도"]]></title>
+        <id>https://alook.so/posts/M9t2D5</id>
+        <link href="https://alook.so/posts/M9t2D5"/>
+        <updated>2021-12-18T06:19:18.632Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2D5">[기부의 시간 #2] 좀처럼 오르지 않는 "기부의 온도"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여러분 내 직업, 어때요?]]></title>
@@ -48,6 +48,20 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9PL">끼리끼리 만나 결혼한다..??</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[단지 한 명의 대학생으로서 대답하겠습니다.]]></title>
+        <id>https://alook.so/posts/vKtrVJ</id>
+        <link href="https://alook.so/posts/vKtrVJ"/>
+        <updated>2021-12-18T13:21:15.471Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrVJ">단지 한 명의 대학생으로서 대답하겠습니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자영업자의하루]]></title>
+        <id>https://alook.so/posts/mbtko1</id>
+        <link href="https://alook.so/posts/mbtko1"/>
+        <updated>2021-12-18T13:21:15.473Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtko1">자영업자의하루</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[신기한 얼룩소 세상, 질문!]]></title>
         <id>https://alook.so/posts/8Wtr4B</id>
         <link href="https://alook.so/posts/8Wtr4B"/>
@@ -62,18 +76,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMvY">[군대 토크] 병사의 휴대폰 사용, 어떻게 생각하시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단지 한 명의 대학생으로서 대답하겠습니다.]]></title>
-        <id>https://alook.so/posts/vKtrVJ</id>
-        <link href="https://alook.so/posts/vKtrVJ"/>
-        <updated>2021-12-18T13:21:15.471Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrVJ">단지 한 명의 대학생으로서 대답하겠습니다. </a>]]></content>
+        <title type="html"><![CDATA[답글: 부담없이 글 쓰는 습관 갖고 싶어서 활동 중입니다]]></title>
+        <id>https://alook.so/posts/LKtvpD</id>
+        <link href="https://alook.so/posts/LKtvpD"/>
+        <updated>2021-12-18T13:21:15.479Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvpD">답글: 부담없이 글 쓰는 습관 갖고 싶어서 활동 중입니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자영업자의하루]]></title>
-        <id>https://alook.so/posts/mbtko1</id>
-        <link href="https://alook.so/posts/mbtko1"/>
-        <updated>2021-12-18T13:21:15.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtko1">자영업자의하루</a>]]></content>
+        <title type="html"><![CDATA[답글: 얼룩소 열차에 탑승 :)]]></title>
+        <id>https://alook.so/posts/njt5LJ</id>
+        <link href="https://alook.so/posts/njt5LJ"/>
+        <updated>2021-12-18T13:21:15.751Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5LJ">답글: 얼룩소 열차에 탑승 :)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글쓰기]]></title>
+        <id>https://alook.so/posts/OEtXDy</id>
+        <link href="https://alook.so/posts/OEtXDy"/>
+        <updated>2021-12-18T14:14:36.117Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXDy">글쓰기 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오프라인 만남_진짜 후기]]></title>
@@ -104,17 +125,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZnr">아이를 낳은 순간부터 걱정이 시작됐다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 부담없이 글 쓰는 습관 갖고 싶어서 활동 중입니다]]></title>
-        <id>https://alook.so/posts/LKtvpD</id>
-        <link href="https://alook.so/posts/LKtvpD"/>
-        <updated>2021-12-18T13:21:15.479Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvpD">답글: 부담없이 글 쓰는 습관 갖고 싶어서 활동 중입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 얼룩소 열차에 탑승 :)]]></title>
-        <id>https://alook.so/posts/njt5LJ</id>
-        <link href="https://alook.so/posts/njt5LJ"/>
-        <updated>2021-12-18T13:21:15.751Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5LJ">답글: 얼룩소 열차에 탑승 :)</a>]]></content>
+        <title type="html"><![CDATA[[군생활 꿀팁] 군생활을 버티는 마법같은 10가지 주문]]></title>
+        <id>https://alook.so/posts/kZtGWq</id>
+        <link href="https://alook.so/posts/kZtGWq"/>
+        <updated>2021-12-18T14:14:36.126Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGWq">[군생활 꿀팁] 군생활을 버티는 마법같은 10가지 주문</a>]]></content>
     </entry>
 </feed>
