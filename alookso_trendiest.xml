@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-18T02:06:52.055Z</updated>
+    <updated>2021-12-18T03:18:44.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXLV">10대 청소년들의 불행..</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[군대가 시간이 가지 않는 이유, 시간을 빠르게 보내는 꿀팁!]]></title>
+        <id>https://alook.so/posts/6Mt5LP</id>
+        <link href="https://alook.so/posts/6Mt5LP"/>
+        <updated>2021-12-18T03:17:18.358Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt5LP">군대가 시간이 가지 않는 이유, 시간을 빠르게 보내는 꿀팁!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10대]]></title>
         <id>https://alook.so/posts/Djt2d2</id>
         <link href="https://alook.so/posts/Djt2d2"/>
@@ -76,6 +83,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1mp">10. 중학교 입학을 앞두고</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[여러분 내 직업, 어때요?]]></title>
+        <id>https://alook.so/posts/0ktrGa</id>
+        <link href="https://alook.so/posts/0ktrGa"/>
+        <updated>2021-12-18T03:17:18.376Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrGa">여러분 내 직업, 어때요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[퇴사 후 나의 삶]]></title>
         <id>https://alook.so/posts/E7tzo0</id>
         <link href="https://alook.so/posts/E7tzo0"/>
@@ -83,24 +97,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tzo0">퇴사 후 나의 삶</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알고리즘 추천 뉴스 왜 문제일까?]]></title>
-        <id>https://alook.so/posts/Vntk3y</id>
-        <link href="https://alook.so/posts/Vntk3y"/>
-        <updated>2021-12-17T16:23:17.438Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntk3y">알고리즘 추천 뉴스 왜 문제일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메일함에 얼룩소 뉴스 레터가 없으니 허전하네요. ^^;;]]></title>
-        <id>https://alook.so/posts/2xtBL0</id>
-        <link href="https://alook.so/posts/2xtBL0"/>
-        <updated>2021-12-17T16:23:17.439Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBL0">메일함에 얼룩소 뉴스 레터가 없으니 허전하네요. ^^;;</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아무것도 모르는 난 페인트칠부터…]]></title>
-        <id>https://alook.so/posts/54tda4</id>
-        <link href="https://alook.so/posts/54tda4"/>
-        <updated>2021-12-18T02:05:27.793Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tda4">아무것도 모르는 난 페인트칠부터…</a>]]></content>
+        <title type="html"><![CDATA[코로나19가 만들어낸 새로운 군대 휴가 제도.]]></title>
+        <id>https://alook.so/posts/92tWEP</id>
+        <link href="https://alook.so/posts/92tWEP"/>
+        <updated>2021-12-18T03:17:18.378Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWEP">코로나19가 만들어낸 새로운 군대 휴가 제도.</a>]]></content>
     </entry>
 </feed>

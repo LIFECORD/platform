@@ -2,70 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-18T02:06:52.028Z</updated>
+    <updated>2021-12-18T03:18:44.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[끼리끼리 만나 결혼한다..??]]></title>
+        <id>https://alook.so/posts/pot9PL</id>
+        <link href="https://alook.so/posts/pot9PL"/>
+        <updated>2021-12-18T03:17:10.568Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9PL">끼리끼리 만나 결혼한다..??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어느 여인의 리플리증후군]]></title>
+        <id>https://alook.so/posts/Pvt5DG</id>
+        <link href="https://alook.so/posts/Pvt5DG"/>
+        <updated>2021-12-18T03:17:10.569Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5DG">어느 여인의 리플리증후군</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부모는 아이의 걱정을 할 수 밖에 없는 존재이다.]]></title>
+        <id>https://alook.so/posts/VntkEy</id>
+        <link href="https://alook.so/posts/VntkEy"/>
+        <updated>2021-12-18T03:17:10.570Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntkEy">부모는 아이의 걱정을 할 수 밖에 없는 존재이다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아들 덕에 행복합니다.]]></title>
+        <id>https://alook.so/posts/zvtbOd</id>
+        <link href="https://alook.so/posts/zvtbOd"/>
+        <updated>2021-12-18T03:17:10.571Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtbOd">아들 덕에 행복합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열은 친문 지지층을 포용하라]]></title>
+        <id>https://alook.so/posts/2xtBW0</id>
+        <link href="https://alook.so/posts/2xtBW0"/>
+        <updated>2021-12-18T03:17:10.572Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBW0">윤석열은 친문 지지층을 포용하라</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다이어트전 알아야 하는 것들]]></title>
+        <id>https://alook.so/posts/WLtedD</id>
+        <link href="https://alook.so/posts/WLtedD"/>
+        <updated>2021-12-18T03:17:10.574Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtedD">다이어트전 알아야 하는 것들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여러분 내 직업, 어때요?]]></title>
+        <id>https://alook.so/posts/0ktrGa</id>
+        <link href="https://alook.so/posts/0ktrGa"/>
+        <updated>2021-12-18T03:17:10.575Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrGa">여러분 내 직업, 어때요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기부의 시간 #2] 좀처럼 오르지 않는 "기부의 온도"]]></title>
         <id>https://alook.so/posts/M9t2D5</id>
         <link href="https://alook.so/posts/M9t2D5"/>
         <updated>2021-12-18T02:05:18.817Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2D5">[기부의 시간 #2] 좀처럼 오르지 않는 "기부의 온도"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국회의원수 무조건 줄여야합니다]]></title>
-        <id>https://alook.so/posts/XBtWl5</id>
-        <link href="https://alook.so/posts/XBtWl5"/>
-        <updated>2021-12-18T00:52:25.327Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWl5">국회의원수 무조건 줄여야합니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(추가) 백신패스는 차별일까? 아닐까?]]></title>
-        <id>https://alook.so/posts/w9t6Dv</id>
-        <link href="https://alook.so/posts/w9t6Dv"/>
-        <updated>2021-12-18T00:52:25.337Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6Dv">(추가) 백신패스는 차별일까? 아닐까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제도적인 문제]]></title>
-        <id>https://alook.so/posts/xltWLO</id>
-        <link href="https://alook.so/posts/xltWLO"/>
-        <updated>2021-12-18T00:52:25.340Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWLO">제도적인 문제</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코인에 꽂혔어요]]></title>
-        <id>https://alook.so/posts/RGtBdd</id>
-        <link href="https://alook.so/posts/RGtBdd"/>
-        <updated>2021-12-17T22:14:39.541Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBdd">코인에 꽂혔어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 해킹당한썰]]></title>
-        <id>https://alook.so/posts/kZtGY9</id>
-        <link href="https://alook.so/posts/kZtGY9"/>
-        <updated>2021-12-17T22:14:39.542Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGY9">카카오 해킹당한썰</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육아휴직으로 쪼달리네요ㅎㅎ]]></title>
-        <id>https://alook.so/posts/yEtrzX</id>
-        <link href="https://alook.so/posts/yEtrzX"/>
-        <updated>2021-12-17T22:14:39.543Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtrzX">육아휴직으로 쪼달리네요ㅎㅎ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부업에 꽂혔어요]]></title>
-        <id>https://alook.so/posts/BatZ3r</id>
-        <link href="https://alook.so/posts/BatZ3r"/>
-        <updated>2021-12-17T15:15:40.953Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZ3r">부업에 꽂혔어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조두순 둔기 폭행]]></title>
-        <id>https://alook.so/posts/LKtv2r</id>
-        <link href="https://alook.so/posts/LKtv2r"/>
-        <updated>2021-12-17T15:15:40.954Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtv2r">조두순 둔기 폭행</a>]]></content>
     </entry>
 </feed>
