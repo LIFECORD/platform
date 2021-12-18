@@ -2,56 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-18T07:15:56.866Z</updated>
+    <updated>2021-12-18T10:17:24.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[[요즘 군대] 휴대폰과 함께하는 군인의 주말]]></title>
-        <id>https://alook.so/posts/J5tY0y</id>
-        <link href="https://alook.so/posts/J5tY0y"/>
-        <updated>2021-12-18T06:19:10.119Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tY0y">[요즘 군대] 휴대폰과 함께하는 군인의 주말</a>]]></content>
+        <title type="html"><![CDATA[병사 휴대폰 지급이 불러일으킨 나비효과]]></title>
+        <id>https://alook.so/posts/latV9X</id>
+        <link href="https://alook.so/posts/latV9X"/>
+        <updated>2021-12-18T10:15:58.448Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latV9X">병사 휴대폰 지급이 불러일으킨 나비효과</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[끼리끼리 만나 결혼한다..??]]></title>
-        <id>https://alook.so/posts/pot9PL</id>
-        <link href="https://alook.so/posts/pot9PL"/>
-        <updated>2021-12-18T03:17:10.568Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9PL">끼리끼리 만나 결혼한다..??</a>]]></content>
+        <title type="html"><![CDATA[직장인, 취준생 여러가지로 고민이 많으시죠?]]></title>
+        <id>https://alook.so/posts/92tWGP</id>
+        <link href="https://alook.so/posts/92tWGP"/>
+        <updated>2021-12-18T10:15:58.449Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWGP">직장인, 취준생 여러가지로 고민이 많으시죠?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 군대가 시간이 가지 않는 이유, 시간을 빠르게 보내는 꿀팁!]]></title>
-        <id>https://alook.so/posts/eVtXbV</id>
-        <link href="https://alook.so/posts/eVtXbV"/>
-        <updated>2021-12-18T06:19:10.120Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXbV">답글: 군대가 시간이 가지 않는 이유, 시간을 빠르게 보내는 꿀팁!</a>]]></content>
+        <title type="html"><![CDATA[[군대 토크] 병사의 휴대폰 사용, 어떻게 생각하시나요?]]></title>
+        <id>https://alook.so/posts/KmtMvY</id>
+        <link href="https://alook.so/posts/KmtMvY"/>
+        <updated>2021-12-18T10:15:58.450Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMvY">[군대 토크] 병사의 휴대폰 사용, 어떻게 생각하시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어느 여인의 리플리증후군]]></title>
-        <id>https://alook.so/posts/Pvt5DG</id>
-        <link href="https://alook.so/posts/Pvt5DG"/>
-        <updated>2021-12-18T03:17:10.569Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5DG">어느 여인의 리플리증후군</a>]]></content>
+        <title type="html"><![CDATA[국회의원 숫자 줄여야 합니다.]]></title>
+        <id>https://alook.so/posts/mbtkol</id>
+        <link href="https://alook.so/posts/mbtkol"/>
+        <updated>2021-12-18T10:15:58.451Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtkol">국회의원 숫자 줄여야 합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부모는 아이의 걱정을 할 수 밖에 없는 존재이다.]]></title>
-        <id>https://alook.so/posts/VntkEy</id>
-        <link href="https://alook.so/posts/VntkEy"/>
-        <updated>2021-12-18T03:17:10.570Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntkEy">부모는 아이의 걱정을 할 수 밖에 없는 존재이다.</a>]]></content>
+        <title type="html"><![CDATA[내가 하고 있는 행동이 갑이 아닐까요?]]></title>
+        <id>https://alook.so/posts/q1t1BW</id>
+        <link href="https://alook.so/posts/q1t1BW"/>
+        <updated>2021-12-18T10:15:58.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1BW">내가 하고 있는 행동이 갑이 아닐까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아들 덕에 행복합니다.]]></title>
-        <id>https://alook.so/posts/zvtbOd</id>
-        <link href="https://alook.so/posts/zvtbOd"/>
-        <updated>2021-12-18T03:17:10.571Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtbOd">아들 덕에 행복합니다.</a>]]></content>
+        <title type="html"><![CDATA[K캅스, 보노보노 좋아합니다.]]></title>
+        <id>https://alook.so/posts/Djt2J2</id>
+        <link href="https://alook.so/posts/Djt2J2"/>
+        <updated>2021-12-18T10:15:58.453Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2J2">K캅스, 보노보노 좋아합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열은 친문 지지층을 포용하라]]></title>
-        <id>https://alook.so/posts/2xtBW0</id>
-        <link href="https://alook.so/posts/2xtBW0"/>
-        <updated>2021-12-18T03:17:10.572Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBW0">윤석열은 친문 지지층을 포용하라</a>]]></content>
+        <title type="html"><![CDATA[누구나 가슴 한쪽에 사직서를 품고 있습니다.]]></title>
+        <id>https://alook.so/posts/1Rtalr</id>
+        <link href="https://alook.so/posts/1Rtalr"/>
+        <updated>2021-12-18T10:15:58.455Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtalr">누구나 가슴 한쪽에 사직서를 품고 있습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난일들을 돌아볼 때는 뭔가 숨을 돌릴 여유가 있을때 였던거 같습니다.]]></title>
+        <id>https://alook.so/posts/o7tw95</id>
+        <link href="https://alook.so/posts/o7tw95"/>
+        <updated>2021-12-18T10:15:58.456Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tw95">지난일들을 돌아볼 때는 뭔가 숨을 돌릴 여유가 있을때 였던거 같습니다.</a>]]></content>
     </entry>
 </feed>
