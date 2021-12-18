@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2021-12-17T22:16:05.383Z</updated>
+    <updated>2021-12-18T00:53:52.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뉴욕타임스 올해의 인물 이름 맞히기 퀴즈]]></title>
+        <id>https://newspeppermint.com/2021/12/17/nyt2021notablepeople/</id>
+        <link href="https://newspeppermint.com/2021/12/17/nyt2021notablepeople/"/>
+        <updated>2021-12-18T00:52:01.087Z</updated>
+        <content type="html"><![CDATA[2021년 12월 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팬데믹이 테크 산업을 어떻게 바꾸고 있는가?]]></title>
         <id>https://newspeppermint.com/2021/12/15/%ed%8c%ac%eb%8d%b0%eb%af%b9%ec%9d%b4-%ed%85%8c%ed%81%ac-%ec%82%b0%ec%97%85%ec%9d%84-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%b0%94%ea%be%b8%ea%b3%a0-%ec%9e%88%eb%8a%94%ea%b0%80/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2021/10/12/climatechangefinancialcrisis/"/>
         <updated>2021-12-15T22:41:59.333Z</updated>
         <content type="html"><![CDATA[2021년 10월 13일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이스북 내부고발자 프랜시스 하우건의 의회 청문회 모두 발언]]></title>
-        <id>https://newspeppermint.com/2021/10/06/fanceshaugen/</id>
-        <link href="https://newspeppermint.com/2021/10/06/fanceshaugen/"/>
-        <updated>2021-12-15T22:41:59.334Z</updated>
-        <content type="html"><![CDATA[2021년 10월 7일]]></content>
     </entry>
 </feed>
