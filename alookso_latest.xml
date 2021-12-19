@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-19T16:23:40.235Z</updated>
+    <updated>2021-12-19T17:22:58.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가시밭길 끝에는 선의가 있을까 - ‘스파이더맨 : 노 웨이 홈’ 후기]]></title>
+        <id>https://alook.so/posts/pot9Gm</id>
+        <link href="https://alook.so/posts/pot9Gm"/>
+        <updated>2021-12-19T17:21:33.451Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9Gm">가시밭길 끝에는 선의가 있을까 - ‘스파이더맨 : 노 웨이 홈’ 후기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저는...]]></title>
         <id>https://alook.so/posts/Pvt5PJ</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/4XtxYk"/>
         <updated>2021-12-19T14:13:47.872Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtxYk">주 4일제</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이직해야 할까요?]]></title>
-        <id>https://alook.so/posts/w9t6lb</id>
-        <link href="https://alook.so/posts/w9t6lb"/>
-        <updated>2021-12-19T13:22:25.056Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6lb">이직해야 할까요?</a>]]></content>
     </entry>
 </feed>
