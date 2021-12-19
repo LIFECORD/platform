@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-19T11:14:55.672Z</updated>
+    <updated>2021-12-19T13:23:58.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이직해야 할까요?]]></title>
+        <id>https://alook.so/posts/w9t6lb</id>
+        <link href="https://alook.so/posts/w9t6lb"/>
+        <updated>2021-12-19T13:22:25.056Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6lb">이직해야 할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흉악범은 사형을 집행해야 할까요?]]></title>
+        <id>https://alook.so/posts/xltWGJ</id>
+        <link href="https://alook.so/posts/xltWGJ"/>
+        <updated>2021-12-19T13:22:25.057Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWGJ">흉악범은 사형을 집행해야 할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국노]]></title>
+        <id>https://alook.so/posts/kZtGlq</id>
+        <link href="https://alook.so/posts/kZtGlq"/>
+        <updated>2021-12-19T13:22:25.058Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGlq">국노</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라면 참 맛있죠.]]></title>
+        <id>https://alook.so/posts/yEtr5E</id>
+        <link href="https://alook.so/posts/yEtr5E"/>
+        <updated>2021-12-19T13:22:25.059Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtr5E">라면 참 맛있죠.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정적들에겐 Kill방원이었지만 그도 아버지였습니다.]]></title>
+        <id>https://alook.so/posts/BatZeb</id>
+        <link href="https://alook.so/posts/BatZeb"/>
+        <updated>2021-12-19T13:22:25.061Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZeb">정적들에겐 Kill방원이었지만 그도 아버지였습니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기술이 발전해도 일자리는 줄지않을꺼예요]]></title>
         <id>https://alook.so/posts/njt5qJ</id>
@@ -18,33 +53,5 @@
         <link href="https://alook.so/posts/3wtzwm"/>
         <updated>2021-12-19T11:13:28.500Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtzwm">연패.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국주식에 꽂혔습니다.]]></title>
-        <id>https://alook.so/posts/8WtrRB</id>
-        <link href="https://alook.so/posts/8WtrRB"/>
-        <updated>2021-12-19T09:15:22.881Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrRB">미국주식에 꽂혔습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[절대 불가능 하다고 생각합니다.]]></title>
-        <id>https://alook.so/posts/G1tlBE</id>
-        <link href="https://alook.so/posts/G1tlBE"/>
-        <updated>2021-12-19T09:15:22.883Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlBE">절대 불가능 하다고 생각합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대하드라마 태종 이방원을 보고 든 생각?]]></title>
-        <id>https://alook.so/posts/OEtXqy</id>
-        <link href="https://alook.so/posts/OEtXqy"/>
-        <updated>2021-12-19T08:17:54.527Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXqy">대하드라마 태종 이방원을 보고 든 생각?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오랜만이에요 !!]]></title>
-        <id>https://alook.so/posts/92tWXr</id>
-        <link href="https://alook.so/posts/92tWXr"/>
-        <updated>2021-12-19T08:17:54.528Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWXr">오랜만이에요 !!</a>]]></content>
     </entry>
 </feed>
