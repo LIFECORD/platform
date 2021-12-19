@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-18T23:16:27.351Z</updated>
+    <updated>2021-12-19T00:54:12.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://alook.so/posts/njt5LJ"/>
         <updated>2021-12-18T13:21:15.751Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5LJ">답글: 충성! 얼룩소 자대에 새로 전입왔습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 끼리끼리 만나 결혼하는게 편하다.]]></title>
+        <id>https://alook.so/posts/6Mt5zb</id>
+        <link href="https://alook.so/posts/6Mt5zb"/>
+        <updated>2021-12-19T00:52:44.643Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt5zb">답글: 끼리끼리 만나 결혼하는게 편하다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신기한 얼룩소 세상, 질문!]]></title>
@@ -95,12 +102,5 @@
         <link href="https://alook.so/posts/1Rtalr"/>
         <updated>2021-12-18T19:12:05.337Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtalr">누구나 가슴 한쪽에 사직서를 품고 있습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 글, 그리고 재미있는 글에 대한 생각.]]></title>
-        <id>https://alook.so/posts/jdtjOX</id>
-        <link href="https://alook.so/posts/jdtjOX"/>
-        <updated>2021-12-18T10:16:06.887Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjOX">좋은 글, 그리고 재미있는 글에 대한 생각.</a>]]></content>
     </entry>
 </feed>

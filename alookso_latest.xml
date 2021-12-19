@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-18T23:16:27.355Z</updated>
+    <updated>2021-12-19T00:54:12.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무비 무브 #11] 곡성 (2016, The Wailing); 영화보다 무서운 소리 없는 이 혼돈의 세상]]></title>
+        <id>https://alook.so/posts/Zkt0jz</id>
+        <link href="https://alook.so/posts/Zkt0jz"/>
+        <updated>2021-12-19T00:52:36.634Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0jz">[무비 무브 #11] 곡성 (2016, The Wailing); 영화보다 무서운 소리 없는 이 혼돈의 세상</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소비자가 반응하는 작업물은 무엇일까?]]></title>
         <id>https://alook.so/posts/J5tYxm</id>
@@ -46,12 +53,5 @@
         <link href="https://alook.so/posts/WLteRx"/>
         <updated>2021-12-18T15:15:42.887Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLteRx">사형은 안된다 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴가를 대하는 얼룩커들의 자세]]></title>
-        <id>https://alook.so/posts/M9t2r7</id>
-        <link href="https://alook.so/posts/M9t2r7"/>
-        <updated>2021-12-18T15:15:42.889Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2r7">휴가를 대하는 얼룩커들의 자세</a>]]></content>
     </entry>
 </feed>
