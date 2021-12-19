@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-19T02:12:28.768Z</updated>
+    <updated>2021-12-19T03:16:54.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[자연의 법칙에 대한 고찰 …]]></title>
+        <id>https://alook.so/posts/bWtLaJ</id>
+        <link href="https://alook.so/posts/bWtLaJ"/>
+        <updated>2021-12-19T03:15:26.399Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLaJ">자연의 법칙에 대한 고찰 …</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<이렇게 된 이상 청와대로 간다>와 팽길탄]]></title>
+        <id>https://alook.so/posts/a0tMqO</id>
+        <link href="https://alook.so/posts/a0tMqO"/>
+        <updated>2021-12-19T03:15:26.400Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMqO">&lt;이렇게 된 이상 청와대로 간다&gt;와 팽길탄 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무비 무브 #11] 곡성 (2016, The Wailing); 영화보다 무서운 소리 없는 이 혼돈의 세상]]></title>
         <id>https://alook.so/posts/Zkt0jz</id>
@@ -46,12 +60,5 @@
         <link href="https://alook.so/posts/zvtbEp"/>
         <updated>2021-12-18T15:15:42.886Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtbEp">법이 뭔데, 나 대신 용서한다는 거야?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사형은 안된다]]></title>
-        <id>https://alook.so/posts/WLteRx</id>
-        <link href="https://alook.so/posts/WLteRx"/>
-        <updated>2021-12-18T15:15:42.887Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLteRx">사형은 안된다 </a>]]></content>
     </entry>
 </feed>
