@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-19T13:23:58.327Z</updated>
+    <updated>2021-12-19T14:15:12.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[그럴리가요]]></title>
+        <id>https://alook.so/posts/0ktrXL</id>
+        <link href="https://alook.so/posts/0ktrXL"/>
+        <updated>2021-12-19T14:13:47.870Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrXL">그럴리가요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소는 "보상(報償)"일까요? "보상(補償)"일까요?]]></title>
+        <id>https://alook.so/posts/M9t2W7</id>
+        <link href="https://alook.so/posts/M9t2W7"/>
+        <updated>2021-12-19T14:13:47.872Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2W7">얼룩소는 "보상(報償)"일까요? "보상(補償)"일까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주 4일제]]></title>
+        <id>https://alook.so/posts/4XtxYk</id>
+        <link href="https://alook.so/posts/4XtxYk"/>
+        <updated>2021-12-19T14:13:47.872Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtxYk">주 4일제</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이직해야 할까요?]]></title>
         <id>https://alook.so/posts/w9t6lb</id>
@@ -39,19 +60,5 @@
         <link href="https://alook.so/posts/BatZeb"/>
         <updated>2021-12-19T13:22:25.061Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZeb">정적들에겐 Kill방원이었지만 그도 아버지였습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술이 발전해도 일자리는 줄지않을꺼예요]]></title>
-        <id>https://alook.so/posts/njt5qJ</id>
-        <link href="https://alook.so/posts/njt5qJ"/>
-        <updated>2021-12-19T11:13:28.496Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5qJ">기술이 발전해도 일자리는 줄지않을꺼예요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연패.]]></title>
-        <id>https://alook.so/posts/3wtzwm</id>
-        <link href="https://alook.so/posts/3wtzwm"/>
-        <updated>2021-12-19T11:13:28.500Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtzwm">연패.</a>]]></content>
     </entry>
 </feed>

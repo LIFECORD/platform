@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-19T13:23:58.319Z</updated>
+    <updated>2021-12-19T14:15:12.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국노]]></title>
+        <id>https://alook.so/posts/kZtGlq</id>
+        <link href="https://alook.so/posts/kZtGlq"/>
+        <updated>2021-12-19T14:13:55.172Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGlq">국노</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라면 참 맛있죠.]]></title>
         <id>https://alook.so/posts/yEtr5E</id>
@@ -18,6 +25,13 @@
         <link href="https://alook.so/posts/BatZeb"/>
         <updated>2021-12-19T13:22:33.841Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZeb">정적들에겐 Kill방원이었지만 그도 아버지였습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국주식에 꽂혔습니다.]]></title>
+        <id>https://alook.so/posts/8WtrRB</id>
+        <link href="https://alook.so/posts/8WtrRB"/>
+        <updated>2021-12-19T14:13:55.179Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrRB">미국주식에 꽂혔습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대하드라마 태종 이방원을 보고 든 생각?]]></title>
@@ -48,6 +62,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2PX">투자는 더 나은 내일을 위해서</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[충성! 좋아요 50개를 달성했습니다!]]></title>
+        <id>https://alook.so/posts/o7twe4</id>
+        <link href="https://alook.so/posts/o7twe4"/>
+        <updated>2021-12-19T14:13:55.183Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twe4">충성! 좋아요 50개를 달성했습니다!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[답글: 법도 타인의 것도 아닌 "용서", 그리고 "복수"]]></title>
         <id>https://alook.so/posts/rDtjdG</id>
         <link href="https://alook.so/posts/rDtjdG"/>
@@ -67,26 +88,5 @@
         <link href="https://alook.so/posts/Zkt0jz"/>
         <updated>2021-12-19T03:15:34.283Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0jz">[무비 무브 #11] 곡성 (2016, The Wailing); 영화보다 무서운 소리 없는 이 혼돈의 세상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부담스러웠을까]]></title>
-        <id>https://alook.so/posts/eVtXWX</id>
-        <link href="https://alook.so/posts/eVtXWX"/>
-        <updated>2021-12-19T13:22:33.850Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXWX">부담스러웠을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시 일기]_ 레코드판]]></title>
-        <id>https://alook.so/posts/Pvt5lJ</id>
-        <link href="https://alook.so/posts/Pvt5lJ"/>
-        <updated>2021-12-19T13:22:33.851Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5lJ">[시 일기]_ 레코드판</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴가를 대하는 에디터팀의 자세]]></title>
-        <id>https://alook.so/posts/Vntk8R</id>
-        <link href="https://alook.so/posts/Vntk8R"/>
-        <updated>2021-12-18T16:21:32.264Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntk8R">휴가를 대하는 에디터팀의 자세</a>]]></content>
     </entry>
 </feed>
