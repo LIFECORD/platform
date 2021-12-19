@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-19T09:16:52.969Z</updated>
+    <updated>2021-12-19T11:14:55.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[기술이 발전해도 일자리는 줄지않을꺼예요]]></title>
+        <id>https://alook.so/posts/njt5qJ</id>
+        <link href="https://alook.so/posts/njt5qJ"/>
+        <updated>2021-12-19T11:13:28.496Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5qJ">기술이 발전해도 일자리는 줄지않을꺼예요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연패.]]></title>
+        <id>https://alook.so/posts/3wtzwm</id>
+        <link href="https://alook.so/posts/3wtzwm"/>
+        <updated>2021-12-19T11:13:28.500Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtzwm">연패.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국주식에 꽂혔습니다.]]></title>
         <id>https://alook.so/posts/8WtrRB</id>
@@ -32,19 +46,5 @@
         <link href="https://alook.so/posts/92tWXr"/>
         <updated>2021-12-19T08:17:54.528Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWXr">오랜만이에요 !!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후위기, 우리가 해야할 일]]></title>
-        <id>https://alook.so/posts/KmtM9Z</id>
-        <link href="https://alook.so/posts/KmtM9Z"/>
-        <updated>2021-12-19T07:16:06.773Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtM9Z">기후위기, 우리가 해야할 일</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국 10대의 불행]]></title>
-        <id>https://alook.so/posts/54td2D</id>
-        <link href="https://alook.so/posts/54td2D"/>
-        <updated>2021-12-19T07:16:06.774Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td2D">대한민국 10대의 불행</a>]]></content>
     </entry>
 </feed>
