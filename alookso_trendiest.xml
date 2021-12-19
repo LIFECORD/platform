@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-19T17:22:58.577Z</updated>
+    <updated>2021-12-19T19:14:33.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0jz">[무비 무브 #11] 곡성 (2016, The Wailing); 영화보다 무서운 소리 없는 이 혼돈의 세상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[<이렇게 된 이상 청와대로 간다>와 팽길탄]]></title>
-        <id>https://alook.so/posts/a0tMqO</id>
-        <link href="https://alook.so/posts/a0tMqO"/>
-        <updated>2021-12-19T04:19:25.131Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMqO">&lt;이렇게 된 이상 청와대로 간다&gt;와 팽길탄 </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[라면.... 좋아하시나요?]]></title>
         <id>https://alook.so/posts/q1t1Z9</id>
         <link href="https://alook.so/posts/q1t1Z9"/>
         <updated>2021-12-19T08:18:03.303Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1Z9">라면.... 좋아하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<이렇게 된 이상 청와대로 간다>와 팽길탄]]></title>
+        <id>https://alook.so/posts/a0tMqO</id>
+        <link href="https://alook.so/posts/a0tMqO"/>
+        <updated>2021-12-19T04:19:25.131Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMqO">&lt;이렇게 된 이상 청와대로 간다&gt;와 팽길탄 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[법이 뭔데, 나 대신 용서한다는 거야?]]></title>
@@ -48,6 +48,20 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXqy">대하드라마 태종 이방원을 보고 든 생각?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오랜만이에요 !!]]></title>
+        <id>https://alook.so/posts/92tWXr</id>
+        <link href="https://alook.so/posts/92tWXr"/>
+        <updated>2021-12-19T13:22:33.844Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWXr">오랜만이에요 !!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정적들에겐 Kill방원이었지만 그도 아버지였습니다.]]></title>
+        <id>https://alook.so/posts/BatZeb</id>
+        <link href="https://alook.so/posts/BatZeb"/>
+        <updated>2021-12-19T13:22:33.841Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZeb">정적들에겐 Kill방원이었지만 그도 아버지였습니다.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[투자는 더 나은 내일을 위해서]]></title>
         <id>https://alook.so/posts/Djt2PX</id>
         <link href="https://alook.so/posts/Djt2PX"/>
@@ -62,13 +76,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2r7">휴가를 대하는 얼룩커들의 자세</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오랜만이에요 !!]]></title>
-        <id>https://alook.so/posts/92tWXr</id>
-        <link href="https://alook.so/posts/92tWXr"/>
-        <updated>2021-12-19T13:22:33.844Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWXr">오랜만이에요 !!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[휴가를 대하는 에디터팀의 자세]]></title>
         <id>https://alook.so/posts/Vntk8R</id>
         <link href="https://alook.so/posts/Vntk8R"/>
@@ -81,13 +88,6 @@
         <link href="https://alook.so/posts/yEtr5E"/>
         <updated>2021-12-19T13:22:33.841Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtr5E">라면 참 맛있죠.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정적들에겐 Kill방원이었지만 그도 아버지였습니다.]]></title>
-        <id>https://alook.so/posts/BatZeb</id>
-        <link href="https://alook.so/posts/BatZeb"/>
-        <updated>2021-12-19T13:22:33.841Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZeb">정적들에겐 Kill방원이었지만 그도 아버지였습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[병사 휴대폰 지급이 불러일으킨 나비효과]]></title>
