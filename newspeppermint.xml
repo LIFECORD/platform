@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2021-12-19T20:17:08.738Z</updated>
+    <updated>2021-12-19T22:16:04.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[매년 안 맞아도 되는 독감 백신 만들 수 있을까?]]></title>
-        <id>https://newspeppermint.com/2021/12/19/npc_fluvaccine/</id>
-        <link href="https://newspeppermint.com/2021/12/19/npc_fluvaccine/"/>
-        <updated>2021-12-19T20:15:13.895Z</updated>
-        <content type="html"><![CDATA[2021년 12월 20일]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[뉴욕타임스 올해의 인물 이름 맞히기 퀴즈]]></title>
         <id>https://newspeppermint.com/2021/12/17/nyt2021notablepeople/</id>
@@ -88,5 +81,12 @@
         <link href="https://newspeppermint.com/2021/10/13/uschildcare/"/>
         <updated>2021-12-15T22:41:59.332Z</updated>
         <content type="html"><![CDATA[2021년 10월 14일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후 변화가 글로벌 금융 위기를 불러올 것인가?]]></title>
+        <id>https://newspeppermint.com/2021/10/12/climatechangefinancialcrisis/</id>
+        <link href="https://newspeppermint.com/2021/10/12/climatechangefinancialcrisis/"/>
+        <updated>2021-12-19T22:14:11.519Z</updated>
+        <content type="html"><![CDATA[2021년 10월 13일]]></content>
     </entry>
 </feed>
