@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-19T22:16:04.666Z</updated>
+    <updated>2021-12-20T00:53:27.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자 반도체의 도약 멀지 않았다.]]></title>
+        <id>https://alook.so/posts/a0tMVO</id>
+        <link href="https://alook.so/posts/a0tMVO"/>
+        <updated>2021-12-20T00:51:55.145Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMVO">삼성전자 반도체의 도약 멀지 않았다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초등학교 공문을 통해 생각해보다.]]></title>
+        <id>https://alook.so/posts/Zkt04z</id>
+        <link href="https://alook.so/posts/Zkt04z"/>
+        <updated>2021-12-20T00:51:55.152Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt04z">초등학교 공문을 통해 생각해보다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고령사회, 주택, 연금]]></title>
+        <id>https://alook.so/posts/dztKO0</id>
+        <link href="https://alook.so/posts/dztKO0"/>
+        <updated>2021-12-20T00:51:55.152Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKO0">고령사회, 주택, 연금</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘  꽂힌거는  재테크]]></title>
         <id>https://alook.so/posts/J5tY7m</id>
@@ -39,26 +60,5 @@
         <link href="https://alook.so/posts/2xtBzb"/>
         <updated>2021-12-19T16:22:13.600Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBzb">3차접종 완료하여도, 오미크론 감염</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나와 함께살아가려면 좋은폰부터 준비해야죠]]></title>
-        <id>https://alook.so/posts/WLtelx</id>
-        <link href="https://alook.so/posts/WLtelx"/>
-        <updated>2021-12-19T16:22:13.601Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtelx">코로나와 함께살아가려면 좋은폰부터 준비해야죠</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그럴리가요]]></title>
-        <id>https://alook.so/posts/0ktrXL</id>
-        <link href="https://alook.so/posts/0ktrXL"/>
-        <updated>2021-12-19T14:13:47.870Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktrXL">그럴리가요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소의 "픽"은 "보상(報償)"일까요? "보상(補償)"일까요?]]></title>
-        <id>https://alook.so/posts/M9t2W7</id>
-        <link href="https://alook.so/posts/M9t2W7"/>
-        <updated>2021-12-19T14:13:47.872Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2W7">얼룩소의 "픽"은 "보상(報償)"일까요? "보상(補償)"일까요?</a>]]></content>
     </entry>
 </feed>
