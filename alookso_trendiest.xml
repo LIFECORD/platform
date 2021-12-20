@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-20T00:53:27.783Z</updated>
+    <updated>2021-12-20T02:05:36.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[초등학교 공문을 통해 생각해보다.]]></title>
+        <id>https://alook.so/posts/Zkt04z</id>
+        <link href="https://alook.so/posts/Zkt04z"/>
+        <updated>2021-12-20T02:04:13.709Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt04z">초등학교 공문을 통해 생각해보다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가시밭길 끝에는 선의가 있을까 - ‘스파이더맨 : 노 웨이 홈’ 후기]]></title>
         <id>https://alook.so/posts/pot9Gm</id>
@@ -25,13 +32,6 @@
         <link href="https://alook.so/posts/M9t2W7"/>
         <updated>2021-12-20T00:52:03.794Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2W7">얼룩소의 "픽"은 "보상(報償)"일까요? "보상(補償)"일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이직해야 할까요?]]></title>
-        <id>https://alook.so/posts/w9t6lb</id>
-        <link href="https://alook.so/posts/w9t6lb"/>
-        <updated>2021-12-20T00:52:03.796Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6lb">이직해야 할까요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국노]]></title>
@@ -81,5 +81,12 @@
         <link href="https://alook.so/posts/q1t1Z9"/>
         <updated>2021-12-19T08:18:03.303Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1Z9">라면.... 좋아하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투자는 더 나은 내일을 위해서]]></title>
+        <id>https://alook.so/posts/Djt2PX</id>
+        <link href="https://alook.so/posts/Djt2PX"/>
+        <updated>2021-12-20T02:04:13.722Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2PX">투자는 더 나은 내일을 위해서</a>]]></content>
     </entry>
 </feed>
