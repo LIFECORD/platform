@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-20T05:17:20.514Z</updated>
+    <updated>2021-12-20T06:20:21.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DAO 라고 들어보셨나요? - 탈중앙화 된 자율 조직 (Decentralized Autonomous Organization)]]></title>
+        <id>https://alook.so/posts/o7twP8</id>
+        <link href="https://alook.so/posts/o7twP8"/>
+        <updated>2021-12-20T06:18:49.102Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twP8">DAO 라고 들어보셨나요? - 탈중앙화 된 자율 조직 (Decentralized Autonomous Organization)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년을 2주 앞둔 개미N잡러의 관심사]]></title>
+        <id>https://alook.so/posts/70tMPR</id>
+        <link href="https://alook.so/posts/70tMPR"/>
+        <updated>2021-12-20T06:18:49.103Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMPR">2022년을 2주 앞둔 개미N잡러의 관심사 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간의 욕심은 끝도 없기에]]></title>
+        <id>https://alook.so/posts/rDtjed</id>
+        <link href="https://alook.so/posts/rDtjed"/>
+        <updated>2021-12-20T06:18:49.104Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjed">인간의 욕심은 끝도 없기에</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 삶의 대한 회의감]]></title>
+        <id>https://alook.so/posts/E7tz51</id>
+        <link href="https://alook.so/posts/E7tz51"/>
+        <updated>2021-12-20T06:18:49.105Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tz51">내 삶의 대한 회의감</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈벌이 어떻게 해야 많이 벌까??]]></title>
         <id>https://alook.so/posts/KmtM5Z</id>
         <link href="https://alook.so/posts/KmtM5Z"/>
         <updated>2021-12-20T05:15:51.244Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtM5Z">돈벌이 어떻게 해야 많이 벌까??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남자끼리 살거나 남녀가 살거나]]></title>
-        <id>https://alook.so/posts/Djt2yX</id>
-        <link href="https://alook.so/posts/Djt2yX"/>
-        <updated>2021-12-20T03:15:35.922Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2yX">남자끼리 살거나 남녀가 살거나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021 연말회고, #올해의 ___은?]]></title>
-        <id>https://alook.so/posts/1Rtamp</id>
-        <link href="https://alook.so/posts/1Rtamp"/>
-        <updated>2021-12-20T03:15:35.922Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtamp">2021 연말회고, #올해의 ___은? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난 일주일 동안 얼룩소 휴가를 보냈습니다.]]></title>
-        <id>https://alook.so/posts/70tMPp</id>
-        <link href="https://alook.so/posts/70tMPp"/>
-        <updated>2021-12-20T03:15:35.923Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMPp">지난 일주일 동안 얼룩소 휴가를 보냈습니다.</a>]]></content>
     </entry>
 </feed>
