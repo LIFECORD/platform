@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-20T02:05:36.225Z</updated>
+    <updated>2021-12-20T03:17:01.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[남자끼리 살거나 남녀가 살거나]]></title>
+        <id>https://alook.so/posts/Djt2yX</id>
+        <link href="https://alook.so/posts/Djt2yX"/>
+        <updated>2021-12-20T03:15:35.922Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2yX">남자끼리 살거나 남녀가 살거나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 연말회고, #올해의 ___은?]]></title>
+        <id>https://alook.so/posts/1Rtamp</id>
+        <link href="https://alook.so/posts/1Rtamp"/>
+        <updated>2021-12-20T03:15:35.922Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtamp">2021 연말회고, #올해의 ___은? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난 일주일 동안 얼룩소 휴가를 보냈습니다.]]></title>
+        <id>https://alook.so/posts/70tMPp</id>
+        <link href="https://alook.so/posts/70tMPp"/>
+        <updated>2021-12-20T03:15:35.923Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMPp">지난 일주일 동안 얼룩소 휴가를 보냈습니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 슈퍼히어로는 늘 서바이벌]]></title>
         <id>https://alook.so/posts/rDtjeG</id>
@@ -32,33 +53,5 @@
         <link href="https://alook.so/posts/a0tMVO"/>
         <updated>2021-12-20T00:51:55.145Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMVO">삼성전자 반도체의 도약 멀지 않았다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초등학교 공문을 통해 생각해보다.]]></title>
-        <id>https://alook.so/posts/Zkt04z</id>
-        <link href="https://alook.so/posts/Zkt04z"/>
-        <updated>2021-12-20T00:51:55.152Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt04z">초등학교 공문을 통해 생각해보다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고령사회, 주택, 연금]]></title>
-        <id>https://alook.so/posts/dztKO0</id>
-        <link href="https://alook.so/posts/dztKO0"/>
-        <updated>2021-12-20T00:51:55.152Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKO0">고령사회, 주택, 연금</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘  꽂힌거는  재테크]]></title>
-        <id>https://alook.so/posts/J5tY7m</id>
-        <link href="https://alook.so/posts/J5tY7m"/>
-        <updated>2021-12-19T19:13:01.019Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tY7m">요즘  꽂힌거는  재테크</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가시밭길 끝에는 선의가 있을까 - ‘스파이더맨 : 노 웨이 홈’ 후기]]></title>
-        <id>https://alook.so/posts/pot9Gm</id>
-        <link href="https://alook.so/posts/pot9Gm"/>
-        <updated>2021-12-19T17:21:33.451Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9Gm">가시밭길 끝에는 선의가 있을까 - ‘스파이더맨 : 노 웨이 홈’ 후기</a>]]></content>
     </entry>
 </feed>
