@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-21T15:18:31.513Z</updated>
+    <updated>2021-12-21T16:24:52.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[똑똑, 혹시 거기 제갈공명 선생님 계십니까?]]></title>
+        <id>https://alook.so/posts/eVtXBP</id>
+        <link href="https://alook.so/posts/eVtXBP"/>
+        <updated>2021-12-21T16:23:18.294Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXBP">똑똑, 혹시 거기 제갈공명 선생님 계십니까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이것은 어쩌면 고무적인 글쓰기 이다 : 픽-선정이. 12/13일까지인걸. 지금 알아버린 건에 대하여]]></title>
+        <id>https://alook.so/posts/VntkD7</id>
+        <link href="https://alook.so/posts/VntkD7"/>
+        <updated>2021-12-21T16:23:18.296Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntkD7">이것은 어쩌면 고무적인 글쓰기 이다 : 픽-선정이. 12/13일까지인걸. 지금 알아버린 건에 대하여</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나에게 대학 졸업장이란..]]></title>
         <id>https://alook.so/posts/2xtBkj</id>
@@ -39,26 +53,5 @@
         <link href="https://alook.so/posts/XBtWnE"/>
         <updated>2021-12-21T13:23:41.039Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWnE">전 제 직업을...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정말 감사합니다.]]></title>
-        <id>https://alook.so/posts/xltWqa</id>
-        <link href="https://alook.so/posts/xltWqa"/>
-        <updated>2021-12-21T13:23:41.040Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWqa">정말 감사합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메리 크리스마스요!~]]></title>
-        <id>https://alook.so/posts/RGtBOx</id>
-        <link href="https://alook.so/posts/RGtBOx"/>
-        <updated>2021-12-21T13:23:41.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBOx">메리 크리스마스요!~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종이책이 가진 특유의 매력은 절대 전자책이 대신할 수 없습니다.]]></title>
-        <id>https://alook.so/posts/kZtGkG</id>
-        <link href="https://alook.so/posts/kZtGkG"/>
-        <updated>2021-12-21T13:23:41.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGkG">종이책이 가진 특유의 매력은 절대 전자책이 대신할 수 없습니다.</a>]]></content>
     </entry>
 </feed>

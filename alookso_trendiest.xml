@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-21T15:18:31.518Z</updated>
+    <updated>2021-12-21T16:24:52.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이것은 어쩌면 고무적인 글쓰기 이다 : 픽-선정이. 12/13일까지인걸. 지금 알아버린 건에 대하여]]></title>
+        <id>https://alook.so/posts/VntkD7</id>
+        <link href="https://alook.so/posts/VntkD7"/>
+        <updated>2021-12-21T16:23:28.128Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntkD7">이것은 어쩌면 고무적인 글쓰기 이다 : 픽-선정이. 12/13일까지인걸. 지금 알아버린 건에 대하여</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민연금 소멸..]]></title>
+        <id>https://alook.so/posts/WLteVv</id>
+        <link href="https://alook.so/posts/WLteVv"/>
+        <updated>2021-12-21T16:23:28.129Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLteVv">국민연금 소멸..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[종이책이 가진 특유의 매력은 절대 전자책이 대신할 수 없습니다.]]></title>
         <id>https://alook.so/posts/kZtGkG</id>
@@ -67,12 +81,5 @@
         <link href="https://alook.so/posts/bWtL46"/>
         <updated>2021-12-21T09:16:50.865Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtL46">[시 일기]_ 우당탕탕</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칠레 대선에서 좌파 보리치의 역사적인 승리]]></title>
-        <id>https://alook.so/posts/a0tMLJ</id>
-        <link href="https://alook.so/posts/a0tMLJ"/>
-        <updated>2021-12-21T03:16:37.975Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tMLJ">칠레 대선에서 좌파 보리치의 역사적인 승리  </a>]]></content>
     </entry>
 </feed>
