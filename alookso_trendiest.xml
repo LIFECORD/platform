@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-21T16:24:52.735Z</updated>
+    <updated>2021-12-21T17:26:13.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://alook.so/posts/WLteVv"/>
         <updated>2021-12-21T16:23:28.129Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLteVv">국민연금 소멸..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메리 크리스마스요!~]]></title>
+        <id>https://alook.so/posts/RGtBOx</id>
+        <link href="https://alook.so/posts/RGtBOx"/>
+        <updated>2021-12-21T17:24:56.027Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBOx">메리 크리스마스요!~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[종이책이 가진 특유의 매력은 절대 전자책이 대신할 수 없습니다.]]></title>
@@ -74,12 +81,5 @@
         <link href="https://alook.so/posts/o7twX8"/>
         <updated>2021-12-21T09:16:50.863Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twX8">무서운 속담! 세살 버릇 여든간다...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시 일기]_ 우당탕탕]]></title>
-        <id>https://alook.so/posts/bWtL46</id>
-        <link href="https://alook.so/posts/bWtL46"/>
-        <updated>2021-12-21T09:16:50.865Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtL46">[시 일기]_ 우당탕탕</a>]]></content>
     </entry>
 </feed>
