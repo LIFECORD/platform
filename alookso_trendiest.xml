@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-21T05:16:42.574Z</updated>
+    <updated>2021-12-21T07:18:02.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alook.so/posts/Pvt5jY"/>
         <updated>2021-12-21T02:05:50.178Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5jY">얼룩소가 그리워..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[늦은 아침 생각] 인생의 터닝 포인트]]></title>
+        <id>https://alook.so/posts/pot90r</id>
+        <link href="https://alook.so/posts/pot90r"/>
+        <updated>2021-12-21T04:19:52.566Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot90r">[늦은 아침 생각] 인생의 터닝 포인트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재미로 보는 [태종 이방원] 그리고 [선거]]]></title>
@@ -25,13 +32,6 @@
         <link href="https://alook.so/posts/2xtBnj"/>
         <updated>2021-12-21T02:05:50.182Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBnj">방역수칙 잘 지키시나요. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 인생의 터닝 포인트]]></title>
-        <id>https://alook.so/posts/pot90r</id>
-        <link href="https://alook.so/posts/pot90r"/>
-        <updated>2021-12-21T04:19:52.566Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot90r">[늦은 아침 생각] 인생의 터닝 포인트</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[초등학교 공문을 통해 생각해보다.]]></title>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtamp">2021 연말회고, #올해의 ___은? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가시밭길 끝에는 선의가 있을까 - ‘스파이더맨 : 노 웨이 홈’ 후기]]></title>
-        <id>https://alook.so/posts/pot9Gm</id>
-        <link href="https://alook.so/posts/pot9Gm"/>
-        <updated>2021-12-21T05:15:22.502Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9Gm">가시밭길 끝에는 선의가 있을까 - ‘스파이더맨 : 노 웨이 홈’ 후기</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고령사회, 주택, 연금]]></title>
         <id>https://alook.so/posts/dztKO0</id>
         <link href="https://alook.so/posts/dztKO0"/>
         <updated>2021-12-21T05:15:22.503Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKO0">고령사회, 주택, 연금</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가시밭길 끝에는 선의가 있을까 - ‘스파이더맨 : 노 웨이 홈’ 후기]]></title>
+        <id>https://alook.so/posts/pot9Gm</id>
+        <link href="https://alook.so/posts/pot9Gm"/>
+        <updated>2021-12-21T05:15:22.502Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9Gm">가시밭길 끝에는 선의가 있을까 - ‘스파이더맨 : 노 웨이 홈’ 후기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디지털 약자]]></title>
