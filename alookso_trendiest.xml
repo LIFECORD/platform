@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-20T23:16:56.287Z</updated>
+    <updated>2021-12-21T02:07:09.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,11 +13,39 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWw7">재미로 보는 [태종 이방원] 그리고 [선거]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[얼룩소가 그리워..]]></title>
+        <id>https://alook.so/posts/Pvt5jY</id>
+        <link href="https://alook.so/posts/Pvt5jY"/>
+        <updated>2021-12-21T02:05:50.178Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5jY">얼룩소가 그리워..</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[초등학교 공문을 통해 생각해보다.]]></title>
         <id>https://alook.so/posts/Zkt04z</id>
         <link href="https://alook.so/posts/Zkt04z"/>
         <updated>2021-12-20T23:15:29.459Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt04z">초등학교 공문을 통해 생각해보다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DAO 라고 들어보셨나요? - 탈중앙화된 자율조직 (Decentralized Autonomous Organization)]]></title>
+        <id>https://alook.so/posts/o7twP8</id>
+        <link href="https://alook.so/posts/o7twP8"/>
+        <updated>2021-12-20T08:20:32.476Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twP8">DAO 라고 들어보셨나요? - 탈중앙화된 자율조직 (Decentralized Autonomous Organization)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방역수칙 잘 지키시나요.]]></title>
+        <id>https://alook.so/posts/2xtBnj</id>
+        <link href="https://alook.so/posts/2xtBnj"/>
+        <updated>2021-12-21T02:05:50.182Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBnj">방역수칙 잘 지키시나요. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 슈퍼히어로는 늘 서바이벌]]></title>
+        <id>https://alook.so/posts/rDtjeG</id>
+        <link href="https://alook.so/posts/rDtjeG"/>
+        <updated>2021-12-20T23:15:29.467Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjeG">답글: 슈퍼히어로는 늘 서바이벌</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소의 "픽"은 "보상(報償)"일까요? "보상(補償)"일까요?]]></title>
@@ -48,13 +76,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtamp">2021 연말회고, #올해의 ___은? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DAO 라고 들어보셨나요? - 탈중앙화된 자율조직 (Decentralized Autonomous Organization)]]></title>
-        <id>https://alook.so/posts/o7twP8</id>
-        <link href="https://alook.so/posts/o7twP8"/>
-        <updated>2021-12-20T08:20:32.476Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twP8">DAO 라고 들어보셨나요? - 탈중앙화된 자율조직 (Decentralized Autonomous Organization)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[만 원 없는 얼룩소란]]></title>
         <id>https://alook.so/posts/M9t26a</id>
         <link href="https://alook.so/posts/M9t26a"/>
@@ -62,18 +83,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t26a">만 원 없는 얼룩소란</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 슈퍼히어로는 늘 서바이벌]]></title>
-        <id>https://alook.so/posts/rDtjeG</id>
-        <link href="https://alook.so/posts/rDtjeG"/>
-        <updated>2021-12-20T23:15:29.467Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjeG">답글: 슈퍼히어로는 늘 서바이벌</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[권고 사직]]></title>
-        <id>https://alook.so/posts/latV6O</id>
-        <link href="https://alook.so/posts/latV6O"/>
-        <updated>2021-12-20T09:16:52.031Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latV6O">권고 사직</a>]]></content>
+        <title type="html"><![CDATA[고령사회, 주택, 연금]]></title>
+        <id>https://alook.so/posts/dztKO0</id>
+        <link href="https://alook.so/posts/dztKO0"/>
+        <updated>2021-12-21T02:05:50.188Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKO0">고령사회, 주택, 연금</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가시밭길 끝에는 선의가 있을까 - ‘스파이더맨 : 노 웨이 홈’ 후기]]></title>
@@ -83,24 +97,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9Gm">가시밭길 끝에는 선의가 있을까 - ‘스파이더맨 : 노 웨이 홈’ 후기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보상심리의 연속성에 대해서 : 만원이 주는 달콤함]]></title>
-        <id>https://alook.so/posts/mbtk04</id>
-        <link href="https://alook.so/posts/mbtk04"/>
-        <updated>2021-12-20T14:14:34.346Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtk04">보상심리의 연속성에 대해서 : 만원이 주는 달콤함</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 법도 타인의 것도 아닌 "용서", 그리고 "복수"]]></title>
-        <id>https://alook.so/posts/rDtjdG</id>
-        <link href="https://alook.so/posts/rDtjdG"/>
-        <updated>2021-12-20T23:15:29.471Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjdG">답글: 법도 타인의 것도 아닌 "용서", 그리고 "복수"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[디지털 약자]]></title>
         <id>https://alook.so/posts/XBtW9E</id>
         <link href="https://alook.so/posts/XBtW9E"/>
         <updated>2021-12-20T15:15:55.975Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtW9E">디지털 약자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권고 사직]]></title>
+        <id>https://alook.so/posts/latV6O</id>
+        <link href="https://alook.so/posts/latV6O"/>
+        <updated>2021-12-20T09:16:52.031Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latV6O">권고 사직</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[늦은 아침 생각] 인생의 터닝 포인트]]></title>
+        <id>https://alook.so/posts/pot90r</id>
+        <link href="https://alook.so/posts/pot90r"/>
+        <updated>2021-12-21T02:05:50.192Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot90r">[늦은 아침 생각] 인생의 터닝 포인트</a>]]></content>
     </entry>
 </feed>
