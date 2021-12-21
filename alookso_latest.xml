@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-21T03:17:52.864Z</updated>
+    <updated>2021-12-21T04:21:07.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -25,12 +25,5 @@
         <link href="https://alook.so/posts/pot90r"/>
         <updated>2021-12-21T02:05:42.472Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot90r">[늦은 아침 생각] 인생의 터닝 포인트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소가 그리워..]]></title>
-        <id>https://alook.so/posts/Pvt5jY</id>
-        <link href="https://alook.so/posts/Pvt5jY"/>
-        <updated>2021-12-21T02:05:42.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5jY">얼룩소가 그리워..</a>]]></content>
     </entry>
 </feed>
