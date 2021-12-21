@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-21T10:18:31.411Z</updated>
+    <updated>2021-12-21T13:25:08.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[종이책이 가진 특유의 매력은 절대 전자책이 대신할 수 없습니다.]]></title>
+        <id>https://alook.so/posts/kZtGkG</id>
+        <link href="https://alook.so/posts/kZtGkG"/>
+        <updated>2021-12-21T13:23:48.673Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGkG">종이책이 가진 특유의 매력은 절대 전자책이 대신할 수 없습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전자책은 종이책을 대체할 수 있을까?]]></title>
+        <id>https://alook.so/posts/BatZo7</id>
+        <link href="https://alook.so/posts/BatZo7"/>
+        <updated>2021-12-21T13:23:48.675Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZo7">전자책은 종이책을 대체할 수 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크리스마스의 멋진 추억들 다 있으시죠?]]></title>
+        <id>https://alook.so/posts/njt5xY</id>
+        <link href="https://alook.so/posts/njt5xY"/>
+        <updated>2021-12-21T13:23:48.676Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5xY">크리스마스의 멋진 추억들 다 있으시죠?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[작은 표현이 큰 감동이 됩니다.]]></title>
+        <id>https://alook.so/posts/8WtrBn</id>
+        <link href="https://alook.so/posts/8WtrBn"/>
+        <updated>2021-12-21T13:23:48.677Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrBn">작은 표현이 큰 감동이 됩니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글 많이 쓴다고 잘 쓰게 되진 않더군요.]]></title>
+        <id>https://alook.so/posts/latVWO</id>
+        <link href="https://alook.so/posts/latVWO"/>
+        <updated>2021-12-21T13:23:48.679Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVWO">글 많이 쓴다고 잘 쓰게 되진 않더군요.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈때문에 생기는 문제에 대한 고민]]></title>
         <id>https://alook.so/posts/KmtMVD</id>
@@ -46,26 +81,5 @@
         <link href="https://alook.so/posts/pot90r"/>
         <updated>2021-12-21T04:19:52.566Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot90r">[늦은 아침 생각] 인생의 터닝 포인트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소가 그리워..]]></title>
-        <id>https://alook.so/posts/Pvt5jY</id>
-        <link href="https://alook.so/posts/Pvt5jY"/>
-        <updated>2021-12-21T02:05:50.178Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5jY">얼룩소가 그리워..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방역수칙 잘 지키시나요.]]></title>
-        <id>https://alook.so/posts/2xtBnj</id>
-        <link href="https://alook.so/posts/2xtBnj"/>
-        <updated>2021-12-21T02:05:50.182Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBnj">방역수칙 잘 지키시나요. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만 원 없는 얼룩소란]]></title>
-        <id>https://alook.so/posts/M9t26a</id>
-        <link href="https://alook.so/posts/M9t26a"/>
-        <updated>2021-12-20T17:25:03.421Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t26a">만 원 없는 얼룩소란</a>]]></content>
     </entry>
 </feed>
