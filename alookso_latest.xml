@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-22T06:21:53.387Z</updated>
+    <updated>2021-12-22T07:17:05.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가족이 부담스러웠던적이 있어요.]]></title>
+        <id>https://alook.so/posts/rDtjK8</id>
+        <link href="https://alook.so/posts/rDtjK8"/>
+        <updated>2021-12-22T07:15:38.430Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjK8">가족이 부담스러웠던적이 있어요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일명 SKY대학 아니면 거기서 거기..]]></title>
+        <id>https://alook.so/posts/latV2O</id>
+        <link href="https://alook.so/posts/latV2O"/>
+        <updated>2021-12-22T07:15:38.431Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latV2O">일명 SKY대학 아니면 거기서 거기..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변하는 시대에 대학도 진화를 겪을 것이다.]]></title>
+        <id>https://alook.so/posts/KmtMpD</id>
+        <link href="https://alook.so/posts/KmtMpD"/>
+        <updated>2021-12-22T07:15:38.433Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMpD">변하는 시대에 대학도 진화를 겪을 것이다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네]]></title>
         <id>https://alook.so/posts/mbtkJ4</id>
@@ -32,26 +53,5 @@
         <link href="https://alook.so/posts/Djt2Ve"/>
         <updated>2021-12-22T04:20:59.602Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2Ve">사람들은 왜 자기이익을 우선할까요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투자를 시작하고 1년이 지난 지금.]]></title>
-        <id>https://alook.so/posts/YytbK7</id>
-        <link href="https://alook.so/posts/YytbK7"/>
-        <updated>2021-12-22T04:20:59.604Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytbK7">투자를 시작하고 1년이 지난 지금.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작은 실천의 어려움]]></title>
-        <id>https://alook.so/posts/rDtjBd</id>
-        <link href="https://alook.so/posts/rDtjBd"/>
-        <updated>2021-12-22T04:20:59.605Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjBd">작은 실천의 어려움</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰 [안식의 밤]에서 떠올린 안락사]]></title>
-        <id>https://alook.so/posts/jdtjRO</id>
-        <link href="https://alook.so/posts/jdtjRO"/>
-        <updated>2021-12-22T03:16:20.247Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjRO">웹툰 [안식의 밤]에서 떠올린 안락사</a>]]></content>
     </entry>
 </feed>
