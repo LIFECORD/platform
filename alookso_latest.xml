@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-22T07:17:05.318Z</updated>
+    <updated>2021-12-22T09:16:53.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아이의 재능과 미래]]></title>
+        <id>https://alook.so/posts/o7twKa</id>
+        <link href="https://alook.so/posts/o7twKa"/>
+        <updated>2021-12-22T09:15:33.302Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twKa">아이의 재능과 미래</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족이 부담스러웠던적이 있어요.]]></title>
         <id>https://alook.so/posts/rDtjK8</id>
@@ -32,26 +39,5 @@
         <link href="https://alook.so/posts/mbtkJ4"/>
         <updated>2021-12-22T06:20:14.621Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtkJ4">네</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제갈공명은 아니지만, 간옹 정도는 됩니다.]]></title>
-        <id>https://alook.so/posts/54td6o</id>
-        <link href="https://alook.so/posts/54td6o"/>
-        <updated>2021-12-22T06:20:14.622Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td6o">제갈공명은 아니지만, 간옹 정도는 됩니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나만의 시간은 분명히 필요합니다.]]></title>
-        <id>https://alook.so/posts/q1t1Vy</id>
-        <link href="https://alook.so/posts/q1t1Vy"/>
-        <updated>2021-12-22T05:15:56.308Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1Vy">나만의 시간은 분명히 필요합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람들은 왜 자기이익을 우선할까요]]></title>
-        <id>https://alook.so/posts/Djt2Ve</id>
-        <link href="https://alook.so/posts/Djt2Ve"/>
-        <updated>2021-12-22T04:20:59.602Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2Ve">사람들은 왜 자기이익을 우선할까요</a>]]></content>
     </entry>
 </feed>
