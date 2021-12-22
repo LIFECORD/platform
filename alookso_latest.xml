@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-22T02:06:37.998Z</updated>
+    <updated>2021-12-22T03:17:46.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[웹툰 [안식의 밤]에서 떠올린 안락사]]></title>
+        <id>https://alook.so/posts/jdtjRO</id>
+        <link href="https://alook.so/posts/jdtjRO"/>
+        <updated>2021-12-22T03:16:20.247Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjRO">웹툰 [안식의 밤]에서 떠올린 안락사</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나는 크리스마스의 추억따위 없지만]]></title>
         <id>https://alook.so/posts/J5tYz3</id>
