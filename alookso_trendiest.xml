@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-22T04:22:34.637Z</updated>
+    <updated>2021-12-22T05:17:23.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -67,26 +67,5 @@
         <link href="https://alook.so/posts/kZtGkG"/>
         <updated>2021-12-21T13:23:48.673Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGkG">종이책이 가진 특유의 매력은 절대 전자책이 대신할 수 없습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이것은 어쩌면 고무적인 글쓰기 이다 : 픽-선정이. 12/13일까지인걸. 지금 알아버린 건에 대하여]]></title>
-        <id>https://alook.so/posts/VntkD7</id>
-        <link href="https://alook.so/posts/VntkD7"/>
-        <updated>2021-12-21T16:23:28.128Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntkD7">이것은 어쩌면 고무적인 글쓰기 이다 : 픽-선정이. 12/13일까지인걸. 지금 알아버린 건에 대하여</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 인생의 터닝 포인트]]></title>
-        <id>https://alook.so/posts/pot90r</id>
-        <link href="https://alook.so/posts/pot90r"/>
-        <updated>2021-12-22T04:21:08.432Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot90r">[늦은 아침 생각] 인생의 터닝 포인트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰 [안식의 밤]에서 떠올린 안락사]]></title>
-        <id>https://alook.so/posts/jdtjRO</id>
-        <link href="https://alook.so/posts/jdtjRO"/>
-        <updated>2021-12-22T03:16:27.635Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjRO">웹툰 [안식의 밤]에서 떠올린 안락사</a>]]></content>
     </entry>
 </feed>
