@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-22T05:17:23.476Z</updated>
+    <updated>2021-12-22T06:21:53.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[네]]></title>
+        <id>https://alook.so/posts/mbtkJ4</id>
+        <link href="https://alook.so/posts/mbtkJ4"/>
+        <updated>2021-12-22T06:20:14.621Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtkJ4">네</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제갈공명은 아니지만, 간옹 정도는 됩니다.]]></title>
+        <id>https://alook.so/posts/54td6o</id>
+        <link href="https://alook.so/posts/54td6o"/>
+        <updated>2021-12-22T06:20:14.622Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td6o">제갈공명은 아니지만, 간옹 정도는 됩니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나만의 시간은 분명히 필요합니다.]]></title>
         <id>https://alook.so/posts/q1t1Vy</id>
