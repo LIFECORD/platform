@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-22T03:17:46.363Z</updated>
+    <updated>2021-12-22T04:22:34.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[사람들은 왜 자기이익을 우선할까요]]></title>
+        <id>https://alook.so/posts/Djt2Ve</id>
+        <link href="https://alook.so/posts/Djt2Ve"/>
+        <updated>2021-12-22T04:20:59.602Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2Ve">사람들은 왜 자기이익을 우선할까요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투자를 시작하고 1년이 지난 지금.]]></title>
+        <id>https://alook.so/posts/YytbK7</id>
+        <link href="https://alook.so/posts/YytbK7"/>
+        <updated>2021-12-22T04:20:59.604Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytbK7">투자를 시작하고 1년이 지난 지금.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[작은 실천의 어려움]]></title>
+        <id>https://alook.so/posts/rDtjBd</id>
+        <link href="https://alook.so/posts/rDtjBd"/>
+        <updated>2021-12-22T04:20:59.605Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjBd">작은 실천의 어려움</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웹툰 [안식의 밤]에서 떠올린 안락사]]></title>
         <id>https://alook.so/posts/jdtjRO</id>
         <link href="https://alook.so/posts/jdtjRO"/>
         <updated>2021-12-22T03:16:20.247Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjRO">웹툰 [안식의 밤]에서 떠올린 안락사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 크리스마스의 추억따위 없지만]]></title>
-        <id>https://alook.so/posts/J5tYz3</id>
-        <link href="https://alook.so/posts/J5tYz3"/>
-        <updated>2021-12-21T17:24:48.139Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tYz3">나는 크리스마스의 추억따위 없지만</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[똑똑, 혹시 거기 제갈공명 선생님 계십니까?]]></title>
-        <id>https://alook.so/posts/eVtXBP</id>
-        <link href="https://alook.so/posts/eVtXBP"/>
-        <updated>2021-12-21T16:23:18.294Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXBP">똑똑, 혹시 거기 제갈공명 선생님 계십니까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이것은 어쩌면 고무적인 글쓰기 이다 : 픽-선정이. 12/13일까지인걸. 지금 알아버린 건에 대하여]]></title>
-        <id>https://alook.so/posts/VntkD7</id>
-        <link href="https://alook.so/posts/VntkD7"/>
-        <updated>2021-12-21T16:23:18.296Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntkD7">이것은 어쩌면 고무적인 글쓰기 이다 : 픽-선정이. 12/13일까지인걸. 지금 알아버린 건에 대하여</a>]]></content>
     </entry>
 </feed>
