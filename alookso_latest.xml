@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-22T15:17:54.752Z</updated>
+    <updated>2021-12-22T16:25:04.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[초등학교 입학 , 무엇을 준비할까요??]]></title>
+        <id>https://alook.so/posts/OEtXx2</id>
+        <link href="https://alook.so/posts/OEtXx2"/>
+        <updated>2021-12-22T16:23:31.253Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXx2">초등학교 입학 , 무엇을 준비할까요??</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국의 몇몇 10대들이 불행하다고 생각하는 이유.]]></title>
         <id>https://alook.so/posts/vKtr3n</id>
