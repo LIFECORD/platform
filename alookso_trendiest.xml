@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-22T17:25:31.424Z</updated>
+    <updated>2021-12-22T18:19:36.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXBP">똑똑, 혹시 거기 제갈공명 선생님 계십니까?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아이의 재능과 미래]]></title>
+        <id>https://alook.so/posts/o7twKa</id>
+        <link href="https://alook.so/posts/o7twKa"/>
+        <updated>2021-12-22T11:14:45.157Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twKa">아이의 재능과 미래</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[제갈공명은 아니지만, 간옹 정도는 됩니다.]]></title>
         <id>https://alook.so/posts/54td6o</id>
         <link href="https://alook.so/posts/54td6o"/>
@@ -41,11 +48,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td6o">제갈공명은 아니지만, 간옹 정도는 됩니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이의 재능과 미래]]></title>
-        <id>https://alook.so/posts/o7twKa</id>
-        <link href="https://alook.so/posts/o7twKa"/>
-        <updated>2021-12-22T11:14:45.157Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twKa">아이의 재능과 미래</a>]]></content>
+        <title type="html"><![CDATA[한국의 몇몇 10대들이 불행하다고 생각하는 이유.]]></title>
+        <id>https://alook.so/posts/vKtr3n</id>
+        <link href="https://alook.so/posts/vKtr3n"/>
+        <updated>2021-12-22T18:18:18.304Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtr3n">한국의 몇몇 10대들이 불행하다고 생각하는 이유.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소가 그리워..]]></title>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/rDtjBd"/>
         <updated>2021-12-22T04:21:08.426Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjBd">작은 실천의 어려움</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[종이책이 가진 특유의 매력은 절대 전자책이 대신할 수 없습니다.]]></title>
-        <id>https://alook.so/posts/kZtGkG</id>
-        <link href="https://alook.so/posts/kZtGkG"/>
-        <updated>2021-12-22T16:23:40.820Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGkG">종이책이 가진 특유의 매력은 절대 전자책이 대신할 수 없습니다.</a>]]></content>
     </entry>
 </feed>
