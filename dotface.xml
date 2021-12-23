@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2021-12-23T07:17:23.131Z</updated>
+    <updated>2021-12-23T08:19:52.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://articles.dotface.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털 성폭력, 제대로 막아낼 대선 후보는 누구?]]></title>
+        <id>https://articles.dotface.kr/vaw2022-3</id>
+        <link href="https://articles.dotface.kr/vaw2022-3"/>
+        <updated>2021-12-23T08:17:55.800Z</updated>
+        <content type="html"><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [디지털 성폭력 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차별금지법, 한다는 거야 만다는 거야]]></title>
+        <id>https://articles.dotface.kr/equalityact2022-2</id>
+        <link href="https://articles.dotface.kr/equalityact2022-2"/>
+        <updated>2021-12-23T08:17:55.800Z</updated>
+        <content type="html"><![CDATA[2022 대선 캐비닛, 소수자와 차별금지법 [차별금지법 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모두를 위한 대통령? 그럼 소수자는요?]]></title>
+        <id>https://articles.dotface.kr/equalityact2022-1</id>
+        <link href="https://articles.dotface.kr/equalityact2022-1"/>
+        <updated>2021-12-23T08:17:55.800Z</updated>
+        <content type="html"><![CDATA[2022 대선 캐비닛, 소수자와 차별금지법 [혐오 발언 편]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청소년부터 워킹맘까지, 대선 공약 속의 여성]]></title>
         <id>https://articles.dotface.kr/vaw2022-5</id>
@@ -53,26 +74,5 @@
         <link href="https://articles.dotface.kr/climate2022-4"/>
         <updated>2021-12-15T22:41:54.500Z</updated>
         <content type="html"><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [평가 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주4일제가 기후 위기랑 관계가 있다고?]]></title>
-        <id>https://articles.dotface.kr/climate2022-3</id>
-        <link href="https://articles.dotface.kr/climate2022-3"/>
-        <updated>2021-12-15T22:41:54.500Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [숨은 약속 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령이 기후 위기를 해결할 수 있다고?]]></title>
-        <id>https://articles.dotface.kr/climate2022-2</id>
-        <link href="https://articles.dotface.kr/climate2022-2"/>
-        <updated>2021-12-15T22:41:54.501Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛 기후 위기 공약 [검증 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미래의 대통령, 기후 위기 '잘알'인가요?]]></title>
-        <id>https://articles.dotface.kr/climate2022-1</id>
-        <link href="https://articles.dotface.kr/climate2022-1"/>
-        <updated>2021-12-15T22:41:54.502Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [시작 편]]]></content>
     </entry>
 </feed>
