@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-23T05:16:54.822Z</updated>
+    <updated>2021-12-23T06:20:13.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[터키 리라화 폭락, 외국인은 부동산 줍줍 중.]]></title>
+        <id>https://alook.so/posts/zvtb9B</id>
+        <link href="https://alook.so/posts/zvtb9B"/>
+        <updated>2021-12-23T06:18:44.958Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtb9B">터키 리라화 폭락, 외국인은 부동산 줍줍 중.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[달콤한 강제 휴가]]></title>
+        <id>https://alook.so/posts/WLte8R</id>
+        <link href="https://alook.so/posts/WLte8R"/>
+        <updated>2021-12-23T06:18:44.959Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLte8R">달콤한 강제 휴가</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젠더갈등 문제점]]></title>
         <id>https://alook.so/posts/4Xtxa0</id>
@@ -25,47 +39,5 @@
         <link href="https://alook.so/posts/xltWK4"/>
         <updated>2021-12-23T03:15:53.612Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWK4">아이, 갖고 싶으신가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 최고의 경제 엘리트 관료들에게 일어난 일]]></title>
-        <id>https://alook.so/posts/RGtBwX</id>
-        <link href="https://alook.so/posts/RGtBwX"/>
-        <updated>2021-12-23T03:15:53.613Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBwX">미국 최고의 경제 엘리트 관료들에게 일어난 일</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄 걱정 안하고는 못산다고 생각합니다.]]></title>
-        <id>https://alook.so/posts/kZtGM2</id>
-        <link href="https://alook.so/posts/kZtGM2"/>
-        <updated>2021-12-23T03:15:53.614Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGM2">범죄 걱정 안하고는 못산다고 생각합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나는 결국 끝나게 되있다!]]></title>
-        <id>https://alook.so/posts/yEtrLe</id>
-        <link href="https://alook.so/posts/yEtrLe"/>
-        <updated>2021-12-23T03:15:53.615Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtrLe">코로나는 결국 끝나게 되있다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시작을 시작하려고 합니다.]]></title>
-        <id>https://alook.so/posts/BatZKz</id>
-        <link href="https://alook.so/posts/BatZKz"/>
-        <updated>2021-12-23T02:03:48.009Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZKz">시작을 시작하려고 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 가장 두려운 것을 응시할 용기]]></title>
-        <id>https://alook.so/posts/LKtvPq</id>
-        <link href="https://alook.so/posts/LKtvPq"/>
-        <updated>2021-12-23T02:03:48.011Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvPq">[늦은 아침 생각] 가장 두려운 것을 응시할 용기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국은 선진국 맞습니다]]></title>
-        <id>https://alook.so/posts/njt5P9</id>
-        <link href="https://alook.so/posts/njt5P9"/>
-        <updated>2021-12-23T00:49:47.823Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5P9">한국은 선진국 맞습니다</a>]]></content>
     </entry>
 </feed>
