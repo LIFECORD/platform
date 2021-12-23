@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-23T06:20:13.770Z</updated>
+    <updated>2021-12-23T07:17:23.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[디지털의 시대 #2] AI(Artificial Intelligence)가 무서워?]]></title>
+        <id>https://alook.so/posts/dztKkx</id>
+        <link href="https://alook.so/posts/dztKkx"/>
+        <updated>2021-12-23T07:15:53.530Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKkx">[디지털의 시대 #2] AI(Artificial Intelligence)가 무서워?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시험공부만 잘 하면 되니까...]]></title>
+        <id>https://alook.so/posts/eVtXl1</id>
+        <link href="https://alook.so/posts/eVtXl1"/>
+        <updated>2021-12-23T07:15:53.530Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXl1">시험공부만 잘 하면 되니까...</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[터키 리라화 폭락, 외국인은 부동산 줍줍 중.]]></title>
         <id>https://alook.so/posts/zvtb9B</id>
@@ -32,12 +46,5 @@
         <link href="https://alook.so/posts/XBtW2x"/>
         <updated>2021-12-23T04:20:11.853Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtW2x">박정희 입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이, 갖고 싶으신가요?]]></title>
-        <id>https://alook.so/posts/xltWK4</id>
-        <link href="https://alook.so/posts/xltWK4"/>
-        <updated>2021-12-23T03:15:53.612Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWK4">아이, 갖고 싶으신가요?</a>]]></content>
     </entry>
 </feed>
