@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-23T19:14:03.044Z</updated>
+    <updated>2021-12-23T20:17:40.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[저는 정말못된딸같아요??]]></title>
+        <id>https://alook.so/posts/kZtGK2</id>
+        <link href="https://alook.so/posts/kZtGK2"/>
+        <updated>2021-12-23T20:16:13.236Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGK2">저는 정말못된딸같아요??</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[셀프 답글: 보상(報償)이라는 동기부여]]></title>
         <id>https://alook.so/posts/LKtv9q</id>
