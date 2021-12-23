@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/bA6tp1</id>
     <title>alookso ─ 데이터카우</title>
-    <updated>2021-12-23T02:05:10.302Z</updated>
+    <updated>2021-12-23T03:17:18.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytG5G">🧐 외국인 250만 체류시대, 이웃은 어디에?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🧐 시각화 챌린지 : 1. 국가성평등지수]]></title>
+        <title type="html"><![CDATA[🧐 시각화 챌린지 : 국가성평등지수]]></title>
         <id>https://alook.so/posts/ZktWOM</id>
         <link href="https://alook.so/posts/ZktWOM"/>
         <updated>2021-12-15T23:04:42.138Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktWOM">🧐 시각화 챌린지 : 1. 국가성평등지수</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktWOM">🧐 시각화 챌린지 : 국가성평등지수</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🧐 페이커 보유국, 세계 게임 시장 속 한국의 위상은?]]></title>
