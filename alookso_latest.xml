@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-23T15:17:18.591Z</updated>
+    <updated>2021-12-23T16:25:31.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[셀프 답글: 보상(報償)이라는 동기부여]]></title>
+        <id>https://alook.so/posts/LKtv9q</id>
+        <link href="https://alook.so/posts/LKtv9q"/>
+        <updated>2021-12-23T16:23:58.596Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtv9q">셀프 답글: 보상(報償)이라는 동기부여</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평화는 힘에 바탕을 두어야 합니다.]]></title>
+        <id>https://alook.so/posts/njt5M9</id>
+        <link href="https://alook.so/posts/njt5M9"/>
+        <updated>2021-12-23T16:23:58.597Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5M9">평화는 힘에 바탕을 두어야 합니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소규모 쇼핑몰 웹디자이너 비추합니다.]]></title>
         <id>https://alook.so/posts/8Wtr0p</id>
@@ -39,26 +53,5 @@
         <link href="https://alook.so/posts/KmtMJe"/>
         <updated>2021-12-23T15:15:50.385Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMJe">[공부] 독일어 b1 자격증</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치킨좋아하세요?]]></title>
-        <id>https://alook.so/posts/mbtkrp</id>
-        <link href="https://alook.so/posts/mbtkrp"/>
-        <updated>2021-12-23T15:15:50.386Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtkrp">치킨좋아하세요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불행한 것 같으면서도 오히려 부럽던데요?]]></title>
-        <id>https://alook.so/posts/54tdy9</id>
-        <link href="https://alook.so/posts/54tdy9"/>
-        <updated>2021-12-23T15:15:50.389Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdy9">불행한 것 같으면서도 오히려 부럽던데요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의10대는 왜불행한가]]></title>
-        <id>https://alook.so/posts/q1t1wE</id>
-        <link href="https://alook.so/posts/q1t1wE"/>
-        <updated>2021-12-23T15:15:50.390Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1wE">한국의10대는 왜불행한가</a>]]></content>
     </entry>
 </feed>
