@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-22T23:16:48.265Z</updated>
+    <updated>2021-12-23T00:51:16.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국은 선진국 맞습니다]]></title>
+        <id>https://alook.so/posts/njt5P9</id>
+        <link href="https://alook.so/posts/njt5P9"/>
+        <updated>2021-12-23T00:49:47.823Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5P9">한국은 선진국 맞습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[k-pop 의 특징은 그 기세]]></title>
+        <id>https://alook.so/posts/6Mt5wM</id>
+        <link href="https://alook.so/posts/6Mt5wM"/>
+        <updated>2021-12-23T00:49:47.825Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt5wM">k-pop 의 특징은 그 기세</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나는 게으름뱅이. 다들 어떻게 실천하는 건가요?]]></title>
         <id>https://alook.so/posts/8WtrLp</id>
@@ -39,12 +53,5 @@
         <link href="https://alook.so/posts/92tWpW"/>
         <updated>2021-12-22T12:24:23.244Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWpW">크리스마스</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경제적 자유를 위해...]]></title>
-        <id>https://alook.so/posts/KmtMpe</id>
-        <link href="https://alook.so/posts/KmtMpe"/>
-        <updated>2021-12-22T12:24:23.246Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMpe">경제적 자유를 위해...</a>]]></content>
     </entry>
 </feed>
