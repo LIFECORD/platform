@@ -2,63 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-24T14:17:11.568Z</updated>
+    <updated>2021-12-24T16:23:53.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[내직업은 벨리댄스(오리엔탈무용)댄서이자 지도자입니다]]></title>
-        <id>https://alook.so/posts/mbtk5p</id>
-        <link href="https://alook.so/posts/mbtk5p"/>
-        <updated>2021-12-24T13:22:36.935Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtk5p">내직업은 벨리댄스(오리엔탈무용)댄서이자 지도자입니다</a>]]></content>
+        <title type="html"><![CDATA[방탄소년단, BTS 세상을 울린 사람들 " 나 자신을 사랑하라 "]]></title>
+        <id>https://alook.so/posts/KmtM8j</id>
+        <link href="https://alook.so/posts/KmtM8j"/>
+        <updated>2021-12-24T16:22:24.488Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtM8j">방탄소년단, BTS 세상을 울린 사람들 " 나 자신을 사랑하라 "</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 가입했습니다.]]></title>
-        <id>https://alook.so/posts/54td79</id>
-        <link href="https://alook.so/posts/54td79"/>
-        <updated>2021-12-24T13:22:36.938Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td79">오늘 가입했습니다.</a>]]></content>
+        <title type="html"><![CDATA[한국 언론, 이를 더 나은 방향으로 바꿀 수 있을까?]]></title>
+        <id>https://alook.so/posts/mbtk56</id>
+        <link href="https://alook.so/posts/mbtk56"/>
+        <updated>2021-12-24T16:22:24.489Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtk56">한국 언론, 이를 더 나은 방향으로 바꿀 수 있을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[교육에서 우린 평등,공평,정의 이 세가지를 이룰 수 있을까요?]]></title>
-        <id>https://alook.so/posts/q1t1yE</id>
-        <link href="https://alook.so/posts/q1t1yE"/>
-        <updated>2021-12-24T13:22:36.938Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1yE">교육에서 우린 평등,공평,정의 이 세가지를 이룰 수 있을까요?</a>]]></content>
+        <title type="html"><![CDATA[답글: 정치라는 트라우마]]></title>
+        <id>https://alook.so/posts/54td7j</id>
+        <link href="https://alook.so/posts/54td7j"/>
+        <updated>2021-12-24T16:22:24.490Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td7j">답글: 정치라는 트라우마</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[청소년은 왜 비싼옷을 좋아할까]]></title>
-        <id>https://alook.so/posts/Djt2pr</id>
-        <link href="https://alook.so/posts/Djt2pr"/>
-        <updated>2021-12-24T13:22:36.988Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2pr">청소년은 왜 비싼옷을 좋아할까</a>]]></content>
+        <title type="html"><![CDATA[따뜻한 연말을 위해: 요양원 방문 금지, 최선일까요?]]></title>
+        <id>https://alook.so/posts/q1t1y4</id>
+        <link href="https://alook.so/posts/q1t1y4"/>
+        <updated>2021-12-24T16:22:24.491Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1y4">따뜻한 연말을 위해: 요양원 방문 금지, 최선일까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[datalook] 역대 화이트 크리스마스는?]]></title>
-        <id>https://alook.so/posts/1RtaLX</id>
-        <link href="https://alook.so/posts/1RtaLX"/>
-        <updated>2021-12-24T10:17:12.692Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaLX">[datalook] 역대 화이트 크리스마스는?</a>]]></content>
+        <title type="html"><![CDATA[저의 대학 졸업장 어디에 있는지도 모릅니다.]]></title>
+        <id>https://alook.so/posts/Djt2pW</id>
+        <link href="https://alook.so/posts/Djt2pW"/>
+        <updated>2021-12-24T16:22:24.492Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2pW">저의 대학 졸업장 어디에 있는지도 모릅니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[같은 성별끼리 결혼해도 되나요?]]></title>
-        <id>https://alook.so/posts/o7twza</id>
-        <link href="https://alook.so/posts/o7twza"/>
-        <updated>2021-12-24T10:17:12.694Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twza">같은 성별끼리 결혼해도 되나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공부, 얼만큼 중요할까?]]></title>
-        <id>https://alook.so/posts/70tMaG</id>
-        <link href="https://alook.so/posts/70tMaG"/>
-        <updated>2021-12-24T10:17:12.695Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMaG">공부, 얼만큼 중요할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전세형 공공 임대 주택 신청]]></title>
-        <id>https://alook.so/posts/Yytb2k</id>
-        <link href="https://alook.so/posts/Yytb2k"/>
-        <updated>2021-12-24T10:17:12.696Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytb2k">전세형 공공 임대 주택 신청</a>]]></content>
+        <title type="html"><![CDATA[얼룩소라는 놀이터]]></title>
+        <id>https://alook.so/posts/Yytb2y</id>
+        <link href="https://alook.so/posts/Yytb2y"/>
+        <updated>2021-12-24T16:22:24.493Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytb2y">얼룩소라는 놀이터</a>]]></content>
     </entry>
 </feed>
