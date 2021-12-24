@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-24T08:20:27.476Z</updated>
+    <updated>2021-12-24T09:17:07.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[복된 성탄! 가난한 자들의 행복 선언]]></title>
+        <id>https://alook.so/posts/bWtLbO</id>
+        <link href="https://alook.so/posts/bWtLbO"/>
+        <updated>2021-12-24T09:15:42.328Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLbO">복된 성탄! 가난한 자들의 행복 선언</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국은선진국]]></title>
         <id>https://alook.so/posts/Zkt0Ra</id>
