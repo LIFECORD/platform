@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-24T07:16:25.185Z</updated>
+    <updated>2021-12-24T08:20:27.482Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[산타클로스! 우리집에는 언제 오세요?]]></title>
+        <id>https://alook.so/posts/pot9D4</id>
+        <link href="https://alook.so/posts/pot9D4"/>
+        <updated>2021-12-24T08:19:12.073Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9D4">산타클로스! 우리집에는 언제 오세요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년(2022년) 재정 목표 설정에 꽂혔어요.]]></title>
+        <id>https://alook.so/posts/Vntk2D</id>
+        <link href="https://alook.so/posts/Vntk2D"/>
+        <updated>2021-12-24T08:19:12.074Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntk2D">내년(2022년) 재정 목표 설정에 꽂혔어요. </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 저기, 질문이 있는데요]]></title>
         <id>https://alook.so/posts/zvtb7B</id>
@@ -88,19 +102,5 @@
         <link href="https://alook.so/posts/mbtkrp"/>
         <updated>2021-12-23T15:15:58.943Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtkrp">치킨좋아하세요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불행한 것 같으면서도 오히려 부럽던데요?]]></title>
-        <id>https://alook.so/posts/54tdy9</id>
-        <link href="https://alook.so/posts/54tdy9"/>
-        <updated>2021-12-24T02:02:35.729Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdy9">불행한 것 같으면서도 오히려 부럽던데요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고민은 꼬리에 꼬리를 물고 계속 늘어나는게 고민이지 않을까?]]></title>
-        <id>https://alook.so/posts/Yytbok</id>
-        <link href="https://alook.so/posts/Yytbok"/>
-        <updated>2021-12-24T04:19:40.064Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytbok">고민은 꼬리에 꼬리를 물고 계속 늘어나는게 고민이지 않을까?</a>]]></content>
     </entry>
 </feed>
