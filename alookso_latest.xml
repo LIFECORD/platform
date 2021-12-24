@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-24T13:24:03.571Z</updated>
+    <updated>2021-12-24T14:17:11.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -60,19 +60,5 @@
         <link href="https://alook.so/posts/Yytb2k"/>
         <updated>2021-12-24T10:17:12.696Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytb2k">전세형 공공 임대 주택 신청</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[각박한 세상임에도 내가 아이를 낳고 싶은 이유?]]></title>
-        <id>https://alook.so/posts/rDtjZ8</id>
-        <link href="https://alook.so/posts/rDtjZ8"/>
-        <updated>2021-12-24T10:17:12.698Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjZ8">각박한 세상임에도 내가 아이를 낳고 싶은 이유?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공교육의 퀄리티에 따라 달라지지 않을런지요?]]></title>
-        <id>https://alook.so/posts/jdtj85</id>
-        <link href="https://alook.so/posts/jdtj85"/>
-        <updated>2021-12-24T10:17:12.699Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtj85">공교육의 퀄리티에 따라 달라지지 않을런지요?</a>]]></content>
     </entry>
 </feed>
