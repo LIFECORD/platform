@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2021-12-24T02:03:52.531Z</updated>
+    <updated>2021-12-24T04:20:55.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA['투데이' 운영을 재개합니다]]></title>
+        <id>https://alook.so/posts/M9t2YD</id>
+        <link href="https://alook.so/posts/M9t2YD"/>
+        <updated>2021-12-24T04:19:47.661Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2YD">'투데이' 운영을 재개합니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 alookso, 1월에 돌아옵니다.]]></title>
         <id>https://alook.so/posts/VntkpL</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/6MtJ6d"/>
         <updated>2021-12-15T23:03:23.749Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtJ6d">기본소득 게임(3): 받고 싶은 돈과 낼 수 있는 돈의 간극</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기본소득 게임(2): 187조원을 찾아서]]></title>
-        <id>https://alook.so/posts/G1t0ov</id>
-        <link href="https://alook.so/posts/G1t0ov"/>
-        <updated>2021-12-15T23:03:23.751Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t0ov">기본소득 게임(2): 187조원을 찾아서</a>]]></content>
     </entry>
 </feed>

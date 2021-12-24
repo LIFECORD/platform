@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-24T02:03:52.531Z</updated>
+    <updated>2021-12-24T04:20:55.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[내 삶에서 "나"라는 인간이 주인이 되어 살아보고 싶습니다.]]></title>
+        <id>https://alook.so/posts/0ktr5k</id>
+        <link href="https://alook.so/posts/0ktr5k"/>
+        <updated>2021-12-24T04:19:32.535Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktr5k">내 삶에서 "나"라는 인간이 주인이 되어 살아보고 싶습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['투데이' 운영을 재개합니다]]></title>
+        <id>https://alook.so/posts/M9t2YD</id>
+        <link href="https://alook.so/posts/M9t2YD"/>
+        <updated>2021-12-24T04:19:32.535Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2YD">'투데이' 운영을 재개합니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-POP은 '청춘을 갈아넣어 뿌린 청년들의 가니쉬' 일까]]></title>
         <id>https://alook.so/posts/4XtxP0</id>
@@ -46,19 +60,5 @@
         <link href="https://alook.so/posts/kZtGK2"/>
         <updated>2021-12-23T20:16:13.236Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGK2">저는 정말못된딸같아요??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셀프 답글: 보상(報償)이라는 동기부여]]></title>
-        <id>https://alook.so/posts/LKtv9q</id>
-        <link href="https://alook.so/posts/LKtv9q"/>
-        <updated>2021-12-23T16:23:58.596Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtv9q">셀프 답글: 보상(報償)이라는 동기부여</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평화는 힘에 바탕을 두어야 합니다.]]></title>
-        <id>https://alook.so/posts/njt5M9</id>
-        <link href="https://alook.so/posts/njt5M9"/>
-        <updated>2021-12-23T16:23:58.597Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5M9">평화는 힘에 바탕을 두어야 합니다.</a>]]></content>
     </entry>
 </feed>
