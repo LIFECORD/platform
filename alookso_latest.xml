@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-24T21:14:30.823Z</updated>
+    <updated>2021-12-24T23:16:53.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -53,12 +53,5 @@
         <link href="https://alook.so/posts/54td7j"/>
         <updated>2021-12-24T16:22:24.490Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td7j">답글: 정치라는 트라우마</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따뜻한 연말을 위해: 요양원 방문 금지, 최선일까요?]]></title>
-        <id>https://alook.so/posts/q1t1y4</id>
-        <link href="https://alook.so/posts/q1t1y4"/>
-        <updated>2021-12-24T16:22:24.491Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1y4">따뜻한 연말을 위해: 요양원 방문 금지, 최선일까요?</a>]]></content>
     </entry>
 </feed>

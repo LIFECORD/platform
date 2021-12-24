@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-24T21:14:30.819Z</updated>
+    <updated>2021-12-24T23:16:53.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정치합시다2 [호남]편 시청 소감]]></title>
+        <id>https://alook.so/posts/G1tlbL</id>
+        <link href="https://alook.so/posts/G1tlbL"/>
+        <updated>2021-12-24T23:15:36.477Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlbL">정치합시다2 [호남]편 시청 소감</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 정치라는 트라우마]]></title>
         <id>https://alook.so/posts/54td7j</id>
@@ -81,26 +88,5 @@
         <link href="https://alook.so/posts/pot9D4"/>
         <updated>2021-12-24T08:19:12.073Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9D4">산타클로스! 우리집에는 언제 오세요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제임스 웹이 간다는 그 먼 우주]]></title>
-        <id>https://alook.so/posts/eVtX11</id>
-        <link href="https://alook.so/posts/eVtX11"/>
-        <updated>2021-12-24T20:16:16.274Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtX11">제임스 웹이 간다는 그 먼 우주</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년(2022년) 재정 목표 설정에 꽂혔어요.]]></title>
-        <id>https://alook.so/posts/Vntk2D</id>
-        <link href="https://alook.so/posts/Vntk2D"/>
-        <updated>2021-12-24T08:19:12.074Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntk2D">내년(2022년) 재정 목표 설정에 꽂혔어요. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 저기, 질문이 있는데요]]></title>
-        <id>https://alook.so/posts/zvtb7B</id>
-        <link href="https://alook.so/posts/zvtb7B"/>
-        <updated>2021-12-24T06:19:07.976Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtb7B">답글: 저기, 질문이 있는데요</a>]]></content>
     </entry>
 </feed>
