@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-23T21:16:33.806Z</updated>
+    <updated>2021-12-24T00:50:04.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[8년 넘어 가석방되는 이석기 전 의원과 ‘종북몰이’ 체제]]></title>
+        <id>https://alook.so/posts/XBtWOx</id>
+        <link href="https://alook.so/posts/XBtWOx"/>
+        <updated>2021-12-24T00:48:34.466Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWOx">8년 넘어 가석방되는 이석기 전 의원과 ‘종북몰이’ 체제 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간관계는 너무 어렵습니다]]></title>
+        <id>https://alook.so/posts/w9t6Z2</id>
+        <link href="https://alook.so/posts/w9t6Z2"/>
+        <updated>2021-12-24T00:48:34.468Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6Z2">인간관계는 너무 어렵습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지방대 대학생의 고민]]></title>
+        <id>https://alook.so/posts/xltWY4</id>
+        <link href="https://alook.so/posts/xltWY4"/>
+        <updated>2021-12-24T00:48:34.469Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWY4">지방대 대학생의 고민</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소소한 애도]]></title>
+        <id>https://alook.so/posts/RGtB8X</id>
+        <link href="https://alook.so/posts/RGtB8X"/>
+        <updated>2021-12-24T00:48:34.470Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtB8X">소소한 애도 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저는 정말못된딸같아요??]]></title>
         <id>https://alook.so/posts/kZtGK2</id>
@@ -25,33 +53,5 @@
         <link href="https://alook.so/posts/njt5M9"/>
         <updated>2021-12-23T16:23:58.597Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5M9">평화는 힘에 바탕을 두어야 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소규모 쇼핑몰 웹디자이너 비추합니다.]]></title>
-        <id>https://alook.so/posts/8Wtr0p</id>
-        <link href="https://alook.so/posts/8Wtr0p"/>
-        <updated>2021-12-23T15:15:50.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtr0p">소규모 쇼핑몰 웹디자이너 비추합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조물주보다 건물주]]></title>
-        <id>https://alook.so/posts/G1tl7D</id>
-        <link href="https://alook.so/posts/G1tl7D"/>
-        <updated>2021-12-23T15:15:50.382Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tl7D">조물주보다 건물주</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산은 끝났다.]]></title>
-        <id>https://alook.so/posts/OEtXk2</id>
-        <link href="https://alook.so/posts/OEtXk2"/>
-        <updated>2021-12-23T15:15:50.383Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXk2">부동산은 끝났다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인정할 수 밖에 없는 단 하나의 권위]]></title>
-        <id>https://alook.so/posts/vKtrZn</id>
-        <link href="https://alook.so/posts/vKtrZn"/>
-        <updated>2021-12-23T15:15:50.384Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrZn">인정할 수 밖에 없는 단 하나의 권위</a>]]></content>
     </entry>
 </feed>
