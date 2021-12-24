@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-24T18:19:18.732Z</updated>
+    <updated>2021-12-24T19:15:19.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정치합시다2 [호남]편 시청 소감]]></title>
+        <id>https://alook.so/posts/G1tlbL</id>
+        <link href="https://alook.so/posts/G1tlbL"/>
+        <updated>2021-12-24T19:13:46.297Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlbL">정치합시다2 [호남]편 시청 소감</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[흉악범은 사형을 해야할까?]]></title>
         <id>https://alook.so/posts/E7tzEK</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/q1t1y4"/>
         <updated>2021-12-24T16:22:24.491Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1y4">따뜻한 연말을 위해: 요양원 방문 금지, 최선일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저의 대학 졸업장 어디에 있는지도 모릅니다.]]></title>
-        <id>https://alook.so/posts/Djt2pW</id>
-        <link href="https://alook.so/posts/Djt2pW"/>
-        <updated>2021-12-24T16:22:24.492Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2pW">저의 대학 졸업장 어디에 있는지도 모릅니다.</a>]]></content>
     </entry>
 </feed>
