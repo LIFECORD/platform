@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-24T06:20:23.967Z</updated>
+    <updated>2021-12-24T07:16:25.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제임스 웹이 간다는 그 먼 우주]]></title>
+        <id>https://alook.so/posts/eVtX11</id>
+        <link href="https://alook.so/posts/eVtX11"/>
+        <updated>2021-12-24T07:14:55.136Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtX11">제임스 웹이 간다는 그 먼 우주</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[막을 수 있습니다. 하지만 불편함을 감당해야죠.]]></title>
         <id>https://alook.so/posts/Pvt5d3</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/XBtWOx"/>
         <updated>2021-12-24T00:48:34.466Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtWOx">8년 넘어 가석방되는 이석기 전 의원과 ‘종북몰이’ 체제 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간관계는 너무 어렵습니다]]></title>
-        <id>https://alook.so/posts/w9t6Z2</id>
-        <link href="https://alook.so/posts/w9t6Z2"/>
-        <updated>2021-12-24T00:48:34.468Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6Z2">인간관계는 너무 어렵습니다</a>]]></content>
     </entry>
 </feed>
