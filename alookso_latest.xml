@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-24T11:15:26.692Z</updated>
+    <updated>2021-12-24T13:24:03.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[내직업은 벨리댄스(오리엔탈무용)댄서이자 지도자입니다]]></title>
+        <id>https://alook.so/posts/mbtk5p</id>
+        <link href="https://alook.so/posts/mbtk5p"/>
+        <updated>2021-12-24T13:22:36.935Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtk5p">내직업은 벨리댄스(오리엔탈무용)댄서이자 지도자입니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 가입했습니다.]]></title>
+        <id>https://alook.so/posts/54td79</id>
+        <link href="https://alook.so/posts/54td79"/>
+        <updated>2021-12-24T13:22:36.938Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td79">오늘 가입했습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교육에서 우린 평등,공평,정의 이 세가지를 이룰 수 있을까요?]]></title>
+        <id>https://alook.so/posts/q1t1yE</id>
+        <link href="https://alook.so/posts/q1t1yE"/>
+        <updated>2021-12-24T13:22:36.938Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1yE">교육에서 우린 평등,공평,정의 이 세가지를 이룰 수 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청소년은 왜 비싼옷을 좋아할까]]></title>
+        <id>https://alook.so/posts/Djt2pr</id>
+        <link href="https://alook.so/posts/Djt2pr"/>
+        <updated>2021-12-24T13:22:36.988Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2pr">청소년은 왜 비싼옷을 좋아할까</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[datalook] 역대 화이트 크리스마스는?]]></title>
         <id>https://alook.so/posts/1RtaLX</id>
@@ -46,26 +74,5 @@
         <link href="https://alook.so/posts/jdtj85"/>
         <updated>2021-12-24T10:17:12.699Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtj85">공교육의 퀄리티에 따라 달라지지 않을런지요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복된 성탄! 가난한 자들의 행복 선언]]></title>
-        <id>https://alook.so/posts/bWtLbO</id>
-        <link href="https://alook.so/posts/bWtLbO"/>
-        <updated>2021-12-24T09:15:42.328Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLbO">복된 성탄! 가난한 자들의 행복 선언</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국은선진국]]></title>
-        <id>https://alook.so/posts/Zkt0Ra</id>
-        <link href="https://alook.so/posts/Zkt0Ra"/>
-        <updated>2021-12-24T08:19:03.731Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0Ra">한국은선진국</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박근혜 석방]]></title>
-        <id>https://alook.so/posts/dztK3x</id>
-        <link href="https://alook.so/posts/dztK3x"/>
-        <updated>2021-12-24T08:19:03.732Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztK3x">박근혜 석방</a>]]></content>
     </entry>
 </feed>
