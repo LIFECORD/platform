@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-25T16:24:20.586Z</updated>
+    <updated>2021-12-25T17:23:04.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[프로젝트 이후 첫 근황 인사.]]></title>
+        <id>https://alook.so/posts/KmtM4j</id>
+        <link href="https://alook.so/posts/KmtM4j"/>
+        <updated>2021-12-25T17:21:40.872Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtM4j">프로젝트 이후 첫 근황 인사.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지우고 싶은 과거가 있나요?]]></title>
+        <id>https://alook.so/posts/mbtk26</id>
+        <link href="https://alook.so/posts/mbtk26"/>
+        <updated>2021-12-25T17:21:40.872Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtk26">지우고 싶은 과거가 있나요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무비 무브 #13] 돈 룩 업(Don't look up,2021); 희망이란, 절망을 마주 볼 담대한 용기]]></title>
         <id>https://alook.so/posts/54tdoj</id>
