@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-25T17:23:04.648Z</updated>
+    <updated>2021-12-25T18:19:21.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[영국살이_나를 놀라게 만든 것]]></title>
+        <id>https://alook.so/posts/vKtroM</id>
+        <link href="https://alook.so/posts/vKtroM"/>
+        <updated>2021-12-25T18:17:48.170Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtroM">영국살이_나를 놀라게 만든 것</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오히려 해고당하고 싶은 직장 이야기]]></title>
+        <id>https://alook.so/posts/latV0M</id>
+        <link href="https://alook.so/posts/latV0M"/>
+        <updated>2021-12-25T18:17:48.171Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latV0M">오히려 해고당하고 싶은 직장 이야기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 이후 첫 근황 인사.]]></title>
         <id>https://alook.so/posts/KmtM4j</id>
@@ -39,26 +53,5 @@
         <link href="https://alook.so/posts/1Rtawd"/>
         <updated>2021-12-25T15:16:31.263Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtawd">내직업 추천합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세입자로 사는 서러움이란?]]></title>
-        <id>https://alook.so/posts/o7twMD</id>
-        <link href="https://alook.so/posts/o7twMD"/>
-        <updated>2021-12-25T15:16:31.265Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twMD">세입자로 사는 서러움이란?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[훈남이시네요.]]></title>
-        <id>https://alook.so/posts/Yytbay</id>
-        <link href="https://alook.so/posts/Yytbay"/>
-        <updated>2021-12-25T14:13:59.251Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytbay">훈남이시네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸에 좋은 약이 입에 쓴 법입니다.]]></title>
-        <id>https://alook.so/posts/rDtja3</id>
-        <link href="https://alook.so/posts/rDtja3"/>
-        <updated>2021-12-25T14:13:59.253Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtja3">몸에 좋은 약이 입에 쓴 법입니다.</a>]]></content>
     </entry>
 </feed>
