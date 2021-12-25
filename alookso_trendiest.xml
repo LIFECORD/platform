@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-25T12:24:20.329Z</updated>
+    <updated>2021-12-25T14:15:27.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[크리스마스의 기억]]></title>
+        <id>https://alook.so/posts/Zkt0Gp</id>
+        <link href="https://alook.so/posts/Zkt0Gp"/>
+        <updated>2021-12-25T14:14:08.499Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0Gp">크리스마스의 기억</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[끊어낸 여섯 번째 손가락, 그리고 여전한 환상통.]]></title>
+        <id>https://alook.so/posts/dztKRG</id>
+        <link href="https://alook.so/posts/dztKRG"/>
+        <updated>2021-12-25T14:14:08.503Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKRG">끊어낸 여섯 번째 손가락, 그리고 여전한 환상통.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[요즘 군대] 또래상담병이 바라본 관심병사]]></title>
+        <id>https://alook.so/posts/Vntkqn</id>
+        <link href="https://alook.so/posts/Vntkqn"/>
+        <updated>2021-12-25T14:14:08.504Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntkqn">[요즘 군대] 또래상담병이 바라본 관심병사</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성동구로부터 상장을 받았습니다.]]></title>
         <id>https://alook.so/posts/xltWRe</id>
         <link href="https://alook.so/posts/xltWRe"/>
         <updated>2021-12-25T05:15:04.600Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWRe">성동구로부터 상장을 받았습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 정치세력이 나와야 한다고 생각합니다.]]></title>
-        <id>https://alook.so/posts/RGtBZZ</id>
-        <link href="https://alook.so/posts/RGtBZZ"/>
-        <updated>2021-12-25T05:15:04.602Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBZZ">새로운 정치세력이 나와야 한다고 생각합니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인간의 부정적인 측면, 그리고 정의(正義)]]></title>
@@ -62,38 +76,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVBM">한국 십대의 그림자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국 언론, 이를 더 나은 방향으로 바꿀 수 있을까?]]></title>
-        <id>https://alook.so/posts/mbtk56</id>
-        <link href="https://alook.so/posts/mbtk56"/>
-        <updated>2021-12-25T09:15:10.282Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtk56">한국 언론, 이를 더 나은 방향으로 바꿀 수 있을까?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[답글: 정치라는 트라우마]]></title>
         <id>https://alook.so/posts/54td7j</id>
         <link href="https://alook.so/posts/54td7j"/>
         <updated>2021-12-24T18:17:57.057Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td7j">답글: 정치라는 트라우마</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따뜻한 연말을 위해: 요양원 방문 금지, 최선일까요?]]></title>
-        <id>https://alook.so/posts/q1t1y4</id>
-        <link href="https://alook.so/posts/q1t1y4"/>
-        <updated>2021-12-25T03:16:03.029Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1y4">따뜻한 연말을 위해: 요양원 방문 금지, 최선일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저의 대학 졸업장 어디에 있는지도 모릅니다.]]></title>
-        <id>https://alook.so/posts/Djt2pW</id>
-        <link href="https://alook.so/posts/Djt2pW"/>
-        <updated>2021-12-25T09:15:10.284Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2pW">저의 대학 졸업장 어디에 있는지도 모릅니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소라는 놀이터]]></title>
-        <id>https://alook.so/posts/Yytb2y</id>
-        <link href="https://alook.so/posts/Yytb2y"/>
-        <updated>2021-12-24T16:22:33.018Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytb2y">얼룩소라는 놀이터</a>]]></content>
     </entry>
 </feed>
