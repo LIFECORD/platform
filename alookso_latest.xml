@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-25T06:21:07.960Z</updated>
+    <updated>2021-12-25T08:20:32.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나한명쯤이야]]></title>
+        <id>https://alook.so/posts/M9t2Vb</id>
+        <link href="https://alook.so/posts/M9t2Vb"/>
+        <updated>2021-12-25T08:18:58.803Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2Vb">나한명쯤이야</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산타는 있다! or 없다!]]></title>
         <id>https://alook.so/posts/4XtxEw</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/LKtv3d"/>
         <updated>2021-12-25T03:15:54.670Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtv3d">[무비 무브 #12] 풍산개(2011); 둘로 나뉜 세상에서.. 경계에 서다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생각했던 것 만큼 화이트 크리스마스였던 적은 그리 많이 않네요.]]></title>
-        <id>https://alook.so/posts/njt5JZ</id>
-        <link href="https://alook.so/posts/njt5JZ"/>
-        <updated>2021-12-25T02:44:36.157Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5JZ">생각했던 것 만큼 화이트 크리스마스였던 적은 그리 많이 않네요.</a>]]></content>
     </entry>
 </feed>
