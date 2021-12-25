@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-25T14:15:27.162Z</updated>
+    <updated>2021-12-25T15:17:58.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국의 10대는 왜 불행한가요?]]></title>
+        <id>https://alook.so/posts/q1t1X4</id>
+        <link href="https://alook.so/posts/q1t1X4"/>
+        <updated>2021-12-25T15:16:31.262Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1X4">한국의 10대는 왜 불행한가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내직업 추천합니다.]]></title>
+        <id>https://alook.so/posts/1Rtawd</id>
+        <link href="https://alook.so/posts/1Rtawd"/>
+        <updated>2021-12-25T15:16:31.263Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtawd">내직업 추천합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세입자로 사는 서러움이란?]]></title>
+        <id>https://alook.so/posts/o7twMD</id>
+        <link href="https://alook.so/posts/o7twMD"/>
+        <updated>2021-12-25T15:16:31.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twMD">세입자로 사는 서러움이란?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[훈남이시네요.]]></title>
         <id>https://alook.so/posts/Yytbay</id>
@@ -18,19 +39,5 @@
         <link href="https://alook.so/posts/rDtja3"/>
         <updated>2021-12-25T14:13:59.253Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtja3">몸에 좋은 약이 입에 쓴 법입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스의 기억]]></title>
-        <id>https://alook.so/posts/Zkt0Gp</id>
-        <link href="https://alook.so/posts/Zkt0Gp"/>
-        <updated>2021-12-25T14:13:59.255Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0Gp">크리스마스의 기억</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끊어낸 여섯 번째 손가락, 그리고 여전한 환상통.]]></title>
-        <id>https://alook.so/posts/dztKRG</id>
-        <link href="https://alook.so/posts/dztKRG"/>
-        <updated>2021-12-25T14:13:59.256Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKRG">끊어낸 여섯 번째 손가락, 그리고 여전한 환상통.</a>]]></content>
     </entry>
 </feed>
