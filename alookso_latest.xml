@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-25T00:49:58.109Z</updated>
+    <updated>2021-12-25T02:46:10.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[정치합시다2 [호남]편 시청 소감]]></title>
+        <title type="html"><![CDATA[생각했던 것 만큼 화이트 크리스마스였던 적은 그리 많이 않네요.]]></title>
+        <id>https://alook.so/posts/njt5JZ</id>
+        <link href="https://alook.so/posts/njt5JZ"/>
+        <updated>2021-12-25T02:44:36.157Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5JZ">생각했던 것 만큼 화이트 크리스마스였던 적은 그리 많이 않네요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기억에남아뉴스]]></title>
+        <id>https://alook.so/posts/6Mt5l3</id>
+        <link href="https://alook.so/posts/6Mt5l3"/>
+        <updated>2021-12-25T02:44:36.159Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt5l3">기억에남아뉴스</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[정치합시다2-호남]편 시청 소감]]></title>
         <id>https://alook.so/posts/G1tlbL</id>
         <link href="https://alook.so/posts/G1tlbL"/>
         <updated>2021-12-24T19:13:46.297Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlbL">정치합시다2 [호남]편 시청 소감</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlbL">[정치합시다2-호남]편 시청 소감</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[흉악범은 사형을 해야할까?]]></title>
@@ -32,19 +46,5 @@
         <link href="https://alook.so/posts/92tWM8"/>
         <updated>2021-12-24T18:17:48.389Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWM8">북한과의 통일과 그 영향</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방탄소년단, BTS 세상을 울린 사람들 " 나 자신을 사랑하라 "]]></title>
-        <id>https://alook.so/posts/KmtM8j</id>
-        <link href="https://alook.so/posts/KmtM8j"/>
-        <updated>2021-12-24T16:22:24.488Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtM8j">방탄소년단, BTS 세상을 울린 사람들 " 나 자신을 사랑하라 "</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 언론, 이를 더 나은 방향으로 바꿀 수 있을까?]]></title>
-        <id>https://alook.so/posts/mbtk56</id>
-        <link href="https://alook.so/posts/mbtk56"/>
-        <updated>2021-12-24T16:22:24.489Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtk56">한국 언론, 이를 더 나은 방향으로 바꿀 수 있을까?</a>]]></content>
     </entry>
 </feed>
