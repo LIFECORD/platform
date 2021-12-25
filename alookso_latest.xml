@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-25T02:46:10.195Z</updated>
+    <updated>2021-12-25T03:17:22.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국민연금]]></title>
+        <id>https://alook.so/posts/kZtGJK</id>
+        <link href="https://alook.so/posts/kZtGJK"/>
+        <updated>2021-12-25T03:15:54.667Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGJK">국민연금</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시범적으로 한번 작성해봤습니다.]]></title>
+        <id>https://alook.so/posts/yEtrPL</id>
+        <link href="https://alook.so/posts/yEtrPL"/>
+        <updated>2021-12-25T03:15:54.668Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtrPL">시범적으로 한번 작성해봤습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간의 부정적인 측면, 그리고 정의(正義)]]></title>
+        <id>https://alook.so/posts/BatZ6o</id>
+        <link href="https://alook.so/posts/BatZ6o"/>
+        <updated>2021-12-25T03:15:54.668Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZ6o">인간의 부정적인 측면, 그리고 정의(正義)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무비 무브 #12] 풍산개(2011); 둘로 나뉜 세상에서.. 경계에 서다]]></title>
+        <id>https://alook.so/posts/LKtv3d</id>
+        <link href="https://alook.so/posts/LKtv3d"/>
+        <updated>2021-12-25T03:15:54.670Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtv3d">[무비 무브 #12] 풍산개(2011); 둘로 나뉜 세상에서.. 경계에 서다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생각했던 것 만큼 화이트 크리스마스였던 적은 그리 많이 않네요.]]></title>
         <id>https://alook.so/posts/njt5JZ</id>
@@ -25,26 +53,5 @@
         <link href="https://alook.so/posts/G1tlbL"/>
         <updated>2021-12-24T19:13:46.297Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlbL">[정치합시다2-호남]편 시청 소감</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흉악범은 사형을 해야할까?]]></title>
-        <id>https://alook.so/posts/E7tzEK</id>
-        <link href="https://alook.so/posts/E7tzEK"/>
-        <updated>2021-12-24T18:17:48.386Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tzEK">흉악범은 사형을 해야할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 십대의 그림자]]></title>
-        <id>https://alook.so/posts/latVBM</id>
-        <link href="https://alook.so/posts/latVBM"/>
-        <updated>2021-12-24T18:17:48.388Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVBM">한국 십대의 그림자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한과의 통일과 그 영향]]></title>
-        <id>https://alook.so/posts/92tWM8</id>
-        <link href="https://alook.so/posts/92tWM8"/>
-        <updated>2021-12-24T18:17:48.389Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tWM8">북한과의 통일과 그 영향</a>]]></content>
     </entry>
 </feed>
