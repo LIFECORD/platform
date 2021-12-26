@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-26T06:19:16.295Z</updated>
+    <updated>2021-12-26T07:16:24.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[개인적으로 사교육을 찬성하지 않아요.]]></title>
+        <id>https://alook.so/posts/potm2x</id>
+        <link href="https://alook.so/posts/potm2x"/>
+        <updated>2021-12-26T07:14:56.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potm2x">개인적으로 사교육을 찬성하지 않아요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다들 너무 보고싶어요 !!]]></title>
+        <id>https://alook.so/posts/eVtExK</id>
+        <link href="https://alook.so/posts/eVtExK"/>
+        <updated>2021-12-26T07:14:56.233Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtExK">다들 너무 보고싶어요 !!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어떻게 인생을 살아가야 하는가]]></title>
         <id>https://alook.so/posts/PvtpMx</id>
