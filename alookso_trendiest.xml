@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-25T23:16:15.891Z</updated>
+    <updated>2021-12-26T02:08:00.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[성동구로부터 상장을 받았습니다.]]></title>
-        <id>https://alook.so/posts/xltWRe</id>
-        <link href="https://alook.so/posts/xltWRe"/>
-        <updated>2021-12-25T05:15:04.600Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWRe">성동구로부터 상장을 받았습니다.</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 이후 첫 근황 인사.]]></title>
         <id>https://alook.so/posts/KmtM4j</id>
@@ -27,11 +20,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdoj">[무비 무브 #13] 돈 룩 업(Don't look up,2021); 희망이란, 절망을 마주 볼 담대한 용기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인간의 부정적인 측면, 그리고 정의(正義)]]></title>
-        <id>https://alook.so/posts/BatZ6o</id>
-        <link href="https://alook.so/posts/BatZ6o"/>
-        <updated>2021-12-25T03:16:03.024Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZ6o">인간의 부정적인 측면, 그리고 정의(正義)</a>]]></content>
+        <title type="html"><![CDATA[성동구로부터 상장을 받았습니다.]]></title>
+        <id>https://alook.so/posts/xltWRe</id>
+        <link href="https://alook.so/posts/xltWRe"/>
+        <updated>2021-12-25T05:15:04.600Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWRe">성동구로부터 상장을 받았습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[요즘 군대] 또래상담병이 바라본 관심병사]]></title>
@@ -41,13 +34,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntkqn">[요즘 군대] 또래상담병이 바라본 관심병사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소라는 놀이터]]></title>
-        <id>https://alook.so/posts/Yytb2y</id>
-        <link href="https://alook.so/posts/Yytb2y"/>
-        <updated>2021-12-25T20:16:05.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytb2y">얼룩소라는 놀이터</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[크리스마스의 기억]]></title>
         <id>https://alook.so/posts/Zkt0Gp</id>
         <link href="https://alook.so/posts/Zkt0Gp"/>
@@ -55,11 +41,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt0Gp">크리스마스의 기억</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[무비 무브 #12] 풍산개(2011); 둘로 나뉜 세상에서.. 경계에 서다]]></title>
-        <id>https://alook.so/posts/LKtv3d</id>
-        <link href="https://alook.so/posts/LKtv3d"/>
-        <updated>2021-12-25T05:15:04.604Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtv3d">[무비 무브 #12] 풍산개(2011); 둘로 나뉜 세상에서.. 경계에 서다</a>]]></content>
+        <title type="html"><![CDATA[인간의 부정적인 측면, 그리고 정의(正義)]]></title>
+        <id>https://alook.so/posts/BatZ6o</id>
+        <link href="https://alook.so/posts/BatZ6o"/>
+        <updated>2021-12-25T03:16:03.024Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZ6o">인간의 부정적인 측면, 그리고 정의(正義)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[끊어낸 여섯 번째 손가락, 그리고 여전한 환상통.]]></title>
+        <id>https://alook.so/posts/dztKRG</id>
+        <link href="https://alook.so/posts/dztKRG"/>
+        <updated>2021-12-25T14:14:08.503Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKRG">끊어낸 여섯 번째 손가락, 그리고 여전한 환상통.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소라는 놀이터]]></title>
+        <id>https://alook.so/posts/Yytb2y</id>
+        <link href="https://alook.so/posts/Yytb2y"/>
+        <updated>2021-12-25T20:16:05.662Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytb2y">얼룩소라는 놀이터</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다]]></title>
@@ -67,6 +67,13 @@
         <link href="https://alook.so/posts/M9t2YD"/>
         <updated>2021-12-25T20:16:05.667Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2YD">'투데이' 운영을 재개합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무비 무브 #12] 풍산개(2011); 둘로 나뉜 세상에서.. 경계에 서다]]></title>
+        <id>https://alook.so/posts/LKtv3d</id>
+        <link href="https://alook.so/posts/LKtv3d"/>
+        <updated>2021-12-25T05:15:04.604Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtv3d">[무비 무브 #12] 풍산개(2011); 둘로 나뉜 세상에서.. 경계에 서다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정치합시다2-호남]편 시청 소감]]></title>
@@ -83,11 +90,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaLX">[datalook] 역대 화이트 크리스마스는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[끊어낸 여섯 번째 손가락, 그리고 여전한 환상통.]]></title>
-        <id>https://alook.so/posts/dztKRG</id>
-        <link href="https://alook.so/posts/dztKRG"/>
-        <updated>2021-12-25T14:14:08.503Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKRG">끊어낸 여섯 번째 손가락, 그리고 여전한 환상통.</a>]]></content>
+        <title type="html"><![CDATA[답글:  오롯한 응원]]></title>
+        <id>https://alook.so/posts/LKtvDd</id>
+        <link href="https://alook.so/posts/LKtvDd"/>
+        <updated>2021-12-26T02:06:42.256Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvDd">답글:  오롯한 응원</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[훈남이시네요.]]></title>
@@ -95,12 +102,5 @@
         <link href="https://alook.so/posts/Yytbay"/>
         <updated>2021-12-25T16:23:01.024Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytbay">훈남이시네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산타는 있다! or 없다!]]></title>
-        <id>https://alook.so/posts/4XtxEw</id>
-        <link href="https://alook.so/posts/4XtxEw"/>
-        <updated>2021-12-25T17:21:48.224Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtxEw">산타는 있다! or 없다!</a>]]></content>
     </entry>
 </feed>

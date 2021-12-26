@@ -2,56 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-25T23:16:15.881Z</updated>
+    <updated>2021-12-26T02:08:00.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[긍정, 생각의 차이]]></title>
-        <id>https://alook.so/posts/G1tljL</id>
-        <link href="https://alook.so/posts/G1tljL"/>
-        <updated>2021-12-25T22:15:06.745Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tljL">긍정, 생각의 차이</a>]]></content>
+        <title type="html"><![CDATA[다시 일어 선다는 것]]></title>
+        <id>https://alook.so/posts/xltWee</id>
+        <link href="https://alook.so/posts/xltWee"/>
+        <updated>2021-12-26T02:06:33.932Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWee">다시 일어 선다는 것</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영국살이_나를 놀라게 만든 것]]></title>
-        <id>https://alook.so/posts/vKtroM</id>
-        <link href="https://alook.so/posts/vKtroM"/>
-        <updated>2021-12-25T18:17:48.170Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtroM">영국살이_나를 놀라게 만든 것</a>]]></content>
+        <title type="html"><![CDATA[우리나라 군대의 투명성을 위해]]></title>
+        <id>https://alook.so/posts/RGtBrZ</id>
+        <link href="https://alook.so/posts/RGtBrZ"/>
+        <updated>2021-12-26T02:06:33.932Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBrZ">우리나라 군대의 투명성을 위해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오히려 해고당하고 싶은 직장 이야기]]></title>
-        <id>https://alook.so/posts/latV0M</id>
-        <link href="https://alook.so/posts/latV0M"/>
-        <updated>2021-12-25T18:17:48.171Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latV0M">오히려 해고당하고 싶은 직장 이야기</a>]]></content>
+        <title type="html"><![CDATA[화이트 리스트(Whitelist)]]></title>
+        <id>https://alook.so/posts/kZtGZK</id>
+        <link href="https://alook.so/posts/kZtGZK"/>
+        <updated>2021-12-26T02:06:33.933Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGZK">화이트 리스트(Whitelist)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프로젝트 이후 첫 근황 인사.]]></title>
-        <id>https://alook.so/posts/KmtM4j</id>
-        <link href="https://alook.so/posts/KmtM4j"/>
-        <updated>2021-12-25T17:21:40.872Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtM4j">프로젝트 이후 첫 근황 인사.</a>]]></content>
+        <title type="html"><![CDATA[돈, 경제에 관심 생겼어요!]]></title>
+        <id>https://alook.so/posts/yEtrRL</id>
+        <link href="https://alook.so/posts/yEtrRL"/>
+        <updated>2021-12-26T02:06:33.934Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtrRL">돈, 경제에 관심 생겼어요!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지우고 싶은 과거가 있나요?]]></title>
-        <id>https://alook.so/posts/mbtk26</id>
-        <link href="https://alook.so/posts/mbtk26"/>
-        <updated>2021-12-25T17:21:40.872Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtk26">지우고 싶은 과거가 있나요?</a>]]></content>
+        <title type="html"><![CDATA[[늦은 아침 생각] 구부러진 길이 좋다]]></title>
+        <id>https://alook.so/posts/BatZyo</id>
+        <link href="https://alook.so/posts/BatZyo"/>
+        <updated>2021-12-26T02:06:33.935Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZyo">[늦은 아침 생각] 구부러진 길이 좋다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[무비 무브 #13] 돈 룩 업(Don't look up,2021); 희망이란, 절망을 마주 볼 담대한 용기]]></title>
-        <id>https://alook.so/posts/54tdoj</id>
-        <link href="https://alook.so/posts/54tdoj"/>
-        <updated>2021-12-25T16:22:52.285Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdoj">[무비 무브 #13] 돈 룩 업(Don't look up,2021); 희망이란, 절망을 마주 볼 담대한 용기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 10대는 왜 불행한가요?]]></title>
-        <id>https://alook.so/posts/q1t1X4</id>
-        <link href="https://alook.so/posts/q1t1X4"/>
-        <updated>2021-12-25T15:16:31.262Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1X4">한국의 10대는 왜 불행한가요?</a>]]></content>
+        <title type="html"><![CDATA[답글:  오롯한 응원]]></title>
+        <id>https://alook.so/posts/LKtvDd</id>
+        <link href="https://alook.so/posts/LKtvDd"/>
+        <updated>2021-12-26T02:06:33.936Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvDd">답글:  오롯한 응원</a>]]></content>
     </entry>
 </feed>
