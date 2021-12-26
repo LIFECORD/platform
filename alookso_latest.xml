@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-26T08:20:06.089Z</updated>
+    <updated>2021-12-26T09:16:44.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2030 세대가 노답인 이유]]></title>
+        <id>https://alook.so/posts/YytLly</id>
+        <link href="https://alook.so/posts/YytLly"/>
+        <updated>2021-12-26T09:15:15.810Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLly">2030 세대가 노답인 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도데체 법은 누구의 편인건가요?]]></title>
+        <id>https://alook.so/posts/rDt0J3</id>
+        <link href="https://alook.so/posts/rDt0J3"/>
+        <updated>2021-12-26T09:15:15.810Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0J3">도데체 법은 누구의 편인건가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 잘나가지 못하는데 주변의 친구들은 잘 나갈때.]]></title>
+        <id>https://alook.so/posts/jdtEKm</id>
+        <link href="https://alook.so/posts/jdtEKm"/>
+        <updated>2021-12-26T09:15:15.810Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEKm">나는 잘나가지 못하는데 주변의 친구들은 잘 나갈때.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[학생들이 돈을벌려고하는 이유]]></title>
         <id>https://alook.so/posts/bWtEDE</id>
@@ -53,26 +74,5 @@
         <link href="https://alook.so/posts/eVtExK"/>
         <updated>2021-12-26T07:14:56.233Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtExK">다들 너무 보고싶어요 !!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 인생을 살아가야 하는가]]></title>
-        <id>https://alook.so/posts/PvtpMx</id>
-        <link href="https://alook.so/posts/PvtpMx"/>
-        <updated>2021-12-26T06:17:54.025Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtpMx">어떻게 인생을 살아가야 하는가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["호랑이랑 사자랑 싸우면 누가 이길까?"]]></title>
-        <id>https://alook.so/posts/Vntayn</id>
-        <link href="https://alook.so/posts/Vntayn"/>
-        <updated>2021-12-26T06:17:54.026Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntayn">"호랑이랑 사자랑 싸우면 누가 이길까?"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년  어떠셨나요?]]></title>
-        <id>https://alook.so/posts/zvtqG6</id>
-        <link href="https://alook.so/posts/zvtqG6"/>
-        <updated>2021-12-26T05:16:13.882Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqG6">2021년  어떠셨나요? </a>]]></content>
     </entry>
 </feed>
