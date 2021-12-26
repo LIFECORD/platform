@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-26T13:23:31.756Z</updated>
+    <updated>2021-12-26T14:15:19.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[북한과 통일하는게 좋을까.. 이대로 나눠서 사는게 좋을까..]]></title>
+        <id>https://alook.so/posts/KmtWKp</id>
+        <link href="https://alook.so/posts/KmtWKp"/>
+        <updated>2021-12-26T14:13:57.289Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWKp">북한과 통일하는게 좋을까.. 이대로 나눠서 사는게 좋을까..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만약 박근혜 재판 증인들이 극단적 선택을 했다면?]]></title>
+        <id>https://alook.so/posts/54tEWY</id>
+        <link href="https://alook.so/posts/54tEWY"/>
+        <updated>2021-12-26T14:13:57.290Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEWY">만약 박근혜 재판 증인들이 극단적 선택을 했다면?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차선도 차악도 아닌, '최적'을 선택하는 일; 정치]]></title>
+        <id>https://alook.so/posts/Djt4EP</id>
+        <link href="https://alook.so/posts/Djt4EP"/>
+        <updated>2021-12-26T14:13:57.291Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4EP">차선도 차악도 아닌, '최적'을 선택하는 일; 정치</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정당하게 목표를 이룰 기회와 노력할 준비가 됐다면!]]></title>
+        <id>https://alook.so/posts/1Rtz2l</id>
+        <link href="https://alook.so/posts/1Rtz2l"/>
+        <updated>2021-12-26T14:13:57.292Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtz2l">정당하게 목표를 이룰 기회와 노력할 준비가 됐다면!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아버지.]]></title>
         <id>https://alook.so/posts/o7tEyd</id>
@@ -18,26 +46,5 @@
         <link href="https://alook.so/posts/YytLlv"/>
         <updated>2021-12-26T13:22:04.477Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLlv">오늘 하루 어땠나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주식 추천종목!!?? 무조건 수익이난다???]]></title>
-        <id>https://alook.so/posts/92tk18</id>
-        <link href="https://alook.so/posts/92tk18"/>
-        <updated>2021-12-26T13:22:04.478Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tk18">주식 추천종목!!?? 무조건 수익이난다???</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곧 다시 뵙겠습니다.]]></title>
-        <id>https://alook.so/posts/KmtWKj</id>
-        <link href="https://alook.so/posts/KmtWKj"/>
-        <updated>2021-12-26T13:22:04.479Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWKj">곧 다시 뵙겠습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[질문20] 공공영역 성과평가?]]></title>
-        <id>https://alook.so/posts/mbtj46</id>
-        <link href="https://alook.so/posts/mbtj46"/>
-        <updated>2021-12-26T13:22:04.480Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtj46">[질문20] 공공영역 성과평가?</a>]]></content>
     </entry>
 </feed>

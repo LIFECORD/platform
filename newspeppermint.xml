@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2021-12-26T13:23:31.697Z</updated>
+    <updated>2021-12-26T14:15:19.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
     <entry>
@@ -14,9 +14,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[팬데믹이 테크 산업을 어떻게 바꾸고 있는가?]]></title>
-        <id>https://newspeppermint.com/2021/12/15/%ed%8c%ac%eb%8d%b0%eb%af%b9%ec%9d%b4-%ed%85%8c%ed%81%ac-%ec%82%b0%ec%97%85%ec%9d%84-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%b0%94%ea%be%b8%ea%b3%a0-%ec%9e%88%eb%8a%94%ea%b0%80/</id>
-        <link href="https://newspeppermint.com/2021/12/15/%ed%8c%ac%eb%8d%b0%eb%af%b9%ec%9d%b4-%ed%85%8c%ed%81%ac-%ec%82%b0%ec%97%85%ec%9d%84-%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%b0%94%ea%be%b8%ea%b3%a0-%ec%9e%88%eb%8a%94%ea%b0%80/"/>
-        <updated>2021-12-15T23:02:37.759Z</updated>
+        <id>https://newspeppermint.com/2021/12/15/how-the-pandemic-has-changed-the-weather-in-the-technology-industry/</id>
+        <link href="https://newspeppermint.com/2021/12/15/how-the-pandemic-has-changed-the-weather-in-the-technology-industry/"/>
+        <updated>2021-12-26T14:13:33.575Z</updated>
         <content type="html"><![CDATA[2021년 12월 16일]]></content>
     </entry>
     <entry>
