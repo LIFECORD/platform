@@ -2,42 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-27T14:16:51.360Z</updated>
+    <updated>2021-12-27T16:24:22.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[내 직장이 평생직장인줄 알았지만 이젠 아니다.]]></title>
-        <id>https://alook.so/posts/92tkez</id>
-        <link href="https://alook.so/posts/92tkez"/>
-        <updated>2021-12-27T13:24:08.676Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkez">내 직장이 평생직장인줄 알았지만 이젠 아니다.</a>]]></content>
+        <title type="html"><![CDATA[글은 나의 행복]]></title>
+        <id>https://alook.so/posts/RGtxa0</id>
+        <link href="https://alook.so/posts/RGtxa0"/>
+        <updated>2021-12-27T16:22:57.095Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxa0">글은 나의 행복</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자소서에 <김연경>을 쓸 수밖에 없는 이유]]></title>
-        <id>https://alook.so/posts/54tE3Y</id>
-        <link href="https://alook.so/posts/54tE3Y"/>
-        <updated>2021-12-27T13:24:08.677Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE3Y">자소서에 &lt;김연경&gt;을 쓸 수밖에 없는 이유</a>]]></content>
+        <title type="html"><![CDATA[생존이 보장 되었다면 그랬을지도]]></title>
+        <id>https://alook.so/posts/yEtb1K</id>
+        <link href="https://alook.so/posts/yEtb1K"/>
+        <updated>2021-12-27T16:22:57.096Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtb1K">생존이 보장 되었다면 그랬을지도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[건아의 군생활] 33세 상사 여자 행보관의 직속 부하로서]]></title>
-        <id>https://alook.so/posts/q1tWGK</id>
-        <link href="https://alook.so/posts/q1tWGK"/>
-        <updated>2021-12-27T13:24:08.678Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWGK">[건아의 군생활] 33세 상사 여자 행보관의 직속 부하로서</a>]]></content>
+        <title type="html"><![CDATA[후회는 없지만 그당시엔 부끄럽네요.님들은 저같음 어떤 선택을?]]></title>
+        <id>https://alook.so/posts/LKtW76</id>
+        <link href="https://alook.so/posts/LKtW76"/>
+        <updated>2021-12-27T16:22:57.097Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtW76">후회는 없지만 그당시엔 부끄럽네요.님들은 저같음 어떤 선택을?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 선생님 직접 쓰신 글이 맞습니까?]]></title>
-        <id>https://alook.so/posts/1RtzJl</id>
-        <link href="https://alook.so/posts/1RtzJl"/>
-        <updated>2021-12-27T13:24:08.678Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzJl">답글: 선생님 직접 쓰신 글이 맞습니까?</a>]]></content>
+        <title type="html"><![CDATA[진짜 강력하게 새로운 정치세력이 나와야한다고 봅니다]]></title>
+        <id>https://alook.so/posts/njtV1a</id>
+        <link href="https://alook.so/posts/njtV1a"/>
+        <updated>2021-12-27T16:22:57.098Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtV1a">진짜 강력하게 새로운 정치세력이 나와야한다고 봅니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소에서 예상된 일, 가이드라인 주세요]]></title>
-        <id>https://alook.so/posts/o7tEnd</id>
-        <link href="https://alook.so/posts/o7tEnd"/>
-        <updated>2021-12-27T13:24:08.680Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEnd">얼룩소에서 예상된 일, 가이드라인 주세요</a>]]></content>
+        <title type="html"><![CDATA[북한과 통일문제는 매우 민감하지만..]]></title>
+        <id>https://alook.so/posts/6Mt96m</id>
+        <link href="https://alook.so/posts/6Mt96m"/>
+        <updated>2021-12-27T16:22:57.099Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt96m">북한과 통일문제는 매우 민감하지만..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떤게 평등이고 어떤게 공평일까]]></title>
+        <id>https://alook.so/posts/3wtOXk</id>
+        <link href="https://alook.so/posts/3wtOXk"/>
+        <updated>2021-12-27T16:22:57.100Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOXk">어떤게 평등이고 어떤게 공평일까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최고의 국뽕은 누가뭐래도 BTS(전 남자고BTS팬도 아님)]]></title>
+        <id>https://alook.so/posts/8Wtjao</id>
+        <link href="https://alook.so/posts/8Wtjao"/>
+        <updated>2021-12-27T16:22:57.101Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtjao">최고의 국뽕은 누가뭐래도 BTS(전 남자고BTS팬도 아님)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민연금 지금 mz세대들은 받지 못할거라고 봅니다]]></title>
+        <id>https://alook.so/posts/G1tqoo</id>
+        <link href="https://alook.so/posts/G1tqoo"/>
+        <updated>2021-12-27T16:22:57.102Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqoo">국민연금 지금 mz세대들은 받지 못할거라고 봅니다</a>]]></content>
     </entry>
 </feed>
