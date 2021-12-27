@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-27T21:16:09.769Z</updated>
+    <updated>2021-12-27T22:16:19.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWGK">[건아의 군생활] 33세 상사 여자 행보관의 직속 부하로서</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어디에도 남기지 않았던 한살먹기! 얼룩소에 남깁니다.]]></title>
-        <id>https://alook.so/posts/dztl29</id>
-        <link href="https://alook.so/posts/dztl29"/>
-        <updated>2021-12-27T21:14:47.245Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl29">어디에도 남기지 않았던 한살먹기! 얼룩소에 남깁니다.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[답글: 선생님 직접 쓰신 글이 맞습니까?]]></title>
         <id>https://alook.so/posts/1RtzJl</id>
         <link href="https://alook.so/posts/1RtzJl"/>
         <updated>2021-12-27T13:24:17.331Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzJl">답글: 선생님 직접 쓰신 글이 맞습니까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어디에도 남기지 않았던 한살먹기! 얼룩소에 남깁니다.]]></title>
+        <id>https://alook.so/posts/dztl29</id>
+        <link href="https://alook.so/posts/dztl29"/>
+        <updated>2021-12-27T21:14:47.245Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl29">어디에도 남기지 않았던 한살먹기! 얼룩소에 남깁니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그래, 이런 거에 열내는 ‘이상한 사람’ 나밖에 없겠지]]></title>
@@ -97,10 +97,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEyv">불효자 추가입니다...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대한민국은 미국VS중국 어느쪽을 선택해야 살아남는가?]]></title>
-        <id>https://alook.so/posts/yEtbEK</id>
-        <link href="https://alook.so/posts/yEtbEK"/>
-        <updated>2021-12-27T21:14:47.258Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbEK">대한민국은 미국VS중국 어느쪽을 선택해야 살아남는가?</a>]]></content>
+        <title type="html"><![CDATA[어쩌면 2030의 정치적 몰락은 예정된 게 아닐까]]></title>
+        <id>https://alook.so/posts/M9tX4X</id>
+        <link href="https://alook.so/posts/M9tX4X"/>
+        <updated>2021-12-27T22:15:02.389Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX4X">어쩌면 2030의 정치적 몰락은 예정된 게 아닐까</a>]]></content>
     </entry>
 </feed>
