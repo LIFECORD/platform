@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-27T17:24:51.408Z</updated>
+    <updated>2021-12-27T18:18:56.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -53,12 +53,5 @@
         <link href="https://alook.so/posts/njtV1a"/>
         <updated>2021-12-27T16:22:57.098Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtV1a">진짜 강력하게 새로운 정치세력이 나와야한다고 봅니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한과 통일문제는 매우 민감하지만..]]></title>
-        <id>https://alook.so/posts/6Mt96m</id>
-        <link href="https://alook.so/posts/6Mt96m"/>
-        <updated>2021-12-27T16:22:57.099Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt96m">북한과 통일문제는 매우 민감하지만..</a>]]></content>
     </entry>
 </feed>
