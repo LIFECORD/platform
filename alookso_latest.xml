@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-27T00:52:47.270Z</updated>
+    <updated>2021-12-27T02:07:37.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 모래알만 한 진실이라도]]></title>
+        <id>https://alook.so/posts/njtV0a</id>
+        <link href="https://alook.so/posts/njtV0a"/>
+        <updated>2021-12-27T02:06:09.633Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtV0a">답글: 모래알만 한 진실이라도</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온기]]></title>
         <id>https://alook.so/posts/8Wtjwo</id>
@@ -25,12 +32,5 @@
         <link href="https://alook.so/posts/latopB"/>
         <updated>2021-12-26T16:22:24.392Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latopB">제 직업을 추천하라면 전 중간입장같애요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한과 통일하는게 좋을까.. 이대로 나눠서 사는게 좋을까..]]></title>
-        <id>https://alook.so/posts/KmtWKp</id>
-        <link href="https://alook.so/posts/KmtWKp"/>
-        <updated>2021-12-26T14:13:57.289Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWKp">북한과 통일하는게 좋을까.. 이대로 나눠서 사는게 좋을까..</a>]]></content>
     </entry>
 </feed>
