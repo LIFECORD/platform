@@ -2,57 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-27T20:17:38.241Z</updated>
+    <updated>2021-12-27T21:16:09.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[글은 나의 행복]]></title>
-        <id>https://alook.so/posts/RGtxa0</id>
-        <link href="https://alook.so/posts/RGtxa0"/>
-        <updated>2021-12-27T20:16:24.118Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxa0">글은 나의 행복</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후회는 없지만 그당시엔 부끄럽네요.님들은 저같음 어떤 선택을?]]></title>
-        <id>https://alook.so/posts/LKtW76</id>
-        <link href="https://alook.so/posts/LKtW76"/>
-        <updated>2021-12-27T20:16:24.119Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtW76">후회는 없지만 그당시엔 부끄럽네요.님들은 저같음 어떤 선택을?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤게 평등이고 어떤게 공평일까]]></title>
-        <id>https://alook.so/posts/3wtOXk</id>
-        <link href="https://alook.so/posts/3wtOXk"/>
-        <updated>2021-12-27T20:16:24.120Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOXk">어떤게 평등이고 어떤게 공평일까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민연금 지금 mz세대들은 받지 못할거라고 봅니다]]></title>
-        <id>https://alook.so/posts/G1tqoo</id>
-        <link href="https://alook.so/posts/G1tqoo"/>
-        <updated>2021-12-27T20:16:24.121Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqoo">국민연금 지금 mz세대들은 받지 못할거라고 봅니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 직장이 평생직장인줄 알았지만 이젠 아니다.]]></title>
-        <id>https://alook.so/posts/92tkez</id>
-        <link href="https://alook.so/posts/92tkez"/>
-        <updated>2021-12-27T20:16:24.122Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkez">내 직장이 평생직장인줄 알았지만 이젠 아니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건아의 군생활] 33세 상사 여자 행보관의 직속 부하로서]]></title>
-        <id>https://alook.so/posts/q1tWGK</id>
-        <link href="https://alook.so/posts/q1tWGK"/>
-        <updated>2021-12-27T13:24:17.335Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWGK">[건아의 군생활] 33세 상사 여자 행보관의 직속 부하로서</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 선생님 직접 쓰신 글이 맞습니까?]]></title>
-        <id>https://alook.so/posts/1RtzJl</id>
-        <link href="https://alook.so/posts/1RtzJl"/>
-        <updated>2021-12-27T13:24:17.331Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzJl">답글: 선생님 직접 쓰신 글이 맞습니까?</a>]]></content>
+        <title type="html"><![CDATA[팩트만 말하는데도 왜 놀아나는 것일까?]]></title>
+        <id>https://alook.so/posts/xlt1o7</id>
+        <link href="https://alook.so/posts/xlt1o7"/>
+        <updated>2021-12-27T21:14:47.234Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1o7">팩트만 말하는데도 왜 놀아나는 것일까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소에서 예상된 일, 가이드라인 주세요]]></title>
@@ -62,18 +20,74 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEnd">얼룩소에서 예상된 일, 가이드라인 주세요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방광염]]></title>
-        <id>https://alook.so/posts/rDt0vq</id>
-        <link href="https://alook.so/posts/rDt0vq"/>
-        <updated>2021-12-27T20:16:24.128Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0vq">방광염</a>]]></content>
+        <title type="html"><![CDATA[아버지.]]></title>
+        <id>https://alook.so/posts/o7tEyd</id>
+        <link href="https://alook.so/posts/o7tEyd"/>
+        <updated>2021-12-27T21:14:47.239Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEyd">아버지.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하루]]></title>
-        <id>https://alook.so/posts/jdtEdB</id>
-        <link href="https://alook.so/posts/jdtEdB"/>
-        <updated>2021-12-27T20:16:24.129Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEdB">하루</a>]]></content>
+        <title type="html"><![CDATA[차선도 차악도 아닌, '최적'을 선택하는 일; 정치]]></title>
+        <id>https://alook.so/posts/Djt4EP</id>
+        <link href="https://alook.so/posts/Djt4EP"/>
+        <updated>2021-12-27T21:14:47.240Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4EP">차선도 차악도 아닌, '최적'을 선택하는 일; 정치</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[건아의 군생활] 33세 상사 여자 행보관의 직속 부하로서]]></title>
+        <id>https://alook.so/posts/q1tWGK</id>
+        <link href="https://alook.so/posts/q1tWGK"/>
+        <updated>2021-12-27T13:24:17.335Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWGK">[건아의 군생활] 33세 상사 여자 행보관의 직속 부하로서</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어디에도 남기지 않았던 한살먹기! 얼룩소에 남깁니다.]]></title>
+        <id>https://alook.so/posts/dztl29</id>
+        <link href="https://alook.so/posts/dztl29"/>
+        <updated>2021-12-27T21:14:47.245Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl29">어디에도 남기지 않았던 한살먹기! 얼룩소에 남깁니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 선생님 직접 쓰신 글이 맞습니까?]]></title>
+        <id>https://alook.so/posts/1RtzJl</id>
+        <link href="https://alook.so/posts/1RtzJl"/>
+        <updated>2021-12-27T13:24:17.331Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzJl">답글: 선생님 직접 쓰신 글이 맞습니까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그래, 이런 거에 열내는 ‘이상한 사람’ 나밖에 없겠지]]></title>
+        <id>https://alook.so/posts/o7tEyD</id>
+        <link href="https://alook.so/posts/o7tEyD"/>
+        <updated>2021-12-27T21:14:47.248Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEyD">그래, 이런 거에 열내는 ‘이상한 사람’ 나밖에 없겠지</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[증언할 책무, 그리고 감사]]></title>
+        <id>https://alook.so/posts/OEtKLL</id>
+        <link href="https://alook.so/posts/OEtKLL"/>
+        <updated>2021-12-27T21:14:47.249Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKLL">증언할 책무, 그리고 감사</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이들이 정답일 때가 대부분이죠.]]></title>
+        <id>https://alook.so/posts/ZktPax</id>
+        <link href="https://alook.so/posts/ZktPax"/>
+        <updated>2021-12-27T21:14:47.251Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPax">아이들이 정답일 때가 대부분이죠.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소는 잘 지내고 있는가?]]></title>
+        <id>https://alook.so/posts/M9tXEX</id>
+        <link href="https://alook.so/posts/M9tXEX"/>
+        <updated>2021-12-27T21:14:47.252Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXEX">얼룩소는 잘 지내고 있는가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아쉬운건 없는데 굳이 꼽자면 아쉬운 점, 그것은 배당주 투자.]]></title>
+        <id>https://alook.so/posts/Vntawp</id>
+        <link href="https://alook.so/posts/Vntawp"/>
+        <updated>2021-12-27T21:14:47.254Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntawp">아쉬운건 없는데 굳이 꼽자면 아쉬운 점, 그것은 배당주 투자.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불효자 추가입니다...]]></title>
@@ -81,5 +95,12 @@
         <link href="https://alook.so/posts/bWtEyv"/>
         <updated>2021-12-27T13:24:17.332Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEyv">불효자 추가입니다...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대한민국은 미국VS중국 어느쪽을 선택해야 살아남는가?]]></title>
+        <id>https://alook.so/posts/yEtbEK</id>
+        <link href="https://alook.so/posts/yEtbEK"/>
+        <updated>2021-12-27T21:14:47.258Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbEK">대한민국은 미국VS중국 어느쪽을 선택해야 살아남는가?</a>]]></content>
     </entry>
 </feed>
