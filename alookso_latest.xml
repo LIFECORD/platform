@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-27T18:18:56.874Z</updated>
+    <updated>2021-12-27T19:14:43.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[어쩌면 2030의 정치적 몰락은 예정된 게 아닐까]]></title>
+        <id>https://alook.so/posts/M9tX4X</id>
+        <link href="https://alook.so/posts/M9tX4X"/>
+        <updated>2021-12-27T19:13:15.292Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX4X">어쩌면 2030의 정치적 몰락은 예정된 게 아닐까</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나를 덕질 하는데 꽂혔다.]]></title>
         <id>https://alook.so/posts/XBtbBd</id>
@@ -46,12 +53,5 @@
         <link href="https://alook.so/posts/LKtW76"/>
         <updated>2021-12-27T16:22:57.097Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtW76">후회는 없지만 그당시엔 부끄럽네요.님들은 저같음 어떤 선택을?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진짜 강력하게 새로운 정치세력이 나와야한다고 봅니다]]></title>
-        <id>https://alook.so/posts/njtV1a</id>
-        <link href="https://alook.so/posts/njtV1a"/>
-        <updated>2021-12-27T16:22:57.098Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtV1a">진짜 강력하게 새로운 정치세력이 나와야한다고 봅니다</a>]]></content>
     </entry>
 </feed>
