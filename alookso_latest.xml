@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-28T17:24:36.935Z</updated>
+    <updated>2021-12-28T18:19:11.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[주 4일제는 가능하지 않을 것 같다에 의견 던져봅니다]]></title>
+        <id>https://alook.so/posts/XBtboJ</id>
+        <link href="https://alook.so/posts/XBtboJ"/>
+        <updated>2021-12-28T18:17:43.345Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtboJ">주 4일제는 가능하지 않을 것 같다에 의견 던져봅니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장애견을 당신은 본 적이 있으신가요?]]></title>
         <id>https://alook.so/posts/w9tEnm</id>
@@ -39,12 +46,5 @@
         <link href="https://alook.so/posts/LKtWyE"/>
         <updated>2021-12-28T14:14:08.998Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWyE">이국적인 풍경도 멋있네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집값을 못잡는 걸까요? 안잡는 걸까요?]]></title>
-        <id>https://alook.so/posts/3wtOd3</id>
-        <link href="https://alook.so/posts/3wtOd3"/>
-        <updated>2021-12-28T13:22:54.857Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOd3">집값을 못잡는 걸까요? 안잡는 걸까요?</a>]]></content>
     </entry>
 </feed>
