@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-28T07:17:12.702Z</updated>
+    <updated>2021-12-28T13:24:15.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[마음이 어떤일앞에 항상 깨끗이 비워져 있나요?]]></title>
-        <id>https://alook.so/posts/1RtzEl</id>
-        <link href="https://alook.so/posts/1RtzEl"/>
-        <updated>2021-12-28T07:15:56.008Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzEl">마음이 어떤일앞에 항상 깨끗이 비워져 있나요?</a>]]></content>
+        <title type="html"><![CDATA[오랜만에 들어오는 alookso]]></title>
+        <id>https://alook.so/posts/0ktenK</id>
+        <link href="https://alook.so/posts/0ktenK"/>
+        <updated>2021-12-27T23:15:38.196Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktenK">오랜만에 들어오는 alookso</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아들이 보는 세상]]></title>
@@ -20,53 +20,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tErd">아들이 보는 세상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[터키 분위기 좋습니당!]]></title>
-        <id>https://alook.so/posts/YytL6v</id>
-        <link href="https://alook.so/posts/YytL6v"/>
-        <updated>2021-12-28T06:18:53.883Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL6v">터키 분위기 좋습니당!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와...이건 아니죠]]></title>
-        <id>https://alook.so/posts/bWtEBv</id>
-        <link href="https://alook.so/posts/bWtEBv"/>
-        <updated>2021-12-28T04:19:52.824Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEBv">와...이건 아니죠</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도로에 살얼음이..]]></title>
-        <id>https://alook.so/posts/J5tV8B</id>
-        <link href="https://alook.so/posts/J5tV8B"/>
-        <updated>2021-12-28T07:15:56.014Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tV8B">도로에 살얼음이..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끓.라 꿀팁 하나!]]></title>
-        <id>https://alook.so/posts/potmWa</id>
-        <link href="https://alook.so/posts/potmWa"/>
-        <updated>2021-12-28T04:19:52.826Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmWa">끓.라 꿀팁 하나!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열의 ‘공정’, 김건희의 허물, 그리고 족벌언론]]></title>
-        <id>https://alook.so/posts/eVtEVw</id>
-        <link href="https://alook.so/posts/eVtEVw"/>
-        <updated>2021-12-28T03:15:36.852Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEVw">윤석열의 ‘공정’, 김건희의 허물, 그리고 족벌언론 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현실..]]></title>
-        <id>https://alook.so/posts/2xt9xX</id>
-        <link href="https://alook.so/posts/2xt9xX"/>
-        <updated>2021-12-28T03:15:36.858Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9xX">현실..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오랜만에 들어오는 alookso]]></title>
-        <id>https://alook.so/posts/0ktenK</id>
-        <link href="https://alook.so/posts/0ktenK"/>
-        <updated>2021-12-27T23:15:38.196Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktenK">오랜만에 들어오는 alookso</a>]]></content>
+        <title type="html"><![CDATA[세상 떠난 아이의 번호로 온 스미싱 문자.]]></title>
+        <id>https://alook.so/posts/o7tEll</id>
+        <link href="https://alook.so/posts/o7tEll"/>
+        <updated>2021-12-28T13:23:02.638Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEll">세상 떠난 아이의 번호로 온 스미싱 문자. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[과학을 전공했다면 좀 달랐을까]]></title>
@@ -76,10 +34,59 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1y7">과학을 전공했다면 좀 달랐을까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글은 나의 행복]]></title>
-        <id>https://alook.so/posts/RGtxa0</id>
-        <link href="https://alook.so/posts/RGtxa0"/>
-        <updated>2021-12-28T03:15:36.861Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxa0">글은 나의 행복</a>]]></content>
+        <title type="html"><![CDATA[얼룩소에서 예상된 일, 가이드라인 주세요]]></title>
+        <id>https://alook.so/posts/o7tEnd</id>
+        <link href="https://alook.so/posts/o7tEnd"/>
+        <updated>2021-12-28T13:23:02.639Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEnd">얼룩소에서 예상된 일, 가이드라인 주세요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와...이건 아니죠]]></title>
+        <id>https://alook.so/posts/bWtEBv</id>
+        <link href="https://alook.so/posts/bWtEBv"/>
+        <updated>2021-12-28T04:19:52.824Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEBv">와...이건 아니죠</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예수의 고향엔 크리스마스가 없다]]></title>
+        <id>https://alook.so/posts/92tk5Z</id>
+        <link href="https://alook.so/posts/92tk5Z"/>
+        <updated>2021-12-28T13:23:02.640Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tk5Z">예수의 고향엔 크리스마스가 없다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마음이 어떤일앞에 항상 깨끗이 비워져 있나요?]]></title>
+        <id>https://alook.so/posts/1RtzEl</id>
+        <link href="https://alook.so/posts/1RtzEl"/>
+        <updated>2021-12-28T07:15:56.008Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzEl">마음이 어떤일앞에 항상 깨끗이 비워져 있나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[터키 분위기 좋습니당!]]></title>
+        <id>https://alook.so/posts/YytL6v</id>
+        <link href="https://alook.so/posts/YytL6v"/>
+        <updated>2021-12-28T06:18:53.883Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL6v">터키 분위기 좋습니당!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팩트만 말하는데도 왜 놀아나는 것일까?]]></title>
+        <id>https://alook.so/posts/xlt1o7</id>
+        <link href="https://alook.so/posts/xlt1o7"/>
+        <updated>2021-12-28T13:23:02.642Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1o7">팩트만 말하는데도 왜 놀아나는 것일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현장검거 외 다른 방법이 없는 슬픈 현실.]]></title>
+        <id>https://alook.so/posts/vKtq6j</id>
+        <link href="https://alook.so/posts/vKtq6j"/>
+        <updated>2021-12-28T13:23:02.643Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtq6j">현장검거 외 다른 방법이 없는 슬픈 현실.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열의 ‘공정’, 김건희의 허물, 그리고 족벌언론]]></title>
+        <id>https://alook.so/posts/eVtEVw</id>
+        <link href="https://alook.so/posts/eVtEVw"/>
+        <updated>2021-12-28T03:15:36.852Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEVw">윤석열의 ‘공정’, 김건희의 허물, 그리고 족벌언론 </a>]]></content>
     </entry>
 </feed>

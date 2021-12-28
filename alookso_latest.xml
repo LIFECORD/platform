@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-28T07:17:12.705Z</updated>
+    <updated>2021-12-28T13:24:15.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[궁금해요 제나이40 이런고민 저만하나요?]]></title>
-        <id>https://alook.so/posts/lato5B</id>
-        <link href="https://alook.so/posts/lato5B"/>
-        <updated>2021-12-28T07:15:48.756Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lato5B">궁금해요 제나이40 이런고민 저만하나요?</a>]]></content>
+        <title type="html"><![CDATA[집값을 못잡는 걸까요? 안잡는 걸까요?]]></title>
+        <id>https://alook.so/posts/3wtOd3</id>
+        <link href="https://alook.so/posts/3wtOd3"/>
+        <updated>2021-12-28T13:22:54.857Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOd3">집값을 못잡는 걸까요? 안잡는 걸까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1가구 1주택 시대? 가구별 방 개수 얼마나 늘었을까요?]]></title>
-        <id>https://alook.so/posts/92tk7z</id>
-        <link href="https://alook.so/posts/92tk7z"/>
-        <updated>2021-12-28T07:15:48.759Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tk7z">1가구 1주택 시대? 가구별 방 개수 얼마나 늘었을까요?</a>]]></content>
+        <title type="html"><![CDATA[머니랩을 읽고]]></title>
+        <id>https://alook.so/posts/8Wtjoj</id>
+        <link href="https://alook.so/posts/8Wtjoj"/>
+        <updated>2021-12-28T13:22:54.858Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtjoj">머니랩을 읽고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족보다 더 깊은 인간관계가 있다는 게 이상한가요?]]></title>
-        <id>https://alook.so/posts/mbtj7d</id>
-        <link href="https://alook.so/posts/mbtj7d"/>
-        <updated>2021-12-28T07:15:48.759Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtj7d">가족보다 더 깊은 인간관계가 있다는 게 이상한가요? </a>]]></content>
+        <title type="html"><![CDATA[현장검거 외 다른 방법이 없는 슬픈 현실.]]></title>
+        <id>https://alook.so/posts/vKtq6j</id>
+        <link href="https://alook.so/posts/vKtq6j"/>
+        <updated>2021-12-28T13:22:54.859Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtq6j">현장검거 외 다른 방법이 없는 슬픈 현실.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새로운 도전을 응원합니다!]]></title>
-        <id>https://alook.so/posts/54tEkY</id>
-        <link href="https://alook.so/posts/54tEkY"/>
-        <updated>2021-12-28T07:15:48.760Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEkY">새로운 도전을 응원합니다!</a>]]></content>
+        <title type="html"><![CDATA[예수의 고향엔 크리스마스가 없다]]></title>
+        <id>https://alook.so/posts/92tk5Z</id>
+        <link href="https://alook.so/posts/92tk5Z"/>
+        <updated>2021-12-28T13:22:54.860Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tk5Z">예수의 고향엔 크리스마스가 없다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음이 어떤일앞에 항상 깨끗이 비워져 있나요?]]></title>
-        <id>https://alook.so/posts/1RtzEl</id>
-        <link href="https://alook.so/posts/1RtzEl"/>
-        <updated>2021-12-28T06:18:46.177Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzEl">마음이 어떤일앞에 항상 깨끗이 비워져 있나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아들이 보는 세상]]></title>
-        <id>https://alook.so/posts/o7tErd</id>
-        <link href="https://alook.so/posts/o7tErd"/>
-        <updated>2021-12-28T05:15:12.948Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tErd">아들이 보는 세상</a>]]></content>
+        <title type="html"><![CDATA[22살이 생각하는 가장 빨리 자가를 마련하는 방법]]></title>
+        <id>https://alook.so/posts/mbtjEL</id>
+        <link href="https://alook.so/posts/mbtjEL"/>
+        <updated>2021-12-28T13:22:54.861Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjEL">22살이 생각하는 가장 빨리 자가를 마련하는 방법</a>]]></content>
     </entry>
 </feed>
