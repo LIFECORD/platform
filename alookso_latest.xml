@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-28T02:04:32.216Z</updated>
+    <updated>2021-12-28T03:16:50.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[도로에 살얼음이..]]></title>
+        <id>https://alook.so/posts/J5tV8B</id>
+        <link href="https://alook.so/posts/J5tV8B"/>
+        <updated>2021-12-28T03:15:29.432Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tV8B">도로에 살얼음이..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[끓.라 꿀팁 하나!]]></title>
+        <id>https://alook.so/posts/potmWa</id>
+        <link href="https://alook.so/posts/potmWa"/>
+        <updated>2021-12-28T03:15:29.432Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmWa">끓.라 꿀팁 하나!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열의 ‘공정’, 김건희의 허물, 그리고 족벌언론]]></title>
+        <id>https://alook.so/posts/eVtEVw</id>
+        <link href="https://alook.so/posts/eVtEVw"/>
+        <updated>2021-12-28T03:15:29.434Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEVw">윤석열의 ‘공정’, 김건희의 허물, 그리고 족벌언론 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현실..]]></title>
         <id>https://alook.so/posts/2xt9xX</id>
@@ -18,26 +39,5 @@
         <link href="https://alook.so/posts/0ktenK"/>
         <updated>2021-12-27T22:14:54.786Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktenK">오랜만에 들어오는 alookso</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어쩌면 2030의 정치적 몰락은 예정된 게 아닐까]]></title>
-        <id>https://alook.so/posts/M9tX4X</id>
-        <link href="https://alook.so/posts/M9tX4X"/>
-        <updated>2021-12-27T19:13:15.292Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX4X">어쩌면 2030의 정치적 몰락은 예정된 게 아닐까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나를 덕질 하는데 꽂혔다.]]></title>
-        <id>https://alook.so/posts/XBtbBd</id>
-        <link href="https://alook.so/posts/XBtbBd"/>
-        <updated>2021-12-27T17:23:23.375Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbBd">나를 덕질 하는데 꽂혔다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은성별끼리 결혼이 가능할까?]]></title>
-        <id>https://alook.so/posts/w9tEra</id>
-        <link href="https://alook.so/posts/w9tEra"/>
-        <updated>2021-12-27T17:23:23.377Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEra">같은성별끼리 결혼이 가능할까?</a>]]></content>
     </entry>
 </feed>
