@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-28T03:16:50.456Z</updated>
+    <updated>2021-12-28T04:21:12.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[터키 분위기 좋습니당!]]></title>
+        <id>https://alook.so/posts/YytL6v</id>
+        <link href="https://alook.so/posts/YytL6v"/>
+        <updated>2021-12-28T04:19:52.508Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL6v">터키 분위기 좋습니당!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와...이건 아니죠]]></title>
+        <id>https://alook.so/posts/bWtEBv</id>
+        <link href="https://alook.so/posts/bWtEBv"/>
+        <updated>2021-12-28T04:19:52.824Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEBv">와...이건 아니죠</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도로에 살얼음이..]]></title>
+        <id>https://alook.so/posts/J5tV8B</id>
+        <link href="https://alook.so/posts/J5tV8B"/>
+        <updated>2021-12-28T04:19:52.825Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tV8B">도로에 살얼음이..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[끓.라 꿀팁 하나!]]></title>
+        <id>https://alook.so/posts/potmWa</id>
+        <link href="https://alook.so/posts/potmWa"/>
+        <updated>2021-12-28T04:19:52.826Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmWa">끓.라 꿀팁 하나!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열의 ‘공정’, 김건희의 허물, 그리고 족벌언론]]></title>
         <id>https://alook.so/posts/eVtEVw</id>
@@ -41,13 +69,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxa0">글은 나의 행복</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자소서에 <김연경>을 쓸 수밖에 없는 이유]]></title>
-        <id>https://alook.so/posts/54tE3Y</id>
-        <link href="https://alook.so/posts/54tE3Y"/>
-        <updated>2021-12-28T03:15:36.865Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE3Y">자소서에 &lt;김연경&gt;을 쓸 수밖에 없는 이유</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[건아의 군생활] 33세 상사 여자 행보관의 직속 부하로서]]></title>
         <id>https://alook.so/posts/q1tWGK</id>
         <link href="https://alook.so/posts/q1tWGK"/>
@@ -60,26 +81,5 @@
         <link href="https://alook.so/posts/1RtzJl"/>
         <updated>2021-12-27T13:24:17.331Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzJl">답글: 선생님 직접 쓰신 글이 맞습니까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에서 예상된 일, 가이드라인 주세요]]></title>
-        <id>https://alook.so/posts/o7tEnd</id>
-        <link href="https://alook.so/posts/o7tEnd"/>
-        <updated>2021-12-27T13:24:17.325Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEnd">얼룩소에서 예상된 일, 가이드라인 주세요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방광염]]></title>
-        <id>https://alook.so/posts/rDt0vq</id>
-        <link href="https://alook.so/posts/rDt0vq"/>
-        <updated>2021-12-28T03:15:36.869Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0vq">방광염</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루]]></title>
-        <id>https://alook.so/posts/jdtEdB</id>
-        <link href="https://alook.so/posts/jdtEdB"/>
-        <updated>2021-12-28T03:15:36.875Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEdB">하루</a>]]></content>
     </entry>
 </feed>

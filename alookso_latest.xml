@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-28T03:16:50.458Z</updated>
+    <updated>2021-12-28T04:21:12.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[터키 분위기 좋습니당!]]></title>
+        <id>https://alook.so/posts/YytL6v</id>
+        <link href="https://alook.so/posts/YytL6v"/>
+        <updated>2021-12-28T04:19:45.124Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL6v">터키 분위기 좋습니당!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와...이건 아니죠]]></title>
+        <id>https://alook.so/posts/bWtEBv</id>
+        <link href="https://alook.so/posts/bWtEBv"/>
+        <updated>2021-12-28T04:19:45.125Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEBv">와...이건 아니죠</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한과의 통일? 필요없다!]]></title>
+        <id>https://alook.so/posts/a0t0jy</id>
+        <link href="https://alook.so/posts/a0t0jy"/>
+        <updated>2021-12-28T04:19:45.126Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0jy">북한과의 통일? 필요없다!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도로에 살얼음이..]]></title>
         <id>https://alook.so/posts/J5tV8B</id>
@@ -25,19 +46,5 @@
         <link href="https://alook.so/posts/eVtEVw"/>
         <updated>2021-12-28T03:15:29.434Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEVw">윤석열의 ‘공정’, 김건희의 허물, 그리고 족벌언론 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현실..]]></title>
-        <id>https://alook.so/posts/2xt9xX</id>
-        <link href="https://alook.so/posts/2xt9xX"/>
-        <updated>2021-12-28T00:51:14.267Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9xX">현실..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오랜만에 들어오는 alookso]]></title>
-        <id>https://alook.so/posts/0ktenK</id>
-        <link href="https://alook.so/posts/0ktenK"/>
-        <updated>2021-12-27T22:14:54.786Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktenK">오랜만에 들어오는 alookso</a>]]></content>
     </entry>
 </feed>
