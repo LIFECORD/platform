@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2021-12-28T05:16:35.131Z</updated>
+    <updated>2021-12-28T06:20:11.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://articles.dotface.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[디지털 성폭력, 제대로 막아낼 대선 후보는 누구?]]></title>
-        <id>https://articles.dotface.kr/vaw2022-3</id>
-        <link href="https://articles.dotface.kr/vaw2022-3"/>
-        <updated>2021-12-23T08:17:55.800Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [디지털 성폭력 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차별금지법, 한다는 거야 만다는 거야]]></title>
-        <id>https://articles.dotface.kr/equalityact2022-2</id>
-        <link href="https://articles.dotface.kr/equalityact2022-2"/>
-        <updated>2021-12-23T08:17:55.800Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 소수자와 차별금지법 [차별금지법 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두를 위한 대통령? 그럼 소수자는요?]]></title>
-        <id>https://articles.dotface.kr/equalityact2022-1</id>
-        <link href="https://articles.dotface.kr/equalityact2022-1"/>
-        <updated>2021-12-23T08:17:55.800Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 소수자와 차별금지법 [혐오 발언 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청소년부터 워킹맘까지, 대선 공약 속의 여성]]></title>
-        <id>https://articles.dotface.kr/vaw2022-5</id>
-        <link href="https://articles.dotface.kr/vaw2022-5"/>
-        <updated>2021-12-21T02:05:14.866Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 성평등과 여성 관련 공약]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런 공약은 왜 없지? 성폭력 피해자에게 가장 절실한 정책]]></title>
-        <id>https://articles.dotface.kr/vaw2022-4</id>
-        <link href="https://articles.dotface.kr/vaw2022-4"/>
-        <updated>2021-12-21T02:05:14.869Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [제안 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혼까지 생각했어, 아이한테 엄마 성을 주려고]]></title>
-        <id>https://articles.dotface.kr/givennames</id>
-        <link href="https://articles.dotface.kr/givennames"/>
-        <updated>2021-12-16T08:17:54.533Z</updated>
-        <content type="html"><![CDATA[아빠 성이 꼭 기본값이어야 하는 거야?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 공약, 아쉬운 공약, 모순된 공약]]></title>
-        <id>https://articles.dotface.kr/vaw2022-2</id>
-        <link href="https://articles.dotface.kr/vaw2022-2"/>
-        <updated>2021-12-16T02:36:24.421Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [검증 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성은 언제까지 살아 있음에 감사해야 하나요?]]></title>
-        <id>https://articles.dotface.kr/vaw2022-1</id>
-        <link href="https://articles.dotface.kr/vaw2022-1"/>
-        <updated>2021-12-15T22:41:54.492Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [시작 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓰레기 못 줄이면 기후 위기 대응 못 해]]></title>
-        <id>https://articles.dotface.kr/climate2022-5</id>
-        <link href="https://articles.dotface.kr/climate2022-5"/>
-        <updated>2021-12-15T22:41:54.494Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [쓰레기와 자원 순환 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 후보의 기후 공약, 제 점수는요]]></title>
-        <id>https://articles.dotface.kr/climate2022-4</id>
-        <link href="https://articles.dotface.kr/climate2022-4"/>
-        <updated>2021-12-15T22:41:54.500Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [평가 편]]]></content>
-    </entry>
 </feed>
