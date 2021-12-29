@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-29T11:14:09.808Z</updated>
+    <updated>2021-12-29T12:26:46.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[무엇이 잘 사는 길일까?]]></title>
+        <id>https://alook.so/posts/jdtE31</id>
+        <link href="https://alook.so/posts/jdtE31"/>
+        <updated>2021-12-29T12:25:14.704Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtE31">무엇이 잘 사는 길일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 어려운 인간관계]]></title>
+        <id>https://alook.so/posts/bWtEOb</id>
+        <link href="https://alook.so/posts/bWtEOb"/>
+        <updated>2021-12-29T12:25:14.705Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEOb">가장 어려운 인간관계</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아무거나 쓰기, 저출생]]></title>
         <id>https://alook.so/posts/a0t09o</id>
@@ -46,19 +60,5 @@
         <link href="https://alook.so/posts/PvtpBD"/>
         <updated>2021-12-29T04:20:10.560Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtpBD">언니에게 미혜님은 "꽃" 이었어라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안경 구입비용, 왜 내가 부담해야 하나?]]></title>
-        <id>https://alook.so/posts/2xt9p6</id>
-        <link href="https://alook.so/posts/2xt9p6"/>
-        <updated>2021-12-29T03:15:17.125Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9p6">안경 구입비용, 왜 내가 부담해야 하나?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 이렇게 생각합니다.]]></title>
-        <id>https://alook.so/posts/WLtY7b</id>
-        <link href="https://alook.so/posts/WLtY7b"/>
-        <updated>2021-12-29T02:02:47.235Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtY7b">저는 이렇게 생각합니다.</a>]]></content>
     </entry>
 </feed>
