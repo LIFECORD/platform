@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-29T16:24:01.846Z</updated>
+    <updated>2021-12-29T17:24:44.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[세입자지만 내 집처럼 당당하게 거주하는 법]]></title>
-        <id>https://alook.so/posts/OEtKO3</id>
-        <link href="https://alook.so/posts/OEtKO3"/>
-        <updated>2021-12-29T16:22:39.307Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKO3">세입자지만 내 집처럼 당당하게 거주하는 법</a>]]></content>
+        <title type="html"><![CDATA[교육이 아이들에게 절망을 가르쳤어]]></title>
+        <id>https://alook.so/posts/G1tq9l</id>
+        <link href="https://alook.so/posts/G1tq9l"/>
+        <updated>2021-12-29T17:23:17.472Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq9l">교육이 아이들에게 절망을 가르쳤어</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스카이에듀 폐업, 그리고 사교육 이야기]]></title>
