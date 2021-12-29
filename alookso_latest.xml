@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-29T02:04:18.325Z</updated>
+    <updated>2021-12-29T03:16:40.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[안경 구입비용, 왜 내가 부담해야 하나?]]></title>
+        <id>https://alook.so/posts/2xt9p6</id>
+        <link href="https://alook.so/posts/2xt9p6"/>
+        <updated>2021-12-29T03:15:17.125Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9p6">안경 구입비용, 왜 내가 부담해야 하나?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저는 이렇게 생각합니다.]]></title>
         <id>https://alook.so/posts/WLtY7b</id>
@@ -46,12 +53,5 @@
         <link href="https://alook.so/posts/xlt1v9"/>
         <updated>2021-12-28T16:22:49.485Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1v9">재택근무에 집중해야하는데 후~~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 살아야 할까?]]></title>
-        <id>https://alook.so/posts/yEtbVW</id>
-        <link href="https://alook.so/posts/yEtbVW"/>
-        <updated>2021-12-28T16:22:49.486Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbVW">어떻게 살아야 할까?</a>]]></content>
     </entry>
 </feed>
