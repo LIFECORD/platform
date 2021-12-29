@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-29T17:24:44.113Z</updated>
+    <updated>2021-12-29T18:20:14.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[산유화]]></title>
+        <id>https://alook.so/posts/8Wtj7j</id>
+        <link href="https://alook.so/posts/8Wtj7j"/>
+        <updated>2021-12-29T18:18:39.248Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtj7j">산유화</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교육이 아이들에게 절망을 가르쳤어]]></title>
         <id>https://alook.so/posts/G1tq9l</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/q1tWl3"/>
         <updated>2021-12-29T14:14:52.037Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWl3">걱정한다고, 생각해서 하는 말인데 그래서 더 하기 싫은 건지도 모르겠습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세대간의 이해가 필요한 시점입니다.]]></title>
-        <id>https://alook.so/posts/Djt4lq</id>
-        <link href="https://alook.so/posts/Djt4lq"/>
-        <updated>2021-12-29T13:23:49.799Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4lq">세대간의 이해가 필요한 시점입니다.</a>]]></content>
     </entry>
 </feed>
