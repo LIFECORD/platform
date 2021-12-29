@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-29T14:16:12.561Z</updated>
+    <updated>2021-12-29T15:17:32.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우리의 평생 과제 닭?닭걀?누가먼저?]]></title>
+        <id>https://alook.so/posts/E7tX3m</id>
+        <link href="https://alook.so/posts/E7tX3m"/>
+        <updated>2021-12-29T15:16:10.700Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tX3m">우리의 평생 과제 닭?닭걀?누가먼저?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노인을 위한 나라]]></title>
         <id>https://alook.so/posts/KmtWkP</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/o7tE0l"/>
         <updated>2021-12-29T13:23:49.801Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tE0l">투자는 희망이다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 한가족? 본인이 필요할 때만?]]></title>
-        <id>https://alook.so/posts/YytLD0</id>
-        <link href="https://alook.so/posts/YytLD0"/>
-        <updated>2021-12-29T13:23:49.802Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLD0">우리는 한가족? 본인이 필요할 때만?</a>]]></content>
     </entry>
 </feed>
