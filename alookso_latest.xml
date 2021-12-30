@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-30T10:18:18.902Z</updated>
+    <updated>2021-12-30T12:26:17.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[남들만 결혼시키기]]></title>
+        <id>https://alook.so/posts/J5tVy6</id>
+        <link href="https://alook.so/posts/J5tVy6"/>
+        <updated>2021-12-30T12:24:40.431Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVy6">남들만 결혼시키기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천 흉기난동 비극 한 달 후: 그래, 문제는 여경이 아니었어]]></title>
+        <id>https://alook.so/posts/potmbG</id>
+        <link href="https://alook.so/posts/potmbG"/>
+        <updated>2021-12-30T12:24:40.432Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmbG">인천 흉기난동 비극 한 달 후: 그래, 문제는 여경이 아니었어</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위험을 감수할 자유가 있었으면 좋겠습니다.]]></title>
+        <id>https://alook.so/posts/eVtErW</id>
+        <link href="https://alook.so/posts/eVtErW"/>
+        <updated>2021-12-30T12:24:40.433Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtErW">위험을 감수할 자유가 있었으면 좋겠습니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다들 첫 출근에는 어떤 기분이 드나요?]]></title>
         <id>https://alook.so/posts/Vntae3</id>
@@ -46,19 +67,5 @@
         <link href="https://alook.so/posts/M9tX8v"/>
         <updated>2021-12-30T08:19:15.875Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX8v">빚을 해결하고 언제쯤 경제적으로 여유가 생길가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주택시장에 관한 근거없는 생각들]]></title>
-        <id>https://alook.so/posts/4Xt4On</id>
-        <link href="https://alook.so/posts/4Xt4On"/>
-        <updated>2021-12-30T08:19:15.878Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4On">주택시장에 관한 근거없는 생각들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해의 노래: 늑대가 나타났다 by 이랑]]></title>
-        <id>https://alook.so/posts/w9tEym</id>
-        <link href="https://alook.so/posts/w9tEym"/>
-        <updated>2021-12-30T07:14:51.953Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEym">올해의 노래: 늑대가 나타났다 by 이랑</a>]]></content>
     </entry>
 </feed>
