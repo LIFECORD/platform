@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2021-12-30T00:51:58.048Z</updated>
+    <updated>2021-12-30T03:16:20.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://articles.dotface.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기후 대통령을 자처하는데, 믿어도 될까요?]]></title>
+        <id>https://articles.dotface.kr/simsangjeong4</id>
+        <link href="https://articles.dotface.kr/simsangjeong4"/>
+        <updated>2021-12-30T03:14:30.937Z</updated>
+        <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [기후 위기 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성소수자면 계속 1인 가구로 살아야 하는 건가요?]]></title>
+        <id>https://articles.dotface.kr/simsangjeong3</id>
+        <link href="https://articles.dotface.kr/simsangjeong3"/>
+        <updated>2021-12-30T03:14:30.939Z</updated>
+        <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [주거 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년인데 임금 체불, 말이 되나요?]]></title>
+        <id>https://articles.dotface.kr/simsangjeong2</id>
+        <link href="https://articles.dotface.kr/simsangjeong2"/>
+        <updated>2021-12-30T03:14:30.940Z</updated>
+        <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [노동 편2]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주4일제, 프리랜서도 할 수 있는 건가요?]]></title>
+        <id>https://articles.dotface.kr/simsangjeong1</id>
+        <link href="https://articles.dotface.kr/simsangjeong1"/>
+        <updated>2021-12-30T03:14:30.941Z</updated>
+        <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [노동 편1]]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디지털 성폭력, 제대로 막아낼 대선 후보는 누구?]]></title>
         <id>https://articles.dotface.kr/vaw2022-3</id>
@@ -46,33 +74,5 @@
         <link href="https://articles.dotface.kr/givennames"/>
         <updated>2021-12-28T13:22:25.950Z</updated>
         <content type="html"><![CDATA[아빠 성이 꼭 기본값이어야 하는 거야?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 공약, 아쉬운 공약, 모순된 공약]]></title>
-        <id>https://articles.dotface.kr/vaw2022-2</id>
-        <link href="https://articles.dotface.kr/vaw2022-2"/>
-        <updated>2021-12-28T13:22:25.951Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [검증 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성은 언제까지 살아 있음에 감사해야 하나요?]]></title>
-        <id>https://articles.dotface.kr/vaw2022-1</id>
-        <link href="https://articles.dotface.kr/vaw2022-1"/>
-        <updated>2021-12-28T13:22:25.953Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [시작 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓰레기 못 줄이면 기후 위기 대응 못 해]]></title>
-        <id>https://articles.dotface.kr/climate2022-5</id>
-        <link href="https://articles.dotface.kr/climate2022-5"/>
-        <updated>2021-12-28T13:22:25.954Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [쓰레기와 자원 순환 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 후보의 기후 공약, 제 점수는요]]></title>
-        <id>https://articles.dotface.kr/climate2022-4</id>
-        <link href="https://articles.dotface.kr/climate2022-4"/>
-        <updated>2021-12-28T13:22:25.955Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 기후 위기 공약 [평가 편]]]></content>
     </entry>
 </feed>
