@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-30T21:15:02.340Z</updated>
+    <updated>2021-12-30T23:18:20.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[빅데이터!]]></title>
+        <id>https://alook.so/posts/rDt08z</id>
+        <link href="https://alook.so/posts/rDt08z"/>
+        <updated>2021-12-30T23:16:48.681Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt08z">빅데이터!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일의 개념이 바뀔 뿐입니다.]]></title>
+        <id>https://alook.so/posts/E7tXYm</id>
+        <link href="https://alook.so/posts/E7tXYm"/>
+        <updated>2021-12-30T23:16:48.683Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXYm"> 일의 개념이 바뀔 뿐입니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성공에 관한 이야기 (실화)]]></title>
         <id>https://alook.so/posts/92tkJZ</id>
@@ -53,12 +67,5 @@
         <link href="https://alook.so/posts/o7tEml"/>
         <updated>2021-12-30T15:16:11.397Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEml">고민의 의미</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플라잉 택시 ...]]></title>
-        <id>https://alook.so/posts/YytL90</id>
-        <link href="https://alook.so/posts/YytL90"/>
-        <updated>2021-12-30T14:14:45.935Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL90">플라잉 택시 ...</a>]]></content>
     </entry>
 </feed>
