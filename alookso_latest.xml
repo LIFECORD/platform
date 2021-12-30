@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-30T15:17:44.465Z</updated>
+    <updated>2021-12-30T17:24:29.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가장 가까이에서 오랫동안 보아왔기에 쉽게 착각한다]]></title>
+        <id>https://alook.so/posts/mbtjPL</id>
+        <link href="https://alook.so/posts/mbtjPL"/>
+        <updated>2021-12-30T17:23:07.897Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjPL">가장 가까이에서 오랫동안 보아왔기에 쉽게 착각한다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리는 왜 대선토론을 보고 싶어하는가?]]></title>
         <id>https://alook.so/posts/q1tWr3</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/bWtEdb"/>
         <updated>2021-12-30T13:23:23.148Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEdb">공교육이 아이들과 학부모에게 만족감을 주고있는걸까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혹시 층간소음(옆집소음) 얘기 하시나요? 참으시나요?]]></title>
-        <id>https://alook.so/posts/a0t0mo</id>
-        <link href="https://alook.so/posts/a0t0mo"/>
-        <updated>2021-12-30T13:23:23.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0mo">혹시 층간소음(옆집소음) 얘기 하시나요? 참으시나요?</a>]]></content>
     </entry>
 </feed>
