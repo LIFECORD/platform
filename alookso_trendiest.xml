@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-30T08:20:46.567Z</updated>
+    <updated>2021-12-30T10:18:18.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[다들 첫 출근에는 어떤 기분이 드나요?]]></title>
+        <id>https://alook.so/posts/Vntae3</id>
+        <link href="https://alook.so/posts/Vntae3"/>
+        <updated>2021-12-30T10:16:57.940Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntae3">다들 첫 출근에는 어떤 기분이 드나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사계절을 한마디로 표현해 주세요.]]></title>
+        <id>https://alook.so/posts/zvtqZz</id>
+        <link href="https://alook.so/posts/zvtqZz"/>
+        <updated>2021-12-30T10:16:57.946Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqZz">사계절을 한마디로 표현해 주세요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['시크릿' 10여년만에 꺼내다]]></title>
+        <id>https://alook.so/posts/0ktemo</id>
+        <link href="https://alook.so/posts/0ktemo"/>
+        <updated>2021-12-30T10:16:57.951Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktemo">'시크릿' 10여년만에 꺼내다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주택시장에 관한 근거없는 생각들]]></title>
         <id>https://alook.so/posts/4Xt4On</id>
@@ -102,19 +123,5 @@
         <link href="https://alook.so/posts/1RtzMM"/>
         <updated>2021-12-30T07:15:00.181Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzMM">돈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투자는 희망이다]]></title>
-        <id>https://alook.so/posts/o7tE0l</id>
-        <link href="https://alook.so/posts/o7tE0l"/>
-        <updated>2021-12-30T07:15:00.183Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tE0l">투자는 희망이다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 한가족? 본인이 필요할 때만?]]></title>
-        <id>https://alook.so/posts/YytLD0</id>
-        <link href="https://alook.so/posts/YytLD0"/>
-        <updated>2021-12-30T07:15:00.184Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLD0">우리는 한가족? 본인이 필요할 때만?</a>]]></content>
     </entry>
 </feed>
