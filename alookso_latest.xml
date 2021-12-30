@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-30T18:19:06.089Z</updated>
+    <updated>2021-12-30T19:14:23.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -60,12 +60,5 @@
         <link href="https://alook.so/posts/YytL90"/>
         <updated>2021-12-30T14:14:45.935Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL90">플라잉 택시 ...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회인이 되신 것을 축하드립니다.]]></title>
-        <id>https://alook.so/posts/rDt08J</id>
-        <link href="https://alook.so/posts/rDt08J"/>
-        <updated>2021-12-30T14:14:45.937Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt08J">사회인이 되신 것을 축하드립니다.</a>]]></content>
     </entry>
 </feed>
