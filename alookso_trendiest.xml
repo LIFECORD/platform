@@ -2,44 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-30T13:24:45.303Z</updated>
+    <updated>2021-12-30T14:16:12.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[위험을 감수할 자유가 있었으면 좋겠습니다.]]></title>
-        <id>https://alook.so/posts/eVtErW</id>
-        <link href="https://alook.so/posts/eVtErW"/>
-        <updated>2021-12-30T12:24:50.711Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtErW">위험을 감수할 자유가 있었으면 좋겠습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다들 첫 출근에는 어떤 기분이 드나요?]]></title>
-        <id>https://alook.so/posts/Vntae3</id>
-        <link href="https://alook.so/posts/Vntae3"/>
-        <updated>2021-12-30T10:16:57.940Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntae3">다들 첫 출근에는 어떤 기분이 드나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사계절을 한마디로 표현해 주세요.]]></title>
-        <id>https://alook.so/posts/zvtqZz</id>
-        <link href="https://alook.so/posts/zvtqZz"/>
-        <updated>2021-12-30T10:16:57.946Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqZz">사계절을 한마디로 표현해 주세요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시크릿' 10여년만에 꺼내다]]></title>
-        <id>https://alook.so/posts/0ktemo</id>
-        <link href="https://alook.so/posts/0ktemo"/>
-        <updated>2021-12-30T10:16:57.951Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktemo">'시크릿' 10여년만에 꺼내다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주택시장에 관한 근거없는 생각들]]></title>
-        <id>https://alook.so/posts/4Xt4On</id>
-        <link href="https://alook.so/posts/4Xt4On"/>
-        <updated>2021-12-30T08:19:24.358Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4On">주택시장에 관한 근거없는 생각들</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[올해의 노래: 늑대가 나타났다 by 이랑]]></title>
         <id>https://alook.so/posts/w9tEym</id>
@@ -55,11 +20,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMqx">아이유라는 아티스트</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(1) 브로맨스 북클럽 _독서 후기 ( ★★★★)]]></title>
-        <id>https://alook.so/posts/6Mt9OK</id>
-        <link href="https://alook.so/posts/6Mt9OK"/>
-        <updated>2021-12-30T03:15:07.141Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt9OK">(1) 브로맨스 북클럽 _독서 후기 ( ★★★★)</a>]]></content>
+        <title type="html"><![CDATA[다들 첫 출근에는 어떤 기분이 드나요?]]></title>
+        <id>https://alook.so/posts/Vntae3</id>
+        <link href="https://alook.so/posts/Vntae3"/>
+        <updated>2021-12-30T10:16:57.940Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntae3">다들 첫 출근에는 어떤 기분이 드나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주택시장에 관한 근거없는 생각들]]></title>
+        <id>https://alook.so/posts/4Xt4On</id>
+        <link href="https://alook.so/posts/4Xt4On"/>
+        <updated>2021-12-30T08:19:24.358Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4On">주택시장에 관한 근거없는 생각들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회적 나이(Social Age)로 세대론을 바라보기]]></title>
+        <id>https://alook.so/posts/potmLG</id>
+        <link href="https://alook.so/posts/potmLG"/>
+        <updated>2021-12-30T14:14:53.747Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmLG">사회적 나이(Social Age)로 세대론을 바라보기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[늦은 아침 생각] 생각하는 대로 살지 않으면]]></title>
@@ -67,13 +46,6 @@
         <link href="https://alook.so/posts/3wtOk3"/>
         <updated>2021-12-30T03:15:07.142Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOk3">[늦은 아침 생각] 생각하는 대로 살지 않으면</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산유화]]></title>
-        <id>https://alook.so/posts/8Wtj7j</id>
-        <link href="https://alook.so/posts/8Wtj7j"/>
-        <updated>2021-12-30T07:15:00.171Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtj7j">산유화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[교육이 아이들에게 절망을 가르쳤어]]></title>
@@ -90,24 +62,73 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqRj">스카이에듀 폐업, 그리고 사교육 이야기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노인을 위한 나라]]></title>
-        <id>https://alook.so/posts/KmtWkP</id>
-        <link href="https://alook.so/posts/KmtWkP"/>
-        <updated>2021-12-30T07:15:00.174Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWkP">노인을 위한 나라</a>]]></content>
+        <title type="html"><![CDATA[사계절을 한마디로 표현해 주세요.]]></title>
+        <id>https://alook.so/posts/zvtqZz</id>
+        <link href="https://alook.so/posts/zvtqZz"/>
+        <updated>2021-12-30T10:16:57.946Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqZz">사계절을 한마디로 표현해 주세요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전문성을 살릴 것인가 VS 다양한 일을 해 볼 것인가]]></title>
-        <id>https://alook.so/posts/mbtjBL</id>
-        <link href="https://alook.so/posts/mbtjBL"/>
-        <updated>2021-12-29T14:14:59.883Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjBL">전문성을 살릴 것인가 VS 다양한 일을 해 볼 것인가</a>]]></content>
+        <title type="html"><![CDATA['시크릿' 10여년만에 꺼내다]]></title>
+        <id>https://alook.so/posts/0ktemo</id>
+        <link href="https://alook.so/posts/0ktemo"/>
+        <updated>2021-12-30T10:16:57.951Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktemo">'시크릿' 10여년만에 꺼내다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저도 아직까지 그 해답을 찾고 있습니다.]]></title>
-        <id>https://alook.so/posts/54tE4r</id>
-        <link href="https://alook.so/posts/54tE4r"/>
-        <updated>2021-12-29T14:14:59.883Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE4r">저도 아직까지 그 해답을 찾고 있습니다.</a>]]></content>
+        <title type="html"><![CDATA[연말의 아쉬운 느낌]]></title>
+        <id>https://alook.so/posts/ZktPbv</id>
+        <link href="https://alook.so/posts/ZktPbv"/>
+        <updated>2021-12-30T14:14:53.753Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPbv">연말의 아쉬운 느낌</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alookso 게시글 외부 플랫폼 가이드라인 문의]]></title>
+        <id>https://alook.so/posts/eVtERW</id>
+        <link href="https://alook.so/posts/eVtERW"/>
+        <updated>2021-12-30T14:14:53.754Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtERW">alookso 게시글 외부 플랫폼 가이드라인 문의</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(1) 브로맨스 북클럽 _독서 후기 ( ★★★★)]]></title>
+        <id>https://alook.so/posts/6Mt9OK</id>
+        <link href="https://alook.so/posts/6Mt9OK"/>
+        <updated>2021-12-30T03:15:07.141Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt9OK">(1) 브로맨스 북클럽 _독서 후기 ( ★★★★)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위험을 감수할 자유가 있었으면 좋겠습니다.]]></title>
+        <id>https://alook.so/posts/eVtErW</id>
+        <link href="https://alook.so/posts/eVtErW"/>
+        <updated>2021-12-30T12:24:50.711Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtErW">위험을 감수할 자유가 있었으면 좋겠습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무엇이 잘 사는 길일까?]]></title>
+        <id>https://alook.so/posts/jdtE31</id>
+        <link href="https://alook.so/posts/jdtE31"/>
+        <updated>2021-12-30T14:14:53.759Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtE31">무엇이 잘 사는 길일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <너에게 가는 길> - 존재 자체에 대한 인정과 사랑]]></title>
+        <id>https://alook.so/posts/ZktPOv</id>
+        <link href="https://alook.so/posts/ZktPOv"/>
+        <updated>2021-12-30T14:14:53.761Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPOv">영화 &lt;너에게 가는 길&gt; - 존재 자체에 대한 인정과 사랑</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플라잉 택시 ...]]></title>
+        <id>https://alook.so/posts/YytL90</id>
+        <link href="https://alook.so/posts/YytL90"/>
+        <updated>2021-12-30T14:14:53.762Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL90">플라잉 택시 ...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회인이 되신 것을 축하드립니다.]]></title>
+        <id>https://alook.so/posts/rDt08J</id>
+        <link href="https://alook.so/posts/rDt08J"/>
+        <updated>2021-12-30T14:14:53.763Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt08J">사회인이 되신 것을 축하드립니다.</a>]]></content>
     </entry>
 </feed>
