@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-30T06:19:46.657Z</updated>
+    <updated>2021-12-30T07:16:20.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[올해의 노래: 늑대가 나타났다 by 이랑]]></title>
+        <id>https://alook.so/posts/w9tEym</id>
+        <link href="https://alook.so/posts/w9tEym"/>
+        <updated>2021-12-30T07:14:51.953Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEym">올해의 노래: 늑대가 나타났다 by 이랑</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[격어 봤니? 같은 성별끼리 결혼?]]></title>
+        <id>https://alook.so/posts/xlt1J9</id>
+        <link href="https://alook.so/posts/xlt1J9"/>
+        <updated>2021-12-30T07:14:51.954Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1J9">격어 봤니? 같은 성별끼리 결혼?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산타가 실재하는 세상]]></title>
+        <id>https://alook.so/posts/RGtxq3</id>
+        <link href="https://alook.so/posts/RGtxq3"/>
+        <updated>2021-12-30T07:14:51.955Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxq3">산타가 실재하는 세상</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이러니하게도 열심히 노력하면...]]></title>
         <id>https://alook.so/posts/kZtmLo</id>
         <link href="https://alook.so/posts/kZtmLo"/>
         <updated>2021-12-30T06:18:24.763Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmLo">아이러니하게도 열심히 노력하면...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인사]]></title>
-        <id>https://alook.so/posts/yEtbZW</id>
-        <link href="https://alook.so/posts/yEtbZW"/>
-        <updated>2021-12-30T06:18:24.764Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbZW">인사</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이유라는 아티스트]]></title>
@@ -46,19 +60,5 @@
         <link href="https://alook.so/posts/8Wtj7j"/>
         <updated>2021-12-29T18:18:39.248Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtj7j">산유화</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교육이 아이들에게 절망을 가르쳤어]]></title>
-        <id>https://alook.so/posts/G1tq9l</id>
-        <link href="https://alook.so/posts/G1tq9l"/>
-        <updated>2021-12-29T17:23:17.472Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq9l">교육이 아이들에게 절망을 가르쳤어</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스카이에듀 폐업, 그리고 사교육 이야기]]></title>
-        <id>https://alook.so/posts/vKtqRj</id>
-        <link href="https://alook.so/posts/vKtqRj"/>
-        <updated>2021-12-29T16:22:39.308Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqRj">스카이에듀 폐업, 그리고 사교육 이야기</a>]]></content>
     </entry>
 </feed>
