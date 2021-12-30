@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-30T03:16:20.375Z</updated>
+    <updated>2021-12-30T06:19:46.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아이러니하게도 열심히 노력하면...]]></title>
+        <id>https://alook.so/posts/kZtmLo</id>
+        <link href="https://alook.so/posts/kZtmLo"/>
+        <updated>2021-12-30T06:18:24.763Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmLo">아이러니하게도 열심히 노력하면...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인사]]></title>
+        <id>https://alook.so/posts/yEtbZW</id>
+        <link href="https://alook.so/posts/yEtbZW"/>
+        <updated>2021-12-30T06:18:24.764Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbZW">인사</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이유라는 아티스트]]></title>
+        <id>https://alook.so/posts/BatMqx</id>
+        <link href="https://alook.so/posts/BatMqx"/>
+        <updated>2021-12-30T06:18:24.765Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMqx">아이유라는 아티스트</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(1) 브로맨스 북클럽 _독서 후기 ( ★★★★)]]></title>
         <id>https://alook.so/posts/6Mt9OK</id>
@@ -39,12 +60,5 @@
         <link href="https://alook.so/posts/vKtqRj"/>
         <updated>2021-12-29T16:22:39.308Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqRj">스카이에듀 폐업, 그리고 사교육 이야기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리의 평생 과제 닭?닭걀?누가먼저?]]></title>
-        <id>https://alook.so/posts/E7tX3m</id>
-        <link href="https://alook.so/posts/E7tX3m"/>
-        <updated>2021-12-29T15:16:10.700Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tX3m">우리의 평생 과제 닭?닭걀?누가먼저?</a>]]></content>
     </entry>
 </feed>
