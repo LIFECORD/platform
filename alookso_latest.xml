@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-31T15:17:49.876Z</updated>
+    <updated>2021-12-31T20:17:34.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[임인년 새해 복많이 받으세요.]]></title>
+        <id>https://alook.so/posts/potmJJ</id>
+        <link href="https://alook.so/posts/potmJJ"/>
+        <updated>2021-12-31T20:16:08.656Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmJJ">임인년 새해 복많이 받으세요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내년은 내일]]></title>
+        <id>https://alook.so/posts/Pvtp2e</id>
+        <link href="https://alook.so/posts/Pvtp2e"/>
+        <updated>2021-12-31T20:16:08.656Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtp2e">내년은 내일</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[곰곰히 생각해봤는데 우리 사회의 약자는,]]></title>
         <id>https://alook.so/posts/Vnta5O</id>
@@ -32,33 +46,5 @@
         <link href="https://alook.so/posts/M9tX0L"/>
         <updated>2021-12-31T14:14:22.061Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX0L">2021년 한 해를 보내면서.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그냥 평범한하루같아요]]></title>
-        <id>https://alook.so/posts/4Xt4mP</id>
-        <link href="https://alook.so/posts/4Xt4mP"/>
-        <updated>2021-12-31T14:14:22.063Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4mP">그냥 평범한하루같아요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시 일기]_ 쌀 씻기]]></title>
-        <id>https://alook.so/posts/XBtbG2</id>
-        <link href="https://alook.so/posts/XBtbG2"/>
-        <updated>2021-12-31T14:14:22.064Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbG2">[시 일기]_ 쌀 씻기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후위기에 대한 한 공대생의 생각]]></title>
-        <id>https://alook.so/posts/w9tEbW</id>
-        <link href="https://alook.so/posts/w9tEbW"/>
-        <updated>2021-12-31T14:14:22.066Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEbW">기후위기에 대한 한 공대생의 생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 10대가 불행한 이유]]></title>
-        <id>https://alook.so/posts/xlt1np</id>
-        <link href="https://alook.so/posts/xlt1np"/>
-        <updated>2021-12-31T14:14:22.067Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1np">한국의 10대가 불행한 이유</a>]]></content>
     </entry>
 </feed>
