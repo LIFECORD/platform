@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-31T10:17:55.653Z</updated>
+    <updated>2021-12-31T14:15:48.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국의 10대가 불행한 이유]]></title>
+        <id>https://alook.so/posts/xlt1np</id>
+        <link href="https://alook.so/posts/xlt1np"/>
+        <updated>2021-12-31T14:14:30.752Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1np">한국의 10대가 불행한 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새해 복 많이 받으세요~^^]]></title>
+        <id>https://alook.so/posts/yEtbao</id>
+        <link href="https://alook.so/posts/yEtbao"/>
+        <updated>2021-12-31T14:14:30.753Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbao">새해 복 많이 받으세요~^^</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 마지막 날의 마지막 밤]]></title>
+        <id>https://alook.so/posts/BatMk3</id>
+        <link href="https://alook.so/posts/BatMk3"/>
+        <updated>2021-12-31T14:14:30.755Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMk3">2021년 마지막 날의 마지막 밤</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의아저씨는 반칙입니다 ...]]></title>
+        <id>https://alook.so/posts/LKtWKX</id>
+        <link href="https://alook.so/posts/LKtWKX"/>
+        <updated>2021-12-31T14:14:30.756Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWKX">나의아저씨는 반칙입니다 ...</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년 마지막날, 새로운 한해 바라는점?]]></title>
         <id>https://alook.so/posts/njtVoE</id>
@@ -41,6 +69,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKeZ">백신 괴생명체 들어보셨나요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[진보진영의 후보 단일화와 대선 공동대응]]></title>
+        <id>https://alook.so/posts/vKtqWY</id>
+        <link href="https://alook.so/posts/vKtqWY"/>
+        <updated>2021-12-31T14:14:30.765Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqWY">진보진영의 후보 단일화와 대선 공동대응 </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[한국사회는 산나 마린이 등장할 수 있을까]]></title>
         <id>https://alook.so/posts/E7tXYn</id>
         <link href="https://alook.so/posts/E7tXYn"/>
@@ -74,40 +109,5 @@
         <link href="https://alook.so/posts/q1tWr6"/>
         <updated>2021-12-31T10:16:43.394Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWr6">(2) 가재가 노래하는 곳 _ 독서 후기(★★★★)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어쩌다보니 사회복지사]]></title>
-        <id>https://alook.so/posts/Djt4qb</id>
-        <link href="https://alook.so/posts/Djt4qb"/>
-        <updated>2021-12-31T10:16:43.394Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4qb">어쩌다보니 사회복지사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갑질과 기득권의 상관 관계]]></title>
-        <id>https://alook.so/posts/1RtzO3</id>
-        <link href="https://alook.so/posts/1RtzO3"/>
-        <updated>2021-12-31T10:16:43.398Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzO3">갑질과 기득권의 상관 관계</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 행복의 공식]]></title>
-        <id>https://alook.so/posts/70tYDM</id>
-        <link href="https://alook.so/posts/70tYDM"/>
-        <updated>2021-12-31T02:05:16.428Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYDM">[늦은 아침 생각] 행복의 공식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅데이터!]]></title>
-        <id>https://alook.so/posts/rDt08z</id>
-        <link href="https://alook.so/posts/rDt08z"/>
-        <updated>2021-12-31T10:16:43.400Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt08z">빅데이터!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성공에 관한 이야기 (실화)]]></title>
-        <id>https://alook.so/posts/92tkJZ</id>
-        <link href="https://alook.so/posts/92tkJZ"/>
-        <updated>2021-12-31T05:15:23.516Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkJZ">성공에 관한 이야기 (실화)</a>]]></content>
     </entry>
 </feed>
