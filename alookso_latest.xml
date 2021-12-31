@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-31T14:15:48.381Z</updated>
+    <updated>2021-12-31T15:17:49.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[곰곰히 생각해봤는데 우리 사회의 약자는,]]></title>
+        <id>https://alook.so/posts/Vnta5O</id>
+        <link href="https://alook.so/posts/Vnta5O"/>
+        <updated>2021-12-31T15:16:25.396Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnta5O">곰곰히 생각해봤는데 우리 사회의 약자는,</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 주택시장에 관한 근거없는 생각들-에 대한 꼬리를 무는 생각들]]></title>
+        <id>https://alook.so/posts/zvtqVJ</id>
+        <link href="https://alook.so/posts/zvtqVJ"/>
+        <updated>2021-12-31T15:16:25.397Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqVJ">답글: 주택시장에 관한 근거없는 생각들-에 대한 꼬리를 무는 생각들 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군대서 340일을 지낸 나의 2021년]]></title>
+        <id>https://alook.so/posts/2xt9R2</id>
+        <link href="https://alook.so/posts/2xt9R2"/>
+        <updated>2021-12-31T15:16:25.398Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9R2">군대서 340일을 지낸 나의 2021년</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년 한 해를 보내면서.]]></title>
         <id>https://alook.so/posts/M9tX0L</id>
@@ -39,19 +60,5 @@
         <link href="https://alook.so/posts/xlt1np"/>
         <updated>2021-12-31T14:14:22.067Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1np">한국의 10대가 불행한 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 복 많이 받으세요~^^]]></title>
-        <id>https://alook.so/posts/yEtbao</id>
-        <link href="https://alook.so/posts/yEtbao"/>
-        <updated>2021-12-31T14:14:22.070Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbao">새해 복 많이 받으세요~^^</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 마지막 날의 마지막 밤]]></title>
-        <id>https://alook.so/posts/BatMk3</id>
-        <link href="https://alook.so/posts/BatMk3"/>
-        <updated>2021-12-31T14:14:22.072Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMk3">2021년 마지막 날의 마지막 밤</a>]]></content>
     </entry>
 </feed>
