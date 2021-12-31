@@ -2,78 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-31T03:17:55.707Z</updated>
+    <updated>2021-12-31T05:16:44.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[올해의 노래: 늑대가 나타났다 by 이랑]]></title>
-        <id>https://alook.so/posts/w9tEym</id>
-        <link href="https://alook.so/posts/w9tEym"/>
-        <updated>2021-12-30T20:16:28.789Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEym">올해의 노래: 늑대가 나타났다 by 이랑</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 왜 대선토론을 보고 싶어하는가?]]></title>
-        <id>https://alook.so/posts/q1tWr3</id>
-        <link href="https://alook.so/posts/q1tWr3"/>
-        <updated>2021-12-30T17:23:15.550Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWr3">우리는 왜 대선토론을 보고 싶어하는가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주택시장에 관한 근거없는 생각들]]></title>
-        <id>https://alook.so/posts/4Xt4On</id>
-        <link href="https://alook.so/posts/4Xt4On"/>
-        <updated>2021-12-30T08:19:24.358Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4On">주택시장에 관한 근거없는 생각들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유라는 아티스트]]></title>
-        <id>https://alook.so/posts/BatMqx</id>
-        <link href="https://alook.so/posts/BatMqx"/>
-        <updated>2021-12-30T20:16:28.790Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMqx">아이유라는 아티스트</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 행복의 공식]]></title>
-        <id>https://alook.so/posts/70tYDM</id>
-        <link href="https://alook.so/posts/70tYDM"/>
-        <updated>2021-12-31T02:05:16.428Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYDM">[늦은 아침 생각] 행복의 공식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교육이 아이들에게 절망을 가르쳤어]]></title>
-        <id>https://alook.so/posts/G1tq9l</id>
-        <link href="https://alook.so/posts/G1tq9l"/>
-        <updated>2021-12-30T20:16:28.802Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq9l">교육이 아이들에게 절망을 가르쳤어</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다들 첫 출근에는 어떤 기분이 드나요?]]></title>
-        <id>https://alook.so/posts/Vntae3</id>
-        <link href="https://alook.so/posts/Vntae3"/>
-        <updated>2021-12-30T10:16:57.940Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntae3">다들 첫 출근에는 어떤 기분이 드나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스카이에듀 폐업, 그리고 사교육 이야기]]></title>
-        <id>https://alook.so/posts/vKtqRj</id>
-        <link href="https://alook.so/posts/vKtqRj"/>
-        <updated>2021-12-31T02:05:16.430Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqRj">스카이에듀 폐업, 그리고 사교육 이야기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남들만 결혼시키기]]></title>
-        <id>https://alook.so/posts/J5tVy6</id>
-        <link href="https://alook.so/posts/J5tVy6"/>
-        <updated>2021-12-30T17:23:15.555Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVy6">남들만 결혼시키기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사계절을 한마디로 표현해 주세요.]]></title>
-        <id>https://alook.so/posts/zvtqZz</id>
-        <link href="https://alook.so/posts/zvtqZz"/>
-        <updated>2021-12-30T10:16:57.946Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqZz">사계절을 한마디로 표현해 주세요.</a>]]></content>
+        <title type="html"><![CDATA[한국사회는 산나 마린이 등장할 수 있을까]]></title>
+        <id>https://alook.so/posts/E7tXYn</id>
+        <link href="https://alook.so/posts/E7tXYn"/>
+        <updated>2021-12-31T05:15:23.510Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXYn">한국사회는 산나 마린이 등장할 수 있을까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주 4일제 멀지 않았습니다.]]></title>
@@ -90,11 +27,67 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEzb">저는 삼성전자 주식을 아이를 위해 사주었습니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[늦은 아침 생각] 행복의 공식]]></title>
+        <id>https://alook.so/posts/70tYDM</id>
+        <link href="https://alook.so/posts/70tYDM"/>
+        <updated>2021-12-31T02:05:16.428Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYDM">[늦은 아침 생각] 행복의 공식</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성공에 관한 이야기 (실화)]]></title>
+        <id>https://alook.so/posts/92tkJZ</id>
+        <link href="https://alook.so/posts/92tkJZ"/>
+        <updated>2021-12-31T05:15:23.516Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkJZ">성공에 관한 이야기 (실화)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누군가  도와주길 바란다면 먼저 해야 될것은]]></title>
+        <id>https://alook.so/posts/KmtWXP</id>
+        <link href="https://alook.so/posts/KmtWXP"/>
+        <updated>2021-12-30T23:16:56.986Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWXP">누군가  도와주길 바란다면 먼저 해야 될것은</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 가까이에서 오랫동안 보아왔기에 쉽게 착각한다]]></title>
+        <id>https://alook.so/posts/mbtjPL</id>
+        <link href="https://alook.so/posts/mbtjPL"/>
+        <updated>2021-12-31T05:15:23.517Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjPL">가장 가까이에서 오랫동안 보아왔기에 쉽게 착각한다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리는 왜 대선토론을 보고 싶어하는가?]]></title>
+        <id>https://alook.so/posts/q1tWr3</id>
+        <link href="https://alook.so/posts/q1tWr3"/>
+        <updated>2021-12-30T17:23:15.550Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWr3">우리는 왜 대선토론을 보고 싶어하는가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족이란,]]></title>
+        <id>https://alook.so/posts/1RtzOM</id>
+        <link href="https://alook.so/posts/1RtzOM"/>
+        <updated>2021-12-31T05:15:23.518Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzOM">가족이란,</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고민의 의미]]></title>
+        <id>https://alook.so/posts/o7tEml</id>
+        <link href="https://alook.so/posts/o7tEml"/>
+        <updated>2021-12-31T05:15:23.519Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEml">고민의 의미</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[플라잉 택시 ...]]></title>
         <id>https://alook.so/posts/YytL90</id>
         <link href="https://alook.so/posts/YytL90"/>
         <updated>2021-12-30T14:14:53.762Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL90">플라잉 택시 ...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회인이 되신 것을 축하드립니다.]]></title>
+        <id>https://alook.so/posts/rDt08J</id>
+        <link href="https://alook.so/posts/rDt08J"/>
+        <updated>2021-12-31T05:15:23.523Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt08J">사회인이 되신 것을 축하드립니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공교육이 아이들과 학부모에게 만족감을 주고있는걸까?]]></title>
@@ -111,24 +104,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0mo">혹시 층간소음(옆집소음) 얘기 하시나요? 참으시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누군가  도와주길 바란다면 먼저 해야 될것은]]></title>
-        <id>https://alook.so/posts/KmtWXP</id>
-        <link href="https://alook.so/posts/KmtWXP"/>
-        <updated>2021-12-30T23:16:56.986Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWXP">누군가  도와주길 바란다면 먼저 해야 될것은</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[연말의 아쉬운 느낌]]></title>
         <id>https://alook.so/posts/ZktPbv</id>
         <link href="https://alook.so/posts/ZktPbv"/>
         <updated>2021-12-30T14:14:53.753Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPbv">연말의 아쉬운 느낌</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회적 나이(Social Age)로 세대론을 바라보기]]></title>
-        <id>https://alook.so/posts/potmLG</id>
-        <link href="https://alook.so/posts/potmLG"/>
-        <updated>2021-12-30T20:16:28.798Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmLG">사회적 나이(Social Age)로 세대론을 바라보기</a>]]></content>
     </entry>
 </feed>
