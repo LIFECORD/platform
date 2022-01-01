@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-31T23:16:31.682Z</updated>
+    <updated>2022-01-01T05:16:36.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[내 커리어를 쌓자니 가족이 마음에 걸린다.]]></title>
+        <id>https://alook.so/posts/70tY1M</id>
+        <link href="https://alook.so/posts/70tY1M"/>
+        <updated>2022-01-01T05:15:19.428Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY1M">내 커리어를 쌓자니 가족이 마음에 걸린다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(새해 맞이 퀴즈 아닌 퀴즈) 누구의 손을 들어 주시렵니까?]]></title>
+        <id>https://alook.so/posts/rDt05z</id>
+        <link href="https://alook.so/posts/rDt05z"/>
+        <updated>2022-01-01T05:15:19.430Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt05z">(새해 맞이 퀴즈 아닌 퀴즈) 누구의 손을 들어 주시렵니까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국의 10대가 직접 말하는 한국의 10대가 불행한 이유]]></title>
+        <id>https://alook.so/posts/bWtE1l</id>
+        <link href="https://alook.so/posts/bWtE1l"/>
+        <updated>2022-01-01T05:15:19.430Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtE1l">한국의 10대가 직접 말하는 한국의 10대가 불행한 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[늦은 아침 새해 인사] Be Crazy 2022!]]></title>
+        <id>https://alook.so/posts/a0t0Eb</id>
+        <link href="https://alook.so/posts/a0t0Eb"/>
+        <updated>2022-01-01T05:15:19.431Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0Eb">[늦은 아침 새해 인사] Be Crazy 2022!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제주도에서 맞이한 일출]]></title>
+        <id>https://alook.so/posts/ZktPYn</id>
+        <link href="https://alook.so/posts/ZktPYn"/>
+        <updated>2022-01-01T05:15:19.431Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPYn">제주도에서 맞이한 일출</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임인년 새해 복많이 받으세요.]]></title>
         <id>https://alook.so/posts/potmJJ</id>
@@ -74,33 +109,5 @@
         <link href="https://alook.so/posts/xlt1np"/>
         <updated>2021-12-31T14:14:30.752Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1np">한국의 10대가 불행한 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 복 많이 받으세요~^^]]></title>
-        <id>https://alook.so/posts/yEtbao</id>
-        <link href="https://alook.so/posts/yEtbao"/>
-        <updated>2021-12-31T14:14:30.753Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbao">새해 복 많이 받으세요~^^</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 마지막 날의 마지막 밤]]></title>
-        <id>https://alook.so/posts/BatMk3</id>
-        <link href="https://alook.so/posts/BatMk3"/>
-        <updated>2021-12-31T14:14:30.755Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMk3">2021년 마지막 날의 마지막 밤</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의아저씨는 반칙입니다 ...]]></title>
-        <id>https://alook.so/posts/LKtWKX</id>
-        <link href="https://alook.so/posts/LKtWKX"/>
-        <updated>2021-12-31T14:14:30.756Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWKX">나의아저씨는 반칙입니다 ...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 마지막날, 새로운 한해 바라는점?]]></title>
-        <id>https://alook.so/posts/njtVoE</id>
-        <link href="https://alook.so/posts/njtVoE"/>
-        <updated>2021-12-31T10:16:43.386Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVoE">2021년 마지막날, 새로운 한해 바라는점?</a>]]></content>
     </entry>
 </feed>
