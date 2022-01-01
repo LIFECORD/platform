@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-01T08:19:34.227Z</updated>
+    <updated>2022-01-01T10:18:35.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[공무원이 목표인 나라]]></title>
+        <id>https://alook.so/posts/G1tq6Z</id>
+        <link href="https://alook.so/posts/G1tq6Z"/>
+        <updated>2022-01-01T10:17:02.023Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq6Z">공무원이 목표인 나라</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국과 중국이 사이가 나빠진다면 우리는?]]></title>
+        <id>https://alook.so/posts/OEtKMZ</id>
+        <link href="https://alook.so/posts/OEtKMZ"/>
+        <updated>2022-01-01T10:17:02.023Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKMZ">미국과 중국이 사이가 나빠진다면 우리는?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다가갈 줄 모르는 나 자신..]]></title>
         <id>https://alook.so/posts/vKtqyY</id>
