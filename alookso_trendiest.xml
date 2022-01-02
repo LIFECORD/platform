@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-01T23:16:28.103Z</updated>
+    <updated>2022-01-02T00:53:53.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[꼬리에 꼬리를 물어가는 공부]]></title>
+        <id>https://alook.so/posts/VntalO</id>
+        <link href="https://alook.so/posts/VntalO"/>
+        <updated>2022-01-02T00:52:30.084Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntalO">꼬리에 꼬리를 물어가는 공부</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비타민D복용]]></title>
         <id>https://alook.so/posts/zvtq6J</id>
@@ -25,13 +32,6 @@
         <link href="https://alook.so/posts/0ktepv"/>
         <updated>2022-01-01T18:18:29.727Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktepv">주 4일제 가능할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 하면 돈을 벌 수 있을까요?]]></title>
-        <id>https://alook.so/posts/M9tX3L</id>
-        <link href="https://alook.so/posts/M9tX3L"/>
-        <updated>2022-01-01T18:18:29.728Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX3L">어떻게 하면 돈을 벌 수 있을까요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[생각할 가족이 있다는 것만으로도 행복입니다.]]></title>
@@ -81,19 +81,5 @@
         <link href="https://alook.so/posts/vKtqyY"/>
         <updated>2022-01-01T22:14:34.469Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqyY">다가갈 줄 모르는 나 자신..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족이란건?]]></title>
-        <id>https://alook.so/posts/E7tX4n</id>
-        <link href="https://alook.so/posts/E7tX4n"/>
-        <updated>2022-01-01T22:14:34.470Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tX4n">가족이란건?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[등급]]></title>
-        <id>https://alook.so/posts/latoym</id>
-        <link href="https://alook.so/posts/latoym"/>
-        <updated>2022-01-01T22:14:34.472Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoym">등급</a>]]></content>
     </entry>
 </feed>
