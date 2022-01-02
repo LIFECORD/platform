@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-02T11:14:09.861Z</updated>
+    <updated>2022-01-02T13:23:07.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[가족이라는 이름의 족쇄]]></title>
+        <id>https://alook.so/posts/KmtWG0</id>
+        <link href="https://alook.so/posts/KmtWG0"/>
+        <updated>2022-01-02T13:21:38.390Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWG0">가족이라는 이름의 족쇄</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옷소매 붉은끝동에서는 효의왕후가 등장조차 안 하다니...]]></title>
+        <id>https://alook.so/posts/mbtj8K</id>
+        <link href="https://alook.so/posts/mbtj8K"/>
+        <updated>2022-01-02T13:21:38.392Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtj8K">옷소매 붉은끝동에서는 효의왕후가 등장조차 안 하다니...</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내 직업은 디지털 서포터즈!]]></title>
         <id>https://alook.so/posts/54tErb</id>
@@ -32,19 +46,5 @@
         <link href="https://alook.so/posts/70tYGM"/>
         <updated>2022-01-02T10:16:43.930Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYGM">‘나라 구한 유튜버’를 보며 생각했던, 조금 다른 방향의 비관론</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사형집행의 필요성]]></title>
-        <id>https://alook.so/posts/jdtEwP</id>
-        <link href="https://alook.so/posts/jdtEwP"/>
-        <updated>2022-01-02T10:16:43.931Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEwP">사형집행의 필요성</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겪어보지 않으면 모릅니다.]]></title>
-        <id>https://alook.so/posts/bWtE0l</id>
-        <link href="https://alook.so/posts/bWtE0l"/>
-        <updated>2022-01-02T10:16:43.932Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtE0l">겪어보지 않으면 모릅니다.</a>]]></content>
     </entry>
 </feed>
