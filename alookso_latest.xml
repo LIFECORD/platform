@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-03T15:17:18.285Z</updated>
+    <updated>2022-01-03T16:26:29.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[연봉차이]]></title>
+        <id>https://alook.so/posts/1RtzBW</id>
+        <link href="https://alook.so/posts/1RtzBW"/>
+        <updated>2022-01-03T16:25:01.870Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzBW">연봉차이</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[같은 성별끼리 결혼해도 될까요?]]></title>
+        <id>https://alook.so/posts/o7tEaY</id>
+        <link href="https://alook.so/posts/o7tEaY"/>
+        <updated>2022-01-03T16:25:01.871Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEaY">같은 성별끼리 결혼해도 될까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자]]></title>
+        <id>https://alook.so/posts/70tY5X</id>
+        <link href="https://alook.so/posts/70tY5X"/>
+        <updated>2022-01-03T16:25:01.873Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY5X">탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대부분 사람은 "약한자에게 강하고 강한자에게 약하다.']]></title>
         <id>https://alook.so/posts/rDt0b1</id>
@@ -46,26 +67,5 @@
         <link href="https://alook.so/posts/J5tVbE"/>
         <updated>2022-01-03T11:13:28.392Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVbE">문제 없는 인간은 없다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오, 혁신이라 쓰고 독재라 읽는다]]></title>
-        <id>https://alook.so/posts/potmnd</id>
-        <link href="https://alook.so/posts/potmnd"/>
-        <updated>2022-01-03T11:13:28.393Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmnd">카카오, 혁신이라 쓰고 독재라 읽는다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변수를 줄이고, 상수를 늘려야 기후위기를 막을 수 있습니다.]]></title>
-        <id>https://alook.so/posts/eVtED0</id>
-        <link href="https://alook.so/posts/eVtED0"/>
-        <updated>2022-01-03T11:13:28.394Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtED0">변수를 줄이고, 상수를 늘려야 기후위기를 막을 수 있습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감성 자극과 감정 이입이 될 때]]></title>
-        <id>https://alook.so/posts/Pvtpqm</id>
-        <link href="https://alook.so/posts/Pvtpqm"/>
-        <updated>2022-01-03T09:17:06.256Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpqm">감성 자극과 감정 이입이 될 때</a>]]></content>
     </entry>
 </feed>
