@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-03T06:20:04.295Z</updated>
+    <updated>2022-01-03T09:18:38.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,11 +13,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYGM">‘나라 구한 유튜버’를 보며 생각했던, 조금 다른 방향의 비관론</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족이라는 이름의 족쇄]]></title>
-        <id>https://alook.so/posts/KmtWG0</id>
-        <link href="https://alook.so/posts/KmtWG0"/>
-        <updated>2022-01-02T13:21:46.692Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWG0">가족이라는 이름의 족쇄</a>]]></content>
+        <title type="html"><![CDATA[답글: To be Ambidextrous (양손 잡이가 되자)]]></title>
+        <id>https://alook.so/posts/yEtbpZ</id>
+        <link href="https://alook.so/posts/yEtbpZ"/>
+        <updated>2022-01-03T03:16:26.917Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbpZ">답글: To be Ambidextrous (양손 잡이가 되자)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90년생 정치인 신지예 씨께 90년생 용접공 천현우가 드리는 편지.]]></title>
+        <id>https://alook.so/posts/zvtq1b</id>
+        <link href="https://alook.so/posts/zvtq1b"/>
+        <updated>2022-01-03T09:17:15.022Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtq1b">90년생 정치인 신지예 씨께 90년생 용접공 천현우가 드리는 편지.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년이 시작되었네요. :)]]></title>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0r1">2022년이 시작되었네요. :)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: To be Ambidextrous (양손 잡이가 되자)]]></title>
-        <id>https://alook.so/posts/yEtbpZ</id>
-        <link href="https://alook.so/posts/yEtbpZ"/>
-        <updated>2022-01-03T03:16:26.917Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbpZ">답글: To be Ambidextrous (양손 잡이가 되자)</a>]]></content>
+        <title type="html"><![CDATA[가족이라는 이름의 족쇄]]></title>
+        <id>https://alook.so/posts/KmtWG0</id>
+        <link href="https://alook.so/posts/KmtWG0"/>
+        <updated>2022-01-02T13:21:46.692Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWG0">가족이라는 이름의 족쇄</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[꼬리에 꼬리를 물어가는 공부]]></title>
-        <id>https://alook.so/posts/VntalO</id>
-        <link href="https://alook.so/posts/VntalO"/>
-        <updated>2022-01-03T06:18:46.265Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntalO">꼬리에 꼬리를 물어가는 공부</a>]]></content>
+        <title type="html"><![CDATA[코로나와 함께하는 2022 군대, 효율적인 입대 준비물 TOP 5]]></title>
+        <id>https://alook.so/posts/XBtbYe</id>
+        <link href="https://alook.so/posts/XBtbYe"/>
+        <updated>2022-01-03T06:18:46.268Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbYe">코로나와 함께하는 2022 군대, 효율적인 입대 준비물 TOP 5</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[원하는 일을 하고 싶은데]]></title>
@@ -48,18 +55,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tE1E">원하는 일을 하고 싶은데</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[꼬리에 꼬리를 물어가는 공부]]></title>
+        <id>https://alook.so/posts/VntalO</id>
+        <link href="https://alook.so/posts/VntalO"/>
+        <updated>2022-01-03T06:18:46.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntalO">꼬리에 꼬리를 물어가는 공부</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[무비 무브 #14] 사도(2015, The Throne); 슬픔이라 묻고 사랑이라 답하다]]></title>
         <id>https://alook.so/posts/eVtEeO</id>
         <link href="https://alook.so/posts/eVtEeO"/>
         <updated>2022-01-03T06:18:46.267Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEeO">[무비 무브 #14] 사도(2015, The Throne); 슬픔이라 묻고 사랑이라 답하다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나와 함께하는 2022 군대, 효율적인 입대 준비물 TOP 5]]></title>
-        <id>https://alook.so/posts/XBtbYe</id>
-        <link href="https://alook.so/posts/XBtbYe"/>
-        <updated>2022-01-03T06:18:46.268Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbYe">코로나와 함께하는 2022 군대, 효율적인 입대 준비물 TOP 5</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 직업은 에어컨 설비업자이다]]></title>
@@ -76,11 +83,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMD5">임인년의 붉은 태양은 떠올랐네요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부실한 여론조사의 속살, 음흉한 기득권의 속셈]]></title>
+        <title type="html"><![CDATA[선거-부실한 여론조사의 속살, 음흉한 기득권의 속셈]]></title>
         <id>https://alook.so/posts/LKtWw7</id>
         <link href="https://alook.so/posts/LKtWw7"/>
         <updated>2022-01-03T02:04:58.239Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWw7">부실한 여론조사의 속살, 음흉한 기득권의 속셈</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWw7">선거-부실한 여론조사의 속살, 음흉한 기득권의 속셈</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[옷소매 붉은끝동에서는 효의왕후가 등장조차 안 하다니...]]></title>
