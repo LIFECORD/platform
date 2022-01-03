@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-03T09:18:38.572Z</updated>
+    <updated>2022-01-03T11:14:51.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[찔리라고]]></title>
+        <id>https://alook.so/posts/dztl4W</id>
+        <link href="https://alook.so/posts/dztl4W"/>
+        <updated>2022-01-03T11:13:28.391Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl4W">찔리라고</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문제 없는 인간은 없다.]]></title>
+        <id>https://alook.so/posts/J5tVbE</id>
+        <link href="https://alook.so/posts/J5tVbE"/>
+        <updated>2022-01-03T11:13:28.392Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVbE">문제 없는 인간은 없다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오, 혁신이라 쓰고 독재라 읽는다]]></title>
+        <id>https://alook.so/posts/potmnd</id>
+        <link href="https://alook.so/posts/potmnd"/>
+        <updated>2022-01-03T11:13:28.393Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmnd">카카오, 혁신이라 쓰고 독재라 읽는다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[변수를 줄이고, 상수를 늘려야 기후위기를 막을 수 있습니다.]]></title>
+        <id>https://alook.so/posts/eVtED0</id>
+        <link href="https://alook.so/posts/eVtED0"/>
+        <updated>2022-01-03T11:13:28.394Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtED0">변수를 줄이고, 상수를 늘려야 기후위기를 막을 수 있습니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감성 자극과 감정 이입이 될 때]]></title>
         <id>https://alook.so/posts/Pvtpqm</id>
@@ -18,13 +46,6 @@
         <link href="https://alook.so/posts/Vntana"/>
         <updated>2022-01-03T09:17:06.257Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntana">전자책에 꽃혔어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90년생 정치인 신지예 씨께 90년생 용접공 천현우가 드리는 편지.]]></title>
-        <id>https://alook.so/posts/zvtq1b</id>
-        <link href="https://alook.so/posts/zvtq1b"/>
-        <updated>2022-01-03T09:17:06.258Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtq1b">90년생 정치인 신지예 씨께 90년생 용접공 천현우가 드리는 편지.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술발전을 통한 일자리 감소?]]></title>
@@ -53,19 +74,5 @@
         <link href="https://alook.so/posts/M9tX7q"/>
         <updated>2022-01-03T09:17:06.261Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX7q">2022년 어떤 마음가짐으로 살아가야할까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나와 함께하는 2022 군대, 효율적인 입대 준비물 TOP 5]]></title>
-        <id>https://alook.so/posts/XBtbYe</id>
-        <link href="https://alook.so/posts/XBtbYe"/>
-        <updated>2022-01-03T06:18:38.606Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbYe">코로나와 함께하는 2022 군대, 효율적인 입대 준비물 TOP 5</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 10대들이 불행한이유]]></title>
-        <id>https://alook.so/posts/w9tE00</id>
-        <link href="https://alook.so/posts/w9tE00"/>
-        <updated>2022-01-03T06:18:38.607Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tE00">한국 10대들이 불행한이유</a>]]></content>
     </entry>
 </feed>
