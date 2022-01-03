@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-03T04:21:21.678Z</updated>
+    <updated>2022-01-03T06:20:04.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나와 함께하는 2022 군대, 효율적인 입대 준비물 TOP 5]]></title>
+        <id>https://alook.so/posts/XBtbYe</id>
+        <link href="https://alook.so/posts/XBtbYe"/>
+        <updated>2022-01-03T06:18:38.606Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbYe">코로나와 함께하는 2022 군대, 효율적인 입대 준비물 TOP 5</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 10대들이 불행한이유]]></title>
+        <id>https://alook.so/posts/w9tE00</id>
+        <link href="https://alook.so/posts/w9tE00"/>
+        <updated>2022-01-03T06:18:38.607Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tE00">한국 10대들이 불행한이유</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: To be Ambidextrous (양손 잡이가 되자)]]></title>
         <id>https://alook.so/posts/yEtbpZ</id>
@@ -39,19 +53,5 @@
         <link href="https://alook.so/posts/3wtOG1"/>
         <updated>2022-01-03T00:50:08.381Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOG1">미국에서 사는게 나을까요 한국에서 사는 것이 나을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 만난 '갑'들이 자주 했던 말들]]></title>
-        <id>https://alook.so/posts/G1tqn7</id>
-        <link href="https://alook.so/posts/G1tqn7"/>
-        <updated>2022-01-03T00:50:08.383Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqn7">내가 만난 '갑'들이 자주 했던 말들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Z씨의 밥벌이]]></title>
-        <id>https://alook.so/posts/OEtKJx</id>
-        <link href="https://alook.so/posts/OEtKJx"/>
-        <updated>2022-01-03T00:50:08.385Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKJx">Z씨의 밥벌이</a>]]></content>
     </entry>
 </feed>
