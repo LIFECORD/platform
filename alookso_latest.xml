@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-03T11:14:51.285Z</updated>
+    <updated>2022-01-03T12:26:18.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 사회적 거리두기 계속 될것인가??]]></title>
+        <id>https://alook.so/posts/a0t0xW</id>
+        <link href="https://alook.so/posts/a0t0xW"/>
+        <updated>2022-01-03T12:24:47.546Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0xW">코로나 사회적 거리두기 계속 될것인가??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스 이프랜드에 꽂히다]]></title>
+        <id>https://alook.so/posts/ZktP75</id>
+        <link href="https://alook.so/posts/ZktP75"/>
+        <updated>2022-01-03T12:24:47.547Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktP75">메타버스 이프랜드에 꽂히다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[찔리라고]]></title>
         <id>https://alook.so/posts/dztl4W</id>
@@ -60,19 +74,5 @@
         <link href="https://alook.so/posts/WLtYaW"/>
         <updated>2022-01-03T09:17:06.259Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYaW">국방비를 늘리는 건 필수입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 삼성전자 주식을 산 이유]]></title>
-        <id>https://alook.so/posts/0kteZl</id>
-        <link href="https://alook.so/posts/0kteZl"/>
-        <updated>2022-01-03T09:17:06.260Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteZl">내가 삼성전자 주식을 산 이유 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 어떤 마음가짐으로 살아가야할까]]></title>
-        <id>https://alook.so/posts/M9tX7q</id>
-        <link href="https://alook.so/posts/M9tX7q"/>
-        <updated>2022-01-03T09:17:06.261Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX7q">2022년 어떤 마음가짐으로 살아가야할까</a>]]></content>
     </entry>
 </feed>
