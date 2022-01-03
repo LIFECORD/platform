@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-01-03T00:51:46.131Z</updated>
+    <updated>2022-01-03T02:06:18.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://articles.dotface.kr/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://articles.dotface.kr/simsangjeong3"/>
         <updated>2021-12-30T03:14:30.939Z</updated>
         <content type="html"><![CDATA[닷페이스가 심상정 후보를 만났다 [주거 편]]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["음식이 아니라 폭력입니다" 갑자기 식당에서 외치는 이유]]></title>
+        <id>https://articles.dotface.kr/extremely1</id>
+        <link href="https://articles.dotface.kr/extremely1"/>
+        <updated>2022-01-03T02:04:19.404Z</updated>
+        <content type="html"><![CDATA[[왜 저렇게까지 해?] '직접행동 DxE' 은영 활동가]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021년인데 임금 체불, 말이 되나요?]]></title>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/vaw2022-4"/>
         <updated>2021-12-28T13:22:25.949Z</updated>
         <content type="html"><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [제안 편]]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이혼까지 생각했어, 아이한테 엄마 성을 주려고]]></title>
-        <id>https://articles.dotface.kr/givennames</id>
-        <link href="https://articles.dotface.kr/givennames"/>
-        <updated>2021-12-28T13:22:25.950Z</updated>
-        <content type="html"><![CDATA[아빠 성이 꼭 기본값이어야 하는 거야?]]></content>
     </entry>
 </feed>
