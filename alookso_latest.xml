@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-03T14:15:53.209Z</updated>
+    <updated>2022-01-03T15:17:18.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[대부분 사람은 "약한자에게 강하고 강한자에게 약하다.']]></title>
+        <id>https://alook.so/posts/rDt0b1</id>
+        <link href="https://alook.so/posts/rDt0b1"/>
+        <updated>2022-01-03T15:15:50.571Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0b1">대부분 사람은 "약한자에게 강하고 강한자에게 약하다.'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코시국에 주저리 주저리...]]></title>
         <id>https://alook.so/posts/bWtEmq</id>
@@ -60,12 +67,5 @@
         <link href="https://alook.so/posts/Pvtpqm"/>
         <updated>2022-01-03T09:17:06.256Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpqm">감성 자극과 감정 이입이 될 때</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전자책에 꽃혔어요]]></title>
-        <id>https://alook.so/posts/Vntana</id>
-        <link href="https://alook.so/posts/Vntana"/>
-        <updated>2022-01-03T09:17:06.257Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntana">전자책에 꽃혔어요</a>]]></content>
     </entry>
 </feed>
