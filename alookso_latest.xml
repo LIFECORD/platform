@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-02T23:16:38.249Z</updated>
+    <updated>2022-01-03T00:51:46.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미국에서 사는게 나을까요 한국에서 사는 것이 나을까요?]]></title>
+        <id>https://alook.so/posts/3wtOG1</id>
+        <link href="https://alook.so/posts/3wtOG1"/>
+        <updated>2022-01-03T00:50:08.381Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOG1">미국에서 사는게 나을까요 한국에서 사는 것이 나을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 만난 '갑'들이 자주 했던 말들]]></title>
+        <id>https://alook.so/posts/G1tqn7</id>
+        <link href="https://alook.so/posts/G1tqn7"/>
+        <updated>2022-01-03T00:50:08.383Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqn7">내가 만난 '갑'들이 자주 했던 말들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Z씨의 밥벌이]]></title>
+        <id>https://alook.so/posts/OEtKJx</id>
+        <link href="https://alook.so/posts/OEtKJx"/>
+        <updated>2022-01-03T00:50:08.385Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKJx">Z씨의 밥벌이</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끊이지 않는 '0명대', 요인은?]]></title>
         <id>https://alook.so/posts/vKtqae</id>
@@ -39,40 +60,5 @@
         <link href="https://alook.so/posts/KmtWGv"/>
         <updated>2022-01-02T19:12:42.952Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWGv">상상이 현실이 되다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국 청소년이 불행한 이유]]></title>
-        <id>https://alook.so/posts/mbtj8x</id>
-        <link href="https://alook.so/posts/mbtj8x"/>
-        <updated>2022-01-02T18:16:45.745Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtj8x">대한민국 청소년이 불행한 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸값 뛰고 있는 안철수의 반격?]]></title>
-        <id>https://alook.so/posts/54tEra</id>
-        <link href="https://alook.so/posts/54tEra"/>
-        <updated>2022-01-02T18:16:45.745Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEra">몸값 뛰고 있는 안철수의 반격?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭣도 모르고 시작한 주식]]></title>
-        <id>https://alook.so/posts/q1tWYe</id>
-        <link href="https://alook.so/posts/q1tWYe"/>
-        <updated>2022-01-02T16:22:05.094Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWYe">뭣도 모르고 시작한 주식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 아이를 갖겠다 마음먹은 이유]]></title>
-        <id>https://alook.so/posts/Djt4OR</id>
-        <link href="https://alook.so/posts/Djt4OR"/>
-        <updated>2022-01-02T16:22:05.096Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4OR">내가 아이를 갖겠다 마음먹은 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30대 후반에게 둘째 계획이란?]]></title>
-        <id>https://alook.so/posts/1RtzYW</id>
-        <link href="https://alook.so/posts/1RtzYW"/>
-        <updated>2022-01-02T16:22:05.097Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzYW">30대 후반에게 둘째 계획이란?</a>]]></content>
     </entry>
 </feed>
