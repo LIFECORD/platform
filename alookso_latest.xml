@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-03T16:26:29.902Z</updated>
+    <updated>2022-01-03T18:19:43.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[신지예에 대한 안타까움, 진보 대안 정치에 대한 씁쓸함]]></title>
+        <id>https://alook.so/posts/Djt4oR</id>
+        <link href="https://alook.so/posts/Djt4oR"/>
+        <updated>2022-01-03T18:18:09.818Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4oR">신지예에 대한 안타까움, 진보 대안 정치에 대한 씁쓸함</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연봉차이]]></title>
         <id>https://alook.so/posts/1RtzBW</id>
@@ -60,12 +67,5 @@
         <link href="https://alook.so/posts/dztl4W"/>
         <updated>2022-01-03T11:13:28.391Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl4W">찔리라고</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문제 없는 인간은 없다.]]></title>
-        <id>https://alook.so/posts/J5tVbE</id>
-        <link href="https://alook.so/posts/J5tVbE"/>
-        <updated>2022-01-03T11:13:28.392Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVbE">문제 없는 인간은 없다.</a>]]></content>
     </entry>
 </feed>
