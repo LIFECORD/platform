@@ -2,51 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-03T03:17:47.667Z</updated>
+    <updated>2022-01-03T04:21:21.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[‘나라 구한 유튜버’를 보며 생각했던, 조금 다른 방향의 비관론]]></title>
-        <id>https://alook.so/posts/70tYGM</id>
-        <link href="https://alook.so/posts/70tYGM"/>
-        <updated>2022-01-02T10:16:52.647Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYGM">‘나라 구한 유튜버’를 보며 생각했던, 조금 다른 방향의 비관론</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족이라는 이름의 족쇄]]></title>
-        <id>https://alook.so/posts/KmtWG0</id>
-        <link href="https://alook.so/posts/KmtWG0"/>
-        <updated>2022-01-02T13:21:46.692Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWG0">가족이라는 이름의 족쇄</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꼬리에 꼬리를 물어가는 공부]]></title>
-        <id>https://alook.so/posts/VntalO</id>
-        <link href="https://alook.so/posts/VntalO"/>
-        <updated>2022-01-03T03:16:26.914Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntalO">꼬리에 꼬리를 물어가는 공부</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년이 시작되었네요. :)]]></title>
-        <id>https://alook.so/posts/rDt0r1</id>
-        <link href="https://alook.so/posts/rDt0r1"/>
-        <updated>2022-01-02T15:15:19.583Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0r1">2022년이 시작되었네요. :)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무비 무브 #14] 사도(2015, The Throne); 슬픔이라 묻고 사랑이라 답하다]]></title>
-        <id>https://alook.so/posts/eVtEeO</id>
-        <link href="https://alook.so/posts/eVtEeO"/>
-        <updated>2022-01-03T03:16:26.915Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEeO">[무비 무브 #14] 사도(2015, The Throne); 슬픔이라 묻고 사랑이라 답하다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 직업은 에어컨 설비업자이다]]></title>
-        <id>https://alook.so/posts/q1tWY6</id>
-        <link href="https://alook.so/posts/q1tWY6"/>
-        <updated>2022-01-02T11:12:52.268Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWY6">내 직업은 에어컨 설비업자이다</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[답글: To be Ambidextrous (양손 잡이가 되자)]]></title>
         <id>https://alook.so/posts/yEtbpZ</id>
@@ -69,18 +27,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWw7">부실한 여론조사의 속살, 음흉한 기득권의 속셈</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[원하는 일을 하고 싶은데]]></title>
-        <id>https://alook.so/posts/o7tE1E</id>
-        <link href="https://alook.so/posts/o7tE1E"/>
-        <updated>2022-01-02T11:12:52.269Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tE1E">원하는 일을 하고 싶은데</a>]]></content>
+        <title type="html"><![CDATA[나이 문화와 사회문화적 혼란, 갈등에 대하여]]></title>
+        <id>https://alook.so/posts/E7tXwJ</id>
+        <link href="https://alook.so/posts/E7tXwJ"/>
+        <updated>2022-01-02T20:16:00.063Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXwJ">나이 문화와 사회문화적 혼란, 갈등에 대하여</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[옷소매 붉은끝동에서는 효의왕후가 등장조차 안 하다니...]]></title>
-        <id>https://alook.so/posts/mbtj8K</id>
-        <link href="https://alook.so/posts/mbtj8K"/>
-        <updated>2022-01-02T15:15:19.587Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtj8K">옷소매 붉은끝동에서는 효의왕후가 등장조차 안 하다니...</a>]]></content>
+        <title type="html"><![CDATA[해외진출한 연예인,문화, 영화]]></title>
+        <id>https://alook.so/posts/latoYk</id>
+        <link href="https://alook.so/posts/latoYk"/>
+        <updated>2022-01-03T04:20:03.984Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoYk">해외진출한 연예인,문화, 영화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뭣도 모르고 시작한 주식]]></title>
@@ -90,24 +48,73 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWYe">뭣도 모르고 시작한 주식</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 직업은 돌봄전담사]]></title>
-        <id>https://alook.so/posts/J5tVMM</id>
-        <link href="https://alook.so/posts/J5tVMM"/>
-        <updated>2022-01-03T03:16:26.927Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVMM">내 직업은 돌봄전담사</a>]]></content>
+        <title type="html"><![CDATA[내가 아이를 갖겠다 마음먹은 이유]]></title>
+        <id>https://alook.so/posts/Djt4OR</id>
+        <link href="https://alook.so/posts/Djt4OR"/>
+        <updated>2022-01-03T04:20:03.985Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4OR">내가 아이를 갖겠다 마음먹은 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새해는 위대한 발명품]]></title>
-        <id>https://alook.so/posts/KmtW20</id>
-        <link href="https://alook.so/posts/KmtW20"/>
-        <updated>2022-01-03T03:16:26.928Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtW20">새해는 위대한 발명품</a>]]></content>
+        <title type="html"><![CDATA[30대 후반에게 둘째 계획이란?]]></title>
+        <id>https://alook.so/posts/1RtzYW</id>
+        <link href="https://alook.so/posts/1RtzYW"/>
+        <updated>2022-01-03T04:20:03.994Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzYW">30대 후반에게 둘째 계획이란?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나이 문화와 사회문화적 혼란, 갈등에 대하여]]></title>
-        <id>https://alook.so/posts/E7tXwJ</id>
-        <link href="https://alook.so/posts/E7tXwJ"/>
-        <updated>2022-01-02T20:16:00.063Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXwJ">나이 문화와 사회문화적 혼란, 갈등에 대하여</a>]]></content>
+        <title type="html"><![CDATA[투자 선택인가 필수인가?]]></title>
+        <id>https://alook.so/posts/70tYGX</id>
+        <link href="https://alook.so/posts/70tYGX"/>
+        <updated>2022-01-03T04:20:03.994Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYGX">투자 선택인가 필수인가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학교 반드시 가야하나요?]]></title>
+        <id>https://alook.so/posts/YytLXJ</id>
+        <link href="https://alook.so/posts/YytLXJ"/>
+        <updated>2022-01-03T04:20:03.994Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLXJ">대학교 반드시 가야하나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년이 시작되었네요. :)]]></title>
+        <id>https://alook.so/posts/rDt0r1</id>
+        <link href="https://alook.so/posts/rDt0r1"/>
+        <updated>2022-01-02T15:15:19.583Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0r1">2022년이 시작되었네요. :)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국은 선진국 인가요?]]></title>
+        <id>https://alook.so/posts/latoYm</id>
+        <link href="https://alook.so/posts/latoYm"/>
+        <updated>2022-01-03T04:20:03.995Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoYm">한국은 선진국 인가요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가족이라는 이름의 족쇄]]></title>
+        <id>https://alook.so/posts/KmtWG0</id>
+        <link href="https://alook.so/posts/KmtWG0"/>
+        <updated>2022-01-02T13:21:46.692Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWG0">가족이라는 이름의 족쇄</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옷소매 붉은끝동에서는 효의왕후가 등장조차 안 하다니...]]></title>
+        <id>https://alook.so/posts/mbtj8K</id>
+        <link href="https://alook.so/posts/mbtj8K"/>
+        <updated>2022-01-02T15:15:19.587Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtj8K">옷소매 붉은끝동에서는 효의왕후가 등장조차 안 하다니...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 직업은 디지털 서포터즈!]]></title>
+        <id>https://alook.so/posts/54tErb</id>
+        <link href="https://alook.so/posts/54tErb"/>
+        <updated>2022-01-03T04:20:03.995Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tErb">내 직업은 디지털 서포터즈!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 직업은 에어컨 설비업자이다]]></title>
+        <id>https://alook.so/posts/q1tWY6</id>
+        <link href="https://alook.so/posts/q1tWY6"/>
+        <updated>2022-01-02T11:12:52.268Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWY6">내 직업은 에어컨 설비업자이다</a>]]></content>
     </entry>
 </feed>
