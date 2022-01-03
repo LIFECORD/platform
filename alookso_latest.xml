@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-03T20:17:37.429Z</updated>
+    <updated>2022-01-03T21:15:23.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[인성]]></title>
+        <title type="html"><![CDATA[인성 좋은 연예인]]></title>
         <id>https://alook.so/posts/latoRk</id>
         <link href="https://alook.so/posts/latoRk"/>
         <updated>2022-01-03T20:16:14.731Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoRk">인성</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoRk">인성 좋은 연예인</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이제는 누구도 자신만의 인생을 만들어나가야 할 때]]></title>
