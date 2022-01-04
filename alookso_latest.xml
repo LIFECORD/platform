@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-04T05:17:08.695Z</updated>
+    <updated>2022-01-04T06:20:17.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 첫 국립 장애인 특수학교 시동]]></title>
+        <id>https://alook.so/posts/WLtYjW</id>
+        <link href="https://alook.so/posts/WLtYjW"/>
+        <updated>2022-01-04T06:18:47.321Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYjW">국내 첫 국립 장애인 특수학교 시동</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국의 의료보험 미가입자 추이와 제도의 경로의존성]]></title>
         <id>https://alook.so/posts/0kteLl</id>
@@ -39,12 +46,5 @@
         <link href="https://alook.so/posts/yEtbKZ"/>
         <updated>2022-01-04T03:16:15.517Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbKZ">연적~김호연</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?]]></title>
-        <id>https://alook.so/posts/BatM05</id>
-        <link href="https://alook.so/posts/BatM05"/>
-        <updated>2022-01-04T03:16:15.518Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatM05">어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?</a>]]></content>
     </entry>
 </feed>
