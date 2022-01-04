@@ -2,85 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-04T13:24:50.428Z</updated>
+    <updated>2022-01-04T15:18:31.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[미국의 의료보험 미가입자 추이와 제도의 경로의존성]]></title>
-        <id>https://alook.so/posts/0kteLl</id>
-        <link href="https://alook.so/posts/0kteLl"/>
-        <updated>2022-01-04T06:18:55.712Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteLl">미국의 의료보험 미가입자 추이와 제도의 경로의존성</a>]]></content>
+        <title type="html"><![CDATA[칸트냐 베카리아냐 그것이 문제로다 나는 칸베리아]]></title>
+        <id>https://alook.so/posts/YytLEJ</id>
+        <link href="https://alook.so/posts/YytLEJ"/>
+        <updated>2022-01-04T15:17:01.575Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLEJ">칸트냐 베카리아냐 그것이 문제로다 나는 칸베리아</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[모든 글의 좋아요가 감소하는 중..]]></title>
-        <id>https://alook.so/posts/RGtxP2</id>
-        <link href="https://alook.so/posts/RGtxP2"/>
-        <updated>2022-01-04T04:19:47.588Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxP2">모든 글의 좋아요가 감소하는 중..</a>]]></content>
+        <title type="html"><![CDATA[10대들은 불행한걸까?]]></title>
+        <id>https://alook.so/posts/jdtEXJ</id>
+        <link href="https://alook.so/posts/jdtEXJ"/>
+        <updated>2022-01-04T15:17:01.576Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEXJ">10대들은 불행한걸까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[관련 뉴스 영상 공유]]></title>
-        <id>https://alook.so/posts/M9tXGq</id>
-        <link href="https://alook.so/posts/M9tXGq"/>
-        <updated>2022-01-04T05:15:52.814Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXGq">관련 뉴스 영상 공유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열의 위기에는 더 깊은 뿌리가 있다]]></title>
-        <id>https://alook.so/posts/G1tqX7</id>
-        <link href="https://alook.so/posts/G1tqX7"/>
-        <updated>2022-01-04T13:23:35.791Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqX7">윤석열의 위기에는 더 깊은 뿌리가 있다 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곧 돌아올 얼룩소에게]]></title>
-        <id>https://alook.so/posts/njtVK0</id>
-        <link href="https://alook.so/posts/njtVK0"/>
-        <updated>2022-01-04T13:23:35.794Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVK0">곧 돌아올 얼룩소에게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자]]></title>
-        <id>https://alook.so/posts/70tY5X</id>
-        <link href="https://alook.so/posts/70tY5X"/>
-        <updated>2022-01-04T13:23:35.795Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY5X">탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?]]></title>
-        <id>https://alook.so/posts/BatM05</id>
-        <link href="https://alook.so/posts/BatM05"/>
-        <updated>2022-01-04T03:16:23.692Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatM05">어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 첫 국립 장애인 특수학교 시동]]></title>
-        <id>https://alook.so/posts/WLtYjW</id>
-        <link href="https://alook.so/posts/WLtYjW"/>
-        <updated>2022-01-04T12:24:30.805Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYjW">국내 첫 국립 장애인 특수학교 시동</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연적~김호연]]></title>
-        <id>https://alook.so/posts/yEtbKZ</id>
-        <link href="https://alook.so/posts/yEtbKZ"/>
-        <updated>2022-01-04T05:15:52.816Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbKZ">연적~김호연</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공교육만으로도 충분할 수 있기를...]]></title>
-        <id>https://alook.so/posts/potmBd</id>
-        <link href="https://alook.so/posts/potmBd"/>
-        <updated>2022-01-04T12:24:30.804Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmBd">공교육만으로도 충분할 수 있기를...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오, 혁신이라 쓰고 독재라 읽는다]]></title>
-        <id>https://alook.so/posts/potmnd</id>
-        <link href="https://alook.so/posts/potmnd"/>
-        <updated>2022-01-04T13:23:35.800Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmnd">카카오, 혁신이라 쓰고 독재라 읽는다</a>]]></content>
+        <title type="html"><![CDATA[전 돈버는 고민을 합니다]]></title>
+        <id>https://alook.so/posts/bWtEoq</id>
+        <link href="https://alook.so/posts/bWtEoq"/>
+        <updated>2022-01-04T15:17:01.578Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEoq">전 돈버는 고민을 합니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아버지들과 아들들]]></title>
@@ -97,10 +41,52 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPn5">저는 요즘 노래연습에 꽂혔어요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선거-부실한 여론조사의 속살, 음흉한 기득권의 속셈]]></title>
-        <id>https://alook.so/posts/LKtWw7</id>
-        <link href="https://alook.so/posts/LKtWw7"/>
-        <updated>2022-01-04T13:23:35.804Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWw7">선거-부실한 여론조사의 속살, 음흉한 기득권의 속셈</a>]]></content>
+        <title type="html"><![CDATA[샘 라이더에게 꽂히다]]></title>
+        <id>https://alook.so/posts/dztlmW</id>
+        <link href="https://alook.so/posts/dztlmW"/>
+        <updated>2022-01-04T15:17:01.582Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlmW">샘 라이더에게 꽂히다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공교육만으로도 충분할 수 있기를...]]></title>
+        <id>https://alook.so/posts/potmBd</id>
+        <link href="https://alook.so/posts/potmBd"/>
+        <updated>2022-01-04T12:24:30.804Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmBd">공교육만으로도 충분할 수 있기를...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자유롭지만 위험한 삶, 안정적이지만 갇힌 삶 뭐가 더 좋은 걸까?]]></title>
+        <id>https://alook.so/posts/eVtEp0</id>
+        <link href="https://alook.so/posts/eVtEp0"/>
+        <updated>2022-01-04T15:17:01.585Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEp0">자유롭지만 위험한 삶, 안정적이지만 갇힌 삶 뭐가 더 좋은 걸까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페미니즘을 넘어서 존재의 인정으로]]></title>
+        <id>https://alook.so/posts/Pvtpxm</id>
+        <link href="https://alook.so/posts/Pvtpxm"/>
+        <updated>2022-01-04T15:17:01.589Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpxm">페미니즘을 넘어서 존재의 인정으로</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 첫 국립 장애인 특수학교 시동]]></title>
+        <id>https://alook.so/posts/WLtYjW</id>
+        <link href="https://alook.so/posts/WLtYjW"/>
+        <updated>2022-01-04T12:24:30.805Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYjW">국내 첫 국립 장애인 특수학교 시동</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국의 의료보험 미가입자 추이와 제도의 경로의존성]]></title>
+        <id>https://alook.so/posts/0kteLl</id>
+        <link href="https://alook.so/posts/0kteLl"/>
+        <updated>2022-01-04T06:18:55.712Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteLl">미국의 의료보험 미가입자 추이와 제도의 경로의존성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[관련 뉴스 영상 공유]]></title>
+        <id>https://alook.so/posts/M9tXGq</id>
+        <link href="https://alook.so/posts/M9tXGq"/>
+        <updated>2022-01-04T05:15:52.814Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXGq">관련 뉴스 영상 공유</a>]]></content>
     </entry>
 </feed>

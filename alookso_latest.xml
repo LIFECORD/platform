@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-04T13:24:50.422Z</updated>
+    <updated>2022-01-04T15:18:31.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[하루를 살아간다는 건]]></title>
+        <id>https://alook.so/posts/54tEKa</id>
+        <link href="https://alook.so/posts/54tEKa"/>
+        <updated>2022-01-04T15:16:52.306Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEKa">하루를 살아간다는 건</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[1번째 글] 밤의 간식 거리]]></title>
+        <id>https://alook.so/posts/Djt4kR</id>
+        <link href="https://alook.so/posts/Djt4kR"/>
+        <updated>2022-01-04T15:16:52.307Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4kR">[1번째 글] 밤의 간식 거리</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[캘리 시 일기]_ 새로운 길]]></title>
         <id>https://alook.so/posts/o7tEWY</id>
@@ -46,19 +60,5 @@
         <link href="https://alook.so/posts/a0t0KW"/>
         <updated>2022-01-04T12:24:22.770Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0KW">아버지들과 아들들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 요즘 노래연습에 꽂혔어요.]]></title>
-        <id>https://alook.so/posts/ZktPn5</id>
-        <link href="https://alook.so/posts/ZktPn5"/>
-        <updated>2022-01-04T10:17:48.652Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPn5">저는 요즘 노래연습에 꽂혔어요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샘 라이더에게 꽂히다]]></title>
-        <id>https://alook.so/posts/dztlmW</id>
-        <link href="https://alook.so/posts/dztlmW"/>
-        <updated>2022-01-04T10:17:48.653Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlmW">샘 라이더에게 꽂히다</a>]]></content>
     </entry>
 </feed>
