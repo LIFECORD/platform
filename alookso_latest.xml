@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-04T12:25:51.358Z</updated>
+    <updated>2022-01-04T13:24:50.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[캘리 시 일기]_ 새로운 길]]></title>
+        <id>https://alook.so/posts/o7tEWY</id>
+        <link href="https://alook.so/posts/o7tEWY"/>
+        <updated>2022-01-04T13:23:28.646Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEWY">[캘리 시 일기]_ 새로운 길</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[회사 내에서 위로와 축하 소식을 동시에 받았습니다.]]></title>
+        <id>https://alook.so/posts/70tY8X</id>
+        <link href="https://alook.so/posts/70tY8X"/>
+        <updated>2022-01-04T13:23:28.648Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY8X">회사 내에서 위로와 축하 소식을 동시에 받았습니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칸트냐 베카리아냐 그것이 문제로다 나는 칸베리아]]></title>
+        <id>https://alook.so/posts/YytLEJ</id>
+        <link href="https://alook.so/posts/YytLEJ"/>
+        <updated>2022-01-04T13:23:28.649Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLEJ">칸트냐 베카리아냐 그것이 문제로다 나는 칸베리아</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10대들은 불행한걸까?]]></title>
         <id>https://alook.so/posts/jdtEXJ</id>
@@ -39,26 +60,5 @@
         <link href="https://alook.so/posts/dztlmW"/>
         <updated>2022-01-04T10:17:48.653Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlmW">샘 라이더에게 꽂히다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공교육만으로도 충분할 수 있기를...]]></title>
-        <id>https://alook.so/posts/potmBd</id>
-        <link href="https://alook.so/posts/potmBd"/>
-        <updated>2022-01-04T09:16:25.909Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmBd">공교육만으로도 충분할 수 있기를...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자유롭지만 위험한 삶, 안정적이지만 갇힌 삶 뭐가 더 좋은 걸까?]]></title>
-        <id>https://alook.so/posts/eVtEp0</id>
-        <link href="https://alook.so/posts/eVtEp0"/>
-        <updated>2022-01-04T08:19:13.626Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEp0">자유롭지만 위험한 삶, 안정적이지만 갇힌 삶 뭐가 더 좋은 걸까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페미니즘을 넘어서 존재의 인정으로]]></title>
-        <id>https://alook.so/posts/Pvtpxm</id>
-        <link href="https://alook.so/posts/Pvtpxm"/>
-        <updated>2022-01-04T08:19:13.627Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpxm">페미니즘을 넘어서 존재의 인정으로</a>]]></content>
     </entry>
 </feed>
