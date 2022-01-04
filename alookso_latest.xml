@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-04T10:19:15.571Z</updated>
+    <updated>2022-01-04T12:25:51.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10대들은 불행한걸까?]]></title>
+        <id>https://alook.so/posts/jdtEXJ</id>
+        <link href="https://alook.so/posts/jdtEXJ"/>
+        <updated>2022-01-04T12:24:22.768Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEXJ">10대들은 불행한걸까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 돈버는 고민을 합니다]]></title>
+        <id>https://alook.so/posts/bWtEoq</id>
+        <link href="https://alook.so/posts/bWtEoq"/>
+        <updated>2022-01-04T12:24:22.769Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEoq">전 돈버는 고민을 합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아버지들과 아들들]]></title>
+        <id>https://alook.so/posts/a0t0KW</id>
+        <link href="https://alook.so/posts/a0t0KW"/>
+        <updated>2022-01-04T12:24:22.770Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0KW">아버지들과 아들들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저는 요즘 노래연습에 꽂혔어요.]]></title>
         <id>https://alook.so/posts/ZktPn5</id>
@@ -39,12 +60,5 @@
         <link href="https://alook.so/posts/Pvtpxm"/>
         <updated>2022-01-04T08:19:13.627Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpxm">페미니즘을 넘어서 존재의 인정으로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 첫 국립 장애인 특수학교 시동]]></title>
-        <id>https://alook.so/posts/WLtYjW</id>
-        <link href="https://alook.so/posts/WLtYjW"/>
-        <updated>2022-01-04T06:18:47.321Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYjW">국내 첫 국립 장애인 특수학교 시동</a>]]></content>
     </entry>
 </feed>
