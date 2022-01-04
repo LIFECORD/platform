@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-04T04:21:09.889Z</updated>
+    <updated>2022-01-04T05:17:08.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미국의 의료보험 미가입자 추이와 제도의 경로의존성]]></title>
+        <id>https://alook.so/posts/0kteLl</id>
+        <link href="https://alook.so/posts/0kteLl"/>
+        <updated>2022-01-04T05:15:44.554Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteLl">미국의 의료보험 미가입자 추이와 제도의 경로의존성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[관련 뉴스 영상 공유]]></title>
+        <id>https://alook.so/posts/M9tXGq</id>
+        <link href="https://alook.so/posts/M9tXGq"/>
+        <updated>2022-01-04T05:15:44.556Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXGq">관련 뉴스 영상 공유</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모든 글의 좋아요가 감소하는 중..]]></title>
         <id>https://alook.so/posts/RGtxP2</id>
@@ -32,19 +46,5 @@
         <link href="https://alook.so/posts/BatM05"/>
         <updated>2022-01-04T03:16:15.518Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatM05">어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물고기 키우는데 꽂혔어요.]]></title>
-        <id>https://alook.so/posts/LKtWM7</id>
-        <link href="https://alook.so/posts/LKtWM7"/>
-        <updated>2022-01-04T03:16:15.518Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWM7">물고기 키우는데 꽂혔어요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곧 돌아올 얼룩소에게]]></title>
-        <id>https://alook.so/posts/njtVK0</id>
-        <link href="https://alook.so/posts/njtVK0"/>
-        <updated>2022-01-04T03:16:15.519Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVK0">곧 돌아올 얼룩소에게</a>]]></content>
     </entry>
 </feed>
