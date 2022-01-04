@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-04T08:20:38.185Z</updated>
+    <updated>2022-01-04T09:17:53.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[공교육만으로도 충분할 수 있기를...]]></title>
+        <id>https://alook.so/posts/potmBd</id>
+        <link href="https://alook.so/posts/potmBd"/>
+        <updated>2022-01-04T09:16:25.909Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmBd">공교육만으로도 충분할 수 있기를...</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자유롭지만 위험한 삶, 안정적이지만 갇힌 삶 뭐가 더 좋은 걸까?]]></title>
         <id>https://alook.so/posts/eVtEp0</id>
