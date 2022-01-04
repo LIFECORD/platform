@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-03T23:17:02.387Z</updated>
+    <updated>2022-01-04T00:53:01.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[결혼에 대하여]]></title>
+        <id>https://alook.so/posts/E7tXGJ</id>
+        <link href="https://alook.so/posts/E7tXGJ"/>
+        <updated>2022-01-04T00:51:26.577Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXGJ">결혼에 대하여</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인성 좋은 연예인]]></title>
         <id>https://alook.so/posts/latoRk</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/o7tEaY"/>
         <updated>2022-01-03T16:25:01.871Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEaY">같은 성별끼리 결혼해도 될까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자]]></title>
-        <id>https://alook.so/posts/70tY5X</id>
-        <link href="https://alook.so/posts/70tY5X"/>
-        <updated>2022-01-03T16:25:01.873Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY5X">탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자</a>]]></content>
     </entry>
 </feed>
