@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-04T09:17:53.687Z</updated>
+    <updated>2022-01-04T10:19:15.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[저는 요즘 노래연습에 꽂혔어요.]]></title>
+        <id>https://alook.so/posts/ZktPn5</id>
+        <link href="https://alook.so/posts/ZktPn5"/>
+        <updated>2022-01-04T10:17:48.652Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPn5">저는 요즘 노래연습에 꽂혔어요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[샘 라이더에게 꽂히다]]></title>
+        <id>https://alook.so/posts/dztlmW</id>
+        <link href="https://alook.so/posts/dztlmW"/>
+        <updated>2022-01-04T10:17:48.653Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlmW">샘 라이더에게 꽂히다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공교육만으로도 충분할 수 있기를...]]></title>
         <id>https://alook.so/posts/potmBd</id>
@@ -32,19 +46,5 @@
         <link href="https://alook.so/posts/WLtYjW"/>
         <updated>2022-01-04T06:18:47.321Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYjW">국내 첫 국립 장애인 특수학교 시동</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국의 의료보험 미가입자 추이와 제도의 경로의존성]]></title>
-        <id>https://alook.so/posts/0kteLl</id>
-        <link href="https://alook.so/posts/0kteLl"/>
-        <updated>2022-01-04T05:15:44.554Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteLl">미국의 의료보험 미가입자 추이와 제도의 경로의존성</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관련 뉴스 영상 공유]]></title>
-        <id>https://alook.so/posts/M9tXGq</id>
-        <link href="https://alook.so/posts/M9tXGq"/>
-        <updated>2022-01-04T05:15:44.556Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXGq">관련 뉴스 영상 공유</a>]]></content>
     </entry>
 </feed>
