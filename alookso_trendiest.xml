@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-04T06:20:17.353Z</updated>
+    <updated>2022-01-04T08:20:38.197Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 첫 국립 장애인 특수학교 시동]]></title>
+        <id>https://alook.so/posts/WLtYjW</id>
+        <link href="https://alook.so/posts/WLtYjW"/>
+        <updated>2022-01-04T08:19:21.124Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYjW">국내 첫 국립 장애인 특수학교 시동</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국의 의료보험 미가입자 추이와 제도의 경로의존성]]></title>
         <id>https://alook.so/posts/0kteLl</id>
         <link href="https://alook.so/posts/0kteLl"/>
         <updated>2022-01-04T06:18:55.712Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteLl">미국의 의료보험 미가입자 추이와 제도의 경로의존성</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곧 돌아올 얼룩소에게]]></title>
-        <id>https://alook.so/posts/njtVK0</id>
-        <link href="https://alook.so/posts/njtVK0"/>
-        <updated>2022-01-04T03:16:23.686Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVK0">곧 돌아올 얼룩소에게</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[관련 뉴스 영상 공유]]></title>
@@ -27,74 +27,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXGq">관련 뉴스 영상 공유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열의 위기에는 더 깊은 뿌리가 있다]]></title>
-        <id>https://alook.so/posts/G1tqX7</id>
-        <link href="https://alook.so/posts/G1tqX7"/>
-        <updated>2022-01-04T03:16:23.686Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqX7">윤석열의 위기에는 더 깊은 뿌리가 있다 </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[모든 글의 좋아요가 감소하는 중..]]></title>
         <id>https://alook.so/posts/RGtxP2</id>
         <link href="https://alook.so/posts/RGtxP2"/>
         <updated>2022-01-04T04:19:47.588Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxP2">모든 글의 좋아요가 감소하는 중..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자]]></title>
-        <id>https://alook.so/posts/70tY5X</id>
-        <link href="https://alook.so/posts/70tY5X"/>
-        <updated>2022-01-04T00:51:36.363Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY5X">탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?]]></title>
-        <id>https://alook.so/posts/BatM05</id>
-        <link href="https://alook.so/posts/BatM05"/>
-        <updated>2022-01-04T03:16:23.692Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatM05">어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오, 혁신이라 쓰고 독재라 읽는다]]></title>
-        <id>https://alook.so/posts/potmnd</id>
-        <link href="https://alook.so/posts/potmnd"/>
-        <updated>2022-01-04T06:18:55.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmnd">카카오, 혁신이라 쓰고 독재라 읽는다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선거-부실한 여론조사의 속살, 음흉한 기득권의 속셈]]></title>
-        <id>https://alook.so/posts/LKtWw7</id>
-        <link href="https://alook.so/posts/LKtWw7"/>
-        <updated>2022-01-04T06:18:55.724Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWw7">선거-부실한 여론조사의 속살, 음흉한 기득권의 속셈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변수를 줄이고, 상수를 늘려야 기후위기를 막을 수 있습니다.]]></title>
-        <id>https://alook.so/posts/eVtED0</id>
-        <link href="https://alook.so/posts/eVtED0"/>
-        <updated>2022-01-04T06:18:55.725Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtED0">변수를 줄이고, 상수를 늘려야 기후위기를 막을 수 있습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연적~김호연]]></title>
-        <id>https://alook.so/posts/yEtbKZ</id>
-        <link href="https://alook.so/posts/yEtbKZ"/>
-        <updated>2022-01-04T05:15:52.816Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbKZ">연적~김호연</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전자책에 꽃혔어요]]></title>
-        <id>https://alook.so/posts/Vntana</id>
-        <link href="https://alook.so/posts/Vntana"/>
-        <updated>2022-01-04T06:18:55.726Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntana">전자책에 꽃혔어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나라 구한 유튜버’를 보며 생각했던, 조금 다른 방향의 비관론]]></title>
-        <id>https://alook.so/posts/70tYGM</id>
-        <link href="https://alook.so/posts/70tYGM"/>
-        <updated>2022-01-04T06:18:55.727Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYGM">‘나라 구한 유튜버’를 보며 생각했던, 조금 다른 방향의 비관론</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공교육제대로해주세요]]></title>
@@ -104,10 +41,59 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtm5O">공교육제대로해주세요</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[연적~김호연]]></title>
+        <id>https://alook.so/posts/yEtbKZ</id>
+        <link href="https://alook.so/posts/yEtbKZ"/>
+        <updated>2022-01-04T05:15:52.816Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbKZ">연적~김호연</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?]]></title>
+        <id>https://alook.so/posts/BatM05</id>
+        <link href="https://alook.so/posts/BatM05"/>
+        <updated>2022-01-04T03:16:23.692Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatM05">어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[물고기 키우는데 꽂혔어요.]]></title>
         <id>https://alook.so/posts/LKtWM7</id>
         <link href="https://alook.so/posts/LKtWM7"/>
         <updated>2022-01-04T05:15:52.819Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWM7">물고기 키우는데 꽂혔어요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[곧 돌아올 얼룩소에게]]></title>
+        <id>https://alook.so/posts/njtVK0</id>
+        <link href="https://alook.so/posts/njtVK0"/>
+        <updated>2022-01-04T03:16:23.686Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVK0">곧 돌아올 얼룩소에게</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후위기, 우리가 막을수 있을까요?]]></title>
+        <id>https://alook.so/posts/6Mt9j0</id>
+        <link href="https://alook.so/posts/6Mt9j0"/>
+        <updated>2022-01-04T08:19:21.146Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt9j0">기후위기, 우리가 막을수 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 다들 공무원을 하려고 할까요?]]></title>
+        <id>https://alook.so/posts/8WtjnZ</id>
+        <link href="https://alook.so/posts/8WtjnZ"/>
+        <updated>2022-01-04T08:19:21.147Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtjnZ">왜 다들 공무원을 하려고 할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열의 위기에는 더 깊은 뿌리가 있다]]></title>
+        <id>https://alook.so/posts/G1tqX7</id>
+        <link href="https://alook.so/posts/G1tqX7"/>
+        <updated>2022-01-04T03:16:23.686Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqX7">윤석열의 위기에는 더 깊은 뿌리가 있다 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인성 좋은 연예인]]></title>
+        <id>https://alook.so/posts/latoRk</id>
+        <link href="https://alook.so/posts/latoRk"/>
+        <updated>2022-01-04T08:19:21.150Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoRk">인성 좋은 연예인</a>]]></content>
     </entry>
 </feed>

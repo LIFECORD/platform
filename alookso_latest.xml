@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-04T06:20:17.358Z</updated>
+    <updated>2022-01-04T08:20:38.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[자유롭지만 위험한 삶, 안정적이지만 갇힌 삶 뭐가 더 좋은 걸까?]]></title>
+        <id>https://alook.so/posts/eVtEp0</id>
+        <link href="https://alook.so/posts/eVtEp0"/>
+        <updated>2022-01-04T08:19:13.626Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEp0">자유롭지만 위험한 삶, 안정적이지만 갇힌 삶 뭐가 더 좋은 걸까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페미니즘을 넘어서 존재의 인정으로]]></title>
+        <id>https://alook.so/posts/Pvtpxm</id>
+        <link href="https://alook.so/posts/Pvtpxm"/>
+        <updated>2022-01-04T08:19:13.627Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpxm">페미니즘을 넘어서 존재의 인정으로</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 첫 국립 장애인 특수학교 시동]]></title>
         <id>https://alook.so/posts/WLtYjW</id>
@@ -25,26 +39,5 @@
         <link href="https://alook.so/posts/M9tXGq"/>
         <updated>2022-01-04T05:15:44.556Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXGq">관련 뉴스 영상 공유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모든 글의 좋아요가 감소하는 중..]]></title>
-        <id>https://alook.so/posts/RGtxP2</id>
-        <link href="https://alook.so/posts/RGtxP2"/>
-        <updated>2022-01-04T04:19:38.656Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxP2">모든 글의 좋아요가 감소하는 중..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공교육제대로해주세요]]></title>
-        <id>https://alook.so/posts/kZtm5O</id>
-        <link href="https://alook.so/posts/kZtm5O"/>
-        <updated>2022-01-04T04:19:38.657Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtm5O">공교육제대로해주세요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연적~김호연]]></title>
-        <id>https://alook.so/posts/yEtbKZ</id>
-        <link href="https://alook.so/posts/yEtbKZ"/>
-        <updated>2022-01-04T03:16:15.517Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbKZ">연적~김호연</a>]]></content>
     </entry>
 </feed>
