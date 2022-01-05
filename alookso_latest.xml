@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-05T12:27:49.027Z</updated>
+    <updated>2022-01-05T13:26:32.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[꾸준한 글쓰기에 대해서 : 사실, 의미부여는 필요없다 답은 명확하다.]]></title>
+        <id>https://alook.so/posts/w9tERq</id>
+        <link href="https://alook.so/posts/w9tERq"/>
+        <updated>2022-01-05T13:25:03.503Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tERq">꾸준한 글쓰기에 대해서 : 사실, 의미부여는 필요없다 답은 명확하다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만병통치약 채식]]></title>
+        <id>https://alook.so/posts/xlt18E</id>
+        <link href="https://alook.so/posts/xlt18E"/>
+        <updated>2022-01-05T13:25:03.504Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt18E">만병통치약 채식</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미술 전시에 꽃혔어요.]]></title>
+        <id>https://alook.so/posts/RGtxj5</id>
+        <link href="https://alook.so/posts/RGtxj5"/>
+        <updated>2022-01-05T13:25:03.505Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxj5">미술 전시에 꽃혔어요.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올한해의 목표는 무엇인가요?? 함께 나누어요.]]></title>
         <id>https://alook.so/posts/LKtWGv</id>
@@ -39,19 +60,5 @@
         <link href="https://alook.so/posts/G1tq33"/>
         <updated>2022-01-05T06:18:59.384Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq33">약속을 지키려 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쪽방촌 계급사회와 인간의 존엄]]></title>
-        <id>https://alook.so/posts/OEtKVG</id>
-        <link href="https://alook.so/posts/OEtKVG"/>
-        <updated>2022-01-05T05:16:03.399Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKVG">쪽방촌 계급사회와 인간의 존엄</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 선택한 길이 최선의 선택이였을까]]></title>
-        <id>https://alook.so/posts/E7tXdw</id>
-        <link href="https://alook.so/posts/E7tXdw"/>
-        <updated>2022-01-05T05:16:03.400Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXdw">내가 선택한 길이 최선의 선택이였을까</a>]]></content>
     </entry>
 </feed>
