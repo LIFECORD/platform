@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-05T05:17:23.934Z</updated>
+    <updated>2022-01-05T06:20:22.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[약속을 지키려 합니다.]]></title>
+        <id>https://alook.so/posts/G1tq33</id>
+        <link href="https://alook.so/posts/G1tq33"/>
+        <updated>2022-01-05T06:18:59.384Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq33">약속을 지키려 합니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쪽방촌 계급사회와 인간의 존엄]]></title>
         <id>https://alook.so/posts/OEtKVG</id>
@@ -60,12 +67,5 @@
         <link href="https://alook.so/posts/Djt4rE"/>
         <updated>2022-01-05T04:20:06.943Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4rE">자신이 생각하는대로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해부는 고사하고- (feat. LAB2050)]]></title>
-        <id>https://alook.so/posts/1RtzXw</id>
-        <link href="https://alook.so/posts/1RtzXw"/>
-        <updated>2022-01-05T04:20:06.944Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzXw">해부는 고사하고- (feat. LAB2050)</a>]]></content>
     </entry>
 </feed>
