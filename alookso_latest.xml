@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-05T00:55:03.189Z</updated>
+    <updated>2022-01-05T03:18:53.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오 한 문장으로 정리하기]]></title>
+        <id>https://alook.so/posts/o7tEWz</id>
+        <link href="https://alook.so/posts/o7tEWz"/>
+        <updated>2022-01-05T03:17:23.852Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEWz">카카오 한 문장으로 정리하기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[캘리 시 일기]_ 조용한 하루]]></title>
+        <id>https://alook.so/posts/70tY84</id>
+        <link href="https://alook.so/posts/70tY84"/>
+        <updated>2022-01-05T03:17:23.852Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY84">[캘리 시 일기]_ 조용한 하루</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바(Bar)는 어떤 곳인가요?]]></title>
+        <id>https://alook.so/posts/YytLEd</id>
+        <link href="https://alook.so/posts/YytLEd"/>
+        <updated>2022-01-05T03:17:23.854Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLEd">바(Bar)는 어떤 곳인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한 탄도 미사일 추정 발사와 일본 반응]]></title>
+        <id>https://alook.so/posts/rDt0lB</id>
+        <link href="https://alook.so/posts/rDt0lB"/>
+        <updated>2022-01-05T03:17:23.854Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0lB">북한 탄도 미사일 추정 발사와 일본 반응</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(4) 김호연 - 불편한 편의점 독서록 (★★★)]]></title>
+        <id>https://alook.so/posts/latozk</id>
+        <link href="https://alook.so/posts/latozk"/>
+        <updated>2022-01-05T03:17:23.855Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latozk">(4) 김호연 - 불편한 편의점 독서록 (★★★)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[~]]></title>
         <id>https://alook.so/posts/92tk9X</id>
@@ -32,33 +67,5 @@
         <link href="https://alook.so/posts/54tEKa"/>
         <updated>2022-01-04T15:16:52.306Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEKa">하루를 살아간다는 건</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[1번째 글] 밤의 간식 거리]]></title>
-        <id>https://alook.so/posts/Djt4kR</id>
-        <link href="https://alook.so/posts/Djt4kR"/>
-        <updated>2022-01-04T15:16:52.307Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4kR">[1번째 글] 밤의 간식 거리</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[캘리 시 일기]_ 새로운 길]]></title>
-        <id>https://alook.so/posts/o7tEWY</id>
-        <link href="https://alook.so/posts/o7tEWY"/>
-        <updated>2022-01-04T13:23:28.646Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEWY">[캘리 시 일기]_ 새로운 길</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회사 내에서 위로와 축하 소식을 동시에 받았습니다.]]></title>
-        <id>https://alook.so/posts/70tY8X</id>
-        <link href="https://alook.so/posts/70tY8X"/>
-        <updated>2022-01-04T13:23:28.648Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY8X">회사 내에서 위로와 축하 소식을 동시에 받았습니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[칸트냐 베카리아냐 그것이 문제로다 나는 칸베리아]]></title>
-        <id>https://alook.so/posts/YytLEJ</id>
-        <link href="https://alook.so/posts/YytLEJ"/>
-        <updated>2022-01-04T13:23:28.649Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLEJ">칸트냐 베카리아냐 그것이 문제로다 나는 칸베리아</a>]]></content>
     </entry>
 </feed>
