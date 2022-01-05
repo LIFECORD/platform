@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-05T15:17:36.209Z</updated>
+    <updated>2022-01-05T16:25:10.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[기후위기, 우리가 막을 수 있을까요?]]></title>
+        <id>https://alook.so/posts/zvtq4r</id>
+        <link href="https://alook.so/posts/zvtq4r"/>
+        <updated>2022-01-05T16:23:38.863Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtq4r">기후위기, 우리가 막을 수 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10대가 짐작하는 한국 10대들이 불행한 이유]]></title>
+        <id>https://alook.so/posts/2xt9E8</id>
+        <link href="https://alook.so/posts/2xt9E8"/>
+        <updated>2022-01-05T16:23:38.864Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9E8">10대가 짐작하는 한국 10대들이 불행한 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갖고 싶다고 가질 수 없는 것]]></title>
+        <id>https://alook.so/posts/WLtYx3</id>
+        <link href="https://alook.so/posts/WLtYx3"/>
+        <updated>2022-01-05T16:23:38.865Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYx3">갖고 싶다고 가질 수 없는 것</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나의 노력은 어디로 갔을까]]></title>
         <id>https://alook.so/posts/0kteVO</id>
@@ -46,12 +67,5 @@
         <link href="https://alook.so/posts/RGtxj5"/>
         <updated>2022-01-05T13:25:03.505Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxj5">미술 전시에 꽃혔어요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올한해의 목표는 무엇인가요?? 함께 나누어요.]]></title>
-        <id>https://alook.so/posts/LKtWGv</id>
-        <link href="https://alook.so/posts/LKtWGv"/>
-        <updated>2022-01-05T09:17:04.407Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWGv">올한해의 목표는 무엇인가요?? 함께 나누어요.</a>]]></content>
     </entry>
 </feed>
