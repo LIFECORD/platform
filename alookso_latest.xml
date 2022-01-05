@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-05T03:18:53.417Z</updated>
+    <updated>2022-01-05T04:21:39.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뜨개질에 완전 꽂혀있는 사람]]></title>
+        <id>https://alook.so/posts/q1tWRG</id>
+        <link href="https://alook.so/posts/q1tWRG"/>
+        <updated>2022-01-05T04:20:06.941Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWRG">뜨개질에 완전 꽂혀있는 사람</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자신이 생각하는대로]]></title>
+        <id>https://alook.so/posts/Djt4rE</id>
+        <link href="https://alook.so/posts/Djt4rE"/>
+        <updated>2022-01-05T04:20:06.943Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4rE">자신이 생각하는대로</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해부는 고사하고- (feat. LAB2050)]]></title>
+        <id>https://alook.so/posts/1RtzXw</id>
+        <link href="https://alook.so/posts/1RtzXw"/>
+        <updated>2022-01-05T04:20:06.944Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzXw">해부는 고사하고- (feat. LAB2050)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오 한 문장으로 정리하기]]></title>
         <id>https://alook.so/posts/o7tEWz</id>
@@ -46,26 +67,5 @@
         <link href="https://alook.so/posts/92tk9X"/>
         <updated>2022-01-05T00:53:39.246Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tk9X">~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10년후 나의 미래는…]]></title>
-        <id>https://alook.so/posts/KmtWPv</id>
-        <link href="https://alook.so/posts/KmtWPv"/>
-        <updated>2022-01-04T23:15:24.637Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWPv">10년후 나의 미래는…</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지방의 인프라가 조금더 좋아지길 바래봅니다.]]></title>
-        <id>https://alook.so/posts/mbtjwx</id>
-        <link href="https://alook.so/posts/mbtjwx"/>
-        <updated>2022-01-04T23:15:24.638Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjwx">지방의 인프라가 조금더 좋아지길 바래봅니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루를 살아간다는 건]]></title>
-        <id>https://alook.so/posts/54tEKa</id>
-        <link href="https://alook.so/posts/54tEKa"/>
-        <updated>2022-01-04T15:16:52.306Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEKa">하루를 살아간다는 건</a>]]></content>
     </entry>
 </feed>
