@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-05T06:20:22.712Z</updated>
+    <updated>2022-01-05T09:18:32.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[올한해의 목표는 무엇인가요?? 함께 나누어요.]]></title>
+        <id>https://alook.so/posts/LKtWGv</id>
+        <link href="https://alook.so/posts/LKtWGv"/>
+        <updated>2022-01-05T09:17:04.407Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWGv">올한해의 목표는 무엇인가요?? 함께 나누어요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주 4일제는 가능하다고 생각합니다.]]></title>
+        <id>https://alook.so/posts/njtV8b</id>
+        <link href="https://alook.so/posts/njtV8b"/>
+        <updated>2022-01-05T09:17:04.409Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtV8b">주 4일제는 가능하다고 생각합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국은 선진국이 맞다고 생각합니다.]]></title>
+        <id>https://alook.so/posts/6Mt91R</id>
+        <link href="https://alook.so/posts/6Mt91R"/>
+        <updated>2022-01-05T09:17:04.409Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt91R">한국은 선진국이 맞다고 생각합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 다큐멘터리보다는 르포타쥬가 되었으면]]></title>
+        <id>https://alook.so/posts/3wtODr</id>
+        <link href="https://alook.so/posts/3wtODr"/>
+        <updated>2022-01-05T09:17:04.410Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtODr">답글: 다큐멘터리보다는 르포타쥬가 되었으면</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[약속을 지키려 합니다.]]></title>
         <id>https://alook.so/posts/G1tq33</id>
@@ -25,47 +53,5 @@
         <link href="https://alook.so/posts/E7tXdw"/>
         <updated>2022-01-05T05:16:03.400Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXdw">내가 선택한 길이 최선의 선택이였을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 군대, 이등병들은 어떻게 생활할까?]]></title>
-        <id>https://alook.so/posts/latowy</id>
-        <link href="https://alook.so/posts/latowy"/>
-        <updated>2022-01-05T05:16:03.401Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latowy">요즘 군대, 이등병들은 어떻게 생활할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힘들겠지만 응원합니다]]></title>
-        <id>https://alook.so/posts/92tkZJ</id>
-        <link href="https://alook.so/posts/92tkZJ"/>
-        <updated>2022-01-05T05:16:03.402Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkZJ">힘들겠지만 응원합니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[추천하고 싶지만 비추하게 되는]]></title>
-        <id>https://alook.so/posts/KmtWbk</id>
-        <link href="https://alook.so/posts/KmtWbk"/>
-        <updated>2022-01-05T05:16:03.403Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWbk">추천하고 싶지만 비추하게 되는</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: '추이와 제도의 경로의존성'에 대한 몇 가지 질문, 의견]]></title>
-        <id>https://alook.so/posts/54tE8k</id>
-        <link href="https://alook.so/posts/54tE8k"/>
-        <updated>2022-01-05T05:16:03.404Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE8k">답글: '추이와 제도의 경로의존성'에 대한 몇 가지 질문, 의견</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨개질에 완전 꽂혀있는 사람]]></title>
-        <id>https://alook.so/posts/q1tWRG</id>
-        <link href="https://alook.so/posts/q1tWRG"/>
-        <updated>2022-01-05T04:20:06.941Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWRG">뜨개질에 완전 꽂혀있는 사람</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신이 생각하는대로]]></title>
-        <id>https://alook.so/posts/Djt4rE</id>
-        <link href="https://alook.so/posts/Djt4rE"/>
-        <updated>2022-01-05T04:20:06.943Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4rE">자신이 생각하는대로</a>]]></content>
     </entry>
 </feed>
