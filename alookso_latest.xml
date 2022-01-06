@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-06T06:20:08.295Z</updated>
+    <updated>2022-01-06T10:20:20.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[같은 성별끼리의 결혼에 대한 생각]]></title>
+        <id>https://alook.so/posts/rDt0YB</id>
+        <link href="https://alook.so/posts/rDt0YB"/>
+        <updated>2022-01-06T10:18:54.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0YB">같은 성별끼리의 결혼에 대한 생각</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후위기 막을수있을까?]]></title>
+        <id>https://alook.so/posts/jdtElY</id>
+        <link href="https://alook.so/posts/jdtElY"/>
+        <updated>2022-01-06T10:18:54.878Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtElY">기후위기 막을수있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[희소가치가 된 "좋아요"]]></title>
+        <id>https://alook.so/posts/ZktPBy</id>
+        <link href="https://alook.so/posts/ZktPBy"/>
+        <updated>2022-01-06T10:18:54.879Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPBy">희소가치가 된 "좋아요"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신, 계속해서 맞아도 되는 걸까요]]></title>
+        <id>https://alook.so/posts/dztlwj</id>
+        <link href="https://alook.so/posts/dztlwj"/>
+        <updated>2022-01-06T10:18:54.880Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlwj">백신, 계속해서 맞아도 되는 걸까요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[승무원 유니폼 룩북 유튜버, 뒤에선 패트리온 포르노 스타라고?]]></title>
         <id>https://alook.so/posts/J5tV9G</id>
@@ -25,33 +53,5 @@
         <link href="https://alook.so/posts/VntaL1"/>
         <updated>2022-01-06T00:56:30.364Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntaL1">노후는 과연 국민연금 혼자의 역할일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후위기, 우리가 막을 수 있을까요?]]></title>
-        <id>https://alook.so/posts/zvtq4r</id>
-        <link href="https://alook.so/posts/zvtq4r"/>
-        <updated>2022-01-05T16:23:38.863Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtq4r">기후위기, 우리가 막을 수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10대가 짐작하는 한국 10대들이 불행한 이유]]></title>
-        <id>https://alook.so/posts/2xt9E8</id>
-        <link href="https://alook.so/posts/2xt9E8"/>
-        <updated>2022-01-05T16:23:38.864Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9E8">10대가 짐작하는 한국 10대들이 불행한 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갖고 싶다고 가질 수 없는 것]]></title>
-        <id>https://alook.so/posts/WLtYx3</id>
-        <link href="https://alook.so/posts/WLtYx3"/>
-        <updated>2022-01-05T16:23:38.865Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYx3">갖고 싶다고 가질 수 없는 것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 노력은 어디로 갔을까]]></title>
-        <id>https://alook.so/posts/0kteVO</id>
-        <link href="https://alook.so/posts/0kteVO"/>
-        <updated>2022-01-05T15:16:14.711Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteVO">나의 노력은 어디로 갔을까</a>]]></content>
     </entry>
 </feed>

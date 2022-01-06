@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://articles.dotface.kr/</id>
     <title>닷페이스 ─ 아티클</title>
-    <updated>2022-01-06T06:20:08.296Z</updated>
+    <updated>2022-01-06T10:20:20.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://articles.dotface.kr/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘하던 대로' 하면 안 바뀌니까, 페인트를 끼얹었다]]></title>
+        <id>https://articles.dotface.kr/extremely2</id>
+        <link href="https://articles.dotface.kr/extremely2"/>
+        <updated>2022-01-06T10:18:24.450Z</updated>
+        <content type="html"><![CDATA[[왜 저렇게까지 해?] 청년기후긴급행동 강은빈, 이은호 활동가]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["음식이 아니라 폭력입니다" 식당에서 외치는 이유]]></title>
         <id>https://articles.dotface.kr/extremely1</id>
@@ -67,12 +74,5 @@
         <link href="https://articles.dotface.kr/vaw2022-5"/>
         <updated>2021-12-28T13:22:25.948Z</updated>
         <content type="html"><![CDATA[2022 대선 캐비닛, 성평등과 여성 관련 공약]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런 공약은 왜 없지? 성폭력 피해자에게 가장 절실한 정책]]></title>
-        <id>https://articles.dotface.kr/vaw2022-4</id>
-        <link href="https://articles.dotface.kr/vaw2022-4"/>
-        <updated>2021-12-28T13:22:25.949Z</updated>
-        <content type="html"><![CDATA[2022 대선 캐비닛, 여성 폭력 공약 살펴보기 [제안 편]]]></content>
     </entry>
 </feed>
