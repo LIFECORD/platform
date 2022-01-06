@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-06T04:21:37.892Z</updated>
+    <updated>2022-01-06T06:20:08.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[승무원 유니폼 룩북 유튜버, 뒤에선 패트리온 포르노 스타라고?]]></title>
+        <id>https://alook.so/posts/J5tV9G</id>
+        <link href="https://alook.so/posts/J5tV9G"/>
+        <updated>2022-01-06T06:18:38.218Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tV9G">승무원 유니폼 룩북 유튜버, 뒤에선 패트리온 포르노 스타라고?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[캘리 시 일기]_ 정지된 물건들]]></title>
         <id>https://alook.so/posts/eVtEK3</id>
@@ -46,19 +53,5 @@
         <link href="https://alook.so/posts/0kteVO"/>
         <updated>2022-01-05T15:16:14.711Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteVO">나의 노력은 어디로 갔을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아프니깐 아버지다]]></title>
-        <id>https://alook.so/posts/4Xt497</id>
-        <link href="https://alook.so/posts/4Xt497"/>
-        <updated>2022-01-05T15:16:14.712Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt497">아프니깐 아버지다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양자택일 : 얼룩소 사이트는 이걸 할 필요가 없다.]]></title>
-        <id>https://alook.so/posts/XBtbVz</id>
-        <link href="https://alook.so/posts/XBtbVz"/>
-        <updated>2022-01-05T15:16:14.713Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbVz">양자택일 : 얼룩소 사이트는 이걸 할 필요가 없다.</a>]]></content>
     </entry>
 </feed>
