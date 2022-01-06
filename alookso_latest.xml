@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-06T14:15:50.437Z</updated>
+    <updated>2022-01-06T16:24:53.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[아이를 키우고 싶은 안전한 환경이 있다면..]]></title>
-        <id>https://alook.so/posts/54tEXk</id>
-        <link href="https://alook.so/posts/54tEXk"/>
-        <updated>2022-01-06T14:14:23.275Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEXk">아이를 키우고 싶은 안전한 환경이 있다면..</a>]]></content>
+        <title type="html"><![CDATA[가장 열심히 살았다고 생각했던 순간]]></title>
+        <id>https://alook.so/posts/OEtKPG</id>
+        <link href="https://alook.so/posts/OEtKPG"/>
+        <updated>2022-01-06T16:23:21.374Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKPG">가장 열심히 살았다고 생각했던 순간</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고민없는 삶 존재할 수 있을까]]></title>
+        <id>https://alook.so/posts/vKtq5E</id>
+        <link href="https://alook.so/posts/vKtq5E"/>
+        <updated>2022-01-06T16:23:21.375Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtq5E">고민없는 삶 존재할 수 있을까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 낮은 곳으로, 천주교 사제가 된다는 것]]></title>
@@ -25,19 +32,5 @@
         <link href="https://alook.so/posts/Djt4BE"/>
         <updated>2022-01-06T12:26:00.348Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4BE">얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의투자일기]]></title>
-        <id>https://alook.so/posts/o7tEkz</id>
-        <link href="https://alook.so/posts/o7tEkz"/>
-        <updated>2022-01-06T14:14:23.278Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEkz"> 나의투자일기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스크에 이어 방역패스는 언제까지??]]></title>
-        <id>https://alook.so/posts/70tYw4</id>
-        <link href="https://alook.so/posts/70tYw4"/>
-        <updated>2022-01-06T14:14:23.279Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYw4">마스크에 이어 방역패스는 언제까지??</a>]]></content>
     </entry>
 </feed>
