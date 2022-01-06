@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-06T00:57:59.234Z</updated>
+    <updated>2022-01-06T04:21:37.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[캘리 시 일기]_ 정지된 물건들]]></title>
+        <id>https://alook.so/posts/eVtEK3</id>
+        <link href="https://alook.so/posts/eVtEK3"/>
+        <updated>2022-01-06T04:20:08.999Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEK3">[캘리 시 일기]_ 정지된 물건들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노후는 과연 국민연금 혼자의 역할일까?]]></title>
         <id>https://alook.so/posts/VntaL1</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/XBtbVz"/>
         <updated>2022-01-05T15:16:14.713Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbVz">양자택일 : 얼룩소 사이트는 이걸 할 필요가 없다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꾸준한 글쓰기에 대해서 : 사실, 의미부여는 필요없다 답은 명확하다.]]></title>
-        <id>https://alook.so/posts/w9tERq</id>
-        <link href="https://alook.so/posts/w9tERq"/>
-        <updated>2022-01-05T13:25:03.503Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tERq">꾸준한 글쓰기에 대해서 : 사실, 의미부여는 필요없다 답은 명확하다.</a>]]></content>
     </entry>
 </feed>
