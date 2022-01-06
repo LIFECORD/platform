@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-06T16:24:53.862Z</updated>
+    <updated>2022-01-06T18:19:25.896Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[가장 열심히 살았다고 생각했던 순간]]></title>
+        <title type="html"><![CDATA[가장 열심히 살았다고 생각했던 순간의 의미]]></title>
         <id>https://alook.so/posts/OEtKPG</id>
         <link href="https://alook.so/posts/OEtKPG"/>
         <updated>2022-01-06T16:23:33.073Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKPG">가장 열심히 살았다고 생각했던 순간</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKPG">가장 열심히 살았다고 생각했던 순간의 의미</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가장 낮은 곳으로, 천주교 사제가 된다는 것]]></title>
@@ -116,12 +116,5 @@
         <link href="https://alook.so/posts/xlt18E"/>
         <updated>2022-01-06T16:23:33.091Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt18E">만병통치약 채식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미술 전시에 꽃혔어요.]]></title>
-        <id>https://alook.so/posts/RGtxj5</id>
-        <link href="https://alook.so/posts/RGtxj5"/>
-        <updated>2022-01-06T16:23:33.093Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxj5">미술 전시에 꽃혔어요.</a>]]></content>
     </entry>
 </feed>

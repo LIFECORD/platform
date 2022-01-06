@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-06T16:24:53.862Z</updated>
+    <updated>2022-01-06T18:19:25.899Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[가장 열심히 살았다고 생각했던 순간]]></title>
+        <title type="html"><![CDATA[우리의 미래]]></title>
+        <id>https://alook.so/posts/8Wtjzz</id>
+        <link href="https://alook.so/posts/8Wtjzz"/>
+        <updated>2022-01-06T18:17:57.388Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtjzz">우리의 미래</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흔들림 느껴보셨나요?]]></title>
+        <id>https://alook.so/posts/G1tqV3</id>
+        <link href="https://alook.so/posts/G1tqV3"/>
+        <updated>2022-01-06T18:17:57.389Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqV3">흔들림 느껴보셨나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 열심히 살았다고 생각했던 순간의 의미]]></title>
         <id>https://alook.so/posts/OEtKPG</id>
         <link href="https://alook.so/posts/OEtKPG"/>
         <updated>2022-01-06T16:23:21.374Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKPG">가장 열심히 살았다고 생각했던 순간</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKPG">가장 열심히 살았다고 생각했던 순간의 의미</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고민없는 삶 존재할 수 있을까]]></title>
@@ -25,12 +39,5 @@
         <link href="https://alook.so/posts/q1tWEG"/>
         <updated>2022-01-06T13:27:59.249Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWEG">가장 낮은 곳으로, 천주교 사제가 된다는 것 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다.]]></title>
-        <id>https://alook.so/posts/Djt4BE</id>
-        <link href="https://alook.so/posts/Djt4BE"/>
-        <updated>2022-01-06T12:26:00.348Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4BE">얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다.</a>]]></content>
     </entry>
 </feed>
