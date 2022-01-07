@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-07T08:20:52.677Z</updated>
+    <updated>2022-01-07T10:20:15.960Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[보이지 않는 빈곤 청년은 어디서 찾을 수 있나요 ?]]></title>
+        <id>https://alook.so/posts/a0t08q</id>
+        <link href="https://alook.so/posts/a0t08q"/>
+        <updated>2022-01-07T10:18:50.481Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t08q">보이지 않는 빈곤 청년은 어디서 찾을 수 있나요 ?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[적시자, 취하자, 미치자!]]></title>
         <id>https://alook.so/posts/PvtpO9</id>
