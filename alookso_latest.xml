@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-07T11:14:37.273Z</updated>
+    <updated>2022-01-07T13:25:08.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[안읽고리뷰하기-베스트셀러 1위, 박근혜 옥중서간록]]></title>
+        <title type="html"><![CDATA[기술 발전은 일자리를 늘린다.]]></title>
+        <id>https://alook.so/posts/YytLPd</id>
+        <link href="https://alook.so/posts/YytLPd"/>
+        <updated>2022-01-07T13:23:41.770Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLPd">기술 발전은 일자리를 늘린다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그런데 ‘2030 여성’은요?]]></title>
+        <id>https://alook.so/posts/rDt09B</id>
+        <link href="https://alook.so/posts/rDt09B"/>
+        <updated>2022-01-07T13:23:41.772Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt09B">그런데 ‘2030 여성’은요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 접종을 권장하고 "설득"하는 것은 정부의 역할입니다]]></title>
+        <id>https://alook.so/posts/jdtEGY</id>
+        <link href="https://alook.so/posts/jdtEGY"/>
+        <updated>2022-01-07T13:23:41.773Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEGY">백신 접종을 권장하고 "설득"하는 것은 정부의 역할입니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[출간 즉시 베스트셀러 1위, 박근혜 옥중서간록.]]></title>
         <id>https://alook.so/posts/bWtElx</id>
         <link href="https://alook.so/posts/bWtElx"/>
         <updated>2022-01-07T10:18:41.513Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtElx">안읽고리뷰하기-베스트셀러 1위, 박근혜 옥중서간록</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtElx">출간 즉시 베스트셀러 1위, 박근혜 옥중서간록.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보이지 않는 빈곤 청년은 어디서 찾을 수 있나요 ?]]></title>
@@ -39,26 +60,5 @@
         <link href="https://alook.so/posts/eVtEG3"/>
         <updated>2022-01-07T08:19:20.141Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEG3">부업 부부업 부부부업</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적시자, 취하자, 미치자!]]></title>
-        <id>https://alook.so/posts/PvtpO9</id>
-        <link href="https://alook.so/posts/PvtpO9"/>
-        <updated>2022-01-07T08:19:20.143Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtpO9">적시자, 취하자, 미치자!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈모에 대한 단상]]></title>
-        <id>https://alook.so/posts/Vnta91</id>
-        <link href="https://alook.so/posts/Vnta91"/>
-        <updated>2022-01-07T08:19:20.145Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnta91">탈모에 대한 단상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 공수부대는 카자흐스탄에서 당장 철수하라!]]></title>
-        <id>https://alook.so/posts/zvtqer</id>
-        <link href="https://alook.so/posts/zvtqer"/>
-        <updated>2022-01-07T05:16:18.464Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqer">러시아 공수부대는 카자흐스탄에서 당장 철수하라! </a>]]></content>
     </entry>
 </feed>
