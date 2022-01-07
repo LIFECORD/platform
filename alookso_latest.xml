@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-07T15:17:38.316Z</updated>
+    <updated>2022-01-07T16:24:45.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[선거는 차악을 뽑는 거라며?]]></title>
+        <id>https://alook.so/posts/o7tEVz</id>
+        <link href="https://alook.so/posts/o7tEVz"/>
+        <updated>2022-01-07T16:23:16.990Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEVz">선거는 차악을 뽑는 거라며?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈모으는 짠테크에 꽂혔어요!]]></title>
         <id>https://alook.so/posts/70tYz4</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/ZktPZy"/>
         <updated>2022-01-07T08:19:20.139Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPZy">이재명 후보 닷페이스 출연 관련.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세상은 엿같고, 핏줄은 더럽게 아프다.]]></title>
-        <id>https://alook.so/posts/potmxV</id>
-        <link href="https://alook.so/posts/potmxV"/>
-        <updated>2022-01-07T08:19:20.140Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmxV">세상은 엿같고, 핏줄은 더럽게 아프다.</a>]]></content>
     </entry>
 </feed>
