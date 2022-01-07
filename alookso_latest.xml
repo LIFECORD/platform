@@ -2,63 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-07T05:17:44.413Z</updated>
+    <updated>2022-01-07T08:20:52.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이재명 후보 닷페이스 출연 관련.]]></title>
+        <id>https://alook.so/posts/ZktPZy</id>
+        <link href="https://alook.so/posts/ZktPZy"/>
+        <updated>2022-01-07T08:19:20.139Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPZy">이재명 후보 닷페이스 출연 관련.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상은 엿같고, 핏줄은 더럽게 아프다.]]></title>
+        <id>https://alook.so/posts/potmxV</id>
+        <link href="https://alook.so/posts/potmxV"/>
+        <updated>2022-01-07T08:19:20.140Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmxV">세상은 엿같고, 핏줄은 더럽게 아프다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부업 부부업 부부부업]]></title>
+        <id>https://alook.so/posts/eVtEG3</id>
+        <link href="https://alook.so/posts/eVtEG3"/>
+        <updated>2022-01-07T08:19:20.141Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEG3">부업 부부업 부부부업</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[적시자, 취하자, 미치자!]]></title>
+        <id>https://alook.so/posts/PvtpO9</id>
+        <link href="https://alook.so/posts/PvtpO9"/>
+        <updated>2022-01-07T08:19:20.143Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtpO9">적시자, 취하자, 미치자!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탈모에 대한 단상]]></title>
+        <id>https://alook.so/posts/Vnta91</id>
+        <link href="https://alook.so/posts/Vnta91"/>
+        <updated>2022-01-07T08:19:20.145Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnta91">탈모에 대한 단상</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아 공수부대는 카자흐스탄에서 당장 철수하라!]]></title>
         <id>https://alook.so/posts/zvtqer</id>
         <link href="https://alook.so/posts/zvtqer"/>
         <updated>2022-01-07T05:16:18.464Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqer">러시아 공수부대는 카자흐스탄에서 당장 철수하라! </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 최초 동체착륙 성공]]></title>
-        <id>https://alook.so/posts/M9tXqj</id>
-        <link href="https://alook.so/posts/M9tXqj"/>
-        <updated>2022-01-07T05:16:18.466Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXqj">세계 최초 동체착륙 성공</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족이 부담스러웠던 기억]]></title>
-        <id>https://alook.so/posts/4Xt4W7</id>
-        <link href="https://alook.so/posts/4Xt4W7"/>
-        <updated>2022-01-07T05:16:18.467Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4W7">가족이 부담스러웠던 기억</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3명의 소방관 순직]]></title>
-        <id>https://alook.so/posts/XBtbpz</id>
-        <link href="https://alook.so/posts/XBtbpz"/>
-        <updated>2022-01-07T05:16:18.468Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbpz">3명의 소방관 순직</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족의 중요성을 깨닫는 시기]]></title>
-        <id>https://alook.so/posts/w9tE7q</id>
-        <link href="https://alook.so/posts/w9tE7q"/>
-        <updated>2022-01-07T05:16:18.469Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tE7q">가족의 중요성을 깨닫는 시기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[캘리 시 일기]_ 할머니들의 수다]]></title>
-        <id>https://alook.so/posts/xlt12E</id>
-        <link href="https://alook.so/posts/xlt12E"/>
-        <updated>2022-01-07T05:16:18.470Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt12E">[캘리 시 일기]_ 할머니들의 수다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나로 폐업한 자영업자, 이제 임대계약 중도해지 할 수 있다]]></title>
-        <id>https://alook.so/posts/RGtx05</id>
-        <link href="https://alook.so/posts/RGtx05"/>
-        <updated>2022-01-07T05:16:18.471Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtx05">코로나로 폐업한 자영업자, 이제 임대계약 중도해지 할 수 있다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 손잡은 윤석열-이준석... 그런데 ‘000’은요?]]></title>
-        <id>https://alook.so/posts/kZtmn0</id>
-        <link href="https://alook.so/posts/kZtmn0"/>
-        <updated>2022-01-07T05:16:18.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmn0">다시 손잡은 윤석열-이준석... 그런데 ‘000’은요? </a>]]></content>
     </entry>
 </feed>

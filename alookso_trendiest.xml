@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-07T05:17:44.405Z</updated>
+    <updated>2022-01-07T08:20:52.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[적시자, 취하자, 미치자!]]></title>
+        <id>https://alook.so/posts/PvtpO9</id>
+        <link href="https://alook.so/posts/PvtpO9"/>
+        <updated>2022-01-07T08:19:29.684Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtpO9">적시자, 취하자, 미치자!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탈모에 대한 단상]]></title>
+        <id>https://alook.so/posts/Vnta91</id>
+        <link href="https://alook.so/posts/Vnta91"/>
+        <updated>2022-01-07T08:19:29.684Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnta91">탈모에 대한 단상</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아 공수부대는 카자흐스탄에서 당장 철수하라!]]></title>
+        <id>https://alook.so/posts/zvtqer</id>
+        <link href="https://alook.so/posts/zvtqer"/>
+        <updated>2022-01-07T08:19:29.684Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqer">러시아 공수부대는 카자흐스탄에서 당장 철수하라! </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족이 부담스러웠던 기억]]></title>
         <id>https://alook.so/posts/4Xt4W7</id>
@@ -81,19 +102,5 @@
         <link href="https://alook.so/posts/vKtq5E"/>
         <updated>2022-01-06T22:15:41.002Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtq5E">고민없는 삶 존재할 수 있을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 낮은 곳으로, 천주교 사제가 된다는 것]]></title>
-        <id>https://alook.so/posts/q1tWEG</id>
-        <link href="https://alook.so/posts/q1tWEG"/>
-        <updated>2022-01-06T14:14:30.959Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWEG">가장 낮은 곳으로, 천주교 사제가 된다는 것 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다.]]></title>
-        <id>https://alook.so/posts/Djt4BE</id>
-        <link href="https://alook.so/posts/Djt4BE"/>
-        <updated>2022-01-06T14:14:30.984Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4BE">얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다.</a>]]></content>
     </entry>
 </feed>
