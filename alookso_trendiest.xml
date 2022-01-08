@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-08T07:18:05.143Z</updated>
+    <updated>2022-01-08T08:20:19.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전역 기념, 첫 부산 방문 (22/01/06 ~ 22/01/08)]]></title>
+        <id>https://alook.so/posts/E7tXmw</id>
+        <link href="https://alook.so/posts/E7tXmw"/>
+        <updated>2022-01-08T08:18:56.374Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXmw">전역 기념, 첫 부산 방문 (22/01/06 ~ 22/01/08)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["방역패스의 공익적 목적이 무엇일까요?" 이 질문에서부터 시작해야 합니다]]></title>
         <id>https://alook.so/posts/lato8y</id>
@@ -109,12 +116,5 @@
         <link href="https://alook.so/posts/Vnta91"/>
         <updated>2022-01-07T08:19:29.684Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnta91">탈모에 대한 단상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 공수부대는 카자흐스탄에서 당장 철수하라!]]></title>
-        <id>https://alook.so/posts/zvtqer</id>
-        <link href="https://alook.so/posts/zvtqer"/>
-        <updated>2022-01-07T08:19:29.684Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqer">러시아 공수부대는 카자흐스탄에서 당장 철수하라! </a>]]></content>
     </entry>
 </feed>
