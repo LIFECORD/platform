@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-08T12:26:09.036Z</updated>
+    <updated>2022-01-08T15:17:01.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[몰입하라]]></title>
+        <id>https://alook.so/posts/54tE9d</id>
+        <link href="https://alook.so/posts/54tE9d"/>
+        <updated>2022-01-08T15:15:27.182Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE9d">몰입하라</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개고기 식용, 어떤 것이 옳은 것인가?]]></title>
+        <id>https://alook.so/posts/q1tW7b</id>
+        <link href="https://alook.so/posts/q1tW7b"/>
+        <updated>2022-01-08T15:15:27.183Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW7b">개고기 식용, 어떤 것이 옳은 것인가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[불황은 다가오는가]]></title>
+        <id>https://alook.so/posts/Djt49x</id>
+        <link href="https://alook.so/posts/Djt49x"/>
+        <updated>2022-01-08T15:15:27.186Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt49x">불황은 다가오는가 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술, 난 진짜 무서워]]></title>
+        <id>https://alook.so/posts/1Rtz88</id>
+        <link href="https://alook.so/posts/1Rtz88"/>
+        <updated>2022-01-08T15:15:27.186Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtz88">기술, 난 진짜 무서워</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[직장인이라면 한번쯤은 걱정 하지 않을까요?]]></title>
         <id>https://alook.so/posts/70tYJw</id>
@@ -39,33 +67,5 @@
         <link href="https://alook.so/posts/92tkqJ"/>
         <updated>2022-01-08T05:15:26.554Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkqJ">새해 만둣국 멘트로 인종차별 당한 한국계 미국 앵커, 그리고 반전 상황</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노인보호센터에서  치매 앓는 80대 할머니 집단폭행]]></title>
-        <id>https://alook.so/posts/KmtWqk</id>
-        <link href="https://alook.so/posts/KmtWqk"/>
-        <updated>2022-01-08T05:15:26.555Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWqk">노인보호센터에서  치매 앓는 80대 할머니 집단폭행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4행시로 정리]]></title>
-        <id>https://alook.so/posts/54tE9k</id>
-        <link href="https://alook.so/posts/54tE9k"/>
-        <updated>2022-01-07T17:24:51.964Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE9k">4행시로 정리</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유독 더 불행을 말하는 한국의 10대]]></title>
-        <id>https://alook.so/posts/q1tW7G</id>
-        <link href="https://alook.so/posts/q1tW7G"/>
-        <updated>2022-01-07T17:24:51.965Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW7G">유독 더 불행을 말하는 한국의 10대</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브레이크가 있는지 비관적인 생각이 듭니다.]]></title>
-        <id>https://alook.so/posts/Djt49E</id>
-        <link href="https://alook.so/posts/Djt49E"/>
-        <updated>2022-01-07T17:24:51.966Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt49E">브레이크가 있는지 비관적인 생각이 듭니다.</a>]]></content>
     </entry>
 </feed>
