@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-08T05:16:54.801Z</updated>
+    <updated>2022-01-08T07:18:05.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA["방역패스의 공익적 목적이 무엇일까요?" 이 질문에서부터 시작해야 합니다]]></title>
+        <id>https://alook.so/posts/lato8y</id>
+        <link href="https://alook.so/posts/lato8y"/>
+        <updated>2022-01-08T07:16:40.594Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lato8y">"방역패스의 공익적 목적이 무엇일까요?" 이 질문에서부터 시작해야 합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새해 만둣국 멘트로 인종차별 당한 한국계 미국 앵커, 그리고 반전 상황]]></title>
+        <id>https://alook.so/posts/92tkqJ</id>
+        <link href="https://alook.so/posts/92tkqJ"/>
+        <updated>2022-01-08T07:16:40.595Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkqJ">새해 만둣국 멘트로 인종차별 당한 한국계 미국 앵커, 그리고 반전 상황</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유독 더 불행을 말하는 한국의 10대]]></title>
         <id>https://alook.so/posts/q1tW7G</id>
@@ -102,12 +116,5 @@
         <link href="https://alook.so/posts/zvtqer"/>
         <updated>2022-01-07T08:19:29.684Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqer">러시아 공수부대는 카자흐스탄에서 당장 철수하라! </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족이 부담스러웠던 기억]]></title>
-        <id>https://alook.so/posts/4Xt4W7</id>
-        <link href="https://alook.so/posts/4Xt4W7"/>
-        <updated>2022-01-07T22:16:14.772Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4W7">가족이 부담스러웠던 기억</a>]]></content>
     </entry>
 </feed>
