@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-08T17:24:40.966Z</updated>
+    <updated>2022-01-08T18:19:53.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 사회의 약자는 "청년"입니다.]]></title>
+        <id>https://alook.so/posts/KmtWqr</id>
+        <link href="https://alook.so/posts/KmtWqr"/>
+        <updated>2022-01-08T18:18:17.742Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWqr">우리 사회의 약자는 "청년"입니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감사합니다.2 (가시나무)]]></title>
         <id>https://alook.so/posts/mbtjVj</id>
@@ -46,26 +53,5 @@
         <link href="https://alook.so/posts/70tYJw"/>
         <updated>2022-01-08T08:18:47.633Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYJw">직장인이라면 한번쯤은 걱정 하지 않을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비용도 중요하지만 현재 군인 모집 방식부터 변화해야 하지 않을까요?]]></title>
-        <id>https://alook.so/posts/YytLGE</id>
-        <link href="https://alook.so/posts/YytLGE"/>
-        <updated>2022-01-08T08:18:47.634Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLGE">비용도 중요하지만 현재 군인 모집 방식부터 변화해야 하지 않을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전역 기념, 첫 부산 방문 (22/01/06 ~ 22/01/08)]]></title>
-        <id>https://alook.so/posts/E7tXmw</id>
-        <link href="https://alook.so/posts/E7tXmw"/>
-        <updated>2022-01-08T08:18:47.635Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXmw">전역 기념, 첫 부산 방문 (22/01/06 ~ 22/01/08)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["방역패스의 공익적 목적이 무엇일까요?" 이 질문에서부터 시작해야 합니다]]></title>
-        <id>https://alook.so/posts/lato8y</id>
-        <link href="https://alook.so/posts/lato8y"/>
-        <updated>2022-01-08T07:16:31.052Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lato8y">"방역패스의 공익적 목적이 무엇일까요?" 이 질문에서부터 시작해야 합니다</a>]]></content>
     </entry>
 </feed>
