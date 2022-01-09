@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-09T17:24:32.622Z</updated>
+    <updated>2022-01-09T18:18:51.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 시대. 월급은 소용이 없나요?]]></title>
+        <id>https://alook.so/posts/q1tWab</id>
+        <link href="https://alook.so/posts/q1tWab"/>
+        <updated>2022-01-09T18:17:32.437Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWab">요즘 시대. 월급은 소용이 없나요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 반복과 교차라는 투쟁의 산물]]></title>
         <id>https://alook.so/posts/a0t0za</id>
@@ -81,12 +88,5 @@
         <link href="https://alook.so/posts/3wtOrB"/>
         <updated>2022-01-09T03:17:12.897Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOrB">[늦은 아침 생각] 인생이라는 상대성 이론</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 사회의 약자는 "청년"입니다.]]></title>
-        <id>https://alook.so/posts/KmtWqr</id>
-        <link href="https://alook.so/posts/KmtWqr"/>
-        <updated>2022-01-08T19:12:35.405Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWqr">우리 사회의 약자는 "청년"입니다.</a>]]></content>
     </entry>
 </feed>
