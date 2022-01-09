@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-09T18:18:51.456Z</updated>
+    <updated>2022-01-09T19:14:57.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://alook.so/posts/a0t0za"/>
         <updated>2022-01-09T15:15:39.926Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0za">답글: 반복과 교차라는 투쟁의 산물</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어쩌면 한국이기에 가능할지도 모를 생산적 논쟁거리일지도 모릅니다]]></title>
+        <id>https://alook.so/posts/dztlGX</id>
+        <link href="https://alook.so/posts/dztlGX"/>
+        <updated>2022-01-09T19:13:33.747Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlGX">어쩌면 한국이기에 가능할지도 모를 생산적 논쟁거리일지도 모릅니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보고싶던 아들을 만나러 가셨다.]]></title>
@@ -81,6 +88,13 @@
         <link href="https://alook.so/posts/kZtmVj"/>
         <updated>2022-01-09T17:23:15.950Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmVj">주식 투자를 하고 행복합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[요즘 군대] 2022년 요즘 군대의 일병은? 일만 해서 일병]]></title>
+        <id>https://alook.so/posts/yEtbm8</id>
+        <link href="https://alook.so/posts/yEtbm8"/>
+        <updated>2022-01-09T19:13:33.765Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbm8">[요즘 군대] 2022년 요즘 군대의 일병은? 일만 해서 일병</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[늦은 아침 생각] 인생이라는 상대성 이론]]></title>
