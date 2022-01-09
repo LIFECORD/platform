@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-09T13:24:36.518Z</updated>
+    <updated>2022-01-09T14:15:07.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[큰 일을 겪으셨군요. 빨리 쾌차하세요.]]></title>
+        <id>https://alook.so/posts/jdtErw</id>
+        <link href="https://alook.so/posts/jdtErw"/>
+        <updated>2022-01-09T14:13:39.588Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtErw">큰 일을 겪으셨군요. 빨리 쾌차하세요.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부자가 되는 방법을 찾는것에 꽂혔습니다.]]></title>
         <id>https://alook.so/posts/bWtEX1</id>
@@ -39,19 +46,5 @@
         <link href="https://alook.so/posts/J5tVj8"/>
         <updated>2022-01-09T13:23:10.529Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVj8">주4일 근무..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보고싶던 아들을 만나러 가셨다.]]></title>
-        <id>https://alook.so/posts/eVtEyx</id>
-        <link href="https://alook.so/posts/eVtEyx"/>
-        <updated>2022-01-09T13:23:10.531Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEyx">보고싶던 아들을 만나러 가셨다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꿰매는 제로웨이스트 생활]]></title>
-        <id>https://alook.so/posts/zvtqp7</id>
-        <link href="https://alook.so/posts/zvtqp7"/>
-        <updated>2022-01-09T11:13:56.959Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqp7">꿰매는 제로웨이스트 생활</a>]]></content>
     </entry>
 </feed>

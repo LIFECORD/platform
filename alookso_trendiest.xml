@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-09T13:24:36.516Z</updated>
+    <updated>2022-01-09T14:15:07.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[큰 일을 겪으셨군요. 빨리 쾌차하세요.]]></title>
+        <id>https://alook.so/posts/jdtErw</id>
+        <link href="https://alook.so/posts/jdtErw"/>
+        <updated>2022-01-09T14:13:47.156Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtErw">큰 일을 겪으셨군요. 빨리 쾌차하세요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보고싶던 아들을 만나러 가셨다.]]></title>
+        <id>https://alook.so/posts/eVtEyx</id>
+        <link href="https://alook.so/posts/eVtEyx"/>
+        <updated>2022-01-09T14:13:47.156Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEyx">보고싶던 아들을 만나러 가셨다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꿰매는 제로웨이스트 생활]]></title>
         <id>https://alook.so/posts/zvtqp7</id>
@@ -81,19 +95,5 @@
         <link href="https://alook.so/posts/mbtjVj"/>
         <updated>2022-01-08T19:12:35.405Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjVj">감사합니다.2 (가시나무)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개고기 식용, 어떤 것이 옳은 것인가?]]></title>
-        <id>https://alook.so/posts/q1tW7b</id>
-        <link href="https://alook.so/posts/q1tW7b"/>
-        <updated>2022-01-09T11:14:06.216Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW7b">개고기 식용, 어떤 것이 옳은 것인가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술, 난 진짜 무서워]]></title>
-        <id>https://alook.so/posts/1Rtz88</id>
-        <link href="https://alook.so/posts/1Rtz88"/>
-        <updated>2022-01-09T11:14:06.216Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtz88">기술, 난 진짜 무서워</a>]]></content>
     </entry>
 </feed>
