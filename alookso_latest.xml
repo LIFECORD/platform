@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-08T21:15:46.567Z</updated>
+    <updated>2022-01-09T03:18:41.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Kpop이  세계를 제패한 이유]]></title>
+        <id>https://alook.so/posts/6Mt9JX</id>
+        <link href="https://alook.so/posts/6Mt9JX"/>
+        <updated>2022-01-09T03:17:04.374Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt9JX">Kpop이  세계를 제패한 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[늦은 아침 생각] 인생이라는 상대성 이론]]></title>
+        <id>https://alook.so/posts/3wtOrB</id>
+        <link href="https://alook.so/posts/3wtOrB"/>
+        <updated>2022-01-09T03:17:04.375Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOrB">[늦은 아침 생각] 인생이라는 상대성 이론</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[80대 노인 집단 폭행한 보호센터]]></title>
         <id>https://alook.so/posts/vKtqOX</id>
@@ -25,40 +39,5 @@
         <link href="https://alook.so/posts/KmtWqr"/>
         <updated>2022-01-08T18:18:17.742Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWqr">우리 사회의 약자는 "청년"입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감사합니다.2 (가시나무)]]></title>
-        <id>https://alook.so/posts/mbtjVj</id>
-        <link href="https://alook.so/posts/mbtjVj"/>
-        <updated>2022-01-08T17:23:14.671Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjVj">감사합니다.2 (가시나무)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몰입하라]]></title>
-        <id>https://alook.so/posts/54tE9d</id>
-        <link href="https://alook.so/posts/54tE9d"/>
-        <updated>2022-01-08T15:15:27.182Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE9d">몰입하라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개고기 식용, 어떤 것이 옳은 것인가?]]></title>
-        <id>https://alook.so/posts/q1tW7b</id>
-        <link href="https://alook.so/posts/q1tW7b"/>
-        <updated>2022-01-08T15:15:27.183Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW7b">개고기 식용, 어떤 것이 옳은 것인가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불황은 다가오는가]]></title>
-        <id>https://alook.so/posts/Djt49x</id>
-        <link href="https://alook.so/posts/Djt49x"/>
-        <updated>2022-01-08T15:15:27.186Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt49x">불황은 다가오는가 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술, 난 진짜 무서워]]></title>
-        <id>https://alook.so/posts/1Rtz88</id>
-        <link href="https://alook.so/posts/1Rtz88"/>
-        <updated>2022-01-08T15:15:27.186Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtz88">기술, 난 진짜 무서워</a>]]></content>
     </entry>
 </feed>
