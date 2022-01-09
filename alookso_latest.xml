@@ -2,77 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-09T11:15:31.472Z</updated>
+    <updated>2022-01-09T13:24:36.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[부자가 되는 방법을 찾는것에 꽂혔습니다.]]></title>
+        <id>https://alook.so/posts/bWtEX1</id>
+        <link href="https://alook.so/posts/bWtEX1"/>
+        <updated>2022-01-09T13:23:10.526Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEX1">부자가 되는 방법을 찾는것에 꽂혔습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 반복과 교차라는 투쟁의 산물]]></title>
+        <id>https://alook.so/posts/a0t0za</id>
+        <link href="https://alook.so/posts/a0t0za"/>
+        <updated>2022-01-09T13:23:10.527Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0za">답글: 반복과 교차라는 투쟁의 산물</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈 구경 갔다가 벌어진 비극]]></title>
+        <id>https://alook.so/posts/ZktPJb</id>
+        <link href="https://alook.so/posts/ZktPJb"/>
+        <updated>2022-01-09T13:23:10.528Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPJb">눈 구경 갔다가 벌어진 비극</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어쩌면 한국이기에 가능할지도 모를 생산적 논쟁거리일지도 모릅니다]]></title>
+        <id>https://alook.so/posts/dztlGX</id>
+        <link href="https://alook.so/posts/dztlGX"/>
+        <updated>2022-01-09T13:23:10.528Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlGX">어쩌면 한국이기에 가능할지도 모를 생산적 논쟁거리일지도 모릅니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주4일 근무..]]></title>
+        <id>https://alook.so/posts/J5tVj8</id>
+        <link href="https://alook.so/posts/J5tVj8"/>
+        <updated>2022-01-09T13:23:10.529Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVj8">주4일 근무..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보고싶던 아들을 만나러 가셨다.]]></title>
+        <id>https://alook.so/posts/eVtEyx</id>
+        <link href="https://alook.so/posts/eVtEyx"/>
+        <updated>2022-01-09T13:23:10.531Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEyx">보고싶던 아들을 만나러 가셨다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꿰매는 제로웨이스트 생활]]></title>
         <id>https://alook.so/posts/zvtqp7</id>
         <link href="https://alook.so/posts/zvtqp7"/>
         <updated>2022-01-09T11:13:56.959Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqp7">꿰매는 제로웨이스트 생활</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동이족의 후예 대한민국의 참역사는?]]></title>
-        <id>https://alook.so/posts/2xt9Zr</id>
-        <link href="https://alook.so/posts/2xt9Zr"/>
-        <updated>2022-01-09T11:13:56.960Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9Zr">동이족의 후예 대한민국의 참역사는?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“가족” 영원한 내 편]]></title>
-        <id>https://alook.so/posts/WLtYqV</id>
-        <link href="https://alook.so/posts/WLtYqV"/>
-        <updated>2022-01-09T11:13:56.962Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYqV">“가족” 영원한 내 편</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주4일제는 국내 도입 가능한가]]></title>
-        <id>https://alook.so/posts/0ktel3</id>
-        <link href="https://alook.so/posts/0ktel3"/>
-        <updated>2022-01-09T07:14:44.082Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktel3">주4일제는 국내 도입 가능한가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일요일 마무리는 어떻게 하시나요??]]></title>
-        <id>https://alook.so/posts/M9tX1W</id>
-        <link href="https://alook.so/posts/M9tX1W"/>
-        <updated>2022-01-09T07:14:44.083Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX1W">일요일 마무리는 어떻게 하시나요??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈 룩 업 – 현 체제와 지배자들에 대한 처절한 ‘똥침’]]></title>
-        <id>https://alook.so/posts/4Xt4yJ</id>
-        <link href="https://alook.so/posts/4Xt4yJ"/>
-        <updated>2022-01-09T07:14:44.085Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4yJ">돈 룩 업 – 현 체제와 지배자들에 대한 처절한 ‘똥침’ </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 확진과 회복 후기]]></title>
-        <id>https://alook.so/posts/XBtbk7</id>
-        <link href="https://alook.so/posts/XBtbk7"/>
-        <updated>2022-01-09T05:16:52.297Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbk7">코로나 확진과 회복 후기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스키니진과 통바지 같네요]]></title>
-        <id>https://alook.so/posts/w9tE9D</id>
-        <link href="https://alook.so/posts/w9tE9D"/>
-        <updated>2022-01-09T05:16:52.300Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tE9D">스키니진과 통바지 같네요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대구에로’ 세징야, 정말 한국인이 되고 싶습니까? 왜요?]]></title>
-        <id>https://alook.so/posts/xlt17P</id>
-        <link href="https://alook.so/posts/xlt17P"/>
-        <updated>2022-01-09T05:16:52.305Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt17P">‘대구에로’ 세징야, 정말 한국인이 되고 싶습니까? 왜요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 멋쟁이들은 유선 이어폰을 쓴다?]]></title>
-        <id>https://alook.so/posts/RGtxRo</id>
-        <link href="https://alook.so/posts/RGtxRo"/>
-        <updated>2022-01-09T05:16:52.307Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxRo">요즘 멋쟁이들은 유선 이어폰을 쓴다?</a>]]></content>
     </entry>
 </feed>
