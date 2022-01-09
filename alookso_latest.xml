@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-09T05:18:22.883Z</updated>
+    <updated>2022-01-09T07:16:12.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[주4일제는 국내 도입 가능한가]]></title>
+        <id>https://alook.so/posts/0ktel3</id>
+        <link href="https://alook.so/posts/0ktel3"/>
+        <updated>2022-01-09T07:14:44.082Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktel3">주4일제는 국내 도입 가능한가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일요일 마무리는 어떻게 하시나요??]]></title>
+        <id>https://alook.so/posts/M9tX1W</id>
+        <link href="https://alook.so/posts/M9tX1W"/>
+        <updated>2022-01-09T07:14:44.083Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX1W">일요일 마무리는 어떻게 하시나요??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈 룩 업 – 현 체제와 지배자들에 대한 처절한 ‘똥침’]]></title>
+        <id>https://alook.so/posts/4Xt4yJ</id>
+        <link href="https://alook.so/posts/4Xt4yJ"/>
+        <updated>2022-01-09T07:14:44.085Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4yJ">돈 룩 업 – 현 체제와 지배자들에 대한 처절한 ‘똥침’ </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 확진과 회복 후기]]></title>
         <id>https://alook.so/posts/XBtbk7</id>
@@ -46,19 +67,5 @@
         <link href="https://alook.so/posts/yEtbm8"/>
         <updated>2022-01-09T05:16:52.310Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbm8">[요즘 군대] 2022년 요즘 군대의 일병은? 일만 해서 일병</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kpop이  세계를 제패한 이유]]></title>
-        <id>https://alook.so/posts/6Mt9JX</id>
-        <link href="https://alook.so/posts/6Mt9JX"/>
-        <updated>2022-01-09T03:17:04.374Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt9JX">Kpop이  세계를 제패한 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 인생이라는 상대성 이론]]></title>
-        <id>https://alook.so/posts/3wtOrB</id>
-        <link href="https://alook.so/posts/3wtOrB"/>
-        <updated>2022-01-09T03:17:04.375Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOrB">[늦은 아침 생각] 인생이라는 상대성 이론</a>]]></content>
     </entry>
 </feed>
