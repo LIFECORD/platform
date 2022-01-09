@@ -2,50 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-09T08:20:28.916Z</updated>
+    <updated>2022-01-09T11:15:31.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[요즘 멋쟁이들은 유선 이어폰을 쓴다?]]></title>
-        <id>https://alook.so/posts/RGtxRo</id>
-        <link href="https://alook.so/posts/RGtxRo"/>
-        <updated>2022-01-09T05:17:00.738Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxRo">요즘 멋쟁이들은 유선 이어폰을 쓴다?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 인생이라는 상대성 이론]]></title>
-        <id>https://alook.so/posts/3wtOrB</id>
-        <link href="https://alook.so/posts/3wtOrB"/>
-        <updated>2022-01-09T03:17:12.897Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOrB">[늦은 아침 생각] 인생이라는 상대성 이론</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스키니진과 통바지 같네요]]></title>
-        <id>https://alook.so/posts/w9tE9D</id>
-        <link href="https://alook.so/posts/w9tE9D"/>
-        <updated>2022-01-09T05:17:00.736Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tE9D">스키니진과 통바지 같네요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["방역패스의 공익적 목적이 무엇일까요?" 이 질문에서부터 시작해야 합니다]]></title>
-        <id>https://alook.so/posts/lato8y</id>
-        <link href="https://alook.so/posts/lato8y"/>
-        <updated>2022-01-09T07:14:51.968Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lato8y">"방역패스의 공익적 목적이 무엇일까요?" 이 질문에서부터 시작해야 합니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감사합니다.2 (가시나무)]]></title>
-        <id>https://alook.so/posts/mbtjVj</id>
-        <link href="https://alook.so/posts/mbtjVj"/>
-        <updated>2022-01-08T19:12:35.405Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjVj">감사합니다.2 (가시나무)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘대구에로’ 세징야, 정말 한국인이 되고 싶습니까? 왜요?]]></title>
-        <id>https://alook.so/posts/xlt17P</id>
-        <link href="https://alook.so/posts/xlt17P"/>
-        <updated>2022-01-09T05:17:00.736Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt17P">‘대구에로’ 세징야, 정말 한국인이 되고 싶습니까? 왜요?</a>]]></content>
+        <title type="html"><![CDATA[꿰매는 제로웨이스트 생활]]></title>
+        <id>https://alook.so/posts/zvtqp7</id>
+        <link href="https://alook.so/posts/zvtqp7"/>
+        <updated>2022-01-09T11:14:06.205Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqp7">꿰매는 제로웨이스트 생활</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[돈 룩 업 – 현 체제와 지배자들에 대한 처절한 ‘똥침’]]></title>
@@ -55,13 +20,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4yJ">돈 룩 업 – 현 체제와 지배자들에 대한 처절한 ‘똥침’ </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리 사회의 약자는 "청년"입니다.]]></title>
-        <id>https://alook.so/posts/KmtWqr</id>
-        <link href="https://alook.so/posts/KmtWqr"/>
-        <updated>2022-01-08T19:12:35.405Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWqr">우리 사회의 약자는 "청년"입니다.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코로나 확진과 회복 후기]]></title>
         <id>https://alook.so/posts/XBtbk7</id>
         <link href="https://alook.so/posts/XBtbk7"/>
@@ -69,11 +27,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbk7">코로나 확진과 회복 후기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전역 기념, 첫 부산 방문 (22/01/06 ~ 22/01/08)]]></title>
-        <id>https://alook.so/posts/E7tXmw</id>
-        <link href="https://alook.so/posts/E7tXmw"/>
-        <updated>2022-01-09T07:14:51.974Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXmw">전역 기념, 첫 부산 방문 (22/01/06 ~ 22/01/08)</a>]]></content>
+        <title type="html"><![CDATA[스키니진과 통바지 같네요]]></title>
+        <id>https://alook.so/posts/w9tE9D</id>
+        <link href="https://alook.so/posts/w9tE9D"/>
+        <updated>2022-01-09T05:17:00.736Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tE9D">스키니진과 통바지 같네요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘대구에로’ 세징야, 정말 한국인이 되고 싶습니까? 왜요?]]></title>
+        <id>https://alook.so/posts/xlt17P</id>
+        <link href="https://alook.so/posts/xlt17P"/>
+        <updated>2022-01-09T05:17:00.736Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt17P">‘대구에로’ 세징야, 정말 한국인이 되고 싶습니까? 왜요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 멋쟁이들은 유선 이어폰을 쓴다?]]></title>
+        <id>https://alook.so/posts/RGtxRo</id>
+        <link href="https://alook.so/posts/RGtxRo"/>
+        <updated>2022-01-09T05:17:00.738Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxRo">요즘 멋쟁이들은 유선 이어폰을 쓴다?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주식 투자를 하고 행복합니다.]]></title>
@@ -83,31 +55,52 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmVj">주식 투자를 하고 행복합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선거는 차악을 뽑는 거라며?]]></title>
-        <id>https://alook.so/posts/o7tEVz</id>
-        <link href="https://alook.so/posts/o7tEVz"/>
-        <updated>2022-01-09T07:14:51.974Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEVz">선거는 차악을 뽑는 거라며?</a>]]></content>
+        <title type="html"><![CDATA[[늦은 아침 생각] 인생이라는 상대성 이론]]></title>
+        <id>https://alook.so/posts/3wtOrB</id>
+        <link href="https://alook.so/posts/3wtOrB"/>
+        <updated>2022-01-09T03:17:12.897Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOrB">[늦은 아침 생각] 인생이라는 상대성 이론</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다시 손잡은 윤석열-이준석... 그런데 ‘000’은요?]]></title>
-        <id>https://alook.so/posts/kZtmn0</id>
-        <link href="https://alook.so/posts/kZtmn0"/>
-        <updated>2022-01-09T07:14:51.974Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmn0">다시 손잡은 윤석열-이준석... 그런데 ‘000’은요? </a>]]></content>
+        <title type="html"><![CDATA[우리 사회의 약자는 "청년"입니다.]]></title>
+        <id>https://alook.so/posts/KmtWqr</id>
+        <link href="https://alook.so/posts/KmtWqr"/>
+        <updated>2022-01-08T19:12:35.405Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWqr">우리 사회의 약자는 "청년"입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[브레이크가 있는지 비관적인 생각이 듭니다.]]></title>
-        <id>https://alook.so/posts/Djt49E</id>
-        <link href="https://alook.so/posts/Djt49E"/>
-        <updated>2022-01-09T07:14:51.974Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt49E">브레이크가 있는지 비관적인 생각이 듭니다.</a>]]></content>
+        <title type="html"><![CDATA[감사합니다.2 (가시나무)]]></title>
+        <id>https://alook.so/posts/mbtjVj</id>
+        <link href="https://alook.so/posts/mbtjVj"/>
+        <updated>2022-01-08T19:12:35.405Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjVj">감사합니다.2 (가시나무)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일요일 마무리는 어떻게 하시나요??]]></title>
-        <id>https://alook.so/posts/M9tX1W</id>
-        <link href="https://alook.so/posts/M9tX1W"/>
-        <updated>2022-01-09T08:19:08.425Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX1W">일요일 마무리는 어떻게 하시나요??</a>]]></content>
+        <title type="html"><![CDATA[개고기 식용, 어떤 것이 옳은 것인가?]]></title>
+        <id>https://alook.so/posts/q1tW7b</id>
+        <link href="https://alook.so/posts/q1tW7b"/>
+        <updated>2022-01-09T11:14:06.216Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW7b">개고기 식용, 어떤 것이 옳은 것인가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술, 난 진짜 무서워]]></title>
+        <id>https://alook.so/posts/1Rtz88</id>
+        <link href="https://alook.so/posts/1Rtz88"/>
+        <updated>2022-01-09T11:14:06.216Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtz88">기술, 난 진짜 무서워</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직장인이라면 한번쯤은 걱정 하지 않을까요?]]></title>
+        <id>https://alook.so/posts/70tYJw</id>
+        <link href="https://alook.so/posts/70tYJw"/>
+        <updated>2022-01-09T11:14:06.217Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYJw">직장인이라면 한번쯤은 걱정 하지 않을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비용도 중요하지만 현재 군인 모집 방식부터 변화해야 하지 않을까요?]]></title>
+        <id>https://alook.so/posts/YytLGE</id>
+        <link href="https://alook.so/posts/YytLGE"/>
+        <updated>2022-01-09T11:14:06.218Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLGE">비용도 중요하지만 현재 군인 모집 방식부터 변화해야 하지 않을까요?</a>]]></content>
     </entry>
 </feed>

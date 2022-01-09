@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-09T08:20:28.925Z</updated>
+    <updated>2022-01-09T11:15:31.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[꿰매는 제로웨이스트 생활]]></title>
+        <id>https://alook.so/posts/zvtqp7</id>
+        <link href="https://alook.so/posts/zvtqp7"/>
+        <updated>2022-01-09T11:13:56.959Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqp7">꿰매는 제로웨이스트 생활</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동이족의 후예 대한민국의 참역사는?]]></title>
+        <id>https://alook.so/posts/2xt9Zr</id>
+        <link href="https://alook.so/posts/2xt9Zr"/>
+        <updated>2022-01-09T11:13:56.960Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9Zr">동이족의 후예 대한민국의 참역사는?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“가족” 영원한 내 편]]></title>
+        <id>https://alook.so/posts/WLtYqV</id>
+        <link href="https://alook.so/posts/WLtYqV"/>
+        <updated>2022-01-09T11:13:56.962Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYqV">“가족” 영원한 내 편</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주4일제는 국내 도입 가능한가]]></title>
         <id>https://alook.so/posts/0ktel3</id>
@@ -53,19 +74,5 @@
         <link href="https://alook.so/posts/RGtxRo"/>
         <updated>2022-01-09T05:16:52.307Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxRo">요즘 멋쟁이들은 유선 이어폰을 쓴다?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주식 투자를 하고 행복합니다.]]></title>
-        <id>https://alook.so/posts/kZtmVj</id>
-        <link href="https://alook.so/posts/kZtmVj"/>
-        <updated>2022-01-09T05:16:52.308Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmVj">주식 투자를 하고 행복합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[요즘 군대] 2022년 요즘 군대의 일병은? 일만 해서 일병]]></title>
-        <id>https://alook.so/posts/yEtbm8</id>
-        <link href="https://alook.so/posts/yEtbm8"/>
-        <updated>2022-01-09T05:16:52.310Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbm8">[요즘 군대] 2022년 요즘 군대의 일병은? 일만 해서 일병</a>]]></content>
     </entry>
 </feed>
