@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-09T14:15:07.863Z</updated>
+    <updated>2022-01-09T15:17:04.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[큰 일을 겪으셨군요. 빨리 쾌차하세요.]]></title>
-        <id>https://alook.so/posts/jdtErw</id>
-        <link href="https://alook.so/posts/jdtErw"/>
-        <updated>2022-01-09T14:13:47.156Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtErw">큰 일을 겪으셨군요. 빨리 쾌차하세요.</a>]]></content>
+        <title type="html"><![CDATA[답글: 반복과 교차라는 투쟁의 산물]]></title>
+        <id>https://alook.so/posts/a0t0za</id>
+        <link href="https://alook.so/posts/a0t0za"/>
+        <updated>2022-01-09T15:15:39.926Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0za">답글: 반복과 교차라는 투쟁의 산물</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보고싶던 아들을 만나러 가셨다.]]></title>
@@ -88,12 +88,5 @@
         <link href="https://alook.so/posts/KmtWqr"/>
         <updated>2022-01-08T19:12:35.405Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWqr">우리 사회의 약자는 "청년"입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감사합니다.2 (가시나무)]]></title>
-        <id>https://alook.so/posts/mbtjVj</id>
-        <link href="https://alook.so/posts/mbtjVj"/>
-        <updated>2022-01-08T19:12:35.405Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjVj">감사합니다.2 (가시나무)</a>]]></content>
     </entry>
 </feed>
