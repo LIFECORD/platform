@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-10T05:18:46.222Z</updated>
+    <updated>2022-01-10T06:20:53.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 유선 이어폰의 장점]]></title>
+        <id>https://alook.so/posts/zvtql7</id>
+        <link href="https://alook.so/posts/zvtql7"/>
+        <updated>2022-01-10T06:19:29.664Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtql7">답글: 유선 이어폰의 장점</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1월달 프로젝트는 언제 시작..?]]></title>
+        <id>https://alook.so/posts/2xt93r</id>
+        <link href="https://alook.so/posts/2xt93r"/>
+        <updated>2022-01-10T06:19:29.665Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt93r">1월달 프로젝트는 언제 시작..?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성공의 기준이 곧 돈일까요?]]></title>
+        <id>https://alook.so/posts/WLtYWV</id>
+        <link href="https://alook.so/posts/WLtYWV"/>
+        <updated>2022-01-10T06:19:29.666Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYWV">성공의 기준이 곧 돈일까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘여가부 해체’와 ‘#멸공 챌린지’ - 윤석열이 돌아왔다?]]></title>
+        <id>https://alook.so/posts/0kteD3</id>
+        <link href="https://alook.so/posts/0kteD3"/>
+        <updated>2022-01-10T06:19:29.668Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteD3">‘여가부 해체’와 ‘#멸공 챌린지’ - 윤석열이 돌아왔다?  </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['탈모 공약'으로 보는 공약 이전의 공론의 중요성]]></title>
         <id>https://alook.so/posts/XBtbD7</id>
         <link href="https://alook.so/posts/XBtbD7"/>
         <updated>2022-01-10T05:17:20.562Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbD7">'탈모 공약'으로 보는 공약 이전의 공론의 중요성</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유선 이어폰 붐(boom)은 옵니다]]></title>
-        <id>https://alook.so/posts/kZtmrj</id>
-        <link href="https://alook.so/posts/kZtmrj"/>
-        <updated>2022-01-10T03:17:48.881Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmrj">유선 이어폰 붐(boom)은 옵니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F-35A 왜 비상착륙을 했을까??]]></title>
-        <id>https://alook.so/posts/yEtb38</id>
-        <link href="https://alook.so/posts/yEtb38"/>
-        <updated>2022-01-10T03:17:48.882Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtb38">F-35A 왜 비상착륙을 했을까??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법이 인정하지 않는 10년차 부부]]></title>
-        <id>https://alook.so/posts/BatM78</id>
-        <link href="https://alook.so/posts/BatM78"/>
-        <updated>2022-01-10T03:17:48.883Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatM78">법이 인정하지 않는 10년차 부부</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 속 사립초 입학경쟁률 11대 1 돌파 - 경제격차가 교육격차로]]></title>
-        <id>https://alook.so/posts/njtVyj</id>
-        <link href="https://alook.so/posts/njtVyj"/>
-        <updated>2022-01-10T02:06:18.496Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVyj">코로나19 속 사립초 입학경쟁률 11대 1 돌파 - 경제격차가 교육격차로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법전 밖 인터넷에서 표현의 자유란?]]></title>
-        <id>https://alook.so/posts/6Mt9RX</id>
-        <link href="https://alook.so/posts/6Mt9RX"/>
-        <updated>2022-01-10T02:06:18.497Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt9RX">법전 밖 인터넷에서 표현의 자유란?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자유에 대하여]]></title>
-        <id>https://alook.so/posts/3wtOvB</id>
-        <link href="https://alook.so/posts/3wtOvB"/>
-        <updated>2022-01-10T02:06:18.498Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOvB">자유에 대하여</a>]]></content>
     </entry>
 </feed>
