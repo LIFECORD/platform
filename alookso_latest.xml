@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-10T04:21:14.388Z</updated>
+    <updated>2022-01-10T05:18:46.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA['탈모 공약'으로 보는 공약 이전의 공론의 중요성]]></title>
+        <id>https://alook.so/posts/XBtbD7</id>
+        <link href="https://alook.so/posts/XBtbD7"/>
+        <updated>2022-01-10T05:17:20.562Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbD7">'탈모 공약'으로 보는 공약 이전의 공론의 중요성</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유선 이어폰 붐(boom)은 옵니다]]></title>
         <id>https://alook.so/posts/kZtmrj</id>
@@ -46,12 +53,5 @@
         <link href="https://alook.so/posts/3wtOvB"/>
         <updated>2022-01-10T02:06:18.498Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOvB">자유에 대하여</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[병사월급 200만원, 그리고 이재명과 윤석열]]></title>
-        <id>https://alook.so/posts/8Wtjvm</id>
-        <link href="https://alook.so/posts/8Wtjvm"/>
-        <updated>2022-01-10T02:06:18.499Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtjvm">병사월급 200만원, 그리고 이재명과 윤석열</a>]]></content>
     </entry>
 </feed>
