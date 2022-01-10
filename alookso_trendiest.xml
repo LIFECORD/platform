@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-10T00:50:57.356Z</updated>
+    <updated>2022-01-10T02:07:54.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이사를 갈 때가 다가온다]]></title>
+        <id>https://alook.so/posts/mbtjpj</id>
+        <link href="https://alook.so/posts/mbtjpj"/>
+        <updated>2022-01-10T02:06:28.520Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjpj">이사를 갈 때가 다가온다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 시대. 월급은 소용이 없나요?]]></title>
         <id>https://alook.so/posts/q1tWab</id>
@@ -95,12 +102,5 @@
         <link href="https://alook.so/posts/yEtbm8"/>
         <updated>2022-01-09T19:13:33.765Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbm8">[요즘 군대] 2022년 요즘 군대의 일병은? 일만 해서 일병</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 인생이라는 상대성 이론]]></title>
-        <id>https://alook.so/posts/3wtOrB</id>
-        <link href="https://alook.so/posts/3wtOrB"/>
-        <updated>2022-01-09T03:17:12.897Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOrB">[늦은 아침 생각] 인생이라는 상대성 이론</a>]]></content>
     </entry>
 </feed>
