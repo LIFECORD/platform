@@ -2,30 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-10T07:16:48.588Z</updated>
+    <updated>2022-01-10T12:26:40.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[답글: 유선 이어폰의 장점]]></title>
-        <id>https://alook.so/posts/zvtql7</id>
-        <link href="https://alook.so/posts/zvtql7"/>
-        <updated>2022-01-10T07:15:30.966Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtql7">답글: 유선 이어폰의 장점</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1월달 프로젝트는 언제 시작..?]]></title>
-        <id>https://alook.so/posts/2xt93r</id>
-        <link href="https://alook.so/posts/2xt93r"/>
-        <updated>2022-01-10T07:15:30.968Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt93r">1월달 프로젝트는 언제 시작..?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘여가부 해체’와 ‘#멸공 챌린지’ - 윤석열이 돌아왔다?]]></title>
-        <id>https://alook.so/posts/0kteD3</id>
-        <link href="https://alook.so/posts/0kteD3"/>
-        <updated>2022-01-10T07:15:30.970Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteD3">‘여가부 해체’와 ‘#멸공 챌린지’ - 윤석열이 돌아왔다?  </a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[법이 인정하지 않는 10년차 부부]]></title>
         <id>https://alook.so/posts/BatM78</id>
@@ -34,18 +13,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatM78">법이 인정하지 않는 10년차 부부</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유선 이어폰 붐(boom)은 옵니다]]></title>
-        <id>https://alook.so/posts/kZtmrj</id>
-        <link href="https://alook.so/posts/kZtmrj"/>
-        <updated>2022-01-10T06:19:37.327Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmrj">유선 이어폰 붐(boom)은 옵니다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[법전 밖 인터넷에서 표현의 자유란?]]></title>
         <id>https://alook.so/posts/6Mt9RX</id>
         <link href="https://alook.so/posts/6Mt9RX"/>
         <updated>2022-01-10T03:17:57.186Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt9RX">법전 밖 인터넷에서 표현의 자유란?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[병사월급 200만원, 그리고 이재명과 윤석열]]></title>
+        <id>https://alook.so/posts/8Wtjvm</id>
+        <link href="https://alook.so/posts/8Wtjvm"/>
+        <updated>2022-01-10T03:17:57.192Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtjvm">병사월급 200만원, 그리고 이재명과 윤석열</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나19 속 사립초 입학경쟁률 11대 1 돌파 - 경제격차가 교육격차로]]></title>
@@ -62,18 +41,32 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoZ3">대기오염, 꾸준히 개선되고 있다는데</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[병사월급 200만원, 그리고 이재명과 윤석열]]></title>
-        <id>https://alook.so/posts/8Wtjvm</id>
-        <link href="https://alook.so/posts/8Wtjvm"/>
-        <updated>2022-01-10T03:17:57.192Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtjvm">병사월급 200만원, 그리고 이재명과 윤석열</a>]]></content>
+        <title type="html"><![CDATA[어쩌면 한국이기에 가능할지도 모를 생산적 논쟁거리일지도 모릅니다]]></title>
+        <id>https://alook.so/posts/dztlGX</id>
+        <link href="https://alook.so/posts/dztlGX"/>
+        <updated>2022-01-10T12:25:21.059Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlGX">어쩌면 한국이기에 가능할지도 모를 생산적 논쟁거리일지도 모릅니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이사를 갈 때가 다가온다]]></title>
-        <id>https://alook.so/posts/mbtjpj</id>
-        <link href="https://alook.so/posts/mbtjpj"/>
-        <updated>2022-01-10T06:19:37.328Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjpj">이사를 갈 때가 다가온다</a>]]></content>
+        <title type="html"><![CDATA[요즘 멋쟁이들은 유선 이어폰을 쓴다?]]></title>
+        <id>https://alook.so/posts/RGtxRo</id>
+        <link href="https://alook.so/posts/RGtxRo"/>
+        <updated>2022-01-10T12:25:21.060Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxRo">요즘 멋쟁이들은 유선 이어폰을 쓴다?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유선 이어폰 붐(boom)은 옵니다]]></title>
+        <id>https://alook.so/posts/kZtmrj</id>
+        <link href="https://alook.so/posts/kZtmrj"/>
+        <updated>2022-01-10T06:19:37.327Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmrj">유선 이어폰 붐(boom)은 옵니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오영수 배우님의 골든글로브 남우조연상 수상을 축하합니다.]]></title>
+        <id>https://alook.so/posts/J5tVP8</id>
+        <link href="https://alook.so/posts/J5tVP8"/>
+        <updated>2022-01-10T12:25:21.062Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVP8">오영수 배우님의 골든글로브 남우조연상 수상을 축하합니다. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요즘 시대. 월급은 소용이 없나요?]]></title>
@@ -83,10 +76,59 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWab">요즘 시대. 월급은 소용이 없나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 etf에 대한 공부와 투자에 빠졌습니다.]]></title>
-        <id>https://alook.so/posts/Djt4xx</id>
-        <link href="https://alook.so/posts/Djt4xx"/>
-        <updated>2022-01-10T06:19:37.328Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4xx">미국 etf에 대한 공부와 투자에 빠졌습니다.</a>]]></content>
+        <title type="html"><![CDATA[뉴질랜드 유학 후, 느꼈던 최고의 국뽕]]></title>
+        <id>https://alook.so/posts/ZktPpb</id>
+        <link href="https://alook.so/posts/ZktPpb"/>
+        <updated>2022-01-10T12:25:21.065Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPpb">뉴질랜드 유학 후, 느꼈던 최고의 국뽕</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿰매는 제로웨이스트 생활]]></title>
+        <id>https://alook.so/posts/zvtqp7</id>
+        <link href="https://alook.so/posts/zvtqp7"/>
+        <updated>2022-01-10T12:25:21.067Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqp7">꿰매는 제로웨이스트 생활</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈 룩 업 – 현 체제와 지배자들에 대한 처절한 ‘똥침’]]></title>
+        <id>https://alook.so/posts/4Xt4yJ</id>
+        <link href="https://alook.so/posts/4Xt4yJ"/>
+        <updated>2022-01-10T12:25:21.069Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4yJ">돈 룩 업 – 현 체제와 지배자들에 대한 처절한 ‘똥침’ </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘여가부 해체’와 ‘#멸공 챌린지’ - 윤석열이 돌아왔다?]]></title>
+        <id>https://alook.so/posts/0kteD3</id>
+        <link href="https://alook.so/posts/0kteD3"/>
+        <updated>2022-01-10T07:15:30.970Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteD3">‘여가부 해체’와 ‘#멸공 챌린지’ - 윤석열이 돌아왔다?  </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['탈모 공약'으로 보는 공약 이전의 공론의 중요성]]></title>
+        <id>https://alook.so/posts/XBtbD7</id>
+        <link href="https://alook.so/posts/XBtbD7"/>
+        <updated>2022-01-10T12:25:21.071Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbD7">'탈모 공약'으로 보는 공약 이전의 공론의 중요성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 기사공유-관종의 횃불 #chickenhawk]]></title>
+        <id>https://alook.so/posts/rDt0Ob</id>
+        <link href="https://alook.so/posts/rDt0Ob"/>
+        <updated>2022-01-10T12:25:21.073Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0Ob">답글: 기사공유-관종의 횃불 #chickenhawk</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 확진과 회복 후기]]></title>
+        <id>https://alook.so/posts/XBtbk7</id>
+        <link href="https://alook.so/posts/XBtbk7"/>
+        <updated>2022-01-10T12:25:21.075Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbk7">코로나 확진과 회복 후기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스키니진과 통바지 같네요]]></title>
+        <id>https://alook.so/posts/w9tE9D</id>
+        <link href="https://alook.so/posts/w9tE9D"/>
+        <updated>2022-01-10T12:25:21.076Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tE9D">스키니진과 통바지 같네요</a>]]></content>
     </entry>
 </feed>
