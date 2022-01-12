@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-12T05:18:06.244Z</updated>
+    <updated>2022-01-12T06:20:32.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -53,12 +53,5 @@
         <link href="https://alook.so/posts/jdtEjZ"/>
         <updated>2022-01-12T00:53:22.013Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEjZ">제왕절개로 셋째낳은 30대 방광과 자궁사이에 구멍</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세출조정이 만능은 아니다]]></title>
-        <id>https://alook.so/posts/bWtELk</id>
-        <link href="https://alook.so/posts/bWtELk"/>
-        <updated>2022-01-11T22:16:28.189Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtELk">세출조정이 만능은 아니다</a>]]></content>
     </entry>
 </feed>
