@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-13T04:22:36.137Z</updated>
+    <updated>2022-01-13T05:17:57.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[결혼적령기가 남긴 것]]></title>
+        <id>https://alook.so/posts/Vntaa9</id>
+        <link href="https://alook.so/posts/Vntaa9"/>
+        <updated>2022-01-13T05:16:40.198Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntaa9">결혼적령기가 남긴 것</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘EU 기준’ 한국에도 적용할 수 있을까]]></title>
         <id>https://alook.so/posts/M9tXX3</id>
         <link href="https://alook.so/posts/M9tXX3"/>
         <updated>2022-01-13T03:17:55.437Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXX3">‘EU 기준’ 한국에도 적용할 수 있을까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산재 첫 인정, 전자산업 청소노동자의 암 발병]]></title>
+        <id>https://alook.so/posts/0kteeJ</id>
+        <link href="https://alook.so/posts/0kteeJ"/>
+        <updated>2022-01-13T05:16:40.198Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteeJ">산재 첫 인정, 전자산업 청소노동자의 암 발병</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국군장병 위문편지, 필요한가?]]></title>
+        <id>https://alook.so/posts/G1tqlB</id>
+        <link href="https://alook.so/posts/G1tqlB"/>
+        <updated>2022-01-13T05:16:40.198Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqlB">국군장병 위문편지, 필요한가?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[손 끝으로 보는 친구 얼굴]]></title>
@@ -67,19 +88,5 @@
         <link href="https://alook.so/posts/KmtWMz"/>
         <updated>2022-01-12T13:24:14.687Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWMz">아이 키우기, 단순히 부모만 잘하면 되는걸까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카우레터] 커피 가격은 왜 올랐을까?]]></title>
-        <id>https://alook.so/posts/54tEdO</id>
-        <link href="https://alook.so/posts/54tEdO"/>
-        <updated>2022-01-12T06:19:09.720Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEdO">[카우레터] 커피 가격은 왜 올랐을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의사vs간호사, ‘간호법’을 두고 나뉜 의료계]]></title>
-        <id>https://alook.so/posts/ZktP01</id>
-        <link href="https://alook.so/posts/ZktP01"/>
-        <updated>2022-01-12T03:18:09.360Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktP01">의사vs간호사, ‘간호법’을 두고 나뉜 의료계 </a>]]></content>
     </entry>
 </feed>
