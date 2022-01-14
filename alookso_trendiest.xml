@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-14T16:22:14.025Z</updated>
+    <updated>2022-01-14T17:26:19.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[멋준오빠님이 다녀가셨어요.]]></title>
+        <id>https://alook.so/posts/OEtKzO</id>
+        <link href="https://alook.so/posts/OEtKzO"/>
+        <updated>2022-01-14T17:24:59.551Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKzO">멋준오빠님이 다녀가셨어요. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[계획없이 차도없이 제주관광 가능할까?]]></title>
+        <id>https://alook.so/posts/E7tXb9</id>
+        <link href="https://alook.so/posts/E7tXb9"/>
+        <updated>2022-01-14T17:24:59.559Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXb9">계획없이 차도없이 제주관광 가능할까?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[번민하는유태인님께]]></title>
         <id>https://alook.so/posts/KmtWr4</id>
@@ -53,19 +67,5 @@
         <link href="https://alook.so/posts/0kteK0"/>
         <updated>2022-01-14T09:18:39.441Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteK0">또 다시 떠나는 기분좋은 얼룩소 여행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 다른 논쟁을 불러 일으킬 새로운 기준, 그래서 더 기대가 됩니다]]></title>
-        <id>https://alook.so/posts/xlt1aW</id>
-        <link href="https://alook.so/posts/xlt1aW"/>
-        <updated>2022-01-14T07:16:03.183Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1aW">또 다른 논쟁을 불러 일으킬 새로운 기준, 그래서 더 기대가 됩니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이에게 반갑게 인사를 해주세요]]></title>
-        <id>https://alook.so/posts/kZtmer</id>
-        <link href="https://alook.so/posts/kZtmer"/>
-        <updated>2022-01-14T16:20:53.745Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmer">아이에게 반갑게 인사를 해주세요</a>]]></content>
     </entry>
 </feed>
