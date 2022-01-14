@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://figk.net/text</id>
     <title>FIGK</title>
-    <updated>2022-01-14T00:54:35.033Z</updated>
+    <updated>2022-01-14T02:10:00.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://figk.net/favicon.ico</icon>
     <entry>
@@ -27,7 +27,7 @@
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하미나<div class="styles_TooltipContent__8cY79">논픽션 작가. 『미쳐있고 괴상하며 오만하고 똑똑한 여자들』 </div></button>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이름 없는 것도 부른다면 - 박보나 미술 에세이 2022-01-13 18:15:32 발행]]></title>
+        <title type="html"><![CDATA[<이름 없는 것도 부른다면> 박보나 미술 에세이 (2021)2022-01-13 18:15:32 발행]]></title>
         <id>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284533233</id>
         <link href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=284533233"/>
         <updated>2022-01-13T18:19:31.456Z</updated>
@@ -1042,7 +1042,7 @@
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리베카 솔닛, <이것은 누구의 이야기인가?>(창비, 2022)2022-01-13 18:15:12 발행]]></title>
+        <title type="html"><![CDATA[리베카 솔닛 <이것은 누구의 이야기인가?> (2022)2022-01-13 18:15:12 발행]]></title>
         <id>http://m.yes24.com/Goods/Detail/105538701</id>
         <link href="http://m.yes24.com/Goods/Detail/105538701"/>
         <updated>2022-01-13T18:19:31.670Z</updated>
