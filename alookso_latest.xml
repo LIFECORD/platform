@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-14T07:17:18.533Z</updated>
+    <updated>2022-01-14T09:20:00.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[올해는 집을 꼭 사고 싶어요]]></title>
+        <id>https://alook.so/posts/a0t0Dn</id>
+        <link href="https://alook.so/posts/a0t0Dn"/>
+        <updated>2022-01-14T09:18:31.251Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0Dn">올해는 집을 꼭 사고 싶어요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일주일에 4시간만 일하래요!]]></title>
+        <id>https://alook.so/posts/J5tVmD</id>
+        <link href="https://alook.so/posts/J5tVmD"/>
+        <updated>2022-01-14T09:18:31.254Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVmD">일주일에 4시간만 일하래요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매일 새벽 5시, 요가로 시작합니다.]]></title>
+        <id>https://alook.so/posts/Pvtpmz</id>
+        <link href="https://alook.so/posts/Pvtpmz"/>
+        <updated>2022-01-14T09:18:31.255Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpmz">매일 새벽 5시, 요가로 시작합니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[또 다시 떠나는 기분좋은 얼룩소 여행]]></title>
         <id>https://alook.so/posts/0kteK0</id>
         <link href="https://alook.so/posts/0kteK0"/>
         <updated>2022-01-14T07:15:55.430Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteK0">또 다시 떠나는 기분좋은 얼룩소 여행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 시작이다.]]></title>
-        <id>https://alook.so/posts/4Xt4Xr</id>
-        <link href="https://alook.so/posts/4Xt4Xr"/>
-        <updated>2022-01-14T07:15:55.431Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4Xr">다시 시작이다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 다른 논쟁을 불러 일으킬 새로운 기준, 그래서 더 기대가 됩니다]]></title>
-        <id>https://alook.so/posts/xlt1aW</id>
-        <link href="https://alook.so/posts/xlt1aW"/>
-        <updated>2022-01-14T07:15:55.432Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1aW">또 다른 논쟁을 불러 일으킬 새로운 기준, 그래서 더 기대가 됩니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이에게 반갑게 인사를 해주세요]]></title>
-        <id>https://alook.so/posts/kZtmer</id>
-        <link href="https://alook.so/posts/kZtmer"/>
-        <updated>2022-01-14T05:17:00.167Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmer">아이에게 반갑게 인사를 해주세요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 주식 매각 논란?]]></title>
-        <id>https://alook.so/posts/yEtbxm</id>
-        <link href="https://alook.so/posts/yEtbxm"/>
-        <updated>2022-01-14T05:17:00.168Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbxm">카카오 주식 매각 논란?</a>]]></content>
     </entry>
 </feed>
