@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-17T03:19:49.667Z</updated>
+    <updated>2022-01-17T04:21:41.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[92세 할머니의 조언]]></title>
+        <id>https://alook.so/posts/YytLVO</id>
+        <link href="https://alook.so/posts/YytLVO"/>
+        <updated>2022-01-17T04:20:25.635Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLVO">92세 할머니의 조언</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A.I 와 사랑에 빠질 수 있나요? - 영화 <Her,2013>]]></title>
+        <id>https://alook.so/posts/rDt06P</id>
+        <link href="https://alook.so/posts/rDt06P"/>
+        <updated>2022-01-17T04:20:25.636Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt06P">A.I 와 사랑에 빠질 수 있나요? - 영화 &lt;Her,2013&gt;</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진보좌파에게는 역대 가장 우울한 대선]]></title>
+        <id>https://alook.so/posts/jdtE4z</id>
+        <link href="https://alook.so/posts/jdtE4z"/>
+        <updated>2022-01-17T04:20:25.640Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtE4z">진보좌파에게는 역대 가장 우울한 대선 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사고후 거푸집만을 땜질했던 건축공사의  오랜 관행.]]></title>
+        <id>https://alook.so/posts/ZktPED</id>
+        <link href="https://alook.so/posts/ZktPED"/>
+        <updated>2022-01-17T04:20:25.641Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPED"> 사고후 거푸집만을 땜질했던 건축공사의  오랜 관행.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['통가 근육맨'을 기억하시나요 [brf.]]]></title>
         <id>https://alook.so/posts/PvtpVX</id>
@@ -34,11 +62,32 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEj7">리셀(resell), 소비와 투자 사이에서 [brf.] </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[최소한의 생활비만 남긴채 모두 저축해 시드머니를 만드는 내게 왜 구질구질하다고 하는가?]]></title>
+        <id>https://alook.so/posts/WLtYrY</id>
+        <link href="https://alook.so/posts/WLtYrY"/>
+        <updated>2022-01-17T04:20:25.645Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYrY">최소한의 생활비만 남긴채 모두 저축해 시드머니를 만드는 내게 왜 구질구질하다고 하는가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여자로]]></title>
+        <id>https://alook.so/posts/0kteyr</id>
+        <link href="https://alook.so/posts/0kteyr"/>
+        <updated>2022-01-17T04:20:25.646Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteyr">여자로</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우리가 이번 대선에 집중해야 하는 이유 중 하나]]></title>
         <id>https://alook.so/posts/xlt1b8</id>
         <link href="https://alook.so/posts/xlt1b8"/>
         <updated>2022-01-17T02:08:05.458Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1b8">우리가 이번 대선에 집중해야 하는 이유 중 하나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMW타는 사람이 정해져있나..]]></title>
+        <id>https://alook.so/posts/RGtx3P</id>
+        <link href="https://alook.so/posts/RGtx3P"/>
+        <updated>2022-01-17T04:20:25.647Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtx3P">BMW타는 사람이 정해져있나..</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[카우레터_alookzip] 기후, 살인 위협, 뜨개질]]></title>
@@ -81,40 +130,5 @@
         <link href="https://alook.so/posts/w9tEXz"/>
         <updated>2022-01-16T15:15:14.149Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEXz">시간에 엄격하면 꼰대?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는]]></title>
-        <id>https://alook.so/posts/Djt4ZD</id>
-        <link href="https://alook.so/posts/Djt4ZD"/>
-        <updated>2022-01-16T15:15:14.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4ZD">저는</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑이라는 단어]]></title>
-        <id>https://alook.so/posts/ZktP5W</id>
-        <link href="https://alook.so/posts/ZktP5W"/>
-        <updated>2022-01-16T12:24:04.674Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktP5W">사랑이라는 단어</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살다보면 살아진다.]]></title>
-        <id>https://alook.so/posts/eVtEoD</id>
-        <link href="https://alook.so/posts/eVtEoD"/>
-        <updated>2022-01-17T03:18:25.286Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEoD">살다보면 살아진다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스 issue] 그들만의 리그 - 겉만 번지르한 KBO 리그의 민낯]]></title>
-        <id>https://alook.so/posts/4Xt4D8</id>
-        <link href="https://alook.so/posts/4Xt4D8"/>
-        <updated>2022-01-17T00:52:32.597Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4D8">[뉴스 issue] 그들만의 리그 - 겉만 번지르한 KBO 리그의 민낯</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸어가야 보이는 도보여행의 풍경]]></title>
-        <id>https://alook.so/posts/yEtbOj</id>
-        <link href="https://alook.so/posts/yEtbOj"/>
-        <updated>2022-01-16T11:13:12.665Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbOj">걸어가야 보이는 도보여행의 풍경</a>]]></content>
     </entry>
 </feed>
