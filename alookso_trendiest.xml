@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-17T15:18:02.199Z</updated>
+    <updated>2022-01-17T16:25:11.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://alook.so/posts/rDt0P9"/>
         <updated>2022-01-17T13:26:20.479Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0P9">이제 그만, 착하지 않아도 괜찮아.(감사합니다)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[27년이라는 시간이 지났지만 아직도 같은 일이 발생합니다.]]></title>
+        <id>https://alook.so/posts/jdtEol</id>
+        <link href="https://alook.so/posts/jdtEol"/>
+        <updated>2022-01-17T16:23:51.610Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEol">27년이라는 시간이 지났지만 아직도 같은 일이 발생합니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[산행이 가르쳐 준 삶의 진리]]></title>
@@ -109,12 +116,5 @@
         <link href="https://alook.so/posts/WLtYLK"/>
         <updated>2022-01-17T13:26:20.493Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYLK">다시 시작하는 얼룩소 프로젝트!! </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김건희 ‘7시간 통화 보도’가 남긴 질문 [brf.]]]></title>
-        <id>https://alook.so/posts/w9tEVj</id>
-        <link href="https://alook.so/posts/w9tEVj"/>
-        <updated>2022-01-17T09:17:07.421Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEVj">김건희 ‘7시간 통화 보도’가 남긴 질문 [brf.]</a>]]></content>
     </entry>
 </feed>
