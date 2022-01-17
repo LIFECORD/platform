@@ -2,70 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-17T16:25:11.930Z</updated>
+    <updated>2022-01-17T18:20:05.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[메타버스]]></title>
-        <id>https://alook.so/posts/VntaKz</id>
-        <link href="https://alook.so/posts/VntaKz"/>
-        <updated>2022-01-17T16:23:43.402Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntaKz">메타버스</a>]]></content>
+        <title type="html"><![CDATA[결국 살아가는 동안 그 삶의 정답은 뭘까]]></title>
+        <id>https://alook.so/posts/54tE1R</id>
+        <link href="https://alook.so/posts/54tE1R"/>
+        <updated>2022-01-17T18:18:34.393Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE1R">결국 살아가는 동안 그 삶의 정답은 뭘까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[관계의 깊이.]]></title>
-        <id>https://alook.so/posts/zvtqnl</id>
-        <link href="https://alook.so/posts/zvtqnl"/>
-        <updated>2022-01-17T16:23:43.404Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqnl">관계의 깊이.</a>]]></content>
+        <title type="html"><![CDATA[2022 시즌2를 시작하며]]></title>
+        <id>https://alook.so/posts/q1tWe5</id>
+        <link href="https://alook.so/posts/q1tWe5"/>
+        <updated>2022-01-17T18:18:34.395Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWe5">2022 시즌2를 시작하며</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아파트 부실 시공이 아파트에 대한 가치를 달라지게 할 것이다]]></title>
-        <id>https://alook.so/posts/2xt96Z</id>
-        <link href="https://alook.so/posts/2xt96Z"/>
-        <updated>2022-01-17T16:23:43.405Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt96Z">아파트 부실 시공이 아파트에 대한 가치를 달라지게 할 것이다 </a>]]></content>
+        <title type="html"><![CDATA[따뜻한 무관심]]></title>
+        <id>https://alook.so/posts/Djt405</id>
+        <link href="https://alook.so/posts/Djt405"/>
+        <updated>2022-01-17T18:18:34.395Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt405">따뜻한 무관심</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어떤 노동자(들)의 죽음]]></title>
-        <id>https://alook.so/posts/WLtY9Z</id>
-        <link href="https://alook.so/posts/WLtY9Z"/>
-        <updated>2022-01-17T16:23:43.406Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtY9Z">어떤 노동자(들)의 죽음</a>]]></content>
+        <title type="html"><![CDATA[인간관계를 위한 세가지 법칙]]></title>
+        <id>https://alook.so/posts/70tYyq</id>
+        <link href="https://alook.so/posts/70tYyq"/>
+        <updated>2022-01-17T18:18:34.396Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYyq">인간관계를 위한 세가지 법칙</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도전에 대해서..!]]></title>
-        <id>https://alook.so/posts/0kteqV</id>
-        <link href="https://alook.so/posts/0kteqV"/>
-        <updated>2022-01-17T16:23:43.408Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteqV">도전에 대해서..!</a>]]></content>
+        <title type="html"><![CDATA[내가 의지가 없다고 느껴질 때]]></title>
+        <id>https://alook.so/posts/YytLv3</id>
+        <link href="https://alook.so/posts/YytLv3"/>
+        <updated>2022-01-17T18:18:34.397Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLv3">내가 의지가 없다고 느껴질 때</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4인 이하 집합 제한 명령이 만든 사회.]]></title>
-        <id>https://alook.so/posts/M9tXmG</id>
-        <link href="https://alook.so/posts/M9tXmG"/>
-        <updated>2022-01-17T16:23:43.409Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXmG">4인 이하 집합 제한 명령이 만든 사회.</a>]]></content>
+        <title type="html"><![CDATA[응어리진 감정들을 해소하는 법]]></title>
+        <id>https://alook.so/posts/jdtEky</id>
+        <link href="https://alook.so/posts/jdtEky"/>
+        <updated>2022-01-17T18:18:34.398Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEky">응어리진 감정들을 해소하는 법</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[싱어게인, 마음의 평온을 주는 음악]]></title>
-        <id>https://alook.so/posts/w9tELd</id>
-        <link href="https://alook.so/posts/w9tELd"/>
-        <updated>2022-01-17T16:23:43.410Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tELd">싱어게인, 마음의 평온을 주는 음악</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1회용 테이크아웃 커피컵에 대한 방안]]></title>
-        <id>https://alook.so/posts/xlt1wn</id>
-        <link href="https://alook.so/posts/xlt1wn"/>
-        <updated>2022-01-17T16:23:43.411Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1wn">1회용 테이크아웃 커피컵에 대한 방안</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진정한 개인주의]]></title>
-        <id>https://alook.so/posts/RGtxoq</id>
-        <link href="https://alook.so/posts/RGtxoq"/>
-        <updated>2022-01-17T16:23:43.412Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxoq">진정한 개인주의</a>]]></content>
+        <title type="html"><![CDATA[생각하며 사는 나만의 인생]]></title>
+        <id>https://alook.so/posts/bWtE2e</id>
+        <link href="https://alook.so/posts/bWtE2e"/>
+        <updated>2022-01-17T18:18:34.399Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtE2e">생각하며 사는 나만의 인생</a>]]></content>
     </entry>
 </feed>
