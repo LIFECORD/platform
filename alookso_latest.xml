@@ -2,49 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-17T13:27:40.124Z</updated>
+    <updated>2022-01-17T14:16:20.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[한국, 자살률 1위 벗어나기 위해 핀란드를 참고해보자]]></title>
-        <id>https://alook.so/posts/rDt0W9</id>
-        <link href="https://alook.so/posts/rDt0W9"/>
-        <updated>2022-01-17T13:26:12.420Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0W9">한국, 자살률 1위 벗어나기 위해 핀란드를 참고해보자</a>]]></content>
+        <title type="html"><![CDATA[한국은행의 금리인상, 앞으로 부동산의 미래는?]]></title>
+        <id>https://alook.so/posts/92tkjE</id>
+        <link href="https://alook.so/posts/92tkjE"/>
+        <updated>2022-01-17T14:14:48.837Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkjE">한국은행의 금리인상, 앞으로 부동산의 미래는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새로운 먹거리  NFT, 메타버스?]]></title>
-        <id>https://alook.so/posts/jdtEBl</id>
-        <link href="https://alook.so/posts/jdtEBl"/>
-        <updated>2022-01-17T13:26:12.421Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEBl">새로운 먹거리  NFT, 메타버스?</a>]]></content>
+        <title type="html"><![CDATA[직장내 여러가진 인간형]]></title>
+        <id>https://alook.so/posts/KmtWzL</id>
+        <link href="https://alook.so/posts/KmtWzL"/>
+        <updated>2022-01-17T14:14:48.838Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWzL">직장내 여러가진 인간형</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[☆올해부터 바뀐 우회전시 도로교통법규]]></title>
-        <id>https://alook.so/posts/a0t0Rx</id>
-        <link href="https://alook.so/posts/a0t0Rx"/>
-        <updated>2022-01-17T13:26:12.421Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0Rx">☆올해부터 바뀐 우회전시 도로교통법규</a>]]></content>
+        <title type="html"><![CDATA[내 나이 70에]]></title>
+        <id>https://alook.so/posts/q1tW55</id>
+        <link href="https://alook.so/posts/q1tW55"/>
+        <updated>2022-01-17T14:14:48.838Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW55">내 나이 70에</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG에너지솔루션.... 공모주의 명 과 암!]]></title>
-        <id>https://alook.so/posts/dztlPo</id>
-        <link href="https://alook.so/posts/dztlPo"/>
-        <updated>2022-01-17T13:26:12.422Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlPo">LG에너지솔루션.... 공모주의 명 과 암! </a>]]></content>
+        <title type="html"><![CDATA[두번째 시작 나에겐 첫걸음]]></title>
+        <id>https://alook.so/posts/1RtzWb</id>
+        <link href="https://alook.so/posts/1RtzWb"/>
+        <updated>2022-01-17T14:14:48.839Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzWb">두번째 시작 나에겐 첫걸음</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[애매한 재능]]></title>
-        <id>https://alook.so/posts/J5tV3r</id>
-        <link href="https://alook.so/posts/J5tV3r"/>
-        <updated>2022-01-17T13:26:12.423Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tV3r">애매한 재능</a>]]></content>
+        <title type="html"><![CDATA[사랑? 그게 뭐야?]]></title>
+        <id>https://alook.so/posts/o7tEvj</id>
+        <link href="https://alook.so/posts/o7tEvj"/>
+        <updated>2022-01-17T14:14:48.841Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEvj">사랑? 그게 뭐야?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[오늘의 한잔] 무엇을 먹을꼬!]]></title>
-        <id>https://alook.so/posts/Pvtp9r</id>
-        <link href="https://alook.so/posts/Pvtp9r"/>
-        <updated>2022-01-17T13:26:12.424Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtp9r">[오늘의 한잔] 무엇을 먹을꼬!</a>]]></content>
+        <title type="html"><![CDATA[그런 면에서 얼룩소는 매력있는 공간입니다. 잘 오셨어요.]]></title>
+        <id>https://alook.so/posts/70tYZq</id>
+        <link href="https://alook.so/posts/70tYZq"/>
+        <updated>2022-01-17T14:14:48.842Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYZq">그런 면에서 얼룩소는 매력있는 공간입니다. 잘 오셨어요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강아지 2마리 매달고 죽음의 질주....처벌은?]]></title>
+        <id>https://alook.so/posts/YytLO3</id>
+        <link href="https://alook.so/posts/YytLO3"/>
+        <updated>2022-01-17T14:14:48.843Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLO3">강아지 2마리 매달고 죽음의 질주....처벌은?</a>]]></content>
     </entry>
 </feed>
