@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-17T06:22:18.825Z</updated>
+    <updated>2022-01-17T07:16:35.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alook.so/posts/rDt0MZ"/>
         <updated>2022-01-17T06:20:59.636Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0MZ">30대면 어른인가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘 산다는 것, 잘 쓴다는 것.]]></title>
+        <id>https://alook.so/posts/latoL2</id>
+        <link href="https://alook.so/posts/latoL2"/>
+        <updated>2022-01-17T07:15:13.581Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoL2">잘 산다는 것, 잘 쓴다는 것.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신용은행(서울어르신예술제출품작)]]></title>
@@ -132,17 +139,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtx3P">BMW타는 사람이 정해져있나..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[카우레터_alookzip] 기후, 살인 위협, 뜨개질]]></title>
-        <id>https://alook.so/posts/vKtqp2</id>
-        <link href="https://alook.so/posts/vKtqp2"/>
-        <updated>2022-01-17T02:08:05.439Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqp2">[카우레터_alookzip] 기후, 살인 위협, 뜨개질</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일자리때문에 고민인 청년들을 위한 자격증]]></title>
-        <id>https://alook.so/posts/E7tXDR</id>
-        <link href="https://alook.so/posts/E7tXDR"/>
-        <updated>2022-01-17T03:18:25.280Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXDR">일자리때문에 고민인 청년들을 위한 자격증</a>]]></content>
+        <title type="html"><![CDATA[정직과 정도(正道)는 '베이스캠프'가 아닐까요?]]></title>
+        <id>https://alook.so/posts/yEtb6J</id>
+        <link href="https://alook.so/posts/yEtb6J"/>
+        <updated>2022-01-17T07:15:13.637Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtb6J">정직과 정도(正道)는 '베이스캠프'가 아닐까요?</a>]]></content>
     </entry>
 </feed>
