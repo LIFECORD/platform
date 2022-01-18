@@ -2,35 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-18T15:17:57.111Z</updated>
+    <updated>2022-01-18T17:27:24.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[매일 글쓰기 하실 분 있으신가요? (부제 : 새해다짐하셨나요?)]]></title>
-        <id>https://alook.so/posts/92tkpM</id>
-        <link href="https://alook.so/posts/92tkpM"/>
-        <updated>2022-01-18T15:16:32.414Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkpM">매일 글쓰기 하실 분 있으신가요? (부제 : 새해다짐하셨나요?)</a>]]></content>
+        <title type="html"><![CDATA[엄마되기!]]></title>
+        <id>https://alook.so/posts/0kte58</id>
+        <link href="https://alook.so/posts/0kte58"/>
+        <updated>2022-01-18T17:25:53.814Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kte58">엄마되기!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 시즌2의 새로운 보상 분석?과 활성화를 위한 제안]]></title>
-        <id>https://alook.so/posts/KmtWpJ</id>
-        <link href="https://alook.so/posts/KmtWpJ"/>
-        <updated>2022-01-18T15:16:32.415Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWpJ">얼룩소 시즌2의 새로운 보상 분석?과 활성화를 위한 제안</a>]]></content>
+        <title type="html"><![CDATA[KB금융그룹 불매운동 갈까?]]></title>
+        <id>https://alook.so/posts/M9tXYw</id>
+        <link href="https://alook.so/posts/M9tXYw"/>
+        <updated>2022-01-18T17:25:53.815Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXYw">KB금융그룹 불매운동 갈까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소상공인 자영업자분들 ..]]></title>
-        <id>https://alook.so/posts/54tEZ6</id>
-        <link href="https://alook.so/posts/54tEZ6"/>
-        <updated>2022-01-18T15:16:32.415Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEZ6">소상공인 자영업자분들 ..</a>]]></content>
+        <title type="html"><![CDATA[나이가 같아야 친구 인가요?]]></title>
+        <id>https://alook.so/posts/XBtbOW</id>
+        <link href="https://alook.so/posts/XBtbOW"/>
+        <updated>2022-01-18T17:25:53.816Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbOW">나이가 같아야 친구 인가요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그냥 버리면 10만원 벌금 내야 하는 것들]]></title>
-        <id>https://alook.so/posts/Djt4ny</id>
-        <link href="https://alook.so/posts/Djt4ny"/>
-        <updated>2022-01-18T15:16:32.416Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4ny">그냥 버리면 10만원 벌금 내야 하는 것들</a>]]></content>
+        <title type="html"><![CDATA[백수가 체질]]></title>
+        <id>https://alook.so/posts/xlt1Y5</id>
+        <link href="https://alook.so/posts/xlt1Y5"/>
+        <updated>2022-01-18T17:25:53.817Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1Y5">백수가 체질</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간의 가치가 낮아진다?]]></title>
+        <id>https://alook.so/posts/RGtx8R</id>
+        <link href="https://alook.so/posts/RGtx8R"/>
+        <updated>2022-01-18T17:25:53.818Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtx8R">인간의 가치가 낮아진다?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리의 몸은 살아있는 힘의 집합체]]></title>
+        <id>https://alook.so/posts/kZtmKn</id>
+        <link href="https://alook.so/posts/kZtmKn"/>
+        <updated>2022-01-18T17:25:53.818Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmKn">우리의 몸은 살아있는 힘의 집합체</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임신과 출산, 이렇게까지 힘들 줄 몰랐다...]]></title>
+        <id>https://alook.so/posts/BatMp0</id>
+        <link href="https://alook.so/posts/BatMp0"/>
+        <updated>2022-01-18T17:25:53.819Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMp0">임신과 출산, 이렇게까지 힘들 줄 몰랐다...</a>]]></content>
     </entry>
 </feed>
