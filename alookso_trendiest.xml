@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-18T07:17:51.472Z</updated>
+    <updated>2022-01-18T08:20:52.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[현직 주부가 취미로 하는 뉴스 보기]]></title>
+        <id>https://alook.so/posts/70tYP5</id>
+        <link href="https://alook.so/posts/70tYP5"/>
+        <updated>2022-01-18T08:19:32.390Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYP5">현직 주부가 취미로 하는 뉴스 보기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이 아이들이 갈 곳은 안산 뿐이다. [brf.]]]></title>
         <id>https://alook.so/posts/w9tEvL</id>
@@ -39,6 +46,13 @@
         <link href="https://alook.so/posts/0ktek1"/>
         <updated>2022-01-18T07:16:21.874Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktek1">게임커뮤니티와 수학 유튜버를 소개하고 싶네요..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존의 최저임금이 1만8000원이라고라? [brf.]]]></title>
+        <id>https://alook.so/posts/G1tq2G</id>
+        <link href="https://alook.so/posts/G1tq2G"/>
+        <updated>2022-01-18T08:19:32.422Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq2G">아마존의 최저임금이 1만8000원이라고라? [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기다림끝에 다시만남 반가워요]]></title>
@@ -88,26 +102,5 @@
         <link href="https://alook.so/posts/q1tWmX"/>
         <updated>2022-01-18T05:17:09.429Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWmX">국민의힘 의원과 중앙일보에게 수학 교육이 필요한 까닭 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서로에게 하는 기도]]></title>
-        <id>https://alook.so/posts/vKtq4y</id>
-        <link href="https://alook.so/posts/vKtq4y"/>
-        <updated>2022-01-18T05:17:09.430Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtq4y">서로에게 하는 기도</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카우레터_B컷] 공급 대란과 아마존의 성공 방정식]]></title>
-        <id>https://alook.so/posts/mbtjxq</id>
-        <link href="https://alook.so/posts/mbtjxq"/>
-        <updated>2022-01-18T02:08:49.406Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjxq">[카우레터_B컷] 공급 대란과 아마존의 성공 방정식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인터넷과 스마트폰 아이들에게 안전할까?]]></title>
-        <id>https://alook.so/posts/92tkDE</id>
-        <link href="https://alook.so/posts/92tkDE"/>
-        <updated>2022-01-18T05:17:09.433Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkDE">인터넷과 스마트폰 아이들에게 안전할까?</a>]]></content>
     </entry>
 </feed>
