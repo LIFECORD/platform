@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-18T03:19:35.130Z</updated>
+    <updated>2022-01-18T04:21:55.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpar">전직 시사 에디터가 말하는 뉴스 읽기 습관</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리셀 시장의 이면: 명품 브랜드, 상위 1%, 그리고 양극화]]></title>
-        <id>https://alook.so/posts/70tY2L</id>
-        <link href="https://alook.so/posts/70tY2L"/>
-        <updated>2022-01-18T02:08:49.422Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY2L">리셀 시장의 이면: 명품 브랜드, 상위 1%, 그리고 양극화 </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[어떤 노동자(들)의 죽음]]></title>
         <id>https://alook.so/posts/WLtY9Z</id>
         <link href="https://alook.so/posts/WLtY9Z"/>
@@ -90,11 +83,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtY9Z">어떤 노동자(들)의 죽음</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[리셀 시장의 이면: 명품 브랜드, 상위 1%, 그리고 양극화]]></title>
+        <id>https://alook.so/posts/70tY2L</id>
+        <link href="https://alook.so/posts/70tY2L"/>
+        <updated>2022-01-18T02:08:49.422Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY2L">리셀 시장의 이면: 명품 브랜드, 상위 1%, 그리고 양극화 </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[취준생들 울리는 중대재해기업처벌법]]></title>
         <id>https://alook.so/posts/Djt454</id>
         <link href="https://alook.so/posts/Djt454"/>
         <updated>2022-01-18T02:08:49.420Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt454">취준생들 울리는 중대재해기업처벌법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나가 일깨워준 이주노동자의 존재]]></title>
+        <id>https://alook.so/posts/Vnta30</id>
+        <link href="https://alook.so/posts/Vnta30"/>
+        <updated>2022-01-18T04:20:35.325Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnta30">코로나가 일깨워준 이주노동자의 존재</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 이후 일자리 변화 [경제 디깅]]]></title>
@@ -130,13 +137,6 @@
         <link href="https://alook.so/posts/0ktez5"/>
         <updated>2022-01-17T13:26:20.481Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktez5">도대체 왜 뉴스를 읽어야 할까? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘, 음식물 쓰레기 버리셨나요?]]></title>
-        <id>https://alook.so/posts/XBtbj6</id>
-        <link href="https://alook.so/posts/XBtbj6"/>
-        <updated>2022-01-18T03:18:12.158Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbj6">오늘, 음식물 쓰레기 버리셨나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[딸기값, 왜 이렇게 비싸졌냐면 [brf.]]]></title>
