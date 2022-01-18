@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-18T13:27:50.497Z</updated>
+    <updated>2022-01-18T14:16:38.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -102,12 +102,5 @@
         <link href="https://alook.so/posts/Vnta8v"/>
         <updated>2022-01-18T07:16:21.864Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnta8v">이렇게라면 얼룩소 글을 인공지능으로도 쓸 수 있을 것 같아요. 여생어?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 오르세미술관은 서울에 만들어야할까?]]></title>
-        <id>https://alook.so/posts/E7tXeb</id>
-        <link href="https://alook.so/posts/E7tXeb"/>
-        <updated>2022-01-18T13:26:24.878Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXeb">한국의 오르세미술관은 서울에 만들어야할까?</a>]]></content>
     </entry>
 </feed>
