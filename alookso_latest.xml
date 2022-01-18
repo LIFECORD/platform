@@ -2,49 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-18T10:19:53.152Z</updated>
+    <updated>2022-01-18T12:28:32.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[이제껏 뭘하고 살았을까...]]></title>
-        <id>https://alook.so/posts/w9tEkp</id>
-        <link href="https://alook.so/posts/w9tEkp"/>
-        <updated>2022-01-18T10:18:17.880Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEkp">이제껏 뭘하고 살았을까...</a>]]></content>
+        <title type="html"><![CDATA[결국 AI는 사람을 보고 학습합니다.]]></title>
+        <id>https://alook.so/posts/VntaDV</id>
+        <link href="https://alook.so/posts/VntaDV"/>
+        <updated>2022-01-18T12:26:48.380Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntaDV">결국 AI는 사람을 보고 학습합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[“기후 변화 대응 역행”]]></title>
-        <id>https://alook.so/posts/xlt1pV</id>
-        <link href="https://alook.so/posts/xlt1pV"/>
-        <updated>2022-01-18T10:18:17.881Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1pV">“기후 변화 대응 역행”</a>]]></content>
+        <title type="html"><![CDATA[우리가 말하는 기레기의 기사는 AI가 썼을 수도 있다]]></title>
+        <id>https://alook.so/posts/2xt9ke</id>
+        <link href="https://alook.so/posts/2xt9ke"/>
+        <updated>2022-01-18T12:26:48.380Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9ke">우리가 말하는 기레기의 기사는 AI가 썼을 수도 있다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[치킨이 주는 정신적 행복의 지속 시간]]></title>
-        <id>https://alook.so/posts/RGtx7r</id>
-        <link href="https://alook.so/posts/RGtx7r"/>
-        <updated>2022-01-18T10:18:17.882Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtx7r">치킨이 주는 정신적 행복의 지속 시간</a>]]></content>
+        <title type="html"><![CDATA[3년째 내가 운동을 매일 하게 된 이유]]></title>
+        <id>https://alook.so/posts/WLtYVG</id>
+        <link href="https://alook.so/posts/WLtYVG"/>
+        <updated>2022-01-18T12:26:48.380Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYVG">3년째 내가 운동을 매일 하게 된 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[34살 이제 시작인걸]]></title>
-        <id>https://alook.so/posts/yEtb5y</id>
-        <link href="https://alook.so/posts/yEtb5y"/>
-        <updated>2022-01-18T10:18:17.883Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtb5y">34살 이제 시작인걸</a>]]></content>
+        <title type="html"><![CDATA[불법행위를 줄이면서 전화 1번에 5만원??!!]]></title>
+        <id>https://alook.so/posts/0kte2d</id>
+        <link href="https://alook.so/posts/0kte2d"/>
+        <updated>2022-01-18T12:26:48.380Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kte2d">불법행위를 줄이면서 전화 1번에 5만원??!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나를 기억해]]></title>
-        <id>https://alook.so/posts/njtVZO</id>
-        <link href="https://alook.so/posts/njtVZO"/>
-        <updated>2022-01-18T09:17:15.749Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVZO">나를 기억해 </a>]]></content>
+        <title type="html"><![CDATA[넷플릭스, 블랙미러 .]]></title>
+        <id>https://alook.so/posts/4Xt4Go</id>
+        <link href="https://alook.so/posts/4Xt4Go"/>
+        <updated>2022-01-18T12:26:48.381Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4Go">넷플릭스, 블랙미러 .</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서류에서 날 탈락시킨 담당자가 제안한 티타임]]></title>
-        <id>https://alook.so/posts/3wtOVw</id>
-        <link href="https://alook.so/posts/3wtOVw"/>
-        <updated>2022-01-18T09:17:15.750Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOVw">서류에서 날 탈락시킨 담당자가 제안한 티타임</a>]]></content>
+        <title type="html"><![CDATA[휴대폰과 함께하는 요즘 군대의 주말]]></title>
+        <id>https://alook.so/posts/XBtbnB</id>
+        <link href="https://alook.so/posts/XBtbnB"/>
+        <updated>2022-01-18T12:26:48.384Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbnB">휴대폰과 함께하는 요즘 군대의 주말</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['자존감'에 대한 개인적인 의견]]></title>
+        <id>https://alook.so/posts/w9tEWp</id>
+        <link href="https://alook.so/posts/w9tEWp"/>
+        <updated>2022-01-18T12:26:48.386Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEWp">'자존감'에 대한 개인적인 의견</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내집마련 정말 가능할까요?]]></title>
+        <id>https://alook.so/posts/xlt1qV</id>
+        <link href="https://alook.so/posts/xlt1qV"/>
+        <updated>2022-01-18T12:26:48.388Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1qV">내집마련 정말 가능할까요?</a>]]></content>
     </entry>
 </feed>
