@@ -2,49 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-19T05:14:36.328Z</updated>
+    <updated>2022-01-19T07:13:19.914Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[관심이 사랑의 시작입니다.]]></title>
-        <id>https://alook.so/posts/92tR1b</id>
-        <link href="https://alook.so/posts/92tR1b"/>
-        <updated>2022-01-19T05:13:10.566Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tR1b">관심이 사랑의 시작입니다.</a>]]></content>
+        <title type="html"><![CDATA["하반신 마비였는데 백신을 맞고 조금씩 말을 하고, 걷게 됐어요"]]></title>
+        <id>https://alook.so/posts/WLtM55</id>
+        <link href="https://alook.so/posts/WLtM55"/>
+        <updated>2022-01-19T07:11:46.360Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtM55">"하반신 마비였는데 백신을 맞고 조금씩 말을 하고, 걷게 됐어요"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신봉선 nft]]></title>
-        <id>https://alook.so/posts/KmtrKb</id>
-        <link href="https://alook.so/posts/KmtrKb"/>
-        <updated>2022-01-19T05:13:10.567Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtrKb">신봉선 nft</a>]]></content>
+        <title type="html"><![CDATA[코로나 거리두기에 대한 자영업자의 시각]]></title>
+        <id>https://alook.so/posts/0ktKMB</id>
+        <link href="https://alook.so/posts/0ktKMB"/>
+        <updated>2022-01-19T07:11:46.361Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktKMB">코로나 거리두기에 대한 자영업자의 시각</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리가 그런 사람이 되어...]]></title>
-        <id>https://alook.so/posts/mbtz4w</id>
-        <link href="https://alook.so/posts/mbtz4w"/>
-        <updated>2022-01-19T05:13:10.568Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtz4w">우리가 그런 사람이 되어...</a>]]></content>
+        <title type="html"><![CDATA[카카오페이 먹튀논란]]></title>
+        <id>https://alook.so/posts/M9twxV</id>
+        <link href="https://alook.so/posts/M9twxV"/>
+        <updated>2022-01-19T07:11:46.376Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9twxV">카카오페이 먹튀논란</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수도권 공화국의 그리드.]]></title>
-        <id>https://alook.so/posts/54tlWp</id>
-        <link href="https://alook.so/posts/54tlWp"/>
-        <updated>2022-01-19T05:13:10.568Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tlWp">수도권 공화국의 그리드. </a>]]></content>
+        <title type="html"><![CDATA[오토바이 배달로 생계를 이어가던 아버지의 이야기]]></title>
+        <id>https://alook.so/posts/4XtX8M</id>
+        <link href="https://alook.so/posts/4XtX8M"/>
+        <updated>2022-01-19T07:11:46.386Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtX8M">오토바이 배달로 생계를 이어가던 아버지의 이야기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인공지능의 시대]]></title>
-        <id>https://alook.so/posts/Yytjl6</id>
-        <link href="https://alook.so/posts/Yytjl6"/>
-        <updated>2022-01-19T05:13:10.569Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytjl6">인공지능의 시대</a>]]></content>
+        <title type="html"><![CDATA[당시 아파트를 안 샀더라면]]></title>
+        <id>https://alook.so/posts/XBt4ZO</id>
+        <link href="https://alook.so/posts/XBt4ZO"/>
+        <updated>2022-01-19T07:11:46.392Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt4ZO">당시 아파트를 안 샀더라면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스 issue] 노력이 가상한 확신범; 방역 패스 위조범]]></title>
-        <id>https://alook.so/posts/rDtXJv</id>
-        <link href="https://alook.so/posts/rDtXJv"/>
-        <updated>2022-01-19T05:13:10.570Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXJv">[뉴스 issue] 노력이 가상한 확신범; 방역 패스 위조범</a>]]></content>
+        <title type="html"><![CDATA[문득 궁금해지는게 있는데요.]]></title>
+        <id>https://alook.so/posts/w9tBKo</id>
+        <link href="https://alook.so/posts/w9tBKo"/>
+        <updated>2022-01-19T07:11:46.393Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tBKo">문득 궁금해지는게 있는데요. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14만원짜리 햄버거..... 먹고싶은 이유?]]></title>
+        <id>https://alook.so/posts/RGtJLn</id>
+        <link href="https://alook.so/posts/RGtJLn"/>
+        <updated>2022-01-19T07:11:46.393Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtJLn">14만원짜리 햄버거..... 먹고싶은 이유?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10,000원 미용실]]></title>
+        <id>https://alook.so/posts/kZte6l</id>
+        <link href="https://alook.so/posts/kZte6l"/>
+        <updated>2022-01-19T07:11:46.393Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZte6l">10,000원 미용실</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아.. 이게 지금 글인데 옛날 10주 프로젝트 글 보고 착각했네요. 민망.. ㅋㅋ]]></title>
+        <id>https://alook.so/posts/yEtxnY</id>
+        <link href="https://alook.so/posts/yEtxnY"/>
+        <updated>2022-01-19T07:11:46.409Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxnY">아.. 이게 지금 글인데 옛날 10주 프로젝트 글 보고 착각했네요. 민망.. ㅋㅋ</a>]]></content>
     </entry>
 </feed>
