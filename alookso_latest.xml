@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-19T21:14:49.021Z</updated>
+    <updated>2022-01-19T22:16:04.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유동성 감소, 주식 및 부동산 시장 전체하락? 스태그플레이션?]]></title>
+        <id>https://alook.so/posts/Yytj9o</id>
+        <link href="https://alook.so/posts/Yytj9o"/>
+        <updated>2022-01-19T22:14:30.275Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytj9o">유동성 감소, 주식 및 부동산 시장 전체하락? 스태그플레이션?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SES 슈가 도박만 안했더라면 이야기가 달랐을텐데]]></title>
+        <id>https://alook.so/posts/jdtm9R</id>
+        <link href="https://alook.so/posts/jdtm9R"/>
+        <updated>2022-01-19T22:14:30.276Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtm9R">SES 슈가 도박만 안했더라면 이야기가 달랐을텐데</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[으으... 오늘도 결장인가봅니다 ㅜ.ㅜ]]></title>
         <id>https://alook.so/posts/bWtZp4</id>
@@ -39,12 +53,5 @@
         <link href="https://alook.so/posts/eVtmO8"/>
         <updated>2022-01-19T21:13:25.711Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtmO8">요즘 선거,요즘 대통령</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 20대가 키우는 로봇강아지?]]></title>
-        <id>https://alook.so/posts/Vnt4jo</id>
-        <link href="https://alook.so/posts/Vnt4jo"/>
-        <updated>2022-01-19T21:13:25.712Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt4jo">요즘 20대가 키우는 로봇강아지?</a>]]></content>
     </entry>
 </feed>
