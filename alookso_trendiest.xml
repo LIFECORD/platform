@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-19T14:15:49.159Z</updated>
+    <updated>2022-01-19T15:16:38.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -62,13 +62,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt4XO">이대남과 이대녀의 경제적 불안 (실업률&lt;고용률&lt;고용보험가입률)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[카우레터] 쉽게 잊혀지는 중장년 고독사]]></title>
-        <id>https://alook.so/posts/54tE7p</id>
-        <link href="https://alook.so/posts/54tE7p"/>
-        <updated>2022-01-19T14:14:27.287Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE7p">[카우레터] 쉽게 잊혀지는 중장년 고독사</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지]]></title>
         <id>https://alook.so/posts/BatVbw</id>
         <link href="https://alook.so/posts/BatVbw"/>
@@ -76,11 +69,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatVbw">✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스 issue] 노력이 가상한 확신범; 방역 패스 위조범]]></title>
-        <id>https://alook.so/posts/rDtXJv</id>
-        <link href="https://alook.so/posts/rDtXJv"/>
-        <updated>2022-01-19T14:14:27.291Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXJv">[뉴스 issue] 노력이 가상한 확신범; 방역 패스 위조범</a>]]></content>
+        <title type="html"><![CDATA[[카우레터] 쉽게 잊혀지는 중장년 고독사]]></title>
+        <id>https://alook.so/posts/54tE7p</id>
+        <link href="https://alook.so/posts/54tE7p"/>
+        <updated>2022-01-19T14:14:27.287Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE7p">[카우레터] 쉽게 잊혀지는 중장년 고독사</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 시즌2의 새로운 보상 분석?과 활성화를 위한 제안]]></title>
@@ -90,11 +83,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWpJ">얼룩소 시즌2의 새로운 보상 분석?과 활성화를 위한 제안</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[뉴스 issue] 노력이 가상한 확신범; 방역 패스 위조범]]></title>
+        <id>https://alook.so/posts/rDtXJv</id>
+        <link href="https://alook.so/posts/rDtXJv"/>
+        <updated>2022-01-19T14:14:27.291Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXJv">[뉴스 issue] 노력이 가상한 확신범; 방역 패스 위조범</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[가짜뉴스 전파자 안철수 [brf.]]]></title>
         <id>https://alook.so/posts/xlt1RD</id>
         <link href="https://alook.so/posts/xlt1RD"/>
         <updated>2022-01-19T14:14:27.295Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1RD">가짜뉴스 전파자 안철수 [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단양・안동・대구・제주・전주는 지금 [로컬 디깅]]]></title>
+        <id>https://alook.so/posts/w9tBpo</id>
+        <link href="https://alook.so/posts/w9tBpo"/>
+        <updated>2022-01-19T15:15:06.745Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tBpo">단양・안동・대구・제주・전주는 지금 [로컬 디깅]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[노노노] (가덕도) 예타 면제 논란이라는 헛소동에 덮힌 진짜 문제]]></title>
@@ -111,24 +118,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbP4">[무비 무브 #16] 기생충 (2019, Parasite); 삑시리의 미학</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초보제로웨이스트 도전기 첫스토리]]></title>
-        <id>https://alook.so/posts/0kteW9</id>
-        <link href="https://alook.so/posts/0kteW9"/>
-        <updated>2022-01-19T14:14:27.300Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteW9">초보제로웨이스트 도전기 첫스토리</a>]]></content>
+        <title type="html"><![CDATA[청년 정치는 뭘까]]></title>
+        <id>https://alook.so/posts/xltavZ</id>
+        <link href="https://alook.so/posts/xltavZ"/>
+        <updated>2022-01-19T15:15:06.745Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltavZ">청년 정치는 뭘까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[점점 빨라지는 한국의 인구 감소와 저출산율: "앞으로 더 심해지지 않을까?"]]></title>
-        <id>https://alook.so/posts/o7tEM0</id>
-        <link href="https://alook.so/posts/o7tEM0"/>
-        <updated>2022-01-19T14:14:27.301Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEM0">점점 빨라지는 한국의 인구 감소와 저출산율: "앞으로 더 심해지지 않을까?"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문제는 '민원'이야!]]></title>
-        <id>https://alook.so/posts/Djt4Vy</id>
-        <link href="https://alook.so/posts/Djt4Vy"/>
-        <updated>2022-01-19T14:14:27.306Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4Vy">문제는 '민원'이야!</a>]]></content>
+        <title type="html"><![CDATA[근로기준법 40조와 마켓컬리 [brf.]]]></title>
+        <id>https://alook.so/posts/Djtz3L</id>
+        <link href="https://alook.so/posts/Djtz3L"/>
+        <updated>2022-01-19T15:15:06.745Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtz3L">근로기준법 40조와 마켓컬리 [brf.]</a>]]></content>
     </entry>
 </feed>
