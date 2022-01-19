@@ -2,56 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-19T08:18:50.150Z</updated>
+    <updated>2022-01-19T13:20:16.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA["세상에는 우승보다 중요한 것이 있다"]]></title>
-        <id>https://alook.so/posts/RGtJkn</id>
-        <link href="https://alook.so/posts/RGtJkn"/>
-        <updated>2022-01-19T08:17:18.120Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtJkn">"세상에는 우승보다 중요한 것이 있다"</a>]]></content>
+        <title type="html"><![CDATA[부산.경남지역에서 프리랜서 음악가로 살아가는 것]]></title>
+        <id>https://alook.so/posts/q1tvpm</id>
+        <link href="https://alook.so/posts/q1tvpm"/>
+        <updated>2022-01-19T13:18:51.072Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvpm">부산.경남지역에서 프리랜서 음악가로 살아가는 것</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[일자리 대전환 6대 공약문] 나의 일자리를 위해서 이재명은 합니다]]></title>
-        <id>https://alook.so/posts/yEtxEY</id>
-        <link href="https://alook.so/posts/yEtxEY"/>
-        <updated>2022-01-19T08:17:18.120Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxEY">[일자리 대전환 6대 공약문] 나의 일자리를 위해서 이재명은 합니다</a>]]></content>
+        <title type="html"><![CDATA[얼룩소 이 곳은 치유소.]]></title>
+        <id>https://alook.so/posts/Djtz60</id>
+        <link href="https://alook.so/posts/Djtz60"/>
+        <updated>2022-01-19T13:18:51.073Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtz60">얼룩소 이 곳은 치유소.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[늙어가는 미래 도시]]></title>
-        <id>https://alook.so/posts/LKtem2</id>
-        <link href="https://alook.so/posts/LKtem2"/>
-        <updated>2022-01-19T08:17:18.122Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtem2">늙어가는 미래 도시 </a>]]></content>
+        <title type="html"><![CDATA[4번 기타.]]></title>
+        <id>https://alook.so/posts/1Rt3R9</id>
+        <link href="https://alook.so/posts/1Rt3R9"/>
+        <updated>2022-01-19T13:18:51.077Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt3R9">4번 기타. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(어쩌면 딴소리) 조금 더 넓게 보면 좋겠습니다.]]></title>
-        <id>https://alook.so/posts/6Mt2Yo</id>
-        <link href="https://alook.so/posts/6Mt2Yo"/>
-        <updated>2022-01-19T08:17:18.124Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt2Yo">(어쩌면 딴소리) 조금 더 넓게 보면 좋겠습니다.</a>]]></content>
+        <title type="html"><![CDATA[2022년 신년계획,목표!!]]></title>
+        <id>https://alook.so/posts/o7t7lv</id>
+        <link href="https://alook.so/posts/o7t7lv"/>
+        <updated>2022-01-19T13:18:51.078Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t7lv">2022년 신년계획,목표!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 마지막 노동일기]]></title>
-        <id>https://alook.so/posts/3wt3EK</id>
-        <link href="https://alook.so/posts/3wt3EK"/>
-        <updated>2022-01-19T08:17:18.125Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt3EK">내 마지막 노동일기</a>]]></content>
+        <title type="html"><![CDATA[출근하기전에 들은 노래가 온종일 생각하는 나를 만든다]]></title>
+        <id>https://alook.so/posts/70tVv2</id>
+        <link href="https://alook.so/posts/70tVv2"/>
+        <updated>2022-01-19T13:18:51.079Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tVv2">출근하기전에 들은 노래가 온종일 생각하는 나를 만든다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재택근무가 가능한 직업이 늘어날까?]]></title>
-        <id>https://alook.so/posts/8WtJwb</id>
-        <link href="https://alook.so/posts/8WtJwb"/>
-        <updated>2022-01-19T08:17:18.126Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtJwb">재택근무가 가능한 직업이 늘어날까? </a>]]></content>
+        <title type="html"><![CDATA[새해에는 등대여권 스탬프 투어 해보세요]]></title>
+        <id>https://alook.so/posts/Yytj5z</id>
+        <link href="https://alook.so/posts/Yytj5z"/>
+        <updated>2022-01-19T13:18:51.079Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytj5z">새해에는 등대여권 스탬프 투어 해보세요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🧭정치를 웃기게, 정치를 우습게]]></title>
-        <id>https://alook.so/posts/G1t1kP</id>
-        <link href="https://alook.so/posts/G1t1kP"/>
-        <updated>2022-01-19T08:17:18.127Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t1kP">🧭정치를 웃기게, 정치를 우습게</a>]]></content>
+        <title type="html"><![CDATA[도로의 무법자]]></title>
+        <id>https://alook.so/posts/rDtXpy</id>
+        <link href="https://alook.so/posts/rDtXpy"/>
+        <updated>2022-01-19T13:18:51.081Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXpy">도로의 무법자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몸과 마음이 개복치인 나]]></title>
+        <id>https://alook.so/posts/bWtZOP</id>
+        <link href="https://alook.so/posts/bWtZOP"/>
+        <updated>2022-01-19T13:18:51.082Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZOP">몸과 마음이 개복치인 나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인구 절벽이 오기 전에 빠르게 발전되어야 할 두 가지]]></title>
+        <id>https://alook.so/posts/Zkt1Oq</id>
+        <link href="https://alook.so/posts/Zkt1Oq"/>
+        <updated>2022-01-19T13:18:51.083Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt1Oq">인구 절벽이 오기 전에 빠르게 발전되어야 할 두 가지</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능이 발전했을 때 기업의 흥망]]></title>
+        <id>https://alook.so/posts/dzt1XZ</id>
+        <link href="https://alook.so/posts/dzt1XZ"/>
+        <updated>2022-01-19T13:18:51.084Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt1XZ">인공지능이 발전했을 때 기업의 흥망</a>]]></content>
     </entry>
 </feed>
