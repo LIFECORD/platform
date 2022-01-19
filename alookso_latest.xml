@@ -2,63 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-19T02:29:14.621Z</updated>
+    <updated>2022-01-19T04:19:41.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[보통사람의 최저임금에 대한 생각]]></title>
-        <id>https://alook.so/posts/70tYbv</id>
-        <link href="https://alook.so/posts/70tYbv"/>
-        <updated>2022-01-19T02:27:48.815Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYbv">보통사람의 최저임금에 대한 생각</a>]]></content>
+        <title type="html"><![CDATA[마음의 여유를 위해 시작한 캠핑]]></title>
+        <id>https://alook.so/posts/eVtEvj</id>
+        <link href="https://alook.so/posts/eVtEvj"/>
+        <updated>2022-01-19T04:18:10.010Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEvj">마음의 여유를 위해 시작한 캠핑</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["돈보다 팬데믹 벗어나길 원해" 백신 특허 포기했다 [뉴스]]]></title>
-        <id>https://alook.so/posts/YytLa6</id>
-        <link href="https://alook.so/posts/YytLa6"/>
-        <updated>2022-01-19T02:27:48.816Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLa6">"돈보다 팬데믹 벗어나길 원해" 백신 특허 포기했다 [뉴스]</a>]]></content>
+        <title type="html"><![CDATA[3차후유증]]></title>
+        <id>https://alook.so/posts/zvtqdO</id>
+        <link href="https://alook.so/posts/zvtqdO"/>
+        <updated>2022-01-19T04:18:10.010Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqdO">3차후유증</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[역대급 공모주 LG에너지솔루션 청약할까?]]></title>
-        <id>https://alook.so/posts/jdtE1K</id>
-        <link href="https://alook.so/posts/jdtE1K"/>
-        <updated>2022-01-19T02:27:48.817Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtE1K">역대급 공모주 LG에너지솔루션 청약할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 관점으로 다양한 경험]]></title>
-        <id>https://alook.so/posts/bWtEbV</id>
-        <link href="https://alook.so/posts/bWtEbV"/>
-        <updated>2022-01-19T02:27:48.818Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEbV">새로운 관점으로 다양한 경험</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래 너는 흘러내려도 나는 흘러내리지 않는다.]]></title>
-        <id>https://alook.so/posts/ZktPRl</id>
-        <link href="https://alook.so/posts/ZktPRl"/>
-        <updated>2022-01-19T02:27:48.818Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPRl">그래 너는 흘러내려도 나는 흘러내리지 않는다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸과 마음이 아프면 공유해요]]></title>
-        <id>https://alook.so/posts/dztl3n</id>
-        <link href="https://alook.so/posts/dztl3n"/>
-        <updated>2022-01-19T02:27:48.819Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl3n">몸과 마음이 아프면 공유해요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로웨이스트, 현실성 있나?]]></title>
-        <id>https://alook.so/posts/J5tVXz</id>
-        <link href="https://alook.so/posts/J5tVXz"/>
-        <updated>2022-01-19T02:27:48.820Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVXz">제로웨이스트, 현실성 있나?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 집값 어떻게 전망하시나요?]]></title>
-        <id>https://alook.so/posts/potm40</id>
-        <link href="https://alook.so/posts/potm40"/>
-        <updated>2022-01-19T02:27:48.820Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potm40">2022년 집값 어떻게 전망하시나요?</a>]]></content>
+        <title type="html"><![CDATA[청바지에 붙어있는 쇠단추의 놀라운 효능]]></title>
+        <id>https://alook.so/posts/4Xt4Ep</id>
+        <link href="https://alook.so/posts/4Xt4Ep"/>
+        <updated>2022-01-19T04:18:10.011Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4Ep">청바지에 붙어있는 쇠단추의 놀라운 효능</a>]]></content>
     </entry>
 </feed>
