@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-20T09:18:10.709Z</updated>
+    <updated>2022-01-20T12:24:10.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 살짝 찡했어요]]></title>
+        <id>https://alook.so/posts/G1t13K</id>
+        <link href="https://alook.so/posts/G1t13K"/>
+        <updated>2022-01-20T12:22:49.555Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t13K">답글: 살짝 찡했어요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[누가 기후위기 소리를 내었는가  [정check]]]></title>
+        <id>https://alook.so/posts/4XtX9z</id>
+        <link href="https://alook.so/posts/4XtX9z"/>
+        <updated>2022-01-20T12:22:49.556Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtX9z">누가 기후위기 소리를 내었는가  [정check]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게임이 청년 남성의 노동시장 참여를 줄였다?]]></title>
+        <id>https://alook.so/posts/M9twl9</id>
+        <link href="https://alook.so/posts/M9twl9"/>
+        <updated>2022-01-20T12:22:49.561Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9twl9">게임이 청년 남성의 노동시장 참여를 줄였다?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다문화, 혹은 불법 체류자. 그들의 이름은 [brf.]]]></title>
+        <id>https://alook.so/posts/RGtJja</id>
+        <link href="https://alook.so/posts/RGtJja"/>
+        <updated>2022-01-20T12:22:49.562Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtJja">다문화, 혹은 불법 체류자. 그들의 이름은 [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고꾸라진 말, 촬영 중 학대 논란 [brf.]]]></title>
+        <id>https://alook.so/posts/q1tvoD</id>
+        <link href="https://alook.so/posts/q1tvoD"/>
+        <updated>2022-01-20T12:22:49.564Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvoD">고꾸라진 말, 촬영 중 학대 논란 [brf.] </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[살짝 설렜어, 난 [brf.]]]></title>
+        <id>https://alook.so/posts/o7t7WR</id>
+        <link href="https://alook.so/posts/o7t7WR"/>
+        <updated>2022-01-20T12:22:49.565Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t7WR">살짝 설렜어, 난 [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[뉴스 issue] 종이의 힘; 조선 왕조의 종이 재활용]]></title>
+        <id>https://alook.so/posts/70tV8x</id>
+        <link href="https://alook.so/posts/70tV8x"/>
+        <updated>2022-01-20T12:22:49.565Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tV8x">[뉴스 issue] 종이의 힘; 조선 왕조의 종이 재활용</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기사님 조용히 가주세요.]]></title>
+        <id>https://alook.so/posts/KmtrPl</id>
+        <link href="https://alook.so/posts/KmtrPl"/>
+        <updated>2022-01-20T12:22:49.566Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtrPl">기사님 조용히 가주세요. </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무지와 백래시의 정치를 목도하며]]></title>
         <id>https://alook.so/posts/2xtKeq</id>
@@ -32,6 +88,13 @@
         <link href="https://alook.so/posts/dzt1oM"/>
         <updated>2022-01-20T04:18:38.344Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt1oM">사형제도, 이렇게 '조용히' 폐지시키는게 맞는걸까 [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 군종병에 대한 짧은 생각]]></title>
+        <id>https://alook.so/posts/rDtX5K</id>
+        <link href="https://alook.so/posts/rDtX5K"/>
+        <updated>2022-01-20T12:22:49.570Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtX5K">답글: 군종병에 대한 짧은 생각</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[같은 그림을 본 적 있어요!]]></title>
@@ -67,26 +130,5 @@
         <link href="https://alook.so/posts/G1t16V"/>
         <updated>2022-01-20T05:15:10.669Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t16V">차세대 배터리 산업 카테고리 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 뜨는 앱테크]]></title>
-        <id>https://alook.so/posts/RGtJMz</id>
-        <link href="https://alook.so/posts/RGtJMz"/>
-        <updated>2022-01-20T09:16:51.158Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtJMz">요즘 뜨는 앱테크</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 아이들은 같은반 아이들 얼굴을 제대로 모른다고 한다.]]></title>
-        <id>https://alook.so/posts/KmtrXX</id>
-        <link href="https://alook.so/posts/KmtrXX"/>
-        <updated>2022-01-20T00:56:14.366Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtrXX">요즘 아이들은 같은반 아이들 얼굴을 제대로 모른다고 한다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 얼룩소를 사용하는 방법]]></title>
-        <id>https://alook.so/posts/M9tw81</id>
-        <link href="https://alook.so/posts/M9tw81"/>
-        <updated>2022-01-20T06:17:16.840Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tw81">내가 얼룩소를 사용하는 방법</a>]]></content>
     </entry>
 </feed>
