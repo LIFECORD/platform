@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-20T02:14:22.883Z</updated>
+    <updated>2022-01-20T04:19:54.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[세상이 더 나아질 순 없나요?]]></title>
-        <id>https://alook.so/posts/mbtz8z</id>
-        <link href="https://alook.so/posts/mbtz8z"/>
-        <updated>2022-01-20T02:12:58.078Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtz8z">세상이 더 나아질 순 없나요?</a>]]></content>
+        <title type="html"><![CDATA[어찌 이런 소릴 할 수 있나?]]></title>
+        <id>https://alook.so/posts/mbtzLz</id>
+        <link href="https://alook.so/posts/mbtzLz"/>
+        <updated>2022-01-20T04:18:29.627Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtzLz">어찌 이런 소릴 할 수 있나? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[낯 선 얼굴]]></title>
-        <id>https://alook.so/posts/q1tvY1</id>
-        <link href="https://alook.so/posts/q1tvY1"/>
-        <updated>2022-01-20T02:12:58.079Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvY1">낯 선 얼굴</a>]]></content>
+        <title type="html"><![CDATA[다들 화이팅하는 마음으로 하루를 시작해볼까요?]]></title>
+        <id>https://alook.so/posts/54tlpE</id>
+        <link href="https://alook.so/posts/54tlpE"/>
+        <updated>2022-01-20T04:18:29.628Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tlpE">다들 화이팅하는 마음으로 하루를 시작해볼까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[통가화산 폭발은 충격]]></title>
-        <id>https://alook.so/posts/DjtzOK</id>
-        <link href="https://alook.so/posts/DjtzOK"/>
-        <updated>2022-01-20T02:12:58.079Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtzOK">통가화산 폭발은 충격</a>]]></content>
+        <title type="html"><![CDATA[안녕, 얼룩소야~]]></title>
+        <id>https://alook.so/posts/q1tv01</id>
+        <link href="https://alook.so/posts/q1tv01"/>
+        <updated>2022-01-20T04:18:29.629Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tv01">안녕, 얼룩소야~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[별점,리뷰테러로 인한 자영업자 폐업 후 자살.]]></title>
-        <id>https://alook.so/posts/1Rt3Yn</id>
-        <link href="https://alook.so/posts/1Rt3Yn"/>
-        <updated>2022-01-20T02:12:58.080Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt3Yn">별점,리뷰테러로 인한 자영업자 폐업 후 자살.</a>]]></content>
+        <title type="html"><![CDATA[“세상 꼭대기에 있어요” 828m에 선 승무원.]]></title>
+        <id>https://alook.so/posts/DjtzoK</id>
+        <link href="https://alook.so/posts/DjtzoK"/>
+        <updated>2022-01-20T04:18:29.630Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtzoK">“세상 꼭대기에 있어요” 828m에 선 승무원.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인공지능 관련일 시작]]></title>
-        <id>https://alook.so/posts/70tVGz</id>
-        <link href="https://alook.so/posts/70tVGz"/>
-        <updated>2022-01-20T02:12:58.082Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tVGz">인공지능 관련일 시작</a>]]></content>
+        <title type="html"><![CDATA[선택적 표적 보도와 사라진 언론개혁]]></title>
+        <id>https://alook.so/posts/1Rt3Bn</id>
+        <link href="https://alook.so/posts/1Rt3Bn"/>
+        <updated>2022-01-20T04:18:29.631Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt3Bn">선택적 표적 보도와 사라진 언론개혁  </a>]]></content>
     </entry>
 </feed>
