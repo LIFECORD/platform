@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-20T00:57:35.933Z</updated>
+    <updated>2022-01-20T02:14:22.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[같은 그림을 본 적 있어요!]]></title>
+        <id>https://alook.so/posts/potMJe</id>
+        <link href="https://alook.so/posts/potMJe"/>
+        <updated>2022-01-20T02:13:05.982Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potMJe">같은 그림을 본 적 있어요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 일단 서울은 자전거 타기엔 지형의 문제가...]]></title>
+        <id>https://alook.so/posts/eVtmk8</id>
+        <link href="https://alook.so/posts/eVtmk8"/>
+        <updated>2022-01-20T02:13:05.983Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtmk8">답글: 일단 서울은 자전거 타기엔 지형의 문제가...</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차세대 배터리 산업 카테고리]]></title>
         <id>https://alook.so/posts/G1t16V</id>
@@ -102,12 +116,5 @@
         <link href="https://alook.so/posts/M9twEV"/>
         <updated>2022-01-20T00:56:14.440Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9twEV">서울에는 GTX, 밀라노엔 자전거</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단양・안동・대구・제주・전주는 지금 [로컬 디깅]]]></title>
-        <id>https://alook.so/posts/w9tBpo</id>
-        <link href="https://alook.so/posts/w9tBpo"/>
-        <updated>2022-01-20T00:56:14.441Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tBpo">단양・안동・대구・제주・전주는 지금 [로컬 디깅]</a>]]></content>
     </entry>
 </feed>
