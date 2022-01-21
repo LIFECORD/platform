@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-21T00:48:50.236Z</updated>
+    <updated>2022-01-21T02:01:17.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오미크론 대유행을 앞두고 마음의 준비를 해야할 것들]]></title>
+        <id>https://alook.so/posts/yEtxvD</id>
+        <link href="https://alook.so/posts/yEtxvD"/>
+        <updated>2022-01-21T01:59:52.056Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxvD">오미크론 대유행을 앞두고 마음의 준비를 해야할 것들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[카우레터] MS, 82조원에 블리자드 인수]]></title>
+        <id>https://alook.so/posts/G1t1aY</id>
+        <link href="https://alook.so/posts/G1t1aY"/>
+        <updated>2022-01-21T01:59:52.057Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t1aY">[카우레터] MS, 82조원에 블리자드 인수</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벙어리장갑이라고 부르면 속상해요]]></title>
         <id>https://alook.so/posts/4XtXyd</id>
@@ -95,19 +109,5 @@
         <link href="https://alook.so/posts/1Rt3Xk"/>
         <updated>2022-01-20T15:14:47.169Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt3Xk">관료주의로 '사형제 폐지아닌 폐지'가 나타나는 현상을 설명해보고자 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스 issue] 종이의 힘; 조선 왕조의 종이 재활용]]></title>
-        <id>https://alook.so/posts/70tV8x</id>
-        <link href="https://alook.so/posts/70tV8x"/>
-        <updated>2022-01-20T12:22:49.565Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tV8x">[뉴스 issue] 종이의 힘; 조선 왕조의 종이 재활용</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육아휴직 후 복직, 그리고 이직? 나의 존재감에 대하여.]]></title>
-        <id>https://alook.so/posts/92tR9L</id>
-        <link href="https://alook.so/posts/92tR9L"/>
-        <updated>2022-01-21T00:47:22.832Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tR9L">육아휴직 후 복직, 그리고 이직? 나의 존재감에 대하여.</a>]]></content>
     </entry>
 </feed>

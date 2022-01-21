@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-21T00:48:50.229Z</updated>
+    <updated>2022-01-21T02:01:17.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[경제관념]]></title>
-        <id>https://alook.so/posts/vKt797</id>
-        <link href="https://alook.so/posts/vKt797"/>
-        <updated>2022-01-21T00:47:14.550Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt797">경제관념</a>]]></content>
+        <title type="html"><![CDATA[혜성충돌 만큼 무서운 ‘탄소중심’ 사회 [brf.]]]></title>
+        <id>https://alook.so/posts/PvtmJy</id>
+        <link href="https://alook.so/posts/PvtmJy"/>
+        <updated>2022-01-21T01:59:43.715Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtmJy">혜성충돌 만큼 무서운 ‘탄소중심’ 사회 [brf.]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[400억에 팔린 그림]]></title>
-        <id>https://alook.so/posts/92tR44</id>
-        <link href="https://alook.so/posts/92tR44"/>
-        <updated>2022-01-21T00:47:14.551Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tR44">400억에 팔린 그림</a>]]></content>
+        <title type="html"><![CDATA[여백]]></title>
+        <id>https://alook.so/posts/zvtwvy</id>
+        <link href="https://alook.so/posts/zvtwvy"/>
+        <updated>2022-01-21T01:59:43.716Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtwvy">여백</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[결혼식]]></title>
-        <id>https://alook.so/posts/q1tvbR</id>
-        <link href="https://alook.so/posts/q1tvbR"/>
-        <updated>2022-01-21T00:47:14.552Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvbR">결혼식</a>]]></content>
+        <title type="html"><![CDATA[지금은 기후위기 단계]]></title>
+        <id>https://alook.so/posts/2xtKOJ</id>
+        <link href="https://alook.so/posts/2xtKOJ"/>
+        <updated>2022-01-21T01:59:43.717Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtKOJ">지금은 기후위기 단계</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시작해볼려구요...]]></title>
-        <id>https://alook.so/posts/1Rt3rB</id>
-        <link href="https://alook.so/posts/1Rt3rB"/>
-        <updated>2022-01-21T00:47:14.553Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt3rB">시작해볼려구요...</a>]]></content>
+        <title type="html"><![CDATA[어머니가 3차 백신 접종 후 이상반응으로 중환자실에 혼수상태로 누워계십니다]]></title>
+        <id>https://alook.so/posts/0ktK4G</id>
+        <link href="https://alook.so/posts/0ktK4G"/>
+        <updated>2022-01-21T01:59:43.717Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktK4G">어머니가 3차 백신 접종 후 이상반응으로 중환자실에 혼수상태로 누워계십니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[역시 대한민국!!]]></title>
+        <id>https://alook.so/posts/4XtX12</id>
+        <link href="https://alook.so/posts/4XtX12"/>
+        <updated>2022-01-21T01:59:43.721Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtX12">역시 대한민국!!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사는 게 힘든 요즘 내일 지구가 망해버리면 당신은 오늘 무엇을 할까요?]]></title>
+        <id>https://alook.so/posts/XBt4dL</id>
+        <link href="https://alook.so/posts/XBt4dL"/>
+        <updated>2022-01-21T01:59:43.722Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt4dL">사는 게 힘든 요즘 내일 지구가 망해버리면 당신은 오늘 무엇을 할까요?</a>]]></content>
     </entry>
 </feed>
