@@ -2,56 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-21T07:15:52.518Z</updated>
+    <updated>2022-01-21T12:24:15.043Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[우리나라를 지키는 육군 병사가...?]]></title>
-        <id>https://alook.so/posts/4XtXXe</id>
-        <link href="https://alook.so/posts/4XtXXe"/>
-        <updated>2022-01-21T07:14:16.661Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtXXe">우리나라를 지키는 육군 병사가...?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 아파트값 계속 오르려나?]]></title>
-        <id>https://alook.so/posts/XBt44Z</id>
-        <link href="https://alook.so/posts/XBt44Z"/>
-        <updated>2022-01-21T07:14:16.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt44Z">서울 아파트값 계속 오르려나?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신한금융투자, LG에너지솔루션 청약 고객 분석 결과 발표]]></title>
-        <id>https://alook.so/posts/w9tBEJ</id>
-        <link href="https://alook.so/posts/w9tBEJ"/>
-        <updated>2022-01-21T07:14:16.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tBEJ">신한금융투자, LG에너지솔루션 청약 고객 분석 결과 발표</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손소독제 만들기]]></title>
-        <id>https://alook.so/posts/xlta1R</id>
-        <link href="https://alook.so/posts/xlta1R"/>
-        <updated>2022-01-21T07:14:16.663Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlta1R">손소독제 만들기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커피찌꺼기(커피박)의 업사이클링에 대한 의견]]></title>
-        <id>https://alook.so/posts/RGtJx8</id>
-        <link href="https://alook.so/posts/RGtJx8"/>
-        <updated>2022-01-21T07:14:16.664Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtJx8">커피찌꺼기(커피박)의 업사이클링에 대한 의견</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른이 되어 간다는 것]]></title>
-        <id>https://alook.so/posts/yEtxbB</id>
-        <link href="https://alook.so/posts/yEtxbB"/>
-        <updated>2022-01-21T07:14:16.665Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxbB">어른이 되어 간다는 것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 로 인해 깨달은 것 들]]></title>
-        <id>https://alook.so/posts/LKteWZ</id>
-        <link href="https://alook.so/posts/LKteWZ"/>
-        <updated>2022-01-21T07:14:16.666Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKteWZ">코로나19 로 인해 깨달은 것 들</a>]]></content>
+        <title type="html"><![CDATA[면접 합격!!]]></title>
+        <id>https://alook.so/posts/92tRox</id>
+        <link href="https://alook.so/posts/92tRox"/>
+        <updated>2022-01-21T12:22:39.092Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tRox">면접 합격!!</a>]]></content>
     </entry>
 </feed>
