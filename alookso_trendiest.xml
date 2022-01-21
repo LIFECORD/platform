@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-21T13:19:10.007Z</updated>
+    <updated>2022-01-21T14:14:55.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potM9D">답글: 코로나로 사망? 코로나"때문에" 사망!</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA["짐승이나 하는 짓..." 집단 폭행 가해학생에 호통 친 판사]]></title>
+        <id>https://alook.so/posts/Pvtm5y</id>
+        <link href="https://alook.so/posts/Pvtm5y"/>
+        <updated>2022-01-21T14:13:33.788Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtm5y">"짐승이나 하는 짓..." 집단 폭행 가해학생에 호통 친 판사</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[뽑을 사람이 없는 대선?]]></title>
         <id>https://alook.so/posts/2xtKBJ</id>
         <link href="https://alook.so/posts/2xtKBJ"/>
@@ -116,12 +123,5 @@
         <link href="https://alook.so/posts/w9tB65"/>
         <updated>2022-01-21T13:17:55.190Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tB65">생존 철학</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[똑같은 감정을 느낀 얼룩커 1 추가요.]]></title>
-        <id>https://alook.so/posts/latxVV</id>
-        <link href="https://alook.so/posts/latxVV"/>
-        <updated>2022-01-21T13:17:55.192Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latxVV">똑같은 감정을 느낀 얼룩커 1 추가요.</a>]]></content>
     </entry>
 </feed>
