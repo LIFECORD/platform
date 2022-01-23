@@ -2,43 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-23T00:49:50.655Z</updated>
+    <updated>2022-01-23T01:57:54.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[마음이 지쳤을때에 어떻게 해야하나]]></title>
-        <id>https://alook.so/posts/Yytj3Y</id>
-        <link href="https://alook.so/posts/Yytj3Y"/>
-        <updated>2022-01-23T00:48:30.694Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytj3Y">마음이 지쳤을때에 어떻게 해야하나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지속가능한 미래를 생각한 독일의 Pfand(공병환수)제도]]></title>
-        <id>https://alook.so/posts/zvtwaD</id>
-        <link href="https://alook.so/posts/zvtwaD"/>
-        <updated>2022-01-22T16:20:14.822Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtwaD">지속가능한 미래를 생각한 독일의 Pfand(공병환수)제도</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀴즈? 아니면 그냥 질문?]]></title>
-        <id>https://alook.so/posts/bWtZq7</id>
-        <link href="https://alook.so/posts/bWtZq7"/>
-        <updated>2022-01-22T16:20:14.823Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZq7">퀴즈? 아니면 그냥 질문?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽으면 지겹도록 잘 잠인데 그런데 말입니다]]></title>
-        <id>https://alook.so/posts/eVtmar</id>
-        <link href="https://alook.so/posts/eVtmar"/>
-        <updated>2022-01-22T16:20:14.831Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtmar">죽으면 지겹도록 잘 잠인데 그런데 말입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다름을 틀림으로 인식하는 직장 상사.]]></title>
-        <id>https://alook.so/posts/Vnt4MW</id>
-        <link href="https://alook.so/posts/Vnt4MW"/>
-        <updated>2022-01-22T16:20:14.832Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt4MW">다름을 틀림으로 인식하는 직장 상사.</a>]]></content>
+        <title type="html"><![CDATA[이준석 대표가 말하는 공정]]></title>
+        <id>https://alook.so/posts/latx4w</id>
+        <link href="https://alook.so/posts/latx4w"/>
+        <updated>2022-01-22T12:23:17.457Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latx4w">이준석 대표가 말하는 공정</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노키즈존, 차별이 당연해지는 사회의 시작]]></title>
@@ -48,20 +20,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtm96">노키즈존, 차별이 당연해지는 사회의 시작</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 사랑이 어떻게 이뤄지는지 연구했지 (feat. 장범준)]]></title>
-        <id>https://alook.so/posts/Yytjn1</id>
-        <link href="https://alook.so/posts/Yytjn1"/>
-        <updated>2022-01-22T16:20:14.814Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytjn1">나는 사랑이 어떻게 이뤄지는지 연구했지 (feat. 장범준)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준석 대표가 말하는 공정]]></title>
-        <id>https://alook.so/posts/latx4w</id>
-        <link href="https://alook.so/posts/latx4w"/>
-        <updated>2022-01-22T12:23:17.457Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latx4w">이준석 대표가 말하는 공정</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[데일리 알벗] 예술도 투자 종목이 되는 시대]]></title>
         <id>https://alook.so/posts/mbtzX8</id>
         <link href="https://alook.so/posts/mbtzX8"/>
@@ -69,38 +27,80 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtzX8">[데일리 알벗] 예술도 투자 종목이 되는 시대</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비트코인 하락세... 지속될까?]]></title>
-        <id>https://alook.so/posts/w9tBX1</id>
-        <link href="https://alook.so/posts/w9tBX1"/>
-        <updated>2022-01-22T21:12:37.652Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tBX1">비트코인 하락세... 지속될까?</a>]]></content>
+        <title type="html"><![CDATA[나는 사랑이 어떻게 이뤄지는지 연구했지 (feat. 장범준)]]></title>
+        <id>https://alook.so/posts/Yytjn1</id>
+        <link href="https://alook.so/posts/Yytjn1"/>
+        <updated>2022-01-22T16:20:14.814Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytjn1">나는 사랑이 어떻게 이뤄지는지 연구했지 (feat. 장범준)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고등학생이 첫 주식 계좌를 만든 날..!!]]></title>
-        <id>https://alook.so/posts/LKte5O</id>
-        <link href="https://alook.so/posts/LKte5O"/>
-        <updated>2022-01-22T21:12:37.654Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKte5O">고등학생이 첫 주식 계좌를 만든 날..!!</a>]]></content>
+        <title type="html"><![CDATA[지속가능한 미래를 생각한 독일의 Pfand(공병환수)제도]]></title>
+        <id>https://alook.so/posts/zvtwaD</id>
+        <link href="https://alook.so/posts/zvtwaD"/>
+        <updated>2022-01-22T16:20:14.822Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtwaD">지속가능한 미래를 생각한 독일의 Pfand(공병환수)제도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🧭양자택일의 정치를 넘어]]></title>
-        <id>https://alook.so/posts/Yytjrl</id>
-        <link href="https://alook.so/posts/Yytjrl"/>
-        <updated>2022-01-22T16:20:14.833Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytjrl">🧭양자택일의 정치를 넘어</a>]]></content>
+        <title type="html"><![CDATA[[늦은 아침 생각] "Fail"의 진정한 뜻]]></title>
+        <id>https://alook.so/posts/54tlGB</id>
+        <link href="https://alook.so/posts/54tlGB"/>
+        <updated>2022-01-23T01:56:38.636Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tlGB">[늦은 아침 생각] "Fail"의 진정한 뜻</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경제적 자유를 꿈꾸며 - 전자책 해볼까?]]></title>
-        <id>https://alook.so/posts/XBt4wj</id>
-        <link href="https://alook.so/posts/XBt4wj"/>
-        <updated>2022-01-22T21:12:37.656Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt4wj">경제적 자유를 꿈꾸며 - 전자책 해볼까?</a>]]></content>
+        <title type="html"><![CDATA[거짓말 한마디로 무더기 감염발생]]></title>
+        <id>https://alook.so/posts/rDtXnW</id>
+        <link href="https://alook.so/posts/rDtXnW"/>
+        <updated>2022-01-23T01:56:38.639Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXnW">거짓말 한마디로 무더기 감염발생</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유튜브에서]]></title>
-        <id>https://alook.so/posts/w9tBq1</id>
-        <link href="https://alook.so/posts/w9tBq1"/>
-        <updated>2022-01-22T21:12:37.656Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tBq1">유튜브에서 </a>]]></content>
+        <title type="html"><![CDATA[퀴즈? 아니면 그냥 질문?]]></title>
+        <id>https://alook.so/posts/bWtZq7</id>
+        <link href="https://alook.so/posts/bWtZq7"/>
+        <updated>2022-01-22T16:20:14.823Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZq7">퀴즈? 아니면 그냥 질문?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오미크론 대유행을 앞두고 마음의 준비를 해야할 것들]]></title>
+        <id>https://alook.so/posts/yEtxvD</id>
+        <link href="https://alook.so/posts/yEtxvD"/>
+        <updated>2022-01-23T01:56:38.641Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxvD">오미크론 대유행을 앞두고 마음의 준비를 해야할 것들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이트폭력 범죄자 신상공개: 당신이 누군지 알고싶지 않아요]]></title>
+        <id>https://alook.so/posts/92tRLp</id>
+        <link href="https://alook.so/posts/92tRLp"/>
+        <updated>2022-01-23T01:56:38.641Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tRLp">데이트폭력 범죄자 신상공개: 당신이 누군지 알고싶지 않아요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다름을 틀림으로 인식하는 직장 상사.]]></title>
+        <id>https://alook.so/posts/Vnt4MW</id>
+        <link href="https://alook.so/posts/Vnt4MW"/>
+        <updated>2022-01-22T16:20:14.832Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt4MW">다름을 틀림으로 인식하는 직장 상사.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마음이 지쳤을때에 어떻게 해야하나]]></title>
+        <id>https://alook.so/posts/Yytj3Y</id>
+        <link href="https://alook.so/posts/Yytj3Y"/>
+        <updated>2022-01-23T00:48:30.694Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytj3Y">마음이 지쳤을때에 어떻게 해야하나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤔 꽉 끼는 청바지를 입었으면 성폭행이 아니라고? [형사소송 디깅]]]></title>
+        <id>https://alook.so/posts/OEtmmb</id>
+        <link href="https://alook.so/posts/OEtmmb"/>
+        <updated>2022-01-23T01:56:38.644Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtmmb">🤔 꽉 끼는 청바지를 입었으면 성폭행이 아니라고? [형사소송 디깅]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[죽으면 지겹도록 잘 잠인데 그런데 말입니다]]></title>
+        <id>https://alook.so/posts/eVtmar</id>
+        <link href="https://alook.so/posts/eVtmar"/>
+        <updated>2022-01-22T16:20:14.831Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtmar">죽으면 지겹도록 잘 잠인데 그런데 말입니다</a>]]></content>
     </entry>
 </feed>
