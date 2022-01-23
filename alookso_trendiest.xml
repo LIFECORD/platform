@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-23T04:19:07.629Z</updated>
+    <updated>2022-01-23T05:15:19.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리 알벗] 욕망을 탐구하는 삶]]></title>
+        <id>https://alook.so/posts/zvtwMv</id>
+        <link href="https://alook.so/posts/zvtwMv"/>
+        <updated>2022-01-23T05:14:02.743Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtwMv">[데일리 알벗] 욕망을 탐구하는 삶</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뒷담화하는 사람을 보면 드는 생각]]></title>
         <id>https://alook.so/posts/o7t743</id>
@@ -48,31 +55,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt48n">매슬로우의 욕구 이론을 통해 본 여성의 어젠다 형성 부재</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[계속 올라가는 배달비는 배달비 공개만 하면 되는것인가?]]></title>
-        <id>https://alook.so/posts/mbtzyM</id>
-        <link href="https://alook.so/posts/mbtzyM"/>
-        <updated>2022-01-23T03:16:04.359Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtzyM">계속 올라가는 배달비는 배달비 공개만 하면 되는것인가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀴즈? 아니면 그냥 질문?]]></title>
-        <id>https://alook.so/posts/bWtZq7</id>
-        <link href="https://alook.so/posts/bWtZq7"/>
-        <updated>2022-01-22T16:20:14.823Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZq7">퀴즈? 아니면 그냥 질문?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽으면 지겹도록 잘 잠인데 그런데 말입니다]]></title>
-        <id>https://alook.so/posts/eVtmar</id>
-        <link href="https://alook.so/posts/eVtmar"/>
-        <updated>2022-01-22T16:20:14.831Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtmar">죽으면 지겹도록 잘 잠인데 그런데 말입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다름을 틀림으로 인식하는 직장 상사.]]></title>
-        <id>https://alook.so/posts/Vnt4MW</id>
-        <link href="https://alook.so/posts/Vnt4MW"/>
-        <updated>2022-01-22T16:20:14.832Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt4MW">다름을 틀림으로 인식하는 직장 상사.</a>]]></content>
+        <title type="html"><![CDATA[잘 자는것도 축복입니다.]]></title>
+        <id>https://alook.so/posts/latxm4</id>
+        <link href="https://alook.so/posts/latxm4"/>
+        <updated>2022-01-23T05:14:02.788Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latxm4">잘 자는것도 축복입니다.</a>]]></content>
     </entry>
 </feed>
