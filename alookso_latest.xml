@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-24T00:49:07.444Z</updated>
+    <updated>2022-01-24T03:20:23.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[[Book-ing: 독서중] #2. 스틱! (칩 히스, 댄 히스)]]></title>
-        <id>https://alook.so/posts/1Rt341</id>
-        <link href="https://alook.so/posts/1Rt341"/>
-        <updated>2022-01-24T00:47:43.564Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt341">[Book-ing: 독서중] #2. 스틱! (칩 히스, 댄 히스)</a>]]></content>
+        <title type="html"><![CDATA[오늘 하루도 잘 보내고 계신가요?]]></title>
+        <id>https://alook.so/posts/o7t7p6</id>
+        <link href="https://alook.so/posts/o7t7p6"/>
+        <updated>2022-01-24T03:18:58.386Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t7p6">오늘 하루도 잘 보내고 계신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[식품과 관련된 연구 결과에 대한 신빙성]]></title>
-        <id>https://alook.so/posts/o7t7O6</id>
-        <link href="https://alook.so/posts/o7t7O6"/>
-        <updated>2022-01-24T00:47:43.566Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t7O6">식품과 관련된 연구 결과에 대한 신빙성</a>]]></content>
+        <title type="html"><![CDATA[답글: 캘리그라피 .손글씨!!!]]></title>
+        <id>https://alook.so/posts/YytjMx</id>
+        <link href="https://alook.so/posts/YytjMx"/>
+        <updated>2022-01-24T03:18:58.386Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytjMx">답글: 캘리그라피 .손글씨!!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 검사 조작한 간 큰 군인]]></title>
-        <id>https://alook.so/posts/70tVyd</id>
-        <link href="https://alook.so/posts/70tVyd"/>
-        <updated>2022-01-24T00:47:43.566Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tVyd">코로나 검사 조작한 간 큰 군인</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운동중독]]></title>
-        <id>https://alook.so/posts/E7t8Lj</id>
-        <link href="https://alook.so/posts/E7t8Lj"/>
-        <updated>2022-01-24T00:47:43.567Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t8Lj">운동중독</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월요일은 언제나 피곤해]]></title>
-        <id>https://alook.so/posts/latxKe</id>
-        <link href="https://alook.so/posts/latxKe"/>
-        <updated>2022-01-24T00:47:43.568Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latxKe">월요일은 언제나 피곤해</a>]]></content>
+        <title type="html"><![CDATA[답글:  "가능성"이 "확정"으로 되는 나쁜 보도의 예]]></title>
+        <id>https://alook.so/posts/bWtZ8Y</id>
+        <link href="https://alook.so/posts/bWtZ8Y"/>
+        <updated>2022-01-24T03:18:58.387Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZ8Y">답글:  "가능성"이 "확정"으로 되는 나쁜 보도의 예</a>]]></content>
     </entry>
 </feed>
