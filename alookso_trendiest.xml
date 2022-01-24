@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-24T14:16:39.659Z</updated>
+    <updated>2022-01-24T15:16:53.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt3Pm">커피 테이크아웃 보증금 300원..이러면 좀 나아지려나</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[행복을주는 좋은글 캘리그라피!!!]]></title>
+        <id>https://alook.so/posts/rDtXkV</id>
+        <link href="https://alook.so/posts/rDtXkV"/>
+        <updated>2022-01-24T15:15:33.607Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXkV">행복을주는 좋은글 캘리그라피!!!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[유권자는 아니지만 교육정책 정도는 알아야 할 것 같아서]]></title>
         <id>https://alook.so/posts/bWtZ6Y</id>
         <link href="https://alook.so/posts/bWtZ6Y"/>
@@ -81,12 +88,5 @@
         <link href="https://alook.so/posts/Vnt43L"/>
         <updated>2022-01-24T14:15:16.337Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt43L">답글: 캘리그라피 .손글씨!마음가짐!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤후보님, 애 보고 살림하면서 어떻게 일해요? (feat. 육아휴직)]]></title>
-        <id>https://alook.so/posts/yEtx2P</id>
-        <link href="https://alook.so/posts/yEtx2P"/>
-        <updated>2022-01-24T10:15:47.989Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtx2P">윤후보님, 애 보고 살림하면서 어떻게 일해요? (feat. 육아휴직)</a>]]></content>
     </entry>
 </feed>
