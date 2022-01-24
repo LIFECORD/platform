@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-24T04:21:34.136Z</updated>
+    <updated>2022-01-24T06:22:32.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[보통사람인 나의 경제관념]]></title>
+        <id>https://alook.so/posts/G1t1L2</id>
+        <link href="https://alook.so/posts/G1t1L2"/>
+        <updated>2022-01-24T06:21:07.980Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t1L2">보통사람인 나의 경제관념</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글:  "가능성"이 "확정"으로 되는 나쁜 보도의 예]]></title>
         <id>https://alook.so/posts/bWtZ8Y</id>
         <link href="https://alook.so/posts/bWtZ8Y"/>
         <updated>2022-01-24T04:20:07.592Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZ8Y">답글:  "가능성"이 "확정"으로 되는 나쁜 보도의 예</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 캘리그라피 .손글씨!!!]]></title>
+        <id>https://alook.so/posts/zvtwzj</id>
+        <link href="https://alook.so/posts/zvtwzj"/>
+        <updated>2022-01-24T06:21:07.982Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtwzj">답글: 캘리그라피 .손글씨!!!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가상자산, 얼마나 가지고 있나? [brf.]]]></title>
@@ -20,11 +34,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtM0X">가상자산, 얼마나 가지고 있나? [brf.] </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[캘리그라피 .손글씨!!!]]></title>
+        <title type="html"><![CDATA[캘리그라피 .손글씨!마음가짐!]]></title>
         <id>https://alook.so/posts/yEtxXP</id>
         <link href="https://alook.so/posts/yEtxXP"/>
         <updated>2022-01-24T04:20:07.595Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxXP">캘리그라피 .손글씨!!!</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxXP">캘리그라피 .손글씨!마음가짐!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이재명, 윤석열을 보면 ‘의혹’부터 떠올린다 [brf.]]]></title>
@@ -34,6 +48,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtzmn">이재명, 윤석열을 보면 ‘의혹’부터 떠올린다 [brf.]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[노동자가 이사회 들어간다, 전망과 우려는 [brf.]]]></title>
+        <id>https://alook.so/posts/E7t8LL</id>
+        <link href="https://alook.so/posts/E7t8LL"/>
+        <updated>2022-01-24T06:21:07.992Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t8LL">노동자가 이사회 들어간다, 전망과 우려는 [brf.]</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[B컷] 알고리즘의 국제 관계: 베이징 동계 올림픽]]></title>
         <id>https://alook.so/posts/q1tvej</id>
         <link href="https://alook.so/posts/q1tvej"/>
@@ -41,11 +62,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvej">[B컷] 알고리즘의 국제 관계: 베이징 동계 올림픽</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아침, 뭘 먹으면 좋을까?]]></title>
-        <id>https://alook.so/posts/YytjvZ</id>
-        <link href="https://alook.so/posts/YytjvZ"/>
-        <updated>2022-01-24T03:19:07.112Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytjvZ">아침, 뭘 먹으면 좋을까?</a>]]></content>
+        <title type="html"><![CDATA[기분도 전염이 되나요?]]></title>
+        <id>https://alook.so/posts/Djtz0Y</id>
+        <link href="https://alook.so/posts/Djtz0Y"/>
+        <updated>2022-01-24T06:21:07.994Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtz0Y">기분도 전염이 되나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삶에 있어서 실패란?]]></title>
@@ -102,19 +123,5 @@
         <link href="https://alook.so/posts/54tlv3"/>
         <updated>2022-01-24T03:19:07.124Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tlv3">현금 50만 원 Vs 백화점상품권 70만 원</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: "빈용기 보증금제도"가 있습니다]]></title>
-        <id>https://alook.so/posts/jdtmzM</id>
-        <link href="https://alook.so/posts/jdtmzM"/>
-        <updated>2022-01-23T11:12:31.317Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtmzM">답글: "빈용기 보증금제도"가 있습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["그렇게 안하면 안봐주자나요" - 짜증섞인 아침 4호선에서.]]></title>
-        <id>https://alook.so/posts/zvtwrM</id>
-        <link href="https://alook.so/posts/zvtwrM"/>
-        <updated>2022-01-23T14:13:21.216Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtwrM">"그렇게 안하면 안봐주자나요" - 짜증섞인 아침 4호선에서.</a>]]></content>
     </entry>
 </feed>

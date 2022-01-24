@@ -2,63 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-24T04:21:34.136Z</updated>
+    <updated>2022-01-24T06:22:32.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[나답게 산다는 것은]]></title>
-        <id>https://alook.so/posts/LKteXP</id>
-        <link href="https://alook.so/posts/LKteXP"/>
-        <updated>2022-01-24T04:19:58.492Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKteXP">나답게 산다는 것은</a>]]></content>
+        <title type="html"><![CDATA[유권자는 아니지만 교육정책 정도는 알아야 할 것 같아서]]></title>
+        <id>https://alook.so/posts/bWtZ6Y</id>
+        <link href="https://alook.so/posts/bWtZ6Y"/>
+        <updated>2022-01-24T06:20:59.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZ6Y">유권자는 아니지만 교육정책 정도는 알아야 할 것 같아서</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국 암호화폐 월급 실현 과연 좋은 것일까?]]></title>
-        <id>https://alook.so/posts/6Mt2Gk</id>
-        <link href="https://alook.so/posts/6Mt2Gk"/>
-        <updated>2022-01-24T04:19:58.494Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt2Gk">미국 암호화폐 월급 실현 과연 좋은 것일까?</a>]]></content>
+        <title type="html"><![CDATA[기억의 가치]]></title>
+        <id>https://alook.so/posts/a0tDpD</id>
+        <link href="https://alook.so/posts/a0tDpD"/>
+        <updated>2022-01-24T06:20:59.266Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tDpD">기억의 가치</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[빅톤 앨범]]></title>
-        <id>https://alook.so/posts/3wt3qV</id>
-        <link href="https://alook.so/posts/3wt3qV"/>
-        <updated>2022-01-24T04:19:58.496Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt3qV">빅톤 앨범</a>]]></content>
+        <title type="html"><![CDATA[가장 열정적이었던 때는 언제였나요?]]></title>
+        <id>https://alook.so/posts/dzt1jK</id>
+        <link href="https://alook.so/posts/dzt1jK"/>
+        <updated>2022-01-24T06:20:59.267Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt1jK">가장 열정적이었던 때는 언제였나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전재산을 잃은 한 남자]]></title>
-        <id>https://alook.so/posts/8WtJVR</id>
-        <link href="https://alook.so/posts/8WtJVR"/>
-        <updated>2022-01-24T04:19:58.498Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtJVR">전재산을 잃은 한 남자</a>]]></content>
+        <title type="html"><![CDATA[폴스타의 성공 가능성은?]]></title>
+        <id>https://alook.so/posts/potMEk</id>
+        <link href="https://alook.so/posts/potMEk"/>
+        <updated>2022-01-24T06:20:59.268Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potMEk">폴스타의 성공 가능성은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보통사람인 나의 경제관념]]></title>
-        <id>https://alook.so/posts/G1t1L2</id>
-        <link href="https://alook.so/posts/G1t1L2"/>
-        <updated>2022-01-24T04:19:58.499Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t1L2">보통사람인 나의 경제관념</a>]]></content>
+        <title type="html"><![CDATA[달팽이관 어딘가에 음들이 머무는 자리]]></title>
+        <id>https://alook.so/posts/eVtmLY</id>
+        <link href="https://alook.so/posts/eVtmLY"/>
+        <updated>2022-01-24T06:20:59.269Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtmLY">달팽이관 어딘가에 음들이 머무는 자리</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[작년과 올해는 소방관들이 정말 고생하시는게 보이네요.]]></title>
-        <id>https://alook.so/posts/OEtmdv</id>
-        <link href="https://alook.so/posts/OEtmdv"/>
-        <updated>2022-01-24T04:19:58.501Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtmdv">작년과 올해는 소방관들이 정말 고생하시는게 보이네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임영웅 씨 심폐소생술 정말 대단하네요..]]></title>
-        <id>https://alook.so/posts/E7t8ML</id>
-        <link href="https://alook.so/posts/E7t8ML"/>
-        <updated>2022-01-24T04:19:58.503Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t8ML">임영웅 씨 심폐소생술 정말 대단하네요..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국과 러시아..둘 사이에 무슨일이?]]></title>
-        <id>https://alook.so/posts/latxaE</id>
-        <link href="https://alook.so/posts/latxaE"/>
-        <updated>2022-01-24T04:19:58.505Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latxaE"> 미국과 러시아..둘 사이에 무슨일이?</a>]]></content>
+        <title type="html"><![CDATA[“한국에는 없었던 SF, 독창적이다”… 넷플릭스 ‘고요의 바다’]]></title>
+        <id>https://alook.so/posts/Pvtm6O</id>
+        <link href="https://alook.so/posts/Pvtm6O"/>
+        <updated>2022-01-24T06:20:59.271Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtm6O">“한국에는 없었던 SF, 독창적이다”… 넷플릭스 ‘고요의 바다’</a>]]></content>
     </entry>
 </feed>
