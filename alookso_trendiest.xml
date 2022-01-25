@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-25T00:55:25.067Z</updated>
+    <updated>2022-01-25T03:16:41.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA["기울어진 운동장?" 애초에 기운 땅에 지어진 언론지형]]></title>
+        <id>https://alook.so/posts/potM06</id>
+        <link href="https://alook.so/posts/potM06"/>
+        <updated>2022-01-25T03:15:25.714Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potM06">"기울어진 운동장?" 애초에 기운 땅에 지어진 언론지형</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재미있는 한 스타트업 관찰기]]></title>
+        <id>https://alook.so/posts/njtmO3</id>
+        <link href="https://alook.so/posts/njtmO3"/>
+        <updated>2022-01-25T03:15:25.715Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtmO3">재미있는 한 스타트업 관찰기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['비호감 대선' 알면서도 못 고치는 이유.]]></title>
         <id>https://alook.so/posts/Yytj75</id>
@@ -32,6 +46,13 @@
         <link href="https://alook.so/posts/vKt7J1"/>
         <updated>2022-01-25T00:54:07.030Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt7J1">"소확행"에 "심쿵"하겠어. 걱정이 되어서 말이야</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마음이 아프면 몸도 아프다]]></title>
+        <id>https://alook.so/posts/E7t8e7</id>
+        <link href="https://alook.so/posts/E7t8e7"/>
+        <updated>2022-01-25T03:15:25.722Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t8e7">마음이 아프면 몸도 아프다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022년 한국판 뉴딜, 2050 탄소중립에 대하여]]></title>
@@ -81,19 +102,5 @@
         <link href="https://alook.so/posts/yEtxoM"/>
         <updated>2022-01-24T23:15:12.370Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxoM">빨리 빨리 배송 ,`퀵 커머스’ 시장의 가속화 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노동시장 데이터로 본 한국경제 20년 [경제 디깅]]]></title>
-        <id>https://alook.so/posts/w9tBDr</id>
-        <link href="https://alook.so/posts/w9tBDr"/>
-        <updated>2022-01-24T12:22:33.332Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tBDr">노동시장 데이터로 본 한국경제 20년 [경제 디깅]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커피 테이크아웃 보증금 300원..이러면 좀 나아지려나]]></title>
-        <id>https://alook.so/posts/1Rt3Pm</id>
-        <link href="https://alook.so/posts/1Rt3Pm"/>
-        <updated>2022-01-24T23:15:12.373Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt3Pm">커피 테이크아웃 보증금 300원..이러면 좀 나아지려나</a>]]></content>
     </entry>
 </feed>
