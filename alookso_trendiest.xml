@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-25T16:22:32.514Z</updated>
+    <updated>2022-01-25T17:19:24.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://alook.so/posts/dzt1kw"/>
         <updated>2022-01-25T13:19:45.705Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt1kw">답글: 제조업 일자리 – 한국, 중국 감소하고, 미국, 독일 늘어나?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치매. 정상과 비정상 사이 그 어디쯤]]></title>
+        <id>https://alook.so/posts/eVtm1e</id>
+        <link href="https://alook.so/posts/eVtm1e"/>
+        <updated>2022-01-25T17:18:06.886Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtm1e">치매. 정상과 비정상 사이 그 어디쯤</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[은행 점포 폐쇄, 규제 필요한가? [brf.]]]></title>
@@ -81,12 +88,5 @@
         <link href="https://alook.so/posts/q1tvPk"/>
         <updated>2022-01-25T16:21:10.603Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvPk">친척의 투자 권유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한달동안 운동하면서 느낀 감정들]]></title>
-        <id>https://alook.so/posts/OEtmW4</id>
-        <link href="https://alook.so/posts/OEtmW4"/>
-        <updated>2022-01-25T06:18:10.426Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtmW4">한달동안 운동하면서 느낀 감정들</a>]]></content>
     </entry>
 </feed>
