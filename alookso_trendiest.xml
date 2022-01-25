@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-25T18:19:52.347Z</updated>
+    <updated>2022-01-25T20:16:28.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -97,18 +97,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtrpn">가상화폐, 세금 걷을까 말까 [정check]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[왜 언론은 더 이상 "오존층 구멍"에 대한 이야기를 하지 않는걸까?]]></title>
-        <id>https://alook.so/posts/yEtxYM</id>
-        <link href="https://alook.so/posts/yEtxYM"/>
-        <updated>2022-01-25T18:18:22.442Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxYM">왜 언론은 더 이상 "오존층 구멍"에 대한 이야기를 하지 않는걸까?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[유권자는 아니지만 교육정책 정도는 알아야 할 것 같아서]]></title>
         <id>https://alook.so/posts/bWtZ6Y</id>
         <link href="https://alook.so/posts/bWtZ6Y"/>
         <updated>2022-01-25T18:18:22.443Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZ6Y">유권자는 아니지만 교육정책 정도는 알아야 할 것 같아서</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 언론은 더 이상 "오존층 구멍"에 대한 이야기를 하지 않는걸까?]]></title>
+        <id>https://alook.so/posts/yEtxYM</id>
+        <link href="https://alook.so/posts/yEtxYM"/>
+        <updated>2022-01-25T18:18:22.442Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxYM">왜 언론은 더 이상 "오존층 구멍"에 대한 이야기를 하지 않는걸까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 캠프는 ‘노동 안전’에 반대한다? [brf.]]]></title>
