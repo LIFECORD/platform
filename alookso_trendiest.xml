@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-25T13:21:10.019Z</updated>
+    <updated>2022-01-25T14:15:25.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[몸건강이 먼저일까? 마음 건강이 먼저일까?]]></title>
+        <id>https://alook.so/posts/bWtZbr</id>
+        <link href="https://alook.so/posts/bWtZbr"/>
+        <updated>2022-01-25T14:14:04.418Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZbr">몸건강이 먼저일까? 마음 건강이 먼저일까?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 홈에서 제 글을 만났습니다]]></title>
         <id>https://alook.so/posts/q1tvwq</id>
@@ -55,6 +62,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZKX">기자에게 '개XX'라고 욕하다 걸린 대통령이 있다고? [brf.]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아무것도 하기 싫어졌다]]></title>
+        <id>https://alook.so/posts/6Mt2wG</id>
+        <link href="https://alook.so/posts/6Mt2wG"/>
+        <updated>2022-01-25T14:14:04.426Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt2wG">아무것도 하기 싫어졌다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[데일리 알벗] 행동하는 시민을 발견하다]]></title>
         <id>https://alook.so/posts/54tlZJ</id>
         <link href="https://alook.so/posts/54tlZJ"/>
@@ -69,13 +83,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvPk">친척의 투자 권유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6월부터 '일회용 컵' 보증금 300원..다른 매장에 반납 가능]]></title>
-        <id>https://alook.so/posts/zvtw9Z</id>
-        <link href="https://alook.so/posts/zvtw9Z"/>
-        <updated>2022-01-25T13:19:45.707Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtw9Z">6월부터 '일회용 컵' 보증금 300원..다른 매장에 반납 가능</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[한달동안 운동하면서 느낀 감정들]]></title>
         <id>https://alook.so/posts/OEtmW4</id>
         <link href="https://alook.so/posts/OEtmW4"/>
@@ -88,5 +95,12 @@
         <link href="https://alook.so/posts/70tV3V"/>
         <updated>2022-01-25T06:18:10.437Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tV3V">반려동물 동반 카페, 알고 보면 단속 대상? [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 캠프는 ‘노동 안전’에 반대한다? [brf.]]]></title>
+        <id>https://alook.so/posts/o7t78m</id>
+        <link href="https://alook.so/posts/o7t78m"/>
+        <updated>2022-01-25T14:14:04.465Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t78m">윤석열 캠프는 ‘노동 안전’에 반대한다? [brf.]</a>]]></content>
     </entry>
 </feed>
