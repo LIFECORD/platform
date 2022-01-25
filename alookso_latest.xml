@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-24T23:16:36.146Z</updated>
+    <updated>2022-01-25T00:55:25.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[내이름이 내삶을 말한다.4화]]></title>
-        <id>https://alook.so/posts/LKted5</id>
-        <link href="https://alook.so/posts/LKted5"/>
-        <updated>2022-01-24T23:15:02.810Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKted5">내이름이 내삶을 말한다.4화</a>]]></content>
+        <title type="html"><![CDATA[한국 K팝의 긍정적인 평가]]></title>
+        <id>https://alook.so/posts/Zkt1XR</id>
+        <link href="https://alook.so/posts/Zkt1XR"/>
+        <updated>2022-01-25T00:53:59.420Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt1XR">한국 K팝의 긍정적인 평가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재미있는 한 스타트업의 현실]]></title>
-        <id>https://alook.so/posts/njtmO3</id>
-        <link href="https://alook.so/posts/njtmO3"/>
-        <updated>2022-01-24T23:15:02.811Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtmO3">재미있는 한 스타트업의 현실</a>]]></content>
+        <title type="html"><![CDATA[가장 인정받고 싶은 부문]]></title>
+        <id>https://alook.so/posts/J5tm6L</id>
+        <link href="https://alook.so/posts/J5tm6L"/>
+        <updated>2022-01-25T00:53:59.422Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tm6L">가장 인정받고 싶은 부문</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쓰레기 불법 무단 투기]]></title>
-        <id>https://alook.so/posts/G1t1E1</id>
-        <link href="https://alook.so/posts/G1t1E1"/>
-        <updated>2022-01-24T23:15:02.812Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t1E1">쓰레기 불법 무단 투기</a>]]></content>
+        <title type="html"><![CDATA["기울어진 운동장?" 애초에 기운 땅에 지어진 언론지형]]></title>
+        <id>https://alook.so/posts/potM06</id>
+        <link href="https://alook.so/posts/potM06"/>
+        <updated>2022-01-25T00:53:59.423Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potM06">"기울어진 운동장?" 애초에 기운 땅에 지어진 언론지형</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가장 받고 싶은 상]]></title>
-        <id>https://alook.so/posts/OEtmaK</id>
-        <link href="https://alook.so/posts/OEtmaK"/>
-        <updated>2022-01-24T21:11:58.687Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtmaK">가장 받고 싶은 상 </a>]]></content>
+        <title type="html"><![CDATA[김연아를 잇는 차세대 남자 피겨 스케이팅 유망주 차준환 그의 마인드]]></title>
+        <id>https://alook.so/posts/Vnt4x8</id>
+        <link href="https://alook.so/posts/Vnt4x8"/>
+        <updated>2022-01-25T00:53:59.424Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt4x8">김연아를 잇는 차세대 남자 피겨 스케이팅 유망주 차준환 그의 마인드</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생리전중후군]]></title>
-        <id>https://alook.so/posts/vKt7dr</id>
-        <link href="https://alook.so/posts/vKt7dr"/>
-        <updated>2022-01-24T20:15:16.267Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt7dr">생리전중후군</a>]]></content>
+        <title type="html"><![CDATA[국보를 지키는 일은 국가가 해야하는 일]]></title>
+        <id>https://alook.so/posts/zvtwBP</id>
+        <link href="https://alook.so/posts/zvtwBP"/>
+        <updated>2022-01-25T00:53:59.425Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtwBP">국보를 지키는 일은 국가가 해야하는 일</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사상 첫 4대륙선수권 우승 차준환,베이징올림픽 ‘다크호스’예약]]></title>
+        <id>https://alook.so/posts/2xtKnW</id>
+        <link href="https://alook.so/posts/2xtKnW"/>
+        <updated>2022-01-25T00:53:59.426Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtKnW">사상 첫 4대륙선수권 우승 차준환,베이징올림픽 ‘다크호스’예약</a>]]></content>
     </entry>
 </feed>

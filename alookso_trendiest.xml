@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-24T23:16:36.166Z</updated>
+    <updated>2022-01-25T00:55:25.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA['비호감 대선' 알면서도 못 고치는 이유.]]></title>
+        <id>https://alook.so/posts/Yytj75</id>
+        <link href="https://alook.so/posts/Yytj75"/>
+        <updated>2022-01-25T00:54:06.993Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytj75">'비호감 대선' 알면서도 못 고치는 이유.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 언론은 더 이상 "오존층 구멍"에 대한 이야기를 하지 않는걸까?]]></title>
+        <id>https://alook.so/posts/yEtxYM</id>
+        <link href="https://alook.so/posts/yEtxYM"/>
+        <updated>2022-01-25T00:54:07.028Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxYM">왜 언론은 더 이상 "오존층 구멍"에 대한 이야기를 하지 않는걸까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄방학, 할까 말까?]]></title>
+        <id>https://alook.so/posts/3wt3wa</id>
+        <link href="https://alook.so/posts/3wt3wa"/>
+        <updated>2022-01-25T00:54:07.029Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt3wa">봄방학, 할까 말까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["소확행"에 "심쿵"하겠어. 걱정이 되어서 말이야]]></title>
+        <id>https://alook.so/posts/vKt7J1</id>
+        <link href="https://alook.so/posts/vKt7J1"/>
+        <updated>2022-01-25T00:54:07.030Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt7J1">"소확행"에 "심쿵"하겠어. 걱정이 되어서 말이야</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 한국판 뉴딜, 2050 탄소중립에 대하여]]></title>
+        <id>https://alook.so/posts/54tlLZ</id>
+        <link href="https://alook.so/posts/54tlLZ"/>
+        <updated>2022-01-25T00:54:07.032Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tlLZ">2022년 한국판 뉴딜, 2050 탄소중립에 대하여</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[떨어지는 청소년 문해력, 문제일까? [brf.]]]></title>
         <id>https://alook.so/posts/bWtZ9n</id>
@@ -60,33 +95,5 @@
         <link href="https://alook.so/posts/1Rt3Pm"/>
         <updated>2022-01-24T23:15:12.373Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt3Pm">커피 테이크아웃 보증금 300원..이러면 좀 나아지려나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행복을주는 좋은글 캘리그라피!!!]]></title>
-        <id>https://alook.so/posts/rDtXkV</id>
-        <link href="https://alook.so/posts/rDtXkV"/>
-        <updated>2022-01-24T23:15:12.383Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXkV">행복을주는 좋은글 캘리그라피!!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유권자는 아니지만 교육정책 정도는 알아야 할 것 같아서]]></title>
-        <id>https://alook.so/posts/bWtZ6Y</id>
-        <link href="https://alook.so/posts/bWtZ6Y"/>
-        <updated>2022-01-24T07:19:39.258Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZ6Y">유권자는 아니지만 교육정책 정도는 알아야 할 것 같아서</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기억의 가치]]></title>
-        <id>https://alook.so/posts/a0tDpD</id>
-        <link href="https://alook.so/posts/a0tDpD"/>
-        <updated>2022-01-24T23:15:12.385Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tDpD">기억의 가치</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 캘리그라피 .손글씨!마음가짐!]]></title>
-        <id>https://alook.so/posts/Vnt43L</id>
-        <link href="https://alook.so/posts/Vnt43L"/>
-        <updated>2022-01-24T23:15:12.386Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt43L">답글: 캘리그라피 .손글씨!마음가짐!</a>]]></content>
     </entry>
 </feed>
