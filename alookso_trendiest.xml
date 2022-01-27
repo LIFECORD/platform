@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-27T18:19:36.601Z</updated>
+    <updated>2022-01-27T19:13:12.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtbrr">다른 사람과 생각을 나눈다는 것만으로도 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대선후보 알아보기] 새로운물결 김동연 후보의 권력구조 대개혁 공약]]></title>
-        <id>https://alook.so/posts/jdt6nO</id>
-        <link href="https://alook.so/posts/jdt6nO"/>
-        <updated>2022-01-27T17:17:08.911Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt6nO">[대선후보 알아보기] 새로운물결 김동연 후보의 권력구조 대개혁 공약</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[23살, 언제나 거울 앞의 나를 바라보는 것은 어렵다.]]></title>
         <id>https://alook.so/posts/eVt0K1</id>
         <link href="https://alook.so/posts/eVt0K1"/>
         <updated>2022-01-27T15:14:52.503Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt0K1">23살, 언제나 거울 앞의 나를 바라보는 것은 어렵다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대선후보 알아보기] 새로운물결 김동연 후보의 권력구조 대개혁 공약]]></title>
+        <id>https://alook.so/posts/jdt6nO</id>
+        <link href="https://alook.so/posts/jdt6nO"/>
+        <updated>2022-01-27T17:17:08.911Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt6nO">[대선후보 알아보기] 새로운물결 김동연 후보의 권력구조 대개혁 공약</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재건축·재개발- 용적률 폭탄 돌리기가 아니라 그린뉴딜로]]></title>
