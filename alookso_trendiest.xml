@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-27T08:19:57.036Z</updated>
+    <updated>2022-01-27T09:16:18.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -97,17 +97,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt4Vx">서른 즈음에(1994) = 마흔다섯 즈음에(2022)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[타인에게 보여지는 나의 모습은 어떨까요??]]></title>
+        <id>https://alook.so/posts/3wtpGy</id>
+        <link href="https://alook.so/posts/3wtpGy"/>
+        <updated>2022-01-27T09:14:59.522Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtpGy">타인에게 보여지는 나의 모습은 어떨까요??</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[저, 정말 가기 싫어요]]></title>
         <id>https://alook.so/posts/vKtnaW</id>
         <link href="https://alook.so/posts/vKtnaW"/>
         <updated>2022-01-27T03:15:08.158Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtnaW">저, 정말 가기 싫어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남들보다 조금 일찍 일어나 보는 건 어떨까?]]></title>
-        <id>https://alook.so/posts/KmtlGD</id>
-        <link href="https://alook.so/posts/KmtlGD"/>
-        <updated>2022-01-27T03:15:08.159Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtlGD">남들보다 조금 일찍 일어나 보는 건 어떨까?</a>]]></content>
     </entry>
 </feed>
