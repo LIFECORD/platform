@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-27T13:21:45.595Z</updated>
+    <updated>2022-01-27T15:16:11.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[23살, 언제나 거울 앞의 나를 바라보는 것은 어렵다.]]></title>
-        <id>https://alook.so/posts/eVt0K1</id>
-        <link href="https://alook.so/posts/eVt0K1"/>
-        <updated>2022-01-27T13:20:17.993Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt0K1">23살, 언제나 거울 앞의 나를 바라보는 것은 어렵다.</a>]]></content>
+        <title type="html"><![CDATA[쓰레기  우리의 미래]]></title>
+        <id>https://alook.so/posts/Kmtlxe</id>
+        <link href="https://alook.so/posts/Kmtlxe"/>
+        <updated>2022-01-27T15:14:43.925Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtlxe">쓰레기  우리의 미래</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[늦었지만 이제야.. 코로나19 사망자]]></title>
-        <id>https://alook.so/posts/PvtvZ3</id>
-        <link href="https://alook.so/posts/PvtvZ3"/>
-        <updated>2022-01-27T13:20:17.994Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtvZ3">늦었지만 이제야.. 코로나19 사망자</a>]]></content>
+        <title type="html"><![CDATA[답글: 상업적 대리모, 허용해도 될까 [brf.]]]></title>
+        <id>https://alook.so/posts/mbtlYp</id>
+        <link href="https://alook.so/posts/mbtlYp"/>
+        <updated>2022-01-27T15:14:43.926Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtlYp">답글: 상업적 대리모, 허용해도 될까 [brf.]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[청년 고독사]]></title>
-        <id>https://alook.so/posts/zvtX4B</id>
-        <link href="https://alook.so/posts/zvtX4B"/>
-        <updated>2022-01-27T13:20:17.997Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtX4B">청년 고독사</a>]]></content>
+        <title type="html"><![CDATA[21세기]]></title>
+        <id>https://alook.so/posts/54tmX9</id>
+        <link href="https://alook.so/posts/54tmX9"/>
+        <updated>2022-01-27T15:14:43.927Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tmX9">21세기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세계 기후변화,이대로 괜찮나?]]></title>
-        <id>https://alook.so/posts/4Xtr90</id>
-        <link href="https://alook.so/posts/4Xtr90"/>
-        <updated>2022-01-27T12:24:01.362Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtr90">세계 기후변화,이대로 괜찮나?</a>]]></content>
+        <title type="html"><![CDATA[차별로 번진 공약]]></title>
+        <id>https://alook.so/posts/1RteZX</id>
+        <link href="https://alook.so/posts/1RteZX"/>
+        <updated>2022-01-27T15:14:43.929Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RteZX">차별로 번진 공약</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대한민국의 50년을 내다보는 시스템 개혁을 필요하다.]]></title>
-        <id>https://alook.so/posts/XBt1Vx</id>
-        <link href="https://alook.so/posts/XBt1Vx"/>
-        <updated>2022-01-27T12:24:01.363Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1Vx">대한민국의 50년을 내다보는 시스템 개혁을 필요하다.</a>]]></content>
+        <title type="html"><![CDATA[9시 이후의 삶.]]></title>
+        <id>https://alook.so/posts/70tOzG</id>
+        <link href="https://alook.so/posts/70tOzG"/>
+        <updated>2022-01-27T15:14:43.929Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tOzG">9시 이후의 삶.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴대폰에 눈을 맞추고 있는 사람들이 많아진 세상]]></title>
+        <id>https://alook.so/posts/rDt398</id>
+        <link href="https://alook.so/posts/rDt398"/>
+        <updated>2022-01-27T15:14:43.931Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt398">휴대폰에 눈을 맞추고 있는 사람들이 많아진 세상</a>]]></content>
     </entry>
 </feed>
