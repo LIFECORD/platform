@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-27T07:17:23.181Z</updated>
+    <updated>2022-01-27T08:19:57.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방역패스 무슨 의미가 있을까?]]></title>
+        <id>https://alook.so/posts/OEtzG2</id>
+        <link href="https://alook.so/posts/OEtzG2"/>
+        <updated>2022-01-27T08:18:40.990Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtzG2">방역패스 무슨 의미가 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국의 코로나 대응은 민주주의 원칙을 침해했는가?]]></title>
+        <id>https://alook.so/posts/1RteXX</id>
+        <link href="https://alook.so/posts/1RteXX"/>
+        <updated>2022-01-27T08:18:40.993Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RteXX">한국의 코로나 대응은 민주주의 원칙을 침해했는가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 후보의 화석발전 3분의 1 감축 공약을 실현하려면]]></title>
+        <id>https://alook.so/posts/70tO8G</id>
+        <link href="https://alook.so/posts/70tO8G"/>
+        <updated>2022-01-27T08:18:40.993Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tO8G">윤석열 후보의 화석발전 3분의 1 감축 공약을 실현하려면</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대선후보 알아보기] 새로운물결 김동연 후보의 권력구조 대개혁 공약]]></title>
         <id>https://alook.so/posts/jdt6nO</id>
@@ -18,6 +39,13 @@
         <link href="https://alook.so/posts/XBt1YE"/>
         <updated>2022-01-27T06:18:11.235Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1YE">네덜란드는 되고 한국은 안 되는 것...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소에서 낯선 향기가 난다!😅]]></title>
+        <id>https://alook.so/posts/8Wt3nn</id>
+        <link href="https://alook.so/posts/8Wt3nn"/>
+        <updated>2022-01-27T08:18:40.993Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt3nn"> 얼룩소에서 낯선 향기가 난다!😅</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[누가, 더/덜 받/내느냐보다 "시스템 개혁"을 질문할 때]]></title>
@@ -81,19 +109,5 @@
         <link href="https://alook.so/posts/KmtlGD"/>
         <updated>2022-01-27T03:15:08.159Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtlGD">남들보다 조금 일찍 일어나 보는 건 어떨까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작은 생활습관으로 돈버는 저만의 팁! 공유합니다]]></title>
-        <id>https://alook.so/posts/lateyj</id>
-        <link href="https://alook.so/posts/lateyj"/>
-        <updated>2022-01-27T03:15:08.159Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lateyj">작은 생활습관으로 돈버는 저만의 팁! 공유합니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(딴소리전문) 약속을 지킨 대통령이 있었나요?]]></title>
-        <id>https://alook.so/posts/2xtVRb</id>
-        <link href="https://alook.so/posts/2xtVRb"/>
-        <updated>2022-01-27T06:18:11.252Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtVRb">(딴소리전문) 약속을 지킨 대통령이 있었나요? </a>]]></content>
     </entry>
 </feed>
