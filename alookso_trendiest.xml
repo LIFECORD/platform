@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-28T15:16:52.105Z</updated>
+    <updated>2022-01-28T16:23:29.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뭔가 얼룩소만의 매력이 사라진 느낌이 듭니다.]]></title>
+        <id>https://alook.so/posts/YytWL0</id>
+        <link href="https://alook.so/posts/YytWL0"/>
+        <updated>2022-01-28T16:22:01.742Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytWL0">뭔가 얼룩소만의 매력이 사라진 느낌이 듭니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홀로 아이를 키우는 아빠는 출생신고를 할 수 없다]]></title>
         <id>https://alook.so/posts/M9tM2X</id>
@@ -109,19 +116,5 @@
         <link href="https://alook.so/posts/4Xtrl0"/>
         <updated>2022-01-28T15:15:35.485Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtrl0">좋은 기사 추천해주셔서 감사합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왜 엄마는 그런것도 못해?]]></title>
-        <id>https://alook.so/posts/XBt1ex</id>
-        <link href="https://alook.so/posts/XBt1ex"/>
-        <updated>2022-01-28T15:15:35.487Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1ex">왜 엄마는 그런것도 못해?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정경심 징역 4년 확정, 조국 사태는 끝난걸까 [brf.]]]></title>
-        <id>https://alook.so/posts/mbtlw4</id>
-        <link href="https://alook.so/posts/mbtlw4"/>
-        <updated>2022-01-28T15:15:35.489Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtlw4">정경심 징역 4년 확정, 조국 사태는 끝난걸까 [brf.]</a>]]></content>
     </entry>
 </feed>
