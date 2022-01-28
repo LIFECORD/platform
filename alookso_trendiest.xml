@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-28T16:23:29.572Z</updated>
+    <updated>2022-01-28T17:18:49.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtqrK">🧭매번 같은 문제, 매번 다른 목숨</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[주간 원라인] 위정유목(爲政猶沐)]]></title>
+        <id>https://alook.so/posts/Zktepx</id>
+        <link href="https://alook.so/posts/Zktepx"/>
+        <updated>2022-01-28T17:17:29.624Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktepx">[주간 원라인] 위정유목(爲政猶沐)</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[답글: 장애인들이 지하철 막아서는 이유는 [brf.]]]></title>
         <id>https://alook.so/posts/LKtlV6</id>
         <link href="https://alook.so/posts/LKtlV6"/>
@@ -53,6 +60,13 @@
         <link href="https://alook.so/posts/E7tbVx"/>
         <updated>2022-01-28T07:14:23.746Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tbVx">(늘 딴소리전문) 진짜 위기는 -</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저는 하고싶은 것이 없는데요]]></title>
+        <id>https://alook.so/posts/lateZM</id>
+        <link href="https://alook.so/posts/lateZM"/>
+        <updated>2022-01-28T17:17:29.982Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lateZM">저는 하고싶은 것이 없는데요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인구와 도시생산성의 상관관계 (도심접근성이 중요하다?) - centre for cities 보고서]]></title>
@@ -102,19 +116,5 @@
         <link href="https://alook.so/posts/Djtbrr"/>
         <updated>2022-01-27T13:20:26.524Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtbrr">다른 사람과 생각을 나눈다는 것만으로도 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 국가의 운영 능력 Vs. 심판의 집행]]></title>
-        <id>https://alook.so/posts/jdt6l5</id>
-        <link href="https://alook.so/posts/jdt6l5"/>
-        <updated>2022-01-28T15:15:35.484Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt6l5">답글: 국가의 운영 능력 Vs. 심판의 집행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은 기사 추천해주셔서 감사합니다.]]></title>
-        <id>https://alook.so/posts/4Xtrl0</id>
-        <link href="https://alook.so/posts/4Xtrl0"/>
-        <updated>2022-01-28T15:15:35.485Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtrl0">좋은 기사 추천해주셔서 감사합니다.</a>]]></content>
     </entry>
 </feed>
