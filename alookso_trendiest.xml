@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-28T20:16:29.650Z</updated>
+    <updated>2022-01-28T22:16:29.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tM2X">홀로 아이를 키우는 아빠는 출생신고를 할 수 없다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아직도 국제 결혼하면 농어촌 남성에게 돈 준다]]></title>
-        <id>https://alook.so/posts/0kt8rK</id>
-        <link href="https://alook.so/posts/0kt8rK"/>
-        <updated>2022-01-28T14:14:10.866Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt8rK">아직도 국제 결혼하면 농어촌 남성에게 돈 준다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘여경 무용론’, 누가 초래했나 [brf.]]]></title>
         <id>https://alook.so/posts/xltxW7</id>
         <link href="https://alook.so/posts/xltxW7"/>
         <updated>2022-01-28T19:11:59.466Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltxW7">‘여경 무용론’, 누가 초래했나 [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직도 국제 결혼하면 농어촌 남성에게 돈 준다]]></title>
+        <id>https://alook.so/posts/0kt8rK</id>
+        <link href="https://alook.so/posts/0kt8rK"/>
+        <updated>2022-01-28T14:14:10.866Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt8rK">아직도 국제 결혼하면 농어촌 남성에게 돈 준다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🧭매번 같은 문제, 매번 다른 목숨]]></title>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtqrK">🧭매번 같은 문제, 매번 다른 목숨</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[답글: 장애인들이 지하철 막아서는 이유는 [brf.]]]></title>
+        <id>https://alook.so/posts/LKtlV6</id>
+        <link href="https://alook.so/posts/LKtlV6"/>
+        <updated>2022-01-28T10:16:26.791Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtlV6">답글: 장애인들이 지하철 막아서는 이유는 [brf.]</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022년 민주 국가에서 ‘금서’가 웬말! [brf.]]]></title>
         <id>https://alook.so/posts/w9t36a</id>
         <link href="https://alook.so/posts/w9t36a"/>
@@ -48,11 +55,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t36a">2022년 민주 국가에서 ‘금서’가 웬말! [brf.]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 장애인들이 지하철 막아서는 이유는 [brf.]]]></title>
-        <id>https://alook.so/posts/LKtlV6</id>
-        <link href="https://alook.so/posts/LKtlV6"/>
-        <updated>2022-01-28T10:16:26.791Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtlV6">답글: 장애인들이 지하철 막아서는 이유는 [brf.]</a>]]></content>
+        <title type="html"><![CDATA[장애인들이 지하철에서 시위하는 이유는 [brf.]]]></title>
+        <id>https://alook.so/posts/ZkteJp</id>
+        <link href="https://alook.so/posts/ZkteJp"/>
+        <updated>2022-01-28T19:11:59.475Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZkteJp">장애인들이 지하철에서 시위하는 이유는 [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뭔가 얼룩소만의 매력이 사라진 느낌이 듭니다.]]></title>
@@ -74,13 +81,6 @@
         <link href="https://alook.so/posts/bWtY3v"/>
         <updated>2022-01-28T19:11:59.474Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtY3v">소리없이 다가온 인플레이션의 강력한 숙취</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장애인들이 지하철에서 시위하는 이유는 [brf.]]]></title>
-        <id>https://alook.so/posts/ZkteJp</id>
-        <link href="https://alook.so/posts/ZkteJp"/>
-        <updated>2022-01-28T19:11:59.475Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZkteJp">장애인들이 지하철에서 시위하는 이유는 [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(늘 딴소리전문) 진짜 위기는 -]]></title>
@@ -111,6 +111,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntbVD">재건축·재개발- 용적률 폭탄 돌리기가 아니라 그린뉴딜로 </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나는 잘하고 있다]]></title>
+        <id>https://alook.so/posts/vKtnqj</id>
+        <link href="https://alook.so/posts/vKtnqj"/>
+        <updated>2022-01-28T22:15:17.432Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtnqj">나는 잘하고 있다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[다른 사람과 생각을 나눈다는 것만으로도]]></title>
         <id>https://alook.so/posts/Djtbrr</id>
         <link href="https://alook.so/posts/Djtbrr"/>
@@ -130,13 +137,6 @@
         <link href="https://alook.so/posts/1RteXX"/>
         <updated>2022-01-28T19:11:59.484Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RteXX">한국의 코로나 대응은 민주주의 원칙을 침해했는가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미숙련 외국인 노동자는 무슨 죄인가 [brf.]]]></title>
-        <id>https://alook.so/posts/w9t38a</id>
-        <link href="https://alook.so/posts/w9t38a"/>
-        <updated>2022-01-28T19:11:59.484Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t38a">미숙련 외국인 노동자는 무슨 죄인가 [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저는 하고싶은 것이 없는데요]]></title>
