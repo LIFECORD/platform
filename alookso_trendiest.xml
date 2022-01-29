@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-29T14:14:15.402Z</updated>
+    <updated>2022-01-29T16:21:10.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alook.so/posts/G1txxZ"/>
         <updated>2022-01-29T14:13:00.773Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1txxZ">답글: 미성숙 언론의 미숙련 보도</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[헬스는 단순히 쇠질만하는 것이 아니다]]></title>
+        <id>https://alook.so/posts/q1txx6</id>
+        <link href="https://alook.so/posts/q1txx6"/>
+        <updated>2022-01-29T16:19:55.264Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1txx6">헬스는 단순히 쇠질만하는 것이 아니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[열심히 한다는데 왜 난 뒷북처럼 보일까]]></title>
@@ -34,11 +41,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tOOk">이럴땐 어떻게 하나요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[부모님 설 용돈은 얼마나 드려야할까?]]></title>
+        <id>https://alook.so/posts/2xtVK6</id>
+        <link href="https://alook.so/posts/2xtVK6"/>
+        <updated>2022-01-29T16:19:55.608Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtVK6">부모님 설 용돈은 얼마나 드려야할까?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[데일리 알벗] 독자경험(RX)을 고민하는 미디어]]></title>
         <id>https://alook.so/posts/xltxa9</id>
         <link href="https://alook.so/posts/xltxa9"/>
         <updated>2022-01-29T03:14:42.562Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltxa9">[데일리 알벗] 독자경험(RX)을 고민하는 미디어</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비교가 좋은가요, 나쁜가요?]]></title>
+        <id>https://alook.so/posts/KmtlrP</id>
+        <link href="https://alook.so/posts/KmtlrP"/>
+        <updated>2022-01-29T16:19:55.614Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtlrP">비교가 좋은가요, 나쁜가요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꿈을 꾸는 엄마로 산다는 것]]></title>
@@ -109,33 +130,5 @@
         <link href="https://alook.so/posts/Pvtv5b"/>
         <updated>2022-01-29T12:21:42.925Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtv5b">화산 폭발로 기름 범벅된 바다, 누가 책임져야 할까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[승리, 항소심에서 절반으로 감형됐다]]></title>
-        <id>https://alook.so/posts/pot59a</id>
-        <link href="https://alook.so/posts/pot59a"/>
-        <updated>2022-01-29T14:13:00.787Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot59a">승리, 항소심에서 절반으로 감형됐다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 왜 금수저에 열광하는가]]></title>
-        <id>https://alook.so/posts/kZt0Gy</id>
-        <link href="https://alook.so/posts/kZt0Gy"/>
-        <updated>2022-01-29T00:45:17.273Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt0Gy">우리는 왜 금수저에 열광하는가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧭매번 같은 문제, 매번 다른 목숨]]></title>
-        <id>https://alook.so/posts/yEtqrK</id>
-        <link href="https://alook.so/posts/yEtqrK"/>
-        <updated>2022-01-28T10:16:26.786Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtqrK">🧭매번 같은 문제, 매번 다른 목숨</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리 알벗] 지방과 로컬 사이에서]]></title>
-        <id>https://alook.so/posts/latePB</id>
-        <link href="https://alook.so/posts/latePB"/>
-        <updated>2022-01-29T14:13:00.790Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latePB">[데일리 알벗] 지방과 로컬 사이에서 </a>]]></content>
     </entry>
 </feed>
