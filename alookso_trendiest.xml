@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-29T10:16:07.771Z</updated>
+    <updated>2022-01-29T12:22:58.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alook.so/posts/Djtbbq"/>
         <updated>2022-01-29T10:14:52.036Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtbbq">홈카페 필수템, 커피 캡슐의 배신</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이럴땐 어떻게 하나요?]]></title>
+        <id>https://alook.so/posts/70tOOk</id>
+        <link href="https://alook.so/posts/70tOOk"/>
+        <updated>2022-01-29T12:21:42.912Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tOOk">이럴땐 어떻게 하나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[데일리 알벗] 독자경험(RX)을 고민하는 미디어]]></title>
@@ -76,6 +83,27 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt8rK">아직도 국제 결혼하면 농어촌 남성에게 돈 준다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[앞으로 전기차 제대로 못 팔면 기여금 '수십억' 물 수 있다]]></title>
+        <id>https://alook.so/posts/zvtXbW</id>
+        <link href="https://alook.so/posts/zvtXbW"/>
+        <updated>2022-01-29T12:21:42.924Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtXbW">앞으로 전기차 제대로 못 팔면 기여금 '수십억' 물 수 있다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화산 폭발로 기름 범벅된 바다, 누가 책임져야 할까]]></title>
+        <id>https://alook.so/posts/Pvtv5b</id>
+        <link href="https://alook.so/posts/Pvtv5b"/>
+        <updated>2022-01-29T12:21:42.925Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtv5b">화산 폭발로 기름 범벅된 바다, 누가 책임져야 할까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[승리, 항소심에서 절반으로 감형됐다]]></title>
+        <id>https://alook.so/posts/pot59a</id>
+        <link href="https://alook.so/posts/pot59a"/>
+        <updated>2022-01-29T12:21:42.926Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot59a">승리, 항소심에서 절반으로 감형됐다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우리는 왜 금수저에 열광하는가]]></title>
         <id>https://alook.so/posts/kZt0Gy</id>
         <link href="https://alook.so/posts/kZt0Gy"/>
@@ -109,26 +137,5 @@
         <link href="https://alook.so/posts/LKtlV6"/>
         <updated>2022-01-28T10:16:26.791Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtlV6">답글: 장애인들이 지하철 막아서는 이유는 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이들수록 친구 없어져]]></title>
-        <id>https://alook.so/posts/8Wt32o</id>
-        <link href="https://alook.so/posts/8Wt32o"/>
-        <updated>2022-01-29T09:15:02.879Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt32o">나이들수록 친구 없어져</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(늘 딴소리전문) 진짜 위기는 -]]></title>
-        <id>https://alook.so/posts/E7tbVx</id>
-        <link href="https://alook.so/posts/E7tbVx"/>
-        <updated>2022-01-29T09:15:02.880Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tbVx">(늘 딴소리전문) 진짜 위기는 -</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 하고싶은 것이 없는데요]]></title>
-        <id>https://alook.so/posts/lateZM</id>
-        <link href="https://alook.so/posts/lateZM"/>
-        <updated>2022-01-29T09:15:02.881Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lateZM">저는 하고싶은 것이 없는데요</a>]]></content>
     </entry>
 </feed>
