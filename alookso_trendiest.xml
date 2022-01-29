@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-29T01:53:11.011Z</updated>
+    <updated>2022-01-29T03:15:57.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리 알벗] 독자경험(RX)을 고민하는 미디어]]></title>
+        <id>https://alook.so/posts/xltxa9</id>
+        <link href="https://alook.so/posts/xltxa9"/>
+        <updated>2022-01-29T03:14:42.562Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltxa9">[데일리 알벗] 독자경험(RX)을 고민하는 미디어</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나는 잘하고 있다]]></title>
         <id>https://alook.so/posts/vKtnqj</id>
@@ -116,12 +123,5 @@
         <link href="https://alook.so/posts/kZt0VK"/>
         <updated>2022-01-28T02:32:37.211Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt0VK">댓글이 주는 위로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[육아 6년차 하지만 매일 어려운숙제]]></title>
-        <id>https://alook.so/posts/o7tGRD</id>
-        <link href="https://alook.so/posts/o7tGRD"/>
-        <updated>2022-01-29T01:51:51.336Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tGRD">육아 6년차 하지만 매일 어려운숙제</a>]]></content>
     </entry>
 </feed>
