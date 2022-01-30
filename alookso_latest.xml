@@ -2,63 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-30T05:14:19.104Z</updated>
+    <updated>2022-01-30T07:15:20.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[[데일리 알벗] 형식이 메시지다]]></title>
-        <id>https://alook.so/posts/eVt0n0</id>
-        <link href="https://alook.so/posts/eVt0n0"/>
-        <updated>2022-01-30T05:12:55.148Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt0n0">[데일리 알벗] 형식이 메시지다</a>]]></content>
+        <title type="html"><![CDATA[커피 끊기 실패로 돌아가다]]></title>
+        <id>https://alook.so/posts/ZkteL5</id>
+        <link href="https://alook.so/posts/ZkteL5"/>
+        <updated>2022-01-30T07:13:50.590Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZkteL5">커피 끊기 실패로 돌아가다 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대선 후보들의 공약]]></title>
-        <id>https://alook.so/posts/Vntbpa</id>
-        <link href="https://alook.so/posts/Vntbpa"/>
-        <updated>2022-01-30T05:12:55.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntbpa">대선 후보들의 공약</a>]]></content>
+        <title type="html"><![CDATA[정은경, 기모란, 이재갑, 정재훈을 지지하고 응원하고 항상 감사한다]]></title>
+        <id>https://alook.so/posts/dzt0WW</id>
+        <link href="https://alook.so/posts/dzt0WW"/>
+        <updated>2022-01-30T07:13:50.590Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt0WW">정은경, 기모란, 이재갑, 정재훈을 지지하고 응원하고 항상 감사한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[충남 예산 산란계 농장서 고병원성 AI 의심사례…72만마리 사육]]></title>
-        <id>https://alook.so/posts/zvtX3b</id>
-        <link href="https://alook.so/posts/zvtX3b"/>
-        <updated>2022-01-30T05:12:55.151Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtX3b">충남 예산 산란계 농장서 고병원성 AI 의심사례…72만마리 사육</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘지금 우리 학교는’ 터졌다! 공개 1일차 세계 1위]]></title>
-        <id>https://alook.so/posts/2xtVwO</id>
-        <link href="https://alook.so/posts/2xtVwO"/>
-        <updated>2022-01-30T04:18:33.135Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtVwO">‘지금 우리 학교는’ 터졌다! 공개 1일차 세계 1위</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라에서 원전폐지,맞을까?]]></title>
-        <id>https://alook.so/posts/WLt46W</id>
-        <link href="https://alook.so/posts/WLt46W"/>
-        <updated>2022-01-30T04:18:33.136Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt46W">우리나라에서 원전폐지,맞을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반려동물로 인한 화제 예방 어떻게 하시나요]]></title>
-        <id>https://alook.so/posts/M9tMaq</id>
-        <link href="https://alook.so/posts/M9tMaq"/>
-        <updated>2022-01-30T04:18:33.137Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tMaq">반려동물로 인한 화제 예방 어떻게 하시나요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[배달음식 많이 시켜 드시나요?]]></title>
-        <id>https://alook.so/posts/4XtrL9</id>
-        <link href="https://alook.so/posts/4XtrL9"/>
-        <updated>2022-01-30T04:18:33.139Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtrL9">배달음식 많이 시켜 드시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어려운 생활고 속에서도 후원 가정이 된 父子]]></title>
-        <id>https://alook.so/posts/XBt1we</id>
-        <link href="https://alook.so/posts/XBt1we"/>
-        <updated>2022-01-30T04:18:33.140Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1we">어려운 생활고 속에서도 후원 가정이 된 父子</a>]]></content>
+        <title type="html"><![CDATA[기억력이 좋으면 자기 성찰을 완벽하게 할수 있다고 생각합니까?]]></title>
+        <id>https://alook.so/posts/J5t4ZE</id>
+        <link href="https://alook.so/posts/J5t4ZE"/>
+        <updated>2022-01-30T07:13:50.591Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t4ZE">기억력이 좋으면 자기 성찰을 완벽하게 할수 있다고 생각합니까?</a>]]></content>
     </entry>
 </feed>
