@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-30T01:58:55.473Z</updated>
+    <updated>2022-01-30T03:16:27.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 꿈은 꾸고, 깨고, 그리고 또 꾸는 것 아닐까요?]]></title>
-        <id>https://alook.so/posts/G1txD7</id>
-        <link href="https://alook.so/posts/G1txD7"/>
-        <updated>2022-01-30T01:57:18.420Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1txD7">답글: 꿈은 꾸고, 깨고, 그리고 또 꾸는 것 아닐까요?</a>]]></content>
+        <title type="html"><![CDATA['여성'을 없애려는 후보자들]]></title>
+        <id>https://alook.so/posts/xltxlX</id>
+        <link href="https://alook.so/posts/xltxlX"/>
+        <updated>2022-01-30T03:15:00.945Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltxlX">'여성'을 없애려는 후보자들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[익명의 자유]]></title>
-        <id>https://alook.so/posts/OEtzBx</id>
-        <link href="https://alook.so/posts/OEtzBx"/>
-        <updated>2022-01-30T01:57:18.421Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtzBx">익명의 자유</a>]]></content>
+        <title type="html"><![CDATA[모든 얼룩소관계자분들… 얼룩커님들… 새해 복많이 받으세요.]]></title>
+        <id>https://alook.so/posts/RGt4b2</id>
+        <link href="https://alook.so/posts/RGt4b2"/>
+        <updated>2022-01-30T03:15:00.948Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt4b2">모든 얼룩소관계자분들… 얼룩커님들… 새해 복많이 받으세요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[올해부터 쓸데없는 것은 정리하기로 했다.]]></title>
-        <id>https://alook.so/posts/vKtnKe</id>
-        <link href="https://alook.so/posts/vKtnKe"/>
-        <updated>2022-01-30T01:57:18.422Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtnKe">올해부터 쓸데없는 것은 정리하기로 했다.</a>]]></content>
+        <title type="html"><![CDATA[부부끼리 돈관리 따로하는거ᆢ]]></title>
+        <id>https://alook.so/posts/yEtqOZ</id>
+        <link href="https://alook.so/posts/yEtqOZ"/>
+        <updated>2022-01-30T03:15:00.949Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtqOZ">부부끼리 돈관리 따로하는거ᆢ</a>]]></content>
     </entry>
 </feed>
