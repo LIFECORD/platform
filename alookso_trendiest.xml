@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-30T03:16:27.271Z</updated>
+    <updated>2022-01-30T04:20:05.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1txxZ">답글: 미성숙 언론의 미숙련 보도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[홈카페 필수템, 커피 캡슐의 배신]]></title>
-        <id>https://alook.so/posts/Djtbbq</id>
-        <link href="https://alook.so/posts/Djtbbq"/>
-        <updated>2022-01-29T10:14:52.036Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtbbq">홈카페 필수템, 커피 캡슐의 배신</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[열심히 한다는데 왜 난 뒷북처럼 보일까]]></title>
         <id>https://alook.so/posts/o7tGGE</id>
         <link href="https://alook.so/posts/o7tGGE"/>
         <updated>2022-01-29T14:13:00.774Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tGGE">열심히 한다는데 왜 난 뒷북처럼 보일까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홈카페 필수템, 커피 캡슐의 배신]]></title>
+        <id>https://alook.so/posts/Djtbbq</id>
+        <link href="https://alook.so/posts/Djtbbq"/>
+        <updated>2022-01-29T10:14:52.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtbbq">홈카페 필수템, 커피 캡슐의 배신</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[데일리 알벗] 독자경험(RX)을 고민하는 미디어]]></title>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltxa9">[데일리 알벗] 독자경험(RX)을 고민하는 미디어</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[무비 무브 #18] 우행록(愚行錄):  어리석은 자의 기록 (2016) 병폐적 사회와 우매한 인간의 이중창]]></title>
-        <id>https://alook.so/posts/kZt0eo</id>
-        <link href="https://alook.so/posts/kZt0eo"/>
-        <updated>2022-01-30T03:15:09.686Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt0eo">[무비 무브 #18] 우행록(愚行錄):  어리석은 자의 기록 (2016) 병폐적 사회와 우매한 인간의 이중창</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이럴땐 어떻게 하나요?]]></title>
         <id>https://alook.so/posts/70tOOk</id>
         <link href="https://alook.so/posts/70tOOk"/>
         <updated>2022-01-29T12:21:42.912Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tOOk">이럴땐 어떻게 하나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무비 무브 #18] 우행록(愚行錄):  어리석은 자의 기록 (2016) 병폐적 사회와 우매한 인간의 이중창]]></title>
+        <id>https://alook.so/posts/kZt0eo</id>
+        <link href="https://alook.so/posts/kZt0eo"/>
+        <updated>2022-01-30T03:15:09.686Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt0eo">[무비 무브 #18] 우행록(愚行錄):  어리석은 자의 기록 (2016) 병폐적 사회와 우매한 인간의 이중창</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[헬스는 단순히 쇠질만하는 것이 아니다]]></title>
@@ -118,17 +118,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtqrK">🧭매번 같은 문제, 매번 다른 목숨</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2022년 민주 국가에서 ‘금서’가 웬말! [brf.]]]></title>
+        <id>https://alook.so/posts/w9t36a</id>
+        <link href="https://alook.so/posts/w9t36a"/>
+        <updated>2022-01-30T04:18:41.833Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t36a">2022년 민주 국가에서 ‘금서’가 웬말! [brf.]</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[국민연금과 호봉제, 그리고 노동시장 문제]]></title>
         <id>https://alook.so/posts/rDt3Oq</id>
         <link href="https://alook.so/posts/rDt3Oq"/>
         <updated>2022-01-30T03:15:09.695Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt3Oq">국민연금과 호봉제, 그리고 노동시장 문제</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직도 국제 결혼하면 농어촌 남성에게 돈 준다]]></title>
-        <id>https://alook.so/posts/0kt8rK</id>
-        <link href="https://alook.so/posts/0kt8rK"/>
-        <updated>2022-01-28T14:14:10.866Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt8rK">아직도 국제 결혼하면 농어촌 남성에게 돈 준다</a>]]></content>
     </entry>
 </feed>
