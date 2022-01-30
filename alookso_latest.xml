@@ -2,28 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-30T07:15:20.379Z</updated>
+    <updated>2022-01-30T11:13:10.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[커피 끊기 실패로 돌아가다]]></title>
-        <id>https://alook.so/posts/ZkteL5</id>
-        <link href="https://alook.so/posts/ZkteL5"/>
-        <updated>2022-01-30T07:13:50.590Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZkteL5">커피 끊기 실패로 돌아가다 </a>]]></content>
+        <title type="html"><![CDATA[다들 연휴는 잘보내고 계신가요?]]></title>
+        <id>https://alook.so/posts/2xtVvO</id>
+        <link href="https://alook.so/posts/2xtVvO"/>
+        <updated>2022-01-30T11:11:42.413Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtVvO">다들 연휴는 잘보내고 계신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정은경, 기모란, 이재갑, 정재훈을 지지하고 응원하고 항상 감사한다]]></title>
-        <id>https://alook.so/posts/dzt0WW</id>
-        <link href="https://alook.so/posts/dzt0WW"/>
-        <updated>2022-01-30T07:13:50.590Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt0WW">정은경, 기모란, 이재갑, 정재훈을 지지하고 응원하고 항상 감사한다</a>]]></content>
+        <title type="html"><![CDATA[나를 사랑하자]]></title>
+        <id>https://alook.so/posts/WLt4EW</id>
+        <link href="https://alook.so/posts/WLt4EW"/>
+        <updated>2022-01-30T11:11:42.414Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt4EW">나를 사랑하자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기억력이 좋으면 자기 성찰을 완벽하게 할수 있다고 생각합니까?]]></title>
-        <id>https://alook.so/posts/J5t4ZE</id>
-        <link href="https://alook.so/posts/J5t4ZE"/>
-        <updated>2022-01-30T07:13:50.591Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t4ZE">기억력이 좋으면 자기 성찰을 완벽하게 할수 있다고 생각합니까?</a>]]></content>
+        <title type="html"><![CDATA[현재 재택근무를 하십니까? 아님 출퇴근 하시나요?]]></title>
+        <id>https://alook.so/posts/0kt8Rl</id>
+        <link href="https://alook.so/posts/0kt8Rl"/>
+        <updated>2022-01-30T11:11:42.415Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt8Rl">현재 재택근무를 하십니까? 아님 출퇴근 하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중독 발생의 이유와 해결법]]></title>
+        <id>https://alook.so/posts/XBt1ze</id>
+        <link href="https://alook.so/posts/XBt1ze"/>
+        <updated>2022-01-30T11:11:42.415Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1ze">중독 발생의 이유와 해결법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중독은 가까이에 있다(담배)]]></title>
+        <id>https://alook.so/posts/RGt4v2</id>
+        <link href="https://alook.so/posts/RGt4v2"/>
+        <updated>2022-01-30T11:11:42.416Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt4v2">중독은 가까이에 있다(담배)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무엇으로 경제적 자유를 얻을수 있을까...]]></title>
+        <id>https://alook.so/posts/kZt0XO</id>
+        <link href="https://alook.so/posts/kZt0XO"/>
+        <updated>2022-01-30T11:11:42.417Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt0XO">무엇으로 경제적 자유를 얻을수 있을까...</a>]]></content>
     </entry>
 </feed>
