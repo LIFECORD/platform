@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-31T07:16:36.935Z</updated>
+    <updated>2022-01-31T13:19:21.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[요양병원이 요양을 위한 공간이 되기를]]></title>
+        <id>https://alook.so/posts/8Wt3mz</id>
+        <link href="https://alook.so/posts/8Wt3mz"/>
+        <updated>2022-01-31T13:18:06.482Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt3mz">요양병원이 요양을 위한 공간이 되기를</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[짝퉁을 입으면 짝퉁인생일까]]></title>
+        <id>https://alook.so/posts/OEtz7G</id>
+        <link href="https://alook.so/posts/OEtz7G"/>
+        <updated>2022-01-31T13:18:06.482Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtz7G">짝퉁을 입으면 짝퉁인생일까</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[늦은 아침 생각] 천사의 말을 하는 사람도 소용없습니다. OO없으면...]]></title>
         <id>https://alook.so/posts/zvtXxr</id>
@@ -102,19 +116,5 @@
         <link href="https://alook.so/posts/OEtzBx"/>
         <updated>2022-01-31T07:15:23.490Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtzBx">익명의 자유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 미성숙 언론의 미숙련 보도]]></title>
-        <id>https://alook.so/posts/G1txxZ</id>
-        <link href="https://alook.so/posts/G1txxZ"/>
-        <updated>2022-01-29T14:13:00.773Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1txxZ">답글: 미성숙 언론의 미숙련 보도</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬스는 단순히 쇠질만하는 것이 아니다]]></title>
-        <id>https://alook.so/posts/q1txx6</id>
-        <link href="https://alook.so/posts/q1txx6"/>
-        <updated>2022-01-31T07:15:23.492Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1txx6">헬스는 단순히 쇠질만하는 것이 아니다</a>]]></content>
     </entry>
 </feed>
