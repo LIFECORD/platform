@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-30T23:16:13.531Z</updated>
+    <updated>2022-01-31T00:49:20.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1txD7">답글: 꿈은 꾸고, 깨고, 그리고 또 꾸는 것 아닐까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[데일리 알벗] 형식이 메시지다]]></title>
-        <id>https://alook.so/posts/eVt0n0</id>
-        <link href="https://alook.so/posts/eVt0n0"/>
-        <updated>2022-01-30T15:13:58.549Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt0n0">[데일리 알벗] 형식이 메시지다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[설날입니다:)]]></title>
         <id>https://alook.so/posts/VntbPa</id>
         <link href="https://alook.so/posts/VntbPa"/>
         <updated>2022-01-30T15:13:58.548Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntbPa">설날입니다:)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데일리 알벗] 형식이 메시지다]]></title>
+        <id>https://alook.so/posts/eVt0n0</id>
+        <link href="https://alook.so/posts/eVt0n0"/>
+        <updated>2022-01-30T15:13:58.549Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt0n0">[데일리 알벗] 형식이 메시지다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 미성숙 언론의 미숙련 보도]]></title>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtbbq">홈카페 필수템, 커피 캡슐의 배신</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[편리함과 환경의 등가교환]]></title>
-        <id>https://alook.so/posts/1RteoW</id>
-        <link href="https://alook.so/posts/1RteoW"/>
-        <updated>2022-01-30T17:16:31.466Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RteoW">편리함과 환경의 등가교환</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[우크라이나 사태의 또 다른 시선 - 신유라시아주의와 한반도]]></title>
         <id>https://alook.so/posts/eVt0dO</id>
         <link href="https://alook.so/posts/eVt0dO"/>
         <updated>2022-01-30T15:13:58.551Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt0dO">우크라이나 사태의 또 다른 시선 - 신유라시아주의와 한반도</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[편리함과 환경의 등가교환]]></title>
+        <id>https://alook.so/posts/1RteoW</id>
+        <link href="https://alook.so/posts/1RteoW"/>
+        <updated>2022-01-30T17:16:31.466Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RteoW">편리함과 환경의 등가교환</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[데일리 알벗] 독자경험(RX)을 고민하는 미디어]]></title>
