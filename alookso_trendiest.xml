@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-02T11:14:59.844Z</updated>
+    <updated>2022-02-02T12:25:00.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: "으뜸"에 "버금 가는" 2등, 괜찮아]]></title>
+        <id>https://alook.so/posts/J5t43D</id>
+        <link href="https://alook.so/posts/J5t43D"/>
+        <updated>2022-02-02T12:23:37.306Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t43D">답글: "으뜸"에 "버금 가는" 2등, 괜찮아</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상남 2인조의 추억..  그리고 K웹툰의 가능성]]></title>
+        <id>https://alook.so/posts/VntboM</id>
+        <link href="https://alook.so/posts/VntboM"/>
+        <updated>2022-02-02T12:23:37.308Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntboM">상남 2인조의 추억..  그리고 K웹툰의 가능성</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[22년 2월에는 제2회 한국수어의 날이 있어요.]]></title>
         <id>https://alook.so/posts/Bat94G</id>
@@ -76,6 +90,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtlnv">새벽시간</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[카페 1회용컵 보증금 뉴스를 보고 든 생각?]]></title>
+        <id>https://alook.so/posts/DjtbXw</id>
+        <link href="https://alook.so/posts/DjtbXw"/>
+        <updated>2022-02-02T12:23:37.332Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtbXw">카페 1회용컵 보증금 뉴스를 보고 든 생각?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[사각지대(관심이나 영향이 미치지 못 하는 곳)]]></title>
         <id>https://alook.so/posts/70tOXW</id>
         <link href="https://alook.so/posts/70tOXW"/>
@@ -116,12 +137,5 @@
         <link href="https://alook.so/posts/E7tbBM"/>
         <updated>2022-02-01T13:18:06.097Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tbBM">답글: 나이스, 아디도스, 파마, 아놀드 파라솔의 추억</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산에는 이태원 대신 깡통시장이 있습니다]]></title>
-        <id>https://alook.so/posts/1Rtepq</id>
-        <link href="https://alook.so/posts/1Rtepq"/>
-        <updated>2022-02-02T08:17:32.085Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtepq">부산에는 이태원 대신 깡통시장이 있습니다</a>]]></content>
     </entry>
 </feed>
