@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-02T16:23:06.628Z</updated>
+    <updated>2022-02-02T17:18:26.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -62,18 +62,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92toOv">콩콩의 뿌리를 찾아서</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022 카타르 월드컵]]></title>
-        <id>https://alook.so/posts/o7tGvP</id>
-        <link href="https://alook.so/posts/o7tGvP"/>
-        <updated>2022-02-02T15:15:57.392Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tGvP">2022 카타르 월드컵</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[상남 2인조의 추억..  그리고 K웹툰의 가능성]]></title>
         <id>https://alook.so/posts/VntboM</id>
         <link href="https://alook.so/posts/VntboM"/>
         <updated>2022-02-02T12:23:37.308Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntboM">상남 2인조의 추억..  그리고 K웹툰의 가능성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 카타르 월드컵]]></title>
+        <id>https://alook.so/posts/o7tGvP</id>
+        <link href="https://alook.so/posts/o7tGvP"/>
+        <updated>2022-02-02T15:15:57.392Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tGvP">2022 카타르 월드컵</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 신규 확진자 수 2만명대 최초 진입 기사가 2월 2일에..!]]></title>
@@ -118,17 +118,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1r3">"정의구현 드라마"가 필요해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사각지대(관심이나 영향이 미치지 못 하는 곳)]]></title>
-        <id>https://alook.so/posts/70tOXW</id>
-        <link href="https://alook.so/posts/70tOXW"/>
-        <updated>2022-02-02T08:17:32.079Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tOXW">사각지대(관심이나 영향이 미치지 못 하는 곳)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[진짜 충격적인 일은]]></title>
         <id>https://alook.so/posts/Vntb19</id>
         <link href="https://alook.so/posts/Vntb19"/>
         <updated>2022-02-02T14:13:52.092Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntb19">진짜 충격적인 일은 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사각지대(관심이나 영향이 미치지 못 하는 곳)]]></title>
+        <id>https://alook.so/posts/70tOXW</id>
+        <link href="https://alook.so/posts/70tOXW"/>
+        <updated>2022-02-02T08:17:32.079Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tOXW">사각지대(관심이나 영향이 미치지 못 하는 곳)</a>]]></content>
     </entry>
 </feed>
