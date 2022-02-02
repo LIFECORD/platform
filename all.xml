@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-02T20:17:01.613Z</updated>
+    <updated>2022-02-02T21:15:45.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[양육비 안 주는 아빠들과 싸우는 법 (닷페이스 ─ 아티클)]]></title>
@@ -1874,6 +1874,20 @@
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">보고 듣고 읽고 씁니다</div></button>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가상화폐, 블록체인이 환경을 파괴하고 있다? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/rDt3Lp</id>
+        <link href="https://alook.so/posts/rDt3Lp"/>
+        <updated>2022-02-02T21:14:17.982Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt3Lp">가상화폐, 블록체인이 환경을 파괴하고 있다?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2월 2일, 크레페 먹는 날 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/E7tbL9</id>
+        <link href="https://alook.so/posts/E7tbL9"/>
+        <updated>2022-02-02T21:14:17.983Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tbL9">2월 2일, 크레페 먹는 날</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오종혁 어머니 교도소 봉사활동 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/lateKq</id>
         <link href="https://alook.so/posts/lateKq"/>
@@ -1907,20 +1921,6 @@
         <link href="https://alook.so/posts/q1txJP"/>
         <updated>2022-02-02T19:12:25.137Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1txJP">마음을 따뜻하게 해주는 간식 (French toast)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸과 마음......우린 단짝 이지(2) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/o7tGJP</id>
-        <link href="https://alook.so/posts/o7tGJP"/>
-        <updated>2022-02-02T18:17:32.254Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tGJP">몸과 마음......우린 단짝 이지(2)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외모지상주의 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/70tO7E</id>
-        <link href="https://alook.so/posts/70tO7E"/>
-        <updated>2022-02-02T18:17:32.255Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tO7E">외모지상주의</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뜨개질] 2의 이야기를 모아모아 주세요! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
