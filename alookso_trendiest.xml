@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-04T04:16:56.588Z</updated>
+    <updated>2022-02-04T07:14:00.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[무식해도 진실한 나의 포인트.]]></title>
+        <id>https://alook.so/posts/potdWp</id>
+        <link href="https://alook.so/posts/potdWp"/>
+        <updated>2022-02-04T07:12:46.904Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potdWp">무식해도 진실한 나의 포인트.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: alookso가 포인트, 재미가 있네요.]]></title>
+        <id>https://alook.so/posts/rDtnve</id>
+        <link href="https://alook.so/posts/rDtnve"/>
+        <updated>2022-02-04T07:12:46.905Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtnve">답글: alookso가 포인트, 재미가 있네요.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[토론 관람평] 애매 모호한 4인 4색]]></title>
         <id>https://alook.so/posts/OEt2la</id>
@@ -20,6 +34,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtz0x">🧭월급도, 주식도 안 오르고 이자만 오른다고?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[요즘 군대, 코로나19가 새로운 휴가 제도를 만들다.]]></title>
+        <id>https://alook.so/posts/M9tKxG</id>
+        <link href="https://alook.so/posts/M9tKxG"/>
+        <updated>2022-02-04T07:12:46.908Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tKxG">요즘 군대, 코로나19가 새로운 휴가 제도를 만들다.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[얼룩소] 포인트를 받았어요!]]></title>
         <id>https://alook.so/posts/54tmom</id>
         <link href="https://alook.so/posts/54tmom"/>
@@ -32,26 +53,5 @@
         <link href="https://alook.so/posts/q1txyv"/>
         <updated>2022-02-04T00:50:32.214Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1txyv">alookso에 기여한 지난 2개월간 기록</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 포인트 소소하지만 저도 들어왔습니다~^^]]></title>
-        <id>https://alook.so/posts/mbtlrO</id>
-        <link href="https://alook.so/posts/mbtlrO"/>
-        <updated>2022-02-04T04:15:40.234Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtlrO">얼룩소 포인트 소소하지만 저도 들어왔습니다~^^</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생각이 많은 날, 글 쓰고 싶어요]]></title>
-        <id>https://alook.so/posts/njtvxm</id>
-        <link href="https://alook.so/posts/njtvxm"/>
-        <updated>2022-02-04T04:15:40.234Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtvxm">생각이 많은 날, 글 쓰고 싶어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보상의 기준을 구체적으로 밝히지 않는건 굉장히 옳은 운영 같습니다.]]></title>
-        <id>https://alook.so/posts/q1txVl</id>
-        <link href="https://alook.so/posts/q1txVl"/>
-        <updated>2022-02-03T15:15:18.213Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1txVl">보상의 기준을 구체적으로 밝히지 않는건 굉장히 옳은 운영 같습니다.</a>]]></content>
     </entry>
 </feed>
