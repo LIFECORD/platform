@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-05T20:15:14.302Z</updated>
+    <updated>2022-02-05T21:12:24.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktzpB">긴 명절이 끝나고, 다시 일상으로 복귀.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하고 후회vs안 하고 후회]]></title>
-        <id>https://alook.so/posts/w9tOOX</id>
-        <link href="https://alook.so/posts/w9tOOX"/>
-        <updated>2022-02-05T16:16:47.437Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tOOX">하고 후회vs안 하고 후회</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[윤석열의 말은 왜 항상 숨겨진 맥락과 취지를 애써 읽어내야 하는걸까?]]></title>
         <id>https://alook.so/posts/potdMX</id>
         <link href="https://alook.so/posts/potdMX"/>
         <updated>2022-02-05T13:12:45.569Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potdMX">윤석열의 말은 왜 항상 숨겨진 맥락과 취지를 애써 읽어내야 하는걸까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하고 후회vs안 하고 후회]]></title>
+        <id>https://alook.so/posts/w9tOOX</id>
+        <link href="https://alook.so/posts/w9tOOX"/>
+        <updated>2022-02-05T16:16:47.437Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tOOX">하고 후회vs안 하고 후회</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[금주에 대한 짧은 소고 (1) - '이 정도는 괜찮아' 같은 것은 없다.]]></title>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt22V">&lt;미나리&gt;를 본 후 쓰는 이민 소설 이야기</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나를 위한 작은 사치, 어디까지 해보셨나요?]]></title>
+        <id>https://alook.so/posts/4XtdXW</id>
+        <link href="https://alook.so/posts/4XtdXW"/>
+        <updated>2022-02-05T14:13:09.387Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtdXW">나를 위한 작은 사치, 어디까지 해보셨나요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[창업에 대해서 어떻게 생각하세요?]]></title>
         <id>https://alook.so/posts/Zktzn2</id>
         <link href="https://alook.so/posts/Zktzn2"/>
@@ -76,18 +83,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtZOb">📄작년 11월에 사직서를 내고~📄</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나를 위한 작은 사치, 어디까지 해보셨나요?]]></title>
-        <id>https://alook.so/posts/4XtdXW</id>
-        <link href="https://alook.so/posts/4XtdXW"/>
-        <updated>2022-02-05T14:13:09.387Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtdXW">나를 위한 작은 사치, 어디까지 해보셨나요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2차 구독 대정리 및 건의사항 및 잡설...]]></title>
         <id>https://alook.so/posts/yEtdm4</id>
         <link href="https://alook.so/posts/yEtdm4"/>
         <updated>2022-02-05T20:13:56.843Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtdm4">2차 구독 대정리 및 건의사항 및 잡설...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[악플이 사람 잡는다]]></title>
+        <id>https://alook.so/posts/q1t67Y</id>
+        <link href="https://alook.so/posts/q1t67Y"/>
+        <updated>2022-02-05T20:13:56.849Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t67Y">악플이 사람 잡는다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대선 토론에 목말랐던 유권자들... 시청률 39.2% ‘역대급’ [brf.]]]></title>
@@ -109,13 +116,6 @@
         <link href="https://alook.so/posts/WLtB7r"/>
         <updated>2022-02-05T20:13:56.847Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtB7r">타노스가 손가락을 퉁겨서 60세 이상 여성만 데려간다면 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악플이 사람 잡는다]]></title>
-        <id>https://alook.so/posts/q1t67Y</id>
-        <link href="https://alook.so/posts/q1t67Y"/>
-        <updated>2022-02-05T20:13:56.849Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t67Y">악플이 사람 잡는다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[판단이 잘 되지 않는 문제라면 전문가 집단의 행동을 살펴보면 항상 답이 나옵니다.]]></title>
