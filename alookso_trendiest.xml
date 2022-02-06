@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-06T17:17:04.399Z</updated>
+    <updated>2022-02-06T18:17:43.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtX4P">여러분은 어떤 꿈을 가지고 사시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엑셀로드의 게임과 팃포탯 전략 - 크고 길게 보면 협력은 선택이 아닌 순리]]></title>
-        <id>https://alook.so/posts/70t6qP</id>
-        <link href="https://alook.so/posts/70t6qP"/>
-        <updated>2022-02-06T14:14:51.430Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t6qP">엑셀로드의 게임과 팃포탯 전략 - 크고 길게 보면 협력은 선택이 아닌 순리</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[배움에는 나이가 없다.(박말례 할머니의 동기부여)]]></title>
         <id>https://alook.so/posts/3wtMje</id>
         <link href="https://alook.so/posts/3wtMje"/>
         <updated>2022-02-06T15:15:18.727Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtMje">배움에는 나이가 없다.(박말례 할머니의 동기부여)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엑셀로드의 게임과 팃포탯 전략 - 크고 길게 보면 협력은 선택이 아닌 순리]]></title>
+        <id>https://alook.so/posts/70t6qP</id>
+        <link href="https://alook.so/posts/70t6qP"/>
+        <updated>2022-02-06T14:14:51.430Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t6qP">엑셀로드의 게임과 팃포탯 전략 - 크고 길게 보면 협력은 선택이 아닌 순리</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지금 당신이 사는 세상은 어떤 세상인가요?]]></title>
@@ -90,18 +90,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtd5d">제가 너무 발칙하고 못된 건가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리의 마지막까지 쥐어 짤 세금]]></title>
-        <id>https://alook.so/posts/w9tO1B</id>
-        <link href="https://alook.so/posts/w9tO1B"/>
-        <updated>2022-02-06T15:15:18.749Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tO1B">우리의 마지막까지 쥐어 짤 세금</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[천천히 느리게 살기]]></title>
         <id>https://alook.so/posts/54tVln</id>
         <link href="https://alook.so/posts/54tVln"/>
         <updated>2022-02-06T17:15:45.388Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tVln">천천히 느리게 살기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리의 마지막까지 쥐어 짤 세금]]></title>
+        <id>https://alook.so/posts/w9tO1B</id>
+        <link href="https://alook.so/posts/w9tO1B"/>
+        <updated>2022-02-06T15:15:18.749Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tO1B">우리의 마지막까지 쥐어 짤 세금</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하고 후회vs안 하고 후회]]></title>
