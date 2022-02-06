@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-06T06:18:02.673Z</updated>
+    <updated>2022-02-06T08:17:26.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[여러분은 어떤 꿈을 가지고 사시나요?]]></title>
+        <id>https://alook.so/posts/2xtX4P</id>
+        <link href="https://alook.so/posts/2xtX4P"/>
+        <updated>2022-02-06T08:16:09.887Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtX4P">여러분은 어떤 꿈을 가지고 사시나요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제가 너무 발칙하고 못된 건가요?]]></title>
         <id>https://alook.so/posts/4Xtd5d</id>
@@ -18,6 +25,13 @@
         <link href="https://alook.so/posts/lat3ma"/>
         <updated>2022-02-06T06:16:47.683Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat3ma">일기 쓰시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무(비)드(라마)Q(레이션)] 시간여행]]></title>
+        <id>https://alook.so/posts/mbtZya</id>
+        <link href="https://alook.so/posts/mbtZya"/>
+        <updated>2022-02-06T08:16:09.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtZya">[무(비)드(라마)Q(레이션)] 시간여행</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[늦은 아침 생각] 이익이 되는 협동, 상호성, 용서]]></title>
@@ -53,47 +67,5 @@
         <link href="https://alook.so/posts/potdYW"/>
         <updated>2022-02-06T00:57:09.229Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potdYW">지금 당신이 사는 세상은 어떤 세상인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티끌 모아 태산 2022년 작은 실천이라도 꼭 지킬것이다]]></title>
-        <id>https://alook.so/posts/1RtGon</id>
-        <link href="https://alook.so/posts/1RtGon"/>
-        <updated>2022-02-06T02:11:04.828Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtGon">티끌 모아 태산 2022년 작은 실천이라도 꼭 지킬것이다 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점점 더 편이 갈리는 사회]]></title>
-        <id>https://alook.so/posts/LKtOEj</id>
-        <link href="https://alook.so/posts/LKtOEj"/>
-        <updated>2022-02-06T06:16:48.020Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtOEj">점점 더 편이 갈리는 사회</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하고 후회vs안 하고 후회]]></title>
-        <id>https://alook.so/posts/w9tOOX</id>
-        <link href="https://alook.so/posts/w9tOOX"/>
-        <updated>2022-02-05T16:16:47.437Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tOOX">하고 후회vs안 하고 후회</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자살도 타살이다?]]></title>
-        <id>https://alook.so/posts/G1tYYV</id>
-        <link href="https://alook.so/posts/G1tYYV"/>
-        <updated>2022-02-06T06:16:48.022Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tYYV">자살도 타살이다?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<미나리>를 본 후 쓰는 이민 소설 이야기]]></title>
-        <id>https://alook.so/posts/OEt22V</id>
-        <link href="https://alook.so/posts/OEt22V"/>
-        <updated>2022-02-05T14:13:09.377Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt22V">&lt;미나리&gt;를 본 후 쓰는 이민 소설 이야기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불안이라는 씨앗]]></title>
-        <id>https://alook.so/posts/DjtLb3</id>
-        <link href="https://alook.so/posts/DjtLb3"/>
-        <updated>2022-02-06T06:16:48.035Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtLb3">불안이라는 씨앗</a>]]></content>
     </entry>
 </feed>
