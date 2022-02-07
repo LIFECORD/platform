@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-07T11:13:31.589Z</updated>
+    <updated>2022-02-07T13:19:56.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[저는 이런 글을 쓰고 싶어요.]]></title>
+        <id>https://alook.so/posts/92tLz3</id>
+        <link href="https://alook.so/posts/92tLz3"/>
+        <updated>2022-02-07T13:18:38.141Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tLz3">저는 이런 글을 쓰고 싶어요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: "한복"과 "조선족", 그리고 "혐오"]]></title>
+        <id>https://alook.so/posts/RGt5wM</id>
+        <link href="https://alook.so/posts/RGt5wM"/>
+        <updated>2022-02-07T13:18:38.142Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt5wM">답글: "한복"과 "조선족", 그리고 "혐오"</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄마가 되어간다는 것]]></title>
         <id>https://alook.so/posts/bWtkjR</id>
@@ -34,6 +48,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtd2r">토론이 당신의 결정에 영향을 주었나요?(과연 11일 토론은 볼 수 있을런지...)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['정신과 쇼핑' 혹은 '정신과 진료 스케줄']]></title>
+        <id>https://alook.so/posts/4XtdYa</id>
+        <link href="https://alook.so/posts/4XtdYa"/>
+        <updated>2022-02-07T13:18:38.149Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtdYa">'정신과 쇼핑' 혹은 '정신과 진료 스케줄'</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[화이팅입니다!]]></title>
         <id>https://alook.so/posts/a0tdVK</id>
         <link href="https://alook.so/posts/a0tdVK"/>
@@ -60,26 +81,5 @@
         <link href="https://alook.so/posts/70t6El"/>
         <updated>2022-02-07T11:12:15.473Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t6El">답글: 저도 그래요...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저두 월요일이 싫어요]]></title>
-        <id>https://alook.so/posts/rDtnd7</id>
-        <link href="https://alook.so/posts/rDtnd7"/>
-        <updated>2022-02-07T11:12:15.474Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtnd7">저두 월요일이 싫어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저만 그런가요...?(심각)]]></title>
-        <id>https://alook.so/posts/lat37w</id>
-        <link href="https://alook.so/posts/lat37w"/>
-        <updated>2022-02-07T09:15:15.847Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat37w">저만 그런가요...?(심각)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[챌린지] 열흘동안 같은 주제로 쓰시면 3만원 드립니다 (11:59pm까지)]]></title>
-        <id>https://alook.so/posts/w9tOY1</id>
-        <link href="https://alook.so/posts/w9tOY1"/>
-        <updated>2022-02-07T11:12:15.475Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tOY1">[챌린지] 열흘동안 같은 주제로 쓰시면 3만원 드립니다 (11:59pm까지) </a>]]></content>
     </entry>
 </feed>
