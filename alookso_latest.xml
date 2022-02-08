@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-08T11:16:01.123Z</updated>
+    <updated>2022-02-08T13:19:05.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 피해자가 대부분 미성년이라 더 걱정이네요]]></title>
-        <id>https://alook.so/posts/E7tOw2</id>
-        <link href="https://alook.so/posts/E7tOw2"/>
-        <updated>2022-02-08T11:14:28.818Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tOw2">답글: 피해자가 대부분 미성년이라 더 걱정이네요</a>]]></content>
+        <title type="html"><![CDATA[나만 걸리는 사다리게임]]></title>
+        <id>https://alook.so/posts/xltEZK</id>
+        <link href="https://alook.so/posts/xltEZK"/>
+        <updated>2022-02-08T13:17:41.476Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltEZK">나만 걸리는 사다리게임</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자신과의 싸움]]></title>
-        <id>https://alook.so/posts/mbtM8G</id>
-        <link href="https://alook.so/posts/mbtM8G"/>
-        <updated>2022-02-08T11:14:28.820Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtM8G">자신과의 싸움</a>]]></content>
+        <title type="html"><![CDATA[내일 우리 딸이 졸업합니다]]></title>
+        <id>https://alook.so/posts/yEtwp5</id>
+        <link href="https://alook.so/posts/yEtwp5"/>
+        <updated>2022-02-08T13:17:41.477Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtwp5">내일 우리 딸이 졸업합니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[딥스]]></title>
-        <id>https://alook.so/posts/q1t2Y0</id>
-        <link href="https://alook.so/posts/q1t2Y0"/>
-        <updated>2022-02-08T11:14:28.834Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t2Y0">딥스</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소치 동계 올림픽 쇼트트렉]]></title>
-        <id>https://alook.so/posts/70tBGm</id>
-        <link href="https://alook.so/posts/70tBGm"/>
-        <updated>2022-02-08T11:14:28.834Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tBGm">소치 동계 올림픽 쇼트트렉 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[응원이 필요할때]]></title>
-        <id>https://alook.so/posts/Yyt8X5</id>
-        <link href="https://alook.so/posts/Yyt8X5"/>
-        <updated>2022-02-08T11:14:28.835Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt8X5">응원이 필요할때</a>]]></content>
+        <title type="html"><![CDATA[직장인의 희‘로애’락 그린 ‘좋좋소’, 시즌4까지 순항하는 이유는?]]></title>
+        <id>https://alook.so/posts/BatmDd</id>
+        <link href="https://alook.so/posts/BatmDd"/>
+        <updated>2022-02-08T13:17:41.477Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatmDd">직장인의 희‘로애’락 그린 ‘좋좋소’, 시즌4까지 순항하는 이유는?</a>]]></content>
     </entry>
 </feed>
