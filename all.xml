@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-08T18:17:52.053Z</updated>
+    <updated>2022-02-08T19:13:11.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[‘비호감 대선’, 진보당은 좀 다른가? (닷페이스 ─ 아티클)]]></title>
@@ -159,18 +159,25 @@
         <content type="html"><![CDATA[2021년 12월 18일]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경남 양산 어린이집 충격적인 CCTV영상 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/54tb8L</id>
-        <link href="https://alook.so/posts/54tb8L"/>
-        <updated>2022-02-08T18:16:25.682Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tb8L">경남 양산 어린이집 충격적인 CCTV영상</a>]]></content>
+        <title type="html"><![CDATA[인공지능이 세상을 지배한다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/3wt5xE</id>
+        <link href="https://alook.so/posts/3wt5xE"/>
+        <updated>2022-02-08T19:11:48.034Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt5xE">인공지능이 세상을 지배한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[감자빵, 이것이 소소하지만 확실한 행복이네요ㅋㅋ (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/70tBwZ</id>
-        <link href="https://alook.so/posts/70tBwZ"/>
-        <updated>2022-02-08T17:17:28.008Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tBwZ">감자빵, 이것이 소소하지만 확실한 행복이네요ㅋㅋ</a>]]></content>
+        <title type="html"><![CDATA[봄을 마주하는 러닝 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/8WtezE</id>
+        <link href="https://alook.so/posts/8WtezE"/>
+        <updated>2022-02-08T19:11:48.035Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtezE">봄을 마주하는 러닝 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진정한 k 유튜버 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/G1tD3j</id>
+        <link href="https://alook.so/posts/G1tD3j"/>
+        <updated>2022-02-08T19:11:48.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tD3j">진정한 k 유튜버</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모두가 말하지만, 아무도 해결 못한 저출생 [정check] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -194,18 +201,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtlyw">"나쁜 장애인은 제도를 바꿀 수 있어요"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국 가계부채, 선진국 중 가장 위험하다 [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/2xtlpa</id>
-        <link href="https://alook.so/posts/2xtlpa"/>
-        <updated>2022-02-08T17:17:37.336Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtlpa">한국 가계부채, 선진국 중 가장 위험하다 [brf.]</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인수인계라는게... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/BatmbJ</id>
         <link href="https://alook.so/posts/BatmbJ"/>
         <updated>2022-02-08T17:17:37.334Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatmbJ">인수인계라는게...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국 가계부채, 선진국 중 가장 위험하다 [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/2xtlpa</id>
+        <link href="https://alook.so/posts/2xtlpa"/>
+        <updated>2022-02-08T17:17:37.336Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtlpa">한국 가계부채, 선진국 중 가장 위험하다 [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메타버스, 성범죄로부터 안전하려면 [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -257,18 +264,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latDyp">분노는 나의 힘</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[감독 없이 올림픽 나선 쇼트트랙.. 성적보다 중요한 건 [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/XBtPBo</id>
-        <link href="https://alook.so/posts/XBtPBo"/>
-        <updated>2022-02-08T17:17:37.345Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtPBo">감독 없이 올림픽 나선 쇼트트랙.. 성적보다 중요한 건 [brf.]</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[산호초 ‘백화 현상’, 5억명 생계 위협... 대응 시급해 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/Kmt3k8</id>
         <link href="https://alook.so/posts/Kmt3k8"/>
         <updated>2022-02-08T17:17:37.349Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt3k8">산호초 ‘백화 현상’, 5억명 생계 위협... 대응 시급해</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감독 없이 올림픽 나선 쇼트트랙.. 성적보다 중요한 건 [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/XBtPBo</id>
+        <link href="https://alook.so/posts/XBtPBo"/>
+        <updated>2022-02-08T17:17:37.345Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtPBo">감독 없이 올림픽 나선 쇼트트랙.. 성적보다 중요한 건 [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[토스트를 먹다가 고양이와 눈이 마주쳤습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
