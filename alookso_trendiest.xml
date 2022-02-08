@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-07T22:16:24.886Z</updated>
+    <updated>2022-02-08T00:53:11.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[‘구조적 성차별’은 없다는데, 진짜로? [brf.]]]></title>
-        <id>https://alook.so/posts/rDtn47</id>
-        <link href="https://alook.so/posts/rDtn47"/>
-        <updated>2022-02-07T20:12:50.788Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtn47">‘구조적 성차별’은 없다는데, 진짜로? [brf.]</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[오늘 저를 몹시 화나게 한 기사를 공유해봅니다.]]></title>
         <id>https://alook.so/posts/xltMLb</id>
         <link href="https://alook.so/posts/xltMLb"/>
         <updated>2022-02-07T20:12:50.787Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltMLb">오늘 저를 몹시 화나게 한 기사를 공유해봅니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘구조적 성차별’은 없다는데, 진짜로? [brf.]]]></title>
+        <id>https://alook.so/posts/rDtn47</id>
+        <link href="https://alook.so/posts/rDtn47"/>
+        <updated>2022-02-07T20:12:50.788Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtn47">‘구조적 성차별’은 없다는데, 진짜로? [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파산한 사람을 두 번 울리는 우리 법률 [입법 디깅]]]></title>
@@ -41,11 +41,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt5wM">답글: "한복"과 "조선족", 그리고 "혐오"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[고소후기] 악플을 고소 하면 어떻게 될까요?]]></title>
-        <id>https://alook.so/posts/YytyMp</id>
-        <link href="https://alook.so/posts/YytyMp"/>
-        <updated>2022-02-07T20:12:50.790Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytyMp">[고소후기] 악플을 고소 하면 어떻게 될까요? </a>]]></content>
+        <title type="html"><![CDATA[어떻게 차별이 '개인적 문제'가 될 수 있나요? (feat. 차별금지법, 지금)]]></title>
+        <id>https://alook.so/posts/vKtzed</id>
+        <link href="https://alook.so/posts/vKtzed"/>
+        <updated>2022-02-07T16:21:33.445Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtzed">어떻게 차별이 '개인적 문제'가 될 수 있나요? (feat. 차별금지법, 지금)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인수인계라는게...]]></title>
+        <id>https://alook.so/posts/BatmbJ</id>
+        <link href="https://alook.so/posts/BatmbJ"/>
+        <updated>2022-02-08T00:51:51.521Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatmbJ">인수인계라는게...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[할 수 있다 해보자!]]></title>
@@ -55,11 +62,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potd0K">할 수 있다 해보자!</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[고소후기] 악플을 고소 하면 어떻게 될까요?]]></title>
+        <id>https://alook.so/posts/YytyMp</id>
+        <link href="https://alook.so/posts/YytyMp"/>
+        <updated>2022-02-07T20:12:50.790Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytyMp">[고소후기] 악플을 고소 하면 어떻게 될까요? </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[엄마가 되어간다는 것]]></title>
         <id>https://alook.so/posts/bWtkjR</id>
         <link href="https://alook.so/posts/bWtkjR"/>
         <updated>2022-02-07T11:12:15.454Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtkjR">엄마가 되어간다는 것</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["구조적 성차별은 없다"면]]></title>
+        <id>https://alook.so/posts/4XtdMD</id>
+        <link href="https://alook.so/posts/4XtdMD"/>
+        <updated>2022-02-08T00:51:51.528Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtdMD">"구조적 성차별은 없다"면</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[혐오 콘텐츠 방관... “유튜브가 공범이다” [brf.]]]></title>
@@ -90,38 +111,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tLz3">저는 이런 글을 쓰고 싶어요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어떻게 차별이 '개인적 문제'가 될 수 있나요? (feat. 차별금지법, 지금)]]></title>
-        <id>https://alook.so/posts/vKtzed</id>
-        <link href="https://alook.so/posts/vKtzed"/>
-        <updated>2022-02-07T16:21:33.445Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtzed">어떻게 차별이 '개인적 문제'가 될 수 있나요? (feat. 차별금지법, 지금)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이재명 지지율이 박스권에 갇힌 이유 [brf.]]]></title>
         <id>https://alook.so/posts/DjtLPz</id>
         <link href="https://alook.so/posts/DjtLPz"/>
         <updated>2022-02-07T20:12:50.797Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtLPz">이재명 지지율이 박스권에 갇힌 이유 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: "샹 죽기보다야 더 하겠냐."]]></title>
-        <id>https://alook.so/posts/KmtY6y</id>
-        <link href="https://alook.so/posts/KmtY6y"/>
-        <updated>2022-02-07T11:12:15.463Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtY6y">답글: "샹 죽기보다야 더 하겠냐."</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 “택소노미가 뭐죠?”보다 더 문제인 건 [brf.]]]></title>
-        <id>https://alook.so/posts/kZtPkL</id>
-        <link href="https://alook.so/posts/kZtPkL"/>
-        <updated>2022-02-07T20:12:50.808Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtPkL">윤석열 “택소노미가 뭐죠?”보다 더 문제인 건 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토론이 당신의 결정에 영향을 주었나요?(과연 11일 토론은 볼 수 있을런지...)]]></title>
-        <id>https://alook.so/posts/eVtd2r</id>
-        <link href="https://alook.so/posts/eVtd2r"/>
-        <updated>2022-02-07T11:12:15.468Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtd2r">토론이 당신의 결정에 영향을 주었나요?(과연 11일 토론은 볼 수 있을런지...)</a>]]></content>
     </entry>
 </feed>
