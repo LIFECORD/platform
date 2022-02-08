@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-08T17:18:54.508Z</updated>
+    <updated>2022-02-08T18:17:51.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,6 +13,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtWYm">모두가 말하지만, 아무도 해결 못한 저출생 [정check]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[결국 해내는 사람의 특징]]></title>
+        <id>https://alook.so/posts/bWt5pn</id>
+        <link href="https://alook.so/posts/bWt5pn"/>
+        <updated>2022-02-08T10:15:42.966Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt5pn">결국 해내는 사람의 특징 </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA["나쁜 장애인은 제도를 바꿀 수 있어요"]]></title>
         <id>https://alook.so/posts/2xtlyw</id>
         <link href="https://alook.so/posts/2xtlyw"/>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtlyw">"나쁜 장애인은 제도를 바꿀 수 있어요"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[결국 해내는 사람의 특징]]></title>
-        <id>https://alook.so/posts/bWt5pn</id>
-        <link href="https://alook.so/posts/bWt5pn"/>
-        <updated>2022-02-08T10:15:42.966Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt5pn">결국 해내는 사람의 특징 </a>]]></content>
+        <title type="html"><![CDATA[한국 가계부채, 선진국 중 가장 위험하다 [brf.]]]></title>
+        <id>https://alook.so/posts/2xtlpa</id>
+        <link href="https://alook.so/posts/2xtlpa"/>
+        <updated>2022-02-08T17:17:37.336Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtlpa">한국 가계부채, 선진국 중 가장 위험하다 [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인수인계라는게...]]></title>
@@ -39,13 +46,6 @@
         <link href="https://alook.so/posts/o7tZme"/>
         <updated>2022-02-08T17:17:37.335Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZme">메타버스, 성범죄로부터 안전하려면 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 가계부채, 선진국 중 가장 위험하다 [brf.]]]></title>
-        <id>https://alook.so/posts/2xtlpa</id>
-        <link href="https://alook.so/posts/2xtlpa"/>
-        <updated>2022-02-08T17:17:37.336Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtlpa">한국 가계부채, 선진국 중 가장 위험하다 [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: "목적"이 무엇이었을까요? 그럼 다른 "수단"은 있을까요?]]></title>
@@ -83,18 +83,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t2nj">수단으로 목적을 정당화해도 되나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[감독 없이 올림픽 나선 쇼트트랙.. 성적보다 중요한 건 [brf.]]]></title>
-        <id>https://alook.so/posts/XBtPBo</id>
-        <link href="https://alook.so/posts/XBtPBo"/>
-        <updated>2022-02-08T17:17:37.345Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtPBo">감독 없이 올림픽 나선 쇼트트랙.. 성적보다 중요한 건 [brf.]</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[분노는 나의 힘]]></title>
         <id>https://alook.so/posts/latDyp</id>
         <link href="https://alook.so/posts/latDyp"/>
         <updated>2022-02-08T14:14:42.831Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latDyp">분노는 나의 힘</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감독 없이 올림픽 나선 쇼트트랙.. 성적보다 중요한 건 [brf.]]]></title>
+        <id>https://alook.so/posts/XBtPBo</id>
+        <link href="https://alook.so/posts/XBtPBo"/>
+        <updated>2022-02-08T17:17:37.345Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtPBo">감독 없이 올림픽 나선 쇼트트랙.. 성적보다 중요한 건 [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[산호초 ‘백화 현상’, 5억명 생계 위협... 대응 시급해]]></title>
