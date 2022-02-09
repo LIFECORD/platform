@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-09T12:24:30.171Z</updated>
+    <updated>2022-02-09T13:19:29.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나 시대 어린이집 등원 시켜요? 말아요?]]></title>
+        <id>https://alook.so/posts/WLtpBx</id>
+        <link href="https://alook.so/posts/WLtpBx"/>
+        <updated>2022-02-09T13:18:16.710Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtpBx">코로나 시대 어린이집 등원 시켜요? 말아요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[난...재혼을 했다.]]></title>
         <id>https://alook.so/posts/92tPRP</id>
@@ -90,10 +97,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZxy">첫 번째 조사 결과에 대한 아이디어 스케치 두 가지.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미얀마 쿠데타 1년, 침묵으로 절규한 시민들]]></title>
-        <id>https://alook.so/posts/E7tOVW</id>
-        <link href="https://alook.so/posts/E7tOVW"/>
-        <updated>2022-02-09T11:12:36.481Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tOVW">미얀마 쿠데타 1년, 침묵으로 절규한 시민들</a>]]></content>
+        <title type="html"><![CDATA[그럼에도 엄마이고 아빠이기에]]></title>
+        <id>https://alook.so/posts/Batm79</id>
+        <link href="https://alook.so/posts/Batm79"/>
+        <updated>2022-02-09T13:18:16.731Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batm79">그럼에도 엄마이고 아빠이기에</a>]]></content>
     </entry>
 </feed>
