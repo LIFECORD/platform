@@ -2,35 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-09T06:20:00.691Z</updated>
+    <updated>2022-02-09T10:18:39.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[어떤 일이 나에게 맞을까?]]></title>
-        <id>https://alook.so/posts/xltEWO</id>
-        <link href="https://alook.so/posts/xltEWO"/>
-        <updated>2022-02-09T06:18:39.767Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltEWO">어떤 일이 나에게 맞을까?</a>]]></content>
+        <title type="html"><![CDATA[요즘 코로나 대비로 ᆢ]]></title>
+        <id>https://alook.so/posts/M9tdM7</id>
+        <link href="https://alook.so/posts/M9tdM7"/>
+        <updated>2022-02-09T10:17:10.889Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tdM7">요즘 코로나 대비로 ᆢ</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 확진다 옆에서도 미감염...]]></title>
-        <id>https://alook.so/posts/RGtzBd</id>
-        <link href="https://alook.so/posts/RGtzBd"/>
-        <updated>2022-02-09T06:18:39.769Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtzBd">코로나 확진다 옆에서도 미감염...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정상적인 가족의 형태란 없다]]></title>
-        <id>https://alook.so/posts/yEtwrX</id>
-        <link href="https://alook.so/posts/yEtwrX"/>
-        <updated>2022-02-09T06:18:39.770Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtwrX">정상적인 가족의 형태란 없다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구찮음이 건강에 도움이 됐었군]]></title>
-        <id>https://alook.so/posts/njt45d</id>
-        <link href="https://alook.so/posts/njt45d"/>
-        <updated>2022-02-09T06:18:39.772Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt45d">구찮음이 건강에 도움이 됐었군</a>]]></content>
+        <title type="html"><![CDATA[자율주행 자동차와 AI]]></title>
+        <id>https://alook.so/posts/RGtz41</id>
+        <link href="https://alook.so/posts/RGtz41"/>
+        <updated>2022-02-09T10:17:10.890Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtz41">자율주행 자동차와 AI</a>]]></content>
     </entry>
 </feed>
