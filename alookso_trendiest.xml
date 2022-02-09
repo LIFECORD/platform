@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-08T23:16:37.826Z</updated>
+    <updated>2022-02-09T00:55:29.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt5pn">결국 해내는 사람의 특징 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한국 가계부채, 선진국 중 가장 위험하다 [brf.]]]></title>
-        <id>https://alook.so/posts/2xtlpa</id>
-        <link href="https://alook.so/posts/2xtlpa"/>
-        <updated>2022-02-08T22:14:05.608Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtlpa">한국 가계부채, 선진국 중 가장 위험하다 [brf.]</a>]]></content>
+        <title type="html"><![CDATA[커피를 끊었을때 생기는 이득 5]]></title>
+        <id>https://alook.so/posts/potXxR</id>
+        <link href="https://alook.so/posts/potXxR"/>
+        <updated>2022-02-09T00:54:11.254Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potXxR">커피를 끊었을때 생기는 이득 5</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["나쁜 장애인은 제도를 바꿀 수 있어요"]]></title>
@@ -34,11 +34,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtlyw">"나쁜 장애인은 제도를 바꿀 수 있어요"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인수인계라는게...]]></title>
-        <id>https://alook.so/posts/BatmbJ</id>
-        <link href="https://alook.so/posts/BatmbJ"/>
-        <updated>2022-02-08T22:14:05.607Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatmbJ">인수인계라는게...</a>]]></content>
+        <title type="html"><![CDATA[한국 가계부채, 선진국 중 가장 위험하다 [brf.]]]></title>
+        <id>https://alook.so/posts/2xtlpa</id>
+        <link href="https://alook.so/posts/2xtlpa"/>
+        <updated>2022-02-08T22:14:05.608Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtlpa">한국 가계부채, 선진국 중 가장 위험하다 [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[메타버스, 성범죄로부터 안전하려면 [brf.]]]></title>
@@ -46,6 +46,13 @@
         <link href="https://alook.so/posts/o7tZme"/>
         <updated>2022-02-08T22:14:05.610Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZme">메타버스, 성범죄로부터 안전하려면 [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인수인계라는게...]]></title>
+        <id>https://alook.so/posts/BatmbJ</id>
+        <link href="https://alook.so/posts/BatmbJ"/>
+        <updated>2022-02-08T22:14:05.607Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatmbJ">인수인계라는게...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: "목적"이 무엇이었을까요? 그럼 다른 "수단"은 있을까요?]]></title>
@@ -76,13 +83,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tEWP">국적 없는 아동들을 아시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뭔가 해봐야겠다는 생각은 들지만 솔직히 뭘 할 수 있는 건지 모르겠다.]]></title>
-        <id>https://alook.so/posts/92tP3a</id>
-        <link href="https://alook.so/posts/92tP3a"/>
-        <updated>2022-02-08T20:15:14.415Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tP3a">뭔가 해봐야겠다는 생각은 들지만 솔직히 뭘 할 수 있는 건지 모르겠다.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[토스트를 먹다가 고양이와 눈이 마주쳤습니다.]]></title>
         <id>https://alook.so/posts/potXKO</id>
         <link href="https://alook.so/posts/potXKO"/>
@@ -95,6 +95,20 @@
         <link href="https://alook.so/posts/latDyp"/>
         <updated>2022-02-08T14:14:42.831Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latDyp">분노는 나의 힘</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뭔가 해봐야겠다는 생각은 들지만 솔직히 뭘 할 수 있는 건지 모르겠다.]]></title>
+        <id>https://alook.so/posts/92tP3a</id>
+        <link href="https://alook.so/posts/92tP3a"/>
+        <updated>2022-02-08T20:15:14.415Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tP3a">뭔가 해봐야겠다는 생각은 들지만 솔직히 뭘 할 수 있는 건지 모르겠다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋아요? 좋아요! 좋아요.]]></title>
+        <id>https://alook.so/posts/J5tEML</id>
+        <link href="https://alook.so/posts/J5tEML"/>
+        <updated>2022-02-08T23:15:23.113Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tEML">좋아요? 좋아요! 좋아요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수단으로 목적을 정당화해도 되나]]></title>
@@ -123,26 +137,5 @@
         <link href="https://alook.so/posts/XBtPBo"/>
         <updated>2022-02-08T22:14:05.618Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtPBo">감독 없이 올림픽 나선 쇼트트랙.. 성적보다 중요한 건 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래서, 기본대출!]]></title>
-        <id>https://alook.so/posts/LKtEaM</id>
-        <link href="https://alook.so/posts/LKtEaM"/>
-        <updated>2022-02-08T22:14:05.620Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtEaM">그래서, 기본대출!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋아요? 좋아요! 좋아요.]]></title>
-        <id>https://alook.so/posts/J5tEML</id>
-        <link href="https://alook.so/posts/J5tEML"/>
-        <updated>2022-02-08T23:15:23.113Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tEML">좋아요? 좋아요! 좋아요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 계절 + 이었다.]]></title>
-        <id>https://alook.so/posts/XBtPGb</id>
-        <link href="https://alook.so/posts/XBtPGb"/>
-        <updated>2022-02-08T20:15:14.412Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtPGb">답글: 계절 + 이었다.</a>]]></content>
     </entry>
 </feed>
