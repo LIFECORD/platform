@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-10T02:31:18.630Z</updated>
+    <updated>2022-02-10T04:19:37.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[타인을 생각하는 마음으로...]]></title>
-        <id>https://alook.so/posts/92tPYW</id>
-        <link href="https://alook.so/posts/92tPYW"/>
-        <updated>2022-02-10T02:29:56.990Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tPYW">타인을 생각하는 마음으로...</a>]]></content>
+        <title type="html"><![CDATA[소상공인 희망대출]]></title>
+        <id>https://alook.so/posts/zvtWa6</id>
+        <link href="https://alook.so/posts/zvtWa6"/>
+        <updated>2022-02-10T04:18:07.778Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtWa6">소상공인 희망대출</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ALOOKSO 왜 재밌나.]]></title>
-        <id>https://alook.so/posts/mbtMyp</id>
-        <link href="https://alook.so/posts/mbtMyp"/>
-        <updated>2022-02-10T02:29:56.990Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtMyp">ALOOKSO 왜 재밌나. </a>]]></content>
+        <title type="html"><![CDATA[2022년 1학기는 대면수업이라고?!]]></title>
+        <id>https://alook.so/posts/2xtl4R</id>
+        <link href="https://alook.so/posts/2xtl4R"/>
+        <updated>2022-02-10T04:18:07.779Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtl4R">2022년 1학기는 대면수업이라고?!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나가 끝나면 제일 하고 싶은 것]]></title>
+        <id>https://alook.so/posts/0kt0Om</id>
+        <link href="https://alook.so/posts/0kt0Om"/>
+        <updated>2022-02-10T04:18:07.780Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt0Om">코로나가 끝나면 제일 하고 싶은 것</a>]]></content>
     </entry>
 </feed>
