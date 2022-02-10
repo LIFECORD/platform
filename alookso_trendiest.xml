@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-10T21:15:43.857Z</updated>
+    <updated>2022-02-10T22:16:48.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tEdp">자율주행차가 정해진 노선을 택시처럼 운행한다고?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[답글: 여론조사를 거부하거나, 정책에 소외되거나]]></title>
+        <id>https://alook.so/posts/potXl4</id>
+        <link href="https://alook.so/posts/potXl4"/>
+        <updated>2022-02-10T21:14:26.129Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potXl4">답글: 여론조사를 거부하거나, 정책에 소외되거나</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[카우레터_B컷] 오미크론 확산세 어떻게 예측하나]]></title>
         <id>https://alook.so/posts/vKtKpn</id>
         <link href="https://alook.so/posts/vKtKpn"/>
@@ -81,13 +88,6 @@
         <link href="https://alook.so/posts/Yyt8Vk"/>
         <updated>2022-02-10T21:14:26.129Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt8Vk">답글: 평균이란 기술통계</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 여론조사를 거부하거나, 정책에 소외되거나]]></title>
-        <id>https://alook.so/posts/potXl4</id>
-        <link href="https://alook.so/posts/potXl4"/>
-        <updated>2022-02-10T21:14:26.129Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potXl4">답글: 여론조사를 거부하거나, 정책에 소외되거나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 묶이지 않은 날 것의 개인들을 보는 시선]]></title>
@@ -125,10 +125,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rty1X">기후 불안, 여러분은 괜찮으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[냉소의 원인을 알아야 청년이 보인다.]]></title>
-        <id>https://alook.so/posts/70tBdG</id>
-        <link href="https://alook.so/posts/70tBdG"/>
-        <updated>2022-02-10T21:14:26.134Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tBdG">냉소의 원인을 알아야 청년이 보인다.</a>]]></content>
+        <title type="html"><![CDATA[갈 때 가더라도 스맛폰 한 대 정도는 괜찮잖아?]]></title>
+        <id>https://alook.so/posts/mbtMvL</id>
+        <link href="https://alook.so/posts/mbtMvL"/>
+        <updated>2022-02-10T22:15:23.260Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtMvL">갈 때 가더라도 스맛폰 한 대 정도는 괜찮잖아?</a>]]></content>
     </entry>
 </feed>
