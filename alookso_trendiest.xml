@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-10T08:19:20.824Z</updated>
+    <updated>2022-02-10T09:16:11.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오미크론 확산기에 예측 모형이란]]></title>
-        <id>https://alook.so/posts/E7tOrx</id>
-        <link href="https://alook.so/posts/E7tOrx"/>
-        <updated>2022-02-10T08:17:50.463Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tOrx">오미크론 확산기에 예측 모형이란</a>]]></content>
+        <title type="html"><![CDATA[글은 길고 어려워야 제 맛일까?]]></title>
+        <id>https://alook.so/posts/latDbB</id>
+        <link href="https://alook.so/posts/latDbB"/>
+        <updated>2022-02-10T09:14:57.530Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latDbB">글은 길고 어려워야 제 맛일까? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[십 년의 다이어리를 시작합니다.]]></title>
+        <id>https://alook.so/posts/Kmt3mj</id>
+        <link href="https://alook.so/posts/Kmt3mj"/>
+        <updated>2022-02-10T09:14:57.532Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt3mj">십 년의 다이어리를 시작합니다. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자율주행차가 정해진 노선을 택시처럼 운행한다고?]]></title>
@@ -39,6 +46,13 @@
         <link href="https://alook.so/posts/njt49Z"/>
         <updated>2022-02-10T04:18:16.665Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt49Z">저는 이곳에 투자합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멋준 글 감사히 읽었습니다. 🙏]]></title>
+        <id>https://alook.so/posts/q1t244</id>
+        <link href="https://alook.so/posts/q1t244"/>
+        <updated>2022-02-10T09:14:57.561Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t244">멋준 글 감사히 읽었습니다. 🙏</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기후 불안, 여러분은 괜찮으신가요?]]></title>
@@ -74,19 +88,5 @@
         <link href="https://alook.so/posts/o7tZ6a"/>
         <updated>2022-02-10T04:18:16.669Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZ6a">핵심만 남기고 줄이기, 군더더기 덜어낼 용기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파산을 차별하는 입법의 기원 [입법 디깅]]]></title>
-        <id>https://alook.so/posts/w9twX2</id>
-        <link href="https://alook.so/posts/w9twX2"/>
-        <updated>2022-02-10T04:18:16.670Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9twX2">파산을 차별하는 입법의 기원 [입법 디깅]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 묶이지 않은 날 것의 개인들을 보는 시선]]></title>
-        <id>https://alook.so/posts/E7tO08</id>
-        <link href="https://alook.so/posts/E7tO08"/>
-        <updated>2022-02-10T01:58:24.733Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tO08">답글: 묶이지 않은 날 것의 개인들을 보는 시선</a>]]></content>
     </entry>
 </feed>
