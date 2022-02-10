@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-10T00:52:57.029Z</updated>
+    <updated>2022-02-10T01:59:38.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 묶이지 않은 날 것의 개인들을 보는 시선]]></title>
+        <id>https://alook.so/posts/E7tO08</id>
+        <link href="https://alook.so/posts/E7tO08"/>
+        <updated>2022-02-10T01:58:24.733Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tO08">답글: 묶이지 않은 날 것의 개인들을 보는 시선</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[낀세대의 설움]]></title>
         <id>https://alook.so/posts/DjtmDe</id>
         <link href="https://alook.so/posts/DjtmDe"/>
         <updated>2022-02-10T00:51:40.994Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtmDe">낀세대의 설움</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NFT? 이게 뭐여]]></title>
+        <id>https://alook.so/posts/bWt5J6</id>
+        <link href="https://alook.so/posts/bWt5J6"/>
+        <updated>2022-02-10T01:58:24.733Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt5J6">NFT? 이게 뭐여</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[야근 없는 하루]]></title>
@@ -81,12 +95,5 @@
         <link href="https://alook.so/posts/WLtpBx"/>
         <updated>2022-02-09T23:14:42.586Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtpBx">코로나 시대 어린이집 등원 시켜요? 말아요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나라를 구한 인터뷰' 보시고 결정에 도움이 되시길.......]]></title>
-        <id>https://alook.so/posts/RGtz51</id>
-        <link href="https://alook.so/posts/RGtz51"/>
-        <updated>2022-02-09T23:14:42.587Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtz51">'나라를 구한 인터뷰' 보시고 결정에 도움이 되시길.......</a>]]></content>
     </entry>
 </feed>
