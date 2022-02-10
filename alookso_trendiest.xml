@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-10T09:16:11.228Z</updated>
+    <updated>2022-02-10T11:13:40.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[긴 글이라고 좋은 건 아닙니다]]></title>
+        <id>https://alook.so/posts/M9tdRX</id>
+        <link href="https://alook.so/posts/M9tdRX"/>
+        <updated>2022-02-10T11:12:26.418Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tdRX">긴 글이라고 좋은 건 아닙니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 진심이 담긴 글이 최고의 글]]></title>
+        <id>https://alook.so/posts/RGtz60</id>
+        <link href="https://alook.so/posts/RGtz60"/>
+        <updated>2022-02-10T11:12:26.418Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtz60">답글: 진심이 담긴 글이 최고의 글</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글은 길고 어려워야 제 맛일까?]]></title>
         <id>https://alook.so/posts/latDbB</id>
@@ -27,6 +41,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tEdp">자율주행차가 정해진 노선을 택시처럼 운행한다고?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[회장님의 가치는 급등중 📈]]></title>
+        <id>https://alook.so/posts/o7tZqD</id>
+        <link href="https://alook.so/posts/o7tZqD"/>
+        <updated>2022-02-10T11:12:26.423Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZqD">회장님의 가치는 급등중 📈</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[박효신 야생화 부를때 눈물 흘리는 이유와 가사를 해석해보자.]]></title>
         <id>https://alook.so/posts/rDtxM3</id>
         <link href="https://alook.so/posts/rDtxM3"/>
@@ -46,47 +67,5 @@
         <link href="https://alook.so/posts/njt49Z"/>
         <updated>2022-02-10T04:18:16.665Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt49Z">저는 이곳에 투자합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멋준 글 감사히 읽었습니다. 🙏]]></title>
-        <id>https://alook.so/posts/q1t244</id>
-        <link href="https://alook.so/posts/q1t244"/>
-        <updated>2022-02-10T09:14:57.561Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t244">멋준 글 감사히 읽었습니다. 🙏</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후 불안, 여러분은 괜찮으신가요?]]></title>
-        <id>https://alook.so/posts/1Rty1X</id>
-        <link href="https://alook.so/posts/1Rty1X"/>
-        <updated>2022-02-10T08:17:50.519Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rty1X">기후 불안, 여러분은 괜찮으신가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 평균이란 기술통계]]></title>
-        <id>https://alook.so/posts/Yyt8Vk</id>
-        <link href="https://alook.so/posts/Yyt8Vk"/>
-        <updated>2022-02-10T04:18:16.666Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt8Vk">답글: 평균이란 기술통계</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 여론조사를 거부하거나, 정책에 소외되거나]]></title>
-        <id>https://alook.so/posts/potXl4</id>
-        <link href="https://alook.so/posts/potXl4"/>
-        <updated>2022-02-10T04:18:16.666Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potXl4">답글: 여론조사를 거부하거나, 정책에 소외되거나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 노마드의 삶]]></title>
-        <id>https://alook.so/posts/G1tDOD</id>
-        <link href="https://alook.so/posts/G1tDOD"/>
-        <updated>2022-02-10T04:18:16.668Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tDOD">디지털 노마드의 삶</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핵심만 남기고 줄이기, 군더더기 덜어낼 용기]]></title>
-        <id>https://alook.so/posts/o7tZ6a</id>
-        <link href="https://alook.so/posts/o7tZ6a"/>
-        <updated>2022-02-10T04:18:16.669Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZ6a">핵심만 남기고 줄이기, 군더더기 덜어낼 용기</a>]]></content>
     </entry>
 </feed>

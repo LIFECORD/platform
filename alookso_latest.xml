@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-10T09:16:11.221Z</updated>
+    <updated>2022-02-10T11:13:40.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[대학생용돈??]]></title>
-        <id>https://alook.so/posts/Kmt3jp</id>
-        <link href="https://alook.so/posts/Kmt3jp"/>
-        <updated>2022-02-10T09:14:49.709Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt3jp">대학생용돈??</a>]]></content>
+        <title type="html"><![CDATA[잠시 멈추게 하는 글, 마음을 터치하는 글...]]></title>
+        <id>https://alook.so/posts/Yyt8q0</id>
+        <link href="https://alook.so/posts/Yyt8q0"/>
+        <updated>2022-02-10T11:12:18.608Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt8q0">잠시 멈추게 하는 글, 마음을 터치하는 글...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[골프를 꼭 배워야 할까요?]]></title>
-        <id>https://alook.so/posts/mbtMWd</id>
-        <link href="https://alook.so/posts/mbtMWd"/>
-        <updated>2022-02-10T09:14:49.709Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtMWd">골프를 꼭 배워야 할까요?</a>]]></content>
+        <title type="html"><![CDATA[기후 불안... 대한민국도 만만치 않을 것 같아요.]]></title>
+        <id>https://alook.so/posts/rDtxPJ</id>
+        <link href="https://alook.so/posts/rDtxPJ"/>
+        <updated>2022-02-10T11:12:18.609Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtxPJ">기후 불안... 대한민국도 만만치 않을 것 같아요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음의 병 우울증이 찾아 온다면]]></title>
-        <id>https://alook.so/posts/54tbxY</id>
-        <link href="https://alook.so/posts/54tbxY"/>
-        <updated>2022-02-10T09:14:49.710Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tbxY">마음의 병 우울증이 찾아 온다면</a>]]></content>
+        <title type="html"><![CDATA[대학생 용돈]]></title>
+        <id>https://alook.so/posts/92tP8z</id>
+        <link href="https://alook.so/posts/92tP8z"/>
+        <updated>2022-02-10T11:12:18.609Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tP8z">대학생 용돈</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[청원 수 만큼 교양이 살해 예고!!!]]></title>
-        <id>https://alook.so/posts/Djtm8P</id>
-        <link href="https://alook.so/posts/Djtm8P"/>
-        <updated>2022-02-10T09:14:49.711Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtm8P">청원 수 만큼 교양이 살해 예고!!!</a>]]></content>
+        <title type="html"><![CDATA[택배는 진짜 어려운 일입니다.]]></title>
+        <id>https://alook.so/posts/Kmt3Rp</id>
+        <link href="https://alook.so/posts/Kmt3Rp"/>
+        <updated>2022-02-10T11:12:18.610Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt3Rp">택배는 진짜 어려운 일입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[적색육은 건강에 안 좋다고요? 우리가 몰랐던 소고기의 놀라운 효과]]></title>
+        <id>https://alook.so/posts/54tbOY</id>
+        <link href="https://alook.so/posts/54tbOY"/>
+        <updated>2022-02-10T11:12:18.611Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tbOY">적색육은 건강에 안 좋다고요? 우리가 몰랐던 소고기의 놀라운 효과</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멍크디베이트를 아십니까?]]></title>
+        <id>https://alook.so/posts/q1t2DK</id>
+        <link href="https://alook.so/posts/q1t2DK"/>
+        <updated>2022-02-10T11:12:18.611Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t2DK">멍크디베이트를 아십니까?</a>]]></content>
     </entry>
 </feed>
