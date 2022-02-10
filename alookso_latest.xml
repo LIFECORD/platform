@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-10T06:18:32.268Z</updated>
+    <updated>2022-02-10T08:19:20.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[하니야 잘 지내?]]></title>
-        <id>https://alook.so/posts/rDtx13</id>
-        <link href="https://alook.so/posts/rDtx13"/>
-        <updated>2022-02-10T06:17:09.406Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtx13">하니야 잘 지내?</a>]]></content>
+        <title type="html"><![CDATA[군복무 단축 또 한다고 ? 군대를 없애라]]></title>
+        <id>https://alook.so/posts/0kt0bK</id>
+        <link href="https://alook.so/posts/0kt0bK"/>
+        <updated>2022-02-10T08:17:41.300Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt0bK">군복무 단축 또 한다고 ? 군대를 없애라</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IMF 전세계 집값 경고~!!]]></title>
-        <id>https://alook.so/posts/bWt5rE</id>
-        <link href="https://alook.so/posts/bWt5rE"/>
-        <updated>2022-02-10T06:17:09.410Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt5rE">IMF 전세계 집값 경고~!!</a>]]></content>
+        <title type="html"><![CDATA[긴 글이라고 좋은 건 아닙니다]]></title>
+        <id>https://alook.so/posts/M9tdRX</id>
+        <link href="https://alook.so/posts/M9tdRX"/>
+        <updated>2022-02-10T08:17:41.300Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tdRX">긴 글이라고 좋은 건 아닙니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자율주행차가 정해진 노선을 택시처럼 운행한다고?]]></title>
-        <id>https://alook.so/posts/J5tEdp</id>
-        <link href="https://alook.so/posts/J5tEdp"/>
-        <updated>2022-02-10T06:17:09.413Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tEdp">자율주행차가 정해진 노선을 택시처럼 운행한다고?</a>]]></content>
+        <title type="html"><![CDATA[카카오 주가에 변화가 있을까요?]]></title>
+        <id>https://alook.so/posts/XBtPJd</id>
+        <link href="https://alook.so/posts/XBtPJd"/>
+        <updated>2022-02-10T08:17:41.303Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtPJd">카카오 주가에 변화가 있을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중국~]]></title>
-        <id>https://alook.so/posts/potXOx</id>
-        <link href="https://alook.so/posts/potXOx"/>
-        <updated>2022-02-10T06:17:09.414Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potXOx">중국~</a>]]></content>
+        <title type="html"><![CDATA[긍정이와 민낯이]]></title>
+        <id>https://alook.so/posts/w9twVa</id>
+        <link href="https://alook.so/posts/w9twVa"/>
+        <updated>2022-02-10T08:17:41.303Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9twVa">긍정이와 민낯이</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 진심이 담긴 글이 최고의 글]]></title>
+        <id>https://alook.so/posts/RGtz60</id>
+        <link href="https://alook.so/posts/RGtz60"/>
+        <updated>2022-02-10T08:17:41.305Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtz60">답글: 진심이 담긴 글이 최고의 글</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차준환, 올림픽 톱5 진입 성공!]]></title>
+        <id>https://alook.so/posts/yEtweK</id>
+        <link href="https://alook.so/posts/yEtweK"/>
+        <updated>2022-02-10T08:17:41.306Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtweK">차준환, 올림픽 톱5 진입 성공!</a>]]></content>
     </entry>
 </feed>

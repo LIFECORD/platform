@@ -2,15 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-10T06:18:32.267Z</updated>
+    <updated>2022-02-10T08:19:20.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오미크론 확산기에 예측 모형이란]]></title>
+        <id>https://alook.so/posts/E7tOrx</id>
+        <link href="https://alook.so/posts/E7tOrx"/>
+        <updated>2022-02-10T08:17:50.463Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tOrx">오미크론 확산기에 예측 모형이란</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자율주행차가 정해진 노선을 택시처럼 운행한다고?]]></title>
+        <id>https://alook.so/posts/J5tEdp</id>
+        <link href="https://alook.so/posts/J5tEdp"/>
+        <updated>2022-02-10T08:17:50.463Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tEdp">자율주행차가 정해진 노선을 택시처럼 운행한다고?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박효신 야생화 부를때 눈물 흘리는 이유와 가사를 해석해보자.]]></title>
+        <id>https://alook.so/posts/rDtxM3</id>
+        <link href="https://alook.so/posts/rDtxM3"/>
+        <updated>2022-02-10T08:17:50.466Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtxM3">박효신 야생화 부를때 눈물 흘리는 이유와 가사를 해석해보자.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신도 히어로가 될 수 있습니다]]></title>
+        <id>https://alook.so/posts/kZt8RK</id>
+        <link href="https://alook.so/posts/kZt8RK"/>
+        <updated>2022-02-10T08:17:50.466Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt8RK">당신도 히어로가 될 수 있습니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저는 이곳에 투자합니다.]]></title>
         <id>https://alook.so/posts/njt49Z</id>
         <link href="https://alook.so/posts/njt49Z"/>
         <updated>2022-02-10T04:18:16.665Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt49Z">저는 이곳에 투자합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후 불안, 여러분은 괜찮으신가요?]]></title>
+        <id>https://alook.so/posts/1Rty1X</id>
+        <link href="https://alook.so/posts/1Rty1X"/>
+        <updated>2022-02-10T08:17:50.519Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rty1X">기후 불안, 여러분은 괜찮으신가요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 평균이란 기술통계]]></title>
@@ -53,19 +88,5 @@
         <link href="https://alook.so/posts/E7tO08"/>
         <updated>2022-02-10T01:58:24.733Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tO08">답글: 묶이지 않은 날 것의 개인들을 보는 시선</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낀세대의 설움]]></title>
-        <id>https://alook.so/posts/DjtmDe</id>
-        <link href="https://alook.so/posts/DjtmDe"/>
-        <updated>2022-02-10T04:18:16.675Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtmDe">낀세대의 설움</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT? 이게 뭐여]]></title>
-        <id>https://alook.so/posts/bWt5J6</id>
-        <link href="https://alook.so/posts/bWt5J6"/>
-        <updated>2022-02-10T04:18:16.676Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt5J6">NFT? 이게 뭐여</a>]]></content>
     </entry>
 </feed>
