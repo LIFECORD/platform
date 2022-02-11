@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-11T03:16:11.113Z</updated>
+    <updated>2022-02-11T06:20:10.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[저 또한 우물 안 개구리]]></title>
-        <id>https://alook.so/posts/latD9k</id>
-        <link href="https://alook.so/posts/latD9k"/>
-        <updated>2022-02-11T03:14:50.215Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latD9k">저 또한 우물 안 개구리</a>]]></content>
+        <title type="html"><![CDATA[먹고합시다]]></title>
+        <id>https://alook.so/posts/WLtpl3</id>
+        <link href="https://alook.so/posts/WLtpl3"/>
+        <updated>2022-02-11T06:18:44.685Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtpl3">먹고합시다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무서운 올림픽]]></title>
-        <id>https://alook.so/posts/Kmt3vv</id>
-        <link href="https://alook.so/posts/Kmt3vv"/>
-        <updated>2022-02-11T03:14:50.217Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt3vv">무서운 올림픽 </a>]]></content>
+        <title type="html"><![CDATA[꽃을 피울 당신의 이름을 부르다.]]></title>
+        <id>https://alook.so/posts/0kt0XO</id>
+        <link href="https://alook.so/posts/0kt0XO"/>
+        <updated>2022-02-11T06:18:44.686Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt0XO">꽃을 피울 당신의 이름을 부르다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[책 읽기에도 LEVEL이 있다.]]></title>
-        <id>https://alook.so/posts/54tbLa</id>
-        <link href="https://alook.so/posts/54tbLa"/>
-        <updated>2022-02-11T03:14:50.217Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tbLa">책 읽기에도 LEVEL이 있다.</a>]]></content>
+        <title type="html"><![CDATA[아동센터, 통학버스 운행 포기]]></title>
+        <id>https://alook.so/posts/4XtqY7</id>
+        <link href="https://alook.so/posts/4XtqY7"/>
+        <updated>2022-02-11T06:18:44.687Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtqY7">아동센터, 통학버스 운행 포기 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대선후보들의 교육공약을 살펴보니,]]></title>
-        <id>https://alook.so/posts/DjtmJR</id>
-        <link href="https://alook.so/posts/DjtmJR"/>
-        <updated>2022-02-11T03:14:50.218Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtmJR">대선후보들의 교육공약을 살펴보니,</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이퍼인플레이션 그 이후...]]></title>
-        <id>https://alook.so/posts/70tBrX</id>
-        <link href="https://alook.so/posts/70tBrX"/>
-        <updated>2022-02-11T03:14:50.219Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tBrX">하이퍼인플레이션 그 이후...</a>]]></content>
+        <title type="html"><![CDATA[한심한 나 자신, 무기력이 찾아온다.]]></title>
+        <id>https://alook.so/posts/XBtP5z</id>
+        <link href="https://alook.so/posts/XBtP5z"/>
+        <updated>2022-02-11T06:18:44.688Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtP5z">한심한 나 자신, 무기력이 찾아온다.</a>]]></content>
     </entry>
 </feed>
