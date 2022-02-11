@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-11T13:19:45.903Z</updated>
+    <updated>2022-02-11T14:16:59.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[긴 하루를 보낸 하루]]></title>
+        <id>https://alook.so/posts/54tbZO</id>
+        <link href="https://alook.so/posts/54tbZO"/>
+        <updated>2022-02-11T14:15:38.111Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tbZO">긴 하루를 보낸 하루</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[딸 성추행한 동네 남학생이 잡혔는데 얼굴도 안알려줘요. 왜?]]></title>
         <id>https://alook.so/posts/bWt5K1</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/6MtarR"/>
         <updated>2022-02-11T13:17:33.800Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtarR">쓰면, 잊어버리지 않는다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋은거 있으믄 쏘스좀 주세요!]]></title>
-        <id>https://alook.so/posts/3wt5Vr</id>
-        <link href="https://alook.so/posts/3wt5Vr"/>
-        <updated>2022-02-11T13:17:33.801Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt5Vr">좋은거 있으믄 쏘스좀 주세요!</a>]]></content>
     </entry>
 </feed>
