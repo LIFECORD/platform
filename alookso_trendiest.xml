@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-12T18:18:42.449Z</updated>
+    <updated>2022-02-12T19:12:58.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://alook.so/posts/Kmtyko"/>
         <updated>2022-02-12T16:19:51.755Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtyko">답글: 코로나19, 우리 사회에 위험한 질병일까? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몇시간 전에는 불편했는데 말이죠..]]></title>
+        <id>https://alook.so/posts/LKtkan</id>
+        <link href="https://alook.so/posts/LKtkan"/>
+        <updated>2022-02-12T18:17:20.942Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtkan">몇시간 전에는 불편했는데 말이죠..</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현안님! 용서해주세요!!]]></title>
@@ -102,12 +109,5 @@
         <link href="https://alook.so/posts/70tBaW"/>
         <updated>2022-02-12T11:12:39.433Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tBaW">나는 ‘내가 아닌’ 모든 존재다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몇시간 전에는 불편했는데 말이죠..]]></title>
-        <id>https://alook.so/posts/LKtkan</id>
-        <link href="https://alook.so/posts/LKtkan"/>
-        <updated>2022-02-12T18:17:20.942Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtkan">몇시간 전에는 불편했는데 말이죠..</a>]]></content>
     </entry>
 </feed>
