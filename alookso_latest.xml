@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-11T23:17:13.424Z</updated>
+    <updated>2022-02-12T03:15:43.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[윤미향 복당]]></title>
-        <id>https://alook.so/posts/ZktkR1</id>
-        <link href="https://alook.so/posts/ZktkR1"/>
-        <updated>2022-02-11T23:15:35.838Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktkR1"> 윤미향 복당</a>]]></content>
+        <title type="html"><![CDATA[" 기다림"]]></title>
+        <id>https://alook.so/posts/J5tERD</id>
+        <link href="https://alook.so/posts/J5tERD"/>
+        <updated>2022-02-12T03:14:15.808Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tERD">" 기다림"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재명의 지역균형 발전]]></title>
-        <id>https://alook.so/posts/dzt83l</id>
-        <link href="https://alook.so/posts/dzt83l"/>
-        <updated>2022-02-11T23:15:35.839Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt83l">이재명의 지역균형 발전</a>]]></content>
+        <title type="html"><![CDATA[더욱 현실화 되고 있는 경기 변화의 뉴노멀]]></title>
+        <id>https://alook.so/posts/VntYqM</id>
+        <link href="https://alook.so/posts/VntYqM"/>
+        <updated>2022-02-12T03:14:15.809Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntYqM">더욱 현실화 되고 있는 경기 변화의 뉴노멀</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지금 가진것에 감사합니다]]></title>
-        <id>https://alook.so/posts/potX4j</id>
-        <link href="https://alook.so/posts/potX4j"/>
-        <updated>2022-02-11T23:15:35.840Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potX4j">지금 가진것에 감사합니다</a>]]></content>
+        <title type="html"><![CDATA[러->우크라 침공 공포에 금융시장 휘청하나..?]]></title>
+        <id>https://alook.so/posts/zvtWdx</id>
+        <link href="https://alook.so/posts/zvtWdx"/>
+        <updated>2022-02-12T03:14:15.810Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtWdx">러-&gt;우크라 침공 공포에 금융시장 휘청하나..?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["당첨 가망 없으니..." 청약통장 깨기 시작했다]]></title>
-        <id>https://alook.so/posts/eVtZzy</id>
-        <link href="https://alook.so/posts/eVtZzy"/>
-        <updated>2022-02-11T22:13:14.611Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtZzy">"당첨 가망 없으니..." 청약통장 깨기 시작했다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[택배파업]]></title>
-        <id>https://alook.so/posts/2xtl07</id>
-        <link href="https://alook.so/posts/2xtl07"/>
-        <updated>2022-02-11T18:17:03.995Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtl07">택배파업</a>]]></content>
+        <title type="html"><![CDATA[우크라이나 전쟁 뉴스를 보고 든 생각?]]></title>
+        <id>https://alook.so/posts/4XtqEr</id>
+        <link href="https://alook.so/posts/4XtqEr"/>
+        <updated>2022-02-12T03:14:15.811Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtqEr">우크라이나 전쟁 뉴스를 보고 든 생각?</a>]]></content>
     </entry>
 </feed>
