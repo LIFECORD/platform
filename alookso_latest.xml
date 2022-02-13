@@ -2,21 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-12T23:16:09.958Z</updated>
+    <updated>2022-02-13T02:04:01.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[시중에 돈이 많이  풀려 있다는데......]]></title>
-        <id>https://alook.so/posts/latXlv</id>
-        <link href="https://alook.so/posts/latXlv"/>
-        <updated>2022-02-12T23:14:45.289Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latXlv">시중에 돈이 많이  풀려 있다는데......</a>]]></content>
+        <title type="html"><![CDATA[진짜 충격적이네요.]]></title>
+        <id>https://alook.so/posts/a0tlE6</id>
+        <link href="https://alook.so/posts/a0tlE6"/>
+        <updated>2022-02-13T02:02:34.347Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tlE6">진짜 충격적이네요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음을 놓는 게 쉽지가 않다.]]></title>
-        <id>https://alook.so/posts/92t2J0</id>
-        <link href="https://alook.so/posts/92t2J0"/>
-        <updated>2022-02-12T23:14:45.291Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t2J0">마음을 놓는 게 쉽지가 않다.</a>]]></content>
+        <title type="html"><![CDATA[노화한 나, 노쇠한 나.]]></title>
+        <id>https://alook.so/posts/dztWoL</id>
+        <link href="https://alook.so/posts/dztWoL"/>
+        <updated>2022-02-13T02:02:34.347Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztWoL">노화한 나, 노쇠한 나.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이런 사람하고 친구 안해요]]></title>
+        <id>https://alook.so/posts/J5tZaK</id>
+        <link href="https://alook.so/posts/J5tZaK"/>
+        <updated>2022-02-13T02:02:34.347Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tZaK">이런 사람하고 친구 안해요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주말의 아침은 정말 힘드네요.]]></title>
+        <id>https://alook.so/posts/potRJY</id>
+        <link href="https://alook.so/posts/potRJY"/>
+        <updated>2022-02-13T02:02:34.348Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potRJY">주말의 아침은 정말 힘드네요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[늦은 아침 생각] 글의 무게와 길이, 그리고 진실과 사실]]></title>
+        <id>https://alook.so/posts/eVtnkn</id>
+        <link href="https://alook.so/posts/eVtnkn"/>
+        <updated>2022-02-13T02:02:34.349Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtnkn">[늦은 아침 생각] 글의 무게와 길이, 그리고 진실과 사실</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 힘들었다고 다른 사람도 힘들어야 할 수 있죠.]]></title>
+        <id>https://alook.so/posts/Pvt12X</id>
+        <link href="https://alook.so/posts/Pvt12X"/>
+        <updated>2022-02-13T02:02:34.350Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt12X">내가 힘들었다고 다른 사람도 힘들어야 할 수 있죠.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50cm... 그리고 파이브 피트]]></title>
+        <id>https://alook.so/posts/zvt3VX</id>
+        <link href="https://alook.so/posts/zvt3VX"/>
+        <updated>2022-02-13T02:02:34.351Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt3VX">50cm... 그리고 파이브 피트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상처 주는 말만 하는 사람]]></title>
+        <id>https://alook.so/posts/2xtwRK</id>
+        <link href="https://alook.so/posts/2xtwRK"/>
+        <updated>2022-02-13T02:02:34.352Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtwRK">상처 주는 말만 하는 사람</a>]]></content>
     </entry>
 </feed>
