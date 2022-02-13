@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-13T20:17:03.566Z</updated>
+    <updated>2022-02-13T22:16:42.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[택배 파업 지역에 산다는 것]]></title>
+        <id>https://alook.so/posts/54tG9R</id>
+        <link href="https://alook.so/posts/54tG9R"/>
+        <updated>2022-02-13T22:15:14.656Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tG9R">택배 파업 지역에 산다는 것</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이직할 것인가 복귀할 것인가.]]></title>
+        <id>https://alook.so/posts/DjtD95</id>
+        <link href="https://alook.so/posts/DjtD95"/>
+        <updated>2022-02-13T22:15:14.658Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtD95">이직할 것인가 복귀할 것인가. </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💜지난날 사랑했던 그에게 써준 시]]></title>
         <id>https://alook.so/posts/70tKJq</id>
@@ -18,33 +32,5 @@
         <link href="https://alook.so/posts/YytxG3"/>
         <updated>2022-02-13T18:16:18.403Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytxG3">여러분들은 본인에게 여운을 남겼던 문학이 있으신가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘이 음식’ 많이 먹으면 실명 위험 낮아져]]></title>
-        <id>https://alook.so/posts/latX8d</id>
-        <link href="https://alook.so/posts/latX8d"/>
-        <updated>2022-02-13T18:16:18.403Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latX8d">‘이 음식’ 많이 먹으면 실명 위험 낮아져</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['어차피'란 말, 참 무서운 말 같습니다.]]></title>
-        <id>https://alook.so/posts/92t2q2</id>
-        <link href="https://alook.so/posts/92t2q2"/>
-        <updated>2022-02-13T18:16:18.404Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t2q2">'어차피'란 말, 참 무서운 말 같습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글초보의 alookso 첫 글쓰기]]></title>
-        <id>https://alook.so/posts/Kmtyq3</id>
-        <link href="https://alook.so/posts/Kmtyq3"/>
-        <updated>2022-02-13T17:13:39.774Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtyq3">글초보의 alookso 첫 글쓰기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고2학생의 인천 팩트체크]]></title>
-        <id>https://alook.so/posts/mbtKVZ</id>
-        <link href="https://alook.so/posts/mbtKVZ"/>
-        <updated>2022-02-13T17:13:39.775Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtKVZ">고2학생의 인천 팩트체크</a>]]></content>
     </entry>
 </feed>
