@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-13T10:18:37.543Z</updated>
+    <updated>2022-02-13T16:21:48.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[최재호 님을 위한 변명]]></title>
+        <id>https://alook.so/posts/WLt6xw</id>
+        <link href="https://alook.so/posts/WLt6xw"/>
+        <updated>2022-02-13T16:20:24.858Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt6xw">최재호 님을 위한 변명</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아싸들에게 보내는 응원 - <어디갔어 버나뎃>을 보며]]></title>
+        <id>https://alook.so/posts/M9talZ</id>
+        <link href="https://alook.so/posts/M9talZ"/>
+        <updated>2022-02-13T16:20:24.876Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9talZ">아싸들에게 보내는 응원 - &lt;어디갔어 버나뎃&gt;을 보며</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[격리기간의 장점]]></title>
+        <id>https://alook.so/posts/xltl80</id>
+        <link href="https://alook.so/posts/xltl80"/>
+        <updated>2022-02-13T16:20:24.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltl80">격리기간의 장점</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검증을 원한다니 죄송스럽지만, 살펴 보아 주세요]]></title>
+        <id>https://alook.so/posts/OEtoGE</id>
+        <link href="https://alook.so/posts/OEtoGE"/>
+        <updated>2022-02-13T16:20:24.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtoGE">검증을 원한다니 죄송스럽지만, 살펴 보아 주세요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너도 머신러닝? 나도 머신러닝! (머신러닝의 남용?)]]></title>
+        <id>https://alook.so/posts/njt3em</id>
+        <link href="https://alook.so/posts/njt3em"/>
+        <updated>2022-02-13T16:20:24.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt3em">너도 머신러닝? 나도 머신러닝! (머신러닝의 남용?)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안철수가 부릅니다, 단일화밖엔 난 몰라]]></title>
+        <id>https://alook.so/posts/Kmty7G</id>
+        <link href="https://alook.so/posts/Kmty7G"/>
+        <updated>2022-02-13T16:20:24.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmty7G">안철수가 부릅니다, 단일화밖엔 난 몰라</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘이대녀’가 본, alookso [대선서베이 시리즈-2]의 해석에서 빠진 것]]></title>
         <id>https://alook.so/posts/YytxXa</id>
@@ -13,18 +55,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytxXa">‘이대녀’가 본, alookso [대선서베이 시리즈-2]의 해석에서 빠진 것</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[게을러지고 싶은날..]]></title>
-        <id>https://alook.so/posts/8Wtpkw</id>
-        <link href="https://alook.so/posts/8Wtpkw"/>
-        <updated>2022-02-13T04:18:40.907Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtpkw">게을러지고 싶은날..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소의 장점? 조회수 신경 안써도 됩니다!]]></title>
-        <id>https://alook.so/posts/G1tGnM</id>
-        <link href="https://alook.so/posts/G1tGnM"/>
-        <updated>2022-02-13T03:15:19.323Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tGnM">얼룩소의 장점? 조회수 신경 안써도 됩니다!</a>]]></content>
+        <title type="html"><![CDATA[지난주의 논쟁: 이진경의 분기와 차태서의 허탈(in 경향)]]></title>
+        <id>https://alook.so/posts/YytxXO</id>
+        <link href="https://alook.so/posts/YytxXO"/>
+        <updated>2022-02-13T16:20:24.878Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytxXO">지난주의 논쟁: 이진경의 분기와 차태서의 허탈(in 경향)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[강원도 힐링 여행 왔네여~]]></title>
@@ -41,18 +76,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtnkn">[늦은 아침 생각] 글의 무게와 길이, 그리고 진실과 사실</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[상처 주는 말만 하는 사람]]></title>
+        <id>https://alook.so/posts/2xtwRK</id>
+        <link href="https://alook.so/posts/2xtwRK"/>
+        <updated>2022-02-13T16:20:24.878Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtwRK">상처 주는 말만 하는 사람</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[alookso [구독] 메뉴, 혹시 들어가보셨나요]]></title>
         <id>https://alook.so/posts/LKtkxK</id>
         <link href="https://alook.so/posts/LKtkxK"/>
         <updated>2022-02-13T03:15:19.306Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtkxK">alookso [구독] 메뉴, 혹시 들어가보셨나요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 어느 정도 적응이 되었지만]]></title>
-        <id>https://alook.so/posts/OEtoen</id>
-        <link href="https://alook.so/posts/OEtoen"/>
-        <updated>2022-02-13T08:17:10.554Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtoen">저는 어느 정도 적응이 되었지만</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘이대남’밖의 ‘이대남’들이 행동에 나섰다]]></title>
@@ -69,59 +104,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntpj5">토론에 관한 개인적인 생각 하나를 붙여 봅니다. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[몇시간 전에는 불편했는데 말이죠..]]></title>
-        <id>https://alook.so/posts/LKtkan</id>
-        <link href="https://alook.so/posts/LKtkan"/>
-        <updated>2022-02-12T18:17:20.942Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtkan">몇시간 전에는 불편했는데 말이죠..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 코로나19, 우리 사회에 위험한 질병일까?]]></title>
-        <id>https://alook.so/posts/Kmtyko</id>
-        <link href="https://alook.so/posts/Kmtyko"/>
-        <updated>2022-02-12T16:19:51.755Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtyko">답글: 코로나19, 우리 사회에 위험한 질병일까? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미꾸라지 잡기. 공론의 장에서 분탕질 맙시다. 좋은 말로 일단 합니다.]]></title>
-        <id>https://alook.so/posts/M9ta4m</id>
-        <link href="https://alook.so/posts/M9ta4m"/>
-        <updated>2022-02-12T15:14:09.584Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9ta4m">미꾸라지 잡기. 공론의 장에서 분탕질 맙시다. 좋은 말로 일단 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무드Q] "종말"과 "말세"사이]]></title>
-        <id>https://alook.so/posts/latX5P</id>
-        <link href="https://alook.so/posts/latX5P"/>
-        <updated>2022-02-12T12:22:12.186Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latX5P">[무드Q] "종말"과 "말세"사이</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 글의 나이는 몇 살일까.]]></title>
         <id>https://alook.so/posts/dztW23</id>
         <link href="https://alook.so/posts/dztW23"/>
         <updated>2022-02-12T11:12:39.431Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztW23">내 글의 나이는 몇 살일까. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 힘들었다고 다른 사람도 힘들어야 하나요?]]></title>
-        <id>https://alook.so/posts/8Wtpw8</id>
-        <link href="https://alook.so/posts/8Wtpw8"/>
-        <updated>2022-02-12T12:22:12.173Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtpw8">내가 힘들었다고 다른 사람도 힘들어야 하나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하나의 숫자보다는 다양한 사람의 마음을 보여주기]]></title>
-        <id>https://alook.so/posts/yEtOnm</id>
-        <link href="https://alook.so/posts/yEtOnm"/>
-        <updated>2022-02-12T12:22:12.187Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtOnm">하나의 숫자보다는 다양한 사람의 마음을 보여주기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 - 요런 기능이 있으면 어떨까요?]]></title>
-        <id>https://alook.so/posts/Yyt8am</id>
-        <link href="https://alook.so/posts/Yyt8am"/>
-        <updated>2022-02-12T06:17:32.404Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt8am">얼룩소 - 요런 기능이 있으면 어떨까요?</a>]]></content>
     </entry>
 </feed>
