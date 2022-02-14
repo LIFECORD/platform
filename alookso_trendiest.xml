@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-14T09:17:03.418Z</updated>
+    <updated>2022-02-14T11:14:45.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[타고난 천재는 없다는데 동의하시나요?]]></title>
+        <id>https://alook.so/posts/6MtBEr</id>
+        <link href="https://alook.so/posts/6MtBEr"/>
+        <updated>2022-02-14T11:13:26.561Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtBEr">타고난 천재는 없다는데 동의하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 어떠한 일을 하느냐가 아닌 어떠한 마음으로 일을 하느냐..]]></title>
+        <id>https://alook.so/posts/mbtKZW</id>
+        <link href="https://alook.so/posts/mbtKZW"/>
+        <updated>2022-02-14T11:13:26.562Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtKZW">답글: 어떠한 일을 하느냐가 아닌 어떠한 마음으로 일을 하느냐..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리의 미래교육을 누구에게 맡기는게 좋을까요?]]></title>
+        <id>https://alook.so/posts/latX3x</id>
+        <link href="https://alook.so/posts/latX3x"/>
+        <updated>2022-02-14T11:13:26.563Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latX3x">우리의 미래교육을 누구에게 맡기는게 좋을까요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마음을 다치지 않기 위해선 무엇보다 냉소하지 않는 게 중요하다.]]></title>
         <id>https://alook.so/posts/dztW52</id>
@@ -20,25 +41,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt3m2">답글: 근데 왜 아버지의 출신만 물은거죠?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[예전에는 올림픽에서 금메달이 아니면 ᆢ]]></title>
-        <id>https://alook.so/posts/92t2R5</id>
-        <link href="https://alook.so/posts/92t2R5"/>
-        <updated>2022-02-14T09:15:43.699Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t2R5">예전에는 올림픽에서 금메달이 아니면 ᆢ</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[서울과 경기는 고향이 될 수 없을까]]></title>
         <id>https://alook.so/posts/q1tkWX</id>
         <link href="https://alook.so/posts/q1tkWX"/>
         <updated>2022-02-14T09:15:43.701Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tkWX">서울과 경기는 고향이 될 수 없을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 호남에서 민주당의 초(超) 우위의 작동방식(feat. 조귀동 "전라디언의 굴레")]]></title>
-        <id>https://alook.so/posts/q1tk1X</id>
-        <link href="https://alook.so/posts/q1tk1X"/>
-        <updated>2022-02-14T09:15:43.703Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tk1X">답글: 호남에서 민주당의 초(超) 우위의 작동방식(feat. 조귀동 "전라디언의 굴레")</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스마트워치로 산소포화도측정기 대체 가능할까요?]]></title>
@@ -109,12 +116,5 @@
         <link href="https://alook.so/posts/Pvt1x0"/>
         <updated>2022-02-13T17:13:47.647Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt1x0">메타버스의 미래 어떻게 보시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alookso [구독] 메뉴, 혹시 들어가보셨나요]]></title>
-        <id>https://alook.so/posts/LKtkxK</id>
-        <link href="https://alook.so/posts/LKtkxK"/>
-        <updated>2022-02-14T09:15:43.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtkxK">alookso [구독] 메뉴, 혹시 들어가보셨나요</a>]]></content>
     </entry>
 </feed>
