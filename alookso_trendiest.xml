@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-14T11:14:45.339Z</updated>
+    <updated>2022-02-14T13:19:12.488Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나는 정녕 루시퍼였나 (feat.얼룩소 포인트)]]></title>
+        <id>https://alook.so/posts/DjtDDG</id>
+        <link href="https://alook.so/posts/DjtDDG"/>
+        <updated>2022-02-14T13:17:59.855Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtDDG">나는 정녕 루시퍼였나 (feat.얼룩소 포인트)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈은 누가 쓸까요?]]></title>
+        <id>https://alook.so/posts/VntppV</id>
+        <link href="https://alook.so/posts/VntppV"/>
+        <updated>2022-02-14T13:17:59.856Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntppV">돈은 누가 쓸까요? </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[타고난 천재는 없다는데 동의하시나요?]]></title>
         <id>https://alook.so/posts/6MtBEr</id>
@@ -39,6 +53,13 @@
         <link href="https://alook.so/posts/njt3m2"/>
         <updated>2022-02-14T09:15:43.698Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt3m2">답글: 근데 왜 아버지의 출신만 물은거죠?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: ‘셀프 재택치료’ 준비는 하되, 증상 발현 시 병원가세요.]]></title>
+        <id>https://alook.so/posts/OEtomB</id>
+        <link href="https://alook.so/posts/OEtomB"/>
+        <updated>2022-02-14T13:17:59.859Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtomB">답글: ‘셀프 재택치료’ 준비는 하되, 증상 발현 시 병원가세요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울과 경기는 고향이 될 수 없을까]]></title>
@@ -97,24 +118,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtJMo">시월드! 새판을 짜다!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[많이 아는 사람 보다 깊이 있는 사람이 되기를]]></title>
-        <id>https://alook.so/posts/XBtwp9</id>
-        <link href="https://alook.so/posts/XBtwp9"/>
-        <updated>2022-02-14T01:56:26.446Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtwp9">많이 아는 사람 보다 깊이 있는 사람이 되기를</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[격리기간의 장점]]></title>
         <id>https://alook.so/posts/xltl80</id>
         <link href="https://alook.so/posts/xltl80"/>
         <updated>2022-02-13T16:20:24.877Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltl80">격리기간의 장점</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타버스의 미래 어떻게 보시나요?]]></title>
-        <id>https://alook.so/posts/Pvt1x0</id>
-        <link href="https://alook.so/posts/Pvt1x0"/>
-        <updated>2022-02-13T17:13:47.647Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt1x0">메타버스의 미래 어떻게 보시나요?</a>]]></content>
     </entry>
 </feed>
