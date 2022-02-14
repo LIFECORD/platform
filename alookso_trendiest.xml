@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-13T23:16:37.272Z</updated>
+    <updated>2022-02-14T01:57:42.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[급여 들어왔습니다]]></title>
+        <id>https://alook.so/posts/mbtKpm</id>
+        <link href="https://alook.so/posts/mbtKpm"/>
+        <updated>2022-02-14T01:56:26.392Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtKpm">급여 들어왔습니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글초보의 alookso 첫 글쓰기]]></title>
         <id>https://alook.so/posts/Kmtyq3</id>
@@ -25,6 +32,13 @@
         <link href="https://alook.so/posts/bWtJMo"/>
         <updated>2022-02-13T23:15:14.167Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtJMo">시월드! 새판을 짜다!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[많이 아는 사람 보다 깊이 있는 사람이 되기를]]></title>
+        <id>https://alook.so/posts/XBtwp9</id>
+        <link href="https://alook.so/posts/XBtwp9"/>
+        <updated>2022-02-14T01:56:26.446Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtwp9">많이 아는 사람 보다 깊이 있는 사람이 되기를</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최재호 님을 위한 변명]]></title>
@@ -48,25 +62,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltl80">격리기간의 장점</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인공지능이 학술적(?) 의미를 가지려면]]></title>
-        <id>https://alook.so/posts/a0tlK3</id>
-        <link href="https://alook.so/posts/a0tlK3"/>
-        <updated>2022-02-13T17:13:47.647Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tlK3">인공지능이 학술적(?) 의미를 가지려면</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[메타버스의 미래 어떻게 보시나요?]]></title>
         <id>https://alook.so/posts/Pvt1x0</id>
         <link href="https://alook.so/posts/Pvt1x0"/>
         <updated>2022-02-13T17:13:47.647Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt1x0">메타버스의 미래 어떻게 보시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[검증을 원한다니 죄송스럽지만, 살펴 보아 주세요]]></title>
-        <id>https://alook.so/posts/OEtoGE</id>
-        <link href="https://alook.so/posts/OEtoGE"/>
-        <updated>2022-02-13T16:20:24.877Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtoGE">검증을 원한다니 죄송스럽지만, 살펴 보아 주세요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안철수가 부릅니다, 단일화밖엔 난 몰라]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytxXO">지난주의 논쟁: 이진경의 분기와 차태서의 허탈(in 경향)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘20대 여성 1픽’으로 본 대통령선거와 그 우울한 미래]]></title>
+        <id>https://alook.so/posts/yEtOkJ</id>
+        <link href="https://alook.so/posts/yEtOkJ"/>
+        <updated>2022-02-14T01:56:26.453Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtOkJ">‘20대 여성 1픽’으로 본 대통령선거와 그 우울한 미래</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[alookso [구독] 메뉴, 혹시 들어가보셨나요]]></title>
         <id>https://alook.so/posts/LKtkxK</id>
         <link href="https://alook.so/posts/LKtkxK"/>
@@ -97,24 +104,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtkxK">alookso [구독] 메뉴, 혹시 들어가보셨나요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘이대남’밖의 ‘이대남’들이 행동에 나섰다]]></title>
-        <id>https://alook.so/posts/latXl2</id>
-        <link href="https://alook.so/posts/latXl2"/>
-        <updated>2022-02-13T08:17:10.555Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latXl2">‘이대남’밖의 ‘이대남’들이 행동에 나섰다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[토론에 관한 개인적인 생각 하나를 붙여 봅니다.]]></title>
         <id>https://alook.so/posts/Vntpj5</id>
         <link href="https://alook.so/posts/Vntpj5"/>
         <updated>2022-02-13T03:15:19.322Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntpj5">토론에 관한 개인적인 생각 하나를 붙여 봅니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 글의 나이는 몇 살일까.]]></title>
-        <id>https://alook.so/posts/dztW23</id>
-        <link href="https://alook.so/posts/dztW23"/>
-        <updated>2022-02-12T11:12:39.431Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztW23">내 글의 나이는 몇 살일까. </a>]]></content>
     </entry>
 </feed>
