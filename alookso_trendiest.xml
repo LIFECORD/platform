@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-16T00:56:21.903Z</updated>
+    <updated>2022-02-16T02:07:49.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -109,12 +109,5 @@
         <link href="https://alook.so/posts/kZtDRR"/>
         <updated>2022-02-15T03:16:19.535Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtDRR">그럼에도 대학은 선택이라고 가르치렵니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도저히 사랑할 수 없을, 나의 시어머니]]></title>
-        <id>https://alook.so/posts/BatxR0</id>
-        <link href="https://alook.so/posts/BatxR0"/>
-        <updated>2022-02-16T00:55:04.046Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatxR0">도저히 사랑할 수 없을, 나의 시어머니</a>]]></content>
     </entry>
 </feed>
