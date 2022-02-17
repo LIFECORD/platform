@@ -2,49 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-17T07:18:29.103Z</updated>
+    <updated>2022-02-17T10:18:40.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[임용 한달된 27세 공무원 극단적 선택, 주말도 없이 밤 12시까지 근무]]></title>
-        <id>https://alook.so/posts/latdY4</id>
-        <link href="https://alook.so/posts/latdY4"/>
-        <updated>2022-02-17T07:17:04.209Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latdY4">임용 한달된 27세 공무원 극단적 선택, 주말도 없이 밤 12시까지 근무</a>]]></content>
+        <title type="html"><![CDATA[답글: 신고가를 한번 찍으시기를 바랍니다.]]></title>
+        <id>https://alook.so/posts/4XtDll</id>
+        <link href="https://alook.so/posts/4XtDll"/>
+        <updated>2022-02-17T10:17:10.447Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtDll">답글: 신고가를 한번 찍으시기를 바랍니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부정확한 신속항원검사... 정부는 “PCR 대상 확대 어렵다”]]></title>
-        <id>https://alook.so/posts/Kmt0Gy</id>
-        <link href="https://alook.so/posts/Kmt0Gy"/>
-        <updated>2022-02-17T07:17:04.211Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt0Gy">부정확한 신속항원검사... 정부는 “PCR 대상 확대 어렵다”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신종 금융사기 ‘로맨스 스캠’ 코로나로 더 기승]]></title>
-        <id>https://alook.so/posts/54tJrV</id>
-        <link href="https://alook.so/posts/54tJrV"/>
-        <updated>2022-02-17T07:17:04.212Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tJrV">신종 금융사기 ‘로맨스 스캠’ 코로나로 더 기승</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브리드...하이브리드??]]></title>
-        <id>https://alook.so/posts/1RtdYz</id>
-        <link href="https://alook.so/posts/1RtdYz"/>
-        <updated>2022-02-17T07:17:04.212Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtdYz">하이브리드...하이브리드??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떡하면 좋을까...]]></title>
-        <id>https://alook.so/posts/o7to1w</id>
-        <link href="https://alook.so/posts/o7to1w"/>
-        <updated>2022-02-17T07:17:04.214Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7to1w">어떡하면 좋을까...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈만 보면 사람들은 정신을 못차리나보다.]]></title>
-        <id>https://alook.so/posts/70tdGl</id>
-        <link href="https://alook.so/posts/70tdGl"/>
-        <updated>2022-02-17T07:17:04.215Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tdGl">돈만 보면 사람들은 정신을 못차리나보다.</a>]]></content>
+        <title type="html"><![CDATA[캐나다, 백신 의무화 반대시위에 ‘긴급조치' 발동]]></title>
+        <id>https://alook.so/posts/XBtzeY</id>
+        <link href="https://alook.so/posts/XBtzeY"/>
+        <updated>2022-02-17T10:17:10.448Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtzeY">캐나다, 백신 의무화 반대시위에 ‘긴급조치' 발동</a>]]></content>
     </entry>
 </feed>
