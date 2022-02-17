@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-17T14:16:21.270Z</updated>
+    <updated>2022-02-17T15:17:19.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[퇴사하고 짐빼기..라 쓰고 맥시멀라이프라 읽기]]></title>
+        <id>https://alook.so/posts/70td8o</id>
+        <link href="https://alook.so/posts/70td8o"/>
+        <updated>2022-02-17T15:16:04.969Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70td8o">퇴사하고 짐빼기..라 쓰고 맥시멀라이프라 읽기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Add-on]얼룩소 프로젝트 9회차를 보완해봅시다.]]></title>
         <id>https://alook.so/posts/XBtzVw</id>
@@ -83,18 +90,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt0B7">우리는 안전한가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[외국은 정말 정점을 확인한 후 코로나 제한을 완화했을까?]]></title>
-        <id>https://alook.so/posts/WLtE5M</id>
-        <link href="https://alook.so/posts/WLtE5M"/>
-        <updated>2022-02-17T14:14:58.729Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtE5M">외국은 정말 정점을 확인한 후 코로나 제한을 완화했을까?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[한국에 특별기여한 난민들의 존엄]]></title>
         <id>https://alook.so/posts/92t2z4</id>
         <link href="https://alook.so/posts/92t2z4"/>
         <updated>2022-02-17T14:14:58.730Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t2z4">한국에 특별기여한 난민들의 존엄</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외국은 정말 정점을 확인한 후 코로나 제한을 완화했을까?]]></title>
+        <id>https://alook.so/posts/WLtE5M</id>
+        <link href="https://alook.so/posts/WLtE5M"/>
+        <updated>2022-02-17T14:14:58.729Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtE5M">외국은 정말 정점을 확인한 후 코로나 제한을 완화했을까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[첫 출금]]></title>
@@ -109,13 +116,6 @@
         <link href="https://alook.so/posts/J5tZR5"/>
         <updated>2022-02-16T17:15:06.769Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tZR5">기대수명의 지역 불평등이 줄어들었다고? - 답글: [카우레터_B컷] 기대 수명으로 알아본 건강 불평등</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 일자리의 변화: 장시간 노동의 감소, 시간제 일자리의 증가]]></title>
-        <id>https://alook.so/posts/vKtXoG</id>
-        <link href="https://alook.so/posts/vKtXoG"/>
-        <updated>2022-02-16T17:15:06.778Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtXoG">한국 일자리의 변화: 장시간 노동의 감소, 시간제 일자리의 증가</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[“여성가족부 폐지”라는 밈]]></title>
