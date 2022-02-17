@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-17T02:25:28.959Z</updated>
+    <updated>2022-02-17T05:16:02.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[마음을 울리는 응답하라 명대사들]]></title>
-        <id>https://alook.so/posts/xlt3Jb</id>
-        <link href="https://alook.so/posts/xlt3Jb"/>
-        <updated>2022-02-17T02:24:07.933Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt3Jb">마음을 울리는 응답하라 명대사들</a>]]></content>
+        <title type="html"><![CDATA[주식 거래량의 비밀]]></title>
+        <id>https://alook.so/posts/mbteOM</id>
+        <link href="https://alook.so/posts/mbteOM"/>
+        <updated>2022-02-17T05:14:35.786Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbteOM">주식 거래량의 비밀</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남녀간의 사랑과 결혼]]></title>
-        <id>https://alook.so/posts/RGtvqG</id>
-        <link href="https://alook.so/posts/RGtvqG"/>
-        <updated>2022-02-17T02:24:07.934Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtvqG">남녀간의 사랑과 결혼</a>]]></content>
+        <title type="html"><![CDATA[너무나 대조 되는 두 후보의 경제정책]]></title>
+        <id>https://alook.so/posts/54tJBV</id>
+        <link href="https://alook.so/posts/54tJBV"/>
+        <updated>2022-02-17T05:14:35.787Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tJBV">너무나 대조 되는 두 후보의 경제정책 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유튜브는 이제 믿을 곳이 못되네요.]]></title>
-        <id>https://alook.so/posts/Bat1qm</id>
-        <link href="https://alook.so/posts/Bat1qm"/>
-        <updated>2022-02-17T02:24:07.934Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat1qm">유튜브는 이제 믿을 곳이 못되네요.</a>]]></content>
+        <title type="html"><![CDATA[내가 직접 만들어 쓰는 독립형태양광]]></title>
+        <id>https://alook.so/posts/o7toLw</id>
+        <link href="https://alook.so/posts/o7toLw"/>
+        <updated>2022-02-17T05:14:35.788Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7toLw">내가 직접 만들어 쓰는 독립형태양광</a>]]></content>
     </entry>
 </feed>
