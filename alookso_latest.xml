@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-18T09:16:35.770Z</updated>
+    <updated>2022-02-18T14:16:26.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[재업) 내가 싫어하는 후보가 당선되었을 때, 어떻게 사셨나요?]]></title>
-        <id>https://alook.so/posts/Bat1mR</id>
-        <link href="https://alook.so/posts/Bat1mR"/>
-        <updated>2022-02-18T09:15:13.105Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat1mR">재업) 내가 싫어하는 후보가 당선되었을 때, 어떻게 사셨나요?</a>]]></content>
+        <title type="html"><![CDATA[우주여행의 시대 (1 좌석당 5억 4천만 원)]]></title>
+        <id>https://alook.so/posts/q1tMLk</id>
+        <link href="https://alook.so/posts/q1tMLk"/>
+        <updated>2022-02-18T14:14:57.909Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tMLk">우주여행의 시대 (1 좌석당 5억 4천만 원)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[300만원 들여 바디프로필을 ?!]]></title>
-        <id>https://alook.so/posts/LKt5E5</id>
-        <link href="https://alook.so/posts/LKt5E5"/>
-        <updated>2022-02-18T09:15:13.106Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt5E5">300만원 들여 바디프로필을 ?! </a>]]></content>
+        <title type="html"><![CDATA[무언가의 공허함.]]></title>
+        <id>https://alook.so/posts/DjtZWm</id>
+        <link href="https://alook.so/posts/DjtZWm"/>
+        <updated>2022-02-18T14:14:57.910Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtZWm">무언가의 공허함.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만용처럼 무모한 행동은 없다]]></title>
-        <id>https://alook.so/posts/njtp43</id>
-        <link href="https://alook.so/posts/njtp43"/>
-        <updated>2022-02-18T09:15:13.107Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtp43">만용처럼 무모한 행동은 없다 </a>]]></content>
+        <title type="html"><![CDATA[줄어드는 인구, 줄어드는(?) 군인?]]></title>
+        <id>https://alook.so/posts/70tdWV</id>
+        <link href="https://alook.so/posts/70tdWV"/>
+        <updated>2022-02-18T14:14:57.911Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tdWV">줄어드는 인구, 줄어드는(?) 군인? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어려운 선거라지만 들어보세요. 청년정책을 말하다.]]></title>
-        <id>https://alook.so/posts/6Mtxaa</id>
-        <link href="https://alook.so/posts/6Mtxaa"/>
-        <updated>2022-02-18T09:15:13.108Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtxaa">어려운 선거라지만 들어보세요. 청년정책을 말하다. </a>]]></content>
+        <title type="html"><![CDATA[병뚜껑과 주식]]></title>
+        <id>https://alook.so/posts/YytrnL</id>
+        <link href="https://alook.so/posts/YytrnL"/>
+        <updated>2022-02-18T14:14:57.912Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytrnL">병뚜껑과 주식</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어렸을 때로 시간 여행]]></title>
-        <id>https://alook.so/posts/3wtR5M</id>
-        <link href="https://alook.so/posts/3wtR5M"/>
-        <updated>2022-02-18T09:15:13.108Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtR5M">어렸을 때로 시간 여행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구 박근혜 사저..음 고향이 맞을까요?]]></title>
-        <id>https://alook.so/posts/E7t0O2</id>
-        <link href="https://alook.so/posts/E7t0O2"/>
-        <updated>2022-02-18T09:15:13.109Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t0O2">대구 박근혜 사저..음 고향이 맞을까요?</a>]]></content>
+        <title type="html"><![CDATA[아이구 이를 어찌합니까?]]></title>
+        <id>https://alook.so/posts/rDtmGj</id>
+        <link href="https://alook.so/posts/rDtmGj"/>
+        <updated>2022-02-18T14:14:57.913Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtmGj">아이구 이를 어찌합니까? </a>]]></content>
     </entry>
 </feed>
