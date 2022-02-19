@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-19T06:20:11.111Z</updated>
+    <updated>2022-02-19T07:16:42.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -95,12 +95,5 @@
         <link href="https://alook.so/posts/bWteLY"/>
         <updated>2022-02-18T04:19:30.015Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWteLY">대선 후보들의 취미가 궁금</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상호비방 말고 정책을 이야기 하는 선거는 안 되는 건가요?]]></title>
-        <id>https://alook.so/posts/xlt37w</id>
-        <link href="https://alook.so/posts/xlt37w"/>
-        <updated>2022-02-19T05:13:40.282Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt37w">상호비방 말고 정책을 이야기 하는 선거는 안 되는 건가요?</a>]]></content>
     </entry>
 </feed>
