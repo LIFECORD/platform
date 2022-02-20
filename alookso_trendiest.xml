@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-20T03:17:56.233Z</updated>
+    <updated>2022-02-20T07:15:57.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[삼시세끼 차리는 어머니께 항상 감사하고 죄송합니다.]]></title>
+        <id>https://alook.so/posts/Kmt0vD</id>
+        <link href="https://alook.so/posts/Kmt0vD"/>
+        <updated>2022-02-20T07:14:41.888Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt0vD">삼시세끼 차리는 어머니께 항상 감사하고 죄송합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼시세끼를 '얻어먹는' 입장이라 죄송합니다..]]></title>
+        <id>https://alook.so/posts/eVtoLP</id>
+        <link href="https://alook.so/posts/eVtoLP"/>
+        <updated>2022-02-20T07:14:41.890Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtoLP">삼시세끼를 '얻어먹는' 입장이라 죄송합니다..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지자체장의 공약이행률, 중요할까요?]]></title>
+        <id>https://alook.so/posts/G1t82D</id>
+        <link href="https://alook.so/posts/G1t82D"/>
+        <updated>2022-02-20T07:14:41.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t82D">지자체장의 공약이행률, 중요할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 재택치료 중 사망, 나라가 지켜주지 못한 걸까]]></title>
+        <id>https://alook.so/posts/LKt5rD</id>
+        <link href="https://alook.so/posts/LKt5rD"/>
+        <updated>2022-02-20T07:14:41.892Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt5rD">코로나19 재택치료 중 사망, 나라가 지켜주지 못한 걸까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 소확행은?]]></title>
+        <id>https://alook.so/posts/q1tMqy</id>
+        <link href="https://alook.so/posts/q1tMqy"/>
+        <updated>2022-02-20T07:14:41.894Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tMqy">나의 소확행은?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 편해야 사람들에게 웃음을 줄 수 있다]]></title>
+        <id>https://alook.so/posts/6Mtxy6</id>
+        <link href="https://alook.so/posts/6Mtxy6"/>
+        <updated>2022-02-20T03:16:41.129Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtxy6">내가 편해야 사람들에게 웃음을 줄 수 있다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무비 무브 21] 북촌방향 (2011); 위대한 일상의 도돌이표]]></title>
         <id>https://alook.so/posts/OEt5py</id>
@@ -32,13 +74,6 @@
         <link href="https://alook.so/posts/70tdpZ"/>
         <updated>2022-02-20T03:16:41.128Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tdpZ">코로나, 오미크론을 '단순한 감기'라고 인식하면 안되는 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 편해야 사람들에게 웃음을 줄 수 있다]]></title>
-        <id>https://alook.so/posts/6Mtxy6</id>
-        <link href="https://alook.so/posts/6Mtxy6"/>
-        <updated>2022-02-20T03:16:41.129Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtxy6">내가 편해야 사람들에게 웃음을 줄 수 있다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['발끈' 하던 사춘기 아들, 아빠 퇴근만 기다리는 이유]]></title>
@@ -81,26 +116,5 @@
         <link href="https://alook.so/posts/dztZLV"/>
         <updated>2022-02-19T02:00:40.967Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztZLV">군복무 학점 모든 대학 인정, 찬성. 이유. 보완. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티켓값 5억? 우주여행의 시대 그리고 과제.]]></title>
-        <id>https://alook.so/posts/q1tMLk</id>
-        <link href="https://alook.so/posts/q1tMLk"/>
-        <updated>2022-02-18T17:16:21.333Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tMLk">티켓값 5억? 우주여행의 시대 그리고 과제.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[궁금한 점 하나.]]></title>
-        <id>https://alook.so/posts/92tBoa</id>
-        <link href="https://alook.so/posts/92tBoa"/>
-        <updated>2022-02-20T03:16:41.138Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tBoa">궁금한 점 하나. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당연한 희생은 없다]]></title>
-        <id>https://alook.so/posts/rDtm0x</id>
-        <link href="https://alook.so/posts/rDtm0x"/>
-        <updated>2022-02-19T23:15:28.939Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtm0x">당연한 희생은 없다</a>]]></content>
     </entry>
 </feed>
