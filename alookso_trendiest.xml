@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-21T11:15:50.102Z</updated>
+    <updated>2022-02-21T12:26:00.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA["구조적 성차별 없다" 발언, 윤석열은 주워담을까?]]></title>
+        <id>https://alook.so/posts/8Wtqnm</id>
+        <link href="https://alook.so/posts/8Wtqnm"/>
+        <updated>2022-02-21T12:24:48.034Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtqnm">"구조적 성차별 없다" 발언, 윤석열은 주워담을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이렇게나 많은 따봉숫자가 안보이시나요?]]></title>
+        <id>https://alook.so/posts/0ktxdO</id>
+        <link href="https://alook.so/posts/0ktxdO"/>
+        <updated>2022-02-21T12:24:48.035Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktxdO">이렇게나 많은 따봉숫자가 안보이시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안철수 후보의 두 번째 초식: 소상공인 만기 대출 연장]]></title>
+        <id>https://alook.so/posts/DjtWOx</id>
+        <link href="https://alook.so/posts/DjtWOx"/>
+        <updated>2022-02-21T12:24:48.039Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtWOx">안철수 후보의 두 번째 초식: 소상공인 만기 대출 연장</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[친구 없으면 죽어야지...?! (코로나.. 몇 편이더라...)]]></title>
         <id>https://alook.so/posts/dztVrj</id>
@@ -69,13 +90,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtdjd">지하철 틈에 빠질까봐 고민해보신 적 있으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[무드Q] 로드 무비 - 길 위의 인생]]></title>
-        <id>https://alook.so/posts/Pvtbjx</id>
-        <link href="https://alook.so/posts/Pvtbjx"/>
-        <updated>2022-02-21T08:19:35.059Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtbjx">[무드Q] 로드 무비 - 길 위의 인생</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[세상을 멈추게 만들었던 노부부의 꼭 잡은 두손]]></title>
         <id>https://alook.so/posts/vKtDZ0</id>
         <link href="https://alook.so/posts/vKtDZ0"/>
@@ -83,24 +97,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtDZ0">세상을 멈추게 만들었던 노부부의 꼭 잡은 두손</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나, 블록체인이 바꿔놓은 졸업식 풍경]]></title>
-        <id>https://alook.so/posts/yEtWjL</id>
-        <link href="https://alook.so/posts/yEtWjL"/>
-        <updated>2022-02-20T15:16:12.542Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtWjL">코로나, 블록체인이 바꿔놓은 졸업식 풍경</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[발렌타인데이 초콜릿의 달콤함과 씁쓸함.]]></title>
         <id>https://alook.so/posts/1Rtd6d</id>
         <link href="https://alook.so/posts/1Rtd6d"/>
         <updated>2022-02-20T13:16:59.429Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtd6d">발렌타인데이 초콜릿의 달콤함과 씁쓸함.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼시세끼를 차리는 마음에 대해]]></title>
-        <id>https://alook.so/posts/LKt5XJ</id>
-        <link href="https://alook.so/posts/LKt5XJ"/>
-        <updated>2022-02-19T23:15:28.922Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt5XJ">삼시세끼를 차리는 마음에 대해</a>]]></content>
     </entry>
 </feed>
