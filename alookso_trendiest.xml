@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-22T00:54:45.279Z</updated>
+    <updated>2022-02-22T02:02:54.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,11 +13,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntZ0z">저는 무엇을 잘할까요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소모품의 수명이 다하기전에 결단하시길!]]></title>
-        <id>https://alook.so/posts/xltknE</id>
-        <link href="https://alook.so/posts/xltknE"/>
-        <updated>2022-02-22T00:53:29.992Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltknE">소모품의 수명이 다하기전에 결단하시길!</a>]]></content>
+        <title type="html"><![CDATA[대한체육회, "쇼트트랙 편파판정 제소 안한다"]]></title>
+        <id>https://alook.so/posts/eVtwYq</id>
+        <link href="https://alook.so/posts/eVtwYq"/>
+        <updated>2022-02-22T02:01:35.904Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtwYq">대한체육회, "쇼트트랙 편파판정 제소 안한다" </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저는 부모님보다 돈이 더 좋습니다.]]></title>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tWd6">저는 부모님보다 돈이 더 좋습니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[지역화폐는 그래서 소상공인 지원책인가, 아닌가?]]></title>
+        <id>https://alook.so/posts/WLtv1d</id>
+        <link href="https://alook.so/posts/WLtv1d"/>
+        <updated>2022-02-22T02:01:35.905Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtv1d">지역화폐는 그래서 소상공인 지원책인가, 아닌가?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[평균과 중위값의 차이 중소기업, 대기업 임금 격차로 설명되나..😥]]></title>
         <id>https://alook.so/posts/o7t6mz</id>
         <link href="https://alook.so/posts/o7t6mz"/>
         <updated>2022-02-21T16:20:47.449Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t6mz">평균과 중위값의 차이 중소기업, 대기업 임금 격차로 설명되나..😥 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취미생활 손그림 따라 그리기 제가 따라 그린 그림 올려봅니다. ^^ 😀]]></title>
-        <id>https://alook.so/posts/E7tDww</id>
-        <link href="https://alook.so/posts/E7tDww"/>
-        <updated>2022-02-21T16:20:47.458Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tDww">취미생활 손그림 따라 그리기 제가 따라 그린 그림 올려봅니다. ^^ 😀 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[심상정의 5년 전 1분, 그리고 오늘의 1분]]></title>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtvZa">윤석열 후보는 세금을 왜 걷는지 알고 있을까요? </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[취미생활 손그림 따라 그리기 제가 따라 그린 그림 올려봅니다. ^^ 😀]]></title>
+        <id>https://alook.so/posts/E7tDww</id>
+        <link href="https://alook.so/posts/E7tDww"/>
+        <updated>2022-02-21T16:20:47.458Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tDww">취미생활 손그림 따라 그리기 제가 따라 그린 그림 올려봅니다. ^^ 😀 </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[뉴스 issue] 고객과 호갱 사이]]></title>
         <id>https://alook.so/posts/YytnDJ</id>
         <link href="https://alook.so/posts/YytnDJ"/>
@@ -76,11 +83,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tPRn">윤석열 후보의 국가부채 걱정</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국물도 없다..?👀 제가 잘 들은 게 맞나요]]></title>
-        <id>https://alook.so/posts/kZtoaj</id>
-        <link href="https://alook.so/posts/kZtoaj"/>
-        <updated>2022-02-21T17:15:24.407Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtoaj">국물도 없다..?👀 제가 잘 들은 게 맞나요</a>]]></content>
+        <title type="html"><![CDATA[소모품의 수명이 다하기전에 결단하시길!]]></title>
+        <id>https://alook.so/posts/xltknE</id>
+        <link href="https://alook.so/posts/xltknE"/>
+        <updated>2022-02-22T00:53:29.992Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltknE">소모품의 수명이 다하기전에 결단하시길!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["구조적 성차별 없다" 발언, 윤석열은 주워담을까?]]></title>
@@ -116,13 +123,6 @@
         <link href="https://alook.so/posts/0ktRvo"/>
         <updated>2022-02-21T08:19:35.049Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktRvo">퇴사하고 소를 키우겠다는 동료가 남 일 같지 않았다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤔 어떤 대통령 후보의 '120시간']]></title>
-        <id>https://alook.so/posts/OEt9wx</id>
-        <link href="https://alook.so/posts/OEt9wx"/>
-        <updated>2022-02-22T00:53:30.004Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt9wx">🤔 어떤 대통령 후보의 '120시간'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[늦은 아침 생각] 글을 쓴다는 것은 굉장한 일]]></title>
