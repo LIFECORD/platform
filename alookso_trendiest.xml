@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-22T07:18:23.622Z</updated>
+    <updated>2022-02-22T08:20:06.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[모두의 불편함과 심상정 최후의 1분]]></title>
+        <id>https://alook.so/posts/LKt8P2</id>
+        <link href="https://alook.so/posts/LKt8P2"/>
+        <updated>2022-02-22T08:18:46.127Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt8P2">모두의 불편함과 심상정 최후의 1분</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대선 tip take talk 2] "기축통화"를 두고 '바보 팔씨름']]></title>
+        <id>https://alook.so/posts/bWtR9G</id>
+        <link href="https://alook.so/posts/bWtR9G"/>
+        <updated>2022-02-22T08:18:46.127Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtR9G">[대선 tip take talk 2] "기축통화"를 두고 '바보 팔씨름'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘디지털 데이터 경제’가 뭐라고요?]]></title>
         <id>https://alook.so/posts/92tVEM</id>
@@ -74,27 +88,6 @@
         <link href="https://alook.so/posts/WLtvZa"/>
         <updated>2022-02-21T16:20:47.458Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtvZa">윤석열 후보는 세금을 왜 걷는지 알고 있을까요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 데이터 경제보다 공공데이터 개방]]></title>
-        <id>https://alook.so/posts/Zktq7b</id>
-        <link href="https://alook.so/posts/Zktq7b"/>
-        <updated>2022-02-22T06:18:10.365Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktq7b">디지털 데이터 경제보다 공공데이터 개방</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴스 issue] 고객과 호갱 사이]]></title>
-        <id>https://alook.so/posts/YytnDJ</id>
-        <link href="https://alook.so/posts/YytnDJ"/>
-        <updated>2022-02-21T16:20:47.459Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytnDJ">[뉴스 issue] 고객과 호갱 사이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 후보의 국가부채 걱정]]></title>
-        <id>https://alook.so/posts/w9tPRn</id>
-        <link href="https://alook.so/posts/w9tPRn"/>
-        <updated>2022-02-21T16:20:47.460Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tPRn">윤석열 후보의 국가부채 걱정</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안철수 후보의 두 번째 초식: 소상공인 만기 대출 연장]]></title>
