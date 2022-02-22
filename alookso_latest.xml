@@ -2,56 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-22T22:17:03.785Z</updated>
+    <updated>2022-02-22T23:17:33.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[혈압관리가 필요한 시기]]></title>
-        <id>https://alook.so/posts/70txxo</id>
-        <link href="https://alook.so/posts/70txxo"/>
-        <updated>2022-02-22T22:15:41.482Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70txxo">혈압관리가 필요한 시기</a>]]></content>
+        <title type="html"><![CDATA[남탓? 누구탓? 선택의 후회!]]></title>
+        <id>https://alook.so/posts/YytVYZ</id>
+        <link href="https://alook.so/posts/YytVYZ"/>
+        <updated>2022-02-22T23:16:01.100Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytVYZ">남탓? 누구탓? 선택의 후회!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일단은 사장님께 물어보셔야 합니다.]]></title>
-        <id>https://alook.so/posts/rDt664</id>
-        <link href="https://alook.so/posts/rDt664"/>
-        <updated>2022-02-22T22:15:41.483Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt664">일단은 사장님께 물어보셔야 합니다.</a>]]></content>
+        <title type="html"><![CDATA[나는 인생의 반을 지난 지금 잘 해내고 있을까?]]></title>
+        <id>https://alook.so/posts/bWtqrp</id>
+        <link href="https://alook.so/posts/bWtqrp"/>
+        <updated>2022-02-22T23:16:01.102Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtqrp">나는 인생의 반을 지난 지금 잘 해내고 있을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미라클모닝 꾸준히 해보신분~?]]></title>
-        <id>https://alook.so/posts/jdt44M</id>
-        <link href="https://alook.so/posts/jdt44M"/>
-        <updated>2022-02-22T22:15:41.484Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt44M">미라클모닝 꾸준히 해보신분~?</a>]]></content>
+        <title type="html"><![CDATA[마음을 적는 일기장 40년]]></title>
+        <id>https://alook.so/posts/a0tP6m</id>
+        <link href="https://alook.so/posts/a0tP6m"/>
+        <updated>2022-02-22T23:16:01.104Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tP6m">마음을 적는 일기장 40년</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성대모사도 모두 금지해야 하지 않을까요?]]></title>
-        <id>https://alook.so/posts/ZktEEr</id>
-        <link href="https://alook.so/posts/ZktEEr"/>
-        <updated>2022-02-22T22:15:41.485Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktEEr">성대모사도 모두 금지해야 하지 않을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어제  오후 9시  신규 확진자 15만]]></title>
-        <id>https://alook.so/posts/dztLLB</id>
-        <link href="https://alook.so/posts/dztLLB"/>
-        <updated>2022-02-22T22:15:41.486Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztLLB">어제  오후 9시  신규 확진자 15만</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코인의 예상 지도]]></title>
-        <id>https://alook.so/posts/J5t11w</id>
-        <link href="https://alook.so/posts/J5t11w"/>
-        <updated>2022-02-22T22:15:41.487Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t11w">코인의 예상 지도</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유짱과 마왕 - 이렇게 귀여운 용사는 처음이야!]]></title>
-        <id>https://alook.so/posts/potaaZ</id>
-        <link href="https://alook.so/posts/potaaZ"/>
-        <updated>2022-02-22T22:15:41.489Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potaaZ">유짱과 마왕 - 이렇게 귀여운 용사는 처음이야!</a>]]></content>
+        <title type="html"><![CDATA[좌우명]]></title>
+        <id>https://alook.so/posts/ZktEwO</id>
+        <link href="https://alook.so/posts/ZktEwO"/>
+        <updated>2022-02-22T23:16:01.106Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktEwO">좌우명</a>]]></content>
     </entry>
 </feed>
