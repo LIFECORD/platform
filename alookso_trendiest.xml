@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-22T08:20:06.003Z</updated>
+    <updated>2022-02-22T09:17:54.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이...이거 어디서 많이 들어본 말인거같은데? (feat.대처)]]></title>
+        <id>https://alook.so/posts/vKtkBb</id>
+        <link href="https://alook.so/posts/vKtkBb"/>
+        <updated>2022-02-22T09:16:38.325Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtkBb">이...이거 어디서 많이 들어본 말인거같은데? (feat.대처)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무심함이 미치는 영향]]></title>
+        <id>https://alook.so/posts/jdt4KR</id>
+        <link href="https://alook.so/posts/jdt4KR"/>
+        <updated>2022-02-22T09:16:38.333Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt4KR">무심함이 미치는 영향</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모두의 불편함과 심상정 최후의 1분]]></title>
         <id>https://alook.so/posts/LKt8P2</id>
@@ -27,13 +41,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tVEM">‘디지털 데이터 경제’가 뭐라고요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열 후보의 디지털 데이터 경제는 도대체 무엇을 말하시는 걸까요?]]></title>
-        <id>https://alook.so/posts/8WtqlP</id>
-        <link href="https://alook.so/posts/8WtqlP"/>
-        <updated>2022-02-22T07:17:07.253Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtqlP">윤석열 후보의 디지털 데이터 경제는 도대체 무엇을 말하시는 걸까요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[두 가지 질문 - 답글: '이대남'과 '이대녀'의 표심은 어디서 갈리나 [대선서베이]]]></title>
         <id>https://alook.so/posts/M9tJP8</id>
         <link href="https://alook.so/posts/M9tJP8"/>
@@ -41,18 +48,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tJP8">두 가지 질문 - 답글: '이대남'과 '이대녀'의 표심은 어디서 갈리나 [대선서베이]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나의 출근을 방해하는 장애인단체 시위]]></title>
-        <id>https://alook.so/posts/VntZ10</id>
-        <link href="https://alook.so/posts/VntZ10"/>
-        <updated>2022-02-22T04:19:15.057Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntZ10">나의 출근을 방해하는 장애인단체 시위</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[삼년쓰던 스마트폰, 배터리를 교체하다]]></title>
         <id>https://alook.so/posts/LKt8OK</id>
         <link href="https://alook.so/posts/LKt8OK"/>
         <updated>2022-02-22T05:14:50.236Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt8OK">삼년쓰던 스마트폰, 배터리를 교체하다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 출근을 방해하는 장애인단체 시위]]></title>
+        <id>https://alook.so/posts/VntZ10</id>
+        <link href="https://alook.so/posts/VntZ10"/>
+        <updated>2022-02-22T04:19:15.057Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntZ10">나의 출근을 방해하는 장애인단체 시위</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대한체육회, "쇼트트랙 편파판정 제소 안 한다"]]></title>
@@ -67,6 +74,13 @@
         <link href="https://alook.so/posts/WLtv1d"/>
         <updated>2022-02-22T02:01:35.905Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtv1d">지역화폐는 그래서 소상공인 지원책인가, 아닌가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평균과 중위값의 차이 중소기업, 대기업 임금 격차로 설명되나..]]></title>
+        <id>https://alook.so/posts/o7t6mz</id>
+        <link href="https://alook.so/posts/o7t6mz"/>
+        <updated>2022-02-22T09:16:38.341Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t6mz">평균과 중위값의 차이 중소기업, 대기업 임금 격차로 설명되나.. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[심상정의 5년 전 1분, 그리고 오늘의 1분]]></title>
@@ -102,5 +116,12 @@
         <link href="https://alook.so/posts/0ktRvo"/>
         <updated>2022-02-21T08:19:35.049Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktRvo">퇴사하고 소를 키우겠다는 동료가 남 일 같지 않았다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤔 어떤 대통령 후보의 '120시간']]></title>
+        <id>https://alook.so/posts/OEt9wx</id>
+        <link href="https://alook.so/posts/OEt9wx"/>
+        <updated>2022-02-22T09:16:38.344Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt9wx">🤔 어떤 대통령 후보의 '120시간'</a>]]></content>
     </entry>
 </feed>
