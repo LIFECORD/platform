@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-22T21:15:06.314Z</updated>
+    <updated>2022-02-22T22:17:03.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[자가진단 키트로 코피를 터뜨리다.]]></title>
+        <id>https://alook.so/posts/1Rt1xj</id>
+        <link href="https://alook.so/posts/1Rt1xj"/>
+        <updated>2022-02-22T22:15:49.429Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt1xj">자가진단 키트로 코피를 터뜨리다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[층간 소음에 대해 어떻게 생각하시나요?]]></title>
+        <id>https://alook.so/posts/mbtyMR</id>
+        <link href="https://alook.so/posts/mbtyMR"/>
+        <updated>2022-02-22T22:15:49.430Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtyMR">층간 소음에 대해 어떻게 생각하시나요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[군대판 정신병원, '그린캠프'를 아시나요?]]></title>
         <id>https://alook.so/posts/rDt67X</id>
@@ -69,13 +83,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tJP8">두 가지 질문 - 답글: '이대남'과 '이대녀'의 표심은 어디서 갈리나 [대선서베이]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삼년쓰던 스마트폰, 배터리를 교체하다]]></title>
-        <id>https://alook.so/posts/LKt8OK</id>
-        <link href="https://alook.so/posts/LKt8OK"/>
-        <updated>2022-02-22T05:14:50.236Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt8OK">삼년쓰던 스마트폰, 배터리를 교체하다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나의 출근을 방해하는 장애인단체 시위]]></title>
         <id>https://alook.so/posts/VntZ10</id>
         <link href="https://alook.so/posts/VntZ10"/>
@@ -95,13 +102,6 @@
         <link href="https://alook.so/posts/bWtRlk"/>
         <updated>2022-02-21T16:20:47.456Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtRlk">심상정의 5년 전 1분, 그리고 오늘의 1분</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 안철수 후보가 돋보였던 토론 같습니다.]]></title>
-        <id>https://alook.so/posts/BatRE6</id>
-        <link href="https://alook.so/posts/BatRE6"/>
-        <updated>2022-02-22T20:16:06.418Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatRE6">저는 안철수 후보가 돋보였던 토론 같습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🤔 어떤 대통령 후보의 '120시간']]></title>
