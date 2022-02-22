@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-22T09:17:54.001Z</updated>
+    <updated>2022-02-22T10:18:38.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -60,13 +60,6 @@
         <link href="https://alook.so/posts/VntZ10"/>
         <updated>2022-02-22T04:19:15.057Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntZ10">나의 출근을 방해하는 장애인단체 시위</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한체육회, "쇼트트랙 편파판정 제소 안 한다"]]></title>
-        <id>https://alook.so/posts/eVtwYq</id>
-        <link href="https://alook.so/posts/eVtwYq"/>
-        <updated>2022-02-22T02:01:35.904Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtwYq">대한체육회, "쇼트트랙 편파판정 제소 안 한다" </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지역화폐는 그래서 소상공인 지원책인가, 아닌가?]]></title>
