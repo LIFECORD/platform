@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-22T11:15:07.773Z</updated>
+    <updated>2022-02-22T13:23:09.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오늘 나의 하루는 어땠나요?]]></title>
-        <id>https://alook.so/posts/G1tRX6</id>
-        <link href="https://alook.so/posts/G1tRX6"/>
-        <updated>2022-02-22T11:13:48.068Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tRX6">오늘 나의 하루는 어땠나요?</a>]]></content>
+        <title type="html"><![CDATA[그러고 보니 회원들이 많은 것 같아요.]]></title>
+        <id>https://alook.so/posts/yEt6vp</id>
+        <link href="https://alook.so/posts/yEt6vp"/>
+        <updated>2022-02-22T13:21:46.443Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt6vp">그러고 보니 회원들이 많은 것 같아요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 백신에 관한 나의 견해...]]></title>
+        <id>https://alook.so/posts/BatjLX</id>
+        <link href="https://alook.so/posts/BatjLX"/>
+        <updated>2022-02-22T13:21:46.444Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatjLX">코로나 백신에 관한 나의 견해...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보통사람들]]></title>
+        <id>https://alook.so/posts/LKt4Vx</id>
+        <link href="https://alook.so/posts/LKt4Vx"/>
+        <updated>2022-02-22T13:21:46.445Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt4Vx">보통사람들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수도권의 국회의원들이 왜 광주 시민들의 요구를 반대하나?]]></title>
+        <id>https://alook.so/posts/njt9bo</id>
+        <link href="https://alook.so/posts/njt9bo"/>
+        <updated>2022-02-22T13:21:46.446Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt9bo">수도권의 국회의원들이 왜 광주 시민들의 요구를 반대하나?</a>]]></content>
     </entry>
 </feed>
