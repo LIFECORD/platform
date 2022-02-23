@@ -2,22 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-22T23:17:33.660Z</updated>
+    <updated>2022-02-23T02:13:32.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전학온 친구들에게 텃새 고만 부리시고 ..]]></title>
+        <id>https://alook.so/posts/Kmtnjw</id>
+        <link href="https://alook.so/posts/Kmtnjw"/>
+        <updated>2022-02-23T02:12:14.953Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtnjw">전학온 친구들에게 텃새 고만 부리시고 ..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통계청 2020년 임금근로일자리 소득(보수) 결과 관련 기사]]></title>
+        <id>https://alook.so/posts/OEt7mj</id>
+        <link href="https://alook.so/posts/OEt7mj"/>
+        <updated>2022-02-23T02:12:15.199Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt7mj">통계청 2020년 임금근로일자리 소득(보수) 결과 관련 기사</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검찰의 정보공개 운영실적 평가와 개인정보 관리 이슈]]></title>
+        <id>https://alook.so/posts/mbtyPa</id>
+        <link href="https://alook.so/posts/mbtyPa"/>
+        <updated>2022-02-23T02:12:15.200Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtyPa">검찰의 정보공개 운영실적 평가와 개인정보 관리 이슈</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위험한 상황에 빠진 사람을 돕는 기지, 나도 발휘할 수 있을까?]]></title>
+        <id>https://alook.so/posts/dztLKJ</id>
+        <link href="https://alook.so/posts/dztLKJ"/>
+        <updated>2022-02-23T02:12:15.201Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztLKJ">위험한 상황에 빠진 사람을 돕는 기지, 나도 발휘할 수 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진짜 필요한 초등학교 입학 준비 - 마음 편 -]]></title>
+        <id>https://alook.so/posts/bWtq15</id>
+        <link href="https://alook.so/posts/bWtq15"/>
+        <updated>2022-02-23T02:12:15.201Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtq15">진짜 필요한 초등학교 입학 준비 - 마음 편 -</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이글이 읽혀질까요? ㅎㅎ]]></title>
         <id>https://alook.so/posts/8WtmqW</id>
         <link href="https://alook.so/posts/8WtmqW"/>
         <updated>2022-02-22T23:16:09.770Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtmqW">이글이 읽혀질까요? ㅎㅎ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자가진단 키트로 코피를 터뜨리다.]]></title>
-        <id>https://alook.so/posts/1Rt1xj</id>
-        <link href="https://alook.so/posts/1Rt1xj"/>
-        <updated>2022-02-22T22:15:49.429Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt1xj">자가진단 키트로 코피를 터뜨리다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[층간 소음에 대해 어떻게 생각하시나요?]]></title>
@@ -46,6 +74,13 @@
         <link href="https://alook.so/posts/YytVGW"/>
         <updated>2022-02-22T13:21:54.607Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytVGW">발달지연이란 이름으로 8년째 케어중입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 역대급 유입이네요...]]></title>
+        <id>https://alook.so/posts/PvtVoL</id>
+        <link href="https://alook.so/posts/PvtVoL"/>
+        <updated>2022-02-23T02:12:15.212Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtVoL">오늘 역대급 유입이네요...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이...이거 어디서 많이 들어본 말인거같은데? (feat.대처)]]></title>
@@ -83,38 +118,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tVEM">‘디지털 데이터 경제’가 뭐라고요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[두 가지 질문 - 답글: '이대남'과 '이대녀'의 표심은 어디서 갈리나 [대선서베이]]]></title>
-        <id>https://alook.so/posts/M9tJP8</id>
-        <link href="https://alook.so/posts/M9tJP8"/>
-        <updated>2022-02-22T06:18:10.357Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tJP8">두 가지 질문 - 답글: '이대남'과 '이대녀'의 표심은 어디서 갈리나 [대선서베이]</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나의 출근을 방해하는 장애인단체 시위]]></title>
         <id>https://alook.so/posts/VntZ10</id>
         <link href="https://alook.so/posts/VntZ10"/>
         <updated>2022-02-22T04:19:15.057Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntZ10">나의 출근을 방해하는 장애인단체 시위</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평균과 중위값의 차이 중소기업, 대기업 임금 격차로 설명되나..]]></title>
-        <id>https://alook.so/posts/o7t6mz</id>
-        <link href="https://alook.so/posts/o7t6mz"/>
-        <updated>2022-02-22T20:16:06.414Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t6mz">평균과 중위값의 차이 중소기업, 대기업 임금 격차로 설명되나.. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심상정의 5년 전 1분, 그리고 오늘의 1분]]></title>
-        <id>https://alook.so/posts/bWtRlk</id>
-        <link href="https://alook.so/posts/bWtRlk"/>
-        <updated>2022-02-21T16:20:47.456Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtRlk">심상정의 5년 전 1분, 그리고 오늘의 1분</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤔 어떤 대통령 후보의 '120시간']]></title>
-        <id>https://alook.so/posts/OEt9wx</id>
-        <link href="https://alook.so/posts/OEt9wx"/>
-        <updated>2022-02-22T20:16:06.419Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt9wx">🤔 어떤 대통령 후보의 '120시간'</a>]]></content>
     </entry>
 </feed>
