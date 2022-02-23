@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-23T13:22:20.209Z</updated>
+    <updated>2022-02-23T14:15:36.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[어제 저녁메뉴 였지만..]]></title>
+        <id>https://alook.so/posts/XBt6ed</id>
+        <link href="https://alook.so/posts/XBt6ed"/>
+        <updated>2022-02-23T14:14:23.616Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt6ed">어제 저녁메뉴 였지만..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결혼에 대해 어떻게 생각하나요?]]></title>
         <id>https://alook.so/posts/VntM1L</id>
@@ -95,13 +102,6 @@
         <link href="https://alook.so/posts/PvtVoL"/>
         <updated>2022-02-23T02:12:15.212Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtVoL">오늘 역대급 유입이네요...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[통계청 2020년 임금근로일자리 소득(보수) 결과 관련 기사]]></title>
-        <id>https://alook.so/posts/OEt7mj</id>
-        <link href="https://alook.so/posts/OEt7mj"/>
-        <updated>2022-02-23T13:21:04.527Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt7mj">통계청 2020년 임금근로일자리 소득(보수) 결과 관련 기사</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위험한 상황에 빠진 사람을 돕는 기지, 나도 발휘할 수 있을까?]]></title>
