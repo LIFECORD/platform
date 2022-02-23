@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-23T03:18:20.530Z</updated>
+    <updated>2022-02-23T04:22:20.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정부는 기업이 아니잖아요.]]></title>
+        <id>https://alook.so/posts/ZktEV3</id>
+        <link href="https://alook.so/posts/ZktEV3"/>
+        <updated>2022-02-23T04:21:03.493Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktEV3">정부는 기업이 아니잖아요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현 우크라이나 사태에 대한 키에프 언론의 통렬한 기고]]></title>
+        <id>https://alook.so/posts/bWtqWY</id>
+        <link href="https://alook.so/posts/bWtqWY"/>
+        <updated>2022-02-23T04:21:03.495Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtqWY">현 우크라이나 사태에 대한 키에프 언론의 통렬한 기고</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타트업 김대표만 있나, 성령충만교회 김목사도 있겠지]]></title>
         <id>https://alook.so/posts/vKtkqO</id>
@@ -27,13 +41,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potaw2">저두 그런 생각을 합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전학온 친구들에게 텃새 고만 부리시고 ..]]></title>
-        <id>https://alook.so/posts/Kmtnjw</id>
-        <link href="https://alook.so/posts/Kmtnjw"/>
-        <updated>2022-02-23T02:12:14.953Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtnjw">전학온 친구들에게 텃새 고만 부리시고 ..</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오늘 역대급 유입이네요...]]></title>
         <id>https://alook.so/posts/PvtVoL</id>
         <link href="https://alook.so/posts/PvtVoL"/>
@@ -53,13 +60,6 @@
         <link href="https://alook.so/posts/OEt7eq"/>
         <updated>2022-02-23T03:17:01.284Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt7eq">개인이 맞서기에는 너무 강한 알고리즘의 힘..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부채의 지속가능성과 국제 통화의 역사에 대한 이의제기]]></title>
-        <id>https://alook.so/posts/ZktEbm</id>
-        <link href="https://alook.so/posts/ZktEbm"/>
-        <updated>2022-02-23T03:17:01.287Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktEbm">부채의 지속가능성과 국제 통화의 역사에 대한 이의제기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위험한 상황에 빠진 사람을 돕는 기지, 나도 발휘할 수 있을까?]]></title>
