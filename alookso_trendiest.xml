@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-23T11:15:38.570Z</updated>
+    <updated>2022-02-23T12:26:58.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[“이 벽화를 지워도 되겠습니까?” 예술인들이 묻는 이유 [로컬 디깅]]]></title>
-        <id>https://alook.so/posts/jdt41X</id>
-        <link href="https://alook.so/posts/jdt41X"/>
-        <updated>2022-02-23T11:14:26.398Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt41X">“이 벽화를 지워도 되겠습니까?” 예술인들이 묻는 이유 [로컬 디깅] </a>]]></content>
+        <title type="html"><![CDATA[미국의 달러는 기축통화다. 그래서 나라 빚 걱정 안해도 될까?]]></title>
+        <id>https://alook.so/posts/latL5O</id>
+        <link href="https://alook.so/posts/latL5O"/>
+        <updated>2022-02-23T12:25:43.185Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latL5O">미국의 달러는 기축통화다. 그래서 나라 빚 걱정 안해도 될까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1K로 들어섰어요. 명예훈장같은 좋아요 1000 ~!!!]]></title>
