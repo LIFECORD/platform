@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-24T01:00:26.501Z</updated>
+    <updated>2022-02-24T03:16:44.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[무인 전철이 곧 개통된다고 합니다.]]></title>
-        <id>https://alook.so/posts/4Xt5kw</id>
-        <link href="https://alook.so/posts/4Xt5kw"/>
-        <updated>2022-02-24T00:59:01.823Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt5kw">무인 전철이 곧 개통된다고 합니다.</a>]]></content>
+        <title type="html"><![CDATA[연상연하 커플 몇살까지 가능할까요]]></title>
+        <id>https://alook.so/posts/VntrYm</id>
+        <link href="https://alook.so/posts/VntrYm"/>
+        <updated>2022-02-24T03:15:28.212Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntrYm">연상연하 커플 몇살까지 가능할까요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금은 코로나 현장에 있는 사람들의 비명에 귀를 기울일 때]]></title>
+        <id>https://alook.so/posts/Yyt3bB</id>
+        <link href="https://alook.so/posts/Yyt3bB"/>
+        <updated>2022-02-24T03:15:28.213Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt3bB">지금은 코로나 현장에 있는 사람들의 비명에 귀를 기울일 때</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우울증 치료 1년 반, 드디어 회복증세라는 답변을 받았습니다.]]></title>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtzrY">우울증 치료 1년 반, 드디어 회복증세라는 답변을 받았습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[로스트 인 더스트, 저도 참 좋아하는 영화인데요.]]></title>
-        <id>https://alook.so/posts/G1tewn</id>
-        <link href="https://alook.so/posts/G1tewn"/>
-        <updated>2022-02-24T00:59:01.830Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tewn">로스트 인 더스트, 저도 참 좋아하는 영화인데요. </a>]]></content>
+        <title type="html"><![CDATA[무인 전철이 곧 개통된다고 합니다.]]></title>
+        <id>https://alook.so/posts/4Xt5kw</id>
+        <link href="https://alook.so/posts/4Xt5kw"/>
+        <updated>2022-02-24T00:59:01.823Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt5kw">무인 전철이 곧 개통된다고 합니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['생각 아미' 얼룩커를 또다시 만났습니다]]></title>
@@ -62,27 +69,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtBbm">대학교 간다 or 안 간다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국의 달러는 기축통화다. 그래서 나라 빚 걱정 안해도 될까?]]></title>
-        <id>https://alook.so/posts/latL5O</id>
-        <link href="https://alook.so/posts/latL5O"/>
-        <updated>2022-02-23T12:25:43.185Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latL5O">미국의 달러는 기축통화다. 그래서 나라 빚 걱정 안해도 될까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1K로 들어섰어요. 명예훈장같은 좋아요 1000 ~!!!]]></title>
-        <id>https://alook.so/posts/DjtGea</id>
-        <link href="https://alook.so/posts/DjtGea"/>
-        <updated>2022-02-23T09:14:43.547Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtGea">1K로 들어섰어요. 명예훈장같은 좋아요 1000 ~!!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 확진자에 대한 인식 변화]]></title>
-        <id>https://alook.so/posts/70txob</id>
-        <link href="https://alook.so/posts/70txob"/>
-        <updated>2022-02-23T09:14:43.548Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70txob">코로나 확진자에 대한 인식 변화</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[혼자 하는 여행 '혼행' 증가.."혼자만의 시·공간 선호"]]></title>
         <id>https://alook.so/posts/njt9nx</id>
         <link href="https://alook.so/posts/njt9nx"/>
@@ -116,12 +102,5 @@
         <link href="https://alook.so/posts/4XtK3b"/>
         <updated>2022-02-23T03:17:01.280Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtK3b">얼룩소의 알고리즘을 이해하고 싶다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 역대급 유입이네요...]]></title>
-        <id>https://alook.so/posts/PvtVoL</id>
-        <link href="https://alook.so/posts/PvtVoL"/>
-        <updated>2022-02-23T02:12:15.212Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtVoL">오늘 역대급 유입이네요...</a>]]></content>
     </entry>
 </feed>
