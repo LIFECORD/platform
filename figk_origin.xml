@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://figk.net/text</id>
     <title>FIGK</title>
-    <updated>2022-02-24T14:16:26.902Z</updated>
+    <updated>2022-02-24T17:20:25.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://figk.net/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정재은 감독의 <고양이들의 아파트> 티저 예고편2022-02-24 17:00:00 발행]]></title>
+        <id>https://youtu.be/sR-8WswISjM</id>
+        <link href="https://youtu.be/sR-8WswISjM"/>
+        <updated>2022-02-24T17:18:52.085Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">보고 듣고 읽고 씁니다</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쓰레기 백과사전2022-02-24 17:00:00 발행]]></title>
+        <id>https://blisgo.com/</id>
+        <link href="https://blisgo.com/"/>
+        <updated>2022-02-24T17:18:52.085Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">장경진<div class="styles_TooltipContent__8cY79">공연칼럼니스트. 공연예술과 관련한 콘텐츠를 만든다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[볼리비아 스케이트보드 크루 ‘이밀라스케이트’2022-02-24 17:00:00 발행]]></title>
+        <id>https://www.theguardian.com/artanddesign/2022/feb/08/imillaskate-an-indigenous-bolivian-skateboard-collective-photo-essay</id>
+        <link href="https://www.theguardian.com/artanddesign/2022/feb/08/imillaskate-an-indigenous-bolivian-skateboard-collective-photo-essay"/>
+        <updated>2022-02-24T17:18:52.085Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">나지언<div class="styles_TooltipContent__8cY79">전직 &lt;나일론&gt;, &lt;데이즈드 앤 컨퓨즈드&gt;, &lt;지큐&gt; 에디터, 현직 광고회사 AE. 디지털 컨텐츠 기획자, 스마트폰 중독자.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 ‘지금 우리 학교는’의 문제 보이시나요2022-02-24 17:00:00 발행]]></title>
+        <id>https://m.khan.co.kr/culture/culture-general/article/202202071643001?utm_source=kakaotalk&amp;utm_medium=social_share#c2b</id>
+        <link href="https://m.khan.co.kr/culture/culture-general/article/202202071643001?utm_source=kakaotalk&amp;utm_medium=social_share#c2b"/>
+        <updated>2022-02-24T17:18:52.085Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KBS 다큐 인사이트 <웹툰 제국의 탄생> (2022.2.6)2022-02-17 17:00:00 발행]]></title>
         <id>https://www.youtube.com/watch?v=Da0Qk7iccV8</id>
@@ -685,6 +713,34 @@
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">인디펜던트 레이블 붕가붕가레코드의 대표로 여러 아티스트의 음반과 공연을 만들어왔어요. 그리고 지금은 OTT 서비스 왓챠에서 음악 콘텐츠와 사업을 만들고 있습니다.</div></button>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아디다스 스포츠 브라 광고  2022-02-24 17:00:00 발행]]></title>
+        <id>http://www.brandbrief.co.kr/news/articleView.html?idxno=5031</id>
+        <link href="http://www.brandbrief.co.kr/news/articleView.html?idxno=5031"/>
+        <updated>2022-02-24T17:18:52.283Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">나지언<div class="styles_TooltipContent__8cY79">전직 &lt;나일론&gt;, &lt;데이즈드 앤 컨퓨즈드&gt;, &lt;지큐&gt; 에디터, 현직 광고회사 AE. 디지털 컨텐츠 기획자, 스마트폰 중독자.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뮤지컬 <빌리 엘리어트> 홈 커밍 데이2022-02-24 17:00:00 발행]]></title>
+        <id>https://youtu.be/PPE3nbk8B5g</id>
+        <link href="https://youtu.be/PPE3nbk8B5g"/>
+        <updated>2022-02-24T17:18:52.284Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">장경진<div class="styles_TooltipContent__8cY79">공연칼럼니스트. 공연예술과 관련한 콘텐츠를 만든다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[-메타 퀘스트2 광고 ‘Old Friends, New Fun’2022-02-24 17:00:00 발행]]></title>
+        <id>https://www.youtube.com/watch?v=fX0Ra8p9H7c</id>
+        <link href="https://www.youtube.com/watch?v=fX0Ra8p9H7c"/>
+        <updated>2022-02-24T17:18:52.285Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">나지언<div class="styles_TooltipContent__8cY79">전직 &lt;나일론&gt;, &lt;데이즈드 앤 컨퓨즈드&gt;, &lt;지큐&gt; 에디터, 현직 광고회사 AE. 디지털 컨텐츠 기획자, 스마트폰 중독자.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다큐멘터리 "지-니어스: 카니예 3부작" (넷플릭스)2022-02-24 17:00:00 발행]]></title>
+        <id>https://www.youtube.com/watch?v=aJ4WVNhQ44Y</id>
+        <link href="https://www.youtube.com/watch?v=aJ4WVNhQ44Y"/>
+        <updated>2022-02-24T17:18:52.286Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">인디펜던트 레이블 붕가붕가레코드의 대표로 여러 아티스트의 음반과 공연을 만들어왔어요. 그리고 지금은 OTT 서비스 왓챠에서 음악 콘텐츠와 사업을 만들고 있습니다.</div></button>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[증강현실 가이드 서비스 <검열되지 않은 역사 투어> 2022-02-17 15:00:00 발행]]></title>
         <id>https://theunfilteredhistorytour.com/</id>
         <link href="https://theunfilteredhistorytour.com/"/>
@@ -1362,6 +1418,34 @@
         <link href="https://www.instagram.com/p/CUAi_X6Kpow/"/>
         <updated>2022-02-22T17:17:25.862Z</updated>
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">'널 위한 문화예술'의 COO이자 문화기획자</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J.W.앤더슨과 <달려라 하니> 콜라보가 등장했다2022-02-24 17:00:00 발행]]></title>
+        <id>https://www.instagram.com/p/CaFD4RdKN3c/?utm_source=ig_embed&amp;ig_rid=3cf34c11-a661-41b1-86b7-f110fec7633d</id>
+        <link href="https://www.instagram.com/p/CaFD4RdKN3c/?utm_source=ig_embed&amp;ig_rid=3cf34c11-a661-41b1-86b7-f110fec7633d"/>
+        <updated>2022-02-24T17:18:52.388Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도훈<div class="styles_TooltipContent__8cY79">작가, 칼럼니스트, 영화평론가 </div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박찬욱의 신작 단편  <일장춘몽> 2022-02-24 17:00:00 발행]]></title>
+        <id>https://www.youtube.com/watch?v=Ut7Xblc9yJE</id>
+        <link href="https://www.youtube.com/watch?v=Ut7Xblc9yJE"/>
+        <updated>2022-02-24T17:18:52.389Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">과학 커뮤니케이터, 과학과 사람들 대표</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상이 잃은, 잊은 예술가 차학경을 통해 다른 세상을 상상하다2022-02-24 17:00:00 발행]]></title>
+        <id>https://m.khan.co.kr/culture/art-architecture/article/202202031829001#c2b</id>
+        <link href="https://m.khan.co.kr/culture/art-architecture/article/202202031829001#c2b"/>
+        <updated>2022-02-24T17:18:52.390Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[항우연, 달탐사선 명칭 공모 이벤트2022-02-24 17:00:00 발행]]></title>
+        <id>https://www.kari.re.kr/kplo</id>
+        <link href="https://www.kari.re.kr/kplo"/>
+        <updated>2022-02-24T17:18:52.391Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">과학 커뮤니케이터, 과학과 사람들 대표</div></button>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[KBS <9시 뉴스> 한국 수어의 날 기획 방송2022-02-17 17:00:00 발행]]></title>
