@@ -2,42 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-24T11:14:53.468Z</updated>
+    <updated>2022-02-24T13:22:19.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[취미가 생긴것 같아요]]></title>
-        <id>https://alook.so/posts/92tda5</id>
-        <link href="https://alook.so/posts/92tda5"/>
-        <updated>2022-02-24T11:13:30.245Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tda5">취미가 생긴것 같아요</a>]]></content>
+        <title type="html"><![CDATA[구독자가 많은 유튜버라고 돈을 많이 벌까요?]]></title>
+        <id>https://alook.so/posts/KmtmBR</id>
+        <link href="https://alook.so/posts/KmtmBR"/>
+        <updated>2022-02-24T13:21:00.533Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtmBR">구독자가 많은 유튜버라고 돈을 많이 벌까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[첫 인사글을 입력합니다,]]></title>
-        <id>https://alook.so/posts/mbt32q</id>
-        <link href="https://alook.so/posts/mbt32q"/>
-        <updated>2022-02-24T11:13:30.248Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt32q">첫 인사글을 입력합니다,</a>]]></content>
+        <title type="html"><![CDATA[내고향...]]></title>
+        <id>https://alook.so/posts/54tPwP</id>
+        <link href="https://alook.so/posts/54tPwP"/>
+        <updated>2022-02-24T13:21:00.534Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tPwP">내고향...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[징크스]]></title>
-        <id>https://alook.so/posts/1RtqL7</id>
-        <link href="https://alook.so/posts/1RtqL7"/>
-        <updated>2022-02-24T11:13:30.249Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtqL7">징크스</a>]]></content>
+        <title type="html"><![CDATA[이 드라마 안 봤어요?]]></title>
+        <id>https://alook.so/posts/q1tjpd</id>
+        <link href="https://alook.so/posts/q1tjpd"/>
+        <updated>2022-02-24T13:21:00.536Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tjpd">이 드라마 안 봤어요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신속 항원검사 생각보다 아프고 기분이 그닥 좋지 않았다]]></title>
-        <id>https://alook.so/posts/70tpa3</id>
-        <link href="https://alook.so/posts/70tpa3"/>
-        <updated>2022-02-24T11:13:30.250Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tpa3">신속 항원검사 생각보다 아프고 기분이 그닥 좋지 않았다</a>]]></content>
+        <title type="html"><![CDATA[2022년 2월 24일]]></title>
+        <id>https://alook.so/posts/Djtw6G</id>
+        <link href="https://alook.so/posts/Djtw6G"/>
+        <updated>2022-02-24T13:21:00.536Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtw6G">2022년 2월 24일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 생화꽂 or 비누꽃]]></title>
-        <id>https://alook.so/posts/Yyt32w</id>
-        <link href="https://alook.so/posts/Yyt32w"/>
-        <updated>2022-02-24T11:13:30.252Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt32w">나는 생화꽂 or 비누꽃</a>]]></content>
+        <title type="html"><![CDATA[20대의 연애]]></title>
+        <id>https://alook.so/posts/1RtkRK</id>
+        <link href="https://alook.so/posts/1RtkRK"/>
+        <updated>2022-02-24T13:21:00.537Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtkRK">20대의 연애</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 자가격리 중이에요]]></title>
+        <id>https://alook.so/posts/o7t4lo</id>
+        <link href="https://alook.so/posts/o7t4lo"/>
+        <updated>2022-02-24T13:21:00.538Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t4lo">코로나 자가격리 중이에요 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오뷰 다들 하시나요??😀]]></title>
+        <id>https://alook.so/posts/70tqvK</id>
+        <link href="https://alook.so/posts/70tqvK"/>
+        <updated>2022-02-24T13:21:00.538Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tqvK">카카오뷰 다들 하시나요??😀</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박스오피스 1위 <겟아웃> <어스>제작진의 영화 안테벨룸 후기!]]></title>
+        <id>https://alook.so/posts/YytY58</id>
+        <link href="https://alook.so/posts/YytY58"/>
+        <updated>2022-02-24T13:21:00.540Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytY58">박스오피스 1위 &lt;겟아웃&gt; &lt;어스&gt;제작진의 영화 안테벨룸 후기!</a>]]></content>
     </entry>
 </feed>
