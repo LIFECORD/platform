@@ -2,63 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-25T19:16:40.002Z</updated>
+    <updated>2022-02-25T21:15:48.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[생일이었다.]]></title>
-        <id>https://alook.so/posts/6MtZ6a</id>
-        <link href="https://alook.so/posts/6MtZ6a"/>
-        <updated>2022-02-25T19:15:13.385Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtZ6a">생일이었다.</a>]]></content>
+        <title type="html"><![CDATA[집에서도 슬리퍼와 양말을 신으세요 당장!]]></title>
+        <id>https://alook.so/posts/YytJ55</id>
+        <link href="https://alook.so/posts/YytJ55"/>
+        <updated>2022-02-25T21:14:28.269Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytJ55">집에서도 슬리퍼와 양말을 신으세요 당장!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우선순위]]></title>
-        <id>https://alook.so/posts/3wt9XM</id>
-        <link href="https://alook.so/posts/3wt9XM"/>
-        <updated>2022-02-25T19:15:13.386Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt9XM">우선순위 </a>]]></content>
+        <title type="html"><![CDATA[우크라이나의 슬픔]]></title>
+        <id>https://alook.so/posts/a0tGj7</id>
+        <link href="https://alook.so/posts/a0tGj7"/>
+        <updated>2022-02-25T21:14:28.270Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tGj7">우크라이나의 슬픔</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(비만)이 된적있다 후기..살빼는 가장쉬운 노하우]]></title>
-        <id>https://alook.so/posts/8WtYa3</id>
-        <link href="https://alook.so/posts/8WtYa3"/>
-        <updated>2022-02-25T19:15:13.387Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtYa3">(비만)이 된적있다 후기..살빼는 가장쉬운 노하우</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공지능 시대를 맞이하게 되며...]]></title>
-        <id>https://alook.so/posts/G1tdo1</id>
-        <link href="https://alook.so/posts/G1tdo1"/>
-        <updated>2022-02-25T19:15:13.388Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tdo1">인공지능 시대를 맞이하게 되며...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정치인 육성 시스템]]></title>
-        <id>https://alook.so/posts/OEtZwK</id>
-        <link href="https://alook.so/posts/OEtZwK"/>
-        <updated>2022-02-25T19:15:13.388Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtZwK">정치인 육성 시스템</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 글쓰기]]></title>
-        <id>https://alook.so/posts/vKtw1r</id>
-        <link href="https://alook.so/posts/vKtw1r"/>
-        <updated>2022-02-25T19:15:13.391Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtw1r">첫 글쓰기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시골 청년의 그냥저냥 글]]></title>
-        <id>https://alook.so/posts/latv5Z</id>
-        <link href="https://alook.so/posts/latv5Z"/>
-        <updated>2022-02-25T19:15:13.393Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latv5Z">시골 청년의 그냥저냥 글</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 가입 인사]]></title>
-        <id>https://alook.so/posts/92tx7q</id>
-        <link href="https://alook.so/posts/92tx7q"/>
-        <updated>2022-02-25T19:15:13.394Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tx7q">얼룩소 가입 인사</a>]]></content>
+        <title type="html"><![CDATA[하늘에서 쌀이 내린다면]]></title>
+        <id>https://alook.so/posts/eVtJV2</id>
+        <link href="https://alook.so/posts/eVtJV2"/>
+        <updated>2022-02-25T21:14:28.271Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtJV2">하늘에서 쌀이 내린다면</a>]]></content>
     </entry>
 </feed>
