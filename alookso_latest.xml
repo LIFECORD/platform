@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-26T05:16:11.555Z</updated>
+    <updated>2022-02-26T07:16:32.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[Oryza sative coreaca (오리자 사티바 코레아카)]]></title>
-        <id>https://alook.so/posts/Vnt06y</id>
-        <link href="https://alook.so/posts/Vnt06y"/>
-        <updated>2022-02-26T05:14:46.658Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt06y">Oryza sative coreaca (오리자 사티바 코레아카)</a>]]></content>
+        <title type="html"><![CDATA[이번 대선에 대하여...]]></title>
+        <id>https://alook.so/posts/njtj5Y</id>
+        <link href="https://alook.so/posts/njtj5Y"/>
+        <updated>2022-02-26T07:15:11.649Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtj5Y">이번 대선에 대하여...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[힐링스팟]]></title>
-        <id>https://alook.so/posts/WLtLZD</id>
-        <link href="https://alook.so/posts/WLtLZD"/>
-        <updated>2022-02-26T05:14:46.659Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtLZD">힐링스팟</a>]]></content>
+        <title type="html"><![CDATA[스스로 지킬수 있는 국력을 키워야 통수맞지 않는다]]></title>
+        <id>https://alook.so/posts/6MtZ51</id>
+        <link href="https://alook.so/posts/6MtZ51"/>
+        <updated>2022-02-26T07:15:11.649Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtZ51">스스로 지킬수 있는 국력을 키워야 통수맞지 않는다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노숙인에 대한 편견(2) - 돕지는 않고 까기만 하냐?]]></title>
-        <id>https://alook.so/posts/4XtjWB</id>
-        <link href="https://alook.so/posts/4XtjWB"/>
-        <updated>2022-02-26T05:14:46.661Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtjWB">노숙인에 대한 편견(2) - 돕지는 않고 까기만 하냐?</a>]]></content>
+        <title type="html"><![CDATA[(코로나 확진) 얼룩소 어려워요]]></title>
+        <id>https://alook.so/posts/3wt9zy</id>
+        <link href="https://alook.so/posts/3wt9zy"/>
+        <updated>2022-02-26T07:15:11.651Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt9zy">(코로나 확진) 얼룩소 어려워요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그래서 몇 년간 얼마가 필요한가요? - 기승전 국가지원은 이제 그만]]></title>
-        <id>https://alook.so/posts/w9tV7v</id>
-        <link href="https://alook.so/posts/w9tV7v"/>
-        <updated>2022-02-26T05:14:46.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tV7v">그래서 몇 년간 얼마가 필요한가요? - 기승전 국가지원은 이제 그만</a>]]></content>
+        <title type="html"><![CDATA[얼룩소 프로젝트 2기 시작할 때와 지금의 상황]]></title>
+        <id>https://alook.so/posts/8WtYrn</id>
+        <link href="https://alook.so/posts/8WtYrn"/>
+        <updated>2022-02-26T07:15:11.652Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtYrn">얼룩소 프로젝트 2기 시작할 때와 지금의 상황</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전쟁은 나고~~북한도 예의주시하는거 같고]]></title>
+        <id>https://alook.so/posts/G1tdln</id>
+        <link href="https://alook.so/posts/G1tdln"/>
+        <updated>2022-02-26T07:15:11.656Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tdln">전쟁은 나고~~북한도 예의주시하는거 같고</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몸과 마음, 심신을 항상 템포 맞추어라]]></title>
+        <id>https://alook.so/posts/OEtZXM</id>
+        <link href="https://alook.so/posts/OEtZXM"/>
+        <updated>2022-02-26T07:15:11.657Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtZXM">몸과 마음, 심신을 항상 템포 맞추어라</a>]]></content>
     </entry>
 </feed>
