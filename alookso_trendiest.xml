@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-26T16:21:16.906Z</updated>
+    <updated>2022-02-26T17:16:15.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[아빠는 엄살쟁이]]></title>
-        <id>https://alook.so/posts/1Rtpp3</id>
-        <link href="https://alook.so/posts/1Rtpp3"/>
-        <updated>2022-02-26T16:20:00.504Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtpp3">아빠는 엄살쟁이</a>]]></content>
+        <title type="html"><![CDATA[답글: 묻힌 글들 이리 다 오세요. 합동장례식 치러볼까 합니다.]]></title>
+        <id>https://alook.so/posts/latvbG</id>
+        <link href="https://alook.so/posts/latvbG"/>
+        <updated>2022-02-26T17:14:59.382Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latvbG">답글: 묻힌 글들 이리 다 오세요. 합동장례식 치러볼까 합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[열심히 살았는데~]]></title>
-        <id>https://alook.so/posts/1RtpWW</id>
-        <link href="https://alook.so/posts/1RtpWW"/>
-        <updated>2022-02-26T16:20:00.507Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtpWW">열심히 살았는데~</a>]]></content>
+        <title type="html"><![CDATA[답글: 묻힌 글들 이리 다 오세요. 합동장례식 치러볼까 합니다.]]></title>
+        <id>https://alook.so/posts/OEtZ6Z</id>
+        <link href="https://alook.so/posts/OEtZ6Z"/>
+        <updated>2022-02-26T17:14:59.383Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtZ6Z">답글: 묻힌 글들 이리 다 오세요. 합동장례식 치러볼까 합니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글쓰기는 즐거움이다 (長文주의보)]]></title>
