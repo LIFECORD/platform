@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-27T19:14:25.540Z</updated>
+    <updated>2022-02-27T21:15:50.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[군금해] 추가 수당도 받는 요즘 군대 병사들의 월급]]></title>
+        <id>https://alook.so/posts/PvtkWd</id>
+        <link href="https://alook.so/posts/PvtkWd"/>
+        <updated>2022-02-27T21:14:34.871Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtkWd">[군금해] 추가 수당도 받는 요즘 군대 병사들의 월급</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[싸우고 난 후 사람의 심리]]></title>
+        <id>https://alook.so/posts/OEtror</id>
+        <link href="https://alook.so/posts/OEtror"/>
+        <updated>2022-02-27T21:14:34.871Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtror">싸우고 난 후 사람의 심리</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 버텨낸다는 것]]></title>
         <id>https://alook.so/posts/latJdL</id>
