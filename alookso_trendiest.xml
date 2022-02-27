@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-27T15:18:25.548Z</updated>
+    <updated>2022-02-27T16:21:39.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[인생을 버텨낸다는 것의 의미]]></title>
+        <id>https://alook.so/posts/bWtWeM</id>
+        <link href="https://alook.so/posts/bWtWeM"/>
+        <updated>2022-02-27T16:20:14.242Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtWeM">인생을 버텨낸다는 것의 의미</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: '잘' 했어요]]></title>
+        <id>https://alook.so/posts/yEt7d4</id>
+        <link href="https://alook.so/posts/yEt7d4"/>
+        <updated>2022-02-27T16:20:14.244Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt7d4">답글: '잘' 했어요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[칼에 발이 달렸나아~~]]></title>
         <id>https://alook.so/posts/3wtZnw</id>
@@ -97,38 +111,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tB5M">펠로폰네소스 전쟁은 왜 일어났을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[책 한 권을 다 읽으려면,]]></title>
-        <id>https://alook.so/posts/potwpd</id>
-        <link href="https://alook.so/posts/potwpd"/>
-        <updated>2022-02-27T14:14:48.709Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potwpd">책 한 권을 다 읽으려면,</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글쓰기는 즐거움이다 (長文주의보)]]></title>
-        <id>https://alook.so/posts/J5tkKB</id>
-        <link href="https://alook.so/posts/J5tkKB"/>
-        <updated>2022-02-26T16:20:00.508Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tkKB">글쓰기는 즐거움이다 (長文주의보)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 후보는 전쟁 억지가 아니라 전쟁을 하고 싶은걸까?]]></title>
-        <id>https://alook.so/posts/M9tRab</id>
-        <link href="https://alook.so/posts/M9tRab"/>
-        <updated>2022-02-26T16:20:00.509Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tRab">윤석열 후보는 전쟁 억지가 아니라 전쟁을 하고 싶은걸까?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[요즘 20대들은 집과 차가 있는 것이 당연한건가요?]]></title>
         <id>https://alook.so/posts/XBtJwX</id>
         <link href="https://alook.so/posts/XBtJwX"/>
         <updated>2022-02-26T12:22:57.193Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtJwX">요즘 20대들은 집과 차가 있는 것이 당연한건가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[절이 싫다고 해서 중이 떠나야 되나]]></title>
-        <id>https://alook.so/posts/6MtZeG</id>
-        <link href="https://alook.so/posts/6MtZeG"/>
-        <updated>2022-02-26T00:52:44.340Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtZeG">절이 싫다고 해서 중이 떠나야 되나</a>]]></content>
     </entry>
 </feed>

@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-27T15:18:25.541Z</updated>
+    <updated>2022-02-27T16:21:39.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[연구에 있어서의 생명윤리?]]></title>
-        <id>https://alook.so/posts/LKt1k2</id>
-        <link href="https://alook.so/posts/LKt1k2"/>
-        <updated>2022-02-27T15:16:55.907Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt1k2">연구에 있어서의 생명윤리?</a>]]></content>
+        <title type="html"><![CDATA[보통 사람들의 기준은?]]></title>
+        <id>https://alook.so/posts/PvtkEw</id>
+        <link href="https://alook.so/posts/PvtkEw"/>
+        <updated>2022-02-27T16:20:04.871Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtkEw">보통 사람들의 기준은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나 홀로 점심? 아내와의 저녁? (결혼 156일째_일요일))]]></title>
-        <id>https://alook.so/posts/njtn36</id>
-        <link href="https://alook.so/posts/njtn36"/>
-        <updated>2022-02-27T15:16:55.909Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtn36"> 나 홀로 점심? 아내와의 저녁? (결혼 156일째_일요일))</a>]]></content>
+        <title type="html"><![CDATA[리퍼비시제품 &중고제품]]></title>
+        <id>https://alook.so/posts/VntdZe</id>
+        <link href="https://alook.so/posts/VntdZe"/>
+        <updated>2022-02-27T16:20:04.873Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntdZe">리퍼비시제품 &amp;중고제품 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[습진]]></title>
-        <id>https://alook.so/posts/3wtZ4K</id>
-        <link href="https://alook.so/posts/3wtZ4K"/>
-        <updated>2022-02-27T15:16:55.911Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtZ4K">습진</a>]]></content>
+        <title type="html"><![CDATA[천천히 가세요,]]></title>
+        <id>https://alook.so/posts/zvtrxK</id>
+        <link href="https://alook.so/posts/zvtrxK"/>
+        <updated>2022-02-27T16:20:04.874Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtrxK">천천히 가세요,</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[22년 2월 28일, 2월의 마지막.]]></title>
-        <id>https://alook.so/posts/8Wtdpb</id>
-        <link href="https://alook.so/posts/8Wtdpb"/>
-        <updated>2022-02-27T15:16:55.912Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtdpb">22년 2월 28일, 2월의 마지막.</a>]]></content>
+        <title type="html"><![CDATA[돈 많은 백수]]></title>
+        <id>https://alook.so/posts/2xtdPx</id>
+        <link href="https://alook.so/posts/2xtdPx"/>
+        <updated>2022-02-27T16:20:04.875Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtdPx">돈 많은 백수 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[싸우고 난 후 사람의 심리]]></title>
-        <id>https://alook.so/posts/OEtror</id>
-        <link href="https://alook.so/posts/OEtror"/>
-        <updated>2022-02-27T15:16:55.920Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtror">싸우고 난 후 사람의 심리</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책읽기를 좋아하세요?]]></title>
-        <id>https://alook.so/posts/vKtvXw</id>
-        <link href="https://alook.so/posts/vKtvXw"/>
-        <updated>2022-02-27T15:16:55.921Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtvXw">책읽기를 좋아하세요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[책읽기를 좋아하세요?]]></title>
-        <id>https://alook.so/posts/E7tPlr</id>
-        <link href="https://alook.so/posts/E7tPlr"/>
-        <updated>2022-02-27T15:16:55.921Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tPlr">책읽기를 좋아하세요?</a>]]></content>
+        <title type="html"><![CDATA[익숙함은 소중함도 이기는 나쁜 아이입니다.]]></title>
+        <id>https://alook.so/posts/0ktzxB</id>
+        <link href="https://alook.so/posts/0ktzxB"/>
+        <updated>2022-02-27T16:20:04.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktzxB">익숙함은 소중함도 이기는 나쁜 아이입니다.</a>]]></content>
     </entry>
 </feed>
