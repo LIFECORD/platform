@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-27T17:16:43.291Z</updated>
+    <updated>2022-02-27T18:20:40.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 버텨낸다는 것]]></title>
+        <id>https://alook.so/posts/latJdL</id>
+        <link href="https://alook.so/posts/latJdL"/>
+        <updated>2022-02-27T18:19:26.370Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latJdL">답글: 버텨낸다는 것</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[군더더기없이 모든 게 '간편화'된 사회가 너무 섬뜩하다]]></title>
         <id>https://alook.so/posts/XBtrPr</id>
@@ -32,6 +39,13 @@
         <link href="https://alook.so/posts/yEt7d4"/>
         <updated>2022-02-27T16:20:14.244Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt7d4">답글: '잘' 했어요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[칼에 발이 달렸나아~~]]></title>
+        <id>https://alook.so/posts/3wtZnw</id>
+        <link href="https://alook.so/posts/3wtZnw"/>
+        <updated>2022-02-27T18:19:26.375Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtZnw">칼에 발이 달렸나아~~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[니 행복을 왜 나한테 물어?]]></title>
@@ -95,13 +109,6 @@
         <link href="https://alook.so/posts/92txw1"/>
         <updated>2022-02-27T03:16:27.369Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92txw1">글의 질 vs 글의 양 ???</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더닝 크루거 효과로 보자면 저는 석사인 듯요?]]></title>
-        <id>https://alook.so/posts/LKt0dG</id>
-        <link href="https://alook.so/posts/LKt0dG"/>
-        <updated>2022-02-27T14:14:48.706Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt0dG">더닝 크루거 효과로 보자면 저는 석사인 듯요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: '전쟁'의 반댓말은 '평화'가 아니라 '일상'일지도]]></title>
