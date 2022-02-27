@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-27T21:15:50.920Z</updated>
+    <updated>2022-02-27T23:19:21.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -130,12 +130,5 @@
         <link href="https://alook.so/posts/E7tB5M"/>
         <updated>2022-02-27T03:16:27.372Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tB5M">펠로폰네소스 전쟁은 왜 일어났을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 20대들은 집과 차가 있는 것이 당연한건가요?]]></title>
-        <id>https://alook.so/posts/XBtJwX</id>
-        <link href="https://alook.so/posts/XBtJwX"/>
-        <updated>2022-02-26T12:22:57.193Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtJwX">요즘 20대들은 집과 차가 있는 것이 당연한건가요?</a>]]></content>
     </entry>
 </feed>
