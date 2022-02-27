@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-27T12:25:02.516Z</updated>
+    <updated>2022-02-27T14:16:02.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이어령 선생님의 별세소식에 부쳐]]></title>
+        <id>https://alook.so/posts/70tX8q</id>
+        <link href="https://alook.so/posts/70tX8q"/>
+        <updated>2022-02-27T14:14:48.694Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tX8q">이어령 선생님의 별세소식에 부쳐</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내가 듣고싶었던 말.]]></title>
         <id>https://alook.so/posts/92t8nE</id>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtplq">가난은 죄?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[링크만 복사 붙여 넣기 한 글 들은 너무 무섭다규요...]]></title>
-        <id>https://alook.so/posts/ZktxvG</id>
-        <link href="https://alook.so/posts/ZktxvG"/>
-        <updated>2022-02-27T07:15:28.362Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktxvG">링크만 복사 붙여 넣기 한 글 들은 너무 무섭다규요...</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[20대에 집과 차를 살 경제력이 있을 것 같지 않은데 집과 차가 있는 것이 어떻게 당연한가요?]]></title>
         <id>https://alook.so/posts/RGt6mo</id>
         <link href="https://alook.so/posts/RGt6mo"/>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92txw1">글의 질 vs 글의 양 ???</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[더닝 크루거 효과로 보자면 저는 석사인 듯요?]]></title>
+        <id>https://alook.so/posts/LKt0dG</id>
+        <link href="https://alook.so/posts/LKt0dG"/>
+        <updated>2022-02-27T14:14:48.706Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt0dG">더닝 크루거 효과로 보자면 저는 석사인 듯요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[답글: '전쟁'의 반댓말은 '평화'가 아니라 '일상'일지도]]></title>
         <id>https://alook.so/posts/kZtxwr</id>
         <link href="https://alook.so/posts/kZtxwr"/>
@@ -74,6 +81,13 @@
         <link href="https://alook.so/posts/E7tB5M"/>
         <updated>2022-02-27T03:16:27.372Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tB5M">펠로폰네소스 전쟁은 왜 일어났을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[책 한 권을 다 읽으려면,]]></title>
+        <id>https://alook.so/posts/potwpd</id>
+        <link href="https://alook.so/posts/potwpd"/>
+        <updated>2022-02-27T14:14:48.709Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potwpd">책 한 권을 다 읽으려면,</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글쓰기는 즐거움이다 (長文주의보)]]></title>
@@ -102,6 +116,13 @@
         <link href="https://alook.so/posts/w9tV7v"/>
         <updated>2022-02-26T08:17:39.186Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tV7v">그래서 몇 년간 얼마가 필요한가요? - 기승전 국가지원은 이제 그만</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속기 복기] 조국의 강 vs. 탄핵의 강]]></title>
+        <id>https://alook.so/posts/vKtwyZ</id>
+        <link href="https://alook.so/posts/vKtwyZ"/>
+        <updated>2022-02-27T14:14:48.726Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtwyZ">[속기 복기] 조국의 강 vs. 탄핵의 강</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[절이 싫다고 해서 중이 떠나야 되나]]></title>

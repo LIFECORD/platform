@@ -2,49 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-27T12:25:02.517Z</updated>
+    <updated>2022-02-27T14:16:02.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[세투님~^^잘하고 있어요..힘내요^♡^]]></title>
-        <id>https://alook.so/posts/XBtrWB</id>
-        <link href="https://alook.so/posts/XBtrWB"/>
-        <updated>2022-02-27T12:23:31.604Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtrWB">세투님~^^잘하고 있어요..힘내요^♡^</a>]]></content>
+        <title type="html"><![CDATA[코로나로 인한 변화]]></title>
+        <id>https://alook.so/posts/XBtrEr</id>
+        <link href="https://alook.so/posts/XBtrEr"/>
+        <updated>2022-02-27T14:14:40.984Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtrEr">코로나로 인한 변화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미세먼지]]></title>
-        <id>https://alook.so/posts/w9tM6p</id>
-        <link href="https://alook.so/posts/w9tM6p"/>
-        <updated>2022-02-27T12:23:31.606Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tM6p">미세먼지</a>]]></content>
+        <title type="html"><![CDATA[세상이 불편해졌으면 좋겠다]]></title>
+        <id>https://alook.so/posts/kZt2PR</id>
+        <link href="https://alook.so/posts/kZt2PR"/>
+        <updated>2022-02-27T14:14:40.986Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt2PR">세상이 불편해졌으면 좋겠다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[변환점]]></title>
-        <id>https://alook.so/posts/xltmWV</id>
-        <link href="https://alook.so/posts/xltmWV"/>
-        <updated>2022-02-27T12:23:31.607Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltmWV">변환점</a>]]></content>
+        <title type="html"><![CDATA[답글: '잘' 했어요]]></title>
+        <id>https://alook.so/posts/yEt7d4</id>
+        <link href="https://alook.so/posts/yEt7d4"/>
+        <updated>2022-02-27T14:14:40.987Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt7d4">답글: '잘' 했어요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[삶이 막막할 때]]></title>
-        <id>https://alook.so/posts/kZt27J</id>
-        <link href="https://alook.so/posts/kZt27J"/>
-        <updated>2022-02-27T12:23:31.608Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt27J">삶이 막막할 때</a>]]></content>
+        <title type="html"><![CDATA[자신의 마음 돌보기 연습]]></title>
+        <id>https://alook.so/posts/BatJW1</id>
+        <link href="https://alook.so/posts/BatJW1"/>
+        <updated>2022-02-27T14:14:40.988Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatJW1">자신의 마음 돌보기 연습</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공무원에 대한 인식]]></title>
-        <id>https://alook.so/posts/BatJLK</id>
-        <link href="https://alook.so/posts/BatJLK"/>
-        <updated>2022-02-27T12:23:31.609Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatJLK">공무원에 대한 인식</a>]]></content>
+        <title type="html"><![CDATA[러시아 제발 멈춰요!]]></title>
+        <id>https://alook.so/posts/LKt1Ok</id>
+        <link href="https://alook.so/posts/LKt1Ok"/>
+        <updated>2022-02-27T14:14:40.990Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt1Ok">러시아 제발 멈춰요!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이어령교수님의 별세소식]]></title>
-        <id>https://alook.so/posts/njtnbO</id>
-        <link href="https://alook.so/posts/njtnbO"/>
-        <updated>2022-02-27T12:23:31.610Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtnbO">이어령교수님의 별세소식</a>]]></content>
+        <title type="html"><![CDATA[태도가 달라진 민주당 이젠 북한에도 쓴소리를 아끼지 않는다.]]></title>
+        <id>https://alook.so/posts/njtnk4</id>
+        <link href="https://alook.so/posts/njtnk4"/>
+        <updated>2022-02-27T14:14:40.991Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtnk4">태도가 달라진 민주당 이젠 북한에도 쓴소리를 아끼지 않는다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 시대에 아이 키우기 힘들어요.]]></title>
+        <id>https://alook.so/posts/6MtPEE</id>
+        <link href="https://alook.so/posts/6MtPEE"/>
+        <updated>2022-02-27T14:14:40.993Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtPEE">코로나 시대에 아이 키우기 힘들어요.</a>]]></content>
     </entry>
 </feed>
