@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-28T02:09:45.044Z</updated>
+    <updated>2022-02-28T03:18:41.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[갑자기ㅜㅜ 공황장애]]></title>
-        <id>https://alook.so/posts/KmtRwl</id>
-        <link href="https://alook.so/posts/KmtRwl"/>
-        <updated>2022-02-28T02:08:28.023Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtRwl"> 갑자기ㅜㅜ 공황장애</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 세상이 불편해졌으면 좋겠다-진짜요? 정말요?]]></title>
         <id>https://alook.so/posts/pot18X</id>
@@ -74,20 +67,6 @@
         <link href="https://alook.so/posts/bWtWeM"/>
         <updated>2022-02-27T16:20:14.242Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtWeM">인생을 버텨낸다는 것의 의미</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: '잘' 했어요]]></title>
-        <id>https://alook.so/posts/yEt7d4</id>
-        <link href="https://alook.so/posts/yEt7d4"/>
-        <updated>2022-02-27T16:20:14.244Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt7d4">답글: '잘' 했어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이어령 선생님의 별세소식에 부쳐]]></title>
-        <id>https://alook.so/posts/70tX8q</id>
-        <link href="https://alook.so/posts/70tX8q"/>
-        <updated>2022-02-27T14:14:48.694Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tX8q">이어령 선생님의 별세소식에 부쳐</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘사교육 조장’이라는 공허한 비판, 역할을 못 찾는 공교육]]></title>
