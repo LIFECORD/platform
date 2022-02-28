@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-28T08:20:49.021Z</updated>
+    <updated>2022-02-28T10:19:19.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오늘 나는 비트코인을 샀다.]]></title>
-        <id>https://alook.so/posts/potrWK</id>
-        <link href="https://alook.so/posts/potrWK"/>
-        <updated>2022-02-28T08:19:20.464Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potrWK">오늘 나는 비트코인을 샀다.</a>]]></content>
+        <title type="html"><![CDATA[공황장애]]></title>
+        <id>https://alook.so/posts/KmtwGB</id>
+        <link href="https://alook.so/posts/KmtwGB"/>
+        <updated>2022-02-28T10:17:53.696Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtwGB">공황장애</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자신보다 조국을 사랑한 아버지]]></title>
-        <id>https://alook.so/posts/eVt6Vr</id>
-        <link href="https://alook.so/posts/eVt6Vr"/>
-        <updated>2022-02-28T08:19:20.466Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt6Vr">자신보다 조국을 사랑한 아버지</a>]]></content>
+        <title type="html"><![CDATA[걱정을 해서 걱정이 없어지면 걱정이 없겠네.]]></title>
+        <id>https://alook.so/posts/mbtv87</id>
+        <link href="https://alook.so/posts/mbtv87"/>
+        <updated>2022-02-28T10:17:53.698Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtv87">걱정을 해서 걱정이 없어지면 걱정이 없겠네.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[건강검진 할때면 왜 이렇게 두려움이 앞설까요?]]></title>
-        <id>https://alook.so/posts/2xtYx5</id>
-        <link href="https://alook.so/posts/2xtYx5"/>
-        <updated>2022-02-28T08:19:20.466Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtYx5">건강검진 할때면 왜 이렇게 두려움이 앞설까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29살 백수의 길]]></title>
-        <id>https://alook.so/posts/WLtK5k</id>
-        <link href="https://alook.so/posts/WLtK5k"/>
-        <updated>2022-02-28T08:19:20.467Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtK5k">29살 백수의 길</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진리가 나를 자유롭게 해줄까?]]></title>
-        <id>https://alook.so/posts/0kt7MW</id>
-        <link href="https://alook.so/posts/0kt7MW"/>
-        <updated>2022-02-28T08:19:20.469Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt7MW">진리가 나를 자유롭게 해줄까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아]]></title>
-        <id>https://alook.so/posts/M9tvEY</id>
-        <link href="https://alook.so/posts/M9tvEY"/>
-        <updated>2022-02-28T08:19:20.470Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tvEY">러시아</a>]]></content>
+        <title type="html"><![CDATA[혹시 넷플릭스 드라마 "소년심판" 보셨나요]]></title>
+        <id>https://alook.so/posts/YytqkK</id>
+        <link href="https://alook.so/posts/YytqkK"/>
+        <updated>2022-02-28T10:17:53.698Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytqkK">혹시 넷플릭스 드라마 "소년심판" 보셨나요</a>]]></content>
     </entry>
 </feed>
