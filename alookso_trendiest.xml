@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-28T05:16:12.229Z</updated>
+    <updated>2022-02-28T07:17:13.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[일할 곳이 필요합니다]]></title>
-        <id>https://alook.so/posts/8WtdM5</id>
-        <link href="https://alook.so/posts/8WtdM5"/>
-        <updated>2022-02-28T04:19:44.403Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtdM5">일할 곳이 필요합니다</a>]]></content>
+        <title type="html"><![CDATA[제 머리로 생각하는 청년 정치]]></title>
+        <id>https://alook.so/posts/njtnOq</id>
+        <link href="https://alook.so/posts/njtnOq"/>
+        <updated>2022-02-28T07:15:55.553Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtnOq">제 머리로 생각하는 청년 정치</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일백탈수? 글쎄요.]]></title>
+        <id>https://alook.so/posts/zvtrOL</id>
+        <link href="https://alook.so/posts/zvtrOL"/>
+        <updated>2022-02-28T07:15:55.553Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtrOL">일백탈수? 글쎄요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감사합니다!]]></title>
+        <id>https://alook.so/posts/o7t38p</id>
+        <link href="https://alook.so/posts/o7t38p"/>
+        <updated>2022-02-28T07:15:55.553Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t38p">감사합니다!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 권승준 에디터님께 편지받았습니다!]]></title>
+        <id>https://alook.so/posts/KmtR5m</id>
+        <link href="https://alook.so/posts/KmtR5m"/>
+        <updated>2022-02-28T07:15:55.553Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtR5m">오늘 권승준 에디터님께 편지받았습니다!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국시간 27일 22시, 우크라이나 전쟁 전황]]></title>
@@ -18,6 +39,13 @@
         <link href="https://alook.so/posts/DjtXL7"/>
         <updated>2022-02-28T04:19:44.405Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtXL7">한국시간 27일 22시, 우크라이나 전쟁 전황</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일할 곳이 필요합니다]]></title>
+        <id>https://alook.so/posts/8WtdM5</id>
+        <link href="https://alook.so/posts/8WtdM5"/>
+        <updated>2022-02-28T04:19:44.403Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtdM5">일할 곳이 필요합니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 세상이 불편해졌으면 좋겠다-진짜요? 정말요?]]></title>
@@ -34,25 +62,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytzqR">답글: 알고리즘, 알고리듬...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 매우 어려운 조언]]></title>
-        <id>https://alook.so/posts/rDtoxv</id>
-        <link href="https://alook.so/posts/rDtoxv"/>
-        <updated>2022-02-28T02:08:28.099Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtoxv">답글: 매우 어려운 조언</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[「스웨덴의 저녁은 오후 4시에 시작된다」]]></title>
         <id>https://alook.so/posts/92t8J2</id>
         <link href="https://alook.so/posts/92t8J2"/>
         <updated>2022-02-28T00:58:37.997Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t8J2">「스웨덴의 저녁은 오후 4시에 시작된다」</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[군금해] 추가 수당도 받는 요즘 군대 병사들의 월급]]></title>
-        <id>https://alook.so/posts/PvtkWd</id>
-        <link href="https://alook.so/posts/PvtkWd"/>
-        <updated>2022-02-27T21:14:34.871Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtkWd">[군금해] 추가 수당도 받는 요즘 군대 병사들의 월급</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[싸우고 난 후 사람의 심리]]></title>
@@ -90,17 +104,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt2aD">‘사교육 조장’이라는 공허한 비판, 역할을 못 찾는 공교육</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가난은 죄?]]></title>
-        <id>https://alook.so/posts/1Rtplq</id>
-        <link href="https://alook.so/posts/1Rtplq"/>
-        <updated>2022-02-27T08:17:47.804Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtplq">가난은 죄?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[글의 질 vs 글의 양 ???]]></title>
         <id>https://alook.so/posts/92txw1</id>
         <link href="https://alook.so/posts/92txw1"/>
         <updated>2022-02-27T03:16:27.369Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92txw1">글의 질 vs 글의 양 ???</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펠로폰네소스 전쟁은 왜 일어났을까?]]></title>
+        <id>https://alook.so/posts/E7tB5M</id>
+        <link href="https://alook.so/posts/E7tB5M"/>
+        <updated>2022-02-28T07:15:55.563Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tB5M">펠로폰네소스 전쟁은 왜 일어났을까?</a>]]></content>
     </entry>
 </feed>
