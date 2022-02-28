@@ -2,35 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-28T12:42:43.360Z</updated>
+    <updated>2022-02-28T15:19:16.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[베이킹에 살짝 발 담구어보기!]]></title>
-        <id>https://alook.so/posts/latM8p</id>
-        <link href="https://alook.so/posts/latM8p"/>
-        <updated>2022-02-28T12:41:20.966Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latM8p">베이킹에 살짝 발 담구어보기!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생업이란]]></title>
-        <id>https://alook.so/posts/mbtvYr</id>
-        <link href="https://alook.so/posts/mbtvYr"/>
-        <updated>2022-02-28T12:41:20.967Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtvYr">생업이란</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일기장]]></title>
-        <id>https://alook.so/posts/54tvXZ</id>
-        <link href="https://alook.so/posts/54tvXZ"/>
-        <updated>2022-02-28T12:41:20.968Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tvXZ">일기장</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['시작' 이라는게]]></title>
-        <id>https://alook.so/posts/Djt5Bj</id>
-        <link href="https://alook.so/posts/Djt5Bj"/>
-        <updated>2022-02-28T12:41:20.969Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt5Bj">'시작' 이라는게</a>]]></content>
+        <title type="html"><![CDATA[화이트칼라, 불루칼라...지금 현실의 우리는..]]></title>
+        <id>https://alook.so/posts/kZtdP1</id>
+        <link href="https://alook.so/posts/kZtdP1"/>
+        <updated>2022-02-28T15:17:52.176Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtdP1">화이트칼라, 불루칼라...지금 현실의 우리는..</a>]]></content>
     </entry>
 </feed>
