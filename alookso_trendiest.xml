@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-01T05:16:48.177Z</updated>
+    <updated>2022-03-01T06:21:58.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 2]]></title>
+        <id>https://alook.so/posts/WLtK0O</id>
+        <link href="https://alook.so/posts/WLtK0O"/>
+        <updated>2022-03-01T06:20:38.857Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtK0O">나는 왜 얼룩커가 되었나 2</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 얼룩소는 일기 챌린지가 아니다.]]></title>
         <id>https://alook.so/posts/G1tPZn</id>
@@ -88,13 +95,6 @@
         <link href="https://alook.so/posts/4XtpOl"/>
         <updated>2022-02-28T12:41:29.340Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtpOl">독일 축구판에서 읽는 대한민국 정치</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: '반드시 읽어야 하는 책'이라는 것은 없어요]]></title>
-        <id>https://alook.so/posts/LKt1DO</id>
-        <link href="https://alook.so/posts/LKt1DO"/>
-        <updated>2022-02-28T10:18:02.193Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt1DO">답글: '반드시 읽어야 하는 책'이라는 것은 없어요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물에 빠진 사람 구해줬더니 '보상'을 내놓으라고 한다.]]></title>
