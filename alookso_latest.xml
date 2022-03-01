@@ -2,21 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-01T11:15:29.330Z</updated>
+    <updated>2022-03-01T16:23:10.284Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA["시간" 어떻게쓰시나요]]></title>
-        <id>https://alook.so/posts/WLt2Oa</id>
-        <link href="https://alook.so/posts/WLt2Oa"/>
-        <updated>2022-03-01T11:14:04.170Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt2Oa">"시간" 어떻게쓰시나요</a>]]></content>
+        <title type="html"><![CDATA[번아웃?]]></title>
+        <id>https://alook.so/posts/XBtv46</id>
+        <link href="https://alook.so/posts/XBtv46"/>
+        <updated>2022-03-01T16:21:40.123Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtv46">번아웃?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우울증으로 퇴사하는 나 자신이 너무 나약한 것 같아요.]]></title>
-        <id>https://alook.so/posts/xlt4ny</id>
-        <link href="https://alook.so/posts/xlt4ny"/>
-        <updated>2022-03-01T11:14:04.171Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt4ny">우울증으로 퇴사하는 나 자신이 너무 나약한 것 같아요.</a>]]></content>
+        <title type="html"><![CDATA[자존심]]></title>
+        <id>https://alook.so/posts/w9t5Bj</id>
+        <link href="https://alook.so/posts/w9t5Bj"/>
+        <updated>2022-03-01T16:21:40.123Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t5Bj">자존심 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상 무기력하다]]></title>
+        <id>https://alook.so/posts/xlt4ak</id>
+        <link href="https://alook.so/posts/xlt4ak"/>
+        <updated>2022-03-01T16:21:40.124Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt4ak">세상 무기력하다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 가정교육의 중요성]]></title>
+        <id>https://alook.so/posts/RGtpJv</id>
+        <link href="https://alook.so/posts/RGtpJv"/>
+        <updated>2022-03-01T16:21:40.125Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtpJv">답글: 가정교육의 중요성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가난을 향해 달리던]]></title>
+        <id>https://alook.so/posts/kZtbeD</id>
+        <link href="https://alook.so/posts/kZtbeD"/>
+        <updated>2022-03-01T16:21:40.127Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtbeD">가난을 향해 달리던</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저도 그래요]]></title>
+        <id>https://alook.so/posts/yEt8xw</id>
+        <link href="https://alook.so/posts/yEt8xw"/>
+        <updated>2022-03-01T16:21:40.128Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt8xw">저도 그래요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위드 코로나?]]></title>
+        <id>https://alook.so/posts/Bat4VW</id>
+        <link href="https://alook.so/posts/Bat4VW"/>
+        <updated>2022-03-01T16:21:40.129Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat4VW">위드 코로나?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[살다가 가끔은 합니다.]]></title>
+        <id>https://alook.so/posts/njtBmm</id>
+        <link href="https://alook.so/posts/njtBmm"/>
+        <updated>2022-03-01T16:21:40.130Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtBmm">살다가 가끔은 합니다.</a>]]></content>
     </entry>
 </feed>
