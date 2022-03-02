@@ -2,14 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-02T08:21:31.526Z</updated>
+    <updated>2022-03-02T09:16:55.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[[책읽기] 독서 천재가 된 홍대리]]></title>
-        <id>https://alook.so/posts/latrWY</id>
-        <link href="https://alook.so/posts/latrWY"/>
-        <updated>2022-03-02T08:20:06.705Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latrWY">[책읽기] 독서 천재가 된 홍대리</a>]]></content>
+        <title type="html"><![CDATA[일단 하자]]></title>
+        <id>https://alook.so/posts/mbtarz</id>
+        <link href="https://alook.so/posts/mbtarz"/>
+        <updated>2022-03-02T09:15:27.057Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtarz">일단 하자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어릴적 그림]]></title>
+        <id>https://alook.so/posts/54tDyE</id>
+        <link href="https://alook.so/posts/54tDyE"/>
+        <updated>2022-03-02T09:15:27.058Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tDyE">어릴적 그림</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미지의 길을 걸었다]]></title>
+        <id>https://alook.so/posts/1RtW7n</id>
+        <link href="https://alook.so/posts/1RtW7n"/>
+        <updated>2022-03-02T09:15:27.059Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtW7n">미지의 길을 걸었다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 확진자 사전투표 5일 오후 5시부터 가능]]></title>
+        <id>https://alook.so/posts/rDtWEl</id>
+        <link href="https://alook.so/posts/rDtWEl"/>
+        <updated>2022-03-02T09:15:27.061Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtWEl">코로나 확진자 사전투표 5일 오후 5시부터 가능</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아비트라지]]></title>
+        <id>https://alook.so/posts/92tjzK</id>
+        <link href="https://alook.so/posts/92tjzK"/>
+        <updated>2022-03-02T09:15:27.066Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tjzK">아비트라지</a>]]></content>
     </entry>
 </feed>
