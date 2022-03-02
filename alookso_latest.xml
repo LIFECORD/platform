@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-02T15:19:31.120Z</updated>
+    <updated>2022-03-02T16:23:12.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[몸이 편한게 낫다 vs 마음이 편한게 낫다]]></title>
-        <id>https://alook.so/posts/8WtGzr</id>
-        <link href="https://alook.so/posts/8WtGzr"/>
-        <updated>2022-03-02T15:17:55.759Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtGzr">몸이 편한게 낫다 vs 마음이 편한게 낫다</a>]]></content>
+        <title type="html"><![CDATA[정산은 2주마다! 다음 정산일은 3/14입니다]]></title>
+        <id>https://alook.so/posts/rDtqz7</id>
+        <link href="https://alook.so/posts/rDtqz7"/>
+        <updated>2022-03-02T16:21:40.192Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtqz7">정산은 2주마다! 다음 정산일은 3/14입니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 네가]]></title>
-        <id>https://alook.so/posts/G1trVa</id>
-        <link href="https://alook.so/posts/G1trVa"/>
-        <updated>2022-03-02T15:17:55.762Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1trVa">내가 네가</a>]]></content>
+        <title type="html"><![CDATA[종이와 펜을 준비해주세요]]></title>
+        <id>https://alook.so/posts/latEZw</id>
+        <link href="https://alook.so/posts/latEZw"/>
+        <updated>2022-03-02T16:21:40.194Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latEZw">종이와 펜을 준비해주세요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[같이있지만]]></title>
-        <id>https://alook.so/posts/OEtbPj</id>
-        <link href="https://alook.so/posts/OEtbPj"/>
-        <updated>2022-03-02T15:17:55.763Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtbPj">같이있지만</a>]]></content>
+        <title type="html"><![CDATA[경제제재 쉽게 이해하기 1편 : 경제제재 정의와 단순 성공률]]></title>
+        <id>https://alook.so/posts/92tvy9</id>
+        <link href="https://alook.so/posts/92tvy9"/>
+        <updated>2022-03-02T16:21:40.195Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tvy9">경제제재 쉽게 이해하기 1편 : 경제제재 정의와 단순 성공률</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선거 때마다 속았습니다.]]></title>
-        <id>https://alook.so/posts/vKtM5O</id>
-        <link href="https://alook.so/posts/vKtM5O"/>
-        <updated>2022-03-02T15:17:55.765Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtM5O">선거 때마다 속았습니다.</a>]]></content>
+        <title type="html"><![CDATA[자감자감이 뭔가했는데.. 귀여운 감잔가..]]></title>
+        <id>https://alook.so/posts/mbt1p8</id>
+        <link href="https://alook.so/posts/mbt1p8"/>
+        <updated>2022-03-02T16:21:40.197Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt1p8">자감자감이 뭔가했는데.. 귀여운 감잔가..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아침 저녁으로 자동차 배터리가 나갔다.]]></title>
-        <id>https://alook.so/posts/E7tqkk</id>
-        <link href="https://alook.so/posts/E7tqkk"/>
-        <updated>2022-03-02T15:17:55.767Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tqkk">아침 저녁으로 자동차 배터리가 나갔다.</a>]]></content>
+        <title type="html"><![CDATA[슬프다...]]></title>
+        <id>https://alook.so/posts/DjtRxl</id>
+        <link href="https://alook.so/posts/DjtRxl"/>
+        <updated>2022-03-02T16:21:40.198Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtRxl">슬프다...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스트레스 푸는 방법은?]]></title>
+        <id>https://alook.so/posts/1Rt9nR</id>
+        <link href="https://alook.so/posts/1Rt9nR"/>
+        <updated>2022-03-02T16:21:40.200Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt9nR">스트레스 푸는 방법은?</a>]]></content>
     </entry>
 </feed>
