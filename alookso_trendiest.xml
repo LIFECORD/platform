@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-02T11:17:06.448Z</updated>
+    <updated>2022-03-02T12:26:41.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: 주어와 서술어를 보려고 해요]]></title>
-        <id>https://alook.so/posts/YytOpM</id>
-        <link href="https://alook.so/posts/YytOpM"/>
-        <updated>2022-03-02T11:15:52.892Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytOpM">답글: 주어와 서술어를 보려고 해요</a>]]></content>
+        <title type="html"><![CDATA[사회자 진행능력이 오늘이 가장 떨어지는 것 같네요.]]></title>
+        <id>https://alook.so/posts/E7tqaa</id>
+        <link href="https://alook.so/posts/E7tqaa"/>
+        <updated>2022-03-02T12:25:14.204Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tqaa">사회자 진행능력이 오늘이 가장 떨어지는 것 같네요. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: '기술이 문제가 아니라, 기술을 잘 못 쓰는 사람이 문제'다.]]></title>
-        <id>https://alook.so/posts/w9t5LV</id>
-        <link href="https://alook.so/posts/w9t5LV"/>
-        <updated>2022-03-02T11:15:52.892Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t5LV">답글: '기술이 문제가 아니라, 기술을 잘 못 쓰는 사람이 문제'다.</a>]]></content>
+        <title type="html"><![CDATA[윤석열 후보의 나날이 발전하는 회피 실력]]></title>
+        <id>https://alook.so/posts/92tv5e</id>
+        <link href="https://alook.so/posts/92tv5e"/>
+        <updated>2022-03-02T12:25:14.204Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tv5e">윤석열 후보의 나날이 발전하는 회피 실력</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안철수 후보가 민간기업의 지역 유치를 이야기하네요.]]></title>
+        <id>https://alook.so/posts/70t7kP</id>
+        <link href="https://alook.so/posts/70t7kP"/>
+        <updated>2022-03-02T12:25:14.204Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t7kP">안철수 후보가 민간기업의 지역 유치를 이야기하네요. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안철수 후보가 평등과 형평에 관한 유명한 그림을 들고 나왔네요.]]></title>
+        <id>https://alook.so/posts/XBtLXG</id>
+        <link href="https://alook.so/posts/XBtLXG"/>
+        <updated>2022-03-02T12:25:14.204Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtLXG">안철수 후보가 평등과 형평에 관한 유명한 그림을 들고 나왔네요. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새 시리즈를 시작했습니다.]]></title>
@@ -34,11 +48,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtZ5R">평생 가난할 사람들의 말버릇</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[수능이 학종보다 공정하다는 착각, 민주당의 제자리를 찾아서]]></title>
+        <id>https://alook.so/posts/o7tve7</id>
+        <link href="https://alook.so/posts/o7tve7"/>
+        <updated>2022-03-02T12:25:14.207Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tve7">수능이 학종보다 공정하다는 착각, 민주당의 제자리를 찾아서</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[나는 왜 얼룩소의 보상을 키우는데 집착하는가]]></title>
         <id>https://alook.so/posts/70tZZ9</id>
         <link href="https://alook.so/posts/70tZZ9"/>
         <updated>2022-03-02T05:15:57.501Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tZZ9">나는 왜 얼룩소의 보상을 키우는데 집착하는가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[노노노: 지방재정투자_01] 지방정부의 대규모 사업은 최근 어떻게 굴러갔나?]]></title>
+        <id>https://alook.so/posts/xlt4mV</id>
+        <link href="https://alook.so/posts/xlt4mV"/>
+        <updated>2022-03-02T12:25:14.209Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt4mV">[노노노: 지방재정투자_01] 지방정부의 대규모 사업은 최근 어떻게 굴러갔나?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대선까지 앞으로 7일, 마음의 결정하셨나요?]]></title>
@@ -76,20 +104,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtWnV">제가 생각하는 포인트, 그리고 제가 생각하는 얼룩소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[덜 시끄러운 선거유세는 불가능한걸까?]]></title>
-        <id>https://alook.so/posts/E7tKG9</id>
-        <link href="https://alook.so/posts/E7tKG9"/>
-        <updated>2022-03-01T16:21:49.032Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tKG9">덜 시끄러운 선거유세는 불가능한걸까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람이 먼ㅈ...아니 사람이 '문제'다.]]></title>
-        <id>https://alook.so/posts/3wtJl1</id>
-        <link href="https://alook.so/posts/3wtJl1"/>
-        <updated>2022-03-01T18:20:13.962Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtJl1">사람이 먼ㅈ...아니 사람이 '문제'다.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[실망입니다. 얼룩소..3.1절에 대해서 아무도 언급을 안하네요.]]></title>
         <id>https://alook.so/posts/o7tvkL</id>
         <link href="https://alook.so/posts/o7tvkL"/>
@@ -97,18 +111,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tvkL">실망입니다. 얼룩소..3.1절에 대해서 아무도 언급을 안하네요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유럽의회가 우크라이나 사태에 대해 논의하기 시작했어요!]]></title>
-        <id>https://alook.so/posts/eVt7Dq</id>
-        <link href="https://alook.so/posts/eVt7Dq"/>
-        <updated>2022-03-01T16:21:49.038Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt7Dq">유럽의회가 우크라이나 사태에 대해 논의하기 시작했어요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Active Aging]오후 1시에 지하철을 타본 적 있으세요?]]></title>
-        <id>https://alook.so/posts/2xtGR7</id>
-        <link href="https://alook.so/posts/2xtGR7"/>
-        <updated>2022-03-01T16:21:49.039Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtGR7">[Active Aging]오후 1시에 지하철을 타본 적 있으세요?</a>]]></content>
+        <title type="html"><![CDATA[덜 시끄러운 선거유세는 불가능한걸까?]]></title>
+        <id>https://alook.so/posts/E7tKG9</id>
+        <link href="https://alook.so/posts/E7tKG9"/>
+        <updated>2022-03-01T16:21:49.032Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tKG9">덜 시끄러운 선거유세는 불가능한걸까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넥슨 창업주 김정주 님의 비보를 듣고]]></title>
