@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-01T23:17:17.772Z</updated>
+    <updated>2022-03-02T01:01:24.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 때문에 넷플릭스 해약]]></title>
+        <id>https://alook.so/posts/LKtr5b</id>
+        <link href="https://alook.so/posts/LKtr5b"/>
+        <updated>2022-03-02T01:00:07.740Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtr5b">얼룩소 때문에 넷플릭스 해약</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩커에 도전하는 택배기사]]></title>
+        <id>https://alook.so/posts/VntonM</id>
+        <link href="https://alook.so/posts/VntonM"/>
+        <updated>2022-03-02T01:00:07.740Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntonM">얼룩커에 도전하는 택배기사</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제가 생각하는 포인트, 그리고 제가 생각하는 얼룩소]]></title>
         <id>https://alook.so/posts/1RtWnV</id>
@@ -13,18 +27,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtWnV">제가 생각하는 포인트, 그리고 제가 생각하는 얼룩소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[덜 시끄러운 선거유세는 불가능한걸까?]]></title>
-        <id>https://alook.so/posts/E7tKG9</id>
-        <link href="https://alook.so/posts/E7tKG9"/>
-        <updated>2022-03-01T16:21:49.032Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tKG9">덜 시끄러운 선거유세는 불가능한걸까?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사람이 먼ㅈ...아니 사람이 '문제'다.]]></title>
         <id>https://alook.so/posts/3wtJl1</id>
         <link href="https://alook.so/posts/3wtJl1"/>
         <updated>2022-03-01T18:20:13.962Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtJl1">사람이 먼ㅈ...아니 사람이 '문제'다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[덜 시끄러운 선거유세는 불가능한걸까?]]></title>
+        <id>https://alook.so/posts/E7tKG9</id>
+        <link href="https://alook.so/posts/E7tKG9"/>
+        <updated>2022-03-01T16:21:49.032Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tKG9">덜 시끄러운 선거유세는 불가능한걸까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[실망입니다. 얼룩소..3.1절에 대해서 아무도 언급을 안하네요.]]></title>
@@ -88,13 +102,6 @@
         <link href="https://alook.so/posts/w9t4oW"/>
         <updated>2022-03-01T10:17:59.585Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t4oW">전쟁</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12시간 때려 살해해도 고작 18년?]]></title>
-        <id>https://alook.so/posts/3wtJV3</id>
-        <link href="https://alook.so/posts/3wtJV3"/>
-        <updated>2022-03-01T23:16:03.531Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtJV3">12시간 때려 살해해도 고작 18년?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 유튜브 운영을 안하는 이유]]></title>
