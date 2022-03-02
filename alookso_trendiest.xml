@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-02T06:20:46.604Z</updated>
+    <updated>2022-03-02T07:16:37.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[평생 가난할 사람들의 말버릇]]></title>
+        <id>https://alook.so/posts/4XtZ5R</id>
+        <link href="https://alook.so/posts/4XtZ5R"/>
+        <updated>2022-03-02T07:15:18.220Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtZ5R">평생 가난할 사람들의 말버릇</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노노노: 지방재정투자_01] 지방정부의 대규모 사업은 최근 어떻게 굴러갔나?]]></title>
         <id>https://alook.so/posts/xlt4mV</id>
@@ -137,12 +144,5 @@
         <link href="https://alook.so/posts/WLtK0O"/>
         <updated>2022-03-01T06:20:38.857Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtK0O">나는 왜 얼룩커가 되었나 2</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불편한 글들이 가끔 보인다.]]></title>
-        <id>https://alook.so/posts/WLtKe0</id>
-        <link href="https://alook.so/posts/WLtKe0"/>
-        <updated>2022-02-28T15:18:00.779Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtKe0">불편한 글들이 가끔 보인다.</a>]]></content>
     </entry>
 </feed>
