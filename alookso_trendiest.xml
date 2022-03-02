@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-02T21:15:06.253Z</updated>
+    <updated>2022-03-02T23:17:16.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[40살까지 순자산 10억, 너무 허황된 꿈일까요?]]></title>
+        <id>https://alook.so/posts/OEtbwe</id>
+        <link href="https://alook.so/posts/OEtbwe"/>
+        <updated>2022-03-02T23:16:02.119Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtbwe">40살까지 순자산 10억, 너무 허황된 꿈일까요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘은 종일 돈을 빌리러 다녔다.]]></title>
         <id>https://alook.so/posts/bWtn1B</id>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t7m1">윤석열 후보가 오늘 토론회에서 많이 배워가는 것 같네요</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[안 후보님의 표정이 오늘도 킬링포인트]]></title>
+        <id>https://alook.so/posts/xltjv1</id>
+        <link href="https://alook.so/posts/xltjv1"/>
+        <updated>2022-03-02T23:16:02.121Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltjv1">안 후보님의 표정이 오늘도 킬링포인트 </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.]]></title>
         <id>https://alook.so/posts/yEt0V3</id>
         <link href="https://alook.so/posts/yEt0V3"/>
         <updated>2022-03-02T14:16:09.537Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt0V3">안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘도 등장하신 안선생님, 탄소편]]></title>
-        <id>https://alook.so/posts/6Mtvej</id>
-        <link href="https://alook.so/posts/6Mtvej"/>
-        <updated>2022-03-02T14:16:09.538Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtvej">오늘도 등장하신 안선생님, 탄소편</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안철수 후보가 민간기업의 지역 유치를 이야기하네요.]]></title>
@@ -62,18 +69,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tv5e">윤석열 후보의 나날이 발전하는 회피 실력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민연금은 보험료가 올라가면 강력한 소득재분배 제도가 됩니다.]]></title>
-        <id>https://alook.so/posts/3wtKXY</id>
-        <link href="https://alook.so/posts/3wtKXY"/>
-        <updated>2022-03-02T18:18:43.649Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtKXY">국민연금은 보험료가 올라가면 강력한 소득재분배 제도가 됩니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: [Live🛑] 사회분야, 대선 토론 속기록 풀버전 by alookso]]></title>
-        <id>https://alook.so/posts/o7tJnX</id>
-        <link href="https://alook.so/posts/o7tJnX"/>
-        <updated>2022-03-02T20:15:33.370Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tJnX">답글: [Live🛑] 사회분야, 대선 토론 속기록 풀버전 by alookso </a>]]></content>
+        <title type="html"><![CDATA[노동자, 근로자]]></title>
+        <id>https://alook.so/posts/jdtDeW</id>
+        <link href="https://alook.so/posts/jdtDeW"/>
+        <updated>2022-03-02T23:16:02.124Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtDeW">노동자, 근로자</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안철수 후보가 평등과 형평에 관한 유명한 그림을 들고 나왔네요.]]></title>
@@ -104,6 +104,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tZZ9">나는 왜 얼룩소의 보상을 키우는데 집착하는가</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대선까지 앞으로 7일, 마음의 결정하셨나요?]]></title>
+        <id>https://alook.so/posts/rDtWm6</id>
+        <link href="https://alook.so/posts/rDtWm6"/>
+        <updated>2022-03-02T23:16:02.127Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtWm6">대선까지 앞으로 7일, 마음의 결정하셨나요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 3]]></title>
         <id>https://alook.so/posts/6MtDEd</id>
         <link href="https://alook.so/posts/6MtDEd"/>
@@ -130,13 +137,6 @@
         <link href="https://alook.so/posts/o7tvkL"/>
         <updated>2022-03-01T16:21:49.036Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tvkL">실망입니다. 얼룩소..3.1절에 대해서 아무도 언급을 안하네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥슨 창업주 김정주 님의 비보를 듣고]]></title>
-        <id>https://alook.so/posts/dztPm3</id>
-        <link href="https://alook.so/posts/dztPm3"/>
-        <updated>2022-03-02T15:18:05.364Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztPm3">넥슨 창업주 김정주 님의 비보를 듣고</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우울증으로 퇴사하는 나 자신이 너무 나약한 것 같아요.]]></title>
