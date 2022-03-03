@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-03T06:21:13.939Z</updated>
+    <updated>2022-03-03T07:17:21.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 모두 소신투표 합시다]]></title>
+        <id>https://alook.so/posts/1Rt9Dx</id>
+        <link href="https://alook.so/posts/1Rt9Dx"/>
+        <updated>2022-03-03T07:16:04.313Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt9Dx">우리 모두 소신투표 합시다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘안’일화에 실패한 안철수의 ‘철수 사(史)’]]></title>
+        <id>https://alook.so/posts/DjtRRv</id>
+        <link href="https://alook.so/posts/DjtRRv"/>
+        <updated>2022-03-03T07:16:04.315Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtRRv">‘안’일화에 실패한 안철수의 ‘철수 사(史)’</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어제 토론때 안철수 후보의 넥타이 색은 복선이었나..]]></title>
         <id>https://alook.so/posts/XBtLvy</id>
@@ -32,13 +46,6 @@
         <link href="https://alook.so/posts/kZtjy5"/>
         <updated>2022-03-03T04:19:40.592Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtjy5">'낡은' 문자 漢字를 바라보며 문득 든 생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민간기업이 지자체 유치 시 기대효과 2가지]]></title>
-        <id>https://alook.so/posts/J5tn91</id>
-        <link href="https://alook.so/posts/J5tn91"/>
-        <updated>2022-03-03T04:19:40.593Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tn91">민간기업이 지자체 유치 시 기대효과 2가지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[경제제재 쉽게 이해하기 1편 : 경제제재 정의와 단순 성공률]]></title>
@@ -116,13 +123,6 @@
         <link href="https://alook.so/posts/LKtr5b"/>
         <updated>2022-03-02T01:00:07.740Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtr5b">얼룩소 때문에 넷플릭스 해약</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩커에 도전하는 택배기사]]></title>
-        <id>https://alook.so/posts/VntonM</id>
-        <link href="https://alook.so/posts/VntonM"/>
-        <updated>2022-03-02T01:00:07.740Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntonM">얼룩커에 도전하는 택배기사</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우울증으로 퇴사하는 나 자신이 너무 나약한 것 같아요.]]></title>
