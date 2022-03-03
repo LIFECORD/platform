@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-03T01:02:56.590Z</updated>
+    <updated>2022-03-03T02:20:54.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[대선후보의 단일화를 어떻게 보시나요]]></title>
-        <id>https://alook.so/posts/WLtb6m</id>
-        <link href="https://alook.so/posts/WLtb6m"/>
-        <updated>2022-03-03T01:01:31.906Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtb6m">대선후보의 단일화를 어떻게 보시나요</a>]]></content>
+        <title type="html"><![CDATA[[야권단일화] 극적인 단일화?]]></title>
+        <id>https://alook.so/posts/latELp</id>
+        <link href="https://alook.so/posts/latELp"/>
+        <updated>2022-03-03T02:19:22.841Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latELp">[야권단일화] 극적인 단일화?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러시아 전사 군인의 유족들에게 주어지는 돈에 관하여…]]></title>
-        <id>https://alook.so/posts/M9tear</id>
-        <link href="https://alook.so/posts/M9tear"/>
-        <updated>2022-03-03T01:01:31.907Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tear">러시아 전사 군인의 유족들에게 주어지는 돈에 관하여…</a>]]></content>
+        <title type="html"><![CDATA[오랜만에 학교에 오니 좋다]]></title>
+        <id>https://alook.so/posts/92tvYa</id>
+        <link href="https://alook.so/posts/92tvYa"/>
+        <updated>2022-03-03T02:19:22.842Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tvYa">오랜만에 학교에 오니 좋다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어머니 사랑합니다]]></title>
-        <id>https://alook.so/posts/w9t2qe</id>
-        <link href="https://alook.so/posts/w9t2qe"/>
-        <updated>2022-03-03T01:01:31.908Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t2qe">어머니 사랑합니다</a>]]></content>
+        <title type="html"><![CDATA[안철수 전후보의 이데올로기]]></title>
+        <id>https://alook.so/posts/mbt1yr</id>
+        <link href="https://alook.so/posts/mbt1yr"/>
+        <updated>2022-03-03T02:19:22.843Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt1yr">안철수 전후보의 이데올로기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라이나 대통령]]></title>
-        <id>https://alook.so/posts/kZtjDb</id>
-        <link href="https://alook.so/posts/kZtjDb"/>
-        <updated>2022-03-03T01:01:31.909Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtjDb">우크라이나 대통령</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알바로는 먹고살기 힘드네요]]></title>
-        <id>https://alook.so/posts/yEt0OG</id>
-        <link href="https://alook.so/posts/yEt0OG"/>
-        <updated>2022-03-03T01:01:31.912Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt0OG">알바로는 먹고살기 힘드네요</a>]]></content>
+        <title type="html"><![CDATA[퇴사 후 1년]]></title>
+        <id>https://alook.so/posts/1Rt91m</id>
+        <link href="https://alook.so/posts/1Rt91m"/>
+        <updated>2022-03-03T02:19:22.844Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt91m">퇴사 후 1년</a>]]></content>
     </entry>
 </feed>
