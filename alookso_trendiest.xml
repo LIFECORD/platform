@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-03T04:21:00.677Z</updated>
+    <updated>2022-03-03T06:21:13.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[어제 토론때 안철수 후보의 넥타이 색은 복선이었나..]]></title>
+        <id>https://alook.so/posts/XBtLvy</id>
+        <link href="https://alook.so/posts/XBtLvy"/>
+        <updated>2022-03-03T06:19:52.832Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtLvy">어제 토론때 안철수 후보의 넥타이 색은 복선이었나..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📻문재인 정부의 음성사서함, 해결하지 못한 메시지]]></title>
+        <id>https://alook.so/posts/o7tJJG</id>
+        <link href="https://alook.so/posts/o7tJJG"/>
+        <updated>2022-03-03T06:19:52.835Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tJJG">📻문재인 정부의 음성사서함, 해결하지 못한 메시지</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아 전사 군인의 유족들에게 주어지는 돈에 관하여…]]></title>
+        <id>https://alook.so/posts/M9tear</id>
+        <link href="https://alook.so/posts/M9tear"/>
+        <updated>2022-03-03T06:19:52.836Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tear">러시아 전사 군인의 유족들에게 주어지는 돈에 관하여…</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['낡은' 문자 漢字를 바라보며 문득 든 생각]]></title>
         <id>https://alook.so/posts/kZtjy5</id>
@@ -27,25 +48,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tvy9">경제제재 쉽게 이해하기 1편 : 경제제재 정의와 단순 성공률</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘은 제 생일입니다 🎂]]></title>
-        <id>https://alook.so/posts/njtrvy</id>
-        <link href="https://alook.so/posts/njtrvy"/>
-        <updated>2022-03-03T03:17:57.999Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtrvy">오늘은 제 생일입니다 🎂 </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[땅굴 디깅] 2017년 국민의힘은 정리해서 무엇을 까고 싶었을까]]></title>
         <id>https://alook.so/posts/E7tqVv</id>
         <link href="https://alook.so/posts/E7tqVv"/>
         <updated>2022-03-03T03:17:57.999Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tqVv">[땅굴 디깅] 2017년 국민의힘은 정리해서 무엇을 까고 싶었을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결국 이혼..]]></title>
-        <id>https://alook.so/posts/latE4E</id>
-        <link href="https://alook.so/posts/latE4E"/>
-        <updated>2022-03-03T03:17:58.003Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latE4E">결국 이혼..</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요즘 회사 상황이 최악이에요.]]></title>
