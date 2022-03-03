@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-03T10:19:48.219Z</updated>
+    <updated>2022-03-03T11:15:45.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[다들 선거/공약 관련 정보는 어디에서 확인하시나요?]]></title>
-        <id>https://alook.so/posts/w9t2G9</id>
-        <link href="https://alook.so/posts/w9t2G9"/>
-        <updated>2022-03-03T10:18:25.086Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t2G9">다들 선거/공약 관련 정보는 어디에서 확인하시나요?</a>]]></content>
+        <title type="html"><![CDATA[‘안’일화에 실패한 안철수의 ‘철수 사(史)’]]></title>
+        <id>https://alook.so/posts/DjtRRv</id>
+        <link href="https://alook.so/posts/DjtRRv"/>
+        <updated>2022-03-03T11:14:28.622Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtRRv">‘안’일화에 실패한 안철수의 ‘철수 사(史)’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이의 입학식]]></title>
@@ -62,25 +62,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tear">러시아 전사 군인의 유족들에게 주어지는 돈에 관하여…</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['낡은' 문자 漢字를 바라보며 문득 든 생각]]></title>
-        <id>https://alook.so/posts/kZtjy5</id>
-        <link href="https://alook.so/posts/kZtjy5"/>
-        <updated>2022-03-03T04:19:40.592Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtjy5">'낡은' 문자 漢字를 바라보며 문득 든 생각</a>]]></content>
+        <title type="html"><![CDATA[경제제재 쉽게 이해하기 1편 : 경제제재 정의와 단순 성공률]]></title>
+        <id>https://alook.so/posts/92tvy9</id>
+        <link href="https://alook.so/posts/92tvy9"/>
+        <updated>2022-03-03T11:14:28.645Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tvy9">경제제재 쉽게 이해하기 1편 : 경제제재 정의와 단순 성공률</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[민간기업이 지자체 유치 시 기대효과 2가지]]></title>
-        <id>https://alook.so/posts/J5tn91</id>
-        <link href="https://alook.so/posts/J5tn91"/>
-        <updated>2022-03-03T09:16:13.985Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tn91">민간기업이 지자체 유치 시 기대효과 2가지</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 회사 상황이 최악이에요.]]></title>
-        <id>https://alook.so/posts/q1tJvJ</id>
-        <link href="https://alook.so/posts/q1tJvJ"/>
-        <updated>2022-03-03T02:19:32.034Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tJvJ">요즘 회사 상황이 최악이에요.</a>]]></content>
+        <title type="html"><![CDATA[[땅굴 디깅] 2017년 국민의힘은 정리해서 무엇을 까고 싶었을까]]></title>
+        <id>https://alook.so/posts/E7tqVv</id>
+        <link href="https://alook.so/posts/E7tqVv"/>
+        <updated>2022-03-03T11:14:28.645Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tqVv">[땅굴 디깅] 2017년 국민의힘은 정리해서 무엇을 까고 싶었을까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소에 글쓰는 방법 알기]]></title>
@@ -88,6 +81,13 @@
         <link href="https://alook.so/posts/RGtW54"/>
         <updated>2022-03-03T03:17:58.003Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtW54">얼룩소에 글쓰는 방법 알기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 회사 상황이 최악이에요.]]></title>
+        <id>https://alook.so/posts/q1tJvJ</id>
+        <link href="https://alook.so/posts/q1tJvJ"/>
+        <updated>2022-03-03T02:19:32.034Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tJvJ">요즘 회사 상황이 최악이에요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[담임선생님]]></title>
