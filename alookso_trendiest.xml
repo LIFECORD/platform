@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-03T21:16:02.661Z</updated>
+    <updated>2022-03-03T22:17:38.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[내년이면 30대가 되는 29살인데 삶이 너무 힘드네요]]></title>
+        <id>https://alook.so/posts/G1tzW3</id>
+        <link href="https://alook.so/posts/G1tzW3"/>
+        <updated>2022-03-03T22:16:18.785Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tzW3">내년이면 30대가 되는 29살인데 삶이 너무 힘드네요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['보정사진'과 '세로로 찍은 사진'은 같은 느낌일까, 다른 느낌일까...]]></title>
+        <id>https://alook.so/posts/bWtnKJ</id>
+        <link href="https://alook.so/posts/bWtnKJ"/>
+        <updated>2022-03-03T22:16:18.786Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtnKJ">'보정사진'과 '세로로 찍은 사진'은 같은 느낌일까, 다른 느낌일까...</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아에 가장 많이 물려 있는 나라는 어디일까?]]></title>
         <id>https://alook.so/posts/54tRZD</id>
@@ -39,13 +53,6 @@
         <link href="https://alook.so/posts/yEt02k"/>
         <updated>2022-03-03T12:27:09.151Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt02k">존경할만한 사람을 대통령으로 뽑고 싶다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘안’일화에 실패한 안철수의 ‘철수 사(史)’]]></title>
-        <id>https://alook.so/posts/DjtRRv</id>
-        <link href="https://alook.so/posts/DjtRRv"/>
-        <updated>2022-03-03T13:22:36.157Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtRRv">‘안’일화에 실패한 안철수의 ‘철수 사(史)’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이의 입학식]]></title>
@@ -97,18 +104,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tear">러시아 전사 군인의 유족들에게 주어지는 돈에 관하여…</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소에 글쓰는 방법 알기]]></title>
-        <id>https://alook.so/posts/RGtW54</id>
-        <link href="https://alook.so/posts/RGtW54"/>
-        <updated>2022-03-03T03:17:58.003Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtW54">얼룩소에 글쓰는 방법 알기</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[요즘 회사 상황이 최악이에요.]]></title>
         <id>https://alook.so/posts/q1tJvJ</id>
         <link href="https://alook.so/posts/q1tJvJ"/>
         <updated>2022-03-03T02:19:32.034Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tJvJ">요즘 회사 상황이 최악이에요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소에 글쓰는 방법 알기]]></title>
+        <id>https://alook.so/posts/RGtW54</id>
+        <link href="https://alook.so/posts/RGtW54"/>
+        <updated>2022-03-03T03:17:58.003Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtW54">얼룩소에 글쓰는 방법 알기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[담임선생님]]></title>
