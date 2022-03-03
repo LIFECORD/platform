@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-03T09:17:30.905Z</updated>
+    <updated>2022-03-03T10:19:48.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[다들 선거/공약 관련 정보는 어디에서 확인하시나요?]]></title>
+        <id>https://alook.so/posts/w9t2G9</id>
+        <link href="https://alook.so/posts/w9t2G9"/>
+        <updated>2022-03-03T10:18:25.086Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t2G9">다들 선거/공약 관련 정보는 어디에서 확인하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이의 입학식]]></title>
+        <id>https://alook.so/posts/WLtb8x</id>
+        <link href="https://alook.so/posts/WLtb8x"/>
+        <updated>2022-03-03T10:18:25.095Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtb8x">아이의 입학식</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결선투표제가 시행돼야.]]></title>
+        <id>https://alook.so/posts/M9teW5</id>
+        <link href="https://alook.so/posts/M9teW5"/>
+        <updated>2022-03-03T10:18:25.098Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9teW5">결선투표제가 시행돼야. </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저출생의 원인, 정부가 집중해야 하는 것은? - '지역 균형'에 대한 생각]]></title>
         <id>https://alook.so/posts/mbt101</id>
@@ -55,20 +76,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tn91">민간기업이 지자체 유치 시 기대효과 2가지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[경제제재 쉽게 이해하기 1편 : 경제제재 정의와 단순 성공률]]></title>
-        <id>https://alook.so/posts/92tvy9</id>
-        <link href="https://alook.so/posts/92tvy9"/>
-        <updated>2022-03-03T04:19:40.594Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tvy9">경제제재 쉽게 이해하기 1편 : 경제제재 정의와 단순 성공률</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[땅굴 디깅] 2017년 국민의힘은 정리해서 무엇을 까고 싶었을까]]></title>
-        <id>https://alook.so/posts/E7tqVv</id>
-        <link href="https://alook.so/posts/E7tqVv"/>
-        <updated>2022-03-03T03:17:57.999Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tqVv">[땅굴 디깅] 2017년 국민의힘은 정리해서 무엇을 까고 싶었을까</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[요즘 회사 상황이 최악이에요.]]></title>
         <id>https://alook.so/posts/q1tJvJ</id>
         <link href="https://alook.so/posts/q1tJvJ"/>
@@ -102,13 +109,6 @@
         <link href="https://alook.so/posts/yEt0V3"/>
         <updated>2022-03-02T14:16:09.537Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt0V3">안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평생 가난할 사람들의 말버릇]]></title>
-        <id>https://alook.so/posts/4XtZ5R</id>
-        <link href="https://alook.so/posts/4XtZ5R"/>
-        <updated>2022-03-03T09:16:13.994Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtZ5R">평생 가난할 사람들의 말버릇</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나는 왜 얼룩소의 보상을 키우는데 집착하는가]]></title>
