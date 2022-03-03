@@ -2,29 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-02T23:17:16.623Z</updated>
+    <updated>2022-03-03T01:02:56.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[40살까지 순자산 10억, 너무 허황된 꿈일까요?]]></title>
-        <id>https://alook.so/posts/OEtbwe</id>
-        <link href="https://alook.so/posts/OEtbwe"/>
-        <updated>2022-03-02T23:16:02.119Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtbwe">40살까지 순자산 10억, 너무 허황된 꿈일까요?</a>]]></content>
+        <title type="html"><![CDATA[이 장면에서 토론회장에 불이라도 붙는 줄 알았네요.]]></title>
+        <id>https://alook.so/posts/DjtR7k</id>
+        <link href="https://alook.so/posts/DjtR7k"/>
+        <updated>2022-03-03T01:01:39.859Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtR7k">이 장면에서 토론회장에 불이라도 붙는 줄 알았네요. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘은 종일 돈을 빌리러 다녔다.]]></title>
-        <id>https://alook.so/posts/bWtn1B</id>
-        <link href="https://alook.so/posts/bWtn1B"/>
-        <updated>2022-03-02T14:16:09.524Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtn1B">오늘은 종일 돈을 빌리러 다녔다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자감자감]]></title>
-        <id>https://alook.so/posts/latElV</id>
-        <link href="https://alook.so/posts/latElV"/>
-        <updated>2022-03-02T14:16:09.527Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latElV">자감자감</a>]]></content>
+        <title type="html"><![CDATA[아침 출근길에 접한 단일화 소식]]></title>
+        <id>https://alook.so/posts/J5tn4w</id>
+        <link href="https://alook.so/posts/J5tn4w"/>
+        <updated>2022-03-03T01:01:39.859Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tn4w">아침 출근길에 접한 단일화 소식</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 후보가 오늘 토론회에서 많이 배워가는 것 같네요]]></title>
@@ -46,6 +39,13 @@
         <link href="https://alook.so/posts/yEt0V3"/>
         <updated>2022-03-02T14:16:09.537Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt0V3">안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘도 등장하신 안선생님, 탄소편]]></title>
+        <id>https://alook.so/posts/6Mtvej</id>
+        <link href="https://alook.so/posts/6Mtvej"/>
+        <updated>2022-03-03T01:01:39.863Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtvej">오늘도 등장하신 안선생님, 탄소편</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안철수 후보가 민간기업의 지역 유치를 이야기하네요.]]></title>
@@ -102,13 +102,6 @@
         <link href="https://alook.so/posts/70tZZ9"/>
         <updated>2022-03-02T05:15:57.501Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tZZ9">나는 왜 얼룩소의 보상을 키우는데 집착하는가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선까지 앞으로 7일, 마음의 결정하셨나요?]]></title>
-        <id>https://alook.so/posts/rDtWm6</id>
-        <link href="https://alook.so/posts/rDtWm6"/>
-        <updated>2022-03-02T23:16:02.127Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtWm6">대선까지 앞으로 7일, 마음의 결정하셨나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 3]]></title>
