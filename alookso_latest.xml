@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-03T12:28:30.904Z</updated>
+    <updated>2022-03-03T13:23:53.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[위드 코로나]]></title>
-        <id>https://alook.so/posts/G1tzoL</id>
-        <link href="https://alook.so/posts/G1tzoL"/>
-        <updated>2022-03-03T12:27:00.006Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tzoL">위드 코로나 </a>]]></content>
+        <title type="html"><![CDATA[정신 없는 하루]]></title>
+        <id>https://alook.so/posts/jdtk9B</id>
+        <link href="https://alook.so/posts/jdtk9B"/>
+        <updated>2022-03-03T13:22:27.340Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtk9B">정신 없는 하루</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저한테 욕좀 해주세요.]]></title>
-        <id>https://alook.so/posts/92tD78</id>
-        <link href="https://alook.so/posts/92tD78"/>
-        <updated>2022-03-03T12:27:00.007Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tD78">저한테 욕좀 해주세요.</a>]]></content>
+        <title type="html"><![CDATA[양성이랍니다..]]></title>
+        <id>https://alook.so/posts/bWt2pv</id>
+        <link href="https://alook.so/posts/bWt2pv"/>
+        <updated>2022-03-03T13:22:27.341Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt2pv">양성이랍니다..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 보는 나 그리고 너가 보는 나]]></title>
-        <id>https://alook.so/posts/54t1kj</id>
-        <link href="https://alook.so/posts/54t1kj"/>
-        <updated>2022-03-03T12:27:00.008Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t1kj">내가 보는 나 그리고 너가 보는 나</a>]]></content>
+        <title type="html"><![CDATA[허리디스크 스트레칭 3탄(햄스트링)]]></title>
+        <id>https://alook.so/posts/a0tway</id>
+        <link href="https://alook.so/posts/a0tway"/>
+        <updated>2022-03-03T13:22:27.342Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tway">허리디스크 스트레칭 3탄(햄스트링)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내일 26만명 예상]]></title>
+        <id>https://alook.so/posts/dztqr9</id>
+        <link href="https://alook.so/posts/dztqr9"/>
+        <updated>2022-03-03T13:22:27.343Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztqr9">내일 26만명 예상</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“딸아, 난 살아있어”… 전장서 춤추는 사진 틱톡 올리는 군인]]></title>
+        <id>https://alook.so/posts/VntKjp</id>
+        <link href="https://alook.so/posts/VntKjp"/>
+        <updated>2022-03-03T13:22:27.344Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntKjp">“딸아, 난 살아있어”… 전장서 춤추는 사진 틱톡 올리는 군인</a>]]></content>
     </entry>
 </feed>
