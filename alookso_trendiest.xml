@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-04T04:22:20.771Z</updated>
+    <updated>2022-03-04T05:17:40.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[몸과 마음]과 [기타]로 나뉘는 alookso 토픽]]></title>
+        <id>https://alook.so/posts/92tDyJ</id>
+        <link href="https://alook.so/posts/92tDyJ"/>
+        <updated>2022-03-04T05:16:26.738Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tDyJ">[몸과 마음]과 [기타]로 나뉘는 alookso 토픽</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나이는 면죄부가 될 수 있는가?]]></title>
+        <id>https://alook.so/posts/potVkV</id>
+        <link href="https://alook.so/posts/potVkV"/>
+        <updated>2022-03-04T05:16:26.743Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potVkV">나이는 면죄부가 될 수 있는가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당연한 일을 하는데도 에너지가 꽤 필요하다]]></title>
+        <id>https://alook.so/posts/mbtmkj</id>
+        <link href="https://alook.so/posts/mbtmkj"/>
+        <updated>2022-03-04T05:16:26.743Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtmkj">당연한 일을 하는데도 에너지가 꽤 필요하다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 4(부제:얼룩소중독증)]]></title>
         <id>https://alook.so/posts/G1tzOx</id>
@@ -18,13 +39,6 @@
         <link href="https://alook.so/posts/E7tLax"/>
         <updated>2022-03-04T04:21:02.254Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tLax">빛나는 개인을 선택하지 않겠다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한강 물에 비아그라가???]]></title>
-        <id>https://alook.so/posts/RGto02</id>
-        <link href="https://alook.so/posts/RGto02"/>
-        <updated>2022-03-04T04:21:02.255Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGto02">한강 물에 비아그라가???</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[이야기 NEWS] '세로 본능'과 '자존감' (長文주의보)]]></title>
@@ -48,11 +62,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tOkE">외모지상주의 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['보정사진'과 '세로로 찍은 사진'은 같은 느낌일까, 다른 느낌일까...]]></title>
-        <id>https://alook.so/posts/bWtnKJ</id>
-        <link href="https://alook.so/posts/bWtnKJ"/>
-        <updated>2022-03-03T22:16:18.786Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtnKJ">'보정사진'과 '세로로 찍은 사진'은 같은 느낌일까, 다른 느낌일까...</a>]]></content>
+        <title type="html"><![CDATA[한강 물에 비아그라가???]]></title>
+        <id>https://alook.so/posts/RGto02</id>
+        <link href="https://alook.so/posts/RGto02"/>
+        <updated>2022-03-04T04:21:02.255Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGto02">한강 물에 비아그라가???</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[승진 이게 뭐라고.]]></title>
@@ -62,11 +76,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tOxz">승진 이게 뭐라고.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러시아에 가장 많이 물려 있는 나라는 어디일까?]]></title>
-        <id>https://alook.so/posts/54tRZD</id>
-        <link href="https://alook.so/posts/54tRZD"/>
-        <updated>2022-03-03T16:23:36.849Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tRZD">러시아에 가장 많이 물려 있는 나라는 어디일까?</a>]]></content>
+        <title type="html"><![CDATA['보정사진'과 '세로로 찍은 사진'은 같은 느낌일까, 다른 느낌일까...]]></title>
+        <id>https://alook.so/posts/bWtnKJ</id>
+        <link href="https://alook.so/posts/bWtnKJ"/>
+        <updated>2022-03-03T22:16:18.786Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtnKJ">'보정사진'과 '세로로 찍은 사진'은 같은 느낌일까, 다른 느낌일까...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주4일제+임금 감소 시, 삶의 질이 향상될까?]]></title>
@@ -74,13 +88,6 @@
         <link href="https://alook.so/posts/RGtokZ"/>
         <updated>2022-03-03T14:16:24.781Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtokZ">주4일제+임금 감소 시, 삶의 질이 향상될까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[얼룩얼]얼룩소를 통해 보는, 안철수-윤석열 단일화. 과연 윤석열에게 호재일까?]]></title>
-        <id>https://alook.so/posts/njtE1Z</id>
-        <link href="https://alook.so/posts/njtE1Z"/>
-        <updated>2022-03-03T14:16:24.784Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtE1Z">[얼룩얼]얼룩소를 통해 보는, 안철수-윤석열 단일화. 과연 윤석열에게 호재일까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 투표 기능에 '기타'선택지를 추가해 주시면 안될까요?]]></title>
@@ -109,13 +116,6 @@
         <link href="https://alook.so/posts/M9teW5"/>
         <updated>2022-03-03T10:18:25.098Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9teW5">결선투표제가 시행돼야. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저출생의 원인, 정부가 집중해야 하는 것은? - '지역 균형'에 대한 생각]]></title>
-        <id>https://alook.so/posts/mbt101</id>
-        <link href="https://alook.so/posts/mbt101"/>
-        <updated>2022-03-03T09:16:13.981Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt101">저출생의 원인, 정부가 집중해야 하는 것은? - '지역 균형'에 대한 생각</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리 모두 소신투표 합시다]]></title>
