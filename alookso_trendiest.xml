@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-04T14:17:05.641Z</updated>
+    <updated>2022-03-04T17:18:49.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[걱정말아요, 그대]]></title>
+        <id>https://alook.so/posts/rDtV8O</id>
+        <link href="https://alook.so/posts/rDtV8O"/>
+        <updated>2022-03-04T17:17:31.531Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtV8O">걱정말아요, 그대</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['공평'이라는 숙제]]></title>
+        <id>https://alook.so/posts/2xt6DZ</id>
+        <link href="https://alook.so/posts/2xt6DZ"/>
+        <updated>2022-03-04T17:17:31.533Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt6DZ">'공평'이라는 숙제</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지지자도 아니고 뽑을 것도 아니었는데도 이렇게나 씁쓸하다]]></title>
         <id>https://alook.so/posts/J5tw04</id>
@@ -48,18 +62,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtonL">양치하면서 읽다 얼른 점심시간 끝나기 전 답글을!</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[답글: 나는 왜 얼룩커가 되었나 4(부제:얼룩소중독증)]]></title>
+        <id>https://alook.so/posts/E7tLrP</id>
+        <link href="https://alook.so/posts/E7tLrP"/>
+        <updated>2022-03-04T17:17:31.538Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tLrP">답글: 나는 왜 얼룩커가 되었나 4(부제:얼룩소중독증)</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[진짜가 나타났다!]]></title>
         <id>https://alook.so/posts/RGtoeP</id>
         <link href="https://alook.so/posts/RGtoeP"/>
         <updated>2022-03-04T12:25:35.126Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtoeP">진짜가 나타났다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원자력 무차별 폭격 이건 정말 아니지 않나요?]]></title>
-        <id>https://alook.so/posts/KmtZy4</id>
-        <link href="https://alook.so/posts/KmtZy4"/>
-        <updated>2022-03-04T07:15:13.488Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtZy4">원자력 무차별 폭격 이건 정말 아니지 않나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[몸과 마음]과 [기타]로 나뉘는 alookso 토픽]]></title>
@@ -76,11 +90,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potVkV">나이는 면죄부가 될 수 있는가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 4(부제:얼룩소중독증)]]></title>
+        <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 4(얼룩소중독증 편)]]></title>
         <id>https://alook.so/posts/G1tzOx</id>
         <link href="https://alook.so/posts/G1tzOx"/>
         <updated>2022-03-04T04:21:02.253Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tzOx">나는 왜 얼룩커가 되었나 4(부제:얼룩소중독증)</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tzOx">나는 왜 얼룩커가 되었나 4(얼룩소중독증 편)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[외모지상주의]]></title>
@@ -116,12 +130,5 @@
         <link href="https://alook.so/posts/WLtb8x"/>
         <updated>2022-03-03T10:18:25.095Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtb8x">아이의 입학식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 모두 소신투표 합시다]]></title>
-        <id>https://alook.so/posts/1Rt9Dx</id>
-        <link href="https://alook.so/posts/1Rt9Dx"/>
-        <updated>2022-03-03T07:16:04.313Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt9Dx">우리 모두 소신투표 합시다</a>]]></content>
     </entry>
 </feed>
