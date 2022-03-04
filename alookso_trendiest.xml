@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-04T12:26:52.247Z</updated>
+    <updated>2022-03-04T14:17:05.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[지지자도 아니고 뽑을 것도 아니었는데도 이렇게나 씁쓸하다]]></title>
+        <id>https://alook.so/posts/J5tw04</id>
+        <link href="https://alook.so/posts/J5tw04"/>
+        <updated>2022-03-04T14:15:37.593Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tw04">지지자도 아니고 뽑을 것도 아니었는데도 이렇게나 씁쓸하다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통령 선거 토론회를 한번도 보지않은 이유]]></title>
+        <id>https://alook.so/posts/rDtLee</id>
+        <link href="https://alook.so/posts/rDtLee"/>
+        <updated>2022-03-04T14:15:37.597Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtLee">대통령 선거 토론회를 한번도 보지않은 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사전투표를 마치고]]></title>
+        <id>https://alook.so/posts/mbtmxm</id>
+        <link href="https://alook.so/posts/mbtmxm"/>
+        <updated>2022-03-04T14:15:37.597Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtmxm">사전투표를 마치고</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫 대통령 선거 투표, 권리를 행사하고 왔습니다.]]></title>
         <id>https://alook.so/posts/BatOPY</id>
@@ -62,20 +83,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tzOx">나는 왜 얼룩커가 되었나 4(부제:얼룩소중독증)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이야기 NEWS] '세로 본능'과 '자존감' (長文주의보)]]></title>
-        <id>https://alook.so/posts/DjtRJa</id>
-        <link href="https://alook.so/posts/DjtRJa"/>
-        <updated>2022-03-04T12:25:35.132Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtRJa">[이야기 NEWS] '세로 본능'과 '자존감' (長文주의보)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[얼룩소] '개그우먼'이란 제목의 다큐멘터리]]></title>
-        <id>https://alook.so/posts/OEtbay</id>
-        <link href="https://alook.so/posts/OEtbay"/>
-        <updated>2022-03-04T12:25:35.133Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtbay">[얼룩소] '개그우먼'이란 제목의 다큐멘터리</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[외모지상주의]]></title>
         <id>https://alook.so/posts/o7tOkE</id>
         <link href="https://alook.so/posts/o7tOkE"/>
@@ -116,12 +123,5 @@
         <link href="https://alook.so/posts/1Rt9Dx"/>
         <updated>2022-03-03T07:16:04.313Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt9Dx">우리 모두 소신투표 합시다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 회사 상황이 최악이에요.]]></title>
-        <id>https://alook.so/posts/q1tJvJ</id>
-        <link href="https://alook.so/posts/q1tJvJ"/>
-        <updated>2022-03-03T02:19:32.034Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tJvJ">요즘 회사 상황이 최악이에요.</a>]]></content>
     </entry>
 </feed>
