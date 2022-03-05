@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-05T14:18:50.697Z</updated>
+    <updated>2022-03-05T16:21:31.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼룩소를 시작하며]]></title>
-        <id>https://alook.so/posts/eVt9ve</id>
-        <link href="https://alook.so/posts/eVt9ve"/>
-        <updated>2022-03-05T14:17:22.530Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt9ve">얼룩소를 시작하며</a>]]></content>
+        <title type="html"><![CDATA[입대 한달 전에 한 것들]]></title>
+        <id>https://alook.so/posts/54tn44</id>
+        <link href="https://alook.so/posts/54tn44"/>
+        <updated>2022-03-05T16:20:03.616Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tn44">입대 한달 전에 한 것들 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부정적 마음]]></title>
-        <id>https://alook.so/posts/Pvt042</id>
-        <link href="https://alook.so/posts/Pvt042"/>
-        <updated>2022-03-05T14:17:22.532Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt042">부정적 마음</a>]]></content>
+        <title type="html"><![CDATA[행복이란 무엇일까요??]]></title>
+        <id>https://alook.so/posts/1RtPMJ</id>
+        <link href="https://alook.so/posts/1RtPMJ"/>
+        <updated>2022-03-05T16:20:03.617Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtPMJ">행복이란 무엇일까요??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 하루가 왜이렇게 꼬이는거죠]]></title>
-        <id>https://alook.so/posts/0ktYvM</id>
-        <link href="https://alook.so/posts/0ktYvM"/>
-        <updated>2022-03-05T14:17:22.533Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktYvM">오늘 하루가 왜이렇게 꼬이는거죠</a>]]></content>
+        <title type="html"><![CDATA[20년 을 한곳에서]]></title>
+        <id>https://alook.so/posts/Yyte52</id>
+        <link href="https://alook.so/posts/Yyte52"/>
+        <updated>2022-03-05T16:20:03.618Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyte52">20년 을 한곳에서</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생각이 깊어지는 밤]]></title>
+        <id>https://alook.so/posts/jdtW30</id>
+        <link href="https://alook.so/posts/jdtW30"/>
+        <updated>2022-03-05T16:20:03.620Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtW30">생각이 깊어지는 밤</a>]]></content>
     </entry>
 </feed>
