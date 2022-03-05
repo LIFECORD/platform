@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-05T10:18:33.614Z</updated>
+    <updated>2022-03-05T11:16:22.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나로 인하여  격리]]></title>
+        <id>https://alook.so/posts/70tjX0</id>
+        <link href="https://alook.so/posts/70tjX0"/>
+        <updated>2022-03-05T11:15:07.273Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tjX0">코로나로 인하여  격리</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴일]]></title>
         <id>https://alook.so/posts/o7tp3w</id>
@@ -123,13 +130,6 @@
         <link href="https://alook.so/posts/BatOPY"/>
         <updated>2022-03-04T12:25:35.123Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatOPY">첫 대통령 선거 투표, 권리를 행사하고 왔습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노노노: 지방재정투자_02] 에이스는 본사로 보내야 할까? - 적재적소 vs 적소적재]]></title>
-        <id>https://alook.so/posts/1Rt4WE</id>
-        <link href="https://alook.so/posts/1Rt4WE"/>
-        <updated>2022-03-05T08:19:10.558Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt4WE">[노노노: 지방재정투자_02] 에이스는 본사로 보내야 할까? - 적재적소 vs 적소적재</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민주주의, 시민을 읽지 못한 푸틴의 오판 [푸틴은 합리적인가?]]]></title>
