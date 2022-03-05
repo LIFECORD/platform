@@ -2,21 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-05T08:20:43.447Z</updated>
+    <updated>2022-03-05T10:18:33.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[산불 범인 60대 무시 당했다는 이유 등으로 불을 냄]]></title>
-        <id>https://alook.so/posts/zvtzMD</id>
-        <link href="https://alook.so/posts/zvtzMD"/>
-        <updated>2022-03-05T08:19:00.620Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtzMD">산불 범인 60대 무시 당했다는 이유 등으로 불을 냄</a>]]></content>
+        <title type="html"><![CDATA[산불 무서운 남하에 울진 초비상…]]></title>
+        <id>https://alook.so/posts/OEtdbY</id>
+        <link href="https://alook.so/posts/OEtdbY"/>
+        <updated>2022-03-05T10:17:08.414Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtdbY">산불 무서운 남하에 울진 초비상…</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[앱테크를 할 때 절대 친구초대를 함부로 하면 안된다는 걸 깨달았어요.]]></title>
-        <id>https://alook.so/posts/w9temk</id>
-        <link href="https://alook.so/posts/w9temk"/>
-        <updated>2022-03-05T08:19:00.622Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9temk">앱테크를 할 때 절대 친구초대를 함부로 하면 안된다는 걸 깨달았어요.</a>]]></content>
+        <title type="html"><![CDATA[러시아 우크라이나 전쟁]]></title>
+        <id>https://alook.so/posts/vKtlMa</id>
+        <link href="https://alook.so/posts/vKtlMa"/>
+        <updated>2022-03-05T10:17:08.415Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtlMa">러시아 우크라이나 전쟁</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밥 한끼 먹기도 힘든 세상이 오나요?]]></title>
+        <id>https://alook.so/posts/92trv3</id>
+        <link href="https://alook.so/posts/92trv3"/>
+        <updated>2022-03-05T10:17:08.416Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92trv3"> 밥 한끼 먹기도 힘든 세상이 오나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[끝나기전에 투표]]></title>
+        <id>https://alook.so/posts/KmtLEB</id>
+        <link href="https://alook.so/posts/KmtLEB"/>
+        <updated>2022-03-05T10:17:08.418Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtLEB">끝나기전에 투표</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 여행, 지금 가능할까요?]]></title>
+        <id>https://alook.so/posts/1RtVWL</id>
+        <link href="https://alook.so/posts/1RtVWL"/>
+        <updated>2022-03-05T10:17:08.419Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtVWL">해외 여행, 지금 가능할까요?</a>]]></content>
     </entry>
 </feed>
