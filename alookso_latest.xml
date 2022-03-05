@@ -2,35 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-05T11:16:22.223Z</updated>
+    <updated>2022-03-05T12:24:22.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[직장]]></title>
-        <id>https://alook.so/posts/lataae</id>
-        <link href="https://alook.so/posts/lataae"/>
-        <updated>2022-03-05T11:14:59.140Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lataae">직장</a>]]></content>
+        <title type="html"><![CDATA[나의 생일]]></title>
+        <id>https://alook.so/posts/o7tpe6</id>
+        <link href="https://alook.so/posts/o7tpe6"/>
+        <updated>2022-03-05T12:23:01.050Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tpe6">나의 생일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[참 미련하지요?]]></title>
-        <id>https://alook.so/posts/92trrR</id>
-        <link href="https://alook.so/posts/92trrR"/>
-        <updated>2022-03-05T11:14:59.141Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92trrR">참 미련하지요?</a>]]></content>
+        <title type="html"><![CDATA[남 깎아내리기]]></title>
+        <id>https://alook.so/posts/YytM4x</id>
+        <link href="https://alook.so/posts/YytM4x"/>
+        <updated>2022-03-05T12:23:01.051Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytM4x">남 깎아내리기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘의운세]]></title>
-        <id>https://alook.so/posts/54taaM</id>
-        <link href="https://alook.so/posts/54taaM"/>
-        <updated>2022-03-05T11:14:59.141Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54taaM">오늘의운세</a>]]></content>
+        <title type="html"><![CDATA[오계의 기본 정신]]></title>
+        <id>https://alook.so/posts/rDtVdx</id>
+        <link href="https://alook.so/posts/rDtVdx"/>
+        <updated>2022-03-05T12:23:01.051Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtVdx">오계의 기본 정신</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강건]]></title>
-        <id>https://alook.so/posts/o7tppk</id>
-        <link href="https://alook.so/posts/o7tppk"/>
-        <updated>2022-03-05T11:14:59.142Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tppk">강건</a>]]></content>
+        <title type="html"><![CDATA[아득]]></title>
+        <id>https://alook.so/posts/jdt27x</id>
+        <link href="https://alook.so/posts/jdt27x"/>
+        <updated>2022-03-05T12:23:01.052Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt27x">아득</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온 국민이 부동산 투자자]]></title>
+        <id>https://alook.so/posts/a0tJqD</id>
+        <link href="https://alook.so/posts/a0tJqD"/>
+        <updated>2022-03-05T12:23:01.053Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tJqD">온 국민이 부동산 투자자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제대로 된 쉼이 뭔지..!]]></title>
+        <id>https://alook.so/posts/dztBaK</id>
+        <link href="https://alook.so/posts/dztBaK"/>
+        <updated>2022-03-05T12:23:01.054Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztBaK">제대로 된 쉼이 뭔지..!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강아지를 친구에게 부탁하려 합니다.]]></title>
+        <id>https://alook.so/posts/J5tGxP</id>
+        <link href="https://alook.so/posts/J5tGxP"/>
+        <updated>2022-03-05T12:23:01.055Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tGxP">강아지를 친구에게 부탁하려 합니다.</a>]]></content>
     </entry>
 </feed>
