@@ -2,56 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-05T13:19:23.300Z</updated>
+    <updated>2022-03-05T14:18:50.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[혹시 몰라서 참여를 못하는 분들을 위해]]></title>
-        <id>https://alook.so/posts/a0tJ3R</id>
-        <link href="https://alook.so/posts/a0tJ3R"/>
-        <updated>2022-03-05T13:18:03.415Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tJ3R">혹시 몰라서 참여를 못하는 분들을 위해</a>]]></content>
+        <title type="html"><![CDATA[얼룩소를 시작하며]]></title>
+        <id>https://alook.so/posts/eVt9ve</id>
+        <link href="https://alook.so/posts/eVt9ve"/>
+        <updated>2022-03-05T14:17:22.530Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt9ve">얼룩소를 시작하며</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[관계]]></title>
-        <id>https://alook.so/posts/Zktod3</id>
-        <link href="https://alook.so/posts/Zktod3"/>
-        <updated>2022-03-05T13:18:03.415Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktod3">관계</a>]]></content>
+        <title type="html"><![CDATA[부정적 마음]]></title>
+        <id>https://alook.so/posts/Pvt042</id>
+        <link href="https://alook.so/posts/Pvt042"/>
+        <updated>2022-03-05T14:17:22.532Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt042">부정적 마음</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어떤게 옳은걸까]]></title>
-        <id>https://alook.so/posts/J5tGzk</id>
-        <link href="https://alook.so/posts/J5tGzk"/>
-        <updated>2022-03-05T13:18:03.417Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tGzk">어떤게 옳은걸까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼십대가 되며 느낀 점]]></title>
-        <id>https://alook.so/posts/pote6O</id>
-        <link href="https://alook.so/posts/pote6O"/>
-        <updated>2022-03-05T13:18:03.417Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pote6O">삼십대가 되며 느낀 점</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대천 여행]]></title>
-        <id>https://alook.so/posts/eVt9B5</id>
-        <link href="https://alook.so/posts/eVt9B5"/>
-        <updated>2022-03-05T13:18:03.418Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt9B5">대천 여행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 살면서 후회되는 일 두 가지 - 첫번째]]></title>
-        <id>https://alook.so/posts/VntXDZ</id>
-        <link href="https://alook.so/posts/VntXDZ"/>
-        <updated>2022-03-05T13:18:03.419Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntXDZ">내가 살면서 후회되는 일 두 가지 - 첫번째</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알차게 보내기!!]]></title>
-        <id>https://alook.so/posts/zvtzRm</id>
-        <link href="https://alook.so/posts/zvtzRm"/>
-        <updated>2022-03-05T13:18:03.420Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtzRm">알차게 보내기!!</a>]]></content>
+        <title type="html"><![CDATA[오늘 하루가 왜이렇게 꼬이는거죠]]></title>
+        <id>https://alook.so/posts/0ktYvM</id>
+        <link href="https://alook.so/posts/0ktYvM"/>
+        <updated>2022-03-05T14:17:22.533Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktYvM">오늘 하루가 왜이렇게 꼬이는거죠</a>]]></content>
     </entry>
 </feed>

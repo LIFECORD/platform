@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-05T13:19:23.292Z</updated>
+    <updated>2022-03-05T14:18:50.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://alook.so/posts/WLt0Kq"/>
         <updated>2022-03-05T13:18:11.469Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt0Kq">나는 30대 일을 그만두었다 그리고 시작한 프리랜서</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[익숙한 것들에 대한 소중함]]></title>
+        <id>https://alook.so/posts/VntXdW</id>
+        <link href="https://alook.so/posts/VntXdW"/>
+        <updated>2022-03-05T12:23:08.172Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntXdW">익숙한 것들에 대한 소중함</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[혼밥에 대해서 어떻게 생각하나요?]]></title>
@@ -39,13 +46,6 @@
         <link href="https://alook.so/posts/70tjX0"/>
         <updated>2022-03-05T11:15:07.273Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tjX0">코로나로 인하여  격리</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[익숙한 것들에 대한 소중함]]></title>
-        <id>https://alook.so/posts/VntXdW</id>
-        <link href="https://alook.so/posts/VntXdW"/>
-        <updated>2022-03-05T12:23:08.172Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntXdW">익숙한 것들에 대한 소중함</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휴일]]></title>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tamX">26살에 집을 짓기러했어요 </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[저절로 기도가 나오던 캄캄한 밤]]></title>
+        <id>https://alook.so/posts/lata8D</id>
+        <link href="https://alook.so/posts/lata8D"/>
+        <updated>2022-03-05T06:18:55.129Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lata8D">저절로 기도가 나오던 캄캄한 밤</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[좋아요 500명 되었네요]]></title>
         <id>https://alook.so/posts/zvtzqL</id>
         <link href="https://alook.so/posts/zvtzqL"/>
@@ -95,13 +102,6 @@
         <link href="https://alook.so/posts/VntXR6"/>
         <updated>2022-03-05T06:18:55.125Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntXR6">포기하면 기회는 도망간다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저절로 기도가 나오던 캄캄한 밤]]></title>
-        <id>https://alook.so/posts/lata8D</id>
-        <link href="https://alook.so/posts/lata8D"/>
-        <updated>2022-03-05T06:18:55.129Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lata8D">저절로 기도가 나오던 캄캄한 밤</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[100번째 글을 차축하며]]></title>
@@ -137,12 +137,5 @@
         <link href="https://alook.so/posts/6MtG7Y"/>
         <updated>2022-03-04T23:18:24.542Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtG7Y">나는 왜 얼룩커가 되었나 5(글쓰기 편)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫 대통령 선거 투표, 권리를 행사하고 왔습니다.]]></title>
-        <id>https://alook.so/posts/BatOPY</id>
-        <link href="https://alook.so/posts/BatOPY"/>
-        <updated>2022-03-04T12:25:35.123Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatOPY">첫 대통령 선거 투표, 권리를 행사하고 왔습니다.</a>]]></content>
     </entry>
 </feed>
