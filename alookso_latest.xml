@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-05T02:13:59.316Z</updated>
+    <updated>2022-03-05T06:20:20.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[운전을 하다가 마주쳤을 때]]></title>
-        <id>https://alook.so/posts/Djtv2n</id>
-        <link href="https://alook.so/posts/Djtv2n"/>
-        <updated>2022-03-05T02:12:31.097Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtv2n">운전을 하다가 마주쳤을 때</a>]]></content>
+        <title type="html"><![CDATA[얼룩소를 하고계시는 분들께]]></title>
+        <id>https://alook.so/posts/DjtvZJ</id>
+        <link href="https://alook.so/posts/DjtvZJ"/>
+        <updated>2022-03-05T06:18:45.641Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtvZJ">얼룩소를 하고계시는 분들께</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리의 삶이 오전 11시 점심시간기다리며 12시땡! 기다리듯 설렘 가득한 날처럼,]]></title>
-        <id>https://alook.so/posts/a0tJMw</id>
-        <link href="https://alook.so/posts/a0tJMw"/>
-        <updated>2022-03-05T02:12:31.098Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tJMw">우리의 삶이 오전 11시 점심시간기다리며 12시땡! 기다리듯 설렘 가득한 날처럼,</a>]]></content>
+        <title type="html"><![CDATA[지난주 북한땅을 보고왔습니다]]></title>
+        <id>https://alook.so/posts/1RtVdP</id>
+        <link href="https://alook.so/posts/1RtVdP"/>
+        <updated>2022-03-05T06:18:45.642Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtVdP">지난주 북한땅을 보고왔습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토요일도 출근하는..]]></title>
+        <id>https://alook.so/posts/rDtVmW</id>
+        <link href="https://alook.so/posts/rDtVmW"/>
+        <updated>2022-03-05T06:18:45.643Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtVmW">토요일도 출근하는..</a>]]></content>
     </entry>
 </feed>
