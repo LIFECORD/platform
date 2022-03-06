@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-06T20:18:55.236Z</updated>
+    <updated>2022-03-06T21:16:10.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[다른 분들이 쓴 글에 댓글 달기가 죄송하다.]]></title>
-        <id>https://alook.so/posts/mbtowW</id>
-        <link href="https://alook.so/posts/mbtowW"/>
-        <updated>2022-03-06T20:17:27.893Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtowW">다른 분들이 쓴 글에 댓글 달기가 죄송하다.</a>]]></content>
+        <title type="html"><![CDATA[내게 남은 건 빚 뿐이지만, 시장은 더 하락한다고 한다.]]></title>
+        <id>https://alook.so/posts/bWt97Z</id>
+        <link href="https://alook.so/posts/bWt97Z"/>
+        <updated>2022-03-06T21:14:41.559Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt97Z">내게 남은 건 빚 뿐이지만, 시장은 더 하락한다고 한다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제3세계대전이 발발할까 노심초사에요..]]></title>
-        <id>https://alook.so/posts/q1tBod</id>
-        <link href="https://alook.so/posts/q1tBod"/>
-        <updated>2022-03-06T20:17:27.894Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tBod">제3세계대전이 발발할까 노심초사에요..</a>]]></content>
+        <title type="html"><![CDATA[답글: 오랜만에 총총 걸음하였습니다.]]></title>
+        <id>https://alook.so/posts/dztMwz</id>
+        <link href="https://alook.so/posts/dztMwz"/>
+        <updated>2022-03-06T21:14:41.560Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztMwz">답글: 오랜만에 총총 걸음하였습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 얼룩소를 향한 애정?과 관심이 느껴집니다.]]></title>
+        <id>https://alook.so/posts/VntELV</id>
+        <link href="https://alook.so/posts/VntELV"/>
+        <updated>2022-03-06T21:14:41.561Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntELV">답글: 얼룩소를 향한 애정?과 관심이 느껴집니다.</a>]]></content>
     </entry>
 </feed>
