@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-06T13:20:17.390Z</updated>
+    <updated>2022-03-06T14:17:16.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[현안님, 고맙습니다!]]></title>
-        <id>https://alook.so/posts/WLtdPd</id>
-        <link href="https://alook.so/posts/WLtdPd"/>
-        <updated>2022-03-06T13:18:56.302Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtdPd">현안님, 고맙습니다!</a>]]></content>
+        <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 6(마지막 이야기)]]></title>
+        <id>https://alook.so/posts/4XtR37</id>
+        <link href="https://alook.so/posts/4XtR37"/>
+        <updated>2022-03-06T14:15:58.532Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtR37">나는 왜 얼룩커가 되었나 6(마지막 이야기)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투표합시다] 역대 최고 36.93% 사전투표율은 무엇을 이야기할까]]></title>
+        <id>https://alook.so/posts/LKt2n8</id>
+        <link href="https://alook.so/posts/LKt2n8"/>
+        <updated>2022-03-06T14:15:58.533Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt2n8">[투표합시다] 역대 최고 36.93% 사전투표율은 무엇을 이야기할까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😮실패창고를 채워라-성공으로 가는 길😎]]></title>
+        <id>https://alook.so/posts/rDtkBP</id>
+        <link href="https://alook.so/posts/rDtkBP"/>
+        <updated>2022-03-06T14:15:58.534Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtkBP"> 😮실패창고를 채워라-성공으로 가는 길😎 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린 시절 추억 회상]]></title>
@@ -67,20 +81,6 @@
         <link href="https://alook.so/posts/92tEPZ"/>
         <updated>2022-03-06T08:18:08.325Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tEPZ">슬슬 풀려야 할 사회 통제 조치들. '지금'은 그래야 할 시기.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기본권(의료권)보다 위에 있는 방역지침의 현실 [요즘군대.brf]]]></title>
-        <id>https://alook.so/posts/bWt65b</id>
-        <link href="https://alook.so/posts/bWt65b"/>
-        <updated>2022-03-06T13:18:56.313Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt65b">기본권(의료권)보다 위에 있는 방역지침의 현실 [요즘군대.brf]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N잡에대한 생각]]></title>
-        <id>https://alook.so/posts/J5tqVp</id>
-        <link href="https://alook.so/posts/J5tqVp"/>
-        <updated>2022-03-06T07:14:41.853Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tqVp">N잡에대한 생각</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구독자 수 100명이 되었습니다!!!!]]></title>
