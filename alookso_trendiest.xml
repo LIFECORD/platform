@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-06T14:17:16.522Z</updated>
+    <updated>2022-03-06T16:23:35.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성 갤럭시 스마트폰 GOS 논란과 스마트폰의 미래]]></title>
+        <id>https://alook.so/posts/njtRkk</id>
+        <link href="https://alook.so/posts/njtRkk"/>
+        <updated>2022-03-06T16:22:10.603Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtRkk">삼성 갤럭시 스마트폰 GOS 논란과 스마트폰의 미래</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자연이 그렇다고 인간도 그래야만 하는가?]]></title>
+        <id>https://alook.so/posts/E7toBw</id>
+        <link href="https://alook.so/posts/E7toBw"/>
+        <updated>2022-03-06T16:22:10.604Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7toBw">자연이 그렇다고 인간도 그래야만 하는가?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 6(마지막 이야기)]]></title>
         <id>https://alook.so/posts/4XtR37</id>
@@ -25,13 +39,6 @@
         <link href="https://alook.so/posts/rDtkBP"/>
         <updated>2022-03-06T14:15:58.534Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtkBP"> 😮실패창고를 채워라-성공으로 가는 길😎 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린 시절 추억 회상]]></title>
-        <id>https://alook.so/posts/J5tq4B</id>
-        <link href="https://alook.so/posts/J5tq4B"/>
-        <updated>2022-03-06T13:18:56.302Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tq4B">어린 시절 추억 회상 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안녕하세요 우울증을 극복하려는 20대 초반 청년입니다.]]></title>
@@ -116,13 +123,6 @@
         <link href="https://alook.so/posts/eVtLGP"/>
         <updated>2022-03-06T03:16:49.268Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtLGP">[늦은 아침 생각] 경칩 (驚蟄)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경제 제재 쉽게 이해하기 2편 : 경제 제재 정의와 단순 성공률]]></title>
-        <id>https://alook.so/posts/rDtVZR</id>
-        <link href="https://alook.so/posts/rDtVZR"/>
-        <updated>2022-03-06T03:16:49.270Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtVZR">경제 제재 쉽게 이해하기 2편 : 경제 제재 정의와 단순 성공률</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안 바뀔 것을 아는데도 왜 난 설득하려 드는가]]></title>
