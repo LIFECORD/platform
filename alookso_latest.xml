@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-07T11:15:29.262Z</updated>
+    <updated>2022-03-07T12:26:44.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오늘의 나다잡]]></title>
-        <id>https://alook.so/posts/XBt7yY</id>
-        <link href="https://alook.so/posts/XBt7yY"/>
-        <updated>2022-03-07T11:14:02.736Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt7yY">오늘의 나다잡</a>]]></content>
+        <title type="html"><![CDATA[좋은 리더는 무엇일까요..?]]></title>
+        <id>https://alook.so/posts/Kmt91B</id>
+        <link href="https://alook.so/posts/Kmt91B"/>
+        <updated>2022-03-07T12:25:11.588Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt91B">좋은 리더는 무엇일까요..?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불안]]></title>
-        <id>https://alook.so/posts/xltORz</id>
-        <link href="https://alook.so/posts/xltORz"/>
-        <updated>2022-03-07T11:14:02.737Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltORz">불안</a>]]></content>
+        <title type="html"><![CDATA[약 40년전 그날 "Oil Shock"]]></title>
+        <id>https://alook.so/posts/54t2k3</id>
+        <link href="https://alook.so/posts/54t2k3"/>
+        <updated>2022-03-07T12:25:11.588Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t2k3">약 40년전 그날 "Oil Shock"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[환영합니다.]]></title>
-        <id>https://alook.so/posts/RGtlZM</id>
-        <link href="https://alook.so/posts/RGtlZM"/>
-        <updated>2022-03-07T11:14:02.738Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtlZM">환영합니다.</a>]]></content>
+        <title type="html"><![CDATA[코인 투자 4년차가 느낀 점(1)]]></title>
+        <id>https://alook.so/posts/q1tZn8</id>
+        <link href="https://alook.so/posts/q1tZn8"/>
+        <updated>2022-03-07T12:25:11.590Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tZn8">코인 투자 4년차가 느낀 점(1)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 부작용에 대처하는 나의 자세]]></title>
+        <id>https://alook.so/posts/1RtvJL</id>
+        <link href="https://alook.so/posts/1RtvJL"/>
+        <updated>2022-03-07T12:25:11.591Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtvJL">백신 부작용에 대처하는 나의 자세</a>]]></content>
     </entry>
 </feed>
