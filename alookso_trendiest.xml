@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-07T16:22:54.181Z</updated>
+    <updated>2022-03-07T17:20:16.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[꿈의 놀이터.]]></title>
+        <id>https://alook.so/posts/OEtqE4</id>
+        <link href="https://alook.so/posts/OEtqE4"/>
+        <updated>2022-03-07T17:18:56.744Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtqE4">꿈의 놀이터.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[봄은 왔는데]]></title>
         <id>https://alook.so/posts/yEtoen</id>
@@ -95,13 +102,6 @@
         <link href="https://alook.so/posts/q1tq23"/>
         <updated>2022-03-07T16:21:32.378Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tq23">‘승자의 오만’? 삼성은 왜 GOS 무리수를 뒀나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자연이 그렇다고 인간도 그래야만 하는가?]]></title>
-        <id>https://alook.so/posts/E7toBw</id>
-        <link href="https://alook.so/posts/E7toBw"/>
-        <updated>2022-03-07T16:21:32.379Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7toBw">자연이 그렇다고 인간도 그래야만 하는가?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 6(마지막 이야기)]]></title>
