@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-07T04:21:30.384Z</updated>
+    <updated>2022-03-07T05:17:04.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 경제 제재 쉽게 이해하기 2편 : 경제 제재 정의와 단순 성공률]]></title>
+        <id>https://alook.so/posts/54tLMp</id>
+        <link href="https://alook.so/posts/54tLMp"/>
+        <updated>2022-03-07T05:15:42.818Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tLMp">답글: 경제 제재 쉽게 이해하기 2편 : 경제 제재 정의와 단순 성공률</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[분포와 최대엔트로피 [물리 디깅]]]></title>
         <id>https://alook.so/posts/1RtlB5</id>
         <link href="https://alook.so/posts/1RtlB5"/>
         <updated>2022-03-07T04:20:12.288Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtlB5">분포와 최대엔트로피 [물리 디깅]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한 표의 소중함이 느껴지는 선거]]></title>
+        <id>https://alook.so/posts/KmtvxJ</id>
+        <link href="https://alook.so/posts/KmtvxJ"/>
+        <updated>2022-03-07T05:15:42.820Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtvxJ">한 표의 소중함이 느껴지는 선거</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어느날 갑자기 찾아온 재테크로 인생이 달라지기 시작했다]]></title>
@@ -20,13 +34,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tpqe">어느날 갑자기 찾아온 재테크로 인생이 달라지기 시작했다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현안님, 고맙습니다!]]></title>
-        <id>https://alook.so/posts/WLtdPd</id>
-        <link href="https://alook.so/posts/WLtdPd"/>
-        <updated>2022-03-07T01:00:12.368Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtdPd">현안님, 고맙습니다!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[진상손님을 대하는 자세]]></title>
         <id>https://alook.so/posts/4XtbVR</id>
         <link href="https://alook.so/posts/4XtbVR"/>
@@ -34,32 +41,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtbVR">진상손님을 대하는 자세</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘승자의 오만’? 삼성은 왜 GOS 무리수를 뒀나]]></title>
-        <id>https://alook.so/posts/q1tq23</id>
-        <link href="https://alook.so/posts/q1tq23"/>
-        <updated>2022-03-06T17:14:47.750Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tq23">‘승자의 오만’? 삼성은 왜 GOS 무리수를 뒀나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 갤럭시 스마트폰 GOS 논란과 스마트폰의 미래]]></title>
-        <id>https://alook.so/posts/njtRkk</id>
-        <link href="https://alook.so/posts/njtRkk"/>
-        <updated>2022-03-06T16:22:10.603Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtRkk">삼성 갤럭시 스마트폰 GOS 논란과 스마트폰의 미래</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자연이 그렇다고 인간도 그래야만 하는가?]]></title>
-        <id>https://alook.so/posts/E7toBw</id>
-        <link href="https://alook.so/posts/E7toBw"/>
-        <updated>2022-03-06T16:22:10.604Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7toBw">자연이 그렇다고 인간도 그래야만 하는가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 6(마지막 이야기)]]></title>
-        <id>https://alook.so/posts/4XtR37</id>
-        <link href="https://alook.so/posts/4XtR37"/>
-        <updated>2022-03-06T14:15:58.532Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtR37">나는 왜 얼룩커가 되었나 6(마지막 이야기)</a>]]></content>
+        <title type="html"><![CDATA[[투표합시다] 역대 최고 36.93% 사전투표율은 무엇을 이야기할까]]></title>
+        <id>https://alook.so/posts/LKt2n8</id>
+        <link href="https://alook.so/posts/LKt2n8"/>
+        <updated>2022-03-06T14:15:58.533Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt2n8">[투표합시다] 역대 최고 36.93% 사전투표율은 무엇을 이야기할까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[😮실패창고를 채워라-성공으로 가는 길😎]]></title>
@@ -69,11 +55,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtkBP"> 😮실패창고를 채워라-성공으로 가는 길😎 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[투표합시다] 역대 최고 36.93% 사전투표율은 무엇을 이야기할까]]></title>
-        <id>https://alook.so/posts/LKt2n8</id>
-        <link href="https://alook.so/posts/LKt2n8"/>
-        <updated>2022-03-06T14:15:58.533Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt2n8">[투표합시다] 역대 최고 36.93% 사전투표율은 무엇을 이야기할까</a>]]></content>
+        <title type="html"><![CDATA[현안님, 고맙습니다!]]></title>
+        <id>https://alook.so/posts/WLtdPd</id>
+        <link href="https://alook.so/posts/WLtdPd"/>
+        <updated>2022-03-07T01:00:12.368Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtdPd">현안님, 고맙습니다!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[배달 아르바이트를 하면서]]></title>
@@ -97,6 +83,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat3Wx">제게 의미가 있던 도서관 2개. 가장 의미 있는 책 1권.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[지금 산불을 끄는 분들은 소방관이 아니라고 합니다]]></title>
+        <id>https://alook.so/posts/1RtP24</id>
+        <link href="https://alook.so/posts/1RtP24"/>
+        <updated>2022-03-07T05:15:42.833Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtP24">지금 산불을 끄는 분들은 소방관이 아니라고 합니다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[슬슬 풀려야 할 사회 통제 조치들. '지금'은 그래야 할 시기.]]></title>
         <id>https://alook.so/posts/92tEPZ</id>
         <link href="https://alook.so/posts/92tEPZ"/>
@@ -116,12 +109,5 @@
         <link href="https://alook.so/posts/2xtWR0"/>
         <updated>2022-03-06T03:16:49.272Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtWR0">안 바뀔 것을 아는데도 왜 난 설득하려 드는가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에서 글을 쓰면서]]></title>
-        <id>https://alook.so/posts/rDtVnw</id>
-        <link href="https://alook.so/posts/rDtVnw"/>
-        <updated>2022-03-05T10:17:16.517Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtVnw">얼룩소에서 글을 쓰면서</a>]]></content>
     </entry>
 </feed>
