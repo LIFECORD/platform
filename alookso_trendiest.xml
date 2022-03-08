@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-08T09:16:51.749Z</updated>
+    <updated>2022-03-08T10:18:31.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7temB">[속기록] 3월 5일 이재명 후보 용인 연설</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["꽃으로도 때리지 마라"]]></title>
-        <id>https://alook.so/posts/WLtPdJ</id>
-        <link href="https://alook.so/posts/WLtPdJ"/>
-        <updated>2022-03-08T09:15:34.989Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtPdJ">"꽃으로도 때리지 마라"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[대통령 선거를 앞두고 벌어진 다양한 사건들]]></title>
         <id>https://alook.so/posts/q1tZ7k</id>
         <link href="https://alook.so/posts/q1tZ7k"/>
@@ -90,6 +83,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktjBR">비대면 진료 극복과제 많지만 대면 진료의 보완재 역할은 가능하지 않을까?  </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(코로나 걸렸을 때 대처법)온 가족 코로나 확진]]></title>
+        <id>https://alook.so/posts/WLtPPM</id>
+        <link href="https://alook.so/posts/WLtPPM"/>
+        <updated>2022-03-07T16:21:32.367Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtPPM">(코로나 걸렸을 때 대처법)온 가족 코로나 확진</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[산업별 성별 임금격차.. 저는...컨닝을 했습니다..저를 용서(?)해주세요(일자리 격차 추가)]]></title>
         <id>https://alook.so/posts/w9tvx6</id>
         <link href="https://alook.so/posts/w9tvx6"/>
@@ -97,11 +97,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tvx6">산업별 성별 임금격차.. 저는...컨닝을 했습니다..저를 용서(?)해주세요(일자리 격차 추가)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(코로나 걸렸을 때 대처법)온 가족 코로나 확진]]></title>
-        <id>https://alook.so/posts/WLtPPM</id>
-        <link href="https://alook.so/posts/WLtPPM"/>
-        <updated>2022-03-07T16:21:32.367Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtPPM">(코로나 걸렸을 때 대처법)온 가족 코로나 확진</a>]]></content>
+        <title type="html"><![CDATA[용기에 박수를 보낼까? 만용에 비판을 보낼까?]]></title>
+        <id>https://alook.so/posts/3wt0mJ</id>
+        <link href="https://alook.so/posts/3wt0mJ"/>
+        <updated>2022-03-08T10:17:11.543Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt0mJ">용기에 박수를 보낼까? 만용에 비판을 보낼까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Midsommar님 정리 감사합니다. 저 지금 소름끼쳤어요!]]></title>
@@ -116,6 +116,13 @@
         <link href="https://alook.so/posts/q1tB6m"/>
         <updated>2022-03-07T10:17:38.591Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tB6m">왕관을 쓰는 자, 그 무게를 견뎌라. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 합리적인 사고를 거친 비판을 해볼까요.]]></title>
+        <id>https://alook.so/posts/potPEy</id>
+        <link href="https://alook.so/posts/potPEy"/>
+        <updated>2022-03-08T10:17:11.547Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potPEy">우리 합리적인 사고를 거친 비판을 해볼까요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[진상손님을 대하는 자세]]></title>
