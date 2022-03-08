@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-08T22:19:02.558Z</updated>
+    <updated>2022-03-08T23:19:43.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제페토 트렌드를 따라갈까요? 말까요?]]></title>
+        <id>https://alook.so/posts/rDteqO</id>
+        <link href="https://alook.so/posts/rDteqO"/>
+        <updated>2022-03-08T23:18:16.370Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDteqO">제페토 트렌드를 따라갈까요? 말까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 지금까지 해본 부업들]]></title>
+        <id>https://alook.so/posts/PvtPEZ</id>
+        <link href="https://alook.so/posts/PvtPEZ"/>
+        <updated>2022-03-08T23:18:16.370Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtPEZ">내가 지금까지 해본 부업들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올만에 외식❤️]]></title>
         <id>https://alook.so/posts/8WtPX4</id>
@@ -67,13 +81,6 @@
         <link href="https://alook.so/posts/3wtw2B"/>
         <updated>2022-03-08T14:15:09.301Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtw2B">[대선이 수능이라면] 언어(국어) 편- 주어(主語)를 보라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음에 안드는 선물]]></title>
-        <id>https://alook.so/posts/LKtZxn</id>
-        <link href="https://alook.so/posts/LKtZxn"/>
-        <updated>2022-03-08T18:19:21.653Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtZxn">마음에 안드는 선물</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페미니즘 보도에 대한 알고리즘의 생각 들여다보기]]></title>
