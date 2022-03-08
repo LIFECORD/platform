@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-08T07:18:22.080Z</updated>
+    <updated>2022-03-08T09:16:51.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[투자와 투기]]></title>
-        <id>https://alook.so/posts/J5txX8</id>
-        <link href="https://alook.so/posts/J5txX8"/>
-        <updated>2022-03-08T07:16:49.204Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5txX8">투자와 투기</a>]]></content>
+        <title type="html"><![CDATA[책 빌려놓고 다 읽지 못했어요..]]></title>
+        <id>https://alook.so/posts/xltGvW</id>
+        <link href="https://alook.so/posts/xltGvW"/>
+        <updated>2022-03-08T09:15:26.335Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltGvW">책 빌려놓고 다 읽지 못했어요.. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 몸에 여유를 주기, 명상]]></title>
-        <id>https://alook.so/posts/eVtWzx</id>
-        <link href="https://alook.so/posts/eVtWzx"/>
-        <updated>2022-03-08T07:16:49.205Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtWzx">내 몸에 여유를 주기, 명상</a>]]></content>
+        <title type="html"><![CDATA[비대면의 삶 속에서]]></title>
+        <id>https://alook.so/posts/RGt71E</id>
+        <link href="https://alook.so/posts/RGt71E"/>
+        <updated>2022-03-08T09:15:26.336Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt71E">비대면의 삶 속에서</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고양이 6]]></title>
-        <id>https://alook.so/posts/Vnt82m</id>
-        <link href="https://alook.so/posts/Vnt82m"/>
-        <updated>2022-03-08T07:16:49.206Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt82m">고양이 6</a>]]></content>
+        <title type="html"><![CDATA[평소에 일기를 쓰고 있나요?]]></title>
+        <id>https://alook.so/posts/kZtl3r</id>
+        <link href="https://alook.so/posts/kZtl3r"/>
+        <updated>2022-03-08T09:15:26.337Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtl3r">평소에 일기를 쓰고 있나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새벽 출근…]]></title>
-        <id>https://alook.so/posts/WLtRDV</id>
-        <link href="https://alook.so/posts/WLtRDV"/>
-        <updated>2022-03-08T07:16:49.208Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtRDV">새벽 출근…</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여행이 좋은 이유]]></title>
-        <id>https://alook.so/posts/0kt153</id>
-        <link href="https://alook.so/posts/0kt153"/>
-        <updated>2022-03-08T07:16:49.209Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt153">여행이 좋은 이유</a>]]></content>
+        <title type="html"><![CDATA[음주 후 운전은 불법입니다!]]></title>
+        <id>https://alook.so/posts/yEt5Vm</id>
+        <link href="https://alook.so/posts/yEt5Vm"/>
+        <updated>2022-03-08T09:15:26.338Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt5Vm">음주 후 운전은 불법입니다!</a>]]></content>
     </entry>
 </feed>
