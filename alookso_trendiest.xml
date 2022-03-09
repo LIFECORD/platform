@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-09T20:18:26.349Z</updated>
+    <updated>2022-03-09T21:16:37.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtj7k">젠더 갈라치기? 비호감만 남았는데 결과는 무승부. 그리고 당선 이후?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[주식도, 코인도, 내가 사는순간 떨어지는 이유는 뭘까요?]]></title>
+        <id>https://alook.so/posts/YytwRY</id>
+        <link href="https://alook.so/posts/YytwRY"/>
+        <updated>2022-03-09T21:15:17.308Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytwRY">주식도, 코인도, 내가 사는순간 떨어지는 이유는 뭘까요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이거 모르고 투표했었죠?]]></title>
         <id>https://alook.so/posts/WLtmyP</id>
         <link href="https://alook.so/posts/WLtmyP"/>
@@ -109,13 +116,6 @@
         <link href="https://alook.so/posts/E7t5Ea"/>
         <updated>2022-03-09T04:19:50.666Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t5Ea">선거 현수막 문제 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 이후에도 공감과 연대를 잃지 않길]]></title>
-        <id>https://alook.so/posts/jdtMRL</id>
-        <link href="https://alook.so/posts/jdtMRL"/>
-        <updated>2022-03-09T19:14:28.914Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtMRL">대선 이후에도 공감과 연대를 잃지 않길 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여러분은 하루의 시작을 어떻게 하시나요?]]></title>
