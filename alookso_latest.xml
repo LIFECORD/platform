@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-09T01:02:21.444Z</updated>
+    <updated>2022-03-09T02:22:12.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[늦잠자고 싶은데 일어나 버렸다]]></title>
-        <id>https://alook.so/posts/zvtyy0</id>
-        <link href="https://alook.so/posts/zvtyy0"/>
-        <updated>2022-03-09T01:00:51.396Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtyy0">늦잠자고 싶은데 일어나 버렸다</a>]]></content>
+        <title type="html"><![CDATA[지구를 위한 선거를 할 수는 없을까]]></title>
+        <id>https://alook.so/posts/xltGR1</id>
+        <link href="https://alook.so/posts/xltGR1"/>
+        <updated>2022-03-09T02:20:36.933Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltGR1">지구를 위한 선거를 할 수는 없을까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[살아야 할 이유]]></title>
-        <id>https://alook.so/posts/0ktXX2</id>
-        <link href="https://alook.so/posts/0ktXX2"/>
-        <updated>2022-03-09T01:00:51.398Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktXX2">살아야 할 이유</a>]]></content>
+        <title type="html"><![CDATA[혹시 달리기 좋아하세요 ? ~~]]></title>
+        <id>https://alook.so/posts/yEt5P3</id>
+        <link href="https://alook.so/posts/yEt5P3"/>
+        <updated>2022-03-09T02:20:36.934Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt5P3">혹시 달리기 좋아하세요 ? ~~ </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글쓰기에 대해서]]></title>
-        <id>https://alook.so/posts/XBt55q</id>
-        <link href="https://alook.so/posts/XBt55q"/>
-        <updated>2022-03-09T01:00:51.399Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt55q">글쓰기에 대해서</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살다보면120퍼공감가는인생명언]]></title>
-        <id>https://alook.so/posts/w9tllY</id>
-        <link href="https://alook.so/posts/w9tllY"/>
-        <updated>2022-03-09T01:00:51.400Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tllY">살다보면120퍼공감가는인생명언</a>]]></content>
+        <title type="html"><![CDATA[매일 아침 루틴]]></title>
+        <id>https://alook.so/posts/njtZJ8</id>
+        <link href="https://alook.so/posts/njtZJ8"/>
+        <updated>2022-03-09T02:20:36.935Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtZJ8">매일 아침 루틴 </a>]]></content>
     </entry>
 </feed>
