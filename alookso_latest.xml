@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-09T16:24:43.314Z</updated>
+    <updated>2022-03-09T18:20:24.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[택시에서 뛰어내려 숨진 20대 여성]]></title>
-        <id>https://alook.so/posts/Vntxmn</id>
-        <link href="https://alook.so/posts/Vntxmn"/>
-        <updated>2022-03-09T16:23:11.525Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntxmn">택시에서 뛰어내려 숨진 20대 여성</a>]]></content>
+        <title type="html"><![CDATA[대한민국 치안에 대한 생각]]></title>
+        <id>https://alook.so/posts/3wt7bk</id>
+        <link href="https://alook.so/posts/3wt7bk"/>
+        <updated>2022-03-09T18:18:44.813Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt7bk">대한민국 치안에 대한 생각</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[40살이되고]]></title>
-        <id>https://alook.so/posts/zvtB06</id>
-        <link href="https://alook.so/posts/zvtB06"/>
-        <updated>2022-03-09T16:23:11.526Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtB06">40살이되고</a>]]></content>
+        <title type="html"><![CDATA[나만 이런가요? ㅠㅠ]]></title>
+        <id>https://alook.so/posts/OEtWlL</id>
+        <link href="https://alook.so/posts/OEtWlL"/>
+        <updated>2022-03-09T18:18:44.815Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtWlL">나만 이런가요? ㅠㅠ</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[세번째.]]></title>
-        <id>https://alook.so/posts/2xtn0R</id>
-        <link href="https://alook.so/posts/2xtn0R"/>
-        <updated>2022-03-09T16:23:11.526Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtn0R">세번째.</a>]]></content>
+        <title type="html"><![CDATA[자러갈게요!!]]></title>
+        <id>https://alook.so/posts/vKte00</id>
+        <link href="https://alook.so/posts/vKte00"/>
+        <updated>2022-03-09T18:18:44.815Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKte00">자러갈게요!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인구의미래]]></title>
-        <id>https://alook.so/posts/w9tkzK</id>
-        <link href="https://alook.so/posts/w9tkzK"/>
-        <updated>2022-03-09T16:23:11.536Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tkzK">인구의미래</a>]]></content>
+        <title type="html"><![CDATA[심리학 공부 중입니다.]]></title>
+        <id>https://alook.so/posts/E7tJxx</id>
+        <link href="https://alook.so/posts/E7tJxx"/>
+        <updated>2022-03-09T18:18:44.817Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tJxx">심리학 공부 중입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청년 고독사에 대한 단상(斷想)]]></title>
+        <id>https://alook.so/posts/lat60B</id>
+        <link href="https://alook.so/posts/lat60B"/>
+        <updated>2022-03-09T18:18:44.820Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat60B">청년 고독사에 대한 단상(斷想)</a>]]></content>
     </entry>
 </feed>
