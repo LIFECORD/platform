@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-09T18:20:24.137Z</updated>
+    <updated>2022-03-09T19:15:47.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[강남의 귀환]]></title>
-        <id>https://alook.so/posts/dzte3G</id>
-        <link href="https://alook.so/posts/dzte3G"/>
-        <updated>2022-03-09T18:18:55.409Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzte3G">강남의 귀환</a>]]></content>
+        <title type="html"><![CDATA[저도 봄을 선물해 드립니다]]></title>
+        <id>https://alook.so/posts/Vntx7j</id>
+        <link href="https://alook.so/posts/Vntx7j"/>
+        <updated>2022-03-09T19:14:28.892Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntx7j">저도 봄을 선물해 드립니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최재형 전 감사원장의 국회 입성에 대해]]></title>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtj7k">젠더 갈라치기? 비호감만 남았는데 결과는 무승부. 그리고 당선 이후?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주식도, 코인도, 내가 사는순간 떨어지는 이유는 뭘까요?]]></title>
-        <id>https://alook.so/posts/YytwRY</id>
-        <link href="https://alook.so/posts/YytwRY"/>
-        <updated>2022-03-09T18:18:55.419Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytwRY">주식도, 코인도, 내가 사는순간 떨어지는 이유는 뭘까요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이거 모르고 투표했었죠?]]></title>
         <id>https://alook.so/posts/WLtmyP</id>
         <link href="https://alook.so/posts/WLtmyP"/>
@@ -116,6 +109,13 @@
         <link href="https://alook.so/posts/E7t5Ea"/>
         <updated>2022-03-09T04:19:50.666Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t5Ea">선거 현수막 문제 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대선 이후에도 공감과 연대를 잃지 않길]]></title>
+        <id>https://alook.so/posts/jdtMRL</id>
+        <link href="https://alook.so/posts/jdtMRL"/>
+        <updated>2022-03-09T19:14:28.914Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtMRL">대선 이후에도 공감과 연대를 잃지 않길 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여러분은 하루의 시작을 어떻게 하시나요?]]></title>
