@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-09T07:18:41.632Z</updated>
+    <updated>2022-03-09T08:20:03.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[말만 잘한다는 평가로 왜 깎아내리려고 할까]]></title>
-        <id>https://alook.so/posts/dztexR</id>
-        <link href="https://alook.so/posts/dztexR"/>
-        <updated>2022-03-09T07:17:20.302Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztexR">말만 잘한다는 평가로 왜 깎아내리려고 할까</a>]]></content>
+        <title type="html"><![CDATA[개표방송을 기다리며 문득 딴생각]]></title>
+        <id>https://alook.so/posts/o7tXV3</id>
+        <link href="https://alook.so/posts/o7tXV3"/>
+        <updated>2022-03-09T08:18:48.975Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tXV3">개표방송을 기다리며 문득 딴생각</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타투 어떻게 생각하세요??]]></title>
+        <id>https://alook.so/posts/vKtdEP</id>
+        <link href="https://alook.so/posts/vKtdEP"/>
+        <updated>2022-03-09T08:18:48.985Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtdEP">타투 어떻게 생각하세요??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[업종별 여성 임금노동자 중위소득도 한 번 보겠습니다]]></title>
+        <id>https://alook.so/posts/o7tXar</id>
+        <link href="https://alook.so/posts/o7tXar"/>
+        <updated>2022-03-09T08:18:48.985Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tXar">업종별 여성 임금노동자 중위소득도 한 번 보겠습니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[출구조사는 왜 하는 걸까요?]]></title>
@@ -18,13 +32,6 @@
         <link href="https://alook.so/posts/70tRv6"/>
         <updated>2022-03-09T07:17:20.318Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tRv6">출구조사는 왜 하는 걸까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 신념...이 아니고, 상식과 양심에 따라]]></title>
-        <id>https://alook.so/posts/jdtYd3</id>
-        <link href="https://alook.so/posts/jdtYd3"/>
-        <updated>2022-03-09T04:19:50.666Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtYd3">답글: 신념...이 아니고, 상식과 양심에 따라</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지구를 위한 선거를 할 수는 없을까]]></title>
@@ -123,13 +130,6 @@
         <link href="https://alook.so/posts/Zkt4q0"/>
         <updated>2022-03-08T16:22:31.304Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt4q0">아직 안 주무시는 분들 있으세요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[투표합시다] 고백, 주의사항, 그리고 독려]]></title>
-        <id>https://alook.so/posts/3wtVGq</id>
-        <link href="https://alook.so/posts/3wtVGq"/>
-        <updated>2022-03-08T15:18:36.023Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtVGq">[투표합시다] 고백, 주의사항, 그리고 독려</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[남들과 비교하지않고 나답게 사는 방법이 있을까요?]]></title>

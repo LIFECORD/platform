@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-09T07:18:41.630Z</updated>
+    <updated>2022-03-09T08:20:03.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[세상의 절반은 여성이었다]]></title>
-        <id>https://alook.so/posts/a0tLrX</id>
-        <link href="https://alook.so/posts/a0tLrX"/>
-        <updated>2022-03-09T07:17:10.714Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tLrX">세상의 절반은 여성이었다</a>]]></content>
+        <title type="html"><![CDATA[오늘 하루 어땠나요?]]></title>
+        <id>https://alook.so/posts/a0tL0m</id>
+        <link href="https://alook.so/posts/a0tL0m"/>
+        <updated>2022-03-09T08:18:41.230Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tL0m">오늘 하루 어땠나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이근대위 우크라이나행에 관하여]]></title>
-        <id>https://alook.so/posts/ZktXWL</id>
-        <link href="https://alook.so/posts/ZktXWL"/>
-        <updated>2022-03-09T07:17:10.714Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktXWL">이근대위 우크라이나행에 관하여</a>]]></content>
+        <title type="html"><![CDATA[가족간에는 정치 이야기하는거 아니야.]]></title>
+        <id>https://alook.so/posts/ZktXPO</id>
+        <link href="https://alook.so/posts/ZktXPO"/>
+        <updated>2022-03-09T08:18:41.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktXPO">가족간에는 정치 이야기하는거 아니야.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["전세사기" HUG도 보장못한다!!]]></title>
-        <id>https://alook.so/posts/dzteD8</id>
-        <link href="https://alook.so/posts/dzteD8"/>
-        <updated>2022-03-09T07:17:10.716Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzteD8">"전세사기" HUG도 보장못한다!!</a>]]></content>
+        <title type="html"><![CDATA[왜 모든게 겁나기만 할까?]]></title>
+        <id>https://alook.so/posts/J5t6VO</id>
+        <link href="https://alook.so/posts/J5t6VO"/>
+        <updated>2022-03-09T08:18:41.232Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t6VO">왜 모든게 겁나기만 할까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뭐 먹고 살지에 대한 고민]]></title>
-        <id>https://alook.so/posts/pot035</id>
-        <link href="https://alook.so/posts/pot035"/>
-        <updated>2022-03-09T07:17:10.717Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot035">뭐 먹고 살지에 대한 고민 </a>]]></content>
+        <title type="html"><![CDATA[시간이 들수록 가장 소중한 것]]></title>
+        <id>https://alook.so/posts/eVt2Xv</id>
+        <link href="https://alook.so/posts/eVt2Xv"/>
+        <updated>2022-03-09T08:18:41.233Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt2Xv">시간이 들수록 가장 소중한 것</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[건망증에 대하여...]]></title>
-        <id>https://alook.so/posts/WLtmqq</id>
-        <link href="https://alook.so/posts/WLtmqq"/>
-        <updated>2022-03-09T07:17:10.718Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtmqq">건망증에 대하여...</a>]]></content>
+        <title type="html"><![CDATA[낭만에 대하여]]></title>
+        <id>https://alook.so/posts/Vntxk2</id>
+        <link href="https://alook.so/posts/Vntxk2"/>
+        <updated>2022-03-09T08:18:41.234Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntxk2">낭만에 대하여</a>]]></content>
     </entry>
 </feed>
