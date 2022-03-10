@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-10T14:17:22.345Z</updated>
+    <updated>2022-03-10T15:20:47.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🙄얼룩소 너...낯설다.. 내 건의는 받아주겠니?🙋‍♀️]]></title>
+        <id>https://alook.so/posts/KmtpWV</id>
+        <link href="https://alook.so/posts/KmtpWV"/>
+        <updated>2022-03-10T15:19:32.488Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtpWV">🙄얼룩소 너...낯설다.. 내 건의는 받아주겠니?🙋‍♀️</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벌써 구독자수 250명이 될 줄이야]]></title>
+        <id>https://alook.so/posts/OEtxml</id>
+        <link href="https://alook.so/posts/OEtxml"/>
+        <updated>2022-03-10T15:19:32.489Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtxml">벌써 구독자수 250명이 될 줄이야</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소를 시작하고 100개의 글을 썼습니다!!]]></title>
         <id>https://alook.so/posts/jdt0r3</id>
@@ -90,13 +104,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt2a9">열심히 살 줄만 알던 나. 우울증이 찾아왔다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[긱 워커(Gig worker)를 아시나요?]]></title>
-        <id>https://alook.so/posts/8WtBKl</id>
-        <link href="https://alook.so/posts/8WtBKl"/>
-        <updated>2022-03-10T14:16:02.932Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtBKl">긱 워커(Gig worker)를 아시나요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[여긴 글이 너무 많아 읽혀지지 않는다.]]></title>
         <id>https://alook.so/posts/YytK48</id>
         <link href="https://alook.so/posts/YytK48"/>
@@ -123,13 +130,6 @@
         <link href="https://alook.so/posts/Kmt68j"/>
         <updated>2022-03-09T18:18:55.410Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt68j">최재형 전 감사원장의 국회 입성에 대해</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[타투 어떻게 생각하세요??]]></title>
-        <id>https://alook.so/posts/vKtdEP</id>
-        <link href="https://alook.so/posts/vKtdEP"/>
-        <updated>2022-03-09T08:18:48.985Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtdEP">타투 어떻게 생각하세요??</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여러분은 하루의 시작을 어떻게 하시나요?]]></title>
