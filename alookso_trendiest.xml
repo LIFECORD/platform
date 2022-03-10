@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-10T13:24:17.731Z</updated>
+    <updated>2022-03-10T14:17:22.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[얼룩소를 시작하고 100개의 글을 썼습니다!!]]></title>
+        <id>https://alook.so/posts/jdt0r3</id>
+        <link href="https://alook.so/posts/jdt0r3"/>
+        <updated>2022-03-10T14:16:02.916Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt0r3">얼룩소를 시작하고 100개의 글을 썼습니다!!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시장 사람들]]></title>
+        <id>https://alook.so/posts/o7tKx1</id>
+        <link href="https://alook.so/posts/o7tKx1"/>
+        <updated>2022-03-10T14:16:02.920Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tKx1">시장 사람들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[선 넘는 직장동료(선거 관련)]]></title>
         <id>https://alook.so/posts/bWtKyP</id>
@@ -76,6 +90,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt2a9">열심히 살 줄만 알던 나. 우울증이 찾아왔다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[긱 워커(Gig worker)를 아시나요?]]></title>
+        <id>https://alook.so/posts/8WtBKl</id>
+        <link href="https://alook.so/posts/8WtBKl"/>
+        <updated>2022-03-10T14:16:02.932Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtBKl">긱 워커(Gig worker)를 아시나요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[여긴 글이 너무 많아 읽혀지지 않는다.]]></title>
         <id>https://alook.so/posts/YytK48</id>
         <link href="https://alook.so/posts/YytK48"/>
@@ -90,13 +111,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tVvo">27살 늦은 나의 꿈 도전</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[택시에서 뛰어내려 숨진 20대 여성]]></title>
-        <id>https://alook.so/posts/Vntxmn</id>
-        <link href="https://alook.so/posts/Vntxmn"/>
-        <updated>2022-03-10T03:20:07.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntxmn">택시에서 뛰어내려 숨진 20대 여성</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[저도 봄을 선물해 드립니다]]></title>
         <id>https://alook.so/posts/Vntx7j</id>
         <link href="https://alook.so/posts/Vntx7j"/>
@@ -109,13 +123,6 @@
         <link href="https://alook.so/posts/Kmt68j"/>
         <updated>2022-03-09T18:18:55.410Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt68j">최재형 전 감사원장의 국회 입성에 대해</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 키워드는 ‘이대녀’]]></title>
-        <id>https://alook.so/posts/q1tOKy</id>
-        <link href="https://alook.so/posts/q1tOKy"/>
-        <updated>2022-03-09T16:23:20.138Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tOKy">이제 키워드는 ‘이대녀’</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타투 어떻게 생각하세요??]]></title>
