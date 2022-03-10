@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-10T01:04:13.458Z</updated>
+    <updated>2022-03-10T02:28:45.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[힐링하고왔습니다.]]></title>
-        <id>https://alook.so/posts/eVtBe0</id>
-        <link href="https://alook.so/posts/eVtBe0"/>
-        <updated>2022-03-10T01:02:43.687Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtBe0">힐링하고왔습니다.</a>]]></content>
+        <title type="html"><![CDATA[미니멀라이프 방해 요소들]]></title>
+        <id>https://alook.so/posts/92t6bo</id>
+        <link href="https://alook.so/posts/92t6bo"/>
+        <updated>2022-03-10T02:27:18.714Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t6bo">미니멀라이프 방해 요소들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[봄은 또 다시]]></title>
-        <id>https://alook.so/posts/Pvtyom</id>
-        <link href="https://alook.so/posts/Pvtyom"/>
-        <updated>2022-03-10T01:02:43.691Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtyom">봄은 또 다시 </a>]]></content>
+        <title type="html"><![CDATA[사진관은 필요없나요?]]></title>
+        <id>https://alook.so/posts/q1tVEb</id>
+        <link href="https://alook.so/posts/q1tVEb"/>
+        <updated>2022-03-10T02:27:18.714Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tVEb">사진관은 필요없나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022년 3월 10일 오늘의운세]]></title>
-        <id>https://alook.so/posts/VntDla</id>
-        <link href="https://alook.so/posts/VntDla"/>
-        <updated>2022-03-10T01:02:43.691Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntDla">2022년 3월 10일 오늘의운세</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다들 밤잠 설치셨나요?]]></title>
-        <id>https://alook.so/posts/zvtR6b</id>
-        <link href="https://alook.so/posts/zvtR6b"/>
-        <updated>2022-03-10T01:02:43.693Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtR6b">다들 밤잠 설치셨나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아름답게 나이 들어가기-3]]></title>
-        <id>https://alook.so/posts/2xtkeO</id>
-        <link href="https://alook.so/posts/2xtkeO"/>
-        <updated>2022-03-10T01:02:43.693Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtkeO">아름답게 나이 들어가기-3</a>]]></content>
+        <title type="html"><![CDATA[카카오뷰와 쿠팡파트너스의 조합은?]]></title>
+        <id>https://alook.so/posts/70t3zw</id>
+        <link href="https://alook.so/posts/70t3zw"/>
+        <updated>2022-03-10T02:27:18.715Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t3zw">카카오뷰와 쿠팡파트너스의 조합은?</a>]]></content>
     </entry>
 </feed>
