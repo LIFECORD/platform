@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-09T23:18:56.604Z</updated>
+    <updated>2022-03-10T01:04:13.463Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -118,13 +118,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t5Ea">선거 현수막 문제 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대선 이후에도 공감과 연대를 잃지 않길]]></title>
-        <id>https://alook.so/posts/jdtMRL</id>
-        <link href="https://alook.so/posts/jdtMRL"/>
-        <updated>2022-03-09T22:16:38.477Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtMRL">대선 이후에도 공감과 연대를 잃지 않길 </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[여러분은 하루의 시작을 어떻게 하시나요?]]></title>
         <id>https://alook.so/posts/latk7Y</id>
         <link href="https://alook.so/posts/latk7Y"/>
@@ -137,5 +130,12 @@
         <link href="https://alook.so/posts/a0tVP0"/>
         <updated>2022-03-08T16:22:31.304Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tVP0">인생은 마음대로 흘러가지 않는다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남들과 비교하지않고 나답게 사는 방법이 있을까요?]]></title>
+        <id>https://alook.so/posts/Yyt71G</id>
+        <link href="https://alook.so/posts/Yyt71G"/>
+        <updated>2022-03-10T01:02:52.185Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt71G">남들과 비교하지않고 나답게 사는 방법이 있을까요?</a>]]></content>
     </entry>
 </feed>
