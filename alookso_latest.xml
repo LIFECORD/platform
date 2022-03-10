@@ -2,35 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-10T07:17:32.106Z</updated>
+    <updated>2022-03-10T09:17:50.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[센치한 목요일 <feat 책 읽어주는 남자>]]></title>
-        <id>https://alook.so/posts/E7tZqY</id>
-        <link href="https://alook.so/posts/E7tZqY"/>
-        <updated>2022-03-10T07:16:06.326Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tZqY">센치한 목요일 &lt;feat 책 읽어주는 남자&gt;</a>]]></content>
+        <title type="html"><![CDATA[여긴 글이 너무 많아 읽혀지지 않는다.]]></title>
+        <id>https://alook.so/posts/YytK48</id>
+        <link href="https://alook.so/posts/YytK48"/>
+        <updated>2022-03-10T09:16:24.856Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytK48">여긴 글이 너무 많아 읽혀지지 않는다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[뇌출혈을 극복한 나의 이야기ㅡ1]]></title>
-        <id>https://alook.so/posts/latWE1</id>
-        <link href="https://alook.so/posts/latWE1"/>
-        <updated>2022-03-10T07:16:06.327Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latWE1">뇌출혈을 극복한 나의 이야기ㅡ1</a>]]></content>
+        <title type="html"><![CDATA[대학생 시절 꿈을 꿨다.]]></title>
+        <id>https://alook.so/posts/VntDB0</id>
+        <link href="https://alook.so/posts/VntDB0"/>
+        <updated>2022-03-10T09:16:24.857Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntDB0">대학생 시절 꿈을 꿨다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[항원검사 키트의 정확도]]></title>
-        <id>https://alook.so/posts/92t6v5</id>
-        <link href="https://alook.so/posts/92t6v5"/>
-        <updated>2022-03-10T07:16:06.328Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t6v5">항원검사 키트의 정확도</a>]]></content>
+        <title type="html"><![CDATA[답글: [Live🛑] 대선 라이브 업데이트_확진자 투표]]></title>
+        <id>https://alook.so/posts/4XtBLX</id>
+        <link href="https://alook.so/posts/4XtBLX"/>
+        <updated>2022-03-10T09:16:24.858Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtBLX">답글: [Live🛑] 대선 라이브 업데이트_확진자 투표</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인생시작]]></title>
-        <id>https://alook.so/posts/54t6RW</id>
-        <link href="https://alook.so/posts/54t6RW"/>
-        <updated>2022-03-10T07:16:06.329Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t6RW">인생시작</a>]]></content>
+        <title type="html"><![CDATA[27살 늦은 나의 꿈 도전]]></title>
+        <id>https://alook.so/posts/q1tVvo</id>
+        <link href="https://alook.so/posts/q1tVvo"/>
+        <updated>2022-03-10T09:16:24.859Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tVvo">27살 늦은 나의 꿈 도전</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[택시에서 뛰어내려 숨진 20대 여성]]></title>
+        <id>https://alook.so/posts/Vntxmn</id>
+        <link href="https://alook.so/posts/Vntxmn"/>
+        <updated>2022-03-10T09:16:24.860Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntxmn">택시에서 뛰어내려 숨진 20대 여성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저도 봄을 선물해 드립니다]]></title>
+        <id>https://alook.so/posts/Vntx7j</id>
+        <link href="https://alook.so/posts/Vntx7j"/>
+        <updated>2022-03-10T09:16:24.861Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntx7j">저도 봄을 선물해 드립니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강남의 귀환]]></title>
+        <id>https://alook.so/posts/dzte3G</id>
+        <link href="https://alook.so/posts/dzte3G"/>
+        <updated>2022-03-10T09:16:24.862Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzte3G">강남의 귀환</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최재형 전 감사원장의 국회 입성에 대해]]></title>
+        <id>https://alook.so/posts/Kmt68j</id>
+        <link href="https://alook.so/posts/Kmt68j"/>
+        <updated>2022-03-10T09:16:24.863Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt68j">최재형 전 감사원장의 국회 입성에 대해</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제 키워드는 ‘이대녀’]]></title>
+        <id>https://alook.so/posts/q1tOKy</id>
+        <link href="https://alook.so/posts/q1tOKy"/>
+        <updated>2022-03-10T09:16:24.864Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tOKy">이제 키워드는 ‘이대녀’</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄청난 박빙... (3월 9일 오후 11:47분)]]></title>
+        <id>https://alook.so/posts/LKtddq</id>
+        <link href="https://alook.so/posts/LKtddq"/>
+        <updated>2022-03-10T09:16:24.865Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtddq">엄청난 박빙... (3월 9일 오후 11:47분)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: [Live🛑] 대선 라이브 업데이트(14신 22:50)]]></title>
+        <id>https://alook.so/posts/mbt00p</id>
+        <link href="https://alook.so/posts/mbt00p"/>
+        <updated>2022-03-10T09:16:24.866Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt00p">답글: [Live🛑] 대선 라이브 업데이트(14신 22:50)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠더 갈라치기? 비호감만 남았는데 결과는 무승부. 그리고 당선 이후?]]></title>
+        <id>https://alook.so/posts/yEtj7k</id>
+        <link href="https://alook.so/posts/yEtj7k"/>
+        <updated>2022-03-10T09:16:24.867Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtj7k">젠더 갈라치기? 비호감만 남았는데 결과는 무승부. 그리고 당선 이후?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주식도, 코인도, 내가 사는순간 떨어지는 이유는 뭘까요?]]></title>
+        <id>https://alook.so/posts/YytwRY</id>
+        <link href="https://alook.so/posts/YytwRY"/>
+        <updated>2022-03-10T09:16:24.868Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytwRY">주식도, 코인도, 내가 사는순간 떨어지는 이유는 뭘까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이거 모르고 투표했었죠?]]></title>
+        <id>https://alook.so/posts/WLtmyP</id>
+        <link href="https://alook.so/posts/WLtmyP"/>
+        <updated>2022-03-10T09:16:24.869Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtmyP">이거 모르고 투표했었죠?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타투 어떻게 생각하세요??]]></title>
+        <id>https://alook.so/posts/vKtdEP</id>
+        <link href="https://alook.so/posts/vKtdEP"/>
+        <updated>2022-03-10T09:16:24.870Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtdEP">타투 어떻게 생각하세요??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여러분은 하루의 시작을 어떻게 하시나요?]]></title>
+        <id>https://alook.so/posts/latk7Y</id>
+        <link href="https://alook.so/posts/latk7Y"/>
+        <updated>2022-03-10T09:16:24.872Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latk7Y">여러분은 하루의 시작을 어떻게 하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인생은 마음대로 흘러가지 않는다.]]></title>
+        <id>https://alook.so/posts/a0tVP0</id>
+        <link href="https://alook.so/posts/a0tVP0"/>
+        <updated>2022-03-10T09:16:24.873Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tVP0">인생은 마음대로 흘러가지 않는다.</a>]]></content>
     </entry>
 </feed>
