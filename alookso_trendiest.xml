@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-11T03:21:19.448Z</updated>
+    <updated>2022-03-11T05:16:35.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[20대 대선, 지역 표심의 분포]]></title>
+        <id>https://alook.so/posts/RGt8R0</id>
+        <link href="https://alook.so/posts/RGt8R0"/>
+        <updated>2022-03-11T05:15:16.576Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt8R0">20대 대선, 지역 표심의 분포</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최저임금 인상은 누굴위한 정책일까?]]></title>
+        <id>https://alook.so/posts/E7tyEW</id>
+        <link href="https://alook.so/posts/E7tyEW"/>
+        <updated>2022-03-11T05:15:16.577Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tyEW">최저임금 인상은 누굴위한 정책일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-트럼프?? 20대 대선에 대한 해외 언론들의 보도]]></title>
+        <id>https://alook.so/posts/xltKe3</id>
+        <link href="https://alook.so/posts/xltKe3"/>
+        <updated>2022-03-11T05:15:16.577Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltKe3">K-트럼프?? 20대 대선에 대한 해외 언론들의 보도</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타트업이 세상은 어떻게 바꾸나요]]></title>
+        <id>https://alook.so/posts/mbtr4P</id>
+        <link href="https://alook.so/posts/mbtr4P"/>
+        <updated>2022-03-11T05:15:16.578Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtr4P">스타트업이 세상은 어떻게 바꾸나요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 당선 - 왜 이런 망할 일이 벌어졌는가]]></title>
+        <id>https://alook.so/posts/DjteEa</id>
+        <link href="https://alook.so/posts/DjteEa"/>
+        <updated>2022-03-11T05:15:16.578Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjteEa">윤석열 당선 - 왜 이런 망할 일이 벌어졌는가 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금까지의 저를 반성하게 되네요.]]></title>
+        <id>https://alook.so/posts/E7tyZy</id>
+        <link href="https://alook.so/posts/E7tyZy"/>
+        <updated>2022-03-11T05:15:16.581Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tyZy">지금까지의 저를 반성하게 되네요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어느 중산층의 고백]]></title>
+        <id>https://alook.so/posts/xltKrw</id>
+        <link href="https://alook.so/posts/xltKrw"/>
+        <updated>2022-03-11T05:15:16.582Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltKrw">어느 중산층의 고백</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[말하기를 좋아하던 아이]]></title>
+        <id>https://alook.so/posts/dztk2r</id>
+        <link href="https://alook.so/posts/dztk2r"/>
+        <updated>2022-03-11T05:15:16.583Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztk2r">말하기를 좋아하던 아이 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 당선인의 승리를 축하하며]]></title>
         <id>https://alook.so/posts/70tojr</id>
@@ -41,20 +97,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntvLr">왕따를 당했던 사람의 입장임에도.. 촉법소년은 신중해야 합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[긱 워커(Gig worker)를 아시나요?]]></title>
-        <id>https://alook.so/posts/8WtBKl</id>
-        <link href="https://alook.so/posts/8WtBKl"/>
-        <updated>2022-03-10T23:16:53.496Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtBKl">긱 워커(Gig worker)를 아시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선거제 개편에 따른 시뮬레이션]]></title>
-        <id>https://alook.so/posts/Pvtykr</id>
-        <link href="https://alook.so/posts/Pvtykr"/>
-        <updated>2022-03-10T11:15:11.257Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtykr">선거제 개편에 따른 시뮬레이션</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[선 넘는 직장동료(선거 관련)]]></title>
         <id>https://alook.so/posts/bWtKyP</id>
         <link href="https://alook.so/posts/bWtKyP"/>
@@ -83,59 +125,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tonY">얼룩소는 어디까지 뻗어 나갈까요??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성소수자는 스웨덴을 대표할 수 있을까?]]></title>
-        <id>https://alook.so/posts/8WtBx7</id>
-        <link href="https://alook.so/posts/8WtBx7"/>
-        <updated>2022-03-10T11:15:11.261Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtBx7">성소수자는 스웨덴을 대표할 수 있을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여긴 글이 너무 많아 읽혀지지 않는다.]]></title>
-        <id>https://alook.so/posts/YytK48</id>
-        <link href="https://alook.so/posts/YytK48"/>
-        <updated>2022-03-10T11:15:11.267Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytK48">여긴 글이 너무 많아 읽혀지지 않는다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년 고독사에 대한 단상(斷想)]]></title>
-        <id>https://alook.so/posts/lat60B</id>
-        <link href="https://alook.so/posts/lat60B"/>
-        <updated>2022-03-11T03:19:55.301Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat60B">청년 고독사에 대한 단상(斷想)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤 후보가, 어디서 득표를 더 많이 했을까? (수정)]]></title>
-        <id>https://alook.so/posts/J5tzVD</id>
-        <link href="https://alook.so/posts/J5tzVD"/>
-        <updated>2022-03-11T03:19:55.302Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tzVD">어떤 후보가, 어디서 득표를 더 많이 했을까? (수정)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년심판(2022); 심판과 재판, 처분과 처벌 사이 (長文주의보)]]></title>
-        <id>https://alook.so/posts/yEtBJZ</id>
-        <link href="https://alook.so/posts/yEtBJZ"/>
-        <updated>2022-03-11T03:19:55.303Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtBJZ">소년심판(2022); 심판과 재판, 처분과 처벌 사이 (長文주의보) </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[중요한 건 대통령 자리가 아니라, '선거제 개편']]></title>
         <id>https://alook.so/posts/2xtk37</id>
         <link href="https://alook.so/posts/2xtk37"/>
         <updated>2022-03-11T03:19:55.304Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtk37">중요한 건 대통령 자리가 아니라, '선거제 개편'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 점심메뉴는?]]></title>
-        <id>https://alook.so/posts/92t6yv</id>
-        <link href="https://alook.so/posts/92t6yv"/>
-        <updated>2022-03-11T01:04:23.733Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t6yv">오늘의 점심메뉴는?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최재형 전 감사원장의 국회 입성에 대해]]></title>
-        <id>https://alook.so/posts/Kmt68j</id>
-        <link href="https://alook.so/posts/Kmt68j"/>
-        <updated>2022-03-09T18:18:55.410Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt68j">최재형 전 감사원장의 국회 입성에 대해</a>]]></content>
     </entry>
 </feed>
