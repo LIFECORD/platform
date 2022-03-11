@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-11T01:05:49.743Z</updated>
+    <updated>2022-03-11T02:43:12.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[낚였나? 얼룩소에 아니 유투브에?]]></title>
+        <id>https://alook.so/posts/Yytda2</id>
+        <link href="https://alook.so/posts/Yytda2"/>
+        <updated>2022-03-11T02:41:55.412Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytda2">낚였나? 얼룩소에 아니 유투브에?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금까지의 저를 반성하게 되네요.]]></title>
+        <id>https://alook.so/posts/E7tyZy</id>
+        <link href="https://alook.so/posts/E7tyZy"/>
+        <updated>2022-03-11T02:41:55.412Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tyZy">지금까지의 저를 반성하게 되네요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[30살  모은돈이 없습니다. 심지어 마이너스]]></title>
+        <id>https://alook.so/posts/E7tybE</id>
+        <link href="https://alook.so/posts/E7tybE"/>
+        <updated>2022-03-11T02:41:55.413Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tybE">30살  모은돈이 없습니다. 심지어 마이너스</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 당선인의 승리를 축하하며]]></title>
+        <id>https://alook.so/posts/70tojr</id>
+        <link href="https://alook.so/posts/70tojr"/>
+        <updated>2022-03-11T02:41:55.414Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tojr">윤석열 당선인의 승리를 축하하며</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 점심메뉴는?]]></title>
         <id>https://alook.so/posts/92t6yv</id>
@@ -13,11 +41,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t6yv">오늘의 점심메뉴는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[탄소 배출 적은 수돗물, 친환경 음용수지만 마시는 국민은 별로 없다.]]></title>
+        <title type="html"><![CDATA[탄소 배출 적은 수돗물, 친환경 음용수지만 마시는 국민은 3명 중 1명]]></title>
         <id>https://alook.so/posts/92tpqe</id>
         <link href="https://alook.so/posts/92tpqe"/>
         <updated>2022-03-10T23:16:53.491Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tpqe">탄소 배출 적은 수돗물, 친환경 음용수지만 마시는 국민은 별로 없다. </a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tpqe">탄소 배출 적은 수돗물, 친환경 음용수지만 마시는 국민은 3명 중 1명</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왕따를 당했던 사람의 입장임에도.. 촉법소년은 신중해야 합니다.]]></title>
@@ -25,41 +53,6 @@
         <link href="https://alook.so/posts/VntvLr"/>
         <updated>2022-03-10T23:16:53.491Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntvLr">왕따를 당했던 사람의 입장임에도.. 촉법소년은 신중해야 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소통없는 글 문제가 뭘까요?ㅠ ㅠ]]></title>
-        <id>https://alook.so/posts/lat2bl</id>
-        <link href="https://alook.so/posts/lat2bl"/>
-        <updated>2022-03-10T23:16:53.491Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat2bl">소통없는 글 문제가 뭘까요?ㅠ ㅠ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[23살 빚 8700만원]]></title>
-        <id>https://alook.so/posts/o7tK23</id>
-        <link href="https://alook.so/posts/o7tK23"/>
-        <updated>2022-03-10T23:16:53.491Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tK23">23살 빚 8700만원</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 덕분에 자금을 많이 모았어요]]></title>
-        <id>https://alook.so/posts/92t6Ym</id>
-        <link href="https://alook.so/posts/92t6Ym"/>
-        <updated>2022-03-10T16:22:20.263Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t6Ym">코로나 덕분에 자금을 많이 모았어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벌써 구독자수 250명이 될 줄이야]]></title>
-        <id>https://alook.so/posts/OEtxml</id>
-        <link href="https://alook.so/posts/OEtxml"/>
-        <updated>2022-03-10T15:19:32.489Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtxml">벌써 구독자수 250명이 될 줄이야</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시장 사람들]]></title>
-        <id>https://alook.so/posts/o7tKx1</id>
-        <link href="https://alook.so/posts/o7tKx1"/>
-        <updated>2022-03-10T14:16:02.920Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tKx1">시장 사람들</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[선 넘는 직장동료(선거 관련)]]></title>
@@ -123,13 +116,6 @@
         <link href="https://alook.so/posts/YytK48"/>
         <updated>2022-03-10T11:15:11.267Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytK48">여긴 글이 너무 많아 읽혀지지 않는다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[27살 늦은 나의 꿈 도전]]></title>
-        <id>https://alook.so/posts/q1tVvo</id>
-        <link href="https://alook.so/posts/q1tVvo"/>
-        <updated>2022-03-10T06:20:07.936Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tVvo">27살 늦은 나의 꿈 도전</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최재형 전 감사원장의 국회 입성에 대해]]></title>
