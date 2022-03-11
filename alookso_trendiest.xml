@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-11T14:16:43.705Z</updated>
+    <updated>2022-03-11T15:18:57.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[힘을 내자]]></title>
-        <id>https://alook.so/posts/E7tE7Y</id>
-        <link href="https://alook.so/posts/E7tE7Y"/>
-        <updated>2022-03-11T13:22:11.727Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tE7Y">힘을 내자</a>]]></content>
+        <title type="html"><![CDATA[아픈 마음 호오~~ 해줄게]]></title>
+        <id>https://alook.so/posts/E7tRJd</id>
+        <link href="https://alook.so/posts/E7tRJd"/>
+        <updated>2022-03-11T15:17:43.434Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tRJd">아픈 마음 호오~~ 해줄게</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 처음 글을 쓸때]]></title>
-        <id>https://alook.so/posts/Kmt8D1</id>
-        <link href="https://alook.so/posts/Kmt8D1"/>
-        <updated>2022-03-11T13:22:11.730Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt8D1">얼룩소 처음 글을 쓸때</a>]]></content>
+        <title type="html"><![CDATA[[이야기 NEWS] 우크라이나, 패럴림픽 그리고 체르노빌]]></title>
+        <id>https://alook.so/posts/Djtekr</id>
+        <link href="https://alook.so/posts/Djtekr"/>
+        <updated>2022-03-11T15:17:43.434Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtekr">[이야기 NEWS] 우크라이나, 패럴림픽 그리고 체르노빌</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[행동 변화로 온실가스 줄이기: 수돗물은 안전하고 친환경적입니다]]></title>
@@ -53,13 +53,6 @@
         <link href="https://alook.so/posts/njtM7j"/>
         <updated>2022-03-11T09:16:45.125Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtM7j">'너'가 아니라 '나'를 사랑하길.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백수의 일상]]></title>
-        <id>https://alook.so/posts/KmtJl0</id>
-        <link href="https://alook.so/posts/KmtJl0"/>
-        <updated>2022-03-11T08:19:44.333Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtJl0">백수의 일상</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가끔, 힘이 빠지는 답글이 달립니다.]]></title>
@@ -102,6 +95,13 @@
         <link href="https://alook.so/posts/DjteEa"/>
         <updated>2022-03-11T05:15:16.578Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjteEa">윤석열 당선 - 왜 이런 망할 일이 벌어졌는가 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어느 중산층의 고백]]></title>
+        <id>https://alook.so/posts/xltKrw</id>
+        <link href="https://alook.so/posts/xltKrw"/>
+        <updated>2022-03-11T15:17:43.448Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltKrw">어느 중산층의 고백</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[말하기를 좋아하던 아이]]></title>
