@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-12T05:16:46.730Z</updated>
+    <updated>2022-03-12T06:20:59.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[구독해주신 분들이 진짜 생기는군요 너무 감사합니다]]></title>
+        <id>https://alook.so/posts/njtJlx</id>
+        <link href="https://alook.so/posts/njtJlx"/>
+        <updated>2022-03-12T06:19:46.502Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtJlx">구독해주신 분들이 진짜 생기는군요 너무 감사합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대선 끝나자마자 젠더갈등 부추기는 언론]]></title>
+        <id>https://alook.so/posts/6Mtlr4</id>
+        <link href="https://alook.so/posts/6Mtlr4"/>
+        <updated>2022-03-12T06:19:46.505Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtlr4">대선 끝나자마자 젠더갈등 부추기는 언론</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈이 도대체 뭘까요]]></title>
         <id>https://alook.so/posts/bWtbKa</id>
@@ -83,6 +97,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktRM2">답글: 인생에 없는 것들</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[처음으로 속마음 털었어요..]]></title>
+        <id>https://alook.so/posts/2xt0Re</id>
+        <link href="https://alook.so/posts/2xt0Re"/>
+        <updated>2022-03-12T06:19:46.515Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt0Re">처음으로 속마음 털었어요..</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오은영 박사의 방송 출연이 늘어난다는 것의 의미]]></title>
         <id>https://alook.so/posts/w9tZME</id>
         <link href="https://alook.so/posts/w9tZME"/>
@@ -111,24 +132,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytda2">낚였나? 얼룩소에 아니 유투브에?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열 당선 - 왜 이런 망할 일이 벌어졌는가]]></title>
-        <id>https://alook.so/posts/DjteEa</id>
-        <link href="https://alook.so/posts/DjteEa"/>
-        <updated>2022-03-11T05:15:16.578Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjteEa">윤석열 당선 - 왜 이런 망할 일이 벌어졌는가 </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[말하기를 좋아하던 아이]]></title>
         <id>https://alook.so/posts/dztk2r</id>
         <link href="https://alook.so/posts/dztk2r"/>
         <updated>2022-03-11T05:15:16.583Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztk2r">말하기를 좋아하던 아이 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30살  모은돈이 없습니다. 심지어 마이너스]]></title>
-        <id>https://alook.so/posts/E7tybE</id>
-        <link href="https://alook.so/posts/E7tybE"/>
-        <updated>2022-03-11T02:41:55.413Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tybE">30살  모은돈이 없습니다. 심지어 마이너스</a>]]></content>
     </entry>
 </feed>

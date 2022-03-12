@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-12T05:16:46.731Z</updated>
+    <updated>2022-03-12T06:20:59.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[구독해주신 분들이 진짜 생기는군요 너무 감사합니다]]></title>
+        <id>https://alook.so/posts/njtJlx</id>
+        <link href="https://alook.so/posts/njtJlx"/>
+        <updated>2022-03-12T06:19:38.278Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtJlx">구독해주신 분들이 진짜 생기는군요 너무 감사합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈이 도대체 뭘까요]]></title>
+        <id>https://alook.so/posts/bWtbKa</id>
+        <link href="https://alook.so/posts/bWtbKa"/>
+        <updated>2022-03-12T06:19:38.279Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtbKa">돈이 도대체 뭘까요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시군구별 득표율 차이 보로노이 트리맵]]></title>
         <id>https://alook.so/posts/pot4ev</id>
@@ -109,13 +123,6 @@
         <link href="https://alook.so/posts/RGt8R0"/>
         <updated>2022-03-12T05:15:21.823Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt8R0">20대 대선, 지역 표심의 분포</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-트럼프?? 20대 대선에 대한 해외 언론들의 보도]]></title>
-        <id>https://alook.so/posts/xltKe3</id>
-        <link href="https://alook.so/posts/xltKe3"/>
-        <updated>2022-03-12T05:15:21.824Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltKe3">K-트럼프?? 20대 대선에 대한 해외 언론들의 보도</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업이 세상은 어떻게 바꾸나요]]></title>
