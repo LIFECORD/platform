@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-12T08:21:08.013Z</updated>
+    <updated>2022-03-12T10:19:10.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 폰으로 많이 하시나요 컴터로 하시나요]]></title>
+        <id>https://alook.so/posts/Kmt4MZ</id>
+        <link href="https://alook.so/posts/Kmt4MZ"/>
+        <updated>2022-03-12T10:17:51.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt4MZ">얼룩소 폰으로 많이 하시나요 컴터로 하시나요 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 가족에게도 찾아온 코로나의 검은 그림자]]></title>
+        <id>https://alook.so/posts/Djt1x2</id>
+        <link href="https://alook.so/posts/Djt1x2"/>
+        <updated>2022-03-12T10:17:51.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt1x2">우리 가족에게도 찾아온 코로나의 검은 그림자 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나쁜 습관 버리기~]]></title>
+        <id>https://alook.so/posts/vKtojp</id>
+        <link href="https://alook.so/posts/vKtojp"/>
+        <updated>2022-03-12T10:17:51.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtojp">나쁜 습관 버리기~</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자전거타다 대짜로 뻗으면 창피하세요?? 아니면 내몸이 우선인가요??]]></title>
+        <id>https://alook.so/posts/G1tj00</id>
+        <link href="https://alook.so/posts/G1tj00"/>
+        <updated>2022-03-12T10:17:51.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tj00">자전거타다 대짜로 뻗으면 창피하세요?? 아니면 내몸이 우선인가요??</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구독해주신 분들이 진짜 생기는군요 너무 감사합니다]]></title>
         <id>https://alook.so/posts/njtJlx</id>
@@ -90,13 +118,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tbab">구독은 누르는데 왜 좋아요는 안 누를까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 인생에 없는 것들]]></title>
-        <id>https://alook.so/posts/ZktRM2</id>
-        <link href="https://alook.so/posts/ZktRM2"/>
-        <updated>2022-03-11T16:24:47.067Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktRM2">답글: 인생에 없는 것들</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오은영 박사의 방송 출연이 늘어난다는 것의 의미]]></title>
         <id>https://alook.so/posts/w9tZME</id>
         <link href="https://alook.so/posts/w9tZME"/>
@@ -123,12 +144,5 @@
         <link href="https://alook.so/posts/Yytda2"/>
         <updated>2022-03-11T02:41:55.412Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytda2">낚였나? 얼룩소에 아니 유투브에?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말하기를 좋아하던 아이]]></title>
-        <id>https://alook.so/posts/dztk2r</id>
-        <link href="https://alook.so/posts/dztk2r"/>
-        <updated>2022-03-11T05:15:16.583Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztk2r">말하기를 좋아하던 아이 </a>]]></content>
     </entry>
 </feed>
