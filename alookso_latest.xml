@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-12T10:19:10.608Z</updated>
+    <updated>2022-03-12T12:24:56.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[좋은 일을 생각하면 좋은 일이 생긴다]]></title>
+        <id>https://alook.so/posts/vKtoqJ</id>
+        <link href="https://alook.so/posts/vKtoqJ"/>
+        <updated>2022-03-12T12:23:34.097Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtoqJ">좋은 일을 생각하면 좋은 일이 생긴다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람간 이식보다 동물 장기이식이 이렇게나 좋군요~!!!]]></title>
+        <id>https://alook.so/posts/J5tRYy</id>
+        <link href="https://alook.so/posts/J5tRYy"/>
+        <updated>2022-03-12T12:23:34.098Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tRYy">사람간 이식보다 동물 장기이식이 이렇게나 좋군요~!!!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 폰으로 많이 하시나요 컴터로 하시나요]]></title>
         <id>https://alook.so/posts/Kmt4MZ</id>
@@ -88,20 +102,6 @@
         <link href="https://alook.so/posts/o7tzmo"/>
         <updated>2022-03-12T03:16:58.751Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tzmo">여가부 폐지, 그 이후 시나리오</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예전에는 맞아도 지금은 아니다]]></title>
-        <id>https://alook.so/posts/E7tEna</id>
-        <link href="https://alook.so/posts/E7tEna"/>
-        <updated>2022-03-12T03:16:58.755Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tEna">예전에는 맞아도 지금은 아니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['성적수치심' 아닌 '성적빡치심'을 나타낼 수 있는 어휘는, '성적불쾌감'? '성적모욕감'!]]></title>
-        <id>https://alook.so/posts/92tMyY</id>
-        <link href="https://alook.so/posts/92tMyY"/>
-        <updated>2022-03-12T00:56:38.920Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tMyY">'성적수치심' 아닌 '성적빡치심'을 나타낼 수 있는 어휘는, '성적불쾌감'? '성적모욕감'!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[암컷 길냥이의 삶 그리고 여성의 삶]]></title>
