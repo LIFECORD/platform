@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-13T12:26:07.456Z</updated>
+    <updated>2022-03-13T13:21:59.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[요리와 글짓기에 대한 짧은 생각.]]></title>
+        <id>https://alook.so/posts/RGtkk3b</id>
+        <link href="https://alook.so/posts/RGtkk3b"/>
+        <updated>2022-03-13T13:20:38.053Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkk3b">요리와 글짓기에 대한 짧은 생각.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이게 꿈은 아니겠죠?]]></title>
+        <id>https://alook.so/posts/mbtqqe9</id>
+        <link href="https://alook.so/posts/mbtqqe9"/>
+        <updated>2022-03-13T13:20:38.055Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtqqe9">이게 꿈은 아니겠죠?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내 취미는 아이패드 드로잉]]></title>
         <id>https://alook.so/posts/dzt22zK</id>
@@ -130,19 +144,5 @@
         <link href="https://alook.so/posts/q1tXEp"/>
         <updated>2022-03-12T16:21:10.880Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tXEp">내가 결혼을 하기 싫은 이유, 그것은 열등감에서 나왔다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힘이 빠지는 답글이 있다는 글을 썼다가, 힘을 강제 주입(?)당해버린.. 좋아요 2K 달성했네요!]]></title>
-        <id>https://alook.so/posts/zvtdOr</id>
-        <link href="https://alook.so/posts/zvtdOr"/>
-        <updated>2022-03-12T16:21:10.889Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtdOr">힘이 빠지는 답글이 있다는 글을 썼다가, 힘을 강제 주입(?)당해버린.. 좋아요 2K 달성했네요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 가족에게도 찾아온 코로나의 검은 그림자]]></title>
-        <id>https://alook.so/posts/Djt1x2</id>
-        <link href="https://alook.so/posts/Djt1x2"/>
-        <updated>2022-03-12T10:17:51.036Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt1x2">우리 가족에게도 찾아온 코로나의 검은 그림자 </a>]]></content>
     </entry>
 </feed>
