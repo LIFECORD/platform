@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-14T02:20:21.255Z</updated>
+    <updated>2022-03-14T03:20:00.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[와우!~~ 가입한지 8일만에 포인트가 ^^'']]></title>
-        <id>https://alook.so/posts/KmtD1Mo</id>
-        <link href="https://alook.so/posts/KmtD1Mo"/>
-        <updated>2022-03-14T02:18:53.650Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtD1Mo">와우!~~ 가입한지 8일만에 포인트가 ^^''</a>]]></content>
+        <title type="html"><![CDATA[아까 포인트 받아서 그거 땜에 좋아라하다가]]></title>
+        <id>https://alook.so/posts/Djt3abd</id>
+        <link href="https://alook.so/posts/Djt3abd"/>
+        <updated>2022-03-14T03:18:39.328Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3abd">아까 포인트 받아서 그거 땜에 좋아라하다가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 포인트]]></title>
+        <id>https://alook.so/posts/Zkta6kX</id>
+        <link href="https://alook.so/posts/Zkta6kX"/>
+        <updated>2022-03-14T03:18:39.329Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkta6kX">얼룩소 포인트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월급 250만원]]></title>
+        <id>https://alook.so/posts/Djt33Dm</id>
+        <link href="https://alook.so/posts/Djt33Dm"/>
+        <updated>2022-03-14T03:18:39.330Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt33Dm">월급 250만원</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[평범한 직장인 아빠가 과연 가정을 부양할 수 있을까?]]></title>
@@ -20,20 +34,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXB4k">평범한 직장인 아빠가 과연 가정을 부양할 수 있을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[😭아침부터 이러면 안되는거 아는데요]]></title>
-        <id>https://alook.so/posts/70tek8E</id>
-        <link href="https://alook.so/posts/70tek8E"/>
-        <updated>2022-03-14T01:00:33.416Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tek8E">😭아침부터 이러면 안되는거 아는데요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[seoul... soul. 사람, 사랑. :)]]></title>
-        <id>https://alook.so/posts/VntwWV9</id>
-        <link href="https://alook.so/posts/VntwWV9"/>
-        <updated>2022-03-14T01:00:33.416Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwWV9">seoul... soul. 사람, 사랑. :)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[망한 치킨장사]]></title>
         <id>https://alook.so/posts/LKtm7K1</id>
         <link href="https://alook.so/posts/LKtm7K1"/>
@@ -41,18 +41,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtm7K1">망한 치킨장사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소를 할 때 알림에 빨간N이 뜨길 기다리는 내 마음]]></title>
-        <id>https://alook.so/posts/jdtddYB</id>
-        <link href="https://alook.so/posts/jdtddYB"/>
-        <updated>2022-03-13T17:16:21.451Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtddYB">얼룩소를 할 때 알림에 빨간N이 뜨길 기다리는 내 마음</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[서울 Soul 說] (1) 내 고향은 "서울"입니다 (長文주의보)]]></title>
         <id>https://alook.so/posts/RGtkkP4</id>
         <link href="https://alook.so/posts/RGtkkP4"/>
         <updated>2022-03-13T18:17:47.330Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkkP4">[서울 Soul 說] (1) 내 고향은 "서울"입니다 (長文주의보)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민의 당 안철수는 선거에서 무슨 역할을 했나?]]></title>
+        <id>https://alook.so/posts/xltoozz</id>
+        <link href="https://alook.so/posts/xltoozz"/>
+        <updated>2022-03-13T17:16:21.456Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltoozz">국민의 당 안철수는 선거에서 무슨 역할을 했나?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 건의사항을 정리해볼까요.]]></title>
@@ -76,20 +76,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkk2M">비어있는 공(空)감보다 함께하는 공(共)감이 필요한 공간</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민의 당 안철수는 선거에서 무슨 역할을 했나?]]></title>
-        <id>https://alook.so/posts/xltoozz</id>
-        <link href="https://alook.so/posts/xltoozz"/>
-        <updated>2022-03-13T17:16:21.456Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltoozz">국민의 당 안철수는 선거에서 무슨 역할을 했나?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주식으로 돈을 버는 방법은 이거다. 속는셈 치고 보세요.]]></title>
-        <id>https://alook.so/posts/1RtJJkJ</id>
-        <link href="https://alook.so/posts/1RtJJkJ"/>
-        <updated>2022-03-14T02:18:53.679Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJJkJ">주식으로 돈을 버는 방법은 이거다. 속는셈 치고 보세요.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[요리와 글짓기에 대한 짧은 생각.]]></title>
         <id>https://alook.so/posts/RGtkk3b</id>
         <link href="https://alook.so/posts/RGtkk3b"/>
@@ -111,6 +97,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot724y">나는 몸과 마음 페이지에 있는 사람들이 좋다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[얼룩소에서는 ~린이라는 말을 삼가는 게 어떨까요.]]></title>
+        <id>https://alook.so/posts/Zkta9ql</id>
+        <link href="https://alook.so/posts/Zkta9ql"/>
+        <updated>2022-03-14T03:18:39.341Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkta9ql">얼룩소에서는 ~린이라는 말을 삼가는 게 어떨까요. </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[식구가 그립다]]></title>
         <id>https://alook.so/posts/bWtyyp7</id>
         <link href="https://alook.so/posts/bWtyyp7"/>
@@ -123,6 +116,13 @@
         <link href="https://alook.so/posts/70tenxv"/>
         <updated>2022-03-13T05:20:13.567Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tenxv">장학사님 오셨다~ 대청소해라~~~</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소셜 딜레마와 얼룩소 딜레마.]]></title>
+        <id>https://alook.so/posts/Zkta95l</id>
+        <link href="https://alook.so/posts/Zkta95l"/>
+        <updated>2022-03-14T03:18:39.344Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkta95l">소셜 딜레마와 얼룩소 딜레마.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고등학교 자퇴]]></title>
