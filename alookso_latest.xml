@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-15T02:22:07.490Z</updated>
+    <updated>2022-03-15T03:19:15.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나는 우울증을 앓고 있다.]]></title>
+        <id>https://alook.so/posts/mbtqPGo</id>
+        <link href="https://alook.so/posts/mbtqPGo"/>
+        <updated>2022-03-15T03:17:50.439Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtqPGo">나는 우울증을 앓고 있다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장녀 컴플렉스]]></title>
         <id>https://alook.so/posts/zvtDYJ3</id>
         <link href="https://alook.so/posts/zvtDYJ3"/>
         <updated>2022-03-15T02:20:42.391Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtDYJ3">장녀 컴플렉스</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나만 놓으면 되는 사이?]]></title>
+        <id>https://alook.so/posts/yEtEaKa</id>
+        <link href="https://alook.so/posts/yEtEaKa"/>
+        <updated>2022-03-15T03:17:50.441Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEaKa">나만 놓으면 되는 사이? </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[몸과 마음이 고마워]]></title>
@@ -20,18 +34,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtBWW9">몸과 마음이 고마워</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이게 3시간이나 걸릴 요리인가!!]]></title>
-        <id>https://alook.so/posts/latq1jd</id>
-        <link href="https://alook.so/posts/latq1jd"/>
-        <updated>2022-03-15T02:20:42.395Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latq1jd">이게 3시간이나 걸릴 요리인가!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[변해야 하는 건, 결국 지금 이 순간의 ‘나’였다.]]></title>
-        <id>https://alook.so/posts/J5tOW70</id>
-        <link href="https://alook.so/posts/J5tOW70"/>
-        <updated>2022-03-15T01:03:34.463Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOW70">변해야 하는 건, 결국 지금 이 순간의 ‘나’였다.</a>]]></content>
+        <title type="html"><![CDATA[이준석의 여성혐오선동 선거 전략은 처참하게 실패했습니다]]></title>
+        <id>https://alook.so/posts/G1tkwmj</id>
+        <link href="https://alook.so/posts/G1tkwmj"/>
+        <updated>2022-03-15T01:03:34.468Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkwmj">이준석의 여성혐오선동 선거 전략은 처참하게 실패했습니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비자 연장 신청을 마치고, 사소한 푸념..]]></title>
@@ -39,13 +46,6 @@
         <link href="https://alook.so/posts/q1tGl34"/>
         <updated>2022-03-14T23:17:47.752Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGl34">비자 연장 신청을 마치고, 사소한 푸념..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이준석의 여성혐오선동 선거 전략은 처참하게 실패했습니다]]></title>
-        <id>https://alook.so/posts/G1tkwmj</id>
-        <link href="https://alook.so/posts/G1tkwmj"/>
-        <updated>2022-03-15T01:03:34.468Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkwmj">이준석의 여성혐오선동 선거 전략은 처참하게 실패했습니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[끊이지 않는 붕괴 사고.. 누구의 잘못일까?]]></title>
@@ -83,13 +83,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xteoql">가치관이 변하게 되는 시점 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10년간 다닌 회사를 때려쳤어요]]></title>
-        <id>https://alook.so/posts/92te549</id>
-        <link href="https://alook.so/posts/92te549"/>
-        <updated>2022-03-14T10:19:16.961Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92te549">10년간 다닌 회사를 때려쳤어요</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[정말 친한 친구에게 돈을 빌려주는 건 옳지 않을까요?]]></title>
         <id>https://alook.so/posts/4Xteozd</id>
         <link href="https://alook.so/posts/4Xteozd"/>
@@ -104,11 +97,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtY6L7">얼룩소가 뭐라고,</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[두 가지 민주당 - 1960년의 민주당과 2022년의 민주당]]></title>
+        <id>https://alook.so/posts/q1tGnbo</id>
+        <link href="https://alook.so/posts/q1tGnbo"/>
+        <updated>2022-03-15T03:17:50.462Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGnbo">두 가지 민주당 - 1960년의 민주당과 2022년의 민주당</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[얼룩커의 진짜 속마음]]></title>
         <id>https://alook.so/posts/yEtE161</id>
         <link href="https://alook.so/posts/yEtE161"/>
         <updated>2022-03-14T04:24:55.859Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtE161">얼룩커의 진짜 속마음</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진단키트가 그대를 속일지라도 - 신속항원검사의 한계와 활용법]]></title>
+        <id>https://alook.so/posts/dzt270L</id>
+        <link href="https://alook.so/posts/dzt270L"/>
+        <updated>2022-03-15T03:17:50.466Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt270L">진단키트가 그대를 속일지라도&nbsp;- 신속항원검사의 한계와 활용법</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[박지현 비대위원장을 응원한다, 하지만...]]></title>
@@ -130,5 +137,12 @@
         <link href="https://alook.so/posts/Yyt00mk"/>
         <updated>2022-03-13T17:16:21.458Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt00mk">얼룩소 건의사항을 정리해볼까요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고등학교 자퇴]]></title>
+        <id>https://alook.so/posts/o7tny7o</id>
+        <link href="https://alook.so/posts/o7tny7o"/>
+        <updated>2022-03-15T03:17:50.469Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tny7o">고등학교 자퇴</a>]]></content>
     </entry>
 </feed>
