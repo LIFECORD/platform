@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-16T14:17:04.932Z</updated>
+    <updated>2022-03-16T15:18:53.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오랜만에 먹어보는 우짜]]></title>
+        <id>https://alook.so/posts/q1tG09E</id>
+        <link href="https://alook.so/posts/q1tG09E"/>
+        <updated>2022-03-16T15:17:31.545Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tG09E">오랜만에 먹어보는 우짜 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아빠의 선물,뭐가 좋을까요??]]></title>
+        <id>https://alook.so/posts/rDtvb2J</id>
+        <link href="https://alook.so/posts/rDtvb2J"/>
+        <updated>2022-03-16T15:17:31.547Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvb2J">아빠의 선물,뭐가 좋을까요??</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[늦은 나이라도 시작해야겠죠?]]></title>
         <id>https://alook.so/posts/vKtBEyK</id>
@@ -20,13 +34,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwnE3">밥 먹을때 쩝쩝대고 먹는 것</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 알림 빨간불 표시.. 기다려져요]]></title>
-        <id>https://alook.so/posts/J5tObeE</id>
-        <link href="https://alook.so/posts/J5tObeE"/>
-        <updated>2022-03-16T14:15:45.237Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tObeE">얼룩소 알림 빨간불 표시.. 기다려져요</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[거리가 필요해]]></title>
         <id>https://alook.so/posts/VntwnGB</id>
         <link href="https://alook.so/posts/VntwnGB"/>
@@ -34,25 +41,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwnGB">거리가 필요해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[배달음식을 많이 드시나요?]]></title>
-        <id>https://alook.so/posts/6MtYpWV</id>
-        <link href="https://alook.so/posts/6MtYpWV"/>
-        <updated>2022-03-16T13:22:38.170Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtYpWV">배달음식을 많이 드시나요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[먹방 유튜브 채널을 자주 보시나요❓]]></title>
         <id>https://alook.so/posts/zvtD1em</id>
         <link href="https://alook.so/posts/zvtD1em"/>
         <updated>2022-03-16T11:15:32.569Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtD1em">먹방 유튜브 채널을 자주 보시나요❓</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맛집찾아~~]]></title>
-        <id>https://alook.so/posts/pot7n9n</id>
-        <link href="https://alook.so/posts/pot7n9n"/>
-        <updated>2022-03-16T10:17:46.984Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7n9n">맛집찾아~~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[현 에너지 위기가 친환경 시대를 견인하기 어려운 이유]]></title>
@@ -111,13 +104,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BataXKm">한국의 민주주의, 좀 더 심화해서 보면 좋을 글(은 제 옛날 글..)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직장내 괴롭힘 어른으로 그러고 싶을까요]]></title>
-        <id>https://alook.so/posts/kZtB1Jp</id>
-        <link href="https://alook.so/posts/kZtB1Jp"/>
-        <updated>2022-03-16T06:19:59.941Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtB1Jp">직장내 괴롭힘 어른으로 그러고 싶을까요</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[길고 길었던 형사 소송... 그리고 결과]]></title>
         <id>https://alook.so/posts/KmtDGp7</id>
         <link href="https://alook.so/posts/KmtDGp7"/>
@@ -137,6 +123,13 @@
         <link href="https://alook.so/posts/54t3rxE"/>
         <updated>2022-03-16T04:20:05.607Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3rxE">슬기로운 얼룩소 생활을 하려면,</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[계속 욕망해야겠지, 좋은 조직을]]></title>
+        <id>https://alook.so/posts/54t3ren</id>
+        <link href="https://alook.so/posts/54t3ren"/>
+        <updated>2022-03-16T15:17:31.563Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3ren">계속 욕망해야겠지, 좋은 조직을</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[역사의 흐름에 시비 한 번 걸어보지 못하였지만,]]></title>
