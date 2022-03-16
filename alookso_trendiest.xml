@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-16T03:22:38.076Z</updated>
+    <updated>2022-03-16T04:21:31.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[캐나다 이민자 이야기 - 1]]></title>
+        <id>https://alook.so/posts/J5tOMnl</id>
+        <link href="https://alook.so/posts/J5tOMnl"/>
+        <updated>2022-03-16T04:20:13.828Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOMnl">캐나다 이민자 이야기 - 1</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재테크]]></title>
+        <id>https://alook.so/posts/rDtvrL2</id>
+        <link href="https://alook.so/posts/rDtvrL2"/>
+        <updated>2022-03-16T04:20:13.832Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvrL2">재테크</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[라면 맛있게 끓이는 방법]]></title>
+        <id>https://alook.so/posts/eVtMkLy</id>
+        <link href="https://alook.so/posts/eVtMkLy"/>
+        <updated>2022-03-16T04:20:13.834Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMkLy">라면 맛있게 끓이는 방법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬기로운 얼룩소 생활을 하려면,]]></title>
+        <id>https://alook.so/posts/54t3rxE</id>
+        <link href="https://alook.so/posts/54t3rxE"/>
+        <updated>2022-03-16T04:20:13.834Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3rxE">슬기로운 얼룩소 생활을 하려면,</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[냉장고 나이 20세. 오늘부로 굿바이]]></title>
         <id>https://alook.so/posts/PvtG2wK</id>
@@ -55,13 +83,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtG2R4">뉴스앵커는 기사를 다 외워서 읽나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여자친구가 정말 생길까?]]></title>
-        <id>https://alook.so/posts/rDtv5JR</id>
-        <link href="https://alook.so/posts/rDtv5JR"/>
-        <updated>2022-03-16T03:21:22.231Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtv5JR">여자친구가 정말 생길까?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PESD, helplessness, pause]]></title>
         <id>https://alook.so/posts/o7tnL9P</id>
         <link href="https://alook.so/posts/o7tnL9P"/>
@@ -83,13 +104,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5GjD">미디어와 SNS의 경계: 얼룩소는 괜찮은 플랫폼이다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2030년 이후 우리나라의 미래]]></title>
-        <id>https://alook.so/posts/ZktamV7</id>
-        <link href="https://alook.so/posts/ZktamV7"/>
-        <updated>2022-03-16T03:21:22.235Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktamV7">2030년 이후 우리나라의 미래</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사각지대를 들여다 보다-CODA를 아시나요?]]></title>
         <id>https://alook.so/posts/njt0oBr</id>
         <link href="https://alook.so/posts/njt0oBr"/>
@@ -109,12 +123,5 @@
         <link href="https://alook.so/posts/dzt2rXE"/>
         <updated>2022-03-15T06:20:25.966Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2rXE">답글: 수돗물을 마시며 산다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Book-ing: 독서중] #2. 당신이 옳다 (정혜신)-공감과 동의 그 사이 어디 즈음]]></title>
-        <id>https://alook.so/posts/Bataklw</id>
-        <link href="https://alook.so/posts/Bataklw"/>
-        <updated>2022-03-15T04:20:50.463Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bataklw">[Book-ing: 독서중] #2. 당신이 옳다 (정혜신)-공감과 동의 그 사이 어디 즈음</a>]]></content>
     </entry>
 </feed>
