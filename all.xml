@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-18T04:30:20.923Z</updated>
+    <updated>2022-03-18T05:17:23.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[배려는 고맙지만, 일을 더 잘하고 싶은데요 (닷페이스 ─ 아티클)]]></title>
@@ -2567,6 +2567,13 @@
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">보고 듣고 읽고 씁니다</div></button>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[23세 대학 그만두고 농업 결정했습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/eVtMGza</id>
+        <link href="https://alook.so/posts/eVtMGza"/>
+        <updated>2022-03-18T05:15:55.838Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMGza">23세 대학 그만두고 농업 결정했습니다.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[지방이 성장하려면... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/zvtDeM5</id>
         <link href="https://alook.so/posts/zvtDeM5"/>
@@ -2651,13 +2658,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtY1MV">누구나 작은 집과 텃밭이 있다면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여기서는 마음을 단단히 먹어야 한다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/eVtMKRl</id>
-        <link href="https://alook.so/posts/eVtMKRl"/>
-        <updated>2022-03-17T08:19:39.100Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMKRl">여기서는 마음을 단단히 먹어야 한다 </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[모두를 위한 화장실, 누구든 사용하세요. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/WLt5x7P</id>
         <link href="https://alook.so/posts/WLt5x7P"/>
@@ -2686,13 +2686,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwVE4">내 글이 메인에 게시되다니!!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아는 사람에게서 나 우울증에 걸렸어라는 말 들으시면 어떠세요?? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/eVtMpJG</id>
-        <link href="https://alook.so/posts/eVtMpJG"/>
-        <updated>2022-03-18T04:29:01.795Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMpJG">아는 사람에게서 나 우울증에 걸렸어라는 말 들으시면 어떠세요??</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[글쓰기 껌이지(Come easy)1 - 짧게 써라 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/bWtyo9P</id>
         <link href="https://alook.so/posts/bWtyo9P"/>
@@ -2707,10 +2700,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXeRW">동물 입양에 대해서 함부로 결정하고 말하지 말자</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[23세 대학 그만두고 농업 결정했습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/eVtMGza</id>
+        <link href="https://alook.so/posts/eVtMGza"/>
+        <updated>2022-03-18T05:16:04.154Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMGza">23세 대학 그만두고 농업 결정했습니다.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[지방이 성장하려면... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/zvtDeM5</id>
         <link href="https://alook.so/posts/zvtDeM5"/>
-        <updated>2022-03-18T04:29:09.458Z</updated>
+        <updated>2022-03-18T04:29:01.778Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtDeM5">지방이 성장하려면...</a>]]></content>
     </entry>
     <entry>
@@ -2791,13 +2791,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtY1MV">누구나 작은 집과 텃밭이 있다면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여기서는 마음을 단단히 먹어야 한다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/eVtMKRl</id>
-        <link href="https://alook.so/posts/eVtMKRl"/>
-        <updated>2022-03-17T08:19:39.100Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMKRl">여기서는 마음을 단단히 먹어야 한다 </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[모두를 위한 화장실, 누구든 사용하세요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/WLt5x7P</id>
         <link href="https://alook.so/posts/WLt5x7P"/>
@@ -2824,13 +2817,6 @@
         <link href="https://alook.so/posts/VntwVE4"/>
         <updated>2022-03-17T06:20:07.552Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwVE4">내 글이 메인에 게시되다니!!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아는 사람에게서 나 우울증에 걸렸어라는 말 들으시면 어떠세요?? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/eVtMpJG</id>
-        <link href="https://alook.so/posts/eVtMpJG"/>
-        <updated>2022-03-18T04:29:09.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMpJG">아는 사람에게서 나 우울증에 걸렸어라는 말 들으시면 어떠세요??</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글쓰기 껌이지(Come easy)1 - 짧게 써라 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
