@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-21T13:28:19.182Z</updated>
+    <updated>2022-03-21T14:18:29.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[저는 사진을 좋아합니다.]]></title>
+        <id>https://alook.so/posts/RGtk4vv</id>
+        <link href="https://alook.so/posts/RGtk4vv"/>
+        <updated>2022-03-21T14:17:16.609Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtk4vv">저는 사진을 좋아합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 하루를 마감하면서 ~]]></title>
+        <id>https://alook.so/posts/zvtDXvx</id>
+        <link href="https://alook.so/posts/zvtDXvx"/>
+        <updated>2022-03-21T14:17:16.610Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtDXvx">오늘 하루를 마감하면서 ~</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제주도 꽃구경]]></title>
         <id>https://alook.so/posts/54t3l29</id>
@@ -74,13 +88,6 @@
         <link href="https://alook.so/posts/Djt34R0"/>
         <updated>2022-03-21T07:18:49.968Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt34R0">alookso에서 한 달 반, 변화를 실감하며</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국을 더욱더 고립시키고 있는 중화 사상.]]></title>
-        <id>https://alook.so/posts/BataMOV</id>
-        <link href="https://alook.so/posts/BataMOV"/>
-        <updated>2022-03-21T06:20:48.182Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BataMOV">중국을 더욱더 고립시키고 있는 중화 사상.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이50]]></title>
