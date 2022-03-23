@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-23T06:40:48.818Z</updated>
+    <updated>2022-03-23T07:19:07.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[자존감 회복을 위해서는?]]></title>
+        <id>https://alook.so/posts/54t3G6M</id>
+        <link href="https://alook.so/posts/54t3G6M"/>
+        <updated>2022-03-23T07:17:53.144Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3G6M">자존감 회복을 위해서는?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[간편식에 대하여]]></title>
+        <id>https://alook.so/posts/E7t7lo5</id>
+        <link href="https://alook.so/posts/E7t7lo5"/>
+        <updated>2022-03-23T07:17:53.145Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7lo5">간편식에 대하여</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노옥희 교육감은 어떤 사람인가?]]></title>
         <id>https://alook.so/posts/rDtvDax</id>
@@ -27,11 +41,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDyVB">디지털 성범죄 위장수사에 대한 홍보 득일까, 실일까?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[혼자 사시는 분들, 팁 좀 주세요~ㅎㅎ]]></title>
+        <id>https://alook.so/posts/PvtGbw2</id>
+        <link href="https://alook.so/posts/PvtGbw2"/>
+        <updated>2022-03-23T07:17:53.148Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtGbw2">혼자 사시는 분들, 팁 좀 주세요~ㅎㅎ</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[동거인 자가격리 해제는 옳을까]]></title>
         <id>https://alook.so/posts/G1tkGKp</id>
         <link href="https://alook.so/posts/G1tkGKp"/>
         <updated>2022-03-23T05:16:25.516Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkGKp">동거인 자가격리 해제는 옳을까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인수위가 법을 어기지 않는 법 - 설득과 타협의 정치력은 그래서 필요하다]]></title>
+        <id>https://alook.so/posts/1RtJoPz</id>
+        <link href="https://alook.so/posts/1RtJoPz"/>
+        <updated>2022-03-23T04:21:22.295Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJoPz">인수위가 법을 어기지 않는 법 - 설득과 타협의 정치력은 그래서 필요하다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여러분은 평상시에 감사함을 느끼시나요?]]></title>
@@ -41,11 +69,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bataxnn">여러분은 평상시에 감사함을 느끼시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인수위가 법을 어기지 않는 법 - 설득과 타협의 정치력은 그래서 필요하다]]></title>
-        <id>https://alook.so/posts/1RtJoPz</id>
-        <link href="https://alook.so/posts/1RtJoPz"/>
-        <updated>2022-03-23T04:21:22.295Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJoPz">인수위가 법을 어기지 않는 법 - 설득과 타협의 정치력은 그래서 필요하다</a>]]></content>
+        <title type="html"><![CDATA[[현금 없는 버스]와 [현금 사용 선택권]]]></title>
+        <id>https://alook.so/posts/3wtE4Xw</id>
+        <link href="https://alook.so/posts/3wtE4Xw"/>
+        <updated>2022-03-23T07:17:53.151Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtE4Xw">[현금 없는 버스]와 [현금 사용 선택권]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열과 김여정 사이: 북한 방사포 발사 논란을 보고 느낀 점]]></title>
@@ -95,34 +123,6 @@
         <link href="https://alook.so/posts/kZtB880"/>
         <updated>2022-03-22T15:19:19.957Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtB880">제주도 섭지코지 여행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아니오, 우리들의 한 표는 언제든지 조롱당해야만 합니다.]]></title>
-        <id>https://alook.so/posts/XBtXP83</id>
-        <link href="https://alook.so/posts/XBtXP83"/>
-        <updated>2022-03-23T06:39:33.127Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXP83">아니오, 우리들의 한 표는 언제든지 조롱당해야만 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 세잎 클로버가 참 좋다]]></title>
-        <id>https://alook.so/posts/WLt5px4</id>
-        <link href="https://alook.so/posts/WLt5px4"/>
-        <updated>2022-03-22T11:15:58.812Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5px4">나는 세잎 클로버가 참 좋다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리도 될 수 있다 '사람을 살리는 사람']]></title>
-        <id>https://alook.so/posts/70teBGB</id>
-        <link href="https://alook.so/posts/70teBGB"/>
-        <updated>2022-03-22T11:15:58.810Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70teBGB">우리도 될 수 있다 '사람을 살리는 사람' </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람을 살리는 의사, 사람을 살리는 화장실]]></title>
-        <id>https://alook.so/posts/w9tpOZP</id>
-        <link href="https://alook.so/posts/w9tpOZP"/>
-        <updated>2022-03-23T06:39:33.130Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpOZP">사람을 살리는 의사, 사람을 살리는 화장실</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나이와 조급함에 대하여]]></title>
