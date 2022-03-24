@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-24T09:18:18.157Z</updated>
+    <updated>2022-03-24T10:19:53.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[배려는 고맙지만, 일을 더 잘하고 싶은데요 (닷페이스 ─ 아티클)]]></title>
@@ -2567,18 +2567,32 @@
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">인디펜던트 레이블 붕가붕가레코드의 대표로 여러 아티스트의 음반과 공연을 만들어왔어요. 그리고 지금은 OTT 서비스 왓챠에서 음악 콘텐츠와 사업을 만들고 있습니다.</div></button>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우리 서로서로 좋아요와 댓글좀 남겨주자구요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/6MtYyXb</id>
+        <link href="https://alook.so/posts/6MtYyXb"/>
+        <updated>2022-03-24T10:18:24.981Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtYyXb">우리 서로서로 좋아요와 댓글좀 남겨주자구요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퇴근 퇴근~~ 퇴근해요~~ (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/rDtv61Y</id>
+        <link href="https://alook.so/posts/rDtv61Y"/>
+        <updated>2022-03-24T10:18:24.982Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtv61Y">퇴근 퇴근~~ 퇴근해요~~</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구의 허파는 아마존이 아니라 ‘바다’ (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/pot7alE</id>
+        <link href="https://alook.so/posts/pot7alE"/>
+        <updated>2022-03-24T10:18:24.984Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7alE">지구의 허파는 아마존이 아니라 ‘바다’</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[결혼 20주년 때 여행했었던 영국 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/rDtv6p7</id>
         <link href="https://alook.so/posts/rDtv6p7"/>
         <updated>2022-03-24T09:16:51.424Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtv6p7">결혼 20주년 때 여행했었던 영국</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무드Q] 복수(復讎) (長文주의보) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/54t3eZ5</id>
-        <link href="https://alook.so/posts/54t3eZ5"/>
-        <updated>2022-03-24T09:16:51.432Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3eZ5">[무드Q] 복수(復讎) (長文주의보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모든 선택에는 이유가 있다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -2658,13 +2672,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7DOp">더 주목해야 하는 것: 우리에게는 설득의 노력이 필요하다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한 아이를 키우려면 온 마을이 필요하다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/WLt5EEO</id>
-        <link href="https://alook.so/posts/WLt5EEO"/>
-        <updated>2022-03-24T09:16:51.443Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5EEO">한 아이를 키우려면 온 마을이 필요하다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[34살이 되어서야 대학학위를 받았습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/OEtL5P7</id>
         <link href="https://alook.so/posts/OEtL5P7"/>
@@ -2686,18 +2693,32 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkGKp">동거인 자가격리 해제는 옳을까</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우리 서로서로 좋아요와 댓글좀 남겨주자구요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/6MtYyXb</id>
+        <link href="https://alook.so/posts/6MtYyXb"/>
+        <updated>2022-03-24T10:18:33.453Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtYyXb">우리 서로서로 좋아요와 댓글좀 남겨주자구요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퇴근 퇴근~~ 퇴근해요~~ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/rDtv61Y</id>
+        <link href="https://alook.so/posts/rDtv61Y"/>
+        <updated>2022-03-24T10:18:33.454Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtv61Y">퇴근 퇴근~~ 퇴근해요~~</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지구의 허파는 아마존이 아니라 ‘바다’ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/pot7alE</id>
+        <link href="https://alook.so/posts/pot7alE"/>
+        <updated>2022-03-24T10:18:33.455Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7alE">지구의 허파는 아마존이 아니라 ‘바다’</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[결혼 20주년 때 여행했었던 영국 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/rDtv6p7</id>
         <link href="https://alook.so/posts/rDtv6p7"/>
-        <updated>2022-03-24T09:16:59.843Z</updated>
+        <updated>2022-03-24T09:16:51.424Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtv6p7">결혼 20주년 때 여행했었던 영국</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무드Q] 복수(復讎) (長文주의보) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/54t3eZ5</id>
-        <link href="https://alook.so/posts/54t3eZ5"/>
-        <updated>2022-03-24T09:16:59.844Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3eZ5">[무드Q] 복수(復讎) (長文주의보)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모든 선택에는 이유가 있다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -2777,13 +2798,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7DOp">더 주목해야 하는 것: 우리에게는 설득의 노력이 필요하다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한 아이를 키우려면 온 마을이 필요하다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/WLt5EEO</id>
-        <link href="https://alook.so/posts/WLt5EEO"/>
-        <updated>2022-03-24T09:16:59.856Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5EEO">한 아이를 키우려면 온 마을이 필요하다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[34살이 되어서야 대학학위를 받았습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/OEtL5P7</id>
         <link href="https://alook.so/posts/OEtL5P7"/>
@@ -2794,14 +2808,14 @@
         <title type="html"><![CDATA[간편식에 대하여 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/E7t7lo5</id>
         <link href="https://alook.so/posts/E7t7lo5"/>
-        <updated>2022-03-24T09:16:59.858Z</updated>
+        <updated>2022-03-24T09:16:51.445Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7lo5">간편식에 대하여</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[동거인 자가격리 해제는 옳을까 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/G1tkGKp</id>
         <link href="https://alook.so/posts/G1tkGKp"/>
-        <updated>2022-03-24T09:16:59.859Z</updated>
+        <updated>2022-03-24T09:16:51.447Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkGKp">동거인 자가격리 해제는 옳을까</a>]]></content>
     </entry>
     <entry>
