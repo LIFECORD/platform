@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/bA6tp1</id>
     <title>alookso ─ 데이터카우</title>
-    <updated>2022-03-24T01:04:37.887Z</updated>
+    <updated>2022-03-24T02:37:15.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[카우레터_B컷]바다를 뒤덮은 플라스틱]]></title>
+        <id>https://alook.so/posts/J5tOKkq</id>
+        <link href="https://alook.so/posts/J5tOKkq"/>
+        <updated>2022-03-24T02:37:14.884Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOKkq">[카우레터_B컷]바다를 뒤덮은 플라스틱</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[투표] 앞으로 기술이 더 발달하면 빈부격차가 확대될까요, 줄어들까요?]]></title>
         <id>https://alook.so/posts/njt0776</id>
@@ -67,13 +74,6 @@
         <link href="https://alook.so/posts/vKtB7Dv"/>
         <updated>2022-03-21T06:22:00.452Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtB7Dv">[카우레터] 행복이란 무엇일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[alookzip] 첼시, 넷플릭스, 중국 증시]]></title>
-        <id>https://alook.so/posts/Yyt0PJa</id>
-        <link href="https://alook.so/posts/Yyt0PJa"/>
-        <updated>2022-03-18T01:15:16.640Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0PJa">[alookzip] 첼시, 넷플릭스, 중국 증시</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020 도쿄 패럴림픽 선수들의 비전 시각화]]></title>

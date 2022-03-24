@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-24T01:04:37.872Z</updated>
+    <updated>2022-03-24T02:37:15.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[자기 자랑 하는 사람이 불편해요]]></title>
+        <id>https://alook.so/posts/Yyt0nVz</id>
+        <link href="https://alook.so/posts/Yyt0nVz"/>
+        <updated>2022-03-24T02:35:58.284Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0nVz">자기 자랑 하는 사람이 불편해요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나대는 사람 대처법??]]></title>
+        <id>https://alook.so/posts/LKtm8oy</id>
+        <link href="https://alook.so/posts/LKtm8oy"/>
+        <updated>2022-03-24T02:35:58.292Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtm8oy">나대는 사람 대처법??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팽? 2030에게 큰 코 다칠 것!]]></title>
+        <id>https://alook.so/posts/eVtMwqd</id>
+        <link href="https://alook.so/posts/eVtMwqd"/>
+        <updated>2022-03-24T02:35:58.292Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMwqd">팽? 2030에게 큰 코 다칠 것!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNS를 전혀 하지 않는 내가 얼룩소에 빠졌다]]></title>
+        <id>https://alook.so/posts/pot7lwe</id>
+        <link href="https://alook.so/posts/pot7lwe"/>
+        <updated>2022-03-24T02:35:58.293Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7lwe">SNS를 전혀 하지 않는 내가 얼룩소에 빠졌다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[벚꽃 필 무렵]]></title>
+        <id>https://alook.so/posts/54t3eGp</id>
+        <link href="https://alook.so/posts/54t3eGp"/>
+        <updated>2022-03-24T02:35:58.300Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3eGp">벚꽃 필 무렵</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자취를 하면서…]]></title>
         <id>https://alook.so/posts/q1tGLR5</id>
@@ -25,13 +60,6 @@
         <link href="https://alook.so/posts/o7tn679"/>
         <updated>2022-03-24T01:03:25.894Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tn679">좋은 아침이에요~^^(5시 일어나기 성공!)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일 저 모의고사 봐요!!!!!!!!!!!!!!]]></title>
-        <id>https://alook.so/posts/zvtDx4l</id>
-        <link href="https://alook.so/posts/zvtDx4l"/>
-        <updated>2022-03-24T01:03:25.895Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtDx4l">내일 저 모의고사 봐요!!!!!!!!!!!!!!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일기]]></title>
@@ -90,13 +118,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtqeb1">인류를 위해 꼭 필요한 ‘비’에 대한 이야기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자존감 회복을 위해서는?]]></title>
-        <id>https://alook.so/posts/54t3G6M</id>
-        <link href="https://alook.so/posts/54t3G6M"/>
-        <updated>2022-03-23T07:17:53.144Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3G6M">자존감 회복을 위해서는?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[간편식에 대하여]]></title>
         <id>https://alook.so/posts/E7t7lo5</id>
         <link href="https://alook.so/posts/E7t7lo5"/>
@@ -104,24 +125,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7lo5">간편식에 대하여</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[노옥희 교육감은 어떤 사람인가?]]></title>
-        <id>https://alook.so/posts/rDtvDax</id>
-        <link href="https://alook.so/posts/rDtvDax"/>
-        <updated>2022-03-23T06:39:33.112Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvDax">노옥희 교육감은 어떤 사람인가?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[동거인 자가격리 해제는 옳을까]]></title>
         <id>https://alook.so/posts/G1tkGKp</id>
         <link href="https://alook.so/posts/G1tkGKp"/>
         <updated>2022-03-23T05:16:25.516Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkGKp">동거인 자가격리 해제는 옳을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학교에서 갤럭시 휴대폰 쓰면 왕따를 당한다?]]></title>
-        <id>https://alook.so/posts/yEtEOO3</id>
-        <link href="https://alook.so/posts/yEtEOO3"/>
-        <updated>2022-03-23T01:10:57.480Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEOO3">학교에서 갤럭시 휴대폰 쓰면 왕따를 당한다?</a>]]></content>
     </entry>
 </feed>
