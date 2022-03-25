@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-25T11:16:26.763Z</updated>
+    <updated>2022-03-25T12:56:08.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[독신자 입양이 가능해진 첫 해, 온 가족이 '입양팀'이 되었다 (닷페이스 ─ 아티클)]]></title>
@@ -2672,6 +2672,27 @@
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">인디펜던트 레이블 붕가붕가레코드의 대표로 여러 아티스트의 음반과 공연을 만들어왔어요. 그리고 지금은 OTT 서비스 왓챠에서 음악 콘텐츠와 사업을 만들고 있습니다.</div></button>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[하고 싶은 공부 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/4Xte3Mq</id>
+        <link href="https://alook.so/posts/4Xte3Mq"/>
+        <updated>2022-03-25T12:54:47.186Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xte3Mq">하고 싶은 공부</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독박육아 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/J5tOdR3</id>
+        <link href="https://alook.so/posts/J5tOdR3"/>
+        <updated>2022-03-25T12:54:47.187Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOdR3">독박육아</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[면접, 기운을 받아 최종합격 했습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/dzt29wJ</id>
+        <link href="https://alook.so/posts/dzt29wJ"/>
+        <updated>2022-03-25T12:54:47.188Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt29wJ">면접, 기운을 받아 최종합격 했습니다.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우리가 투표에서 1번 아니면 2번을 뽑는 이유 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/pot7Oxl</id>
         <link href="https://alook.so/posts/pot7Oxl"/>
@@ -2714,13 +2735,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkYka">전국장애인대회에 다녀와서  </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신기술과 산업계, 정부로 빗대어 생각해봅니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/kZtBzJ4</id>
-        <link href="https://alook.so/posts/kZtBzJ4"/>
-        <updated>2022-03-25T04:21:22.490Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBzJ4">신기술과 산업계, 정부로 빗대어 생각해봅니다.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아침마다 커피를 안먹으면 잠이 깨질 않아요.. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/q1tGjnD</id>
         <link href="https://alook.so/posts/q1tGjnD"/>
@@ -2740,13 +2754,6 @@
         <link href="https://alook.so/posts/yEtE6zL"/>
         <updated>2022-03-25T01:02:02.242Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtE6zL">글을 보면 나이가 보여요?!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부자들의 지식은 복리로 쌓인다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/6MtYnYR</id>
-        <link href="https://alook.so/posts/6MtYnYR"/>
-        <updated>2022-03-25T09:17:16.248Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtYnYR">부자들의 지식은 복리로 쌓인다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엄마가 여행을 떠났다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -2784,11 +2791,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBRab">모든 선택에는 이유가 있다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[살림...꼭 여성의 몫일까요?? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/XBtXa6V</id>
-        <link href="https://alook.so/posts/XBtXa6V"/>
-        <updated>2022-03-25T09:17:16.253Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXa6V">살림...꼭 여성의 몫일까요??</a>]]></content>
+        <title type="html"><![CDATA[하고 싶은 공부 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/4Xte3Mq</id>
+        <link href="https://alook.so/posts/4Xte3Mq"/>
+        <updated>2022-03-25T12:54:55.236Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xte3Mq">하고 싶은 공부</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독박육아 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/J5tOdR3</id>
+        <link href="https://alook.so/posts/J5tOdR3"/>
+        <updated>2022-03-25T12:54:55.241Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOdR3">독박육아</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[면접, 기운을 받아 최종합격 했습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/dzt29wJ</id>
+        <link href="https://alook.so/posts/dzt29wJ"/>
+        <updated>2022-03-25T12:54:55.241Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt29wJ">면접, 기운을 받아 최종합격 했습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리가 투표에서 1번 아니면 2번을 뽑는 이유 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -2833,13 +2854,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkYka">전국장애인대회에 다녀와서  </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[신기술과 산업계, 정부로 빗대어 생각해봅니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/kZtBzJ4</id>
-        <link href="https://alook.so/posts/kZtBzJ4"/>
-        <updated>2022-03-25T04:21:22.490Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBzJ4">신기술과 산업계, 정부로 빗대어 생각해봅니다.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아침마다 커피를 안먹으면 잠이 깨질 않아요.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/q1tGjnD</id>
         <link href="https://alook.so/posts/q1tGjnD"/>
@@ -2859,13 +2873,6 @@
         <link href="https://alook.so/posts/yEtE6zL"/>
         <updated>2022-03-25T01:02:02.242Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtE6zL">글을 보면 나이가 보여요?!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부자들의 지식은 복리로 쌓인다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/6MtYnYR</id>
-        <link href="https://alook.so/posts/6MtYnYR"/>
-        <updated>2022-03-25T09:17:16.248Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtYnYR">부자들의 지식은 복리로 쌓인다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엄마가 여행을 떠났다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -2901,13 +2908,6 @@
         <link href="https://alook.so/posts/kZtBRab"/>
         <updated>2022-03-24T07:17:04.111Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBRab">모든 선택에는 이유가 있다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살림...꼭 여성의 몫일까요?? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/XBtXa6V</id>
-        <link href="https://alook.so/posts/XBtXa6V"/>
-        <updated>2022-03-25T09:17:16.253Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXa6V">살림...꼭 여성의 몫일까요??</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌸 ‘봄의 걸음걸이’ 꽃지도를 그려 봅시다 (alookso ─ alookso)]]></title>
