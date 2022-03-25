@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2022-03-25T04:22:45.795Z</updated>
+    <updated>2022-03-25T05:17:43.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🌸 ‘봄의 걸음걸이’ 꽃지도를 그려 봅시다]]></title>
+        <id>https://alook.so/posts/kZtBEOx</id>
+        <link href="https://alook.so/posts/kZtBEOx"/>
+        <updated>2022-03-25T05:16:35.102Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBEOx">🌸 ‘봄의 걸음걸이’ 꽃지도를 그려 봅시다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🗳️ 대선과 20대 시리즈 모아보기]]></title>
         <id>https://alook.so/posts/Yyt08kk</id>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/pot7dzL"/>
         <updated>2022-03-22T06:19:49.279Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7dzL">20대 대선 투표에서의 세대갈등? 그게 아니고 [대선과 20대]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20대를 찾은 정치인 여러분께 [대선과 20대]]]></title>
-        <id>https://alook.so/posts/XBtXEy5</id>
-        <link href="https://alook.so/posts/XBtXEy5"/>
-        <updated>2022-03-22T06:19:49.280Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXEy5">20대를 찾은 정치인 여러분께 [대선과 20대]</a>]]></content>
     </entry>
 </feed>
