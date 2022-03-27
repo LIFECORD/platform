@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-27T10:18:43.175Z</updated>
+    <updated>2022-03-27T11:16:56.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[고민..]]></title>
+        <id>https://alook.so/posts/vKtBLxq</id>
+        <link href="https://alook.so/posts/vKtBLxq"/>
+        <updated>2022-03-27T11:15:43.533Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtBLxq">고민..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사전 연명의료 결정 제도]]></title>
         <id>https://alook.so/posts/latqMdm</id>
@@ -116,12 +123,5 @@
         <link href="https://alook.so/posts/LKtm0Yo"/>
         <updated>2022-03-26T04:20:12.837Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtm0Yo">조금 느리면 어때요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소7일차!구독100돌파!!]]></title>
-        <id>https://alook.so/posts/3wtE9el</id>
-        <link href="https://alook.so/posts/3wtE9el"/>
-        <updated>2022-03-26T03:21:40.057Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtE9el">얼룩소7일차!구독100돌파!!</a>]]></content>
     </entry>
 </feed>
