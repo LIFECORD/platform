@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-28T07:19:32.588Z</updated>
+    <updated>2022-03-28T10:21:36.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[질문좀 할께요~~]]></title>
-        <id>https://alook.so/posts/a0tYnmm</id>
-        <link href="https://alook.so/posts/a0tYnmm"/>
-        <updated>2022-03-28T07:18:19.084Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tYnmm">질문좀 할께요~~</a>]]></content>
+        <title type="html"><![CDATA[사회적 차별 발언의 확성기가 된 기자(들) - 언론윤리헌장은 어떻게 무시되는가]]></title>
+        <id>https://alook.so/posts/xltoja3</id>
+        <link href="https://alook.so/posts/xltoja3"/>
+        <updated>2022-03-28T10:20:20.509Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltoja3">사회적 차별 발언의 확성기가 된 기자(들) - 언론윤리헌장은 어떻게 무시되는가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제 글은 인기가 없어서 398포인트 받았습니다.]]></title>
+        <id>https://alook.so/posts/LKtmL5D</id>
+        <link href="https://alook.so/posts/LKtmL5D"/>
+        <updated>2022-03-28T10:20:20.514Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmL5D">제 글은 인기가 없어서 398포인트 받았습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[절약하는 방법은 뭐가 있을까요?]]></title>
+        <id>https://alook.so/posts/2xt2obW</id>
+        <link href="https://alook.so/posts/2xt2obW"/>
+        <updated>2022-03-28T10:20:20.515Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt2obW">절약하는 방법은 뭐가 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동거에 대해서 어떻게 생각하세요?]]></title>
+        <id>https://alook.so/posts/jdtdDm0</id>
+        <link href="https://alook.so/posts/jdtdDm0"/>
+        <updated>2022-03-28T10:20:20.515Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtdDm0">동거에 대해서 어떻게 생각하세요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘 나는 이것을 했네요.]]></title>
@@ -25,13 +46,6 @@
         <link href="https://alook.so/posts/KmtDEKd"/>
         <updated>2022-03-28T06:22:04.534Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDEKd">결혼 꼭 해야되는걸까요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열에게 거는 기대, 환매조건부 주택]]></title>
-        <id>https://alook.so/posts/WLt52bP</id>
-        <link href="https://alook.so/posts/WLt52bP"/>
-        <updated>2022-03-28T06:22:04.535Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt52bP">윤석열에게 거는 기대, 환매조건부 주택</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새로운 일을 시작할 때의 두려움]]></title>
@@ -53,13 +67,6 @@
         <link href="https://alook.so/posts/o7tnJrB"/>
         <updated>2022-03-28T05:16:52.503Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnJrB">얼룩소 활동과 보상에 대한 이야기. 여러분들은 어떤 주제로, 얼마나 오랫동안 글을 쓰시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 질문은 구간을 좀 더 나누어 주시면 안될까요? +소설을 쓴다면 역시 모두와 좋은게 최고입니다.]]></title>
-        <id>https://alook.so/posts/LKtmrnx</id>
-        <link href="https://alook.so/posts/LKtmrnx"/>
-        <updated>2022-03-28T05:16:52.503Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmrnx">이 질문은 구간을 좀 더 나누어 주시면 안될까요? +소설을 쓴다면 역시 모두와 좋은게 최고입니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[50자로부터 시작된 온기]]></title>
@@ -102,13 +109,6 @@
         <link href="https://alook.so/posts/eVtM6vL"/>
         <updated>2022-03-27T14:16:21.962Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtM6vL">나는 대형마트보다 재래시장이 더 좋다 😍</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소는 이게 좋다!]]></title>
-        <id>https://alook.so/posts/0ktM7vz</id>
-        <link href="https://alook.so/posts/0ktM7vz"/>
-        <updated>2022-03-27T13:22:17.828Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM7vz">얼룩소는 이게 좋다!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[익숙한 낯설음_내가 살고 있는 제주에 대한 생각]]></title>
