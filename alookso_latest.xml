@@ -2,22 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-04-04T07:18:14.014Z</updated>
+    <updated>2022-04-04T09:18:40.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[괜찮습니다~!]]></title>
+        <id>https://alook.so/posts/KmtDpaw</id>
+        <link href="https://alook.so/posts/KmtDpaw"/>
+        <updated>2022-04-04T09:17:14.291Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDpaw">괜찮습니다~!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 연락하지 않으면 연락없는 그들]]></title>
+        <id>https://alook.so/posts/VntwvaZ</id>
+        <link href="https://alook.so/posts/VntwvaZ"/>
+        <updated>2022-04-04T09:17:14.295Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwvaZ">내가 연락하지 않으면 연락없는 그들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[외출 도전!]]></title>
+        <id>https://alook.so/posts/zvtD9bj</id>
+        <link href="https://alook.so/posts/zvtD9bj"/>
+        <updated>2022-04-04T09:17:14.295Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtD9bj">외출 도전!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아무래도 봄바람과 정면충돌 중 🤣]]></title>
+        <id>https://alook.so/posts/eVtMlYv</id>
+        <link href="https://alook.so/posts/eVtMlYv"/>
+        <updated>2022-04-04T09:17:14.295Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMlYv">아무래도 봄바람과 정면충돌 중 🤣</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[종이 안쓰는 날을 아시나요?]]></title>
+        <id>https://alook.so/posts/LKtmPVP</id>
+        <link href="https://alook.so/posts/LKtmPVP"/>
+        <updated>2022-04-04T09:17:14.304Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmPVP">종이 안쓰는 날을 아시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로 오신 얼룩커분들께(끄적끄적님께)]]></title>
+        <id>https://alook.so/posts/zvtD9qm</id>
+        <link href="https://alook.so/posts/zvtD9qm"/>
+        <updated>2022-04-04T09:17:14.304Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtD9qm">새로 오신 얼룩커분들께(끄적끄적님께)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔직한 마음은 이렇습니다.]]></title>
+        <id>https://alook.so/posts/kZtBM7Z</id>
+        <link href="https://alook.so/posts/kZtBM7Z"/>
+        <updated>2022-04-04T09:17:14.305Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBM7Z">솔직한 마음은 이렇습니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[격리끝났어요 ㅇ0ㅇ!!!]]></title>
         <id>https://alook.so/posts/92tepLq</id>
         <link href="https://alook.so/posts/92tepLq"/>
         <updated>2022-04-04T07:16:51.035Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tepLq">격리끝났어요 ㅇ0ㅇ!!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 타인을 배려하는 것]]></title>
-        <id>https://alook.so/posts/70teoOm</id>
-        <link href="https://alook.so/posts/70teoOm"/>
-        <updated>2022-04-04T07:16:51.043Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70teoOm">답글: 타인을 배려하는 것</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저의 앱테크 수익 공개합니다.(with 부끄럼)]]></title>
@@ -46,13 +88,6 @@
         <link href="https://alook.so/posts/kZtBMLp"/>
         <updated>2022-04-04T05:16:16.994Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBMLp">새로운 플랫폼 얼룩소</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 공부 트렌드도 바뀌는듯.]]></title>
-        <id>https://alook.so/posts/q1tGPo8</id>
-        <link href="https://alook.so/posts/q1tGPo8"/>
-        <updated>2022-04-04T05:16:16.996Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGPo8">최근 공부 트렌드도 바뀌는듯.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가까울수록 배려하기]]></title>
