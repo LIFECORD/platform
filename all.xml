@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-06T07:17:53.587Z</updated>
+    <updated>2022-04-06T08:21:27.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA['방제는 섹시한 느낌이 좋고, 썸네일도 섹시한 느낌으로' (닷페이스 ─ 아티클)]]></title>
-        <id>https://articles.dotface.kr/broadcasting-jockey</id>
-        <link href="https://articles.dotface.kr/broadcasting-jockey"/>
-        <updated>2022-04-05T09:14:54.047Z</updated>
-        <content type="html"><![CDATA["나는 BJ지, 남성의 성적 만족감 채워주는 사람이 아닌데"]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[연쇄살인범과 놀랍도록 유사한 동물학대범의 심리 (닷페이스 ─ 아티클)]]></title>
         <id>https://articles.dotface.kr/animalabuse</id>
@@ -73,6 +66,13 @@
         <link href="https://articles.dotface.kr/reset"/>
         <updated>2022-03-07T07:15:37.060Z</updated>
         <content type="html"><![CDATA[불법 합성, 성희롱 댓글, 신상 털이.... 놀이가 된 디지털 성착취]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건설 현장에서 여성이 일하는 거 어때? (닷페이스 ─ 아티클)]]></title>
+        <id>https://articles.dotface.kr/womencando-eunji</id>
+        <link href="https://articles.dotface.kr/womencando-eunji"/>
+        <updated>2022-04-06T08:18:43.000Z</updated>
+        <content type="html"><![CDATA[[남초 현장을 뚫는 여자들] “힘세다고 일머리가 좋은 건 아니죠”]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 의지력은 한정된 자원이 아니라 하나의 감정 (뉴스페퍼민트)]]></title>
@@ -2777,18 +2777,18 @@
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">인디펜던트 레이블 붕가붕가레코드의 대표로 여러 아티스트의 음반과 공연을 만들어왔어요. 그리고 지금은 OTT 서비스 왓챠에서 음악 콘텐츠와 사업을 만들고 있습니다.</div></button>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카페에서 스킨쉽하는거 저만 불편한가요?? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/latqB8n</id>
-        <link href="https://alook.so/posts/latqB8n"/>
-        <updated>2022-04-06T07:16:27.215Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latqB8n">카페에서 스킨쉽하는거 저만 불편한가요??</a>]]></content>
+        <title type="html"><![CDATA[아들아.미안해... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/M9tELXz</id>
+        <link href="https://alook.so/posts/M9tELXz"/>
+        <updated>2022-04-06T08:19:40.424Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tELXz">아들아.미안해...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웃고 있는 아기 얼룩소. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/w9tpz61</id>
-        <link href="https://alook.so/posts/w9tpz61"/>
-        <updated>2022-04-06T07:16:27.216Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpz61">웃고 있는 아기 얼룩소.</a>]]></content>
+        <title type="html"><![CDATA[천원으로 살 수 있던 것 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/E7t7Ezk</id>
+        <link href="https://alook.so/posts/E7t7Ezk"/>
+        <updated>2022-04-06T08:19:40.424Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7Ezk">천원으로 살 수 있던 것</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[많은 이들의 응원이 새 힘이 되었기를....... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -2861,11 +2861,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5Dw1">계절이 당연한 줄 알았다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[개 풉니다~!? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/xltoYk0</id>
+        <link href="https://alook.so/posts/xltoYk0"/>
+        <updated>2022-04-06T08:19:40.438Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltoYk0">개 풉니다~!?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[얼룩소 전쟁 : 왜 천관율 에디터는 '전쟁' 답글에 '얼룩소'를 얘기했는가. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/Djt3ey7</id>
         <link href="https://alook.so/posts/Djt3ey7"/>
         <updated>2022-04-05T16:22:47.805Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3ey7">얼룩소 전쟁 : 왜 천관율 에디터는 '전쟁' 답글에 '얼룩소'를 얘기했는가.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보이스피싱 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tnBvW</id>
+        <link href="https://alook.so/posts/o7tnBvW"/>
+        <updated>2022-04-06T08:19:40.440Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnBvW">보이스피싱 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소에게 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -2889,24 +2903,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXOdv">대중교통으로 출퇴근하기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카페에서 스킨쉽하는거 저만 불편한가요?? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/latqB8n</id>
-        <link href="https://alook.so/posts/latqB8n"/>
-        <updated>2022-04-06T07:16:34.978Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latqB8n">카페에서 스킨쉽하는거 저만 불편한가요??</a>]]></content>
+        <title type="html"><![CDATA[아들아.미안해... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/M9tELXz</id>
+        <link href="https://alook.so/posts/M9tELXz"/>
+        <updated>2022-04-06T08:20:09.187Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tELXz">아들아.미안해...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웃고 있는 아기 얼룩소. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/w9tpz61</id>
-        <link href="https://alook.so/posts/w9tpz61"/>
-        <updated>2022-04-06T07:16:34.978Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpz61">웃고 있는 아기 얼룩소.</a>]]></content>
+        <title type="html"><![CDATA[천원으로 살 수 있던 것 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/E7t7Ezk</id>
+        <link href="https://alook.so/posts/E7t7Ezk"/>
+        <updated>2022-04-06T08:20:09.187Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7Ezk">천원으로 살 수 있던 것</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[많은 이들의 응원이 새 힘이 되었기를....... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/eVtMzyo</id>
         <link href="https://alook.so/posts/eVtMzyo"/>
-        <updated>2022-04-06T07:16:34.979Z</updated>
+        <updated>2022-04-06T07:16:27.217Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMzyo">많은 이들의 응원이 새 힘이 되었기를.......</a>]]></content>
     </entry>
     <entry>
@@ -2973,11 +2987,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5Dw1">계절이 당연한 줄 알았다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[개 풉니다~!? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/xltoYk0</id>
+        <link href="https://alook.so/posts/xltoYk0"/>
+        <updated>2022-04-06T08:20:09.201Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltoYk0">개 풉니다~!?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[얼룩소 전쟁 : 왜 천관율 에디터는 '전쟁' 답글에 '얼룩소'를 얘기했는가. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/Djt3ey7</id>
         <link href="https://alook.so/posts/Djt3ey7"/>
         <updated>2022-04-05T16:22:47.805Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3ey7">얼룩소 전쟁 : 왜 천관율 에디터는 '전쟁' 답글에 '얼룩소'를 얘기했는가.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보이스피싱 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/o7tnBvW</id>
+        <link href="https://alook.so/posts/o7tnBvW"/>
+        <updated>2022-04-06T08:20:09.204Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnBvW">보이스피싱 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소에게 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -2999,6 +3027,13 @@
         <link href="https://alook.so/posts/XBtXOdv"/>
         <updated>2022-04-05T06:20:02.878Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXOdv">대중교통으로 출퇴근하기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문재인 정부, 산업에 투자하고 다주택자에게 증세했다 (alookso ─ alookso)]]></title>
+        <id>https://alook.so/posts/mbtq5p0</id>
+        <link href="https://alook.so/posts/mbtq5p0"/>
+        <updated>2022-04-06T08:20:16.826Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtq5p0">문재인 정부, 산업에 투자하고 다주택자에게 증세했다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5년동안 26번, 부동산 정책이 남긴 건 (alookso ─ alookso)]]></title>
@@ -3062,13 +3097,6 @@
         <link href="https://alook.so/posts/J5telD"/>
         <updated>2022-04-01T05:15:21.130Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5telD">승리 이후 [대선 에세이]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 이후, 우리가 바라는 한국은 [타임캡슐] (alookso ─ alookso)]]></title>
-        <id>https://alook.so/posts/J5tzl4</id>
-        <link href="https://alook.so/posts/J5tzl4"/>
-        <updated>2022-04-01T05:15:21.132Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tzl4">대선 이후, 우리가 바라는 한국은 [타임캡슐]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(2)진영을 떠나 팩트를 추구한다는 말에 대하여> 팩트 대신 이해를 제공하라 (alookso ─ 정혜승 대표)]]></title>
