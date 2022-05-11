@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-11T04:40:01.065Z</updated>
+    <updated>2022-05-11T05:29:15.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[부모에게 우리는 '언젠가 결혼할 건데 아직 친구랑 사는 딸들' (닷페이스 ─ 아티클)]]></title>
@@ -73,6 +73,13 @@
         <link href="https://articles.dotface.kr/womencando-hyoju"/>
         <updated>2022-03-17T06:19:07.425Z</updated>
         <content type="html"><![CDATA[[남초 현장을 뚫는 여자들] “저 건물, 진짜 내가 지었다”라고 할 수 있는 사람]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 진화생물학자 E.O. 윌슨 타계 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2022/05/10/npc_eowilson/</id>
+        <link href="https://newspeppermint.com/2022/05/10/npc_eowilson/"/>
+        <updated>2022-05-11T05:25:33.085Z</updated>
+        <content type="html"><![CDATA[2022년 5월 11일]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 드라이브 마이 카 (뉴스페퍼민트)]]></title>
@@ -150,13 +157,6 @@
         <link href="https://newspeppermint.com/2022/04/25/npc_transgenderathletes/"/>
         <updated>2022-04-25T23:16:04.545Z</updated>
         <content type="html"><![CDATA[2022년 4월 26일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 매년 맞을 필요 없는 독감 백신은 언제 나올까? (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/04/24/npc_fluvaccine/</id>
-        <link href="https://newspeppermint.com/2022/04/24/npc_fluvaccine/"/>
-        <updated>2022-04-25T01:08:46.240Z</updated>
-        <content type="html"><![CDATA[2022년 4월 25일]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨리얼 “특수반 장애인 친구는 어떤 어른이 되었을까?” (유튜브)2022-04-28 17:00:00 발행 (FIGK)]]></title>
