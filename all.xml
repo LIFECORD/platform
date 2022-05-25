@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-24T21:19:08.609Z</updated>
+    <updated>2022-05-25T01:23:15.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[자동차 업계 여성 직원 비율은 5.5%, 14년차를 만나다 (닷페이스 ─ 아티클)]]></title>
@@ -73,6 +73,13 @@
         <link href="https://articles.dotface.kr/broadcasting-jockey"/>
         <updated>2022-04-07T09:15:20.822Z</updated>
         <content type="html"><![CDATA["나는 BJ지, 남성의 성적 만족감 채워주는 사람이 아닌데"]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 아카데미상과 성별격차 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2022/05/24/npc_oscargender/</id>
+        <link href="https://newspeppermint.com/2022/05/24/npc_oscargender/"/>
+        <updated>2022-05-25T01:19:39.656Z</updated>
+        <content type="html"><![CDATA[2022년 5월 25일]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 제리맨더링과 미국 민주주의 (뉴스페퍼민트)]]></title>
@@ -150,13 +157,6 @@
         <link href="https://newspeppermint.com/2022/05/09/npc_drivemycar/"/>
         <updated>2022-05-09T23:16:04.411Z</updated>
         <content type="html"><![CDATA[2022년 5월 10일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 2022 중간선거 앞둔 공화당 의원들의 걱정: 선거자금 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/05/08/npc_goppac/</id>
-        <link href="https://newspeppermint.com/2022/05/08/npc_goppac/"/>
-        <updated>2022-05-08T23:15:42.168Z</updated>
-        <content type="html"><![CDATA[2022년 5월 9일]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨리얼 “특수반 장애인 친구는 어떤 어른이 되었을까?” (유튜브)2022-04-28 17:00:00 발행 (FIGK)]]></title>
