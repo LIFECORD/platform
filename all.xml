@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-02T22:18:33.130Z</updated>
+    <updated>2022-06-02T23:19:33.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 생물학자 E.O. 윌슨에 대한 엇갈린 평가들 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2022/06/02/npc_eowilson-2/</id>
+        <link href="https://newspeppermint.com/2022/06/02/npc_eowilson-2/"/>
+        <updated>2022-06-02T23:15:55.830Z</updated>
+        <content type="html"><![CDATA[2022년 6월 3일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 스포티파이가 2억 달러 주고 산 “양날의 검” 조 로건 (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2022/06/01/npc_roganspotify/</id>
@@ -80,13 +87,6 @@
         <link href="https://newspeppermint.com/2022/05/18/npc_trumpism/"/>
         <updated>2022-05-24T03:22:43.846Z</updated>
         <content type="html"><![CDATA[2022년 5월 19일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 사무실 인테리어의 변화: 레지머셜(Resimercial) (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/05/17/npc_resimercial/</id>
-        <link href="https://newspeppermint.com/2022/05/17/npc_resimercial/"/>
-        <updated>2022-05-24T03:22:43.847Z</updated>
-        <content type="html"><![CDATA[2022년 5월 18일]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨리얼 “특수반 장애인 친구는 어떤 어른이 되었을까?” (유튜브)2022-04-28 17:00:00 발행 (FIGK)]]></title>
