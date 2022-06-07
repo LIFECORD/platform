@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-06T23:19:41.615Z</updated>
+    <updated>2022-06-07T01:16:03.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 러시아 내 반전 여론과 푸틴의 입지 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2022/06/06/npc_putingeneration/</id>
+        <link href="https://newspeppermint.com/2022/06/06/npc_putingeneration/"/>
+        <updated>2022-06-07T01:12:23.840Z</updated>
+        <content type="html"><![CDATA[2022년 6월 7일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 스위프트(SWIFT), 러시아 금융기관들 퇴출한다 (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2022/06/05/npc_russiaswift/</id>
@@ -80,13 +87,6 @@
         <link href="https://newspeppermint.com/2022/05/22/npc_spiritualityspacescience/"/>
         <updated>2022-05-24T03:22:43.844Z</updated>
         <content type="html"><![CDATA[2022년 5월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 우여곡절 끝에 막 올리는 베이징 동계올림픽 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/05/19/npc_beijing2022/</id>
-        <link href="https://newspeppermint.com/2022/05/19/npc_beijing2022/"/>
-        <updated>2022-05-24T03:22:43.844Z</updated>
-        <content type="html"><![CDATA[2022년 5월 20일]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[씨리얼 “특수반 장애인 친구는 어떤 어른이 되었을까?” (유튜브)2022-04-28 17:00:00 발행 (FIGK)]]></title>
