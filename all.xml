@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-22T07:18:34.505Z</updated>
+    <updated>2022-06-22T10:21:53.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 인간만이 기하학을 이해할 수 있을까요? (뉴스페퍼민트)]]></title>
@@ -87,68 +87,5 @@
         <link href="https://newspeppermint.com/2022/06/06/npc_putingeneration/"/>
         <updated>2022-06-07T01:12:23.840Z</updated>
         <content type="html"><![CDATA[2022년 6월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨리얼 “특수반 장애인 친구는 어떤 어른이 되었을까?” (유튜브)2022-04-28 17:00:00 발행 (FIGK)]]></title>
-        <id>https://www.youtube.com/watch?v=JZaPmibMKvQ</id>
-        <link href="https://www.youtube.com/watch?v=JZaPmibMKvQ"/>
-        <updated>2022-05-01T18:20:05.227Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">복길<div class="styles_TooltipContent__8cY79">텔레비전과 케이팝을 좋아합니다!</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[75%에 달하는 우리나라 실질 문맹률2022-04-28 17:00:00 발행 (FIGK)]]></title>
-        <id>http://www.civicnews.com/news/articleView.html?idxno=31815</id>
-        <link href="http://www.civicnews.com/news/articleView.html?idxno=31815"/>
-        <updated>2022-05-01T18:20:05.227Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김소희<div class="styles_TooltipContent__8cY79">직업적으로는 기획자이자 마케터, 개인적으로는 좋아하는 것이 많은 사람. 『생각소스』 저자</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베니스 비엔날레 2022 시몬 레이 페이지2022-04-28 17:00:00 발행 (FIGK)]]></title>
-        <id>https://simoneleighvenice2022.org/#</id>
-        <link href="https://simoneleighvenice2022.org/#"/>
-        <updated>2022-05-01T18:20:05.234Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">'널 위한 문화예술'의 COO이자 문화기획자</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS ‘어게인 가요톱텐’의 원히트원더 플레이리스트2022-04-28 17:00:00 발행 (FIGK)]]></title>
-        <id>https://www.youtube.com/watch?v=exlrewc7lUo</id>
-        <link href="https://www.youtube.com/watch?v=exlrewc7lUo"/>
-        <updated>2022-05-01T18:20:05.234Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도헌<div class="styles_TooltipContent__8cY79">대중음악평론가로 활동하고 있습니다. 뉴스레터 제너레이트(ZENERATE)를 운영합니다. I Believe in a Thing Called Love.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소사이어티 오브 에디터스 사이트, 20222022-04-28 17:00:00 발행 (FIGK)]]></title>
-        <id>https://www.society-editors.com/about</id>
-        <link href="https://www.society-editors.com/about"/>
-        <updated>2022-05-01T18:20:05.236Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이지현<div class="styles_TooltipContent__8cY79">'널 위한 문화예술'의 COO이자 문화기획자</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트위터 @48_OXO, 『어이없는 심즈』 시리즈2022-04-28 17:00:00 발행 (FIGK)]]></title>
-        <id>https://twitter.com/48_OXO/status/1516668394044801024</id>
-        <link href="https://twitter.com/48_OXO/status/1516668394044801024"/>
-        <updated>2022-05-01T18:20:05.237Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이서영<div class="styles_TooltipContent__8cY79">SF와 판타지를 쓰는 소설가. 『악어의 맛』, 『낮은 곳으로 임하소서』, 『유미의 연인』 등을 집필했다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이닐 지푸라기: 한계점에 다다른 바이닐 인더스트리 (2022.4.12) - mixmag 코리아2022-04-28 17:00:00 발행 (FIGK)]]></title>
-        <id>http://www.mixmag.kr/5498</id>
-        <link href="http://www.mixmag.kr/5498"/>
-        <updated>2022-05-01T18:20:05.246Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">벨로주 대표, 공연 기획자, 선곡가</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청계천을지로보존연대2022-04-28 17:00:00 발행 (FIGK)]]></title>
-        <id>https://www.instagram.com/cheongyecheon/</id>
-        <link href="https://www.instagram.com/cheongyecheon/"/>
-        <updated>2022-05-01T18:20:05.248Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하박국<div class="styles_TooltipContent__8cY79">🤖기술인간 🔊음악사람 🤮영기획YOUNG,GIFTED&amp;WACK Records 대표</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GRAPHIC #48 워크룸 15년(2006-2021)2022-04-28 17:00:00 발행 (FIGK)]]></title>
-        <id>http://graphicmag.co.kr/archives/2194</id>
-        <link href="http://graphicmag.co.kr/archives/2194"/>
-        <updated>2022-05-01T18:20:05.249Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하박국<div class="styles_TooltipContent__8cY79">🤖기술인간 🔊음악사람 🤮영기획YOUNG,GIFTED&amp;WACK Records 대표</div></button>]]></content>
     </entry>
 </feed>
