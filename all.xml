@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-03T22:18:30.929Z</updated>
+    <updated>2022-07-03T23:19:02.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 2년 반 남은 미국 대선, 이무기들은 잠룡이 될 수 있을까? (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2022/07/03/npc_us2024election/</id>
+        <link href="https://newspeppermint.com/2022/07/03/npc_us2024election/"/>
+        <updated>2022-07-03T23:15:15.558Z</updated>
+        <content type="html"><![CDATA[2022년 7월 4일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 아마존 노동조합 앞에 놓인 과제들 (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2022/06/30/npc_amazonunioncontract/</id>
@@ -80,12 +87,5 @@
         <link href="https://newspeppermint.com/2022/06/16/npc_cryptoneutrality/"/>
         <updated>2022-06-17T04:29:43.911Z</updated>
         <content type="html"><![CDATA[2022년 6월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 홀푸즈의 아마존화(化) (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/06/15/npc_wfamazonification/</id>
-        <link href="https://newspeppermint.com/2022/06/15/npc_wfamazonification/"/>
-        <updated>2022-06-16T03:22:20.199Z</updated>
-        <content type="html"><![CDATA[2022년 6월 16일]]></content>
     </entry>
 </feed>
