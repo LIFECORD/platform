@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-09T22:19:18.878Z</updated>
+    <updated>2022-08-09T23:20:53.012Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 기린의 목이 길어진 진짜 이유 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2022/08/09/npc_giraffeneck/</id>
+        <link href="https://newspeppermint.com/2022/08/09/npc_giraffeneck/"/>
+        <updated>2022-08-09T23:17:16.214Z</updated>
+        <content type="html"><![CDATA[2022년 8월 10일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 빌 게이츠가 말하는 다음번 팬데믹 막기 위한 ‘민관 협력’ (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2022/08/07/npc_gatesphilanthropy/</id>
@@ -80,12 +87,5 @@
         <link href="https://newspeppermint.com/2022/07/21/npc_eurovision2022/"/>
         <updated>2022-07-21T23:17:20.121Z</updated>
         <content type="html"><![CDATA[2022년 7월 22일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 로 대 웨이드와 과학적 사실들 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/07/20/npc_roevwadefacts/</id>
-        <link href="https://newspeppermint.com/2022/07/20/npc_roevwadefacts/"/>
-        <updated>2022-07-20T23:17:07.451Z</updated>
-        <content type="html"><![CDATA[2022년 7월 21일]]></content>
     </entry>
 </feed>
