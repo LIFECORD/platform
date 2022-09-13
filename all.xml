@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-13T01:54:48.928Z</updated>
+    <updated>2022-09-13T04:21:07.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 상처만 남긴 보리스 존슨 총리의 3년 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2022/09/12/npc_ukjohnsonexit/</id>
+        <link href="https://newspeppermint.com/2022/09/12/npc_ukjohnsonexit/"/>
+        <updated>2022-09-13T04:19:16.555Z</updated>
+        <content type="html"><![CDATA[2022년 9월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 사우디아라비아 방문 앞둔 바이든, 현실과 이상의 괴리 (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2022/09/08/npc_saudiarabia/</id>
@@ -80,12 +87,5 @@
         <link href="https://newspeppermint.com/2022/08/15/npc_sportswashing/"/>
         <updated>2022-08-16T01:41:38.699Z</updated>
         <content type="html"><![CDATA[2022년 8월 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 총기난사와 정신건강 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/08/11/npc_gunviolencementalhealth/</id>
-        <link href="https://newspeppermint.com/2022/08/11/npc_gunviolencementalhealth/"/>
-        <updated>2022-08-12T01:21:41.786Z</updated>
-        <content type="html"><![CDATA[2022년 8월 12일]]></content>
     </entry>
 </feed>
