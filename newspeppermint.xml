@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-09-29T19:20:49.181Z</updated>
+    <updated>2022-09-29T23:24:59.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[전문 번역] 리사 헤인즐링 칼럼 “미국 정치를 집어삼킨 대법원”]]></title>
+        <id>https://newspeppermint.com/2022/09/29/npc_heinzerlingonscotus/</id>
+        <link href="https://newspeppermint.com/2022/09/29/npc_heinzerlingonscotus/"/>
+        <updated>2022-09-29T23:23:31.456Z</updated>
+        <content type="html"><![CDATA[2022년 9월 30일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 유당불내증과 유당내성]]></title>
         <id>https://newspeppermint.com/2022/09/27/npc_lactosetolerance/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/08/30/npc_poissonvitamin/"/>
         <updated>2022-08-30T23:17:30.427Z</updated>
         <content type="html"><![CDATA[2022년 8월 31일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 수정헌법 2조와 클래런스 토머스 대법관의 비뚤어진 원전주의]]></title>
-        <id>https://newspeppermint.com/2022/08/28/npc_scotusgunoriginalism/</id>
-        <link href="https://newspeppermint.com/2022/08/28/npc_scotusgunoriginalism/"/>
-        <updated>2022-08-29T01:53:18.588Z</updated>
-        <content type="html"><![CDATA[2022년 8월 29일]]></content>
     </entry>
 </feed>
