@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-04T21:19:42.763Z</updated>
+    <updated>2022-10-04T23:23:10.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 인생의 중요한 결정을 데이터를 기반으로 내릴 수 있을까요? (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2022/10/04/npc_datadecision/</id>
+        <link href="https://newspeppermint.com/2022/10/04/npc_datadecision/"/>
+        <updated>2022-10-04T23:21:35.303Z</updated>
+        <content type="html"><![CDATA[2022년 10월 5일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 2022 미국 중간선거 관전 포인트: ‘라티노=민주당 텃밭’ 공식에 균열 갈까? (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2022/10/02/75368/</id>
@@ -80,12 +87,5 @@
         <link href="https://newspeppermint.com/2022/09/04/npc_scotusepa/"/>
         <updated>2022-09-05T01:52:37.074Z</updated>
         <content type="html"><![CDATA[2022년 9월 5일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 박탈된 여성의 임신중단권과 디지털 사생활 보호 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2022/09/01/npc_newerawithdobbs/</id>
-        <link href="https://newspeppermint.com/2022/09/01/npc_newerawithdobbs/"/>
-        <updated>2022-09-02T08:20:26.045Z</updated>
-        <content type="html"><![CDATA[2022년 9월 2일]]></content>
     </entry>
 </feed>
