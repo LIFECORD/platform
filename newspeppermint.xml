@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-10-10T01:55:05.210Z</updated>
+    <updated>2022-10-10T04:16:02.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] ‘용 나는 개천’의 비결은 ‘부자 친구’ 많이 사귀기?]]></title>
+        <id>https://newspeppermint.com/2022/10/09/npc_friendingbias/</id>
+        <link href="https://newspeppermint.com/2022/10/09/npc_friendingbias/"/>
+        <updated>2022-10-10T04:14:28.738Z</updated>
+        <content type="html"><![CDATA[2022년 10월 10일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 미중 갈등 시대, 각국의 쉽지 않은 균형 잡기]]></title>
         <id>https://newspeppermint.com/2022/10/06/npc_pelosiinasia/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/09/08/npc_saudiarabia/"/>
         <updated>2022-09-08T23:19:22.222Z</updated>
         <content type="html"><![CDATA[2022년 9월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 틱톡과 알고리듬]]></title>
-        <id>https://newspeppermint.com/2022/09/05/npc_tiktok/</id>
-        <link href="https://newspeppermint.com/2022/09/05/npc_tiktok/"/>
-        <updated>2022-09-06T04:22:43.492Z</updated>
-        <content type="html"><![CDATA[2022년 9월 6일]]></content>
     </entry>
 </feed>
