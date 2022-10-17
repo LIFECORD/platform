@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-10-17T22:21:23.797Z</updated>
+    <updated>2022-10-17T23:23:23.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 마침내 통과된 기후변화 대응법, 성공인가 실패인가?]]></title>
+        <id>https://newspeppermint.com/2022/10/17/npc_inflationreductionact/</id>
+        <link href="https://newspeppermint.com/2022/10/17/npc_inflationreductionact/"/>
+        <updated>2022-10-17T23:21:53.766Z</updated>
+        <content type="html"><![CDATA[2022년 10월 18일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 코로나19 후유증(Long COVID)]]></title>
         <id>https://newspeppermint.com/2022/10/16/npc_longcovid/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/09/15/npc_cancerempathy/"/>
         <updated>2022-09-16T04:24:09.836Z</updated>
         <content type="html"><![CDATA[2022년 9월 16일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 상처만 남긴 보리스 존슨 총리의 3년]]></title>
-        <id>https://newspeppermint.com/2022/09/12/npc_ukjohnsonexit/</id>
-        <link href="https://newspeppermint.com/2022/09/12/npc_ukjohnsonexit/"/>
-        <updated>2022-09-13T04:19:16.555Z</updated>
-        <content type="html"><![CDATA[2022년 9월 13일]]></content>
     </entry>
 </feed>
