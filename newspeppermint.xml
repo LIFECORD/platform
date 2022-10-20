@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-10-20T22:20:52.153Z</updated>
+    <updated>2022-10-20T23:25:42.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 치매를 피해 봅시다]]></title>
+        <id>https://newspeppermint.com/2022/10/20/npc_dementia/</id>
+        <link href="https://newspeppermint.com/2022/10/20/npc_dementia/"/>
+        <updated>2022-10-20T23:24:11.583Z</updated>
+        <content type="html"><![CDATA[2022년 10월 21일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 알렉스 존스, 음모론과 웰니스 산업의 위험한 결합]]></title>
         <id>https://newspeppermint.com/2022/10/18/npc_alexjoneswellness/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/09/20/npc_gamification/"/>
         <updated>2022-09-20T23:20:29.118Z</updated>
         <content type="html"><![CDATA[2022년 9월 21일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 현대 전쟁의 공급망]]></title>
-        <id>https://newspeppermint.com/2022/09/18/npc_tb2warfare/</id>
-        <link href="https://newspeppermint.com/2022/09/18/npc_tb2warfare/"/>
-        <updated>2022-09-18T23:17:52.177Z</updated>
-        <content type="html"><![CDATA[2022년 9월 19일]]></content>
     </entry>
 </feed>
