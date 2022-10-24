@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-10-23T23:24:51.212Z</updated>
+    <updated>2022-10-24T04:58:48.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 탈레반의 아프가니스탄 수복 ‘벌써 1년’]]></title>
+        <id>https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/</id>
+        <link href="https://newspeppermint.com/2022/10/23/npc_talibanafghanistan/"/>
+        <updated>2022-10-24T04:57:20.950Z</updated>
+        <content type="html"><![CDATA[2022년 10월 24일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 치매를 피해 봅시다]]></title>
         <id>https://newspeppermint.com/2022/10/20/npc_dementia/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/09/22/npc_iwaswrong/"/>
         <updated>2022-09-22T23:19:33.622Z</updated>
         <content type="html"><![CDATA[2022년 9월 23일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 게임화(gamification)에 대처하는 법]]></title>
-        <id>https://newspeppermint.com/2022/09/20/npc_gamification/</id>
-        <link href="https://newspeppermint.com/2022/09/20/npc_gamification/"/>
-        <updated>2022-09-20T23:20:29.118Z</updated>
-        <content type="html"><![CDATA[2022년 9월 21일]]></content>
     </entry>
 </feed>
