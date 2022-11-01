@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-11-01T22:20:52.388Z</updated>
+    <updated>2022-11-01T23:20:50.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[필진 칼럼] 정체성과 얼굴]]></title>
+        <id>https://newspeppermint.com/2022/11/01/npc_identity/</id>
+        <link href="https://newspeppermint.com/2022/11/01/npc_identity/"/>
+        <updated>2022-11-01T23:19:28.050Z</updated>
+        <content type="html"><![CDATA[2022년 11월 2일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 비행 에티켓 (2022년 판)]]></title>
         <id>https://newspeppermint.com/2022/10/30/npc_flyingetiquette/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/10/06/npc_pelosiinasia/"/>
         <updated>2022-10-06T23:22:24.603Z</updated>
         <content type="html"><![CDATA[2022년 10월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] 인생의 중요한 결정을 데이터를 기반으로 내릴 수 있을까요?]]></title>
-        <id>https://newspeppermint.com/2022/10/04/npc_datadecision/</id>
-        <link href="https://newspeppermint.com/2022/10/04/npc_datadecision/"/>
-        <updated>2022-10-04T23:21:35.303Z</updated>
-        <content type="html"><![CDATA[2022년 10월 5일]]></content>
     </entry>
 </feed>
