@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://newspeppermint.com/</id>
     <title>뉴스페퍼민트</title>
-    <updated>2022-11-14T22:23:07.770Z</updated>
+    <updated>2022-11-14T23:17:49.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://newspeppermint.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 기층 유권자들의 이탈 부른 민주당 엘리트의 선택]]></title>
+        <id>https://newspeppermint.com/2022/11/14/npsp_elites/</id>
+        <link href="https://newspeppermint.com/2022/11/14/npsp_elites/"/>
+        <updated>2022-11-14T23:16:21.976Z</updated>
+        <content type="html"><![CDATA[2022년 11월 15일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[필진 칼럼] 미국 대법원 돕스 판결, 중간선거 뒤흔들까?]]></title>
         <id>https://newspeppermint.com/2022/11/06/npc_dobbsmidterm/</id>
@@ -81,12 +88,5 @@
         <link href="https://newspeppermint.com/2022/10/16/npc_longcovid/"/>
         <updated>2022-10-16T23:21:34.175Z</updated>
         <content type="html"><![CDATA[2022년 10월 17일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필진 칼럼] ‘용 나는 개천’의 비결은 ‘부자 친구’ 많이 사귀기?]]></title>
-        <id>https://newspeppermint.com/2022/10/09/npc_friendingbias/</id>
-        <link href="https://newspeppermint.com/2022/10/09/npc_friendingbias/"/>
-        <updated>2022-10-10T04:14:28.738Z</updated>
-        <content type="html"><![CDATA[2022년 10월 10일]]></content>
     </entry>
 </feed>
