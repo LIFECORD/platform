@@ -2,70 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://figk.net/text</id>
     <title>FIGK</title>
-    <updated>2023-02-21T21:15:09.628Z</updated>
+    <updated>2023-02-21T22:15:46.190Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://figk.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[액체로봇기술의 현재와 미래  2023-02-16 18:00:00 발행]]></title>
-        <id>https://youtu.be/UGNvQNNfno8</id>
-        <link href="https://youtu.be/UGNvQNNfno8"/>
-        <updated>2023-02-21T20:16:41.818Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">과학 커뮤니케이터, 과학과 사람들 대표</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케인 픽셀의 ‘The Backroom’ 시리즈 2023-02-16 18:00:00 발행]]></title>
-        <id>https://www.youtube.com/watch?v=H4dGpz6cnHo</id>
-        <link href="https://www.youtube.com/watch?v=H4dGpz6cnHo"/>
-        <updated>2023-02-21T20:16:41.818Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">나지언<div class="styles_TooltipContent__8cY79">전직 &lt;나일론&gt;, &lt;데이즈드 앤 컨퓨즈드&gt;, &lt;지큐&gt; 에디터, 현직 광고회사 AE. 디지털 컨텐츠 기획자, 스마트폰 중독자.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임소연, <나는 어떻게 성형미인이 되었나>, 돌베개 (2022)2023-02-16 18:00:00 발행]]></title>
-        <id>https://www.sisain.co.kr/news/articleView.html?idxno=49380</id>
-        <link href="https://www.sisain.co.kr/news/articleView.html?idxno=49380"/>
-        <updated>2023-02-21T20:16:41.820Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하미나<div class="styles_TooltipContent__8cY79">논픽션 작가. 『미쳐있고 괴상하며 오만하고 똑똑한 여자들』 </div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곰돌이 푸·미키마우스·밤비·피터 팬…. 다음은?2023-02-16 18:00:00 발행]]></title>
-        <id>https://youtu.be/W3E74j_xFtg</id>
-        <link href="https://youtu.be/W3E74j_xFtg"/>
-        <updated>2023-02-21T20:16:41.821Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">강경선<div class="styles_TooltipContent__8cY79">안녕하세요. 그래픽디자이너 강경선입니다 :)</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베테랑의 몸 (한겨레21)2023-02-16 18:00:00 발행]]></title>
-        <id>https://h21.hani.co.kr/arti/COLUMN/2862/</id>
-        <link href="https://h21.hani.co.kr/arti/COLUMN/2862/"/>
-        <updated>2023-02-21T20:16:41.822Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">강남규<div class="styles_TooltipContent__8cY79">경향신문에 칼럼을 연재했고, &lt;지금은 없는 시민&gt;을 냈습니다. 시민과 민주주의, 사회연대에 관심을 둡니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안도 타다오 전시 <청춘> (2023.4.1-7.30, 뮤지엄 산)2023-02-16 18:00:00 발행]]></title>
-        <id>https://n.news.naver.com/mnews/article/353/0000044207</id>
-        <link href="https://n.news.naver.com/mnews/article/353/0000044207"/>
-        <updated>2023-02-21T20:16:41.823Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">벨로주 대표, 공연 기획자, 선곡가</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유튜브 채널 “횡단보도에서 죽고 싶지 않아”2023-02-16 18:00:00 발행]]></title>
-        <id>https://www.youtube.com/@pedestriansafety</id>
-        <link href="https://www.youtube.com/@pedestriansafety"/>
-        <updated>2023-02-21T20:16:41.825Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국영상자료원의 ‘1950년 이전 조선・한국 관련 기록영상 컬렉션’2023-02-16 18:00:00 발행]]></title>
-        <id>https://www.kmdb.or.kr/db/kor/detail/movie/A/03446</id>
-        <link href="https://www.kmdb.or.kr/db/kor/detail/movie/A/03446"/>
-        <updated>2023-02-21T20:16:41.826Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">나지언<div class="styles_TooltipContent__8cY79">전직 &lt;나일론&gt;, &lt;데이즈드 앤 컨퓨즈드&gt;, &lt;지큐&gt; 에디터, 현직 광고회사 AE. 디지털 컨텐츠 기획자, 스마트폰 중독자.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스켈레톤 금메달리스트 윤성빈의 ‘OO? 해볼게요’ 시리즈2023-02-16 18:00:00 발행]]></title>
-        <id>https://www.youtube.com/watch?v=TMwWck0U8GQ</id>
-        <link href="https://www.youtube.com/watch?v=TMwWck0U8GQ"/>
-        <updated>2023-02-21T20:16:41.828Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">고건혁<div class="styles_TooltipContent__8cY79">인디펜던트 레이블 붕가붕가레코드의 대표로 여러 아티스트의 음반과 공연을 만들어왔어요. 그리고 지금은 OTT 서비스 왓챠에서 음악 콘텐츠와 사업을 만들고 있습니다.</div></button>]]></content>
-    </entry>
 </feed>
