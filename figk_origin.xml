@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://figk.net/text</id>
     <title>FIGK</title>
-    <updated>2023-02-24T03:20:36.340Z</updated>
+    <updated>2023-02-24T04:19:37.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://figk.net/favicon.ico</icon>
     <entry>
@@ -28,9 +28,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[1EURO projects in 코끼리 빌라2023-02-23 18:00:00 발행]]></title>
-        <id>https://instagram.com/1_euro_projects?igshid=YmMyMTA2M2Y=</id>
-        <link href="https://instagram.com/1_euro_projects?igshid=YmMyMTA2M2Y="/>
-        <updated>2023-02-24T03:18:52.222Z</updated>
+        <id>https://instagram.com/1_euro_projects</id>
+        <link href="https://instagram.com/1_euro_projects"/>
+        <updated>2023-02-24T04:18:10.834Z</updated>
         <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이수정<div class="styles_TooltipContent__8cY79">음악 축제/공연/컨퍼런스를 기획하고, 국내외 라이브 뮤직 시장에 뮤지션을 소개합니다. 서한 번역도 합니다. </div></button>]]></content>
     </entry>
     <entry>
