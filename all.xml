@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-13T10:15:56.029Z</updated>
+    <updated>2023-04-13T11:13:49.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[어려운 문제, 어떻게 하면 쉽게 바꿔 풀 수 있을까 (뉴스페퍼민트)]]></title>
@@ -87,5 +87,68 @@
         <link href="https://newspeppermint.com/2023/03/27/npsp_specialcounseltrump/"/>
         <updated>2023-03-27T23:13:58.286Z</updated>
         <content type="html"><![CDATA[2023년 3월 28일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대규모 실험 관찰 다큐멘터리, 티빙 <MBTI vs 사주>2023-04-13 18:00:00 발행 (FIGK)]]></title>
+        <id>https://youtu.be/ZtbZydHbYsk</id>
+        <link href="https://youtu.be/ZtbZydHbYsk"/>
+        <updated>2023-04-13T11:12:04.624Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">강경선<div class="styles_TooltipContent__8cY79">안녕하세요. 그래픽디자이너 강경선입니다 :)</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<백그라운드 TV> 어시장에서 데려온 문어가 떠났습니다2023-04-13 18:00:00 발행 (FIGK)]]></title>
+        <id>https://www.youtube.com/watch?v=5bwsc1zLbmk</id>
+        <link href="https://www.youtube.com/watch?v=5bwsc1zLbmk"/>
+        <updated>2023-04-13T11:12:04.631Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">과학 커뮤니케이터, 과학과 사람들 대표</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김성모 기자의 신비월드 (동아일보)2023-04-13 18:00:00 발행 (FIGK)]]></title>
+        <id>https://www.donga.com/news/Series/70080000000405</id>
+        <link href="https://www.donga.com/news/Series/70080000000405"/>
+        <updated>2023-04-13T11:12:04.632Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">벨로주 대표, 공연 기획자, 선곡가</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<한국일보>의 ‘고령자 친화 서비스를 위한 가이드라인’ 제작기2023-04-13 18:00:00 발행 (FIGK)]]></title>
+        <id>https://www.hankookilbo.com/Collect/8284</id>
+        <link href="https://www.hankookilbo.com/Collect/8284"/>
+        <updated>2023-04-13T11:12:04.635Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">강남규<div class="styles_TooltipContent__8cY79">경향신문에 칼럼을 연재했고, &lt;지금은 없는 시민&gt;을 냈습니다. 시민과 민주주의, 사회연대에 관심을 둡니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울시립 미술아카이브(SeMA AA) 2023-04-13 18:00:00 발행 (FIGK)]]></title>
+        <id>https://semaaa.seoul.go.kr/front/main.do</id>
+        <link href="https://semaaa.seoul.go.kr/front/main.do"/>
+        <updated>2023-04-13T11:12:04.636Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘아아’는 또 하나의 계급이다 2023-04-13 18:00:00 발행 (FIGK)]]></title>
+        <id>https://www.ilemonde.com/news/articleView.html?idxno=16812</id>
+        <link href="https://www.ilemonde.com/news/articleView.html?idxno=16812"/>
+        <updated>2023-04-13T11:12:04.637Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라딘 ‘단한권 인쇄소’ 오픈2023-04-13 18:00:00 발행 (FIGK)]]></title>
+        <id>https://www.aladin.co.kr/m/mFSEvent.aspx?EventId=247060</id>
+        <link href="https://www.aladin.co.kr/m/mFSEvent.aspx?EventId=247060"/>
+        <updated>2023-04-13T11:12:04.639Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">강남규<div class="styles_TooltipContent__8cY79">경향신문에 칼럼을 연재했고, &lt;지금은 없는 시민&gt;을 냈습니다. 시민과 민주주의, 사회연대에 관심을 둡니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넷플릭스 드라마 <성난 사람들(Beef)> 2023-04-13 18:00:00 발행 (FIGK)]]></title>
+        <id>https://www.netflix.com/kr/title/81447461</id>
+        <link href="https://www.netflix.com/kr/title/81447461"/>
+        <updated>2023-04-13T11:12:04.642Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">나지언<div class="styles_TooltipContent__8cY79">전직 &lt;나일론&gt;, &lt;데이즈드 앤 컨퓨즈드&gt;, &lt;지큐&gt; 에디터, 현직 광고회사 AE. 디지털 컨텐츠 기획자, 스마트폰 중독자.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A.I는 인터넷 밈을 생산할 수 있을까?2023-04-13 18:00:00 발행 (FIGK)]]></title>
+        <id>https://n.news.naver.com/article/003/0011781208?sid=104</id>
+        <link href="https://n.news.naver.com/article/003/0011781208?sid=104"/>
+        <updated>2023-04-13T11:12:04.644Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김경수<div class="styles_TooltipContent__8cY79">페이스북 페이지 &lt;인문학적 개소리&gt; 운영자이자 인터넷 시각문화 연구자입니다. 자주 괴서를 수집합니다.</div></button>]]></content>
     </entry>
 </feed>
