@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-25T05:14:24.758Z</updated>
+    <updated>2023-04-25T06:19:00.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[마지막 1명까지 사라지고 나면 어떻게 기억해야 하나 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2023/04/25/npsp_holocaust/</id>
+        <link href="https://newspeppermint.com/2023/04/25/npsp_holocaust/"/>
+        <updated>2023-04-25T06:16:58.248Z</updated>
+        <content type="html"><![CDATA[2023년 4월 26일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아름다움이 진리요, 진리가 아름다움이리라 (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2023/04/23/npsp_mathliterature/</id>
@@ -80,12 +87,5 @@
         <link href="https://newspeppermint.com/2023/04/06/npsp_twitterentrainment/"/>
         <updated>2023-04-06T23:13:27.548Z</updated>
         <content type="html"><![CDATA[2023년 4월 7일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 동성애 차별이 ‘표현의 자유’ 위반에 해당하느냐는 논쟁 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2023/04/05/npsp_freedomofspeech/</id>
-        <link href="https://newspeppermint.com/2023/04/05/npsp_freedomofspeech/"/>
-        <updated>2023-04-05T23:11:32.569Z</updated>
-        <content type="html"><![CDATA[2023년 4월 6일]]></content>
     </entry>
 </feed>
