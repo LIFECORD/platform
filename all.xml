@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-03T22:15:15.130Z</updated>
+    <updated>2023-05-03T23:14:41.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] ‘한 끼 63만 원’ 세계 최고 식당이 문을 닫은 이유는 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2023/05/03/npsp_noma/</id>
+        <link href="https://newspeppermint.com/2023/05/03/npsp_noma/"/>
+        <updated>2023-05-03T23:12:49.834Z</updated>
+        <content type="html"><![CDATA[2023년 5월 4일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘1등 뉴스’ ‘시청률 1위’ 앵커 해고는 무엇을 위한 결정이었나 (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2023/05/02/npsp_tuckercarlson/</id>
@@ -80,12 +87,5 @@
         <link href="https://newspeppermint.com/2023/04/23/npsp_mathliterature/"/>
         <updated>2023-05-01T13:15:27.785Z</updated>
         <content type="html"><![CDATA[2023년 4월 24일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 테슬라는 이제 ‘진짜’ 시장 경쟁 앞에 섰다 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2023/04/20/npsp_tesla/</id>
-        <link href="https://newspeppermint.com/2023/04/20/npsp_tesla/"/>
-        <updated>2023-05-01T13:15:27.786Z</updated>
-        <content type="html"><![CDATA[2023년 4월 21일]]></content>
     </entry>
 </feed>
