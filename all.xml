@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-07T15:14:19.081Z</updated>
+    <updated>2023-05-07T16:17:03.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 챗GPT가 일깨운 ‘결정적 시점’은 지금이다! (뉴스페퍼민트)]]></title>
@@ -87,5 +87,68 @@
         <link href="https://newspeppermint.com/2023/04/25/npsp_holocaust/"/>
         <updated>2023-05-01T13:15:27.784Z</updated>
         <content type="html"><![CDATA[2023년 4월 26일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딱히 누구도 놀라지는 않았다2023-05-04 18:00:00 발행 (FIGK)]]></title>
+        <id>https://economist.co.kr/article/view/ecn202304300008</id>
+        <link href="https://economist.co.kr/article/view/ecn202304300008"/>
+        <updated>2023-05-07T16:15:30.568Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도훈<div class="styles_TooltipContent__8cY79">작가, 칼럼니스트, 영화평론가 </div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연극 <몬순>2023-05-04 18:00:00 발행 (FIGK)]]></title>
+        <id>https://youtu.be/SgooKjdlEkA</id>
+        <link href="https://youtu.be/SgooKjdlEkA"/>
+        <updated>2023-05-07T16:15:30.569Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">장경진<div class="styles_TooltipContent__8cY79">공연칼럼니스트. 공연예술과 관련한 콘텐츠를 만든다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능으로 만든 콘텐츠다2023-05-04 18:00:00 발행 (FIGK)]]></title>
+        <id>https://youtu.be/ge0Lw5I1Tw8</id>
+        <link href="https://youtu.be/ge0Lw5I1Tw8"/>
+        <updated>2023-05-07T16:15:30.571Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">차우진<div class="styles_TooltipContent__8cY79">보고 듣고 읽고 씁니다</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현대카드 슈퍼콘서트, 누구를 위한 공연인가2023-05-04 18:00:00 발행 (FIGK)]]></title>
+        <id>http://www.bizhankook.com/bk/article/25525?fbclid=IwAR0Tt2wi5WgRB5XRUqAmTIlKyneCyel-78hRMPEwu2atL7X41tpe0u3pQK8#home</id>
+        <link href="http://www.bizhankook.com/bk/article/25525?fbclid=IwAR0Tt2wi5WgRB5XRUqAmTIlKyneCyel-78hRMPEwu2atL7X41tpe0u3pQK8#home"/>
+        <updated>2023-05-07T16:15:30.573Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하박국<div class="styles_TooltipContent__8cY79">🤖기술인간 🔊음악사람 🤮영기획YOUNG,GIFTED&amp;WACK Records 대표</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[루이비통 2023 프리폴(Pre-fall) 컬렉션 패션쇼 2023-05-04 18:00:00 발행 (FIGK)]]></title>
+        <id>https://eu.louisvuitton.com/eng-e1/magazine/articles/women-pre-fall-2023-show-seoul</id>
+        <link href="https://eu.louisvuitton.com/eng-e1/magazine/articles/women-pre-fall-2023-show-seoul"/>
+        <updated>2023-05-07T16:15:30.576Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">이수정<div class="styles_TooltipContent__8cY79">음악 축제/공연/컨퍼런스를 기획하고, 국내외 라이브 뮤직 시장에 뮤지션을 소개합니다. 서한 번역도 합니다. </div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<월간 디자인> ‘기후 위기 앞 전시 디자인의 별일’2023-05-04 18:00:00 발행 (FIGK)]]></title>
+        <id>https://mdesign.designhouse.co.kr/article/article_view/102/83955?per_page=1&amp;sch_txt=</id>
+        <link href="https://mdesign.designhouse.co.kr/article/article_view/102/83955?per_page=1&amp;sch_txt="/>
+        <updated>2023-05-07T16:15:30.577Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">현예진<div class="styles_TooltipContent__8cY79">비틀리고 왜곡된 것들에 마음을 기울입니다.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시사인 박찬일 셰프의 칼럼 ‘배달의 민족은 온몸이 아프다’2023-05-04 18:00:00 발행 (FIGK)]]></title>
+        <id>https://www.sisain.co.kr/news/articleView.html?idxno=50134</id>
+        <link href="https://www.sisain.co.kr/news/articleView.html?idxno=50134"/>
+        <updated>2023-05-07T16:15:30.579Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김도헌<div class="styles_TooltipContent__8cY79">대중음악평론가로 활동하고 있습니다. 뉴스레터 제너레이트(ZENERATE)를 운영합니다. I Believe in a Thing Called Love.</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팟캐스트 <최초의 독자> (스테디오)2023-05-04 18:00:00 발행 (FIGK)]]></title>
+        <id>https://www.podbbang.com/channels/1787334/episodes/24676121</id>
+        <link href="https://www.podbbang.com/channels/1787334/episodes/24676121"/>
+        <updated>2023-05-07T16:15:30.583Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">복길<div class="styles_TooltipContent__8cY79">텔레비전과 케이팝을 좋아합니다!</div></button>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애덤 그랜트 ‘Your Email Does Not Constitute My Emergency’2023-05-04 18:00:00 발행 (FIGK)]]></title>
+        <id>https://premium.sbs.co.kr/article/4GxfjSrNHo</id>
+        <link href="https://premium.sbs.co.kr/article/4GxfjSrNHo"/>
+        <updated>2023-05-07T16:15:30.584Z</updated>
+        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">현예진<div class="styles_TooltipContent__8cY79">비틀리고 왜곡된 것들에 마음을 기울입니다.</div></button>]]></content>
     </entry>
 </feed>
