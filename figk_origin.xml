@@ -2,70 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://figk.net/text</id>
     <title>FIGK</title>
-    <updated>2023-06-22T11:13:32.655Z</updated>
+    <updated>2023-06-22T12:29:19.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://figk.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[시사인의 ‘청주동물원’ 취재2023-06-22 18:00:00 발행]]></title>
-        <id>https://www.sisain.co.kr/news/articleView.html?idxno=50376</id>
-        <link href="https://www.sisain.co.kr/news/articleView.html?idxno=50376"/>
-        <updated>2023-06-22T11:11:52.089Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">강남규<div class="styles_TooltipContent__8cY79">경향신문에 칼럼을 연재했고, &lt;지금은 없는 시민&gt;을 냈습니다. 시민과 민주주의, 사회연대에 관심을 둡니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불신자가 읽는 성경 2023-06-22 18:00:00 발행]]></title>
-        <id>https://godnull.wordpress.com/</id>
-        <link href="https://godnull.wordpress.com/"/>
-        <updated>2023-06-22T11:11:52.093Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">과학 커뮤니케이터, 과학과 사람들 대표</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['스니커즈 언박스드 서울' 앰배서더, 웨이드2023-06-22 18:00:00 발행]]></title>
-        <id>https://www.m-i.kr/news/articleView.html?idxno=1022496</id>
-        <link href="https://www.m-i.kr/news/articleView.html?idxno=1022496"/>
-        <updated>2023-06-22T11:11:52.094Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윌리엄 데레저위츠의 에세이 "문화가 너무 따분해졌다"2023-06-22 18:00:00 발행]]></title>
-        <id>https://www.pado.kr/article/2023060210258852325</id>
-        <link href="https://www.pado.kr/article/2023060210258852325"/>
-        <updated>2023-06-22T11:11:52.101Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하미나<div class="styles_TooltipContent__8cY79">논픽션 작가. 『미쳐있고 괴상하며 오만하고 똑똑한 여자들』 </div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘블랙리스트’ 재소환에 강제 퇴거까지…“서울국제도서전 불참”2023-06-22 18:00:00 발행]]></title>
-        <id>https://www.hani.co.kr/arti/culture/culture_general/1096130.html</id>
-        <link href="https://www.hani.co.kr/arti/culture/culture_general/1096130.html"/>
-        <updated>2023-06-22T11:11:52.102Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김경수<div class="styles_TooltipContent__8cY79">페이스북 페이지 &lt;인문학적 개소리&gt; 운영자이자 인터넷 시각문화 연구자입니다. 자주 괴서를 수집합니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 <바비>의 세트장2023-06-22 18:00:00 발행]]></title>
-        <id>https://hypebeast.kr/2023/6/greta-gerwig-barbie-set-construction-caused-worldwide-paint-shortage</id>
-        <link href="https://hypebeast.kr/2023/6/greta-gerwig-barbie-set-construction-caused-worldwide-paint-shortage"/>
-        <updated>2023-06-22T11:11:52.108Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나의속초아저씨’ 유튜브 채널 2023-06-22 18:00:00 발행]]></title>
-        <id>https://www.youtube.com/watch?v=On3dHJc078Y</id>
-        <link href="https://www.youtube.com/watch?v=On3dHJc078Y"/>
-        <updated>2023-06-22T11:11:52.108Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">나지언<div class="styles_TooltipContent__8cY79">전직 &lt;나일론&gt;, &lt;데이즈드 앤 컨퓨즈드&gt;, &lt;지큐&gt; 에디터, 현직 광고회사 AE. 디지털 컨텐츠 기획자, 스마트폰 중독자.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토성의 위성에서 생명체를 위한 기본 성분 발견 2023-06-22 18:00:00 발행]]></title>
-        <id>https://www.youtube.com/watch?v=Q7ZRu3WioSA</id>
-        <link href="https://www.youtube.com/watch?v=Q7ZRu3WioSA"/>
-        <updated>2023-06-22T11:11:52.108Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">과학 커뮤니케이터, 과학과 사람들 대표</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고드프리 레지오의 카시 3부작 상영 2023-06-22 18:00:00 발행]]></title>
-        <id>https://www.mmca.go.kr/events/eventsDetail.do?menuId=0000000000&amp;eduId=202306120000289</id>
-        <link href="https://www.mmca.go.kr/events/eventsDetail.do?menuId=0000000000&amp;eduId=202306120000289"/>
-        <updated>2023-06-22T11:11:52.110Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">나지언<div class="styles_TooltipContent__8cY79">전직 &lt;나일론&gt;, &lt;데이즈드 앤 컨퓨즈드&gt;, &lt;지큐&gt; 에디터, 현직 광고회사 AE. 디지털 컨텐츠 기획자, 스마트폰 중독자.</div></button>]]></content>
-    </entry>
 </feed>
