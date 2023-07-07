@@ -2,70 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://figk.net/text</id>
     <title>FIGK</title>
-    <updated>2023-07-07T13:25:15.743Z</updated>
+    <updated>2023-07-07T14:15:04.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://figk.net/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[파타고니아 제품이 패스트패션 제품과 같은 공장에서 생산되고 있다는 <FTM>의 기사 2023-07-06 18:00:00 발행]]></title>
-        <id>https://www.ftm.eu/articles/sustainable-clothing-brand-patagonia-uses-same-suppliers-fast-fashion-brands-do-workers-exploited?share=FwFDiZ31adUE7HOI%2FsOLuyEk8wU4hVE55Pchkyg%2BKYw%2BVfK4%2F1Mmt55GFGbvoQA%3D</id>
-        <link href="https://www.ftm.eu/articles/sustainable-clothing-brand-patagonia-uses-same-suppliers-fast-fashion-brands-do-workers-exploited?share=FwFDiZ31adUE7HOI%2FsOLuyEk8wU4hVE55Pchkyg%2BKYw%2BVfK4%2F1Mmt55GFGbvoQA%3D"/>
-        <updated>2023-07-07T13:23:35.932Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">나지언<div class="styles_TooltipContent__8cY79">전직 &lt;나일론&gt;, &lt;데이즈드 앤 컨퓨즈드&gt;, &lt;지큐&gt; 에디터, 현직 광고회사 AE. 디지털 컨텐츠 기획자, 스마트폰 중독자.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인터넷 서점 알라딘 '24주년 당신의 기록'2023-07-06 18:00:00 발행]]></title>
-        <id>https://www.aladin.co.kr/events/wevent.aspx?EventId=251285</id>
-        <link href="https://www.aladin.co.kr/events/wevent.aspx?EventId=251285"/>
-        <updated>2023-07-07T13:23:35.933Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">벨로주 대표, 공연 기획자, 선곡가</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Japan Railway - Industry Craft Grand Prix at Cannes Lions 20232023-07-06 18:00:00 발행]]></title>
-        <id>https://www.youtube.com/watch?v=FOctNTQH1dM</id>
-        <link href="https://www.youtube.com/watch?v=FOctNTQH1dM"/>
-        <updated>2023-07-07T13:23:35.937Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">박정용<div class="styles_TooltipContent__8cY79">벨로주 대표, 공연 기획자, 선곡가</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김규진-김세연 레즈비언 부부의 임신 소식2023-07-06 18:00:00 발행]]></title>
-        <id>https://www.hani.co.kr/arti/society/women/1098152.html</id>
-        <link href="https://www.hani.co.kr/arti/society/women/1098152.html"/>
-        <updated>2023-07-07T13:23:35.940Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">강남규<div class="styles_TooltipContent__8cY79">경향신문에 칼럼을 연재했고, &lt;지금은 없는 시민&gt;을 냈습니다. 시민과 민주주의, 사회연대에 관심을 둡니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황웃는돌, <나는 자살 생존자입니다>, 문학동네(2023)2023-07-06 18:00:00 발행]]></title>
-        <id>https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319817602&amp;start=slayer</id>
-        <link href="https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=319817602&amp;start=slayer"/>
-        <updated>2023-07-07T13:23:35.945Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">하미나<div class="styles_TooltipContent__8cY79">논픽션 작가. 『미쳐있고 괴상하며 오만하고 똑똑한 여자들』 </div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전시 <게임사회>2023-07-06 18:00:00 발행]]></title>
-        <id>https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=1</id>
-        <link href="https://www.mmca.go.kr/exhibitions/exhibitionsDetail.do?exhFlag=1"/>
-        <updated>2023-07-07T13:23:35.946Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김지연<div class="styles_TooltipContent__8cY79">미술/문화비평가. 책 &lt;마리나의 눈&gt;과 &lt;보통의 감상&gt;을 썼다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고려대학교 국문과 유튜브 고대곰논2023-07-06 18:00:00 발행]]></title>
-        <id>https://www.youtube.com/watch?v=cSvRaKU5ZKI</id>
-        <link href="https://www.youtube.com/watch?v=cSvRaKU5ZKI"/>
-        <updated>2023-07-07T13:23:35.948Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">최진영<div class="styles_TooltipContent__8cY79">과학 커뮤니케이터, 과학과 사람들 대표</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBC Earth <Spy In The Ocean> 클립2023-07-06 18:00:00 발행]]></title>
-        <id>https://www.youtube.com/watch?v=1-q_8TKNG9w</id>
-        <link href="https://www.youtube.com/watch?v=1-q_8TKNG9w"/>
-        <updated>2023-07-07T13:23:35.949Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">강남규<div class="styles_TooltipContent__8cY79">경향신문에 칼럼을 연재했고, &lt;지금은 없는 시민&gt;을 냈습니다. 시민과 민주주의, 사회연대에 관심을 둡니다.</div></button>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디즈니, 내셔널 지오그래픽 기자 전원을 해고하다.2023-07-06 18:00:00 발행]]></title>
-        <id>https://m.khan.co.kr/world/america/article/202306292149005</id>
-        <link href="https://m.khan.co.kr/world/america/article/202306292149005"/>
-        <updated>2023-07-07T13:23:35.950Z</updated>
-        <content type="html"><![CDATA[<button class="styles_ToolTipContainer__3EN55">김경수<div class="styles_TooltipContent__8cY79">페이스북 페이지 &lt;인문학적 개소리&gt; 운영자이자 인터넷 시각문화 연구자입니다. 자주 괴서를 수집합니다.</div></button>]]></content>
-    </entry>
 </feed>
