@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-28T00:56:23.688Z</updated>
+    <updated>2023-08-28T01:49:33.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[중국 부동산 위기, 이번엔 뭐가 다른가? (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2023/08/27/npsp_chinaeconomy/</id>
+        <link href="https://newspeppermint.com/2023/08/27/npsp_chinaeconomy/"/>
+        <updated>2023-08-28T01:47:34.588Z</updated>
+        <content type="html"><![CDATA[2023년 8월 28일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 매번 헌법을 고쳐나가는 그곳, 올해 주요 판결은 (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2023/08/25/npsp_scotus2023/</id>
@@ -80,12 +87,5 @@
         <link href="https://newspeppermint.com/2023/08/10/npsp_affirmativeaction/"/>
         <updated>2023-08-11T00:51:50.116Z</updated>
         <content type="html"><![CDATA[2023년 8월 11일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두가 모두를 믿지 못하게 되면 어떻게 해야 할까 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2023/08/09/npsp_trustviolence/</id>
-        <link href="https://newspeppermint.com/2023/08/09/npsp_trustviolence/"/>
-        <updated>2023-08-10T01:04:13.607Z</updated>
-        <content type="html"><![CDATA[2023년 8월 10일]]></content>
     </entry>
 </feed>
