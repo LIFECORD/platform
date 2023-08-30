@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-30T00:55:06.414Z</updated>
+    <updated>2023-08-30T01:47:25.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[그럼에도 불안한 인간은 이런 걸 만들어냈다 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2023/08/29/npsp_insecurity/</id>
+        <link href="https://newspeppermint.com/2023/08/29/npsp_insecurity/"/>
+        <updated>2023-08-30T01:45:34.647Z</updated>
+        <content type="html"><![CDATA[2023년 8월 30일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 부자들의 일탈인가, 모험가의 비극일까… 잠수정 사고를 바라보는 두 가지 시선 (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2023/08/28/npsp_titanregulation/</id>
@@ -80,12 +87,5 @@
         <link href="https://newspeppermint.com/2023/08/14/npsp_multitasking/"/>
         <updated>2023-08-14T10:13:02.535Z</updated>
         <content type="html"><![CDATA[2023년 8월 15일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] 또 기소된 트럼프, 그러든 말든 대선 가도는 탄탄해서 더 문제 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2023/08/12/npsp_trumpdocuments/</id>
-        <link href="https://newspeppermint.com/2023/08/12/npsp_trumpdocuments/"/>
-        <updated>2023-08-12T23:11:36.072Z</updated>
-        <content type="html"><![CDATA[2023년 8월 13일]]></content>
     </entry>
 </feed>
