@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-11T23:14:18.412Z</updated>
+    <updated>2023-10-12T00:55:21.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[또다시 토요일에 시작된 전쟁… 이스라엘- 팔레스타인 갈등과 분쟁의 역사 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2023/10/11/npsp_hamasisrael/</id>
+        <link href="https://newspeppermint.com/2023/10/11/npsp_hamasisrael/"/>
+        <updated>2023-10-12T00:53:16.252Z</updated>
+        <content type="html"><![CDATA[2023년 10월 12일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인공지능 그 자체보다는 여기에 대한 대응이 미래를 결정할 것 (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2023/10/10/npsp_aiwar/</id>
@@ -80,12 +87,5 @@
         <link href="https://newspeppermint.com/2023/09/24/npsp_usvgoogle/"/>
         <updated>2023-09-25T03:13:09.903Z</updated>
         <content type="html"><![CDATA[2023년 9월 25일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘줄 서서 먹는 맛집’, ‘나만 아는 보석 같은 식당’… 어디를 더 가고 싶을까 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2023/09/20/npsp_influencerrestaurants/</id>
-        <link href="https://newspeppermint.com/2023/09/20/npsp_influencerrestaurants/"/>
-        <updated>2023-09-20T23:12:08.672Z</updated>
-        <content type="html"><![CDATA[2023년 9월 21일]]></content>
     </entry>
 </feed>
