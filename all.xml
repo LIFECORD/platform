@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-12T15:13:08.898Z</updated>
+    <updated>2023-11-12T16:15:48.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[미국의 소극적인 태도가 오히려 중국을 도발할 가능성이 높다 하는 이유 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2023/11/12/npsp_uschinataiwan/</id>
+        <link href="https://newspeppermint.com/2023/11/12/npsp_uschinataiwan/"/>
+        <updated>2023-11-12T16:14:17.336Z</updated>
+        <content type="html"><![CDATA[2023년 11월 13일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[뉴페@스프] 막 오른 ‘세기의 소송’… 구글은 독점 사업자인가 아닌가 (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2023/11/10/npsp_usvgoogle/</id>
@@ -79,13 +86,6 @@
         <id>https://newspeppermint.com/2023/10/26/npsp_nycrat/</id>
         <link href="https://newspeppermint.com/2023/10/26/npsp_nycrat/"/>
         <updated>2023-10-26T23:13:00.618Z</updated>
-        <content type="html"><![CDATA[2023년 10월 27일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예술은 정치로부터 자유로워야? 그렇게 단순하지만은 않은 문제 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2023/10/26/npsp_literaturewar/</id>
-        <link href="https://newspeppermint.com/2023/10/26/npsp_literaturewar/"/>
-        <updated>2023-10-26T10:13:52.394Z</updated>
         <content type="html"><![CDATA[2023년 10월 27일]]></content>
     </entry>
 </feed>
