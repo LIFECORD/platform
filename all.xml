@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-04T22:13:21.920Z</updated>
+    <updated>2024-04-04T23:15:01.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] 부자들에게 더욱 더 보장된 ‘표현의 자유’는 괜찮을까 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2024/04/04/npsp_wealthpower/</id>
+        <link href="https://newspeppermint.com/2024/04/04/npsp_wealthpower/"/>
+        <updated>2024-04-04T23:13:24.595Z</updated>
+        <content type="html"><![CDATA[2024년 4월 5일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환율도 제각각, 음식값도 매일 달라지는 ‘메시의 나라’, “다시 위대”해질 수 있을까 (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2024/04/03/npsp_javiermilei/</id>
@@ -80,12 +87,5 @@
         <link href="https://newspeppermint.com/2024/03/13/npsp_agingsociety/"/>
         <updated>2024-03-13T14:12:11.876Z</updated>
         <content type="html"><![CDATA[2024년 3월 14일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘트럼프 대세론’ 굳혀줄 부통령 후보는 누구일까? (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2024/03/12/npsp_trumpveep/</id>
-        <link href="https://newspeppermint.com/2024/03/12/npsp_trumpveep/"/>
-        <updated>2024-03-12T23:13:55.360Z</updated>
-        <content type="html"><![CDATA[2024년 3월 13일]]></content>
     </entry>
 </feed>
