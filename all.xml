@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-28T22:15:53.978Z</updated>
+    <updated>2024-08-28T23:17:36.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “수입품에 10% 일괄 관세를” 트럼프의 이토록 허술한 공약이 먹히는 이유 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2024/08/28/npsp_trumptariffs/</id>
+        <link href="https://newspeppermint.com/2024/08/28/npsp_trumptariffs/"/>
+        <updated>2024-08-28T23:16:01.949Z</updated>
+        <content type="html"><![CDATA[2024년 8월 29일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 최초의 여성 대통령이 탄생한다면, 이런 ‘최초들’도 함께 겪게 될 것 (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2024/08/27/npsp_madamepresident/</id>
@@ -80,12 +87,5 @@
         <link href="https://newspeppermint.com/2024/08/13/npsp_harristrump/"/>
         <updated>2024-08-13T20:15:27.395Z</updated>
         <content type="html"><![CDATA[2024년 8월 14일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뉴페@스프] ‘인구소멸’ 한국을 위해 할 수 있는 일 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2024/08/06/npsp_aging/</id>
-        <link href="https://newspeppermint.com/2024/08/06/npsp_aging/"/>
-        <updated>2024-08-06T23:15:05.357Z</updated>
-        <content type="html"><![CDATA[2024년 8월 7일]]></content>
     </entry>
 </feed>
