@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/platform/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-30T22:17:09.163Z</updated>
+    <updated>2024-10-30T23:17:28.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[뉴페@스프] “‘진짜 노동자’의 절망, 내가 누구보다 잘 안다” 미국 대선의 진짜 승부처는 여기 (뉴스페퍼민트)]]></title>
+        <id>https://newspeppermint.com/2024/10/30/npsp_laborfriendly/</id>
+        <link href="https://newspeppermint.com/2024/10/30/npsp_laborfriendly/"/>
+        <updated>2024-10-30T23:15:58.379Z</updated>
+        <content type="html"><![CDATA[2024년 10월 31일]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이번 대선은 50:50? “트럼프도, 해리스도 아닌 뜻밖의 변수는…” (뉴스페퍼민트)]]></title>
         <id>https://newspeppermint.com/2024/10/28/npsp_electionsilvergut/</id>
@@ -80,12 +87,5 @@
         <link href="https://newspeppermint.com/2024/10/08/npsp_usimmigrationelection/"/>
         <updated>2024-10-08T23:16:27.148Z</updated>
         <content type="html"><![CDATA[2024년 10월 9일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젊은 남성들의 박탈감을 파고들어라? 더 확실한 요소 있는데도 성별 격차 주목받는 이유 (뉴스페퍼민트)]]></title>
-        <id>https://newspeppermint.com/2024/10/07/npsp_genzgenderpolitics/</id>
-        <link href="https://newspeppermint.com/2024/10/07/npsp_genzgenderpolitics/"/>
-        <updated>2024-10-08T02:52:20.028Z</updated>
-        <content type="html"><![CDATA[2024년 10월 8일]]></content>
     </entry>
 </feed>
